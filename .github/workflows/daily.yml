@@ -2,8 +2,8 @@ name: Daily EP Feed Update
 
 on:
   schedule:
-    # Runs at 06:00 UTC daily (9am Israel time, midnight Pacific)
-    - cron: "0 6 * * *"
+    # Runs at 02:00 UTC daily (5am Israel time, midnight Pacific)
+    - cron: "0 2 * * *"
   workflow_dispatch:  # allows manual trigger from GitHub UI
 
 permissions:
