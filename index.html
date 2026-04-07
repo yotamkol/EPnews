@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>EP Feed</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
+  <style>
+    :root {
+      --bg:       #080c0e;
+      --surface:  #0d1317;
+      --border:   #1a2228;
+      --text:     #d4dde3;
+      --muted:    #4a5a63;
+      --accent:   #00d4aa;
+      --mono:     'IBM Plex Mono', monospace;
+      --sans:     'DM Sans', sans-serif;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--sans);
+      font-size: 14px;
+      line-height: 1.5;
+      min-height: 100vh;
+    }
+
+    /* ── header ── */
+    header {
+      border-bottom: 1px solid var(--border);
+      padding: 20px 32px;
+      display: flex;
+      align-items: baseline;
+      gap: 20px;
+      position: sticky;
+      top: 0;
+      background: var(--bg);
+      z-index: 10;
+    }
+
+    .logo {
+      font-family: var(--mono);
+      font-size: 13px;
+      font-weight: 500;
+      letter-spacing: 0.15em;
+      color: var(--accent);
+      text-transform: uppercase;
+    }
+
+    .logo-sub {
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--muted);
+      letter-spacing: 0.08em;
+    }
+
+    .header-right {
+      margin-left: auto;
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--muted);
+      text-align: right;
+      line-height: 1.7;
+    }
+
+    .count { color: var(--accent); }
+
+    /* ── ecg line decoration ── */
+    .ecg-bar {
+      height: 2px;
+      background: linear-gradient(90deg,
+        var(--bg) 0%,
+        var(--accent) 20%, var(--accent) 22%,
+        var(--bg) 30%,
+        var(--accent) 35%, var(--accent) 38%,
+        var(--bg) 40%,
+        var(--bg) 100%);
+      opacity: 0.3;
+    }
+
+    /* ── filters ── */
+    .filters {
+      padding: 16px 32px;
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      border-bottom: 1px solid var(--border);
+      background: var(--surface);
+    }
+
+    .filter-btn {
+      font-family: var(--mono);
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: 0.08em;
+      padding: 5px 12px;
+      border-radius: 3px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--muted);
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .filter-btn:hover {
+      color: var(--text);
+      border-color: var(--accent);
+    }
+
+    .filter-btn.active {
+      background: var(--accent);
+      color: var(--bg);
+      border-color: var(--accent);
+    }
+
+    /* ── paper rows ── */
+    .feed {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 0 32px 64px;
+    }
+
+    .paper {
+      display: grid;
+      grid-template-columns: 140px 1fr auto;
+      align-items: baseline;
+      gap: 12px;
+      padding: 13px 0;
+      border-bottom: 1px solid var(--border);
+      transition: background 0.1s;
+    }
+
+    .paper:hover {
+      background: var(--surface);
+      margin: 0 -32px;
+      padding: 13px 32px;
+    }
+
+    .paper.hidden { display: none; }
+
+    .paper-tags {
+      display: flex;
+      gap: 4px;
+      flex-wrap: wrap;
+      flex-shrink: 0;
+    }
+
+    .tag {
+      font-family: var(--mono);
+      font-size: 10px;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      padding: 2px 6px;
+      border-radius: 2px;
+      border: 1px solid;
+      white-space: nowrap;
+    }
+
+    .paper-title {
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 400;
+      font-size: 13.5px;
+      line-height: 1.45;
+      transition: color 0.1s;
+    }
+
+    .paper-title:hover {
+      color: var(--accent);
+    }
+
+    .paper-meta {
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--muted);
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .empty {
+      padding: 64px 0;
+      text-align: center;
+      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--muted);
+      letter-spacing: 0.1em;
+    }
+
+    /* ── responsive ── */
+    @media (max-width: 640px) {
+      header { padding: 16px 20px; flex-wrap: wrap; gap: 8px; }
+      .filters { padding: 12px 20px; }
+      .feed { padding: 0 20px 40px; }
+      .paper { grid-template-columns: 1fr; gap: 4px; }
+      .paper:hover { margin: 0 -20px; padding: 13px 20px; }
+      .paper-meta { font-size: 10px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div>
+    <div class="logo">EP Feed</div>
+    <div class="logo-sub">Cardiac Electrophysiology</div>
+  </div>
+  <div class="header-right">
+    <div><span class="count">0</span> papers</div>
+    <div>updated Apr 07, 2026 at 12:45 UTC</div>
+  </div>
+</header>
+
+<div class="ecg-bar"></div>
+
+<div class="filters">
+  <button class="filter-btn active" onclick="filter('all')">All</button><button class="filter-btn" onclick="filter('afib')" style="--accent:#2563eb">AFib</button><button class="filter-btn" onclick="filter('devices')" style="--accent:#0891b2">Devices</button><button class="filter-btn" onclick="filter('genetics')" style="--accent:#059669">Genetics</button><button class="filter-btn" onclick="filter('imaging')" style="--accent:#d97706">Imaging</button><button class="filter-btn" onclick="filter('other')" style="--accent:#4b5563">Other</button><button class="filter-btn" onclick="filter('scd')" style="--accent:#7c3aed">SCD</button><button class="filter-btn" onclick="filter('vt')" style="--accent:#dc2626">VT</button>
+</div>
+
+<div class="feed">
+  <div class="empty">No new papers today.</div>
+</div>
+
+<script>
+  function filter(tag) {
+    document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+    event.target.classList.add('active');
+    document.querySelectorAll('.paper').forEach(p => {
+      if (tag === 'all') {
+        p.classList.remove('hidden');
+      } else {
+        p.classList.toggle('hidden', !p.classList.contains('tag-' + tag));
+      }
+    });
+  }
+</script>
+
+</body>
+</html>
