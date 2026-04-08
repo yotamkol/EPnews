@@ -634,7 +634,7 @@ def render_html(papers: list[dict]) -> str:
       border-radius: 4px;
     }}
 
-    .paper.hidden {{ display: none; }}
+    .paper.hidden, .paper.search-hidden {{ display: none; }}
 
     /* unread state */
     .paper.unread .paper-title {{ font-weight: 500; color: #eaf0f9; }}
@@ -717,6 +717,30 @@ def render_html(papers: list[dict]) -> str:
     }}
     .read-all-btn:hover {{ color: var(--text); border-color: var(--muted); }}
 
+    /* ── search ── */
+    .search-bar {{
+      padding: 12px 32px;
+      background: var(--bg);
+      border-bottom: 1px solid var(--border);
+    }}
+
+    .search-input {{
+      width: 100%;
+      max-width: 480px;
+      padding: 8px 12px;
+      font-family: var(--sans);
+      font-size: 14px;
+      color: var(--text);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 5px;
+      outline: none;
+      transition: border-color 0.15s;
+    }}
+
+    .search-input::placeholder {{ color: var(--muted); }}
+    .search-input:focus {{ border-color: var(--accent); }}
+
     .empty {{
       padding: 64px 0;
       text-align: center;
@@ -726,14 +750,28 @@ def render_html(papers: list[dict]) -> str:
       letter-spacing: 0.1em;
     }}
 
+    /* ── footer ── */
+    footer {{
+      border-top: 1px solid var(--border);
+      padding: 24px 32px;
+      text-align: center;
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--muted);
+      letter-spacing: 0.04em;
+    }}
+
     /* ── responsive ── */
     @media (max-width: 640px) {{
       header {{ padding: 16px 20px; flex-wrap: wrap; gap: 8px; }}
       .filters {{ padding: 12px 20px; }}
+      .search-bar {{ padding: 12px 20px; }}
+      .search-input {{ max-width: 100%; }}
       .feed {{ padding: 0 20px 48px; }}
       .paper {{ grid-template-columns: 1fr; gap: 5px; }}
       .paper:hover {{ margin: 0 -20px; padding: 12px 20px; }}
       .paper-meta {{ font-size: 10px; text-align: left; }}
+      footer {{ padding: 20px; }}
     }}
   </style>
 </head>
@@ -757,9 +795,17 @@ def render_html(papers: list[dict]) -> str:
   <button class="read-all-btn" onclick="markAllRead()">mark all read</button>
 </div>
 
+<div class="search-bar">
+  <input type="text" class="search-input" placeholder="Search papers..." oninput="searchPapers(this.value)"/>
+</div>
+
 <div class="feed">
   {rows}
 </div>
+
+<footer>
+  &copy; {datetime.now().year} Yotam Kolben. All rights reserved.
+</footer>
 
 <script>
   const READ_KEY = 'ep_read_v1';
@@ -813,6 +859,19 @@ def render_html(papers: list[dict]) -> str:
         p.classList.remove('hidden');
       }} else {{
         p.classList.toggle('hidden', !p.classList.contains('tag-' + tag));
+      }}
+    }});
+  }}
+
+  function searchPapers(query) {{
+    const q = query.toLowerCase().trim();
+    document.querySelectorAll('.paper').forEach(p => {{
+      if (!q) {{
+        p.classList.remove('search-hidden');
+      }} else {{
+        const title = (p.querySelector('.paper-title')?.textContent || '').toLowerCase();
+        const meta = (p.querySelector('.paper-meta')?.textContent || '').toLowerCase();
+        p.classList.toggle('search-hidden', !title.includes(q) && !meta.includes(q));
       }}
     }});
   }}
