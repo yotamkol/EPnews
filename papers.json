@@ -1,5 +1,92 @@
 [
   {
+    "title": "Epicardial Validation of Transmural Posterior Wall Isolation During Endocardial Pulsed Field Ablation in Long-Standing Persistent Atrial Fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022435?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775668888.011976,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Distinct Mechanistic Features of Atrial Fibrillation in Hypertrophic Cardiomyopathy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022411?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775668888.011944,
+    "tags": [
+      "AFib",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "High fidelity post-myocardial infarction Ventricular Tachycardia simulation for intra-procedure ablation guidance",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022460?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775668888.011909,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Multi-Center Validation of an Artificial Intelligence-Enabled ECG Model to Predict 1-Year Risk of Atrial Fibrillation or Flutter",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022393?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775668888.011874,
+    "tags": [
+      "AFib",
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Socioeconomic deprivation and reclassification of ischemic stroke risk in patients with atrial fibrillation: A report from UK Biobank.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022484?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775668888.011834,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Estimation of atrial fibrillation burden as a function of monitoring time without atrial fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022381?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775668888.011785,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Atrial Fibrillation in Hypertrophic Cardiomyopathy: A Unique Clinical Entity Requiring Dedicated Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022459?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775668888.01163,
+    "tags": [
+      "AFib",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
     "title": "26-CCC-10386-ACC BLUE TOE SYNDROME: ANTICOAGULATION CHALLENGES AFTER SUCCESSFUL ATRIAL FIBRILLATION ABLATION",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726060250?dgcid=rss_sd_all",
     "doi": null,
@@ -5964,91 +6051,6 @@
     "date_ts": 1772323200.0,
     "tags": [
       "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Right and Left Atrial Dysfunction as Independent Cardiovascular Risk Factors: A UK Biobank Study",
-    "link": "https://doi.org/10.1161/circep.125.014412",
-    "doi": "10.1161/circep.125.014412",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Mar 01, 2026",
-    "date_ts": 1772323200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Catheter Configuration on the Mapping of Atrial Fibrillation",
-    "link": "https://doi.org/10.1161/circep.125.014061",
-    "doi": "10.1161/circep.125.014061",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Mar 01, 2026",
-    "date_ts": 1772323200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Utilization of Serum Metabolomics and Polygenic Risk Scores in a Novel Risk Stratification Tool for the Prediction of Incident Atrial Fibrillation",
-    "link": "https://doi.org/10.1161/circep.125.013858",
-    "doi": "10.1161/circep.125.013858",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Mar 01, 2026",
-    "date_ts": 1772323200.0,
-    "tags": [
-      "AFib",
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Distinct Subdivisions of the Cingulo-Insular Region and Their Role in Modulating the Cardiac Sympathetic-Parasympathetic Balance",
-    "link": "https://doi.org/10.1161/circep.125.013875",
-    "doi": "10.1161/circep.125.013875",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Mar 01, 2026",
-    "date_ts": 1772323200.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "NURSE-Led Care in Patients Undergoing Catheter Ablation for Atrial Fibrillation: The NURSECAT-AF Randomized Trial",
-    "link": "https://doi.org/10.1161/circep.125.014149",
-    "doi": "10.1161/circep.125.014149",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Mar 01, 2026",
-    "date_ts": 1772323200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intravenous Amiodarone in Preexcited Atrial Fibrillation: A Systematic Review",
-    "link": "https://doi.org/10.1161/circep.125.014529",
-    "doi": "10.1161/circep.125.014529",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Mar 01, 2026",
-    "date_ts": 1772323200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pacemaker-mediated tachycardia as a pacing maneuver for arrhythmia diagnostics",
-    "link": "https://doi.org/10.1016/j.hrcr.2025.11.023",
-    "doi": "10.1016/j.hrcr.2025.11.023",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Mar 01, 2026",
-    "date_ts": 1772323200.0,
-    "tags": [
-      "Devices"
     ],
     "hot": false
   }

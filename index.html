@@ -263,9 +263,30 @@
       cursor: pointer;
       color: var(--muted);
       transition: all 0.12s;
-      margin-left: auto;
     }
     .theme-toggle:hover { color: var(--text); border-color: var(--muted); }
+
+    /* ── scroll to top ── */
+    .scroll-top {
+      position: fixed;
+      bottom: 28px;
+      right: 28px;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: var(--accent);
+      color: var(--bg);
+      border: none;
+      font-size: 20px;
+      cursor: pointer;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+      z-index: 20;
+      transition: opacity 0.2s;
+    }
+    .scroll-top.visible { display: flex; }
 
     /* ── bookmark ── */
     .bookmark-btn {
@@ -352,12 +373,13 @@
 <header>
   <div>
     <div class="logo">EP Feed</div>
-    <div class="logo-sub">Cardiac Electrophysiology</div>
+    <div class="logo-sub">Your daily EP reading list</div>
   </div>
   <div class="header-right">
     <div><span class="count">500</span> papers</div>
-    <div>updated Apr 08, 2026 at 16:31 UTC</div>
+    <div>last updated Apr 08, 2026 at 17:21 UTC</div>
   </div>
+  <button class="theme-toggle" onclick="toggleTheme()" title="Toggle light/dark mode" id="theme-btn">&#9790;</button>
 </header>
 
 <div class="ecg-bar"></div>
@@ -377,11 +399,94 @@
     <option value="unread">Unread first</option>
     <option value="bookmarked">Bookmarked first</option>
   </select>
-  <button class="theme-toggle" onclick="toggleTheme()" title="Toggle light/dark mode" id="theme-btn">&#9790;</button>
 </div>
 
 <div class="feed">
   
+    <div class="paper tag-afib" data-id="www_sciencedirect_com_science_article_pii_S1547527126022435?dgcid=rss_sd_all" data-date="1775668888.011976" data-journal="Heart Rhythm">
+      <div class="paper-tags"><span class="tag" style="background:#2563eb22;color:#2563eb;border-color:#2563eb33">AFib</span></div>
+      <div class="paper-title-wrap">
+        <span class="unread-dot" title="Unread"></span>
+        <span class="bookmark-btn" title="Bookmark" onclick="toggleBookmark('www_sciencedirect_com_science_article_pii_S1547527126022435?dgcid=rss_sd_all')">&#9734;</span>
+        
+        <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S1547527126022435?dgcid=rss_sd_all" target="_blank" rel="noopener"
+           onclick="markRead('www_sciencedirect_com_science_article_pii_S1547527126022435?dgcid=rss_sd_all')">Epicardial Validation of Transmural Posterior Wall Isolation During Endocardial Pulsed Field Ablation in Long-Standing Persistent Atrial Fibrillation</a>
+      </div>
+      <div class="paper-meta">Heart Rhythm · Apr 08, 2026</div>
+    </div>
+
+    <div class="paper tag-afib tag-genetics" data-id="www_sciencedirect_com_science_article_pii_S1547527126022411?dgcid=rss_sd_all" data-date="1775668888.011944" data-journal="Heart Rhythm">
+      <div class="paper-tags"><span class="tag" style="background:#2563eb22;color:#2563eb;border-color:#2563eb33">AFib</span><span class="tag" style="background:#05966922;color:#059669;border-color:#05966933">Genetics</span></div>
+      <div class="paper-title-wrap">
+        <span class="unread-dot" title="Unread"></span>
+        <span class="bookmark-btn" title="Bookmark" onclick="toggleBookmark('www_sciencedirect_com_science_article_pii_S1547527126022411?dgcid=rss_sd_all')">&#9734;</span>
+        
+        <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S1547527126022411?dgcid=rss_sd_all" target="_blank" rel="noopener"
+           onclick="markRead('www_sciencedirect_com_science_article_pii_S1547527126022411?dgcid=rss_sd_all')">Distinct Mechanistic Features of Atrial Fibrillation in Hypertrophic Cardiomyopathy</a>
+      </div>
+      <div class="paper-meta">Heart Rhythm · Apr 08, 2026</div>
+    </div>
+
+    <div class="paper tag-vt" data-id="www_sciencedirect_com_science_article_pii_S1547527126022460?dgcid=rss_sd_all" data-date="1775668888.011909" data-journal="Heart Rhythm">
+      <div class="paper-tags"><span class="tag" style="background:#dc262622;color:#dc2626;border-color:#dc262633">VT</span></div>
+      <div class="paper-title-wrap">
+        <span class="unread-dot" title="Unread"></span>
+        <span class="bookmark-btn" title="Bookmark" onclick="toggleBookmark('www_sciencedirect_com_science_article_pii_S1547527126022460?dgcid=rss_sd_all')">&#9734;</span>
+        
+        <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S1547527126022460?dgcid=rss_sd_all" target="_blank" rel="noopener"
+           onclick="markRead('www_sciencedirect_com_science_article_pii_S1547527126022460?dgcid=rss_sd_all')">High fidelity post-myocardial infarction Ventricular Tachycardia simulation for intra-procedure ablation guidance</a>
+      </div>
+      <div class="paper-meta">Heart Rhythm · Apr 08, 2026</div>
+    </div>
+
+    <div class="paper tag-afib tag-ai" data-id="www_sciencedirect_com_science_article_pii_S1547527126022393?dgcid=rss_sd_all" data-date="1775668888.011874" data-journal="Heart Rhythm">
+      <div class="paper-tags"><span class="tag" style="background:#2563eb22;color:#2563eb;border-color:#2563eb33">AFib</span><span class="tag" style="background:#0d948822;color:#0d9488;border-color:#0d948833">AI</span></div>
+      <div class="paper-title-wrap">
+        <span class="unread-dot" title="Unread"></span>
+        <span class="bookmark-btn" title="Bookmark" onclick="toggleBookmark('www_sciencedirect_com_science_article_pii_S1547527126022393?dgcid=rss_sd_all')">&#9734;</span>
+        
+        <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S1547527126022393?dgcid=rss_sd_all" target="_blank" rel="noopener"
+           onclick="markRead('www_sciencedirect_com_science_article_pii_S1547527126022393?dgcid=rss_sd_all')">Multi-Center Validation of an Artificial Intelligence-Enabled ECG Model to Predict 1-Year Risk of Atrial Fibrillation or Flutter</a>
+      </div>
+      <div class="paper-meta">Heart Rhythm · Apr 08, 2026</div>
+    </div>
+
+    <div class="paper tag-afib" data-id="www_sciencedirect_com_science_article_pii_S1547527126022484?dgcid=rss_sd_all" data-date="1775668888.011834" data-journal="Heart Rhythm">
+      <div class="paper-tags"><span class="tag" style="background:#2563eb22;color:#2563eb;border-color:#2563eb33">AFib</span></div>
+      <div class="paper-title-wrap">
+        <span class="unread-dot" title="Unread"></span>
+        <span class="bookmark-btn" title="Bookmark" onclick="toggleBookmark('www_sciencedirect_com_science_article_pii_S1547527126022484?dgcid=rss_sd_all')">&#9734;</span>
+        
+        <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S1547527126022484?dgcid=rss_sd_all" target="_blank" rel="noopener"
+           onclick="markRead('www_sciencedirect_com_science_article_pii_S1547527126022484?dgcid=rss_sd_all')">Socioeconomic deprivation and reclassification of ischemic stroke risk in patients with atrial fibrillation: A report from UK Biobank.</a>
+      </div>
+      <div class="paper-meta">Heart Rhythm · Apr 08, 2026</div>
+    </div>
+
+    <div class="paper tag-afib" data-id="www_sciencedirect_com_science_article_pii_S1547527126022381?dgcid=rss_sd_all" data-date="1775668888.011785" data-journal="Heart Rhythm">
+      <div class="paper-tags"><span class="tag" style="background:#2563eb22;color:#2563eb;border-color:#2563eb33">AFib</span></div>
+      <div class="paper-title-wrap">
+        <span class="unread-dot" title="Unread"></span>
+        <span class="bookmark-btn" title="Bookmark" onclick="toggleBookmark('www_sciencedirect_com_science_article_pii_S1547527126022381?dgcid=rss_sd_all')">&#9734;</span>
+        
+        <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S1547527126022381?dgcid=rss_sd_all" target="_blank" rel="noopener"
+           onclick="markRead('www_sciencedirect_com_science_article_pii_S1547527126022381?dgcid=rss_sd_all')">Estimation of atrial fibrillation burden as a function of monitoring time without atrial fibrillation</a>
+      </div>
+      <div class="paper-meta">Heart Rhythm · Apr 08, 2026</div>
+    </div>
+
+    <div class="paper tag-afib tag-genetics" data-id="www_sciencedirect_com_science_article_pii_S1547527126022459?dgcid=rss_sd_all" data-date="1775668888.01163" data-journal="Heart Rhythm">
+      <div class="paper-tags"><span class="tag" style="background:#2563eb22;color:#2563eb;border-color:#2563eb33">AFib</span><span class="tag" style="background:#05966922;color:#059669;border-color:#05966933">Genetics</span></div>
+      <div class="paper-title-wrap">
+        <span class="unread-dot" title="Unread"></span>
+        <span class="bookmark-btn" title="Bookmark" onclick="toggleBookmark('www_sciencedirect_com_science_article_pii_S1547527126022459?dgcid=rss_sd_all')">&#9734;</span>
+        
+        <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S1547527126022459?dgcid=rss_sd_all" target="_blank" rel="noopener"
+           onclick="markRead('www_sciencedirect_com_science_article_pii_S1547527126022459?dgcid=rss_sd_all')">Atrial Fibrillation in Hypertrophic Cardiomyopathy: A Unique Clinical Entity Requiring Dedicated Study</a>
+      </div>
+      <div class="paper-meta">Heart Rhythm · Apr 08, 2026</div>
+    </div>
+
     <div class="paper tag-afib" data-id="www_sciencedirect_com_science_article_pii_S0735109726060250?dgcid=rss_sd_all" data-date="1775665714.764898" data-journal="JACC">
       <div class="paper-tags"><span class="tag" style="background:#2563eb22;color:#2563eb;border-color:#2563eb33">AFib</span></div>
       <div class="paper-title-wrap">
@@ -6309,95 +6414,13 @@
       </div>
       <div class="paper-meta">Circ: Arrhythmia & EP · Mar 01, 2026</div>
     </div>
-
-    <div class="paper tag-afib" data-id="doi_org_10_1161_circep_125_014412" data-date="1772323200.0" data-journal="Circ: Arrhythmia & EP">
-      <div class="paper-tags"><span class="tag" style="background:#2563eb22;color:#2563eb;border-color:#2563eb33">AFib</span></div>
-      <div class="paper-title-wrap">
-        <span class="unread-dot" title="Unread"></span>
-        <span class="bookmark-btn" title="Bookmark" onclick="toggleBookmark('doi_org_10_1161_circep_125_014412')">&#9734;</span>
-        
-        <a class="paper-title" href="https://doi.org/10.1161/circep.125.014412" target="_blank" rel="noopener"
-           onclick="markRead('doi_org_10_1161_circep_125_014412')">Right and Left Atrial Dysfunction as Independent Cardiovascular Risk Factors: A UK Biobank Study</a>
-      </div>
-      <div class="paper-meta">Circ: Arrhythmia & EP · Mar 01, 2026</div>
-    </div>
-
-    <div class="paper tag-afib" data-id="doi_org_10_1161_circep_125_014061" data-date="1772323200.0" data-journal="Circ: Arrhythmia & EP">
-      <div class="paper-tags"><span class="tag" style="background:#2563eb22;color:#2563eb;border-color:#2563eb33">AFib</span></div>
-      <div class="paper-title-wrap">
-        <span class="unread-dot" title="Unread"></span>
-        <span class="bookmark-btn" title="Bookmark" onclick="toggleBookmark('doi_org_10_1161_circep_125_014061')">&#9734;</span>
-        
-        <a class="paper-title" href="https://doi.org/10.1161/circep.125.014061" target="_blank" rel="noopener"
-           onclick="markRead('doi_org_10_1161_circep_125_014061')">Impact of Catheter Configuration on the Mapping of Atrial Fibrillation</a>
-      </div>
-      <div class="paper-meta">Circ: Arrhythmia & EP · Mar 01, 2026</div>
-    </div>
-
-    <div class="paper tag-afib tag-scd" data-id="doi_org_10_1161_circep_125_013858" data-date="1772323200.0" data-journal="Circ: Arrhythmia & EP">
-      <div class="paper-tags"><span class="tag" style="background:#2563eb22;color:#2563eb;border-color:#2563eb33">AFib</span><span class="tag" style="background:#7c3aed22;color:#7c3aed;border-color:#7c3aed33">SCD</span></div>
-      <div class="paper-title-wrap">
-        <span class="unread-dot" title="Unread"></span>
-        <span class="bookmark-btn" title="Bookmark" onclick="toggleBookmark('doi_org_10_1161_circep_125_013858')">&#9734;</span>
-        
-        <a class="paper-title" href="https://doi.org/10.1161/circep.125.013858" target="_blank" rel="noopener"
-           onclick="markRead('doi_org_10_1161_circep_125_013858')">Utilization of Serum Metabolomics and Polygenic Risk Scores in a Novel Risk Stratification Tool for the Prediction of Incident Atrial Fibrillation</a>
-      </div>
-      <div class="paper-meta">Circ: Arrhythmia & EP · Mar 01, 2026</div>
-    </div>
-
-    <div class="paper tag-other" data-id="doi_org_10_1161_circep_125_013875" data-date="1772323200.0" data-journal="Circ: Arrhythmia & EP">
-      <div class="paper-tags"><span class="tag" style="background:#4b556322;color:#4b5563;border-color:#4b556333">Other</span></div>
-      <div class="paper-title-wrap">
-        <span class="unread-dot" title="Unread"></span>
-        <span class="bookmark-btn" title="Bookmark" onclick="toggleBookmark('doi_org_10_1161_circep_125_013875')">&#9734;</span>
-        
-        <a class="paper-title" href="https://doi.org/10.1161/circep.125.013875" target="_blank" rel="noopener"
-           onclick="markRead('doi_org_10_1161_circep_125_013875')">Distinct Subdivisions of the Cingulo-Insular Region and Their Role in Modulating the Cardiac Sympathetic-Parasympathetic Balance</a>
-      </div>
-      <div class="paper-meta">Circ: Arrhythmia & EP · Mar 01, 2026</div>
-    </div>
-
-    <div class="paper tag-afib" data-id="doi_org_10_1161_circep_125_014149" data-date="1772323200.0" data-journal="Circ: Arrhythmia & EP">
-      <div class="paper-tags"><span class="tag" style="background:#2563eb22;color:#2563eb;border-color:#2563eb33">AFib</span></div>
-      <div class="paper-title-wrap">
-        <span class="unread-dot" title="Unread"></span>
-        <span class="bookmark-btn" title="Bookmark" onclick="toggleBookmark('doi_org_10_1161_circep_125_014149')">&#9734;</span>
-        
-        <a class="paper-title" href="https://doi.org/10.1161/circep.125.014149" target="_blank" rel="noopener"
-           onclick="markRead('doi_org_10_1161_circep_125_014149')">NURSE-Led Care in Patients Undergoing Catheter Ablation for Atrial Fibrillation: The NURSECAT-AF Randomized Trial</a>
-      </div>
-      <div class="paper-meta">Circ: Arrhythmia & EP · Mar 01, 2026</div>
-    </div>
-
-    <div class="paper tag-afib" data-id="doi_org_10_1161_circep_125_014529" data-date="1772323200.0" data-journal="Circ: Arrhythmia & EP">
-      <div class="paper-tags"><span class="tag" style="background:#2563eb22;color:#2563eb;border-color:#2563eb33">AFib</span></div>
-      <div class="paper-title-wrap">
-        <span class="unread-dot" title="Unread"></span>
-        <span class="bookmark-btn" title="Bookmark" onclick="toggleBookmark('doi_org_10_1161_circep_125_014529')">&#9734;</span>
-        
-        <a class="paper-title" href="https://doi.org/10.1161/circep.125.014529" target="_blank" rel="noopener"
-           onclick="markRead('doi_org_10_1161_circep_125_014529')">Intravenous Amiodarone in Preexcited Atrial Fibrillation: A Systematic Review</a>
-      </div>
-      <div class="paper-meta">Circ: Arrhythmia & EP · Mar 01, 2026</div>
-    </div>
-
-    <div class="paper tag-devices" data-id="doi_org_10_1016_j_hrcr_2025_11_023" data-date="1772323200.0" data-journal="Heart Rhythm Case Rep">
-      <div class="paper-tags"><span class="tag" style="background:#0891b222;color:#0891b2;border-color:#0891b233">Devices</span></div>
-      <div class="paper-title-wrap">
-        <span class="unread-dot" title="Unread"></span>
-        <span class="bookmark-btn" title="Bookmark" onclick="toggleBookmark('doi_org_10_1016_j_hrcr_2025_11_023')">&#9734;</span>
-        
-        <a class="paper-title" href="https://doi.org/10.1016/j.hrcr.2025.11.023" target="_blank" rel="noopener"
-           onclick="markRead('doi_org_10_1016_j_hrcr_2025_11_023')">Pacemaker-mediated tachycardia as a pacing maneuver for arrhythmia diagnostics</a>
-      </div>
-      <div class="paper-meta">Heart Rhythm Case Rep · Mar 01, 2026</div>
-    </div>
 </div>
 
 <footer>
   &copy; 2026 Yotam Kolben. All rights reserved.
 </footer>
+
+<button class="scroll-top" id="scroll-top-btn" onclick="window.scrollTo({top:0,behavior:'smooth'})">&#8593;</button>
 
 <script>
   const READ_KEY = 'ep_read_v1';
@@ -6551,6 +6574,12 @@
     }
     localStorage.setItem(VISIT_KEY, String(Date.now() / 1000));
   }
+
+  // ── Scroll to top ──
+  window.addEventListener('scroll', () => {
+    const btn = document.getElementById('scroll-top-btn');
+    btn.classList.toggle('visible', window.scrollY > 400);
+  });
 
   // ── Init ──
   document.addEventListener('DOMContentLoaded', () => {
