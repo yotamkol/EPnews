@@ -1,5 +1,157 @@
 [
   {
+    "title": "26-CCC-16127-ACC A CASE OF TRICUSPID AND SUBPULMONIC VALVE STENOSIS IN THE SETTING OF ABANDONED PACEMAKER LEADS PRESENTING AS SVC SYNDROME",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726051132?dgcid=rss_sd_all",
+    "journal": "JACC",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775635377.991097,
+    "tags": [
+      "Devices"
+    ]
+  },
+  {
+    "title": "26-CCC-18567-ACC MITRAL ANNULAR DISJUNCTION IN A PATIENT WITH RECURRENT VENTRICULAR FIBRILLATION AND ASSOCIATED SINUS VENOSUS ATRIAL SEPTAL DEFECT",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726051521?dgcid=rss_sd_all",
+    "journal": "JACC",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775635377.990791,
+    "tags": [
+      "VT"
+    ]
+  },
+  {
+    "title": "26-YIA-7781-ACC MAPPING DE NOVO WAVEFRONTS AND THEIR ORIGINS IN PERSISTENT ATRIAL FIBRILLATION",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726052022?dgcid=rss_sd_all",
+    "journal": "JACC",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775635377.990432,
+    "tags": [
+      "AFib"
+    ]
+  },
+  {
+    "title": "26-YIA-7947-ACC AI-ENHANCED ECG ANALYSIS ENABLED DISCOVERY OF MECHANISTIC PATHWAYS FOR DRUG-INDUCED LONG QT SYNDROME",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726052125?dgcid=rss_sd_all",
+    "journal": "JACC",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775635377.990312,
+    "tags": [
+      "Genetics"
+    ]
+  },
+  {
+    "title": "Left Atrial Appendage Closure or Anticoagulation for Atrial Fibrillation",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2517213?af=R&rss=currentIssue",
+    "journal": "NEJM",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775635377.456561,
+    "tags": [
+      "AFib"
+    ]
+  },
+  {
+    "title": "Digital Twin\u2013Guided Ablation for Ventricular Tachycardia",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2517822?af=R&rss=currentIssue",
+    "journal": "NEJM",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775635377.456368,
+    "tags": [
+      "VT",
+      "AI"
+    ]
+  },
+  {
+    "title": "Left Atrial Appendage Closure or Medical Therapy in Atrial Fibrillation",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2513310?af=R&rss=currentIssue",
+    "journal": "NEJM",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775635377.456283,
+    "tags": [
+      "AFib"
+    ]
+  },
+  {
+    "title": "<i>DMPK</i>\n                    3\u2032 untranslated repeat expansions in unexplained sudden cardiac death in the young",
+    "link": "https://doi.org/10.1093/eurheartj/ehag247",
+    "journal": "European Heart Journal",
+    "date": "Apr 03, 2026",
+    "date_ts": 1775174400.0,
+    "tags": [
+      "SCD"
+    ]
+  },
+  {
+    "title": "Cutting-edge studies on atrial fibrillation, left bundle branch area pacing, and subcutaneous defibrillators",
+    "link": "https://doi.org/10.1093/eurheartj/ehag223",
+    "journal": "European Heart Journal",
+    "date": "Apr 01, 2026",
+    "date_ts": 1775001600.0,
+    "tags": [
+      "AFib"
+    ]
+  },
+  {
+    "title": "Stroke and systemic embolism following atrial fibrillation ablation: the EMBOL-AF Global Registry",
+    "link": "https://doi.org/10.1093/eurheartj/ehag217",
+    "journal": "European Heart Journal",
+    "date": "Mar 31, 2026",
+    "date_ts": 1774915200.0,
+    "tags": [
+      "AFib"
+    ]
+  },
+  {
+    "title": "Atrial fibrillation density as a biomarker for ischaemic stroke risk prediction",
+    "link": "https://doi.org/10.1093/eurheartj/ehag203",
+    "journal": "European Heart Journal",
+    "date": "Mar 28, 2026",
+    "date_ts": 1774656000.0,
+    "tags": [
+      "AFib"
+    ]
+  },
+  {
+    "title": "Early-onset atrial fibrillation without structural heart disease: lifestyle and hereditary risk factors",
+    "link": "https://doi.org/10.1093/eurheartj/ehag205",
+    "journal": "European Heart Journal",
+    "date": "Mar 28, 2026",
+    "date_ts": 1774656000.0,
+    "tags": [
+      "AFib"
+    ]
+  },
+  {
+    "title": "Biatrial macro-reentrant atrial tachycardia after surgical atrial septal defect closure and maze procedure identified by activation and coherent mapping",
+    "link": "https://doi.org/10.1093/eurheartj/ehag232",
+    "journal": "European Heart Journal",
+    "date": "Mar 28, 2026",
+    "date_ts": 1774656000.0,
+    "tags": [
+      "AFib",
+      "SVT"
+    ]
+  },
+  {
+    "title": "Too fast, too short: mini-hearts, genome editing, and the new biology of sudden cardiac death",
+    "link": "https://doi.org/10.1093/eurheartj/ehag196",
+    "journal": "European Heart Journal",
+    "date": "Mar 25, 2026",
+    "date_ts": 1774396800.0,
+    "tags": [
+      "SCD"
+    ]
+  },
+  {
+    "title": "Inflammatory pathways in atrial fibrillation: mechanisms and novel therapeutic targets",
+    "link": "https://doi.org/10.1093/eurheartj/ehag131",
+    "journal": "European Heart Journal",
+    "date": "Mar 25, 2026",
+    "date_ts": 1774396800.0,
+    "tags": [
+      "AFib"
+    ]
+  },
+  {
     "title": "High Incidence of Pacing-Induced Cardiomyopathy in Patients with Cardiac Sarcoidosis",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022447?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
@@ -4875,156 +5027,6 @@
     "date_ts": 1769904000.0,
     "tags": [
       "SCD"
-    ]
-  },
-  {
-    "title": "Calcium release channel deficiency syndrome in patients diagnosed with idiopathic ventricular fibrillation and decedents classified as sudden unexplained death in the young",
-    "link": "https://doi.org/10.1093/europace/euaf303",
-    "journal": "EP Europace",
-    "date": "Feb 01, 2026",
-    "date_ts": 1769904000.0,
-    "tags": [
-      "VT"
-    ]
-  },
-  {
-    "title": "Feasibility, procedural efficiency, and early imaging outcomes of concomitant pulsed field ablation and left atrial appendage closure: a prospective single-centre study",
-    "link": "https://doi.org/10.1093/europace/euag017",
-    "journal": "EP Europace",
-    "date": "Feb 01, 2026",
-    "date_ts": 1769904000.0,
-    "tags": [
-      "AFib"
-    ]
-  },
-  {
-    "title": "Shortest pulmonary vein atrial fibrillation cycle length identifies pulmonary vein isolation responders beyond clinical atrial fibrillation pattern: the FARS-AF II study",
-    "link": "https://doi.org/10.1093/europace/euag033",
-    "journal": "EP Europace",
-    "date": "Feb 01, 2026",
-    "date_ts": 1769904000.0,
-    "tags": [
-      "AFib"
-    ]
-  },
-  {
-    "title": "Left bundle branch area pacing vs. right ventricular pacing in post-transcatheter aortic valve implantation patients: a retrospective propensity-matched analysis",
-    "link": "https://doi.org/10.1093/europace/euaf322",
-    "journal": "EP Europace",
-    "date": "Feb 01, 2026",
-    "date_ts": 1769904000.0,
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "Upgrading expandable leadless pacemakers from single- to dual-chamber",
-    "link": "https://doi.org/10.1093/europace/euag023",
-    "journal": "EP Europace",
-    "date": "Feb 01, 2026",
-    "date_ts": 1769904000.0,
-    "tags": [
-      "Devices"
-    ]
-  },
-  {
-    "title": "Semaglutide as adjunctive therapy to catheter ablation in obesity-related paroxysmal atrial fibrillation",
-    "link": "https://doi.org/10.1093/europace/euag018",
-    "journal": "EP Europace",
-    "date": "Feb 01, 2026",
-    "date_ts": 1769904000.0,
-    "tags": [
-      "AFib"
-    ]
-  },
-  {
-    "title": "Three-year clinical outcomes of left atrial appendage occlusion with or without ablation: insight from the RECORD study",
-    "link": "https://doi.org/10.1093/europace/euag022",
-    "journal": "EP Europace",
-    "date": "Feb 01, 2026",
-    "date_ts": 1769904000.0,
-    "tags": [
-      "AFib"
-    ]
-  },
-  {
-    "title": "Very-high-power, ultra-short-duration radiofrequency for superior vena cava isolation: translational validation in porcine and clinical cohorts",
-    "link": "https://doi.org/10.1093/europace/euag026",
-    "journal": "EP Europace",
-    "date": "Feb 01, 2026",
-    "date_ts": 1769904000.0,
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "Physical activity and risk of adverse events in atrial fibrillation: evidence from European and Asian cohorts",
-    "link": "https://doi.org/10.1093/europace/euag032",
-    "journal": "EP Europace",
-    "date": "Feb 01, 2026",
-    "date_ts": 1769904000.0,
-    "tags": [
-      "AFib"
-    ]
-  },
-  {
-    "title": "Coronary artery spasm in cardiac arrest survivors",
-    "link": "https://doi.org/10.1093/europace/euag020",
-    "journal": "EP Europace",
-    "date": "Feb 01, 2026",
-    "date_ts": 1769904000.0,
-    "tags": [
-      "SCD"
-    ]
-  },
-  {
-    "title": "Distinct intracardiac electrogram waveforms with perforation during left bundle branch area pacing implantation",
-    "link": "https://doi.org/10.1093/europace/euag010",
-    "journal": "EP Europace",
-    "date": "Feb 01, 2026",
-    "date_ts": 1769904000.0,
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "Contemporary management of atrial fibrillation in patients with cancer\u2014the 2025 European Heart Rhythm Association survey",
-    "link": "https://doi.org/10.1093/europace/euaf325",
-    "journal": "EP Europace",
-    "date": "Feb 01, 2026",
-    "date_ts": 1769904000.0,
-    "tags": [
-      "AFib"
-    ]
-  },
-  {
-    "title": "Clinical significance of field safety notices concerning implantable pacemakers and defibrillators",
-    "link": "https://doi.org/10.1093/europace/euag031",
-    "journal": "EP Europace",
-    "date": "Feb 01, 2026",
-    "date_ts": 1769904000.0,
-    "tags": [
-      "Devices"
-    ]
-  },
-  {
-    "title": "Artificial intelligence ECG localization facilitates focused activation mapping and improves outcomes in hemodynamically unstable ventricular tachycardia",
-    "link": "https://doi.org/10.1093/europace/euag024",
-    "journal": "EP Europace",
-    "date": "Feb 01, 2026",
-    "date_ts": 1769904000.0,
-    "tags": [
-      "VT"
-    ]
-  },
-  {
-    "title": "Workflow and sedation choice with the PFA variable-loop circular catheter in real-world AF procedures: insights from the prospective multi-centre VARIPURE clinical study",
-    "link": "https://doi.org/10.1093/europace/euag025",
-    "journal": "EP Europace",
-    "date": "Feb 01, 2026",
-    "date_ts": 1769904000.0,
-    "tags": [
-      "Other"
     ]
   }
 ]
