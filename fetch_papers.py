@@ -329,11 +329,10 @@ def fetch_medrxiv_papers(seen: set) -> list[dict]:
 # ALTMETRIC (hot papers)
 # ─────────────────────────────────────────────
 
-ALTMETRIC_THRESHOLD = 5  # score above this = 🔥
+HOT_CITATION_THRESHOLD = 3  # cited-by count above this = 🔥
 
 def extract_doi(link: str) -> str | None:
     """Extract DOI from a journal article URL, handling publisher-specific formats."""
-    import re
     if not link:
         return None
 
@@ -347,61 +346,103 @@ def extract_doi(link: str) -> str | None:
         doi = link.split("doi=")[-1].split("&")[0].strip()
         return doi if doi.startswith("10.") else None
 
-    # NEJM: /doi/full/10.xxxx or /doi/abs/10.xxxx or /doi/10.xxxx
-    m = re.search(r"/doi/(?:full|abs|pdf|10\.)", link)
-    if m:
-        doi = link[m.end() - len("10."):]  if "10." in link[m.end():] else link[m.end():]
-        # grab from first 10. occurrence after /doi/
-        idx = link.find("/doi/")
-        if idx != -1:
-            after = link[idx + 5:]
-            # strip full/ abs/ pdf/ prefixes
-            after = re.sub(r"^(full|abs|pdf)/", "", after)
-            if after.startswith("10."):
-                return after.split("?")[0].rstrip("/")
-
-    # AHA journals: /doi/10.xxxx/...
+    # /doi/full/10.xxxx or /doi/abs/10.xxxx or /doi/10.xxxx
     m = re.search(r"/doi/(10\.\d{4,}/[^\s?#]+)", link)
     if m:
-        return m.group(1).rstrip("/")
-
-    # ScienceDirect: /science/article/pii/ — no DOI in URL, skip
-    # Wiley: /doi/10.xxxx/...  (caught above)
-    # CrossRef links already use doi.org
+        return m.group(1).split("?")[0].rstrip("/")
 
     return None
 
 
-def fetch_altmetric_scores(papers: list[dict]) -> list[dict]:
-    """Check Altmetric attention scores for new papers and flag hot ones.
-    Uses the free Altmetric API (no key needed, rate-limited to ~1 req/sec).
+def resolve_doi_via_crossref(title: str) -> str | None:
+    """Look up a paper's DOI via CrossRef title search. Used as fallback
+    when the DOI isn't available from the RSS feed or URL (e.g. Elsevier)."""
+    try:
+        resp = requests.get(
+            "https://api.crossref.org/works",
+            params={"query.title": title, "rows": 1, "mailto": "ep-feed@example.com"},
+            timeout=10,
+        )
+        if resp.status_code != 200:
+            return None
+        items = resp.json().get("message", {}).get("items", [])
+        if not items:
+            return None
+        candidate = items[0]
+        candidate_title = (candidate.get("title", [""])[0] or "").lower().strip()
+        query_title = title.lower().strip()
+        # Verify first 60 chars match to avoid false positives
+        if candidate_title[:60] != query_title[:60]:
+            return None
+        doi = candidate.get("DOI", "").strip()
+        return doi if doi else None
+    except Exception:
+        return None
+
+
+def fetch_hot_scores(papers: list[dict]) -> list[dict]:
+    """Check citation counts via OpenAlex (free, no API key needed).
+    Falls back to CrossRef title lookup for papers without a DOI.
     """
     import time
     found_doi = 0
+    crossref_resolved = 0
+
+    # Step 1: Resolve missing DOIs via CrossRef
     for paper in papers:
-        # Use stored DOI first (most reliable), fall back to URL extraction
         doi = paper.get("doi") or extract_doi(paper.get("link", ""))
         if not doi:
-            paper["hot"] = False
-            continue
-        found_doi += 1
+            doi = resolve_doi_via_crossref(paper["title"])
+            if doi:
+                paper["doi"] = doi
+                crossref_resolved += 1
+                time.sleep(0.3)
+        if doi:
+            paper["doi"] = doi
+            found_doi += 1
+
+    print(f"[info] DOI extracted for {found_doi}/{len(papers)} papers ({crossref_resolved} resolved via CrossRef)")
+
+    # Step 2: Batch query OpenAlex for citation counts (up to 50 DOIs per request)
+    papers_with_doi = [p for p in papers if p.get("doi")]
+    for i in range(0, len(papers_with_doi), 50):
+        batch = papers_with_doi[i:i + 50]
+        doi_filter = "|".join(f"https://doi.org/{p['doi']}" for p in batch)
         try:
             resp = requests.get(
-                f"https://api.altmetric.com/v1/doi/{doi}",
-                timeout=8,
+                "https://api.openalex.org/works",
+                params={
+                    "filter": f"doi:{doi_filter}",
+                    "select": "doi,cited_by_count",
+                    "per_page": 50,
+                    "mailto": "ep-feed@example.com",
+                },
+                timeout=15,
                 headers={"User-Agent": "EPFeed/1.0 (personal research tool)"},
             )
             if resp.status_code == 200:
-                score = resp.json().get("score", 0)
-                paper["hot"] = score >= ALTMETRIC_THRESHOLD
-                if paper["hot"]:
-                    print(f"[info] 🔥 score={score:.0f} — {paper['title'][:60]}")
+                results = resp.json().get("results", [])
+                cite_map = {}
+                for r in results:
+                    rdoi = (r.get("doi") or "").replace("https://doi.org/", "").lower()
+                    cite_map[rdoi] = r.get("cited_by_count", 0)
+                for p in batch:
+                    count = cite_map.get(p["doi"].lower(), 0)
+                    p["hot"] = count >= HOT_CITATION_THRESHOLD
+                    if p["hot"]:
+                        print(f"[info] 🔥 cited_by={count} — {p['title'][:60]}")
             else:
-                paper["hot"] = False
-            time.sleep(0.5)  # be polite to the free API
+                for p in batch:
+                    p["hot"] = False
+            time.sleep(0.5)
         except Exception:
-            paper["hot"] = False
-    print(f"[info] DOI extracted for {found_doi}/{len(papers)} papers")
+            for p in batch:
+                p["hot"] = False
+
+    # Papers without DOI can't be checked
+    for p in papers:
+        p.setdefault("hot", False)
+
     return papers
 
 
@@ -861,11 +902,12 @@ def main():
     new_papers = rss_papers + crossref_papers + medrxiv_papers
     new_papers.sort(key=lambda p: p["date_ts"], reverse=True)
 
-    if new_papers:
-        print(f"[info] Checking Altmetric scores for {len(new_papers)} new papers...")
-        new_papers = fetch_altmetric_scores(new_papers)
-        hot_count = sum(1 for p in new_papers if p.get("hot"))
-        print(f"[info] {hot_count} hot papers found")
+    # Hot paper detection disabled for now
+    # if new_papers:
+    #     print(f"[info] Checking hot scores for {len(new_papers)} new papers...")
+    #     new_papers = fetch_hot_scores(new_papers)
+    #     hot_count = sum(1 for p in new_papers if p.get("hot"))
+    #     print(f"[info] {hot_count} hot papers found")
     
     # Carry over hot flag from existing papers (already stored)
     for p in new_papers:
