@@ -477,9 +477,9 @@ def render_html(papers: list[dict]) -> str:
     updated = datetime.now(timezone.utc).strftime("%b %d, %Y at %H:%M UTC")
     count = len(papers)
 
-    all_tags = sorted(TAG_COLORS.keys())
+    tag_order = ["AFib", "SVT", "VT", "SCD", "Devices", "Genetics", "Imaging", "AI", "Other"]
     filter_buttons = '<button class="filter-btn active" onclick="filter(\'all\')">All</button>'
-    for tag in all_tags:
+    for tag in tag_order:
         color = TAG_COLORS[tag]
         filter_buttons += f'<button class="filter-btn" onclick="filter(\'{tag.lower()}\''
         filter_buttons += f')" style="--accent:{color}">{tag}</button>'
@@ -500,8 +500,8 @@ def render_html(papers: list[dict]) -> str:
       --bg:       #111318;
       --surface:  #1a1d24;
       --border:   #252932;
-      --text:     #dce3ec;
-      --muted:    #6b7685;
+      --text:     #edf2f7;
+      --muted:    #8b95a5;
       --accent:   #5b9cf6;
       --unread:   #5b9cf6;
       --hot:      #f97316;
@@ -515,7 +515,7 @@ def render_html(papers: list[dict]) -> str:
       background: var(--bg);
       color: var(--text);
       font-family: var(--sans);
-      font-size: 14px;
+      font-size: 15px;
       line-height: 1.5;
       min-height: 100vh;
     }}
@@ -679,8 +679,8 @@ def render_html(papers: list[dict]) -> str:
       color: var(--text);
       text-decoration: none;
       font-weight: 400;
-      font-size: 13.5px;
-      line-height: 1.45;
+      font-size: 14.5px;
+      line-height: 1.5;
       transition: color 0.1s;
     }}
 
@@ -695,7 +695,7 @@ def render_html(papers: list[dict]) -> str:
 
     .paper-meta {{
       font-family: var(--mono);
-      font-size: 11px;
+      font-size: 12px;
       color: var(--muted);
       white-space: nowrap;
       flex-shrink: 0;
