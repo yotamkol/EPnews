@@ -478,7 +478,6 @@ def build_paper_row(paper: dict) -> str:
 
 def render_html(papers: list[dict]) -> str:
     updated = datetime.now(timezone.utc).strftime("%b %d, %Y at %H:%M UTC")
-    count = len(papers)
 
     tag_order = ["AFib", "SVT", "VT", "SCD", "Devices", "Genetics", "Imaging", "AI", "Other"]
     filter_buttons = '<button class="filter-btn active" onclick="filterTag(\'all\')">All</button>'
@@ -854,15 +853,23 @@ def render_html(papers: list[dict]) -> str:
 
     /* ── responsive ── */
     @media (max-width: 640px) {{
-      header {{ padding: 16px 20px; flex-wrap: wrap; gap: 8px; }}
-      .filters {{ padding: 12px 20px; }}
-      .toolbar {{ padding: 12px 20px; }}
+      header {{
+        padding: 10px 16px;
+        flex-wrap: nowrap;
+        gap: 8px;
+        align-items: center;
+      }}
+      .logo-sub {{ display: none; }}
+      .header-right {{ text-align: left; line-height: 1.4; }}
+      .theme-toggle {{ flex-shrink: 0; }}
+      .filters {{ padding: 10px 16px; gap: 5px; }}
+      .toolbar {{ padding: 10px 16px; }}
       .search-input {{ max-width: 100%; }}
-      .feed {{ padding: 0 20px 48px; }}
+      .feed {{ padding: 0 16px 48px; }}
       .paper {{ grid-template-columns: 1fr; gap: 5px; }}
-      .paper:hover {{ margin: 0 -20px; padding: 12px 20px; }}
+      .paper:hover {{ margin: 0 -16px; padding: 12px 16px; }}
       .paper-meta {{ font-size: 10px; text-align: left; }}
-      footer {{ padding: 20px; }}
+      footer {{ padding: 16px; }}
     }}
   </style>
 </head>
@@ -874,7 +881,6 @@ def render_html(papers: list[dict]) -> str:
     <div class="logo-sub">Your daily EP reading list</div>
   </div>
   <div class="header-right">
-    <div><span class="count">{count}</span> papers</div>
     <div>Last updated {updated}</div>
   </div>
   <button class="theme-toggle" onclick="toggleTheme()" title="Toggle light/dark mode" id="theme-btn">&#9790;</button>
