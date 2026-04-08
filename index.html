@@ -356,15 +356,23 @@
 
     /* ── responsive ── */
     @media (max-width: 640px) {
-      header { padding: 16px 20px; flex-wrap: wrap; gap: 8px; }
-      .filters { padding: 12px 20px; }
-      .toolbar { padding: 12px 20px; }
+      header {
+        padding: 10px 16px;
+        flex-wrap: nowrap;
+        gap: 8px;
+        align-items: center;
+      }
+      .logo-sub { font-size: 10px; }
+      .header-right { text-align: left; line-height: 1.4; }
+      .theme-toggle { flex-shrink: 0; }
+      .filters { padding: 10px 16px; gap: 5px; }
+      .toolbar { padding: 10px 16px; }
       .search-input { max-width: 100%; }
-      .feed { padding: 0 20px 48px; }
+      .feed { padding: 0 16px 48px; }
       .paper { grid-template-columns: 1fr; gap: 5px; }
-      .paper:hover { margin: 0 -20px; padding: 12px 20px; }
+      .paper:hover { margin: 0 -16px; padding: 12px 16px; }
       .paper-meta { font-size: 10px; text-align: left; }
-      footer { padding: 20px; }
+      footer { padding: 16px; }
     }
   </style>
 </head>
@@ -376,8 +384,7 @@
     <div class="logo-sub">Your daily EP reading list</div>
   </div>
   <div class="header-right">
-    <div><span class="count">500</span> papers</div>
-    <div>Last updated Apr 08, 2026 at 17:25 UTC</div>
+    <div>Last updated Apr 08, 2026 at 18:06 UTC</div>
   </div>
   <button class="theme-toggle" onclick="toggleTheme()" title="Toggle light/dark mode" id="theme-btn">&#9790;</button>
 </header>
