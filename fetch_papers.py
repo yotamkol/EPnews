@@ -562,10 +562,17 @@ def render_html(papers: list[dict]) -> str:
       font-family: var(--mono);
       font-size: 11px;
       color: var(--muted);
+      display: none;
     }}
 
-    .theme-toggle {{
+    .header-right {{
       margin-left: auto;
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--muted);
+      display: flex;
+      align-items: center;
+      gap: 10px;
     }}
 
     /* ── ecg line decoration ── */
@@ -858,8 +865,9 @@ def render_html(papers: list[dict]) -> str:
         gap: 8px;
         align-items: center;
       }}
-      .logo-sub {{ font-size: 9px; white-space: nowrap; }}
-      .last-updated {{ font-size: 9px; }}
+      .logo-sub {{ font-size: 10px; white-space: nowrap; }}
+      .last-updated {{ display: block; font-size: 9px; }}
+      .header-right {{ display: none; }}
       .filters {{ padding: 10px 16px; gap: 5px; }}
       .toolbar {{ padding: 10px 16px; flex-wrap: nowrap; }}
       .search-input {{ min-width: 0; flex: 1; font-size: 13px; padding: 6px 10px; }}
@@ -879,7 +887,10 @@ def render_html(papers: list[dict]) -> str:
     <div class="logo-sub">Your daily EP reading list</div>
     <div class="last-updated">Last updated {updated}</div>
   </div>
-  <button class="theme-toggle" onclick="toggleTheme()" title="Toggle light/dark mode" id="theme-btn">&#9790;</button>
+  <div class="header-right">
+    <span>Last updated {updated}</span>
+    <button class="theme-toggle" onclick="toggleTheme()" title="Toggle light/dark mode" id="theme-btn">&#9790;</button>
+  </div>
 </header>
 
 <div class="ecg-bar"></div>
