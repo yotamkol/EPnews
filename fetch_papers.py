@@ -875,7 +875,7 @@ def render_html(papers: list[dict]) -> str:
   </div>
   <div class="header-right">
     <div><span class="count">{count}</span> papers</div>
-    <div>last updated {updated}</div>
+    <div>Last updated {updated}</div>
   </div>
   <button class="theme-toggle" onclick="toggleTheme()" title="Toggle light/dark mode" id="theme-btn">&#9790;</button>
 </header>
