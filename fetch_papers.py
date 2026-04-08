@@ -761,9 +761,30 @@ def render_html(papers: list[dict]) -> str:
       cursor: pointer;
       color: var(--muted);
       transition: all 0.12s;
-      margin-left: auto;
     }}
     .theme-toggle:hover {{ color: var(--text); border-color: var(--muted); }}
+
+    /* ── scroll to top ── */
+    .scroll-top {{
+      position: fixed;
+      bottom: 28px;
+      right: 28px;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: var(--accent);
+      color: var(--bg);
+      border: none;
+      font-size: 20px;
+      cursor: pointer;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+      z-index: 20;
+      transition: opacity 0.2s;
+    }}
+    .scroll-top.visible {{ display: flex; }}
 
     /* ── bookmark ── */
     .bookmark-btn {{
@@ -850,12 +871,13 @@ def render_html(papers: list[dict]) -> str:
 <header>
   <div>
     <div class="logo">EP Feed</div>
-    <div class="logo-sub">Cardiac Electrophysiology</div>
+    <div class="logo-sub">Your daily EP reading list</div>
   </div>
   <div class="header-right">
     <div><span class="count">{count}</span> papers</div>
-    <div>updated {updated}</div>
+    <div>last updated {updated}</div>
   </div>
+  <button class="theme-toggle" onclick="toggleTheme()" title="Toggle light/dark mode" id="theme-btn">&#9790;</button>
 </header>
 
 <div class="ecg-bar"></div>
@@ -875,7 +897,6 @@ def render_html(papers: list[dict]) -> str:
     <option value="unread">Unread first</option>
     <option value="bookmarked">Bookmarked first</option>
   </select>
-  <button class="theme-toggle" onclick="toggleTheme()" title="Toggle light/dark mode" id="theme-btn">&#9790;</button>
 </div>
 
 <div class="feed">
@@ -885,6 +906,8 @@ def render_html(papers: list[dict]) -> str:
 <footer>
   &copy; {datetime.now().year} Yotam Kolben. All rights reserved.
 </footer>
+
+<button class="scroll-top" id="scroll-top-btn" onclick="window.scrollTo({{top:0,behavior:'smooth'}})">&#8593;</button>
 
 <script>
   const READ_KEY = 'ep_read_v1';
@@ -1038,6 +1061,12 @@ def render_html(papers: list[dict]) -> str:
     }}
     localStorage.setItem(VISIT_KEY, String(Date.now() / 1000));
   }}
+
+  // ── Scroll to top ──
+  window.addEventListener('scroll', () => {{
+    const btn = document.getElementById('scroll-top-btn');
+    btn.classList.toggle('visible', window.scrollY > 400);
+  }});
 
   // ── Init ──
   document.addEventListener('DOMContentLoaded', () => {{
