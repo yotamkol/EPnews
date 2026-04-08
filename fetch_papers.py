@@ -307,6 +307,45 @@ def fetch_medrxiv_papers(seen: set) -> list[dict]:
 
 
 # ─────────────────────────────────────────────
+# ALTMETRIC (hot papers)
+# ─────────────────────────────────────────────
+
+ALTMETRIC_THRESHOLD = 15  # score above this = 🔥
+
+def fetch_altmetric_scores(papers: list[dict]) -> list[dict]:
+    """Check Altmetric attention scores for new papers and flag hot ones.
+    Uses the free Altmetric API (no key needed, rate-limited to ~1 req/sec).
+    Only checks papers whose DOI can be extracted from the link.
+    """
+    import time
+    for paper in papers:
+        doi = None
+        link = paper.get("link", "")
+        if "doi.org/" in link:
+            doi = link.split("doi.org/")[-1].strip()
+        elif "doi=" in link:
+            doi = link.split("doi=")[-1].split("&")[0].strip()
+        if not doi:
+            paper["hot"] = False
+            continue
+        try:
+            resp = requests.get(
+                f"https://api.altmetric.com/v1/doi/{doi}",
+                timeout=8,
+                headers={"User-Agent": "EPFeed/1.0 (personal research tool)"},
+            )
+            if resp.status_code == 200:
+                score = resp.json().get("score", 0)
+                paper["hot"] = score >= ALTMETRIC_THRESHOLD
+            else:
+                paper["hot"] = False
+            time.sleep(0.5)  # be polite to the free API
+        except Exception:
+            paper["hot"] = False
+    return papers
+
+
+# ─────────────────────────────────────────────
 # RENDER HTML
 # ─────────────────────────────────────────────
 
@@ -318,10 +357,17 @@ def build_tag_pill(tag: str) -> str:
 def build_paper_row(paper: dict) -> str:
     tags_html = "".join(build_tag_pill(t) for t in paper["tags"])
     tag_classes = " ".join(f"tag-{t.lower()}" for t in paper["tags"])
+    hot_badge = '<span class="hot-badge" title="High attention score">🔥</span>' if paper.get("hot") else ""
+    link_id = paper["link"].replace("https://", "").replace("http://", "").replace("/", "_").replace(".", "_")
     return f'''
-    <div class="paper {tag_classes}">
+    <div class="paper {tag_classes}" data-id="{link_id}">
       <div class="paper-tags">{tags_html}</div>
-      <a class="paper-title" href="{paper["link"]}" target="_blank" rel="noopener">{paper["title"]}</a>
+      <div class="paper-title-wrap">
+        <span class="unread-dot" title="Unread"></span>
+        {hot_badge}
+        <a class="paper-title" href="{paper["link"]}" target="_blank" rel="noopener"
+           onclick="markRead('{link_id}')">{paper["title"]}</a>
+      </div>
       <div class="paper-meta">{paper["journal"]} · {paper["date"]}</div>
     </div>'''
 
@@ -350,12 +396,14 @@ def render_html(papers: list[dict]) -> str:
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
   <style>
     :root {{
-      --bg:       #080c0e;
-      --surface:  #0d1317;
-      --border:   #1a2228;
-      --text:     #d4dde3;
-      --muted:    #4a5a63;
-      --accent:   #00d4aa;
+      --bg:       #111318;
+      --surface:  #1a1d24;
+      --border:   #252932;
+      --text:     #dce3ec;
+      --muted:    #6b7685;
+      --accent:   #5b9cf6;
+      --unread:   #5b9cf6;
+      --hot:      #f97316;
       --mono:     'IBM Plex Mono', monospace;
       --sans:     'DM Sans', sans-serif;
     }}
@@ -382,6 +430,7 @@ def render_html(papers: list[dict]) -> str:
       top: 0;
       background: var(--bg);
       z-index: 10;
+      backdrop-filter: blur(8px);
     }}
 
     .logo {{
@@ -421,14 +470,14 @@ def render_html(papers: list[dict]) -> str:
         var(--accent) 35%, var(--accent) 38%,
         var(--bg) 40%,
         var(--bg) 100%);
-      opacity: 0.3;
+      opacity: 0.25;
     }}
 
     /* ── filters ── */
     .filters {{
-      padding: 16px 32px;
+      padding: 14px 32px;
       display: flex;
-      gap: 8px;
+      gap: 6px;
       flex-wrap: wrap;
       border-bottom: 1px solid var(--border);
       background: var(--surface);
@@ -438,40 +487,41 @@ def render_html(papers: list[dict]) -> str:
       font-family: var(--mono);
       font-size: 11px;
       font-weight: 500;
-      letter-spacing: 0.08em;
-      padding: 5px 12px;
-      border-radius: 3px;
+      letter-spacing: 0.07em;
+      padding: 5px 11px;
+      border-radius: 4px;
       border: 1px solid var(--border);
       background: transparent;
       color: var(--muted);
       cursor: pointer;
-      transition: all 0.15s;
+      transition: all 0.12s;
     }}
 
     .filter-btn:hover {{
       color: var(--text);
       border-color: var(--accent);
+      background: color-mix(in srgb, var(--accent) 8%, transparent);
     }}
 
     .filter-btn.active {{
       background: var(--accent);
-      color: var(--bg);
+      color: #0e1118;
       border-color: var(--accent);
     }}
 
     /* ── paper rows ── */
     .feed {{
-      max-width: 960px;
+      max-width: 980px;
       margin: 0 auto;
-      padding: 0 32px 64px;
+      padding: 0 32px 80px;
     }}
 
     .paper {{
       display: grid;
-      grid-template-columns: 140px 1fr auto;
-      align-items: baseline;
-      gap: 12px;
-      padding: 13px 0;
+      grid-template-columns: 150px 1fr auto;
+      align-items: center;
+      gap: 14px;
+      padding: 12px 0;
       border-bottom: 1px solid var(--border);
       transition: background 0.1s;
     }}
@@ -479,10 +529,26 @@ def render_html(papers: list[dict]) -> str:
     .paper:hover {{
       background: var(--surface);
       margin: 0 -32px;
-      padding: 13px 32px;
+      padding: 12px 32px;
+      border-radius: 4px;
     }}
 
     .paper.hidden {{ display: none; }}
+
+    /* unread state */
+    .paper.unread .paper-title {{ font-weight: 500; color: #eaf0f9; }}
+    .paper.unread .unread-dot {{
+      display: inline-block;
+      width: 6px; height: 6px;
+      border-radius: 50%;
+      background: var(--unread);
+      margin-right: 6px;
+      flex-shrink: 0;
+      vertical-align: middle;
+      position: relative;
+      top: -1px;
+    }}
+    .paper.read .unread-dot {{ display: none; }}
 
     .paper-tags {{
       display: flex;
@@ -495,11 +561,17 @@ def render_html(papers: list[dict]) -> str:
       font-family: var(--mono);
       font-size: 10px;
       font-weight: 500;
-      letter-spacing: 0.06em;
+      letter-spacing: 0.05em;
       padding: 2px 6px;
-      border-radius: 2px;
+      border-radius: 3px;
       border: 1px solid;
       white-space: nowrap;
+    }}
+
+    .paper-title-wrap {{
+      display: flex;
+      align-items: center;
+      gap: 0;
     }}
 
     .paper-title {{
@@ -511,8 +583,13 @@ def render_html(papers: list[dict]) -> str:
       transition: color 0.1s;
     }}
 
-    .paper-title:hover {{
-      color: var(--accent);
+    .paper-title:hover {{ color: var(--accent); }}
+
+    .hot-badge {{
+      font-size: 14px;
+      margin-right: 5px;
+      flex-shrink: 0;
+      filter: drop-shadow(0 0 4px rgba(249,115,22,0.5));
     }}
 
     .paper-meta {{
@@ -521,7 +598,23 @@ def render_html(papers: list[dict]) -> str:
       color: var(--muted);
       white-space: nowrap;
       flex-shrink: 0;
+      text-align: right;
     }}
+
+    /* mark-all-read button */
+    .read-all-btn {{
+      font-family: var(--mono);
+      font-size: 10px;
+      color: var(--muted);
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 3px;
+      padding: 3px 8px;
+      cursor: pointer;
+      margin-left: auto;
+      transition: all 0.12s;
+    }}
+    .read-all-btn:hover {{ color: var(--text); border-color: var(--muted); }}
 
     .empty {{
       padding: 64px 0;
@@ -536,10 +629,10 @@ def render_html(papers: list[dict]) -> str:
     @media (max-width: 640px) {{
       header {{ padding: 16px 20px; flex-wrap: wrap; gap: 8px; }}
       .filters {{ padding: 12px 20px; }}
-      .feed {{ padding: 0 20px 40px; }}
-      .paper {{ grid-template-columns: 1fr; gap: 4px; }}
-      .paper:hover {{ margin: 0 -20px; padding: 13px 20px; }}
-      .paper-meta {{ font-size: 10px; }}
+      .feed {{ padding: 0 20px 48px; }}
+      .paper {{ grid-template-columns: 1fr; gap: 5px; }}
+      .paper:hover {{ margin: 0 -20px; padding: 12px 20px; }}
+      .paper-meta {{ font-size: 10px; text-align: left; }}
     }}
   </style>
 </head>
@@ -560,6 +653,7 @@ def render_html(papers: list[dict]) -> str:
 
 <div class="filters">
   {filter_buttons}
+  <button class="read-all-btn" onclick="markAllRead()">mark all read</button>
 </div>
 
 <div class="feed">
@@ -567,6 +661,49 @@ def render_html(papers: list[dict]) -> str:
 </div>
 
 <script>
+  const READ_KEY = 'ep_read_v1';
+
+  function getRead() {{
+    try {{ return new Set(JSON.parse(localStorage.getItem(READ_KEY) || '[]')) }}
+    catch {{ return new Set(); }}
+  }}
+
+  function saveRead(s) {{
+    localStorage.setItem(READ_KEY, JSON.stringify([...s]));
+  }}
+
+  function applyReadState() {{
+    const read = getRead();
+    document.querySelectorAll('.paper').forEach(p => {{
+      const id = p.dataset.id;
+      if (read.has(id)) {{
+        p.classList.add('read');
+        p.classList.remove('unread');
+      }} else {{
+        p.classList.add('unread');
+        p.classList.remove('read');
+      }}
+    }});
+  }}
+
+  function markRead(id) {{
+    const read = getRead();
+    read.add(id);
+    saveRead(read);
+    const paper = document.querySelector(`.paper[data-id="${{id}}"]`);
+    if (paper) {{
+      paper.classList.add('read');
+      paper.classList.remove('unread');
+    }}
+  }}
+
+  function markAllRead() {{
+    const read = getRead();
+    document.querySelectorAll('.paper').forEach(p => read.add(p.dataset.id));
+    saveRead(read);
+    applyReadState();
+  }}
+
   function filter(tag) {{
     document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
     event.target.classList.add('active');
@@ -578,6 +715,8 @@ def render_html(papers: list[dict]) -> str:
       }}
     }});
   }}
+
+  document.addEventListener('DOMContentLoaded', applyReadState);
 </script>
 
 </body>
@@ -662,6 +801,16 @@ def main():
     new_papers = rss_papers + crossref_papers + medrxiv_papers
     new_papers.sort(key=lambda p: p["date_ts"], reverse=True)
 
+    if new_papers:
+        print(f"[info] Checking Altmetric scores for {len(new_papers)} new papers...")
+        new_papers = fetch_altmetric_scores(new_papers)
+        hot_count = sum(1 for p in new_papers if p.get("hot"))
+        print(f"[info] {hot_count} hot papers found")
+    
+    # Carry over hot flag from existing papers (already stored)
+    for p in new_papers:
+        p.setdefault("hot", False)
+
     print(f"[info] {len(new_papers)} new papers found (seen grew from {seen_before} → {len(seen)})")
 
     # Load all previously stored papers to show in HTML (not just today's)
@@ -670,6 +819,8 @@ def main():
     all_papers = []
     if papers_file.exists():
         all_papers = json.loads(papers_file.read_text())
+        for p in all_papers:
+            p.setdefault("hot", False)
 
     # Prepend new papers
     all_papers = new_papers + all_papers
