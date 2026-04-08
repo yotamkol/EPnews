@@ -859,7 +859,7 @@ def render_html(papers: list[dict]) -> str:
         align-items: center;
       }}
       .logo-sub {{ font-size: 9px; white-space: nowrap; }}
-      .header-right {{ font-size: 10px; gap: 8px; }}
+      .header-right {{ font-size: 9px; gap: 6px; white-space: nowrap; }}
       .filters {{ padding: 10px 16px; gap: 5px; }}
       .toolbar {{ padding: 10px 16px; flex-wrap: nowrap; }}
       .search-input {{ min-width: 0; flex: 1; font-size: 13px; padding: 6px 10px; }}
