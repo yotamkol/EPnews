@@ -1,35 +1,11 @@
 [
   {
-    "title": "26-CCC-10386-ACC BLUE TOE SYNDROME: ANTICOAGULATION CHALLENGES AFTER SUCCESSFUL ATRIAL FIBRILLATION ABLATION",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726060250?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 08, 2026",
-    "date_ts": 1775662541.638121,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "26-CCC-14735-ACC REFRACTORY CHYLOTHORAX RELATED TO SUPERIOR VENA CAVA STENOSIS FROM IMPLANTABLE CARDIAC DEFIBRILLATOR LEADS",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726060468?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 08, 2026",
-    "date_ts": 1775662541.637752,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
     "title": "26-CCC-16127-ACC A CASE OF TRICUSPID AND SUBPULMONIC VALVE STENOSIS IN THE SETTING OF ABANDONED PACEMAKER LEADS PRESENTING AS SVC SYNDROME",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726051132?dgcid=rss_sd_all",
     "doi": null,
     "journal": "JACC",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660416.268236,
+    "date_ts": 1775663956.715393,
     "tags": [
       "Devices"
     ],
@@ -41,7 +17,7 @@
     "doi": null,
     "journal": "JACC",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660416.267941,
+    "date_ts": 1775663956.715057,
     "tags": [
       "VT"
     ],
@@ -53,7 +29,7 @@
     "doi": null,
     "journal": "JACC",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660416.267557,
+    "date_ts": 1775663956.714661,
     "tags": [
       "AFib"
     ],
@@ -65,7 +41,7 @@
     "doi": null,
     "journal": "JACC",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660416.267424,
+    "date_ts": 1775663956.714524,
     "tags": [
       "Genetics"
     ],
@@ -77,7 +53,7 @@
     "doi": "10.1056/NEJMoa2517213",
     "journal": "NEJM",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660415.73382,
+    "date_ts": 1775663956.241587,
     "tags": [
       "AFib"
     ],
@@ -89,7 +65,7 @@
     "doi": "10.1056/NEJMc2517822",
     "journal": "NEJM",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660415.733614,
+    "date_ts": 1775663956.241379,
     "tags": [
       "VT",
       "AI"
@@ -102,7 +78,7 @@
     "doi": "10.1056/NEJMoa2513310",
     "journal": "NEJM",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660415.733545,
+    "date_ts": 1775663956.241286,
     "tags": [
       "AFib"
     ],
@@ -114,7 +90,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663856,
+    "date_ts": 1775663954.412091,
     "tags": [
       "AFib"
     ],
@@ -126,7 +102,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663828,
+    "date_ts": 1775663954.412064,
     "tags": [
       "Other"
     ],
@@ -138,7 +114,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663796,
+    "date_ts": 1775663954.412032,
     "tags": [
       "AFib"
     ],
@@ -150,7 +126,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663759,
+    "date_ts": 1775663954.411994,
     "tags": [
       "AFib"
     ],
@@ -162,7 +138,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663726,
+    "date_ts": 1775663954.411962,
     "tags": [
       "AFib"
     ],
@@ -174,7 +150,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663693,
+    "date_ts": 1775663954.411932,
     "tags": [
       "Other"
     ],
@@ -186,7 +162,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663647,
+    "date_ts": 1775663954.4119,
     "tags": [
       "AFib"
     ],
@@ -198,7 +174,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663619,
+    "date_ts": 1775663954.411872,
     "tags": [
       "AFib"
     ],
@@ -210,7 +186,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663588,
+    "date_ts": 1775663954.411842,
     "tags": [
       "AFib"
     ],
@@ -222,7 +198,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663558,
+    "date_ts": 1775663954.411811,
     "tags": [
       "AFib"
     ],
@@ -234,7 +210,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663528,
+    "date_ts": 1775663954.411783,
     "tags": [
       "SCD"
     ],
@@ -246,7 +222,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663493,
+    "date_ts": 1775663954.41175,
     "tags": [
       "Genetics"
     ],
@@ -258,7 +234,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663464,
+    "date_ts": 1775663954.411721,
     "tags": [
       "Genetics"
     ],
@@ -270,7 +246,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663431,
+    "date_ts": 1775663954.411689,
     "tags": [
       "Genetics",
       "AI"
@@ -283,7 +259,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663401,
+    "date_ts": 1775663954.411659,
     "tags": [
       "Genetics"
     ],
@@ -295,7 +271,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663364,
+    "date_ts": 1775663954.411624,
     "tags": [
       "VT"
     ],
@@ -307,7 +283,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663328,
+    "date_ts": 1775663954.411594,
     "tags": [
       "Devices"
     ],
@@ -319,7 +295,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663297,
+    "date_ts": 1775663954.411559,
     "tags": [
       "Genetics"
     ],
@@ -331,7 +307,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663266,
+    "date_ts": 1775663954.411526,
     "tags": [
       "Other"
     ],
@@ -343,7 +319,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663233,
+    "date_ts": 1775663954.411494,
     "tags": [
       "Other"
     ],
@@ -355,7 +331,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663202,
+    "date_ts": 1775663954.411462,
     "tags": [
       "AFib"
     ],
@@ -367,7 +343,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663171,
+    "date_ts": 1775663954.411433,
     "tags": [
       "Other"
     ],
@@ -379,7 +355,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663141,
+    "date_ts": 1775663954.411402,
     "tags": [
       "Other"
     ],
@@ -391,7 +367,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.66311,
+    "date_ts": 1775663954.411372,
     "tags": [
       "Devices"
     ],
@@ -403,7 +379,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.66308,
+    "date_ts": 1775663954.411332,
     "tags": [
       "Devices"
     ],
@@ -415,7 +391,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.66305,
+    "date_ts": 1775663954.411302,
     "tags": [
       "AFib"
     ],
@@ -427,7 +403,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.663015,
+    "date_ts": 1775663954.411265,
     "tags": [
       "AFib"
     ],
@@ -439,7 +415,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662983,
+    "date_ts": 1775663954.411232,
     "tags": [
       "Other"
     ],
@@ -451,7 +427,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662951,
+    "date_ts": 1775663954.4112,
     "tags": [
       "Other"
     ],
@@ -463,7 +439,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662912,
+    "date_ts": 1775663954.41116,
     "tags": [
       "VT"
     ],
@@ -475,7 +451,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662887,
+    "date_ts": 1775663954.411136,
     "tags": [
       "Other"
     ],
@@ -487,7 +463,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662862,
+    "date_ts": 1775663954.411113,
     "tags": [
       "Other"
     ],
@@ -499,7 +475,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662831,
+    "date_ts": 1775663954.411082,
     "tags": [
       "Other"
     ],
@@ -511,7 +487,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662799,
+    "date_ts": 1775663954.411052,
     "tags": [
       "VT"
     ],
@@ -523,7 +499,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662767,
+    "date_ts": 1775663954.411022,
     "tags": [
       "VT"
     ],
@@ -535,7 +511,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662734,
+    "date_ts": 1775663954.41099,
     "tags": [
       "Other"
     ],
@@ -547,7 +523,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662699,
+    "date_ts": 1775663954.410957,
     "tags": [
       "VT"
     ],
@@ -559,7 +535,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662649,
+    "date_ts": 1775663954.410922,
     "tags": [
       "Other"
     ],
@@ -571,7 +547,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662622,
+    "date_ts": 1775663954.410895,
     "tags": [
       "Other"
     ],
@@ -583,7 +559,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.66259,
+    "date_ts": 1775663954.410862,
     "tags": [
       "Other"
     ],
@@ -595,7 +571,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662564,
+    "date_ts": 1775663954.410837,
     "tags": [
       "Other"
     ],
@@ -607,7 +583,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.66253,
+    "date_ts": 1775663954.410803,
     "tags": [
       "Other"
     ],
@@ -619,7 +595,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662498,
+    "date_ts": 1775663954.410771,
     "tags": [
       "Other"
     ],
@@ -631,7 +607,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662468,
+    "date_ts": 1775663954.410742,
     "tags": [
       "Other"
     ],
@@ -643,7 +619,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662438,
+    "date_ts": 1775663954.410712,
     "tags": [
       "Devices"
     ],
@@ -655,7 +631,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662406,
+    "date_ts": 1775663954.410679,
     "tags": [
       "Other"
     ],
@@ -667,7 +643,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662374,
+    "date_ts": 1775663954.410649,
     "tags": [
       "Other"
     ],
@@ -679,7 +655,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662342,
+    "date_ts": 1775663954.410616,
     "tags": [
       "Other"
     ],
@@ -691,7 +667,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662309,
+    "date_ts": 1775663954.410583,
     "tags": [
       "Other"
     ],
@@ -703,7 +679,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662276,
+    "date_ts": 1775663954.410549,
     "tags": [
       "Other"
     ],
@@ -715,7 +691,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.66224,
+    "date_ts": 1775663954.410512,
     "tags": [
       "Other"
     ],
@@ -727,7 +703,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662203,
+    "date_ts": 1775663954.410476,
     "tags": [
       "Other"
     ],
@@ -739,7 +715,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662173,
+    "date_ts": 1775663954.410446,
     "tags": [
       "SCD",
       "AI"
@@ -752,7 +728,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662144,
+    "date_ts": 1775663954.410418,
     "tags": [
       "AI"
     ],
@@ -764,7 +740,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662112,
+    "date_ts": 1775663954.410386,
     "tags": [
       "Devices"
     ],
@@ -776,7 +752,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.66208,
+    "date_ts": 1775663954.410344,
     "tags": [
       "VT"
     ],
@@ -788,7 +764,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662041,
+    "date_ts": 1775663954.410304,
     "tags": [
       "Other"
     ],
@@ -800,7 +776,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.662007,
+    "date_ts": 1775663954.41027,
     "tags": [
       "Imaging"
     ],
@@ -812,7 +788,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661977,
+    "date_ts": 1775663954.410241,
     "tags": [
       "Other"
     ],
@@ -824,7 +800,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661947,
+    "date_ts": 1775663954.410212,
     "tags": [
       "Other"
     ],
@@ -836,7 +812,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661915,
+    "date_ts": 1775663954.41018,
     "tags": [
       "Other"
     ],
@@ -848,7 +824,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661883,
+    "date_ts": 1775663954.410147,
     "tags": [
       "Other"
     ],
@@ -860,7 +836,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661853,
+    "date_ts": 1775663954.410118,
     "tags": [
       "AFib"
     ],
@@ -872,7 +848,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.66182,
+    "date_ts": 1775663954.410085,
     "tags": [
       "Other"
     ],
@@ -884,7 +860,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661787,
+    "date_ts": 1775663954.410051,
     "tags": [
       "AFib"
     ],
@@ -896,7 +872,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661756,
+    "date_ts": 1775663954.410021,
     "tags": [
       "AFib"
     ],
@@ -908,7 +884,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661719,
+    "date_ts": 1775663954.409987,
     "tags": [
       "Other"
     ],
@@ -920,7 +896,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661664,
+    "date_ts": 1775663954.40995,
     "tags": [
       "VT"
     ],
@@ -932,7 +908,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661629,
+    "date_ts": 1775663954.409916,
     "tags": [
       "Other"
     ],
@@ -944,7 +920,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661604,
+    "date_ts": 1775663954.409891,
     "tags": [
       "Other"
     ],
@@ -956,7 +932,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661572,
+    "date_ts": 1775663954.409859,
     "tags": [
       "Genetics"
     ],
@@ -968,7 +944,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661542,
+    "date_ts": 1775663954.409828,
     "tags": [
       "Devices",
       "Genetics"
@@ -981,7 +957,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661511,
+    "date_ts": 1775663954.409797,
     "tags": [
       "VT",
       "SCD"
@@ -994,7 +970,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661476,
+    "date_ts": 1775663954.409759,
     "tags": [
       "Other"
     ],
@@ -1006,7 +982,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661443,
+    "date_ts": 1775663954.409724,
     "tags": [
       "Other"
     ],
@@ -1018,7 +994,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661412,
+    "date_ts": 1775663954.409692,
     "tags": [
       "AFib"
     ],
@@ -1030,7 +1006,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661377,
+    "date_ts": 1775663954.409657,
     "tags": [
       "SCD",
       "Devices"
@@ -1043,7 +1019,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661347,
+    "date_ts": 1775663954.409628,
     "tags": [
       "Other"
     ],
@@ -1055,7 +1031,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661312,
+    "date_ts": 1775663954.409594,
     "tags": [
       "Genetics",
       "Imaging"
@@ -1068,7 +1044,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661285,
+    "date_ts": 1775663954.409567,
     "tags": [
       "Other"
     ],
@@ -1080,7 +1056,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661253,
+    "date_ts": 1775663954.409535,
     "tags": [
       "Other"
     ],
@@ -1092,7 +1068,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661212,
+    "date_ts": 1775663954.409492,
     "tags": [
       "Other"
     ],
@@ -1104,7 +1080,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661182,
+    "date_ts": 1775663954.409463,
     "tags": [
       "SVT"
     ],
@@ -1116,7 +1092,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661154,
+    "date_ts": 1775663954.409435,
     "tags": [
       "AFib"
     ],
@@ -1128,7 +1104,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661121,
+    "date_ts": 1775663954.409402,
     "tags": [
       "AFib"
     ],
@@ -1140,7 +1116,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661089,
+    "date_ts": 1775663954.40937,
     "tags": [
       "Genetics"
     ],
@@ -1152,7 +1128,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661048,
+    "date_ts": 1775663954.409317,
     "tags": [
       "VT",
       "Imaging"
@@ -1165,7 +1141,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.661008,
+    "date_ts": 1775663954.409277,
     "tags": [
       "Other"
     ],
@@ -1177,7 +1153,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.660976,
+    "date_ts": 1775663954.409245,
     "tags": [
       "AFib",
       "SVT"
@@ -1190,7 +1166,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.660941,
+    "date_ts": 1775663954.409211,
     "tags": [
       "AFib"
     ],
@@ -1202,7 +1178,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.660909,
+    "date_ts": 1775663954.409178,
     "tags": [
       "AFib",
       "Genetics"
@@ -1215,7 +1191,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.660875,
+    "date_ts": 1775663954.409143,
     "tags": [
       "Other"
     ],
@@ -1227,7 +1203,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.660845,
+    "date_ts": 1775663954.409114,
     "tags": [
       "AFib"
     ],
@@ -1239,7 +1215,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.660809,
+    "date_ts": 1775663954.409078,
     "tags": [
       "Other"
     ],
@@ -1251,7 +1227,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.660775,
+    "date_ts": 1775663954.409044,
     "tags": [
       "Other"
     ],
@@ -1263,7 +1239,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.660741,
+    "date_ts": 1775663954.409012,
     "tags": [
       "Other"
     ],
@@ -1275,7 +1251,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.660701,
+    "date_ts": 1775663954.408977,
     "tags": [
       "AFib"
     ],
@@ -1287,7 +1263,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.660648,
+    "date_ts": 1775663954.408944,
     "tags": [
       "Devices"
     ],
@@ -1299,7 +1275,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.660609,
+    "date_ts": 1775663954.408906,
     "tags": [
       "Devices",
       "SVT"
@@ -1312,7 +1288,7 @@
     "doi": null,
     "journal": "JACC: Clinical EP",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.660555,
+    "date_ts": 1775663954.408837,
     "tags": [
       "VT",
       "Devices"
@@ -1325,7 +1301,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.505125,
+    "date_ts": 1775663954.284518,
     "tags": [
       "AFib"
     ],
@@ -1337,7 +1313,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.505089,
+    "date_ts": 1775663954.284481,
     "tags": [
       "Other"
     ],
@@ -1349,7 +1325,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.505057,
+    "date_ts": 1775663954.284447,
     "tags": [
       "AFib"
     ],
@@ -1361,7 +1337,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.505025,
+    "date_ts": 1775663954.284414,
     "tags": [
       "Other"
     ],
@@ -1373,7 +1349,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504994,
+    "date_ts": 1775663954.284382,
     "tags": [
       "AFib"
     ],
@@ -1385,7 +1361,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.50496,
+    "date_ts": 1775663954.28433,
     "tags": [
       "AFib"
     ],
@@ -1397,7 +1373,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504928,
+    "date_ts": 1775663954.284297,
     "tags": [
       "AFib",
       "SVT"
@@ -1410,7 +1386,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504899,
+    "date_ts": 1775663954.284269,
     "tags": [
       "AFib"
     ],
@@ -1422,7 +1398,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504868,
+    "date_ts": 1775663954.284236,
     "tags": [
       "AFib"
     ],
@@ -1434,7 +1410,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504833,
+    "date_ts": 1775663954.2842,
     "tags": [
       "AFib"
     ],
@@ -1446,7 +1422,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504799,
+    "date_ts": 1775663954.284165,
     "tags": [
       "AFib"
     ],
@@ -1458,7 +1434,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504767,
+    "date_ts": 1775663954.284134,
     "tags": [
       "Devices"
     ],
@@ -1470,7 +1446,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504734,
+    "date_ts": 1775663954.284102,
     "tags": [
       "Other"
     ],
@@ -1482,7 +1458,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504699,
+    "date_ts": 1775663954.28407,
     "tags": [
       "Devices"
     ],
@@ -1494,7 +1470,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504651,
+    "date_ts": 1775663954.284039,
     "tags": [
       "SCD",
       "Devices"
@@ -1507,7 +1483,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504623,
+    "date_ts": 1775663954.284011,
     "tags": [
       "Devices"
     ],
@@ -1519,7 +1495,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504589,
+    "date_ts": 1775663954.283975,
     "tags": [
       "Other"
     ],
@@ -1531,7 +1507,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504553,
+    "date_ts": 1775663954.283938,
     "tags": [
       "Other"
     ],
@@ -1543,7 +1519,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.50452,
+    "date_ts": 1775663954.283904,
     "tags": [
       "Other"
     ],
@@ -1555,7 +1531,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504486,
+    "date_ts": 1775663954.283869,
     "tags": [
       "Other"
     ],
@@ -1567,7 +1543,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504457,
+    "date_ts": 1775663954.283838,
     "tags": [
       "Other"
     ],
@@ -1579,7 +1555,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504426,
+    "date_ts": 1775663954.283807,
     "tags": [
       "AFib"
     ],
@@ -1591,7 +1567,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504394,
+    "date_ts": 1775663954.283776,
     "tags": [
       "AI"
     ],
@@ -1603,7 +1579,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504364,
+    "date_ts": 1775663954.283746,
     "tags": [
       "AFib"
     ],
@@ -1615,7 +1591,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504331,
+    "date_ts": 1775663954.283713,
     "tags": [
       "Other"
     ],
@@ -1627,7 +1603,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504302,
+    "date_ts": 1775663954.283684,
     "tags": [
       "Devices"
     ],
@@ -1639,7 +1615,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504271,
+    "date_ts": 1775663954.283654,
     "tags": [
       "Other"
     ],
@@ -1651,7 +1627,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.50424,
+    "date_ts": 1775663954.283623,
     "tags": [
       "Other"
     ],
@@ -1663,7 +1639,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504207,
+    "date_ts": 1775663954.283588,
     "tags": [
       "VT"
     ],
@@ -1675,7 +1651,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504168,
+    "date_ts": 1775663954.283549,
     "tags": [
       "Other"
     ],
@@ -1687,7 +1663,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504144,
+    "date_ts": 1775663954.283525,
     "tags": [
       "Other"
     ],
@@ -1699,7 +1675,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504112,
+    "date_ts": 1775663954.283493,
     "tags": [
       "Other"
     ],
@@ -1711,7 +1687,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504072,
+    "date_ts": 1775663954.283451,
     "tags": [
       "Other"
     ],
@@ -1723,7 +1699,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504041,
+    "date_ts": 1775663954.283419,
     "tags": [
       "AFib",
       "Genetics"
@@ -1736,7 +1712,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.504009,
+    "date_ts": 1775663954.283386,
     "tags": [
       "AFib"
     ],
@@ -1748,7 +1724,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503977,
+    "date_ts": 1775663954.283344,
     "tags": [
       "AFib"
     ],
@@ -1760,7 +1736,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503945,
+    "date_ts": 1775663954.28331,
     "tags": [
       "AFib"
     ],
@@ -1772,7 +1748,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.50391,
+    "date_ts": 1775663954.283274,
     "tags": [
       "AFib",
       "Devices"
@@ -1785,7 +1761,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503877,
+    "date_ts": 1775663954.283241,
     "tags": [
       "Devices"
     ],
@@ -1797,7 +1773,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503845,
+    "date_ts": 1775663954.283209,
     "tags": [
       "VT"
     ],
@@ -1809,7 +1785,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503804,
+    "date_ts": 1775663954.283167,
     "tags": [
       "Other"
     ],
@@ -1821,7 +1797,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503772,
+    "date_ts": 1775663954.283136,
     "tags": [
       "Genetics"
     ],
@@ -1833,7 +1809,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503739,
+    "date_ts": 1775663954.283103,
     "tags": [
       "AFib"
     ],
@@ -1845,7 +1821,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503701,
+    "date_ts": 1775663954.283068,
     "tags": [
       "AFib"
     ],
@@ -1857,7 +1833,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503653,
+    "date_ts": 1775663954.283036,
     "tags": [
       "Other"
     ],
@@ -1869,7 +1845,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503616,
+    "date_ts": 1775663954.282998,
     "tags": [
       "AFib"
     ],
@@ -1881,7 +1857,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503586,
+    "date_ts": 1775663954.282968,
     "tags": [
       "AFib"
     ],
@@ -1893,7 +1869,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503551,
+    "date_ts": 1775663954.282932,
     "tags": [
       "AFib"
     ],
@@ -1905,7 +1881,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503522,
+    "date_ts": 1775663954.282904,
     "tags": [
       "Devices"
     ],
@@ -1917,7 +1893,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503484,
+    "date_ts": 1775663954.282864,
     "tags": [
       "Imaging"
     ],
@@ -1929,7 +1905,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.50345,
+    "date_ts": 1775663954.282828,
     "tags": [
       "Other"
     ],
@@ -1941,7 +1917,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503418,
+    "date_ts": 1775663954.282796,
     "tags": [
       "AFib",
       "AI"
@@ -1954,7 +1930,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503385,
+    "date_ts": 1775663954.282761,
     "tags": [
       "Other"
     ],
@@ -1966,7 +1942,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503352,
+    "date_ts": 1775663954.282725,
     "tags": [
       "Devices"
     ],
@@ -1978,7 +1954,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503323,
+    "date_ts": 1775663954.282695,
     "tags": [
       "Other"
     ],
@@ -1990,7 +1966,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503293,
+    "date_ts": 1775663954.282666,
     "tags": [
       "AFib"
     ],
@@ -2002,7 +1978,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503265,
+    "date_ts": 1775663954.282637,
     "tags": [
       "Other"
     ],
@@ -2014,7 +1990,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503234,
+    "date_ts": 1775663954.282606,
     "tags": [
       "SCD",
       "Genetics",
@@ -2028,7 +2004,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503197,
+    "date_ts": 1775663954.282569,
     "tags": [
       "SCD",
       "Genetics",
@@ -2042,7 +2018,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503164,
+    "date_ts": 1775663954.282536,
     "tags": [
       "Other"
     ],
@@ -2054,7 +2030,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503125,
+    "date_ts": 1775663954.282496,
     "tags": [
       "Other"
     ],
@@ -2066,7 +2042,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.50309,
+    "date_ts": 1775663954.28246,
     "tags": [
       "Devices"
     ],
@@ -2078,7 +2054,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503048,
+    "date_ts": 1775663954.282419,
     "tags": [
       "AFib"
     ],
@@ -2090,7 +2066,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.503019,
+    "date_ts": 1775663954.282389,
     "tags": [
       "AFib",
       "Imaging"
@@ -2103,7 +2079,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502986,
+    "date_ts": 1775663954.282344,
     "tags": [
       "AFib"
     ],
@@ -2115,7 +2091,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502952,
+    "date_ts": 1775663954.28231,
     "tags": [
       "Devices"
     ],
@@ -2127,7 +2103,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.50292,
+    "date_ts": 1775663954.282279,
     "tags": [
       "AFib"
     ],
@@ -2139,7 +2115,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.50289,
+    "date_ts": 1775663954.282249,
     "tags": [
       "Other"
     ],
@@ -2151,7 +2127,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502855,
+    "date_ts": 1775663954.282213,
     "tags": [
       "Devices"
     ],
@@ -2163,7 +2139,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502818,
+    "date_ts": 1775663954.282175,
     "tags": [
       "AFib",
       "Imaging"
@@ -2176,7 +2152,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502784,
+    "date_ts": 1775663954.282141,
     "tags": [
       "AFib"
     ],
@@ -2188,7 +2164,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502752,
+    "date_ts": 1775663954.282109,
     "tags": [
       "AI"
     ],
@@ -2200,7 +2176,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502707,
+    "date_ts": 1775663954.282066,
     "tags": [
       "AFib"
     ],
@@ -2212,7 +2188,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502653,
+    "date_ts": 1775663954.282031,
     "tags": [
       "AFib"
     ],
@@ -2224,7 +2200,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502617,
+    "date_ts": 1775663954.281992,
     "tags": [
       "Other"
     ],
@@ -2236,7 +2212,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502588,
+    "date_ts": 1775663954.281961,
     "tags": [
       "Other"
     ],
@@ -2248,7 +2224,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502559,
+    "date_ts": 1775663954.281932,
     "tags": [
       "AFib"
     ],
@@ -2260,7 +2236,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502529,
+    "date_ts": 1775663954.281901,
     "tags": [
       "AFib"
     ],
@@ -2272,7 +2248,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502491,
+    "date_ts": 1775663954.281863,
     "tags": [
       "AFib",
       "SVT"
@@ -2285,7 +2261,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502459,
+    "date_ts": 1775663954.281831,
     "tags": [
       "AFib"
     ],
@@ -2297,7 +2273,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502422,
+    "date_ts": 1775663954.281793,
     "tags": [
       "AFib"
     ],
@@ -2309,7 +2285,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502386,
+    "date_ts": 1775663954.281758,
     "tags": [
       "Genetics"
     ],
@@ -2321,7 +2297,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.50235,
+    "date_ts": 1775663954.281723,
     "tags": [
       "Devices"
     ],
@@ -2333,7 +2309,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502315,
+    "date_ts": 1775663954.281688,
     "tags": [
       "AFib"
     ],
@@ -2345,7 +2321,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.50228,
+    "date_ts": 1775663954.281652,
     "tags": [
       "AFib",
       "Genetics"
@@ -2358,7 +2334,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502249,
+    "date_ts": 1775663954.281622,
     "tags": [
       "VT",
       "AI"
@@ -2371,7 +2347,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.50222,
+    "date_ts": 1775663954.281593,
     "tags": [
       "Other"
     ],
@@ -2383,7 +2359,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502181,
+    "date_ts": 1775663954.281552,
     "tags": [
       "AFib"
     ],
@@ -2395,7 +2371,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502141,
+    "date_ts": 1775663954.281511,
     "tags": [
       "SVT"
     ],
@@ -2407,7 +2383,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502093,
+    "date_ts": 1775663954.281465,
     "tags": [
       "AFib"
     ],
@@ -2419,7 +2395,7 @@
     "doi": null,
     "journal": "Heart Rhythm O2",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660413.502031,
+    "date_ts": 1775663954.281393,
     "tags": [
       "Devices"
     ],
@@ -2431,7 +2407,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.863247,
+    "date_ts": 1775663954.168332,
     "tags": [
       "AI"
     ],
@@ -2443,7 +2419,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.863215,
+    "date_ts": 1775663954.168301,
     "tags": [
       "AFib"
     ],
@@ -2455,7 +2431,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.86318,
+    "date_ts": 1775663954.168269,
     "tags": [
       "Devices"
     ],
@@ -2467,7 +2443,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.863144,
+    "date_ts": 1775663954.168232,
     "tags": [
       "Devices"
     ],
@@ -2479,7 +2455,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.86311,
+    "date_ts": 1775663954.168198,
     "tags": [
       "Genetics"
     ],
@@ -2491,7 +2467,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.863071,
+    "date_ts": 1775663954.168159,
     "tags": [
       "Genetics"
     ],
@@ -2503,7 +2479,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.863034,
+    "date_ts": 1775663954.168121,
     "tags": [
       "AFib"
     ],
@@ -2515,7 +2491,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862996,
+    "date_ts": 1775663954.168082,
     "tags": [
       "AFib"
     ],
@@ -2527,7 +2503,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862966,
+    "date_ts": 1775663954.168052,
     "tags": [
       "Other"
     ],
@@ -2539,7 +2515,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862931,
+    "date_ts": 1775663954.168019,
     "tags": [
       "Other"
     ],
@@ -2551,7 +2527,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.8629,
+    "date_ts": 1775663954.167988,
     "tags": [
       "Other"
     ],
@@ -2563,7 +2539,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862866,
+    "date_ts": 1775663954.167953,
     "tags": [
       "AFib"
     ],
@@ -2575,7 +2551,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862833,
+    "date_ts": 1775663954.16792,
     "tags": [
       "Other"
     ],
@@ -2587,7 +2563,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862803,
+    "date_ts": 1775663954.16789,
     "tags": [
       "Genetics"
     ],
@@ -2599,7 +2575,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862769,
+    "date_ts": 1775663954.167855,
     "tags": [
       "Devices",
       "Genetics"
@@ -2612,7 +2588,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862729,
+    "date_ts": 1775663954.167815,
     "tags": [
       "AFib"
     ],
@@ -2624,7 +2600,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862691,
+    "date_ts": 1775663954.167781,
     "tags": [
       "SCD"
     ],
@@ -2636,7 +2612,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862642,
+    "date_ts": 1775663954.167748,
     "tags": [
       "Other"
     ],
@@ -2648,7 +2624,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862607,
+    "date_ts": 1775663954.167711,
     "tags": [
       "AFib"
     ],
@@ -2660,7 +2636,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862569,
+    "date_ts": 1775663954.167672,
     "tags": [
       "AFib"
     ],
@@ -2672,7 +2648,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.86254,
+    "date_ts": 1775663954.167641,
     "tags": [
       "Other"
     ],
@@ -2684,7 +2660,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862506,
+    "date_ts": 1775663954.167606,
     "tags": [
       "Other"
     ],
@@ -2696,7 +2672,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862471,
+    "date_ts": 1775663954.167574,
     "tags": [
       "SCD"
     ],
@@ -2708,7 +2684,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862432,
+    "date_ts": 1775663954.167533,
     "tags": [
       "VT"
     ],
@@ -2720,7 +2696,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862402,
+    "date_ts": 1775663954.167503,
     "tags": [
       "Other"
     ],
@@ -2732,7 +2708,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862368,
+    "date_ts": 1775663954.167468,
     "tags": [
       "Devices"
     ],
@@ -2744,7 +2720,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862336,
+    "date_ts": 1775663954.167436,
     "tags": [
       "Other"
     ],
@@ -2756,7 +2732,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862305,
+    "date_ts": 1775663954.167404,
     "tags": [
       "Genetics"
     ],
@@ -2768,7 +2744,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862274,
+    "date_ts": 1775663954.167372,
     "tags": [
       "Genetics"
     ],
@@ -2780,7 +2756,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862234,
+    "date_ts": 1775663954.16732,
     "tags": [
       "SVT"
     ],
@@ -2792,7 +2768,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862202,
+    "date_ts": 1775663954.167288,
     "tags": [
       "AFib"
     ],
@@ -2804,7 +2780,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862167,
+    "date_ts": 1775663954.167253,
     "tags": [
       "AFib"
     ],
@@ -2816,7 +2792,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862138,
+    "date_ts": 1775663954.167223,
     "tags": [
       "Devices"
     ],
@@ -2828,7 +2804,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862104,
+    "date_ts": 1775663954.167186,
     "tags": [
       "AFib"
     ],
@@ -2840,7 +2816,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862072,
+    "date_ts": 1775663954.167153,
     "tags": [
       "Other"
     ],
@@ -2852,7 +2828,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862038,
+    "date_ts": 1775663954.167118,
     "tags": [
       "VT"
     ],
@@ -2864,7 +2840,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.862013,
+    "date_ts": 1775663954.167093,
     "tags": [
       "Other"
     ],
@@ -2876,7 +2852,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861988,
+    "date_ts": 1775663954.167068,
     "tags": [
       "Other"
     ],
@@ -2888,7 +2864,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861963,
+    "date_ts": 1775663954.167044,
     "tags": [
       "Other"
     ],
@@ -2900,7 +2876,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861935,
+    "date_ts": 1775663954.167014,
     "tags": [
       "Genetics"
     ],
@@ -2912,7 +2888,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861901,
+    "date_ts": 1775663954.166981,
     "tags": [
       "Other"
     ],
@@ -2924,7 +2900,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861868,
+    "date_ts": 1775663954.166952,
     "tags": [
       "AFib"
     ],
@@ -2936,7 +2912,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861837,
+    "date_ts": 1775663954.166922,
     "tags": [
       "AFib"
     ],
@@ -2948,7 +2924,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861807,
+    "date_ts": 1775663954.166892,
     "tags": [
       "AFib"
     ],
@@ -2960,7 +2936,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861775,
+    "date_ts": 1775663954.16686,
     "tags": [
       "AFib",
       "AI"
@@ -2973,7 +2949,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861738,
+    "date_ts": 1775663954.166823,
     "tags": [
       "AFib",
       "AI"
@@ -2986,7 +2962,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861701,
+    "date_ts": 1775663954.166791,
     "tags": [
       "AFib"
     ],
@@ -2998,7 +2974,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861649,
+    "date_ts": 1775663954.166755,
     "tags": [
       "AFib"
     ],
@@ -3010,7 +2986,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861616,
+    "date_ts": 1775663954.166721,
     "tags": [
       "Other"
     ],
@@ -3022,7 +2998,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861586,
+    "date_ts": 1775663954.16669,
     "tags": [
       "AFib"
     ],
@@ -3034,7 +3010,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861553,
+    "date_ts": 1775663954.166654,
     "tags": [
       "AFib"
     ],
@@ -3046,7 +3022,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.86152,
+    "date_ts": 1775663954.166619,
     "tags": [
       "AFib"
     ],
@@ -3058,7 +3034,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861485,
+    "date_ts": 1775663954.166582,
     "tags": [
       "AFib"
     ],
@@ -3070,7 +3046,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861454,
+    "date_ts": 1775663954.166551,
     "tags": [
       "AFib"
     ],
@@ -3082,7 +3058,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861423,
+    "date_ts": 1775663954.166519,
     "tags": [
       "AFib"
     ],
@@ -3094,7 +3070,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861391,
+    "date_ts": 1775663954.166487,
     "tags": [
       "AFib"
     ],
@@ -3106,7 +3082,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861357,
+    "date_ts": 1775663954.166453,
     "tags": [
       "Other"
     ],
@@ -3118,7 +3094,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861324,
+    "date_ts": 1775663954.166419,
     "tags": [
       "VT"
     ],
@@ -3130,7 +3106,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.86129,
+    "date_ts": 1775663954.166384,
     "tags": [
       "VT"
     ],
@@ -3142,7 +3118,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.86126,
+    "date_ts": 1775663954.166337,
     "tags": [
       "Other"
     ],
@@ -3154,7 +3130,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861227,
+    "date_ts": 1775663954.166304,
     "tags": [
       "VT"
     ],
@@ -3166,7 +3142,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861193,
+    "date_ts": 1775663954.166274,
     "tags": [
       "Other"
     ],
@@ -3178,7 +3154,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861162,
+    "date_ts": 1775663954.166244,
     "tags": [
       "Genetics"
     ],
@@ -3190,7 +3166,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861126,
+    "date_ts": 1775663954.166207,
     "tags": [
       "Other"
     ],
@@ -3202,7 +3178,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861079,
+    "date_ts": 1775663954.16616,
     "tags": [
       "Genetics"
     ],
@@ -3214,7 +3190,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.861045,
+    "date_ts": 1775663954.166126,
     "tags": [
       "Devices",
       "AI"
@@ -3227,7 +3203,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.86101,
+    "date_ts": 1775663954.166091,
     "tags": [
       "Other"
     ],
@@ -3239,7 +3215,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860973,
+    "date_ts": 1775663954.166054,
     "tags": [
       "Devices"
     ],
@@ -3251,7 +3227,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860942,
+    "date_ts": 1775663954.166023,
     "tags": [
       "Genetics"
     ],
@@ -3263,7 +3239,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860908,
+    "date_ts": 1775663954.165987,
     "tags": [
       "Other"
     ],
@@ -3275,7 +3251,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860873,
+    "date_ts": 1775663954.165953,
     "tags": [
       "AI"
     ],
@@ -3287,7 +3263,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860842,
+    "date_ts": 1775663954.165922,
     "tags": [
       "AFib"
     ],
@@ -3299,7 +3275,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860803,
+    "date_ts": 1775663954.165884,
     "tags": [
       "Genetics",
       "Imaging"
@@ -3312,7 +3288,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860766,
+    "date_ts": 1775663954.165847,
     "tags": [
       "Genetics"
     ],
@@ -3324,7 +3300,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860733,
+    "date_ts": 1775663954.165814,
     "tags": [
       "AFib"
     ],
@@ -3336,7 +3312,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860695,
+    "date_ts": 1775663954.16578,
     "tags": [
       "Other"
     ],
@@ -3348,7 +3324,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860642,
+    "date_ts": 1775663954.165744,
     "tags": [
       "Other"
     ],
@@ -3360,7 +3336,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860609,
+    "date_ts": 1775663954.165712,
     "tags": [
       "Genetics"
     ],
@@ -3372,7 +3348,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860578,
+    "date_ts": 1775663954.165679,
     "tags": [
       "Other"
     ],
@@ -3384,7 +3360,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860545,
+    "date_ts": 1775663954.165649,
     "tags": [
       "VT"
     ],
@@ -3396,7 +3372,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860509,
+    "date_ts": 1775663954.165616,
     "tags": [
       "Other"
     ],
@@ -3408,7 +3384,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860472,
+    "date_ts": 1775663954.165578,
     "tags": [
       "Other"
     ],
@@ -3420,7 +3396,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860438,
+    "date_ts": 1775663954.165543,
     "tags": [
       "AFib",
       "SVT"
@@ -3433,7 +3409,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860403,
+    "date_ts": 1775663954.165509,
     "tags": [
       "Other"
     ],
@@ -3445,7 +3421,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860365,
+    "date_ts": 1775663954.16547,
     "tags": [
       "Genetics"
     ],
@@ -3457,7 +3433,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860332,
+    "date_ts": 1775663954.165436,
     "tags": [
       "Other"
     ],
@@ -3469,7 +3445,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860299,
+    "date_ts": 1775663954.165403,
     "tags": [
       "AFib",
       "Genetics"
@@ -3482,7 +3458,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860266,
+    "date_ts": 1775663954.165355,
     "tags": [
       "Other"
     ],
@@ -3494,7 +3470,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860233,
+    "date_ts": 1775663954.165322,
     "tags": [
       "VT"
     ],
@@ -3506,7 +3482,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860201,
+    "date_ts": 1775663954.16529,
     "tags": [
       "SCD",
       "Genetics"
@@ -3519,7 +3495,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860165,
+    "date_ts": 1775663954.165255,
     "tags": [
       "Imaging"
     ],
@@ -3531,7 +3507,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.86013,
+    "date_ts": 1775663954.165221,
     "tags": [
       "Genetics",
       "AI"
@@ -3544,7 +3520,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860089,
+    "date_ts": 1775663954.16518,
     "tags": [
       "AFib"
     ],
@@ -3556,7 +3532,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.860058,
+    "date_ts": 1775663954.16515,
     "tags": [
       "Other"
     ],
@@ -3568,7 +3544,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.86002,
+    "date_ts": 1775663954.16511,
     "tags": [
       "SCD"
     ],
@@ -3580,7 +3556,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.859982,
+    "date_ts": 1775663954.165072,
     "tags": [
       "Imaging"
     ],
@@ -3592,7 +3568,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.859939,
+    "date_ts": 1775663954.165028,
     "tags": [
       "Other"
     ],
@@ -3604,7 +3580,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.859897,
+    "date_ts": 1775663954.164987,
     "tags": [
       "Genetics"
     ],
@@ -3616,7 +3592,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.859852,
+    "date_ts": 1775663954.164938,
     "tags": [
       "AFib"
     ],
@@ -3628,7 +3604,7 @@
     "doi": null,
     "journal": "Heart Rhythm",
     "date": "Apr 08, 2026",
-    "date_ts": 1775660410.859606,
+    "date_ts": 1775663954.164758,
     "tags": [
       "Genetics"
     ],
@@ -6048,6 +6024,30 @@
     "date_ts": 1769904000.0,
     "tags": [
       "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Feasibility, procedural efficiency, and early imaging outcomes of concomitant pulsed field ablation and left atrial appendage closure: a prospective single-centre study",
+    "link": "https://doi.org/10.1093/europace/euag017",
+    "doi": "10.1093/europace/euag017",
+    "journal": "EP Europace",
+    "date": "Feb 01, 2026",
+    "date_ts": 1769904000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Shortest pulmonary vein atrial fibrillation cycle length identifies pulmonary vein isolation responders beyond clinical atrial fibrillation pattern: the FARS-AF II study",
+    "link": "https://doi.org/10.1093/europace/euag033",
+    "doi": "10.1093/europace/euag033",
+    "journal": "EP Europace",
+    "date": "Feb 01, 2026",
+    "date_ts": 1769904000.0,
+    "tags": [
+      "AFib"
     ],
     "hot": false
   }

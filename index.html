@@ -145,7 +145,7 @@
       border-radius: 4px;
     }
 
-    .paper.hidden { display: none; }
+    .paper.hidden, .paper.search-hidden { display: none; }
 
     /* unread state */
     .paper.unread .paper-title { font-weight: 500; color: #eaf0f9; }
@@ -228,6 +228,30 @@
     }
     .read-all-btn:hover { color: var(--text); border-color: var(--muted); }
 
+    /* ── search ── */
+    .search-bar {
+      padding: 12px 32px;
+      background: var(--bg);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .search-input {
+      width: 100%;
+      max-width: 480px;
+      padding: 8px 12px;
+      font-family: var(--sans);
+      font-size: 14px;
+      color: var(--text);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 5px;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+
+    .search-input::placeholder { color: var(--muted); }
+    .search-input:focus { border-color: var(--accent); }
+
     .empty {
       padding: 64px 0;
       text-align: center;
@@ -237,14 +261,28 @@
       letter-spacing: 0.1em;
     }
 
+    /* ── footer ── */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 24px 32px;
+      text-align: center;
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--muted);
+      letter-spacing: 0.04em;
+    }
+
     /* ── responsive ── */
     @media (max-width: 640px) {
       header { padding: 16px 20px; flex-wrap: wrap; gap: 8px; }
       .filters { padding: 12px 20px; }
+      .search-bar { padding: 12px 20px; }
+      .search-input { max-width: 100%; }
       .feed { padding: 0 20px 48px; }
       .paper { grid-template-columns: 1fr; gap: 5px; }
       .paper:hover { margin: 0 -20px; padding: 12px 20px; }
       .paper-meta { font-size: 10px; text-align: left; }
+      footer { padding: 20px; }
     }
   </style>
 </head>
@@ -257,7 +295,7 @@
   </div>
   <div class="header-right">
     <div><span class="count">500</span> papers</div>
-    <div>updated Apr 08, 2026 at 15:35 UTC</div>
+    <div>updated Apr 08, 2026 at 15:59 UTC</div>
   </div>
 </header>
 
@@ -265,33 +303,14 @@
 
 <div class="filters">
   <button class="filter-btn active" onclick="filter('all')">All</button><button class="filter-btn" onclick="filter('afib')" style="--accent:#2563eb">AFib</button><button class="filter-btn" onclick="filter('svt')" style="--accent:#c2410c">SVT</button><button class="filter-btn" onclick="filter('vt')" style="--accent:#dc2626">VT</button><button class="filter-btn" onclick="filter('scd')" style="--accent:#7c3aed">SCD</button><button class="filter-btn" onclick="filter('devices')" style="--accent:#0891b2">Devices</button><button class="filter-btn" onclick="filter('genetics')" style="--accent:#059669">Genetics</button><button class="filter-btn" onclick="filter('imaging')" style="--accent:#d97706">Imaging</button><button class="filter-btn" onclick="filter('ai')" style="--accent:#0d9488">AI</button><button class="filter-btn" onclick="filter('other')" style="--accent:#4b5563">Other</button>
-  <button class="read-all-btn" onclick="markAllRead()">mark all read</button>
+</div>
+
+<div class="search-bar">
+  <input type="text" class="search-input" placeholder="Search papers..." oninput="searchPapers(this.value)"/>
 </div>
 
 <div class="feed">
   
-    <div class="paper tag-afib" data-id="www_sciencedirect_com_science_article_pii_S0735109726060250?dgcid=rss_sd_all">
-      <div class="paper-tags"><span class="tag" style="background:#2563eb22;color:#2563eb;border-color:#2563eb33">AFib</span></div>
-      <div class="paper-title-wrap">
-        <span class="unread-dot" title="Unread"></span>
-        
-        <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S0735109726060250?dgcid=rss_sd_all" target="_blank" rel="noopener"
-           onclick="markRead('www_sciencedirect_com_science_article_pii_S0735109726060250?dgcid=rss_sd_all')">26-CCC-10386-ACC BLUE TOE SYNDROME: ANTICOAGULATION CHALLENGES AFTER SUCCESSFUL ATRIAL FIBRILLATION ABLATION</a>
-      </div>
-      <div class="paper-meta">JACC · Apr 08, 2026</div>
-    </div>
-
-    <div class="paper tag-other" data-id="www_sciencedirect_com_science_article_pii_S0735109726060468?dgcid=rss_sd_all">
-      <div class="paper-tags"><span class="tag" style="background:#4b556322;color:#4b5563;border-color:#4b556333">Other</span></div>
-      <div class="paper-title-wrap">
-        <span class="unread-dot" title="Unread"></span>
-        
-        <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S0735109726060468?dgcid=rss_sd_all" target="_blank" rel="noopener"
-           onclick="markRead('www_sciencedirect_com_science_article_pii_S0735109726060468?dgcid=rss_sd_all')">26-CCC-14735-ACC REFRACTORY CHYLOTHORAX RELATED TO SUPERIOR VENA CAVA STENOSIS FROM IMPLANTABLE CARDIAC DEFIBRILLATOR LEADS</a>
-      </div>
-      <div class="paper-meta">JACC · Apr 08, 2026</div>
-    </div>
-
     <div class="paper tag-devices" data-id="www_sciencedirect_com_science_article_pii_S0735109726051132?dgcid=rss_sd_all">
       <div class="paper-tags"><span class="tag" style="background:#0891b222;color:#0891b2;border-color:#0891b233">Devices</span></div>
       <div class="paper-title-wrap">
@@ -5779,7 +5798,33 @@
       </div>
       <div class="paper-meta">EP Europace · Feb 01, 2026</div>
     </div>
+
+    <div class="paper tag-afib" data-id="doi_org_10_1093_europace_euag017">
+      <div class="paper-tags"><span class="tag" style="background:#2563eb22;color:#2563eb;border-color:#2563eb33">AFib</span></div>
+      <div class="paper-title-wrap">
+        <span class="unread-dot" title="Unread"></span>
+        
+        <a class="paper-title" href="https://doi.org/10.1093/europace/euag017" target="_blank" rel="noopener"
+           onclick="markRead('doi_org_10_1093_europace_euag017')">Feasibility, procedural efficiency, and early imaging outcomes of concomitant pulsed field ablation and left atrial appendage closure: a prospective single-centre study</a>
+      </div>
+      <div class="paper-meta">EP Europace · Feb 01, 2026</div>
+    </div>
+
+    <div class="paper tag-afib" data-id="doi_org_10_1093_europace_euag033">
+      <div class="paper-tags"><span class="tag" style="background:#2563eb22;color:#2563eb;border-color:#2563eb33">AFib</span></div>
+      <div class="paper-title-wrap">
+        <span class="unread-dot" title="Unread"></span>
+        
+        <a class="paper-title" href="https://doi.org/10.1093/europace/euag033" target="_blank" rel="noopener"
+           onclick="markRead('doi_org_10_1093_europace_euag033')">Shortest pulmonary vein atrial fibrillation cycle length identifies pulmonary vein isolation responders beyond clinical atrial fibrillation pattern: the FARS-AF II study</a>
+      </div>
+      <div class="paper-meta">EP Europace · Feb 01, 2026</div>
+    </div>
 </div>
+
+<footer>
+  &copy; 2026 Yotam Kolben. All rights reserved.
+</footer>
 
 <script>
   const READ_KEY = 'ep_read_v1';
@@ -5833,6 +5878,19 @@
         p.classList.remove('hidden');
       } else {
         p.classList.toggle('hidden', !p.classList.contains('tag-' + tag));
+      }
+    });
+  }
+
+  function searchPapers(query) {
+    const q = query.toLowerCase().trim();
+    document.querySelectorAll('.paper').forEach(p => {
+      if (!q) {
+        p.classList.remove('search-hidden');
+      } else {
+        const title = (p.querySelector('.paper-title')?.textContent || '').toLowerCase();
+        const meta = (p.querySelector('.paper-meta')?.textContent || '').toLowerCase();
+        p.classList.toggle('search-hidden', !title.includes(q) && !meta.includes(q));
       }
     });
   }
