@@ -563,11 +563,10 @@ def render_html(papers: list[dict]) -> str:
       font-family: var(--mono);
       font-size: 11px;
       color: var(--muted);
-      text-align: right;
-      line-height: 1.7;
+      display: flex;
+      align-items: center;
+      gap: 10px;
     }}
-
-    .count {{ color: var(--accent); }}
 
     /* ── ecg line decoration ── */
     .ecg-bar {{
@@ -860,8 +859,7 @@ def render_html(papers: list[dict]) -> str:
         align-items: center;
       }}
       .logo-sub {{ font-size: 9px; white-space: nowrap; }}
-      .header-right {{ text-align: left; line-height: 1.4; }}
-      .theme-toggle {{ flex-shrink: 0; }}
+      .header-right {{ font-size: 10px; gap: 8px; }}
       .filters {{ padding: 10px 16px; gap: 5px; }}
       .toolbar {{ padding: 10px 16px; flex-wrap: nowrap; }}
       .search-input {{ min-width: 0; flex: 1; font-size: 13px; padding: 6px 10px; }}
@@ -876,14 +874,14 @@ def render_html(papers: list[dict]) -> str:
 <body>
 
 <header>
-  <div>
+  <div class="header-left">
     <div class="logo">EP Feed</div>
     <div class="logo-sub">Your daily EP reading list</div>
   </div>
   <div class="header-right">
     <div>Last updated {updated}</div>
+    <button class="theme-toggle" onclick="toggleTheme()" title="Toggle light/dark mode" id="theme-btn">&#9790;</button>
   </div>
-  <button class="theme-toggle" onclick="toggleTheme()" title="Toggle light/dark mode" id="theme-btn">&#9790;</button>
 </header>
 
 <div class="ecg-bar"></div>
