@@ -1,23 +1,23 @@
 [
   {
-    "title": "26-CCC-16127-ACC A CASE OF TRICUSPID AND SUBPULMONIC VALVE STENOSIS IN THE SETTING OF ABANDONED PACEMAKER LEADS PRESENTING AS SVC SYNDROME",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726051132?dgcid=rss_sd_all",
+    "title": "26-CCC-10386-ACC BLUE TOE SYNDROME: ANTICOAGULATION CHALLENGES AFTER SUCCESSFUL ATRIAL FIBRILLATION ABLATION",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726060250?dgcid=rss_sd_all",
     "journal": "JACC",
     "date": "Apr 08, 2026",
-    "date_ts": 1775635377.991097,
+    "date_ts": 1775659302.142281,
     "tags": [
-      "Devices"
+      "AFib"
     ],
     "hot": false
   },
   {
-    "title": "26-CCC-18567-ACC MITRAL ANNULAR DISJUNCTION IN A PATIENT WITH RECURRENT VENTRICULAR FIBRILLATION AND ASSOCIATED SINUS VENOSUS ATRIAL SEPTAL DEFECT",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726051521?dgcid=rss_sd_all",
+    "title": "26-CCC-14735-ACC REFRACTORY CHYLOTHORAX RELATED TO SUPERIOR VENA CAVA STENOSIS FROM IMPLANTABLE CARDIAC DEFIBRILLATOR LEADS",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726060468?dgcid=rss_sd_all",
     "journal": "JACC",
     "date": "Apr 08, 2026",
-    "date_ts": 1775635377.990791,
+    "date_ts": 1775659302.142116,
     "tags": [
-      "VT"
+      "Other"
     ],
     "hot": false
   },
@@ -26,7 +26,7 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726052022?dgcid=rss_sd_all",
     "journal": "JACC",
     "date": "Apr 08, 2026",
-    "date_ts": 1775635377.990432,
+    "date_ts": 1775659302.141757,
     "tags": [
       "AFib"
     ],
@@ -37,7 +37,7 @@
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726052125?dgcid=rss_sd_all",
     "journal": "JACC",
     "date": "Apr 08, 2026",
-    "date_ts": 1775635377.990312,
+    "date_ts": 1775659302.141642,
     "tags": [
       "Genetics"
     ],
@@ -48,7 +48,7 @@
     "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2517213?af=R&rss=currentIssue",
     "journal": "NEJM",
     "date": "Apr 08, 2026",
-    "date_ts": 1775635377.456561,
+    "date_ts": 1775659301.829343,
     "tags": [
       "AFib"
     ],
@@ -59,7 +59,7 @@
     "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2517822?af=R&rss=currentIssue",
     "journal": "NEJM",
     "date": "Apr 08, 2026",
-    "date_ts": 1775635377.456368,
+    "date_ts": 1775659301.82916,
     "tags": [
       "VT",
       "AI"
@@ -71,131 +71,9 @@
     "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2513310?af=R&rss=currentIssue",
     "journal": "NEJM",
     "date": "Apr 08, 2026",
-    "date_ts": 1775635377.456283,
+    "date_ts": 1775659301.829092,
     "tags": [
       "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "<i>DMPK</i>\n                    3\u2032 untranslated repeat expansions in unexplained sudden cardiac death in the young",
-    "link": "https://doi.org/10.1093/eurheartj/ehag247",
-    "journal": "European Heart Journal",
-    "date": "Apr 03, 2026",
-    "date_ts": 1775174400.0,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cutting-edge studies on atrial fibrillation, left bundle branch area pacing, and subcutaneous defibrillators",
-    "link": "https://doi.org/10.1093/eurheartj/ehag223",
-    "journal": "European Heart Journal",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Stroke and systemic embolism following atrial fibrillation ablation: the EMBOL-AF Global Registry",
-    "link": "https://doi.org/10.1093/eurheartj/ehag217",
-    "journal": "European Heart Journal",
-    "date": "Mar 31, 2026",
-    "date_ts": 1774915200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Atrial fibrillation density as a biomarker for ischaemic stroke risk prediction",
-    "link": "https://doi.org/10.1093/eurheartj/ehag203",
-    "journal": "European Heart Journal",
-    "date": "Mar 28, 2026",
-    "date_ts": 1774656000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Early-onset atrial fibrillation without structural heart disease: lifestyle and hereditary risk factors",
-    "link": "https://doi.org/10.1093/eurheartj/ehag205",
-    "journal": "European Heart Journal",
-    "date": "Mar 28, 2026",
-    "date_ts": 1774656000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Biatrial macro-reentrant atrial tachycardia after surgical atrial septal defect closure and maze procedure identified by activation and coherent mapping",
-    "link": "https://doi.org/10.1093/eurheartj/ehag232",
-    "journal": "European Heart Journal",
-    "date": "Mar 28, 2026",
-    "date_ts": 1774656000.0,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Too fast, too short: mini-hearts, genome editing, and the new biology of sudden cardiac death",
-    "link": "https://doi.org/10.1093/eurheartj/ehag196",
-    "journal": "European Heart Journal",
-    "date": "Mar 25, 2026",
-    "date_ts": 1774396800.0,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Inflammatory pathways in atrial fibrillation: mechanisms and novel therapeutic targets",
-    "link": "https://doi.org/10.1093/eurheartj/ehag131",
-    "journal": "European Heart Journal",
-    "date": "Mar 25, 2026",
-    "date_ts": 1774396800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "High Incidence of Pacing-Induced Cardiomyopathy in Patients with Cardiac Sarcoidosis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022447?dgcid=rss_sd_all",
-    "journal": "Heart Rhythm",
-    "date": "Apr 08, 2026",
-    "date_ts": 1775623269.898778,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Acute kidney injury related to pulsed-field ablation of atrial fibrillation. Protective role of the protocol-based hydration regimen.",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022472?dgcid=rss_sd_all",
-    "journal": "Heart Rhythm",
-    "date": "Apr 08, 2026",
-    "date_ts": 1775623269.898748,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Notch1 Deletion Reduces Arrhythmogenic Remodeling after Myocardial Infarction",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602240X?dgcid=rss_sd_all",
-    "journal": "Heart Rhythm",
-    "date": "Apr 08, 2026",
-    "date_ts": 1775623269.898679,
-    "tags": [
-      "Genetics"
     ],
     "hot": false
   },
@@ -203,8 +81,8 @@
     "title": "Pulmonary Vein Isolation Only for Atrial Fibrillation With Heart Failure (POLAR-HF)",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008126?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498991,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.640334,
     "tags": [
       "AFib"
     ],
@@ -214,8 +92,8 @@
     "title": "Ablation in Heart Failure: The Case for Simplicity",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009193?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498974,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.640314,
     "tags": [
       "Other"
     ],
@@ -225,8 +103,8 @@
     "title": "Impact of Spontaneous Echo Contrast on Clinical Outcomes After Left Atrial Appendage Closure",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25007984?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498954,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.640289,
     "tags": [
       "AFib"
     ],
@@ -236,8 +114,8 @@
     "title": "Reading the \u201cSmoke\u201d: Spontaneous Echo Contrast and Thromboembolic Risk After Left Atrial Appendage Occlusion",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2500917X?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.49893,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.640258,
     "tags": [
       "AFib"
     ],
@@ -247,8 +125,8 @@
     "title": "Atrial Fibrillation Recurrence After Left Atrial Appendage Occlusion in Patients Undergoing Ablation: The OPTION Trial Sub analysis",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2500800X?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.49891,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.640232,
     "tags": [
       "AFib"
     ],
@@ -258,8 +136,8 @@
     "title": "Closing the Appendage, Opening Questions: Rhythm Outcomes From the OPTION Trial",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010047?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498891,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.640209,
     "tags": [
       "Other"
     ],
@@ -269,8 +147,8 @@
     "title": "Catheter Ablation Outcomes and Life Expectancy in Very Elderly Atrial Fibrillation Patients: The REHEALTH AF Study",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008278?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498872,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.640184,
     "tags": [
       "AFib"
     ],
@@ -280,8 +158,8 @@
     "title": "Atrial Fibrillation in the Octogenarians: Is It Too Late to Ablate?",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010072?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498854,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.640163,
     "tags": [
       "AFib"
     ],
@@ -291,8 +169,8 @@
     "title": "Catheter Ablation vs Antiarrhythmic Drug Therapy for Atrial Fibrillation in Cardiac Amyloidosis",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25007996?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498835,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.640139,
     "tags": [
       "AFib"
     ],
@@ -302,8 +180,8 @@
     "title": "Left Atrial Wall Thickness as a Marker of Atrial Substrate in Patients With Atrial Fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008138?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498816,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.640115,
     "tags": [
       "AFib"
     ],
@@ -313,8 +191,8 @@
     "title": "Antemortem Underdiagnosis of Cardiac Amyloidosis in Sudden Cardiac Death Victims",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008230?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498794,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.640092,
     "tags": [
       "SCD"
     ],
@@ -324,8 +202,8 @@
     "title": "A Phenotype-Enhanced Variant Classification Framework to Decrease the Burden of Variants of Uncertain Significance in Type 2 Long QT Syndrome",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008254?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498773,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.640067,
     "tags": [
       "Genetics"
     ],
@@ -335,8 +213,8 @@
     "title": "Phenotype-Enhanced Classification of Genetic Variants in Long QT Syndrome, Type 2",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010011?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498755,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.640045,
     "tags": [
       "Genetics"
     ],
@@ -346,10 +224,11 @@
     "title": "Detection of Titin-Associated Electrocardiography Features in Dilated Cardiomyopathy Using Conventional and Deep Neural Network Analysis",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008266?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498734,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.64002,
     "tags": [
-      "Genetics"
+      "Genetics",
+      "AI"
     ],
     "hot": false
   },
@@ -357,8 +236,8 @@
     "title": "Illuminating Titin Truncating Variants in Dilated Cardiomyopathy",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009910?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498715,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.639998,
     "tags": [
       "Genetics"
     ],
@@ -368,8 +247,8 @@
     "title": "Safety and Effectiveness of Surgical Pericardial Access for Catheter Ablation of Epicardial Ventricular Tachycardia: A Multicenter Experience",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25007911?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498694,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.639969,
     "tags": [
       "VT"
     ],
@@ -379,8 +258,8 @@
     "title": "Syncopal Recurrence in Patients Treated With Dual Chamber Pacemaker for Reflex Syncope With Asystole",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008060?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498675,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.63994,
     "tags": [
       "Devices"
     ],
@@ -390,8 +269,8 @@
     "title": "Isoproterenol Testing as a Sensitive Tool to Unmask Arrhythmogenic Susceptibility In Patients With AMVP",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008072?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498656,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.639915,
     "tags": [
       "Genetics"
     ],
@@ -401,8 +280,8 @@
     "title": "A Comparative Analysis of Hemolysis Related to the Bipolar Pentaspline and Monopolar Lattice-Tip Catheters",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008096?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498635,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.639889,
     "tags": [
       "Other"
     ],
@@ -412,8 +291,8 @@
     "title": "Impact of Steroids on Managing Iatrogenic Pericardial Diseases After Electrophysiology Procedures",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008175?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498615,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.639861,
     "tags": [
       "Other"
     ],
@@ -423,8 +302,8 @@
     "title": "Atrial Fibrillation and Takotsubo Syndrome: A Propensity-Matched Analysis From the GEIST and ATHERO-AF Registries",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25007960?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498596,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.639819,
     "tags": [
       "AFib"
     ],
@@ -434,8 +313,8 @@
     "title": "Measuring Hormones After TdP: Timing, Targeting, and Treatment Windows",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25011028?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498577,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.639745,
     "tags": [
       "Other"
     ],
@@ -445,8 +324,8 @@
     "title": "REPLY: Measuring Hormones After TdP: Timing, Targeting, and Treatment Windows",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2501103X?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498558,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.6397,
     "tags": [
       "Other"
     ],
@@ -456,8 +335,8 @@
     "title": "The Real Risk-Benefit Ratio of Contemporary Implantable Cardioverter-Defibrillator Therapy Remains Unknown",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25011211?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498539,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.639656,
     "tags": [
       "Devices"
     ],
@@ -467,8 +346,8 @@
     "title": "REPLY: The Real Risk-Benefit Ratio of Contemporary Implantable Cardioverter-Defibrillator Therapy Remains Unknown",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25011223?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.49852,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.639609,
     "tags": [
       "Devices"
     ],
@@ -478,8 +357,8 @@
     "title": "The Complex Interplay Between Aging, Cardiac Remodeling, and Atrial Fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2500814X?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498502,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.639559,
     "tags": [
       "AFib"
     ],
@@ -489,8 +368,8 @@
     "title": "Biatrial Flutter in Repaired Tetralogy of Fallot: Complementary Role of Activation and Entrainment Mapping in Understanding the Mechanism of a Complex Atrial Arrhythmia",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008321?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498479,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.6395,
     "tags": [
       "AFib"
     ],
@@ -500,8 +379,8 @@
     "title": "Dynamic Conduction Variability: Beat-to-Beat Changes in His Bundle and Right Bundle Activation and QRS Morphology",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008333?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498458,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.639448,
     "tags": [
       "Other"
     ],
@@ -511,8 +390,8 @@
     "title": "Focal-Bipolar Pulsed Field Ablation of Inaccessible Epicardial Left Ventricular Summit Arrhythmia",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2500831X?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498438,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.639395,
     "tags": [
       "Other"
     ],
@@ -522,8 +401,8 @@
     "title": "Transient Transmural Impact on Epicardial Ventricular Tachycardia Substrate Using a Dual-Energy, Contact Force\u2013Sensing Ablation Catheter",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009156?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498412,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.639329,
     "tags": [
       "VT"
     ],
@@ -533,8 +412,8 @@
     "title": "Full Issue PDF",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600071X?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498396,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.639293,
     "tags": [
       "Other"
     ],
@@ -544,8 +423,8 @@
     "title": "Editorial Board",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001490?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.49838,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.639258,
     "tags": [
       "Other"
     ],
@@ -555,8 +434,8 @@
     "title": "Electrophysiologic Considerations in Percutaneous Right-Sided Valve Interventions",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001477?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498362,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.639215,
     "tags": [
       "Other"
     ],
@@ -566,8 +445,8 @@
     "title": "Ventricular Arrhythmias After Self-Expanding Transcatheter Pulmonary Valve Replacement: A Report From the SERVE Registry",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001398?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498342,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.639171,
     "tags": [
       "VT"
     ],
@@ -577,8 +456,8 @@
     "title": "Ventricular Arrhythmias After Self-Expanding Transcatheter Pulmonary Valves: Mechanisms Matter",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001349?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498323,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.639127,
     "tags": [
       "VT"
     ],
@@ -588,8 +467,8 @@
     "title": "Arrhythmia Occurrence After Balloon-Expandable and Self-Expanding Transcatheter Pulmonary Valve Replacement",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001180?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498303,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.63908,
     "tags": [
       "Other"
     ],
@@ -599,8 +478,8 @@
     "title": "Transcatheter Pulmonary Valve Replacement, Ventricular Arrhythmias, and Sudden Death: What Is Now Known and Not Known?",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001386?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498283,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.639034,
     "tags": [
       "VT"
     ],
@@ -610,8 +489,8 @@
     "title": "Transcatheter Tricuspid Valve Replacement in Patients With Cardiac Implantable Electronic Device Leads: The TRIPLACE Registry",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25011041?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498261,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.638982,
     "tags": [
       "Other"
     ],
@@ -621,8 +500,8 @@
     "title": "Lead Jailing or Lead Liberation?",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001209?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498245,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.638936,
     "tags": [
       "Other"
     ],
@@ -632,8 +511,8 @@
     "title": "Tricuspid Right Ventricular Lead Entrapment in Transcatheter Tricuspid Interventions: The Tri-LEAD Study",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009144?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498224,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.63888,
     "tags": [
       "Other"
     ],
@@ -643,8 +522,8 @@
     "title": "Two Intertwined Therapies",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010205?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498207,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.638831,
     "tags": [
       "Other"
     ],
@@ -654,8 +533,8 @@
     "title": "Practice Patterns and Outcomes for Tricuspid Interventions Among Medicare Patients With Cardiac Implantable Electronic Devices",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25007947?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498186,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.638745,
     "tags": [
       "Other"
     ],
@@ -665,8 +544,8 @@
     "title": "Lessons Learned From a Nationwide Analysis of TVIs in Patients With CIEDs: Managing the Lead at the Crossroads",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009909?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498165,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.638693,
     "tags": [
       "Other"
     ],
@@ -676,8 +555,8 @@
     "title": "Left Bundle Branch Area Pacing in Patients With Cardiac Sarcoidosis",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008199?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498143,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.638646,
     "tags": [
       "Other"
     ],
@@ -687,8 +566,8 @@
     "title": "Conduction System Pacing for Cardiac Sarcoidosis: A Mission Impossible for LBBAP?",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008308?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498107,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.638596,
     "tags": [
       "Devices"
     ],
@@ -698,8 +577,8 @@
     "title": "Comparison of Monopolar and Bipolar Pulsed Field vs Radiofrequency Ablation on Coronary Artery Injury in a Swine Model",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008965?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498086,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.638544,
     "tags": [
       "Other"
     ],
@@ -709,8 +588,8 @@
     "title": "A Fly in the Ointment: Coronary Spasm After Pulsed Field Ablation of the Cavotricuspid Isthmus",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009958?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498067,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.638495,
     "tags": [
       "Other"
     ],
@@ -720,8 +599,8 @@
     "title": "Characterizing Sustained Arrhythmias in Patients With Arrhythmic Mitral Valve Prolapse: Insights From the SAVE-MVP collaboration",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008242?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498045,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.638444,
     "tags": [
       "Other"
     ],
@@ -731,8 +610,8 @@
     "title": "Early and Late Myocardial Effects of Proton Beam Cardiac Radioablation: Insights From Gene Expression Analysis",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008941?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498024,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.638391,
     "tags": [
       "Other"
     ],
@@ -742,8 +621,8 @@
     "title": "Understanding the Antiarrhythmic Mechanisms of Cardiac Radioablation: Putting the Horse in Front of the Cart",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010138?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.498003,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.638337,
     "tags": [
       "Other"
     ],
@@ -753,8 +632,8 @@
     "title": "Image Integration to Identify Histologic and Electroanatomic Ventricular Scar: A Clinicopathological Study Comparing 2 Image Integration Systems",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009211?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.49798,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.638281,
     "tags": [
       "Other"
     ],
@@ -764,8 +643,8 @@
     "title": "Histology-Validated Semiautomatic LGE-CMR Postprocessing: What We Truly See\u2014and What We\u2019re Missing",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26000113?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497957,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.638222,
     "tags": [
       "Other"
     ],
@@ -775,10 +654,11 @@
     "title": "Predicting Sudden Cardiac Death in Patients With Sarcoidosis Using a Multimodal Artificial Intelligence Model",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008291?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497937,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.638172,
     "tags": [
-      "SCD"
+      "SCD",
+      "AI"
     ],
     "hot": false
   },
@@ -786,10 +666,10 @@
     "title": "From Algorithm to Bedside: Making AI Models Clinically Meaningful",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010035?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497919,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.63812,
     "tags": [
-      "Other"
+      "AI"
     ],
     "hot": false
   },
@@ -797,8 +677,8 @@
     "title": "Implantable Cardioverter-Defibrillator Use in Patients With Left Ventricular Assist Devices: A Systematic Review and Meta-Analysis",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2500828X?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497899,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.638063,
     "tags": [
       "Devices"
     ],
@@ -808,8 +688,8 @@
     "title": "RBM20 Truncating Variants Predict Major Ventricular Arrhythmia Risk Independent of Structural Remodeling",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008229?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497879,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.638005,
     "tags": [
       "VT"
     ],
@@ -819,8 +699,8 @@
     "title": "Multimodal Strategies to Reduce Health System\u2013Wide Opioid Utilization After Cardiac Implantable Electronic Device Procedures",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008989?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497853,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.637933,
     "tags": [
       "Other"
     ],
@@ -830,8 +710,8 @@
     "title": "Clinical Outcome in Athletes With Ventricular Ectopic Beats and Normal Cardiac MRI: Preliminary Results of a Longitudinal Study",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008977?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497833,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.637872,
     "tags": [
       "Imaging"
     ],
@@ -841,8 +721,8 @@
     "title": "From ECG Pattern to Care Pathway: Simplifying Risk in Post-TAVI LBBB",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001222?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497814,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.637778,
     "tags": [
       "Other"
     ],
@@ -852,8 +732,8 @@
     "title": "REPLY: From ECG Pattern to Care Pathway: Simplifying Risk in Post-TAVI LBBB",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001234?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497795,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.637728,
     "tags": [
       "Other"
     ],
@@ -863,8 +743,8 @@
     "title": "Left Bundle Branch Area Pacing in Patients With Cardiac Sarcoidosis: The Key Question Is Not Clearly Answered",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001210?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497775,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.637676,
     "tags": [
       "Other"
     ],
@@ -874,8 +754,8 @@
     "title": "Reply: Left Bundle Branch Area Pacing in Patients With Cardiac Sarcoidosis: The Key Question Is Not Clearly Answered",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001246?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497754,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.63762,
     "tags": [
       "Other"
     ],
@@ -885,8 +765,8 @@
     "title": "Rhythm and Blues: Atrial Fibrillation, Depression, and the Autonomic Nervous System",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010230?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497736,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.637568,
     "tags": [
       "AFib"
     ],
@@ -896,8 +776,8 @@
     "title": "Hidden in the Septopulmonary Bundle: An Unusual Mechanism of LA Flutter After PFA of the Posterior Left Atrium",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009168?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497715,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.637511,
     "tags": [
       "Other"
     ],
@@ -907,8 +787,8 @@
     "title": "Passive Right Atrial Activation Driven by the Coronary Sinus Fibrillatory Activity: Insight Into Its Critical Role in Atrial Fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009922?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497689,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.637457,
     "tags": [
       "AFib"
     ],
@@ -918,8 +798,8 @@
     "title": "Profound Asystole Following Pulsed Field Application to the Left Superior Pulmonary Vein",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009892?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497669,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.637412,
     "tags": [
       "AFib"
     ],
@@ -929,8 +809,8 @@
     "title": "Novel Neovascular Conduit Creation for Cardiac Implantable Electronic Device Implantation in Chronic Venous Occlusions",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010023?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497648,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.637364,
     "tags": [
       "Other"
     ],
@@ -940,8 +820,8 @@
     "title": "Ventricular Fibrillation Termination During Ablation at a Purkinje\u2013Border Zone Channel Overlapping Site",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2501000X?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497622,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.637308,
     "tags": [
       "VT"
     ],
@@ -951,8 +831,8 @@
     "title": "Transhepatic Access (and Re-Access) in Adult Patients With Interrupted Inferior Vena Cava Undergoing Electrophysiology Procedures",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010059?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497601,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.637259,
     "tags": [
       "Other"
     ],
@@ -962,8 +842,8 @@
     "title": "Full Issue PDF",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002100?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497585,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.63722,
     "tags": [
       "Other"
     ],
@@ -973,8 +853,8 @@
     "title": "Delineating the Intramural VT Substrate in Nonischemic Cardiomyopathy: Mapping What We Cannot Touch",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001155?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497564,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.637168,
     "tags": [
       "Genetics"
     ],
@@ -984,8 +864,8 @@
     "title": "Performance and Safety of the Extravascular Implantable Cardioverter-Defibrillator in Patients With Hypertrophic Cardiomyopathy",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001271?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497545,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.637116,
     "tags": [
       "Devices",
       "Genetics"
@@ -996,8 +876,8 @@
     "title": "Progress in Ventricular Arrhythmia Risk Stratification in Light Chain Cardiac Amyloidosis",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001167?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497525,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.637062,
     "tags": [
       "VT",
       "SCD"
@@ -1008,8 +888,8 @@
     "title": "Left Bundle Branch Area Antitachycardia Pacing Improves Success Rate Compared to Right Ventricular Antitachycardia Pacing",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001179?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497503,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.637004,
     "tags": [
       "Other"
     ],
@@ -1019,8 +899,8 @@
     "title": "Clinical Impact and Prediction of Early Electrical Storm in Patients With Left Ventricular Assist Device",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001258?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497482,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.636946,
     "tags": [
       "Other"
     ],
@@ -1030,8 +910,8 @@
     "title": "To Ablate or Wait?: Navigating the Potential Risk of Urgent Inpatient Atrial Fibrillation Ablation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001052?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497462,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.636889,
     "tags": [
       "AFib"
     ],
@@ -1041,8 +921,8 @@
     "title": "Combined Analysis of Cardiac Repolarization Entropy and Magnetic Resonance Imaging Enhances Risk Stratification of Patients Receiving a Primary-Prevention ICD",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600126X?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.49744,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.63683,
     "tags": [
       "SCD",
       "Devices"
@@ -1053,8 +933,8 @@
     "title": "Are Some Insertable Cardiac Monitors More Equal Than Others?",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001283?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497421,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.63676,
     "tags": [
       "Other"
     ],
@@ -1064,8 +944,8 @@
     "title": "Clinical Characteristics and Outcomes of Patients With Biventricular and Left-Dominant Arrhythmogenic Cardiomyopathy With Ring-like Late Gadolinium Enhancement Pattern",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002136?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497399,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.636705,
     "tags": [
       "Genetics",
       "Imaging"
@@ -1076,8 +956,8 @@
     "title": "AF and Stroke Risk in wtATTR-CM",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001404?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497382,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.63666,
     "tags": [
       "Other"
     ],
@@ -1087,8 +967,8 @@
     "title": "Long-Term Outcomes and Safety of His-Purkinje Conduction System Pacing in China: The ChiCSP Study",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001118?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497362,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.636606,
     "tags": [
       "Other"
     ],
@@ -1098,8 +978,8 @@
     "title": "Bachmann\u2019s Bundle Is Derived From Odd Skipped Related-1\u2013Expressing Myocardial Progenitors and Facilitates Interatrial Conduction in the Murine Heart",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001441?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497335,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.636541,
     "tags": [
       "Other"
     ],
@@ -1109,10 +989,10 @@
     "title": "Accessory Pathway Associated With a Venous Lake of the Right Atrial Thebesian Vein",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001325?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497315,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.636501,
     "tags": [
-      "Other"
+      "SVT"
     ],
     "hot": false
   },
@@ -1120,8 +1000,8 @@
     "title": "Vein of Marshall Ethanol Infusion in Atrial Fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001428?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497298,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.63646,
     "tags": [
       "AFib"
     ],
@@ -1131,8 +1011,8 @@
     "title": "Left Atrial Appendage Occlusion in Patients With Hereditary Hemorrhagic Telangiectasia and Atrial Fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600143X?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497277,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.636414,
     "tags": [
       "AFib"
     ],
@@ -1142,8 +1022,8 @@
     "title": "Identifying Arrhythmic Substrates in Nonischemic Cardiomyopathy: Does Form Follow Function?",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001088?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497257,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.636369,
     "tags": [
       "Genetics"
     ],
@@ -1153,8 +1033,8 @@
     "title": "Intracardiac Echocardiography\u2013Guided Anatomical Ablation of Left Posterior Fascicular Ventricular Tachycardia in Children: A Single-Center Experience",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001362?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497232,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.636309,
     "tags": [
       "VT",
       "Imaging"
@@ -1165,8 +1045,8 @@
     "title": "Device Infection Using Chlorhexidine Irrigation vs an Antibacterial Envelope: A Propensity Score\u2013Matched Analysis",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600109X?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497204,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.636251,
     "tags": [
       "Other"
     ],
@@ -1176,10 +1056,11 @@
     "title": "Number of Pacing Stimuli for Attaining a Plateau Post-Pacing Interval for Diagnosing Re-Entrant Atrial Tachycardia",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002148?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497181,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.6362,
     "tags": [
-      "AFib"
+      "AFib",
+      "SVT"
     ],
     "hot": false
   },
@@ -1187,8 +1068,8 @@
     "title": "Premature Ventricular Complexes After Atrial Fibrillation Ablation: Impact of Extensive Ablation Strategies and Vein of Marshall Ethanol",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001337?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497155,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.636138,
     "tags": [
       "AFib"
     ],
@@ -1198,8 +1079,8 @@
     "title": "Associations of Tafamidis With New Atrial Fibrillation Risk in Transthyretin Cardiomyopathy",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001465?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497112,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.636083,
     "tags": [
       "AFib",
       "Genetics"
@@ -1210,8 +1091,8 @@
     "title": "Catheter Ablation for Supraventricular Tachyarrhythmias in Adults With Total Cavopulmonary Connection Fontan Palliation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001106?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497089,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.636025,
     "tags": [
       "Other"
     ],
@@ -1221,8 +1102,8 @@
     "title": "The Liraglutide Effects in Atrial Fibrillation (LEAF) Study",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002707?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497071,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.635972,
     "tags": [
       "AFib"
     ],
@@ -1232,8 +1113,8 @@
     "title": "Competing Risk of Ventricular Tachyarrhythmia and Nonarrhythmic Mortality in Advanced Heart Failure: Impact of Left Ventricular Ejection Fraction",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002239?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497046,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.635906,
     "tags": [
       "Other"
     ],
@@ -1243,8 +1124,8 @@
     "title": "Functional Conduction Block During Extrastimulus Mapping Masks Deceleration Zones and Reveals Additional VT Substrate",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600112X?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497024,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.635846,
     "tags": [
       "Other"
     ],
@@ -1254,8 +1135,8 @@
     "title": "AVRNT Associated With an Unusual Pathway Involving the Anterior LA Adjacent to Non-CS of AV",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001866?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.497003,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.635766,
     "tags": [
       "Other"
     ],
@@ -1265,8 +1146,8 @@
     "title": "Optimal Timing for Oral Anticoagulant Discontinuation and Prognosis After Successful Catheter Ablation for Atrial Fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002227?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.49698,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.635716,
     "tags": [
       "AFib"
     ],
@@ -1276,8 +1157,8 @@
     "title": "Retained Wire Lead Extraction Techniques in Patients With Venous Occlusion",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002203?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.496958,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.635669,
     "tags": [
       "Devices"
     ],
@@ -1287,10 +1168,11 @@
     "title": "Dominant Ectopic Atrial Pacemaker From the Right Atrial Appendage Base: Mimicking Inappropriate Sinus Tachycardia",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002173?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.496933,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.635612,
     "tags": [
-      "Devices"
+      "Devices",
+      "SVT"
     ],
     "hot": false
   },
@@ -1298,8 +1180,8 @@
     "title": "Implantable Cardioverter-Defibrillator Therapy and Implantable Cardioverter-Defibrillator Complications in Idiopathic Ventricular Fibrillation Patients",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002215?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.496882,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.635537,
     "tags": [
       "VT",
       "Devices"
@@ -1310,8 +1192,8 @@
     "title": "Does hemolysis matter after pulsed field ablation for atrial fibrillation? Insights from the Best Ablate Registry",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005562?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.356068,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.524527,
     "tags": [
       "AFib"
     ],
@@ -1321,8 +1203,8 @@
     "title": "\u201cAwake and Ablated\u201d: First experience with a balloon-in-basket PFA system without propofol",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005574?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.356044,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.524498,
     "tags": [
       "Other"
     ],
@@ -1332,8 +1214,8 @@
     "title": "Pulmonary vein isolation and beyond: Feasibility and acute outcomes of the lattice-tip dual-energy catheter for complex ablations",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005598?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.356024,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.524473,
     "tags": [
       "AFib"
     ],
@@ -1343,8 +1225,8 @@
     "title": "First multicenter Japanese registry on tissue proximity-guided pulsed field ablation: Procedural safety and mid-term outcomes",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005604?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.356003,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.524447,
     "tags": [
       "Other"
     ],
@@ -1354,8 +1236,8 @@
     "title": "Intravascular hemolysis after pulsed field ablation for atrial fibrillation: A comparative analysis of 3 systems",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005641?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355984,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.524424,
     "tags": [
       "AFib"
     ],
@@ -1365,8 +1247,8 @@
     "title": "Left atrial anterior scar in persistent atrial fibrillation: Results with pulmonary vein isolation and linear ablation including posterior mitral line",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005665?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355963,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.524398,
     "tags": [
       "AFib"
     ],
@@ -1376,10 +1258,11 @@
     "title": "Early recurrence of atrial arrhythmia following catheter ablation of atrial tachycardia consecutive to ablation of atrial fibrillation using the updated blanking period",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005793?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355941,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.524372,
     "tags": [
-      "AFib"
+      "AFib",
+      "SVT"
     ],
     "hot": false
   },
@@ -1387,8 +1270,8 @@
     "title": "Using subcutaneous nerve stimulation to control atrial fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005434?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355922,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.524351,
     "tags": [
       "AFib"
     ],
@@ -1398,8 +1281,8 @@
     "title": "Electrocardiographic effects of HBI-3000 (sulcardine sulfate), a new drug for termination of atrial fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005653?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355902,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.524326,
     "tags": [
       "AFib"
     ],
@@ -1409,8 +1292,8 @@
     "title": "Comparative cardiac electrophysiological analysis between sinus rhythm and atrial fibrillation: The correlation of left atrial low-voltage substrate of sex and rhythm",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005720?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.35588,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.524299,
     "tags": [
       "AFib"
     ],
@@ -1420,8 +1303,8 @@
     "title": "Atrial fibrillation detection in endurance athletes vs non-athletes: Positive predictive value and burden estimation using implantable cardiac monitors",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005768?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355859,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.524273,
     "tags": [
       "AFib"
     ],
@@ -1431,8 +1314,8 @@
     "title": "Inappropriate shocks from subcutaneous and transvenous implantable cardioverter-defibrillators: Reports from the FDA MAUDE database",
     "link": "https://www.sciencedirect.com/science/article/pii/S266650182500532X?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.35584,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.524248,
     "tags": [
       "Devices"
     ],
@@ -1442,8 +1325,8 @@
     "title": "When signals diverge, what MAUDE can and cannot tell us about subcutaneous implantable defibrillator inappropriate shocks",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005616?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355818,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.524223,
     "tags": [
       "Other"
     ],
@@ -1453,8 +1336,8 @@
     "title": "Factors associated with complexity during transvenous lead extraction and confirmation of a very-low-risk subset",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005343?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355798,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.524198,
     "tags": [
       "Devices"
     ],
@@ -1464,8 +1347,8 @@
     "title": "Risk stratification in transvenous lead extraction: Current models and clinical applications",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005264?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355778,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.524173,
     "tags": [
       "SCD",
       "Devices"
@@ -1476,8 +1359,8 @@
     "title": "Transvenous lead extraction and the shape of risk",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005628?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.35576,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.524149,
     "tags": [
       "Devices"
     ],
@@ -1487,8 +1370,8 @@
     "title": "Echocardiographic assessment after left bundle branch area pacing: Impact on the tricuspid valve apparatus, clinical value, and perspectives",
     "link": "https://www.sciencedirect.com/science/article/pii/S266650182500577X?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355738,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.524122,
     "tags": [
       "Other"
     ],
@@ -1498,8 +1381,8 @@
     "title": "Utilization and implementation of remote monitoring of cardiac implantable electronic devices in Australia and New Zealand: Adoption, workload, and integration challenges",
     "link": "https://www.sciencedirect.com/science/article/pii/S266650182500580X?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355714,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.524093,
     "tags": [
       "Other"
     ],
@@ -1509,8 +1392,8 @@
     "title": "Association between deceleration capacity-quantified vagal tone and vasovagal syncope patients with different responses to head-up tilt test",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005689?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355692,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.524067,
     "tags": [
       "Other"
     ],
@@ -1520,8 +1403,8 @@
     "title": "A custom analysis of R-R interval properties reveals alterations in the brain-heart axis in experimental animals with metabolic syndrome",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005719?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.35567,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.52404,
     "tags": [
       "Other"
     ],
@@ -1531,8 +1414,8 @@
     "title": "Local modifications in tissular conditions before PFA increases acute lesion size",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005677?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355651,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.524014,
     "tags": [
       "Other"
     ],
@@ -1542,8 +1425,8 @@
     "title": "Spatiotemporal mapping for detection of anatomic locations of drivers of atrial fibrillation in swine",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005811?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355631,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523991,
     "tags": [
       "AFib"
     ],
@@ -1553,10 +1436,10 @@
     "title": "Artificial intelligence-guided personalized ablation improves freedom from atrial arrhythmia in heart failure: A sub-analysis of the TAILORED-AF trial",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005781?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355609,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523965,
     "tags": [
-      "Other"
+      "AI"
     ],
     "hot": false
   },
@@ -1564,8 +1447,8 @@
     "title": "Effect of estrogen and testosterone on cardiac electrophysiology and atrial fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005380?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355589,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523942,
     "tags": [
       "AFib"
     ],
@@ -1575,8 +1458,8 @@
     "title": "Anatomic complexities of the human right ventricle: Considerations for clinical practice in the electrophysiology laboratory",
     "link": "https://www.sciencedirect.com/science/article/pii/S266650182500529X?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355567,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523916,
     "tags": [
       "Other"
     ],
@@ -1586,8 +1469,8 @@
     "title": "Sexual health in patients with an implantable cardioverter-defibrillator: A narrative review",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005707?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355549,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523893,
     "tags": [
       "Devices"
     ],
@@ -1597,8 +1480,8 @@
     "title": "Buccal dantrolene for rapid systemic delivery: A novel antiarrhythmic approach",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005586?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355529,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523869,
     "tags": [
       "Other"
     ],
@@ -1608,8 +1491,8 @@
     "title": "Cavotricuspid isthmus ablation with a focal dual-energy catheter: First commercial experience",
     "link": "https://www.sciencedirect.com/science/article/pii/S266650182500563X?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355509,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523841,
     "tags": [
       "Other"
     ],
@@ -1619,8 +1502,8 @@
     "title": "High-density vs point-by-point mapping in ventricular tachycardia ablation: A comparative analysis of substrate characterization",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005690?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355488,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523777,
     "tags": [
       "VT"
     ],
@@ -1630,8 +1513,8 @@
     "title": "To the Editor\u2014 Bridging the signal gap: Body surface potential mapping and the future of early arrhythmia detection in the Global South",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005756?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355462,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523746,
     "tags": [
       "Other"
     ],
@@ -1641,8 +1524,8 @@
     "title": "Reviewer Thanks",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000930?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355445,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523728,
     "tags": [
       "Other"
     ],
@@ -1652,8 +1535,8 @@
     "title": "Feasibility and safety of a novel very-high-power short-duration ablation strategy for superior vena cava isolation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825006075?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355424,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523703,
     "tags": [
       "Other"
     ],
@@ -1663,8 +1546,8 @@
     "title": "First-in-human experience for cardiac arrhythmia mapping using a novel ultra-high\u2013density globe-shaped catheter from the multicenter COSMOS study",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000073?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355396,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.52367,
     "tags": [
       "Other"
     ],
@@ -1674,8 +1557,8 @@
     "title": "Transthoracic signs of left atrial cardiomyopathy predict presence of left atrial thromboembolic substrate",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000012?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355375,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523645,
     "tags": [
       "AFib",
       "Genetics"
@@ -1686,8 +1569,8 @@
     "title": "Multicenter analysis of device-detected atrial fibrillation burden reduction after antiarrhythmic drug initiation",
     "link": "https://www.sciencedirect.com/science/article/pii/S266650182600005X?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355355,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523621,
     "tags": [
       "AFib"
     ],
@@ -1697,8 +1580,8 @@
     "title": "Pulsed-field vs radiofrequency ablation for posterior wall isolation in persistent atrial fibrillation: A propensity-matched outcome analysis",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000103?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355334,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523595,
     "tags": [
       "AFib"
     ],
@@ -1708,8 +1591,8 @@
     "title": "Evaluation of the risk of hemolysis using the circular array pulsed field ablation catheter in the management of atrial fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000085?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355312,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523569,
     "tags": [
       "AFib"
     ],
@@ -1719,8 +1602,8 @@
     "title": "Reduction in new-onset device-detected atrial fibrillation: A prospective 2-center study comparing left bundle branch pacing with conventional right ventricular pacing",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005859?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355289,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523541,
     "tags": [
       "AFib",
       "Devices"
@@ -1731,8 +1614,8 @@
     "title": "Laser vs rotational transvenous lead extraction: A systematic review and meta-analysis of procedural safety and efficacy outcomes",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000140?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355262,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523514,
     "tags": [
       "Devices"
     ],
@@ -1742,8 +1625,8 @@
     "title": "Difference in the efficacy of atrial antitachycardia pacing for suppression of ventricular arrhythmias",
     "link": "https://www.sciencedirect.com/science/article/pii/S266650182600019X?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355242,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.52349,
     "tags": [
       "VT"
     ],
@@ -1753,8 +1636,8 @@
     "title": "pECGreview: Using \u201cNot-to-Miss\u201d ECG diagnoses to assess competency of trainees and faculty in ECG interpretation via a weekly online ECG education program",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825006105?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355213,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523455,
     "tags": [
       "Other"
     ],
@@ -1764,8 +1647,8 @@
     "title": "Personalized in vitro models reveal functional impact of a <em>KCNH2</em> mutation and enable drug screening in LQTS2",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000097?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355192,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523431,
     "tags": [
       "Genetics"
     ],
@@ -1775,8 +1658,8 @@
     "title": "Beyond burden metrics: Wearable photoplethysmography-derived spatiotemporal progression of atrial fibrillation linked to clinical outcomes",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000061?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.35517,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523405,
     "tags": [
       "AFib"
     ],
@@ -1786,8 +1669,8 @@
     "title": "Efficacy and safety of direct oral anticoagulants for intermediate stroke risk in patients with atrial fibrillation (SINGLE-AF): Study design and protocol",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005835?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355145,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523379,
     "tags": [
       "AFib"
     ],
@@ -1797,8 +1680,8 @@
     "title": "OPTimizing Beta-Blocker Dosage in Women Using the Wearable Cardioverter-Defibrillator (OPT-BB Women): Study design",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825004647?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355107,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523355,
     "tags": [
       "Other"
     ],
@@ -1808,8 +1691,8 @@
     "title": "A randomized controlled trial of pulsed field ablation vs antiarrhythmic therapy as a first-line treatment for persistent atrial fibrillation: The AVANT GUARD trial rationale and design",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005884?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355083,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523325,
     "tags": [
       "AFib"
     ],
@@ -1819,8 +1702,8 @@
     "title": "Evolving modalities of atrial fibrillation ablation: From thermal to nonthermal",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000152?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355064,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523303,
     "tags": [
       "AFib"
     ],
@@ -1830,8 +1713,8 @@
     "title": "The gut\u2013heart axis in atrial fibrillation: Pathophysiology, evidence, and therapeutic potential",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005239?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355041,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523275,
     "tags": [
       "AFib"
     ],
@@ -1841,8 +1724,8 @@
     "title": "Safety and efficacy of leadless pacemakers: A systematic review and meta-analysis",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005872?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.355022,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523253,
     "tags": [
       "Devices"
     ],
@@ -1852,8 +1735,8 @@
     "title": "Impact of wideband phase-sensitive inversion recovery motion corrected late gadolinium imaging on 3T cardiac magnetic resonance image quality and diagnostic utility in patients with cardiac implantable electronic devices",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005823?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354997,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523221,
     "tags": [
       "Imaging"
     ],
@@ -1863,8 +1746,8 @@
     "title": "Feasibility and safety of cavotricuspid isthmus ablation using a circular array pulse field ablation catheter: A single-center experience",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005847?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354975,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523195,
     "tags": [
       "Other"
     ],
@@ -1874,10 +1757,11 @@
     "title": "12-lead electrocardiogram-based artificial intelligence model accurately predicts near-term atrial fibrillation in patients with embolic stroke of undetermined source",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825006099?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354952,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.52317,
     "tags": [
-      "AFib"
+      "AFib",
+      "AI"
     ],
     "hot": false
   },
@@ -1885,8 +1769,8 @@
     "title": "Wearable single-lead ECG devices to improve cardiac arrhythmia screening in Ethiopia: Opportunities and challenges",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000115?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354931,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523145,
     "tags": [
       "Other"
     ],
@@ -1896,8 +1780,8 @@
     "title": "Adherence to consensus-based implantable cardioverter-defibrillator programming and impact on therapy delivery in clinical practice: A national cohort study",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000127?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.35491,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523119,
     "tags": [
       "Devices"
     ],
@@ -1907,8 +1791,8 @@
     "title": "Skin sympathetic nerve activity and nocturnal septal ST-segment elevation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000218?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.35489,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523096,
     "tags": [
       "Other"
     ],
@@ -1918,8 +1802,8 @@
     "title": "Attitudes toward the use of technology among patients with atrial fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S266650182600022X?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354871,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523073,
     "tags": [
       "AFib"
     ],
@@ -1929,8 +1813,8 @@
     "title": "The subserratus approach: Beyond the intermuscular plane",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501825006087?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354853,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523051,
     "tags": [
       "Other"
     ],
@@ -1940,11 +1824,12 @@
     "title": "Can artificial intelligence transform cardiomyopathy diagnosis and risk stratification in the Philippines?",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000036?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354831,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.523026,
     "tags": [
       "SCD",
-      "Genetics"
+      "Genetics",
+      "AI"
     ],
     "hot": false
   },
@@ -1952,11 +1837,12 @@
     "title": "Author's Reply to \u201cCan artificial intelligence transform cardiomyopathy diagnosis and risk stratification in the Philippines?\u201d",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000048?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354804,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522997,
     "tags": [
       "SCD",
-      "Genetics"
+      "Genetics",
+      "AI"
     ],
     "hot": false
   },
@@ -1964,8 +1850,8 @@
     "title": "Methodological considerations for nonconcurrent comparisons of pulsed field ablation catheter platforms",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000164?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354782,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522972,
     "tags": [
       "Other"
     ],
@@ -1975,8 +1861,8 @@
     "title": "Author\u2019s reply to \u201cMethodological considerations for nonconcurrent comparisons of pulsed field ablation catheter platforms\u201d",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000176?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354756,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.52294,
     "tags": [
       "Other"
     ],
@@ -1986,8 +1872,8 @@
     "title": "Computational analysis of intracardiac collision risk and optimal site for right ventricular leadless left bundle branch area pacing: A simulation study",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001030?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354732,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522911,
     "tags": [
       "Devices"
     ],
@@ -1997,8 +1883,8 @@
     "title": "Sex Differences in Atrial Fibrillation Treatment with Catheter Ablation in Southern Brazil: Real-world insights from a Latin American registry \u2013 SBR-AF",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001157?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354703,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522873,
     "tags": [
       "AFib"
     ],
@@ -2008,8 +1894,8 @@
     "title": "Discrimination of Atrial Fibrillation Burden using Cardiac Magnetic Resonance Imaging",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001194?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354683,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522841,
     "tags": [
       "AFib",
       "Imaging"
@@ -2020,8 +1906,8 @@
     "title": "One- and Two-Staged Hybrid Atrial Fibrillation Ablation using a Biparietal Irrigated Radiofrequency Clamp: A Dual-Center Cohort Analysis",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001224?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354661,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522771,
     "tags": [
       "AFib"
     ],
@@ -2031,8 +1917,8 @@
     "title": "Real-World Comparison of Conduction System Pacing and Helix-Based Leadless Pacemakers in Single-Chamber Pacing: Procedural Outcomes from the PACEMAN Study",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001182?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.35464,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522745,
     "tags": [
       "Devices"
     ],
@@ -2042,8 +1928,8 @@
     "title": "Circulating Metabolomic Profile and its Association with Atrial Fibrillation and Systemic Inflammation.",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001170?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.35462,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522721,
     "tags": [
       "AFib"
     ],
@@ -2053,8 +1939,8 @@
     "title": "Lessons learned from an integrated mapping & ablation catheter",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001169?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354601,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522699,
     "tags": [
       "Other"
     ],
@@ -2064,8 +1950,8 @@
     "title": "Indication-Stratified Early Outcomes After Transvenous Lead Extraction in Hemodialysis Patients: Analysis of a Prospective 1,256-Patient Registry",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001248?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354579,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522672,
     "tags": [
       "Devices"
     ],
@@ -2075,8 +1961,8 @@
     "title": "Preprocedural Cardiac Computed Tomography Assessment of Left Atrial Posterior Wall Morphology Predicts Atrial Tachyarrhythmia Recurrence After Cryoballoon Pulmonary Vein Isolation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001200?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354556,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522642,
     "tags": [
       "AFib",
       "Imaging"
@@ -2087,8 +1973,8 @@
     "title": "A Network Meta-Analysis of Comparative Effectiveness and Safety of Pulsed Field, Radiofrequency, and Cryoballoon Ablation for Atrial Fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001236?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354535,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522615,
     "tags": [
       "AFib"
     ],
@@ -2098,10 +1984,10 @@
     "title": "Machine learning to classify left ventricular hypertrophy using ECG feature extraction by variational autoencoder",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001297?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354513,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522591,
     "tags": [
-      "Other"
+      "AI"
     ],
     "hot": false
   },
@@ -2109,8 +1995,8 @@
     "title": "PERSIST-PWI Trial: Rationale and Design of a Multicenter Randomized Controlled Trial Comparing Pulmonary Vein Isolation Alone versus Pulmonary Vein Isolation plus Posterior Wall Isolation Using Pulsed Field Ablation in Patients with Persistent Atrial Fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001212?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354486,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522558,
     "tags": [
       "AFib"
     ],
@@ -2120,8 +2006,8 @@
     "title": "Impaired Left Atrial Strain is Associated with New-onset Atrial Fibrillation and Adverse Clinical Outcomes in Primary Care Patients",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001315?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354465,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522532,
     "tags": [
       "AFib"
     ],
@@ -2131,8 +2017,8 @@
     "title": "Training in a novel advanced augmented reality-based ablation simulator: Using 3D MR heart models of individual patients improves performance of future electrophysiologists",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001303?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354441,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522503,
     "tags": [
       "Other"
     ],
@@ -2142,8 +2028,8 @@
     "title": "Beyond Symptoms: Rhythm Surveillance in Congenital Heart Disease",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001339?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.35442,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522481,
     "tags": [
       "Other"
     ],
@@ -2153,8 +2039,8 @@
     "title": "Antiarrhythmic Drug Use after Catheter Ablation of Atrial Fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001340?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354401,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522459,
     "tags": [
       "AFib"
     ],
@@ -2164,8 +2050,8 @@
     "title": "Author's reply to Antiarrhythmic Drug Use after Catheter Ablation of Atrial Fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001352?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.35438,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522436,
     "tags": [
       "AFib"
     ],
@@ -2175,10 +2061,11 @@
     "title": "A unique case of left atrium posterior wall micro-reentrant atrial tachycardia during sinus rhythm post pulsed field ablation in a patient with mechanical mitral valve replacement: A novel case report",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001388?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354354,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522406,
     "tags": [
-      "AFib"
+      "AFib",
+      "SVT"
     ],
     "hot": false
   },
@@ -2186,8 +2073,8 @@
     "title": "Efficacy and Safety of Atrial Fibrillation Ablation in Patients with Marfan Syndrome: A Multicenter Analysis",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001327?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354334,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522381,
     "tags": [
       "AFib"
     ],
@@ -2197,8 +2084,8 @@
     "title": "Characteristics, pathophysiological mechanisms and ablation outcomes of patients with de-novo left atrial flutter compared to patients with post-ablation left atrial flutter",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001376?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354309,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522351,
     "tags": [
       "AFib"
     ],
@@ -2208,8 +2095,8 @@
     "title": "Indication and electrical performance of conventional, resynchronisation and conduction system pacing in Transthyretin amyloid cardiomyopathy",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001364?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354285,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522323,
     "tags": [
       "Genetics"
     ],
@@ -2219,8 +2106,8 @@
     "title": "Extravascular ICD implantation in a pacing-dependent CRT patient: a structured intraoperative protocol to validate device-device interaction",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001418?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354262,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522296,
     "tags": [
       "Devices"
     ],
@@ -2230,8 +2117,8 @@
     "title": "In-Hospital Outcomes of Elective Atrial Fibrillation Ablation in Patients With COVID-19: A Nationwide Analysis From the JROAD-DPC Database",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001595?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354241,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522268,
     "tags": [
       "AFib"
     ],
@@ -2241,8 +2128,8 @@
     "title": "Rotor-Guided Tailor-Made Pulmonary Vein Isolation for Persistent Atrial Fibrillation: Identification of the Left Atrial Septum as a Common Arrhythmogenic Substrate",
     "link": "https://www.sciencedirect.com/science/article/pii/S266650182600139X?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354219,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.52224,
     "tags": [
       "AFib",
       "Genetics"
@@ -2253,10 +2140,11 @@
     "title": "Predicting Ventricular Arrhythmia in Myocardial Ischemia Using Deep Learning",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000644?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354198,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522216,
     "tags": [
-      "VT"
+      "VT",
+      "AI"
     ],
     "hot": false
   },
@@ -2264,8 +2152,8 @@
     "title": "Vernakalant: Wish You Were Here",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001613?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354179,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522194,
     "tags": [
       "Other"
     ],
@@ -2275,8 +2163,8 @@
     "title": "Impact of Atrioventricular Node Ablation and Permanent Pacing on Clinical Outcomes, Quality of Life and Healthcare Utilization in Patients with Atrial Fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001637?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.35415,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522163,
     "tags": [
       "AFib"
     ],
@@ -2286,10 +2174,10 @@
     "title": "Three-dimensional analysis of the triangle of Koch in typical atrioventricular nodal reentrant tachycardia: Insights using peak frequency, activation vector, and wave speed",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001406?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354101,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522131,
     "tags": [
-      "Other"
+      "SVT"
     ],
     "hot": false
   },
@@ -2297,8 +2185,8 @@
     "title": "Amplified P-wave duration predicts incident atrial fibrillation in the general population \u2013 Results from the Hamburg City Health Study",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001601?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354068,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522092,
     "tags": [
       "AFib"
     ],
@@ -2308,8 +2196,8 @@
     "title": "Beyond Ejection Fraction: Rethinking Response and Prognostication After Cardiac Resynchronization Therapy",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001649?dgcid=rss_sd_all",
     "journal": "Heart Rhythm O2",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.354014,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.522037,
     "tags": [
       "Devices"
     ],
@@ -2319,10 +2207,10 @@
     "title": "Single lattice-tip catheter workflow for artificial intelligence-guided spatiotemporal dispersion ablation",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030437?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.187338,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.4232,
     "tags": [
-      "Other"
+      "AI"
     ],
     "hot": false
   },
@@ -2330,8 +2218,8 @@
     "title": "Structural changes in the left atrial appendage before and after pulsed field ablation for atrial fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030449?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.187318,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.423173,
     "tags": [
       "AFib"
     ],
@@ -2341,8 +2229,8 @@
     "title": "Novel use of KardiaMobile device to assess for vector suitability for subcutaneous implantable cardioverter-defibrillator implantation",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030644?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.187296,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.423148,
     "tags": [
       "Devices"
     ],
@@ -2352,8 +2240,8 @@
     "title": "Is transition from nonselective left bundle branch pacing to selective left bundle branch pacing superior to left ventricular septal pacing transition at lead implantation?",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030206?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.187272,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.42312,
     "tags": [
       "Devices"
     ],
@@ -2363,8 +2251,8 @@
     "title": "Selective restriction of patients with hypertrophic cardiomyopathy from intense competitive sports may have made the athletic field safer",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030802?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.187249,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.423093,
     "tags": [
       "Genetics"
     ],
@@ -2374,8 +2262,8 @@
     "title": "Reply\u2014Selective restriction of patients with hypertrophic cardiomyopathy from intense competitive sports may have made the athletic field safer",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030814?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.187215,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.423062,
     "tags": [
       "Genetics"
     ],
@@ -2385,8 +2273,8 @@
     "title": "To the Editor\u2014 DNA methylation and the potential role of extracellular vesicles in epilepsy-associated atrial fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031546?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.187191,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.423032,
     "tags": [
       "AFib"
     ],
@@ -2396,8 +2284,8 @@
     "title": "Reply to\u2014 DNA methylation and the potential role of extracellular vesicles in epilepsy-associated atrial fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031558?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.187166,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.423002,
     "tags": [
       "AFib"
     ],
@@ -2407,8 +2295,8 @@
     "title": "Potassium channels as targets for antiarrhythmic therapy",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125029790?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.187145,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422979,
     "tags": [
       "Other"
     ],
@@ -2418,8 +2306,8 @@
     "title": "In Memoriam: Francisco G Cos\u00edo, MD, FHRS, a pioneer in arrhythmology",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031637?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.187109,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422952,
     "tags": [
       "Other"
     ],
@@ -2429,41 +2317,8 @@
     "title": "How fair is the fair market value for cardiac electrophysiology physician reimbursement?",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030541?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.187089,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Safety and efficacy of Watchman extraction using a double transseptal approach",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021508?dgcid=rss_sd_all",
-    "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.18707,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Extended Rhythm Monitoring on Arrhythmic Risk Estimates in Phospholamban Cardiomyopathy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021600?dgcid=rss_sd_all",
-    "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.187051,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Angiographic and histological characterization of PFA-induced coronary spasm: Differential effect of two waveforms.",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021594?dgcid=rss_sd_all",
-    "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.18703,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422928,
     "tags": [
       "Other"
     ],
@@ -2473,8 +2328,8 @@
     "title": "Antiarrhythmic drugs versus catheter ablation as rhythm control for atrial fibrillation: a systematic review and meta-analysis of randomized controlled trials",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021429?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.187009,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422901,
     "tags": [
       "AFib"
     ],
@@ -2484,8 +2339,8 @@
     "title": "Implantation of standard defibrillator leads in the left bundle branch area: Experience from an international cohort",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021582?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186988,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422876,
     "tags": [
       "Other"
     ],
@@ -2495,8 +2350,8 @@
     "title": "Genotype-phenotype correlation of 139 p.Gln530Ter-KCNQ1 patients with inherited long QT syndrome",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021661?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.18697,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422853,
     "tags": [
       "Genetics"
     ],
@@ -2506,8 +2361,8 @@
     "title": "Electrophysiological Predictors of Super-response to Left Bundle Branch Area Pacing in Non-ischemic Cardiomyopathy: The PRECISION LBBAP Study",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021636?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186948,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422824,
     "tags": [
       "Devices",
       "Genetics"
@@ -2518,8 +2373,8 @@
     "title": "Pulmonary Vein Isolation in Early-Onset Atrial Fibrillation (\u226450 Years): A Multicenter Comparison of Pulsed-Field Ablation versus Thermal Energy Sources",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021685?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186918,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422775,
     "tags": [
       "AFib"
     ],
@@ -2529,8 +2384,8 @@
     "title": "Prognostic implications of intraventricular conduction disorders for the risk of sudden cardiac death in cardiac patients",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021673?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186897,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.42275,
     "tags": [
       "SCD"
     ],
@@ -2540,8 +2395,8 @@
     "title": "A Multi-Dimensional Mapping Array for Assessment of Myocardial Activation Using the Electro-tomographic Mapping Concept",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021570?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186876,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422724,
     "tags": [
       "Other"
     ],
@@ -2551,8 +2406,8 @@
     "title": "Impact of blood pressure on the risk of stroke and all-cause mortality in patients with atrial fibrillation across different age groups: a nationwide population-based study",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021727?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186853,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422696,
     "tags": [
       "AFib"
     ],
@@ -2562,8 +2417,8 @@
     "title": "Impact of Pulsed-Field Ablation\u2013Based Pulmonary Vein Isolation on Atrial Fibrillation Triggers Originating from the Superior Vena Cava",
     "link": "https://www.sciencedirect.com/science/article/pii/S154752712602165X?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186825,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422665,
     "tags": [
       "AFib"
     ],
@@ -2573,8 +2428,8 @@
     "title": "Reversible Epsilon Waves in Acute Pulmonary Embolism",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021739?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186804,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422643,
     "tags": [
       "Other"
     ],
@@ -2584,8 +2439,8 @@
     "title": "Test-retest reliability of clinical supine-to-stand tests in patients with postural orthostatic tachycardia syndrome: A cautionary tale",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021703?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186783,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422614,
     "tags": [
       "Other"
     ],
@@ -2595,8 +2450,8 @@
     "title": "Sudden cardiac arrest in steatotic liver disease with metabolic dysfunction or increased alcohol intake",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021715?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186763,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.42259,
     "tags": [
       "SCD"
     ],
@@ -2606,8 +2461,8 @@
     "title": "The Role of His-Purkinje System Activation in Preventing Malignant Reentrant Ventricular Arrhythmias during Left Bundle Branch Area Pacing: Reversed Electrical Remodeling or Restored Left Ventricular Activation?",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021430?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186739,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422558,
     "tags": [
       "VT"
     ],
@@ -2617,8 +2472,8 @@
     "title": "ALARA+: Summit on Radiation and Orthopedic Risks in Fluoroscopic Laboratories",
     "link": "https://www.sciencedirect.com/science/article/pii/S154752712600202X?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.18672,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422535,
     "tags": [
       "Other"
     ],
@@ -2628,8 +2483,8 @@
     "title": "Ultrasound-Guided Parasternal Tunneling During Intermuscular S-ICD Implantation Is Associated with Lower Shock Impedance and More Favorable Implant Geometry",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021648?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186699,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422509,
     "tags": [
       "Devices"
     ],
@@ -2639,8 +2494,8 @@
     "title": "Lead I R-Wave Peak Time as a Criterion for Conduction System Capture During Left Bundle Branch Area Pacing.",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022332?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186679,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422484,
     "tags": [
       "Other"
     ],
@@ -2650,8 +2505,8 @@
     "title": "Adenovirus-Associated Viral Vector Based Gene Replacement Therapy for the treatment of Arrhythmogenic Cardiomyopathy",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022253?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186659,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.42246,
     "tags": [
       "Genetics"
     ],
@@ -2661,8 +2516,8 @@
     "title": "National Detection Strategies and Long QT Syndrome: How do we measure success in rare cardiogenetic disorders?",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022319?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.18664,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422435,
     "tags": [
       "Genetics"
     ],
@@ -2672,10 +2527,10 @@
     "title": "Precise Localization of the Ventricular Insertion of a Bystander Concealed Nodoventricular Pathway in Fast\u2013Slow Atrioventricular Nodal Reentrant Tachycardia",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022290?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186611,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422402,
     "tags": [
-      "Other"
+      "SVT"
     ],
     "hot": false
   },
@@ -2683,8 +2538,8 @@
     "title": "Hemolysis and Kidney Injury After Catheter Ablation for Atrial Fibrillation: Microsecond vs. Nanosecond Pulsed Field Ablation",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022241?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186591,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422378,
     "tags": [
       "AFib"
     ],
@@ -2694,8 +2549,8 @@
     "title": "Exercise Capacity and Quality of Life Improvements After Catheter Ablation in Patients with Clinically Asymptomatic Persistent Atrial Fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022307?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.18657,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422351,
     "tags": [
       "AFib"
     ],
@@ -2705,8 +2560,8 @@
     "title": "Arrhythmias and Cardiac Devices Management in Oncology Patients",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022277?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186551,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422328,
     "tags": [
       "Devices"
     ],
@@ -2716,8 +2571,8 @@
     "title": "Downregulation of L-type Ca<sup>2+</sup> current in patients with atrial fibrillation results from altered channel gating and disruption of membrane microdomains",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022368?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186529,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422301,
     "tags": [
       "AFib"
     ],
@@ -2727,8 +2582,8 @@
     "title": "Improving Transthyretin cardiac amyloidosis detection from electrocardiograms through Willem AI platform",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022320?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186509,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422277,
     "tags": [
       "Other"
     ],
@@ -2738,8 +2593,8 @@
     "title": "Extensive Coronary Venous System Mapping for Outflow Tract Ventricular Arrhythmias: Utility of a Dual Over-the-Wire Microelectrode Catheter Technique",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022344?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186486,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422249,
     "tags": [
       "VT"
     ],
@@ -2749,8 +2604,8 @@
     "title": "Editorial Board",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001748?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.18647,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422231,
     "tags": [
       "Other"
     ],
@@ -2760,8 +2615,8 @@
     "title": "Table Of Content",
     "link": "https://www.sciencedirect.com/science/article/pii/S154752712600175X?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186454,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422213,
     "tags": [
       "Other"
     ],
@@ -2771,8 +2626,8 @@
     "title": "Notable Papers",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001773?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186438,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422194,
     "tags": [
       "Other"
     ],
@@ -2782,8 +2637,8 @@
     "title": "Iconic figures in hypertrophic cardiomyopathy",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000391?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186421,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422173,
     "tags": [
       "Genetics"
     ],
@@ -2793,8 +2648,8 @@
     "title": "Is the esophagus spared during pulsed field ablation? Early histopathology and in vivo esophageal retraction",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125026128?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.1864,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422145,
     "tags": [
       "Other"
     ],
@@ -2804,8 +2659,8 @@
     "title": "Esophageal injury after pulmonary vein isolation using pulsed electric fields",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000408?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186381,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422122,
     "tags": [
       "AFib"
     ],
@@ -2815,8 +2670,8 @@
     "title": "Transient esophageal temperature heating observed during pulsed field ablation for atrial fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000019?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186362,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422099,
     "tags": [
       "AFib"
     ],
@@ -2826,8 +2681,8 @@
     "title": "The effect of pulmonary vein isolation on gastric motility: Pulsed field ablation vs radiofrequency",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031212?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186342,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422075,
     "tags": [
       "AFib"
     ],
@@ -2837,10 +2692,11 @@
     "title": "Artificial intelligence-enabled electrocardiographic sex discordance and the risk of incident atrial fibrillation: A multinational cohort study",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031388?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.18632,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.42205,
     "tags": [
-      "AFib"
+      "AFib",
+      "AI"
     ],
     "hot": false
   },
@@ -2848,10 +2704,11 @@
     "title": "Development and validation of a novel machine learning\u2013based algorithm to predict incident atrial fibrillation: A multicohort analysis",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031418?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186293,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.422021,
     "tags": [
-      "AFib"
+      "AFib",
+      "AI"
     ],
     "hot": false
   },
@@ -2859,8 +2716,8 @@
     "title": "External validation of atrial fibrillation risk scores in heart failure under continuous device surveillance",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031455?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186273,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421997,
     "tags": [
       "AFib"
     ],
@@ -2870,8 +2727,8 @@
     "title": "Real-time <em>smart</em>phone <em>alert</em>s during atrial fibrillation episodes with implantable cardiac monitors and wearable devices: SMART-ALERT study",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125023318?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186252,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.42197,
     "tags": [
       "AFib"
     ],
@@ -2881,8 +2738,8 @@
     "title": "Continuous positive airway pressure reduces nocturnal arrhythmia avalanche burden in obstructive sleep apnea: An adherence-dependent effect",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031492?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.18623,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421944,
     "tags": [
       "Other"
     ],
@@ -2892,8 +2749,8 @@
     "title": "New-onset atrial fibrillation as a predictor of cancer: Insights from a real-world dataset",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030218?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186212,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421921,
     "tags": [
       "AFib"
     ],
@@ -2903,8 +2760,8 @@
     "title": "Impact of left atrial posterior wall isolation using pulsed-field ablation in patients undergoing repeat catheter ablation for atrial fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S154752712600010X?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.18619,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421894,
     "tags": [
       "AFib"
     ],
@@ -2914,8 +2771,8 @@
     "title": "Impact of atrial remodeling on efficacy of catheter ablation in reducing cardiovascular risk in atrial fibrillation: Results from CABANA trial",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125023380?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186168,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421868,
     "tags": [
       "AFib"
     ],
@@ -2925,8 +2782,8 @@
     "title": "Left atrial posterior volume and posterior-anterior volume ratio as predictive factors for atrial fibrillation recurrence: Insights from regional atrial remodeling",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125023951?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186143,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.42184,
     "tags": [
       "AFib"
     ],
@@ -2936,8 +2793,8 @@
     "title": "Cryoablation of pulmonary veins guided by pressure waveform analysis: Intra-procedural and long-term outcomes",
     "link": "https://www.sciencedirect.com/science/article/pii/S154752712502346X?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186106,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421812,
     "tags": [
       "AFib"
     ],
@@ -2947,8 +2804,8 @@
     "title": "Trends of single-center complication rates for catheter ablation of atrial fibrillation from 2015 to 2024",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031224?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186086,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421771,
     "tags": [
       "AFib"
     ],
@@ -2958,8 +2815,8 @@
     "title": "Combined pulsed field ablation of atrial fibrillation and left atrial appendage occlusion: A single-center experience",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031534?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186066,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421746,
     "tags": [
       "AFib"
     ],
@@ -2969,8 +2826,8 @@
     "title": "Real-world performance of intrinsic antitachycardia pacing: Primary results from a global prospective postapproval registry study",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000056?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186044,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.42172,
     "tags": [
       "Other"
     ],
@@ -2980,8 +2837,8 @@
     "title": "Comparison of combined anatomic and functional modeling with purely anatomic assessment in scar-dependent ventricular tachycardia",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000214?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.186022,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421694,
     "tags": [
       "VT"
     ],
@@ -2991,8 +2848,8 @@
     "title": "Treatment of drug-refractory ventricular tachycardia with conduction system pacing as an alternative to ventricular tachycardia ablation",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030280?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185997,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421666,
     "tags": [
       "VT"
     ],
@@ -3002,8 +2859,8 @@
     "title": "Efficacy and safety of ajmaline in patients with electrical storm",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031613?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185979,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421643,
     "tags": [
       "Other"
     ],
@@ -3013,8 +2870,8 @@
     "title": "Purkinje and septal substrate modification as a therapeutic option for patients with STEMI and refractory ventricular fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031698?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185957,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421614,
     "tags": [
       "VT"
     ],
@@ -3024,8 +2881,8 @@
     "title": "Optimal lead preparation for the extraction of a lumenless defibrillation lead",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030401?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185938,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421591,
     "tags": [
       "Other"
     ],
@@ -3035,8 +2892,8 @@
     "title": "Prevalence of arrhythmia-induced cardiomyopathy: A systematic review and meta-analysis",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031352?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185918,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421568,
     "tags": [
       "Genetics"
     ],
@@ -3046,8 +2903,8 @@
     "title": "Temporal change in right ventricular pacing ratio and its association with cardiac function and arrhythmia: A linear mixed-effects model analysis",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031364?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185895,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.42154,
     "tags": [
       "Other"
     ],
@@ -3057,8 +2914,8 @@
     "title": "Effectiveness and safety of upgrading to conduction system pacing compared with biventricular pacing in patients with pacing-induced cardiomyopathy: Results of a propensity score\u2013matched analysis from a multicenter registry",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031406?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185863,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421501,
     "tags": [
       "Genetics"
     ],
@@ -3068,10 +2925,11 @@
     "title": "External validation of an explainable electrocardiogram-only deep learning algorithm for the prediction of response after cardiac resynchronization therapy",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000299?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185841,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421476,
     "tags": [
-      "Devices"
+      "Devices",
+      "AI"
     ],
     "hot": false
   },
@@ -3079,8 +2937,8 @@
     "title": "Efficacy and safety of fetal magnetocardiography for detecting fetal cardiac magnetic signals: A 2-center, single-arm, prospective clinical trial",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030875?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185818,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421448,
     "tags": [
       "Other"
     ],
@@ -3090,8 +2948,8 @@
     "title": "Effectiveness of cardiac resynchronization therapy in adult congenital heart disease: A meta-analysis of biventricular and conduction system pacing outcomes",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000196?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185794,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.42142,
     "tags": [
       "Devices"
     ],
@@ -3101,8 +2959,8 @@
     "title": "Characteristics, clinical course, and cardiac events of patients with previously asymptomatic long QT syndrome",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125026244?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185774,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421396,
     "tags": [
       "Genetics"
     ],
@@ -3112,8 +2970,8 @@
     "title": "Temporal variability of the electromechanical window in long-QT syndrome and drug-induced QT prolongation: Value for enhanced arrhythmia-risk assessment",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000287?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185752,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.42137,
     "tags": [
       "Other"
     ],
@@ -3123,10 +2981,10 @@
     "title": "Machine learning\u2013enabled assessment of risk of drug-induced QT prolongation at the time of prescribing",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030267?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185726,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421342,
     "tags": [
-      "Other"
+      "AI"
     ],
     "hot": false
   },
@@ -3134,8 +2992,8 @@
     "title": "Feasibility of reversible electroporation mapping in human atrial flutter",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125023409?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185706,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421319,
     "tags": [
       "AFib"
     ],
@@ -3145,8 +3003,8 @@
     "title": "Updated quantitative thresholds for cardiac magnetic resonance imaging\u2013based diagnosis of arrhythmogenic right ventricular cardiomyopathy",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031236?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185681,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421288,
     "tags": [
       "Genetics",
       "Imaging"
@@ -3157,8 +3015,8 @@
     "title": "Prevalence of clinically significant bradyarrhythmias in patients implanted with loop recorders for cryptogenic stroke: A manifestation of atrial cardiomyopathy?",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000263?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185657,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421259,
     "tags": [
       "Genetics"
     ],
@@ -3168,8 +3026,8 @@
     "title": "Sick sinus syndrome elevates stroke risk in patients with atrial fibrillation with low CHA2DS2-VASC score",
     "link": "https://www.sciencedirect.com/science/article/pii/S154752712503125X?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185637,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421235,
     "tags": [
       "AFib"
     ],
@@ -3179,8 +3037,8 @@
     "title": "Simplified 3-ganglionated plexus ablation for the treatment of recurrent vasovagal syncope and functional bradyarrhythmia",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125024002?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185615,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421208,
     "tags": [
       "Other"
     ],
@@ -3190,8 +3048,8 @@
     "title": "Risk of delayed atrioventricular block in patients without procedural conduction disturbances during transcatheter aortic valve replacement",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125023331?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185592,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.42118,
     "tags": [
       "Other"
     ],
@@ -3201,8 +3059,8 @@
     "title": "Diagnostic and prognostic significance of miRNA-15a-5p, 16-5p, and 92a-3p in arrhythmogenic right ventricular cardiomyopathy",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125023215?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185567,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421155,
     "tags": [
       "Genetics"
     ],
@@ -3212,8 +3070,8 @@
     "title": "Flecainide sensitizes conduction to hyponatremia through an ephaptic mechanism",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125023963?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185546,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.42113,
     "tags": [
       "Other"
     ],
@@ -3223,8 +3081,8 @@
     "title": "High subcutaneous nerve activity in noise-associated ventricular arrhythmias",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031340?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185527,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421103,
     "tags": [
       "VT"
     ],
@@ -3234,8 +3092,8 @@
     "title": "Senolytic reduction of senescent cells mitigates atrial arrhythmia vulnerability in aging rabbits",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000226?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185506,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421079,
     "tags": [
       "Other"
     ],
@@ -3245,8 +3103,8 @@
     "title": "Monopolar biphasic focal pulsed field ablation directly at the atrioventricular junction and from within the noncoronary cusp: The PFA-CONDUCT study",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000275?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185483,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.42105,
     "tags": [
       "Other"
     ],
@@ -3256,10 +3114,11 @@
     "title": "Pulsed field ablation of focal atrial tachycardia adjacent to the phrenic nerve: A first case report using a novel dual-energy catheter",
     "link": "https://www.sciencedirect.com/science/article/pii/S154752712503019X?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.18546,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.421023,
     "tags": [
-      "AFib"
+      "AFib",
+      "SVT"
     ],
     "hot": false
   },
@@ -3267,8 +3126,8 @@
     "title": "Steam pops during temperature-controlled irrigated radiofrequency ablation using the lattice-tip catheter",
     "link": "https://www.sciencedirect.com/science/article/pii/S154752712503139X?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185437,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.420997,
     "tags": [
       "Other"
     ],
@@ -3278,8 +3137,8 @@
     "title": "New mechanistic observation: Ajmaline-induced epicardial \u201czigzag\u201d electrogram pattern in Brugada syndrome",
     "link": "https://www.sciencedirect.com/science/article/pii/S154752712503036X?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185411,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.420967,
     "tags": [
       "Genetics"
     ],
@@ -3289,8 +3148,8 @@
     "title": "Determining the optimal age cutoff to investigate for cardiac sarcoidosis in patients with complete heart block",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125025998?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185389,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.420941,
     "tags": [
       "Other"
     ],
@@ -3300,8 +3159,8 @@
     "title": "Utility of transesophageal echocardiography prior to cardioversion in patients with atrial fibrillation and hypertrophic cardiomyopathy",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125026396?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185367,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.420915,
     "tags": [
       "AFib",
       "Genetics"
@@ -3312,8 +3171,8 @@
     "title": "Direct transseptal puncture with the Faradrive sheath: A quick, safe, efficient, ecological, and economical practice",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125026487?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185345,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.420889,
     "tags": [
       "Other"
     ],
@@ -3323,8 +3182,8 @@
     "title": "Safety of same-day discharge after catheter ablation of scar-related ventricular tachycardia: A pilot analysis",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027791?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185322,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.420863,
     "tags": [
       "VT"
     ],
@@ -3334,8 +3193,8 @@
     "title": "Risk stratification for sudden cardiac death in children with hypertrophic cardiomyopathy: A survey study",
     "link": "https://www.sciencedirect.com/science/article/pii/S154752712503067X?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.1853,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.420837,
     "tags": [
       "SCD",
       "Genetics"
@@ -3346,8 +3205,8 @@
     "title": "Right coronary artery safety after cavotricuspid isthmus pulsed field ablation: Insights from multislice computed tomography coronary angiography",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030735?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185274,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.420803,
     "tags": [
       "Imaging"
     ],
@@ -3357,10 +3216,11 @@
     "title": "The artificial intelligence-derived electrocardiographic age gap is associated with adverse clinical outcomes in LMNA-related cardiomyopathy",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030784?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185249,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.420757,
     "tags": [
-      "Genetics"
+      "Genetics",
+      "AI"
     ],
     "hot": false
   },
@@ -3368,8 +3228,8 @@
     "title": "Time to benefit of the optimal antithrombotic therapy for atrial fibrillation with coronary artery disease: A reconstructed individual patient data meta-analysis",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030863?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185223,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.420725,
     "tags": [
       "AFib"
     ],
@@ -3379,8 +3239,8 @@
     "title": "Intersection of bioengineering and arrhythmia therapy",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030152?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185202,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.4207,
     "tags": [
       "Other"
     ],
@@ -3390,8 +3250,8 @@
     "title": "Establishing a national cardiopulmonary resuscitation program in Indian high schools and colleges: An expert collaborative call to action and implementation model",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001128?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185174,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.42067,
     "tags": [
       "SCD"
     ],
@@ -3401,8 +3261,8 @@
     "title": "Paced QRS Morphology and Lead Location in Left Bundle Branch Area Pacing Assessed by Photon-Counting Cardiac Computed Tomography",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022289?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.18514,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.420639,
     "tags": [
       "Imaging"
     ],
@@ -3412,10 +3272,43 @@
     "title": "Beyond ion channel dysfunction: Integration of the transcriptome and proteome from patient-specific re-engineered cardiac cells, and population-level QT genome-wide association study reveals broad cellular dysfunction",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021478?dgcid=rss_sd_all",
     "journal": "Heart Rhythm",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775568380.185045,
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.420604,
     "tags": [
       "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "High Incidence of Pacing-Induced Cardiomyopathy in Patients with Cardiac Sarcoidosis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022447?dgcid=rss_sd_all",
+    "journal": "Heart Rhythm",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.420576,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Acute kidney injury related to pulsed-field ablation of atrial fibrillation. Protective role of the protocol-based hydration regimen.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022472?dgcid=rss_sd_all",
+    "journal": "Heart Rhythm",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.42054,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Notch1 Deletion Reduces Arrhythmogenic Remodeling after Myocardial Infarction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602240X?dgcid=rss_sd_all",
+    "journal": "Heart Rhythm",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775659300.420482,
+    "tags": [
+      "Genetics"
     ],
     "hot": false
   },
@@ -3486,6 +3379,17 @@
     "hot": false
   },
   {
+    "title": "<i>DMPK</i>\n                    3\u2032 untranslated repeat expansions in unexplained sudden cardiac death in the young",
+    "link": "https://doi.org/10.1093/eurheartj/ehag247",
+    "journal": "European Heart Journal",
+    "date": "Apr 03, 2026",
+    "date_ts": 1775174400.0,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
     "title": "Inappropriate Ventricular Pacing With Exercise in an 11\u2010Year\u2010Old Girl With a History of Idiopathic Paroxysmal AV Block",
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70137?af=R",
     "journal": "PACE",
@@ -3503,7 +3407,7 @@
     "date": "Apr 02, 2026",
     "date_ts": 1775125525.0,
     "tags": [
-      "Other"
+      "SVT"
     ],
     "hot": false
   },
@@ -3547,7 +3451,7 @@
     "date": "Apr 02, 2026",
     "date_ts": 1775125525.0,
     "tags": [
-      "Other"
+      "SVT"
     ],
     "hot": false
   },
@@ -3724,7 +3628,8 @@
     "date": "Apr 02, 2026",
     "date_ts": 1775124161.0,
     "tags": [
-      "AFib"
+      "AFib",
+      "SVT"
     ],
     "hot": false
   },
@@ -3773,6 +3678,17 @@
     "hot": false
   },
   {
+    "title": "Cutting-edge studies on atrial fibrillation, left bundle branch area pacing, and subcutaneous defibrillators",
+    "link": "https://doi.org/10.1093/eurheartj/ehag223",
+    "journal": "European Heart Journal",
+    "date": "Apr 01, 2026",
+    "date_ts": 1775001600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Segmental Snare Traction Technique for Helix\u2010Fixed Leadless Pacemaker Implantation Across a Repaired Tricuspid Annulus",
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70241?af=R",
     "journal": "PACE",
@@ -3812,7 +3728,8 @@
     "date": "Mar 31, 2026",
     "date_ts": 1774935722.0,
     "tags": [
-      "AFib"
+      "AFib",
+      "SVT"
     ],
     "hot": false
   },
@@ -3824,6 +3741,17 @@
     "date_ts": 1774935654.0,
     "tags": [
       "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Stroke and systemic embolism following atrial fibrillation ablation: the EMBOL-AF Global Registry",
+    "link": "https://doi.org/10.1093/eurheartj/ehag217",
+    "journal": "European Heart Journal",
+    "date": "Mar 31, 2026",
+    "date_ts": 1774915200.0,
+    "tags": [
+      "AFib"
     ],
     "hot": false
   },
@@ -3918,6 +3846,40 @@
     "hot": false
   },
   {
+    "title": "Atrial fibrillation density as a biomarker for ischaemic stroke risk prediction",
+    "link": "https://doi.org/10.1093/eurheartj/ehag203",
+    "journal": "European Heart Journal",
+    "date": "Mar 28, 2026",
+    "date_ts": 1774656000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Early-onset atrial fibrillation without structural heart disease: lifestyle and hereditary risk factors",
+    "link": "https://doi.org/10.1093/eurheartj/ehag205",
+    "journal": "European Heart Journal",
+    "date": "Mar 28, 2026",
+    "date_ts": 1774656000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Biatrial macro-reentrant atrial tachycardia after surgical atrial septal defect closure and maze procedure identified by activation and coherent mapping",
+    "link": "https://doi.org/10.1093/eurheartj/ehag232",
+    "journal": "European Heart Journal",
+    "date": "Mar 28, 2026",
+    "date_ts": 1774656000.0,
+    "tags": [
+      "AFib",
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
     "title": "Outcomes of Functional Substrate Mapping Based Ablation in Addition to Pulmonary Vein Isolation in Atrial Fibrillation",
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70220?af=R",
     "journal": "PACE",
@@ -3979,7 +3941,7 @@
     "date": "Mar 27, 2026",
     "date_ts": 1774613388.0,
     "tags": [
-      "Other"
+      "SVT"
     ],
     "hot": false
   },
@@ -4055,6 +4017,28 @@
     "journal": "J Cardiovasc EP",
     "date": "Mar 26, 2026",
     "date_ts": 1774504866.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Too fast, too short: mini-hearts, genome editing, and the new biology of sudden cardiac death",
+    "link": "https://doi.org/10.1093/eurheartj/ehag196",
+    "journal": "European Heart Journal",
+    "date": "Mar 25, 2026",
+    "date_ts": 1774396800.0,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Inflammatory pathways in atrial fibrillation: mechanisms and novel therapeutic targets",
+    "link": "https://doi.org/10.1093/eurheartj/ehag131",
+    "journal": "European Heart Journal",
+    "date": "Mar 25, 2026",
+    "date_ts": 1774396800.0,
     "tags": [
       "AFib"
     ],
@@ -4233,7 +4217,7 @@
     "date": "Mar 18, 2026",
     "date_ts": 1773808879.0,
     "tags": [
-      "Other"
+      "AI"
     ],
     "hot": false
   },
@@ -4431,7 +4415,8 @@
     "date": "Mar 13, 2026",
     "date_ts": 1773420892.0,
     "tags": [
-      "AFib"
+      "AFib",
+      "SVT"
     ],
     "hot": false
   },
@@ -4442,7 +4427,8 @@
     "date": "Mar 13, 2026",
     "date_ts": 1773420531.0,
     "tags": [
-      "VT"
+      "VT",
+      "SVT"
     ],
     "hot": false
   },
@@ -4497,7 +4483,8 @@
     "date": "Mar 12, 2026",
     "date_ts": 1773298800.0,
     "tags": [
-      "AFib"
+      "AFib",
+      "SVT"
     ],
     "hot": false
   },
@@ -4640,7 +4627,7 @@
     "date": "Mar 12, 2026",
     "date_ts": 1773298800.0,
     "tags": [
-      "Other"
+      "SVT"
     ],
     "hot": false
   },
@@ -5293,7 +5280,8 @@
     "date": "Feb 26, 2026",
     "date_ts": 1772064000.0,
     "tags": [
-      "VT"
+      "VT",
+      "SVT"
     ],
     "hot": false
   },
@@ -5337,7 +5325,8 @@
     "date": "Feb 24, 2026",
     "date_ts": 1771948552.0,
     "tags": [
-      "AFib"
+      "AFib",
+      "SVT"
     ],
     "hot": false
   },
@@ -5526,6 +5515,39 @@
     "date_ts": 1769904000.0,
     "tags": [
       "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Calcium release channel deficiency syndrome in patients diagnosed with idiopathic ventricular fibrillation and decedents classified as sudden unexplained death in the young",
+    "link": "https://doi.org/10.1093/europace/euaf303",
+    "journal": "EP Europace",
+    "date": "Feb 01, 2026",
+    "date_ts": 1769904000.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Feasibility, procedural efficiency, and early imaging outcomes of concomitant pulsed field ablation and left atrial appendage closure: a prospective single-centre study",
+    "link": "https://doi.org/10.1093/europace/euag017",
+    "journal": "EP Europace",
+    "date": "Feb 01, 2026",
+    "date_ts": 1769904000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Shortest pulmonary vein atrial fibrillation cycle length identifies pulmonary vein isolation responders beyond clinical atrial fibrillation pattern: the FARS-AF II study",
+    "link": "https://doi.org/10.1093/europace/euag033",
+    "journal": "EP Europace",
+    "date": "Feb 01, 2026",
+    "date_ts": 1769904000.0,
+    "tags": [
+      "AFib"
     ],
     "hot": false
   }
