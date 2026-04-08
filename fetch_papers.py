@@ -310,7 +310,7 @@ def fetch_medrxiv_papers(seen: set) -> list[dict]:
 # ALTMETRIC (hot papers)
 # ─────────────────────────────────────────────
 
-ALTMETRIC_THRESHOLD = 15  # score above this = 🔥
+ALTMETRIC_THRESHOLD = 5  # score above this = 🔥
 
 def fetch_altmetric_scores(papers: list[dict]) -> list[dict]:
     """Check Altmetric attention scores for new papers and flag hot ones.
