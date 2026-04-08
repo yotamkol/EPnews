@@ -32,6 +32,7 @@ FEEDS = [
     {"name": "JACC",                  "url": "https://rss.sciencedirect.com/publication/science/07351097",                               "ep_only": True},
     {"name": "Lancet",                "url": "https://www.thelancet.com/rssfeed/lancet_current.xml",                                     "ep_only": True},
     {"name": "Nature Cardiovasc Res", "url": "https://www.nature.com/natcardiovascres.rss",                                              "ep_only": True},
+    {"name": "Nature Medicine",       "url": "https://www.nature.com/nm.rss",                                                             "ep_only": True},
 ]
 
 # Keywords used to filter general journals (ep_only: True)
