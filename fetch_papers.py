@@ -196,9 +196,26 @@ def fetch_rss_papers(seen: set) -> list[dict]:
                     if not any(kw in title_lower for kw in EP_FILTER_KEYWORDS):
                         continue
                 date = parse_date(entry)
+                # Try to extract DOI from RSS entry metadata fields
+                doi = None
+                for field in ("prism_doi", "dc_identifier"):
+                    val = getattr(entry, field, None)
+                    if val and val.strip().startswith("10."):
+                        doi = val.strip()
+                        break
+                if not doi:
+                    # Some feeds put DOI in tags/links
+                    for tag in getattr(entry, "tags", []):
+                        term = getattr(tag, "term", "") or ""
+                        if term.startswith("10."):
+                            doi = term.strip()
+                            break
+                if not doi:
+                    doi = extract_doi(link)
                 papers.append({
                     "title":   title,
                     "link":    link,
+                    "doi":     doi,
                     "journal": feed_meta["name"],
                     "date":    date.strftime("%b %d, %Y"),
                     "date_ts": date.timestamp(),
@@ -256,6 +273,7 @@ def fetch_crossref_papers(seen: set) -> list[dict]:
                 papers.append({
                     "title":   title,
                     "link":    link,
+                    "doi":     doi,
                     "journal": journal["name"],
                     "date":    date.strftime("%b %d, %Y"),
                     "date_ts": date.timestamp(),
@@ -295,6 +313,7 @@ def fetch_medrxiv_papers(seen: set) -> list[dict]:
             papers.append({
                 "title":   title,
                 "link":    link,
+                "doi":     doi if doi else extract_doi(link),
                 "journal": "medRxiv (preprint)",
                 "date":    date.strftime("%b %d, %Y"),
                 "date_ts": date.timestamp(),
@@ -312,22 +331,60 @@ def fetch_medrxiv_papers(seen: set) -> list[dict]:
 
 ALTMETRIC_THRESHOLD = 5  # score above this = 🔥
 
+def extract_doi(link: str) -> str | None:
+    """Extract DOI from a journal article URL, handling publisher-specific formats."""
+    import re
+    if not link:
+        return None
+
+    # Standard doi.org resolver
+    if "doi.org/" in link:
+        doi = link.split("doi.org/")[-1].strip().rstrip("/")
+        return doi if doi else None
+
+    # Query param: ?doi=10.xxxx/...
+    if "doi=" in link:
+        doi = link.split("doi=")[-1].split("&")[0].strip()
+        return doi if doi.startswith("10.") else None
+
+    # NEJM: /doi/full/10.xxxx or /doi/abs/10.xxxx or /doi/10.xxxx
+    m = re.search(r"/doi/(?:full|abs|pdf|10\.)", link)
+    if m:
+        doi = link[m.end() - len("10."):]  if "10." in link[m.end():] else link[m.end():]
+        # grab from first 10. occurrence after /doi/
+        idx = link.find("/doi/")
+        if idx != -1:
+            after = link[idx + 5:]
+            # strip full/ abs/ pdf/ prefixes
+            after = re.sub(r"^(full|abs|pdf)/", "", after)
+            if after.startswith("10."):
+                return after.split("?")[0].rstrip("/")
+
+    # AHA journals: /doi/10.xxxx/...
+    m = re.search(r"/doi/(10\.\d{4,}/[^\s?#]+)", link)
+    if m:
+        return m.group(1).rstrip("/")
+
+    # ScienceDirect: /science/article/pii/ — no DOI in URL, skip
+    # Wiley: /doi/10.xxxx/...  (caught above)
+    # CrossRef links already use doi.org
+
+    return None
+
+
 def fetch_altmetric_scores(papers: list[dict]) -> list[dict]:
     """Check Altmetric attention scores for new papers and flag hot ones.
     Uses the free Altmetric API (no key needed, rate-limited to ~1 req/sec).
-    Only checks papers whose DOI can be extracted from the link.
     """
     import time
+    found_doi = 0
     for paper in papers:
-        doi = None
-        link = paper.get("link", "")
-        if "doi.org/" in link:
-            doi = link.split("doi.org/")[-1].strip()
-        elif "doi=" in link:
-            doi = link.split("doi=")[-1].split("&")[0].strip()
+        # Use stored DOI first (most reliable), fall back to URL extraction
+        doi = paper.get("doi") or extract_doi(paper.get("link", ""))
         if not doi:
             paper["hot"] = False
             continue
+        found_doi += 1
         try:
             resp = requests.get(
                 f"https://api.altmetric.com/v1/doi/{doi}",
@@ -337,11 +394,14 @@ def fetch_altmetric_scores(papers: list[dict]) -> list[dict]:
             if resp.status_code == 200:
                 score = resp.json().get("score", 0)
                 paper["hot"] = score >= ALTMETRIC_THRESHOLD
+                if paper["hot"]:
+                    print(f"[info] 🔥 score={score:.0f} — {paper['title'][:60]}")
             else:
                 paper["hot"] = False
             time.sleep(0.5)  # be polite to the free API
         except Exception:
             paper["hot"] = False
+    print(f"[info] DOI extracted for {found_doi}/{len(papers)} papers")
     return papers
 
 
