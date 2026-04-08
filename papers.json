@@ -1,5 +1,35 @@
 [
   {
+    "title": "High Incidence of Pacing-Induced Cardiomyopathy in Patients with Cardiac Sarcoidosis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022447?dgcid=rss_sd_all",
+    "journal": "Heart Rhythm",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775623269.898778,
+    "tags": [
+      "Genetics"
+    ]
+  },
+  {
+    "title": "Acute kidney injury related to pulsed-field ablation of atrial fibrillation. Protective role of the protocol-based hydration regimen.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022472?dgcid=rss_sd_all",
+    "journal": "Heart Rhythm",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775623269.898748,
+    "tags": [
+      "AFib"
+    ]
+  },
+  {
+    "title": "Notch1 Deletion Reduces Arrhythmogenic Remodeling after Myocardial Infarction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602240X?dgcid=rss_sd_all",
+    "journal": "Heart Rhythm",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775623269.898679,
+    "tags": [
+      "Genetics"
+    ]
+  },
+  {
     "title": "Pulmonary Vein Isolation Only for Atrial Fibrillation With Heart Failure (POLAR-HF)",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008126?dgcid=rss_sd_all",
     "journal": "JACC: Clinical EP",
@@ -4995,36 +5025,6 @@
     "date_ts": 1769904000.0,
     "tags": [
       "Other"
-    ]
-  },
-  {
-    "title": "Long\u2010Term Follow\u2010Up of Radiofrequency Slow Pathway Ablation for Atrioventricular Nodal Re\u2010Entrant Tachycardia: Late Outcomes",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70278?af=R",
-    "journal": "J Cardiovasc EP",
-    "date": "Jan 29, 2026",
-    "date_ts": 1769673600.0,
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "A Single 480\u2010s Cryoablation Reduces Long\u2010Term Arrhythmia Recurrence Rate Than Standard Cryoablation in Patients With AVNRT",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70209?af=R",
-    "journal": "J Cardiovasc EP",
-    "date": "Jan 29, 2026",
-    "date_ts": 1769664740.0,
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "Outcomes Among Drug Refractory Patients With Atrial Fibrillation (AF) and Concomitant Heart Failure With Preserved Ejection Fraction (HFpEF) Treated With Catheter Ablation Versus Antiarrhythmic Drugs",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70250?af=R",
-    "journal": "J Cardiovasc EP",
-    "date": "Jan 29, 2026",
-    "date_ts": 1769664593.0,
-    "tags": [
-      "AFib"
     ]
   }
 ]
