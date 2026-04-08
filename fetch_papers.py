@@ -460,11 +460,13 @@ def build_paper_row(paper: dict) -> str:
     tag_classes = " ".join(f"tag-{t.lower()}" for t in paper["tags"])
     hot_badge = '<span class="hot-badge" title="High attention score">🔥</span>' if paper.get("hot") else ""
     link_id = paper["link"].replace("https://", "").replace("http://", "").replace("/", "_").replace(".", "_")
+    journal_safe = paper["journal"].replace('"', '&quot;')
     return f'''
-    <div class="paper {tag_classes}" data-id="{link_id}">
+    <div class="paper {tag_classes}" data-id="{link_id}" data-date="{paper["date_ts"]}" data-journal="{journal_safe}">
       <div class="paper-tags">{tags_html}</div>
       <div class="paper-title-wrap">
         <span class="unread-dot" title="Unread"></span>
+        <span class="bookmark-btn" title="Bookmark" onclick="toggleBookmark('{link_id}')">&#9734;</span>
         {hot_badge}
         <a class="paper-title" href="{paper["link"]}" target="_blank" rel="noopener"
            onclick="markRead('{link_id}')">{paper["title"]}</a>
@@ -478,11 +480,17 @@ def render_html(papers: list[dict]) -> str:
     count = len(papers)
 
     tag_order = ["AFib", "SVT", "VT", "SCD", "Devices", "Genetics", "Imaging", "AI", "Other"]
-    filter_buttons = '<button class="filter-btn active" onclick="filter(\'all\')">All</button>'
+    filter_buttons = '<button class="filter-btn active" onclick="filterTag(\'all\')">All</button>'
     for tag in tag_order:
         color = TAG_COLORS[tag]
-        filter_buttons += f'<button class="filter-btn" onclick="filter(\'{tag.lower()}\''
+        filter_buttons += f'<button class="filter-btn" onclick="filterTag(\'{tag.lower()}\''
         filter_buttons += f')" style="--accent:{color}">{tag}</button>'
+
+    # Build journal dropdown options
+    journals = sorted(set(p["journal"] for p in papers))
+    journal_options = '<option value="all">All journals</option>'
+    for j in journals:
+        journal_options += f'<option value="{j}">{j}</option>'
 
     rows = "\n".join(build_paper_row(p) for p in papers) if papers else \
         '<div class="empty">No new papers today.</div>'
@@ -634,7 +642,7 @@ def render_html(papers: list[dict]) -> str:
       border-radius: 4px;
     }}
 
-    .paper.hidden, .paper.search-hidden {{ display: none; }}
+    .paper.hidden {{ display: none; }}
 
     /* unread state */
     .paper.unread .paper-title {{ font-weight: 500; color: #eaf0f9; }}
@@ -702,32 +710,22 @@ def render_html(papers: list[dict]) -> str:
       text-align: right;
     }}
 
-    /* mark-all-read button */
-    .read-all-btn {{
-      font-family: var(--mono);
-      font-size: 10px;
-      color: var(--muted);
-      background: none;
-      border: 1px solid var(--border);
-      border-radius: 3px;
-      padding: 3px 8px;
-      cursor: pointer;
-      margin-left: auto;
-      transition: all 0.12s;
-    }}
-    .read-all-btn:hover {{ color: var(--text); border-color: var(--muted); }}
-
-    /* ── search ── */
-    .search-bar {{
+    /* ── toolbar (search + sort + journal filter) ── */
+    .toolbar {{
       padding: 12px 32px;
       background: var(--bg);
       border-bottom: 1px solid var(--border);
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: center;
     }}
 
     .search-input {{
-      width: 100%;
-      max-width: 480px;
-      padding: 8px 12px;
+      flex: 1;
+      min-width: 180px;
+      max-width: 400px;
+      padding: 7px 12px;
       font-family: var(--sans);
       font-size: 14px;
       color: var(--text);
@@ -737,9 +735,68 @@ def render_html(papers: list[dict]) -> str:
       outline: none;
       transition: border-color 0.15s;
     }}
-
     .search-input::placeholder {{ color: var(--muted); }}
     .search-input:focus {{ border-color: var(--accent); }}
+
+    .toolbar-select {{
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--text);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 6px 8px;
+      cursor: pointer;
+      outline: none;
+    }}
+    .toolbar-select:focus {{ border-color: var(--accent); }}
+
+    .theme-toggle {{
+      font-size: 16px;
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 4px 8px;
+      cursor: pointer;
+      color: var(--muted);
+      transition: all 0.12s;
+      margin-left: auto;
+    }}
+    .theme-toggle:hover {{ color: var(--text); border-color: var(--muted); }}
+
+    /* ── bookmark ── */
+    .bookmark-btn {{
+      cursor: pointer;
+      font-size: 14px;
+      color: var(--muted);
+      margin-right: 5px;
+      flex-shrink: 0;
+      transition: color 0.1s;
+      user-select: none;
+    }}
+    .bookmark-btn:hover {{ color: var(--accent); }}
+    .bookmark-btn.bookmarked {{ color: #f5c518; }}
+
+    /* ── new-since-last-visit divider ── */
+    .new-divider {{
+      padding: 8px 0;
+      text-align: center;
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--muted);
+      letter-spacing: 0.08em;
+      position: relative;
+    }}
+    .new-divider::before, .new-divider::after {{
+      content: '';
+      position: absolute;
+      top: 50%;
+      width: 30%;
+      height: 1px;
+      background: var(--border);
+    }}
+    .new-divider::before {{ left: 0; }}
+    .new-divider::after {{ right: 0; }}
 
     .empty {{
       padding: 64px 0;
@@ -761,11 +818,23 @@ def render_html(papers: list[dict]) -> str:
       letter-spacing: 0.04em;
     }}
 
+    /* ── light theme ── */
+    body.light {{
+      --bg:       #f5f6f8;
+      --surface:  #ffffff;
+      --border:   #dde1e8;
+      --text:     #1a1d24;
+      --muted:    #6b7280;
+      --accent:   #2563eb;
+      --unread:   #2563eb;
+    }}
+    body.light .paper.unread .paper-title {{ color: #111318; }}
+
     /* ── responsive ── */
     @media (max-width: 640px) {{
       header {{ padding: 16px 20px; flex-wrap: wrap; gap: 8px; }}
       .filters {{ padding: 12px 20px; }}
-      .search-bar {{ padding: 12px 20px; }}
+      .toolbar {{ padding: 12px 20px; }}
       .search-input {{ max-width: 100%; }}
       .feed {{ padding: 0 20px 48px; }}
       .paper {{ grid-template-columns: 1fr; gap: 5px; }}
@@ -794,8 +863,18 @@ def render_html(papers: list[dict]) -> str:
   {filter_buttons}
 </div>
 
-<div class="search-bar">
+<div class="toolbar">
   <input type="text" class="search-input" placeholder="Search papers..." oninput="searchPapers(this.value)"/>
+  <select class="toolbar-select" id="journal-filter" onchange="filterJournal(this.value)">
+    {journal_options}
+  </select>
+  <select class="toolbar-select" id="sort-select" onchange="sortPapers(this.value)">
+    <option value="date">Newest first</option>
+    <option value="journal">By journal</option>
+    <option value="unread">Unread first</option>
+    <option value="bookmarked">Bookmarked first</option>
+  </select>
+  <button class="theme-toggle" onclick="toggleTheme()" title="Toggle light/dark mode" id="theme-btn">&#9790;</button>
 </div>
 
 <div class="feed">
@@ -808,74 +887,164 @@ def render_html(papers: list[dict]) -> str:
 
 <script>
   const READ_KEY = 'ep_read_v1';
+  const BOOKMARK_KEY = 'ep_bookmarks_v1';
+  const VISIT_KEY = 'ep_last_visit';
+  const THEME_KEY = 'ep_theme';
 
-  function getRead() {{
-    try {{ return new Set(JSON.parse(localStorage.getItem(READ_KEY) || '[]')) }}
+  // ── localStorage helpers ──
+  function getSet(key) {{
+    try {{ return new Set(JSON.parse(localStorage.getItem(key) || '[]')); }}
     catch {{ return new Set(); }}
   }}
+  function saveSet(key, s) {{ localStorage.setItem(key, JSON.stringify([...s])); }}
 
-  function saveRead(s) {{
-    localStorage.setItem(READ_KEY, JSON.stringify([...s]));
-  }}
-
+  // ── Read state ──
   function applyReadState() {{
-    const read = getRead();
+    const read = getSet(READ_KEY);
     document.querySelectorAll('.paper').forEach(p => {{
-      const id = p.dataset.id;
-      if (read.has(id)) {{
-        p.classList.add('read');
-        p.classList.remove('unread');
+      if (read.has(p.dataset.id)) {{
+        p.classList.add('read'); p.classList.remove('unread');
       }} else {{
-        p.classList.add('unread');
-        p.classList.remove('read');
+        p.classList.add('unread'); p.classList.remove('read');
       }}
     }});
   }}
 
   function markRead(id) {{
-    const read = getRead();
+    const read = getSet(READ_KEY);
     read.add(id);
-    saveRead(read);
+    saveSet(READ_KEY, read);
     const paper = document.querySelector(`.paper[data-id="${{id}}"]`);
-    if (paper) {{
-      paper.classList.add('read');
-      paper.classList.remove('unread');
-    }}
+    if (paper) {{ paper.classList.add('read'); paper.classList.remove('unread'); }}
   }}
 
-  function markAllRead() {{
-    const read = getRead();
-    document.querySelectorAll('.paper').forEach(p => read.add(p.dataset.id));
-    saveRead(read);
-    applyReadState();
+  // ── Bookmarks ──
+  function applyBookmarks() {{
+    const bm = getSet(BOOKMARK_KEY);
+    document.querySelectorAll('.paper').forEach(p => {{
+      const btn = p.querySelector('.bookmark-btn');
+      if (bm.has(p.dataset.id)) {{
+        btn.innerHTML = '&#9733;';
+        btn.classList.add('bookmarked');
+      }} else {{
+        btn.innerHTML = '&#9734;';
+        btn.classList.remove('bookmarked');
+      }}
+    }});
   }}
 
-  function filter(tag) {{
+  function toggleBookmark(id) {{
+    const bm = getSet(BOOKMARK_KEY);
+    if (bm.has(id)) {{ bm.delete(id); }} else {{ bm.add(id); }}
+    saveSet(BOOKMARK_KEY, bm);
+    applyBookmarks();
+  }}
+
+  // ── Tag filter ──
+  let activeTag = 'all';
+  function filterTag(tag) {{
+    activeTag = tag;
     document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
     event.target.classList.add('active');
-    document.querySelectorAll('.paper').forEach(p => {{
-      if (tag === 'all') {{
-        p.classList.remove('hidden');
-      }} else {{
-        p.classList.toggle('hidden', !p.classList.contains('tag-' + tag));
-      }}
-    }});
+    applyVisibility();
   }}
 
+  // ── Journal filter ──
+  let activeJournal = 'all';
+  function filterJournal(journal) {{
+    activeJournal = journal;
+    applyVisibility();
+  }}
+
+  // ── Search ──
+  let searchQuery = '';
   function searchPapers(query) {{
-    const q = query.toLowerCase().trim();
+    searchQuery = query.toLowerCase().trim();
+    applyVisibility();
+  }}
+
+  // ── Combined visibility (tag + journal + search) ──
+  function applyVisibility() {{
     document.querySelectorAll('.paper').forEach(p => {{
-      if (!q) {{
-        p.classList.remove('search-hidden');
-      }} else {{
+      let show = true;
+      if (activeTag !== 'all' && !p.classList.contains('tag-' + activeTag)) show = false;
+      if (activeJournal !== 'all' && p.dataset.journal !== activeJournal) show = false;
+      if (searchQuery) {{
         const title = (p.querySelector('.paper-title')?.textContent || '').toLowerCase();
         const meta = (p.querySelector('.paper-meta')?.textContent || '').toLowerCase();
-        p.classList.toggle('search-hidden', !title.includes(q) && !meta.includes(q));
+        if (!title.includes(searchQuery) && !meta.includes(searchQuery)) show = false;
       }}
+      p.style.display = show ? '' : 'none';
     }});
   }}
 
-  document.addEventListener('DOMContentLoaded', applyReadState);
+  // ── Sort ──
+  function sortPapers(mode) {{
+    const feed = document.querySelector('.feed');
+    const papers = [...feed.querySelectorAll('.paper')];
+    const read = getSet(READ_KEY);
+    const bm = getSet(BOOKMARK_KEY);
+    papers.sort((a, b) => {{
+      if (mode === 'date') return parseFloat(b.dataset.date) - parseFloat(a.dataset.date);
+      if (mode === 'journal') return a.dataset.journal.localeCompare(b.dataset.journal) || parseFloat(b.dataset.date) - parseFloat(a.dataset.date);
+      if (mode === 'unread') {{
+        const au = read.has(a.dataset.id) ? 1 : 0;
+        const bu = read.has(b.dataset.id) ? 1 : 0;
+        return au - bu || parseFloat(b.dataset.date) - parseFloat(a.dataset.date);
+      }}
+      if (mode === 'bookmarked') {{
+        const ab = bm.has(a.dataset.id) ? 0 : 1;
+        const bb = bm.has(b.dataset.id) ? 0 : 1;
+        return ab - bb || parseFloat(b.dataset.date) - parseFloat(a.dataset.date);
+      }}
+      return 0;
+    }});
+    papers.forEach(p => feed.appendChild(p));
+  }}
+
+  // ── Theme ──
+  function applyTheme() {{
+    const theme = localStorage.getItem(THEME_KEY) || 'dark';
+    document.body.classList.toggle('light', theme === 'light');
+    document.getElementById('theme-btn').innerHTML = theme === 'light' ? '&#9728;' : '&#9790;';
+  }}
+  function toggleTheme() {{
+    const current = localStorage.getItem(THEME_KEY) || 'dark';
+    const next = current === 'dark' ? 'light' : 'dark';
+    localStorage.setItem(THEME_KEY, next);
+    applyTheme();
+  }}
+
+  // ── New since last visit ──
+  function markNewPapers() {{
+    const lastVisit = parseFloat(localStorage.getItem(VISIT_KEY) || '0');
+    if (lastVisit === 0) {{
+      localStorage.setItem(VISIT_KEY, String(Date.now() / 1000));
+      return;
+    }}
+    let dividerInserted = false;
+    const papers = document.querySelectorAll('.paper');
+    for (const p of papers) {{
+      const ts = parseFloat(p.dataset.date);
+      if (!dividerInserted && ts <= lastVisit) {{
+        const divider = document.createElement('div');
+        divider.className = 'new-divider';
+        divider.textContent = 'previously seen';
+        p.parentNode.insertBefore(divider, p);
+        dividerInserted = true;
+        break;
+      }}
+    }}
+    localStorage.setItem(VISIT_KEY, String(Date.now() / 1000));
+  }}
+
+  // ── Init ──
+  document.addEventListener('DOMContentLoaded', () => {{
+    applyTheme();
+    applyReadState();
+    applyBookmarks();
+    markNewPapers();
+  }});
 </script>
 
 </body>
