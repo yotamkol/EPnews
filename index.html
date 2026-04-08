@@ -366,8 +366,8 @@
       .header-right { text-align: left; line-height: 1.4; }
       .theme-toggle { flex-shrink: 0; }
       .filters { padding: 10px 16px; gap: 5px; }
-      .toolbar { padding: 10px 16px; }
-      .search-input { max-width: 100%; }
+      .toolbar { padding: 10px 16px; flex-wrap: nowrap; }
+      .search-input { min-width: 0; flex: 1; font-size: 13px; padding: 6px 10px; }
       .feed { padding: 0 16px 48px; }
       .paper { grid-template-columns: 1fr; gap: 5px; }
       .paper:hover { margin: 0 -16px; padding: 12px 16px; }
@@ -384,7 +384,7 @@
     <div class="logo-sub">Your daily EP reading list</div>
   </div>
   <div class="header-right">
-    <div>Last updated Apr 08, 2026 at 18:06 UTC</div>
+    <div>Last updated Apr 08, 2026 at 18:12 UTC</div>
   </div>
   <button class="theme-toggle" onclick="toggleTheme()" title="Toggle light/dark mode" id="theme-btn">&#9790;</button>
 </header>
@@ -399,12 +399,6 @@
   <input type="text" class="search-input" placeholder="Search papers..." oninput="searchPapers(this.value)"/>
   <select class="toolbar-select" id="journal-filter" onchange="filterJournal(this.value)">
     <option value="all">All journals</option><option value="Circ: Arrhythmia & EP">Circ: Arrhythmia & EP</option><option value="Circulation">Circulation</option><option value="EP Europace">EP Europace</option><option value="European Heart Journal">European Heart Journal</option><option value="Heart Rhythm">Heart Rhythm</option><option value="Heart Rhythm Case Rep">Heart Rhythm Case Rep</option><option value="Heart Rhythm O2">Heart Rhythm O2</option><option value="J Cardiovasc EP">J Cardiovasc EP</option><option value="JACC">JACC</option><option value="JACC: Clinical EP">JACC: Clinical EP</option><option value="JAMA Cardiology">JAMA Cardiology</option><option value="NEJM">NEJM</option><option value="PACE">PACE</option>
-  </select>
-  <select class="toolbar-select" id="sort-select" onchange="sortPapers(this.value)">
-    <option value="date">Newest first</option>
-    <option value="journal">By journal</option>
-    <option value="unread">Unread first</option>
-    <option value="bookmarked">Bookmarked first</option>
   </select>
 </div>
 
