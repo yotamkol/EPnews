@@ -863,8 +863,8 @@ def render_html(papers: list[dict]) -> str:
       .header-right {{ text-align: left; line-height: 1.4; }}
       .theme-toggle {{ flex-shrink: 0; }}
       .filters {{ padding: 10px 16px; gap: 5px; }}
-      .toolbar {{ padding: 10px 16px; }}
-      .search-input {{ max-width: 100%; }}
+      .toolbar {{ padding: 10px 16px; flex-wrap: nowrap; }}
+      .search-input {{ min-width: 0; flex: 1; font-size: 13px; padding: 6px 10px; }}
       .feed {{ padding: 0 16px 48px; }}
       .paper {{ grid-template-columns: 1fr; gap: 5px; }}
       .paper:hover {{ margin: 0 -16px; padding: 12px 16px; }}
@@ -896,12 +896,6 @@ def render_html(papers: list[dict]) -> str:
   <input type="text" class="search-input" placeholder="Search papers..." oninput="searchPapers(this.value)"/>
   <select class="toolbar-select" id="journal-filter" onchange="filterJournal(this.value)">
     {journal_options}
-  </select>
-  <select class="toolbar-select" id="sort-select" onchange="sortPapers(this.value)">
-    <option value="date">Newest first</option>
-    <option value="journal">By journal</option>
-    <option value="unread">Unread first</option>
-    <option value="bookmarked">Bookmarked first</option>
   </select>
 </div>
 
