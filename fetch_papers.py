@@ -21,19 +21,44 @@ import requests
 # ─────────────────────────────────────────────
 
 FEEDS = [
-    {"name": "Heart Rhythm",          "url": "https://rss.sciencedirect.com/publication/science/15475271"},
-    {"name": "Heart Rhythm O2",       "url": "https://rss.sciencedirect.com/publication/science/26665018"},
-    {"name": "JACC: Clinical EP",     "url": "https://rss.sciencedirect.com/publication/science/2405500X"},
-    {"name": "Circ: Arrhythmia & EP", "url": "https://www.ahajournals.org/action/showFeed?type=ahead&feed=rss&jc=circep"},
-    {"name": "PACE",                  "url": "https://onlinelibrary.wiley.com/feed/15408159/most-recent"},
-    {"name": "J Cardiovasc EP",       "url": "https://onlinelibrary.wiley.com/feed/15408167/most-recent"},
-    {"name": "Heart Rhythm Case Rep", "url": "https://rss.sciencedirect.com/publication/science/24054966"},
+    # Dedicated EP journals — take everything
+    {"name": "Heart Rhythm",          "url": "https://rss.sciencedirect.com/publication/science/15475271",  "ep_only": False},
+    {"name": "Heart Rhythm O2",       "url": "https://rss.sciencedirect.com/publication/science/26665018",  "ep_only": False},
+    {"name": "JACC: Clinical EP",     "url": "https://rss.sciencedirect.com/publication/science/2405500X",  "ep_only": False},
+    {"name": "Circ: Arrhythmia & EP", "url": "https://www.ahajournals.org/action/showFeed?type=ahead&feed=rss&jc=circep", "ep_only": False},
+    {"name": "PACE",                  "url": "https://onlinelibrary.wiley.com/feed/15408159/most-recent",   "ep_only": False},
+    {"name": "J Cardiovasc EP",       "url": "https://onlinelibrary.wiley.com/feed/15408167/most-recent",   "ep_only": False},
+    {"name": "Heart Rhythm Case Rep", "url": "https://rss.sciencedirect.com/publication/science/24054966",  "ep_only": False},
+    # General cardiology journals — filter to EP-relevant papers only
+    {"name": "NEJM",                  "url": "https://www.nejm.org/action/showFeed?jc=nejm&type=etoc&feed=rss",                         "ep_only": True},
+    {"name": "Circulation",           "url": "https://www.ahajournals.org/action/showFeed?type=ahead&feed=rss&jc=circ",                  "ep_only": True},
+    {"name": "JACC",                  "url": "https://rss.sciencedirect.com/publication/science/07351097",                               "ep_only": True},
+    {"name": "JAMA Cardiology",       "url": "https://jamanetwork.com/journals/jamacardiology/newonlineissues/rss",                      "ep_only": True},
+    {"name": "Lancet",                "url": "https://www.thelancet.com/rssfeed/lancet_current.xml",                                     "ep_only": True},
+    {"name": "Nature Cardiovasc Res", "url": "https://www.nature.com/natcardiovascres.rss",                                              "ep_only": True},
+]
+
+# Keywords used to filter general journals (ep_only: True)
+# A paper must match at least one of these in its title to be included
+EP_FILTER_KEYWORDS = [
+    "atrial fibrillation", "atrial flutter", "atrial tachycardia",
+    "ventricular tachycardia", "ventricular arrhythmia", "ventricular fibrillation",
+    "sudden cardiac death", "sudden cardiac arrest", "cardiac arrest",
+    "electrophysiology", "catheter ablation", "cardiac ablation",
+    "pacemaker", "implantable cardioverter", " icd", "icd ",
+    "leadless", "cardiac resynchronization", "crt ", "defibrillator",
+    "arrhythmia", "arrhythmias", "brugada", "long qt", "channelopathy",
+    "left bundle branch pacing", "his bundle pacing", "lbbap",
+    "pulmonary vein", "cardioversion", "antiarrhythmic",
+    "cardiac electrophysiology", "sinus node", "av node", "accessory pathway",
+    "wolff-parkinson", "wpw", "svt ", " svt", "supraventricular",
 ]
 
 # Journals to fetch via CrossRef API (ISSN → display name)
-# Used for journals whose RSS feeds are broken or inaccessible
+# Used for journals whose RSS feeds are broken or inaccessible (e.g. Oxford Academic)
 CROSSREF_JOURNALS = [
-    {"name": "EP Europace", "issn": "1099-5129"},
+    {"name": "EP Europace",           "issn": "1099-5129", "ep_only": False},
+    {"name": "European Heart Journal","issn": "0195-668X", "ep_only": True},
 ]
 
 MEDRXIV_URL = (
@@ -79,8 +104,21 @@ TAGS = {
     "Imaging": [
         "cardiac mri", "cardiac magnetic resonance", "late gadolinium",
         "electroanatomic mapping", "intracardiac echocardiography", "ice guided",
-        "cardiac ct", "computed tomography", "ecg ai", "electrocardiogram ai",
-        "digital twin", "scar mapping",
+        "cardiac ct", "computed tomography", "scar mapping",
+    ],
+    "SVT": [
+        "supraventricular tachycardia", "svt ", " svt", "avnrt", "avrt",
+        "atrial tachycardia", "atrioventricular nodal", "atrioventricular reentrant",
+        "accessory pathway", "wolff-parkinson", "wpw", "delta wave",
+        "junctional tachycardia", "focal atrial tachycardia", "sinus tachycardia",
+        "inappropriate sinus", "sinoatrial reentrant",
+    ],
+    "AI": [
+        "artificial intelligence", "machine learning", "deep learning",
+        "neural network", "ecg ai", "electrocardiogram ai", "natural language processing",
+        "large language model", "llm", "foundation model", "digital twin",
+        "computer vision", "convolutional", "transformer model",
+        "risk prediction model", "predictive model", "algorithm",
     ],
 }
 
@@ -91,6 +129,8 @@ TAG_COLORS = {
     "Devices":  "#0891b2",
     "Genetics": "#059669",
     "Imaging":  "#d97706",
+    "SVT":      "#c2410c",
+    "AI":       "#0d9488",
     "Other":    "#4b5563",
 }
 
@@ -150,6 +190,11 @@ def fetch_rss_papers(seen: set) -> list[dict]:
                 title = entry.get("title", "").strip()
                 if not title:
                     continue
+                # For general journals, filter to EP-relevant papers only
+                if feed_meta.get("ep_only"):
+                    title_lower = title.lower()
+                    if not any(kw in title_lower for kw in EP_FILTER_KEYWORDS):
+                        continue
                 date = parse_date(entry)
                 papers.append({
                     "title":   title,
@@ -192,6 +237,10 @@ def fetch_crossref_papers(seen: set) -> list[dict]:
                 if not titles:
                     continue
                 title = titles[0].strip()
+                # For general journals, filter to EP-relevant papers only
+                if journal.get("ep_only"):
+                    if not any(kw in title.lower() for kw in EP_FILTER_KEYWORDS):
+                        continue
                 # Parse date from published date-parts
                 date_parts = item.get("published", {}).get("date-parts", [[]])
                 parts = date_parts[0] if date_parts else []
