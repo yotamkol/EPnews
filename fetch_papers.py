@@ -865,9 +865,10 @@ def render_html(papers: list[dict]) -> str:
         gap: 8px;
         align-items: center;
       }}
-      .logo-sub {{ font-size: 10px; white-space: nowrap; }}
+      .logo-sub {{ font-size: 11px; white-space: nowrap; }}
       .last-updated {{ display: block; font-size: 9px; }}
-      .header-right {{ display: none; }}
+      .header-right span {{ display: none; }}
+      .header-right {{ gap: 0; }}
       .filters {{ padding: 10px 16px; gap: 5px; }}
       .toolbar {{ padding: 10px 16px; flex-wrap: nowrap; }}
       .search-input {{ min-width: 0; flex: 1; font-size: 13px; padding: 6px 10px; }}
