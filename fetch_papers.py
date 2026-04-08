@@ -792,7 +792,6 @@ def render_html(papers: list[dict]) -> str:
 
 <div class="filters">
   {filter_buttons}
-  <button class="read-all-btn" onclick="markAllRead()">mark all read</button>
 </div>
 
 <div class="search-bar">
