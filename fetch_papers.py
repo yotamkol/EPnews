@@ -25,15 +25,11 @@ FEEDS = [
     {"name": "Heart Rhythm",          "url": "https://rss.sciencedirect.com/publication/science/15475271",  "ep_only": False},
     {"name": "Heart Rhythm O2",       "url": "https://rss.sciencedirect.com/publication/science/26665018",  "ep_only": False},
     {"name": "JACC: Clinical EP",     "url": "https://rss.sciencedirect.com/publication/science/2405500X",  "ep_only": False},
-    {"name": "Circ: Arrhythmia & EP", "url": "https://www.ahajournals.org/action/showFeed?type=ahead&feed=rss&jc=circep", "ep_only": False},
     {"name": "PACE",                  "url": "https://onlinelibrary.wiley.com/feed/15408159/most-recent",   "ep_only": False},
     {"name": "J Cardiovasc EP",       "url": "https://onlinelibrary.wiley.com/feed/15408167/most-recent",   "ep_only": False},
-    {"name": "Heart Rhythm Case Rep", "url": "https://rss.sciencedirect.com/publication/science/24054966",  "ep_only": False},
     # General cardiology journals — filter to EP-relevant papers only
     {"name": "NEJM",                  "url": "https://www.nejm.org/action/showFeed?jc=nejm&type=etoc&feed=rss",                         "ep_only": True},
-    {"name": "Circulation",           "url": "https://www.ahajournals.org/action/showFeed?type=ahead&feed=rss&jc=circ",                  "ep_only": True},
     {"name": "JACC",                  "url": "https://rss.sciencedirect.com/publication/science/07351097",                               "ep_only": True},
-    {"name": "JAMA Cardiology",       "url": "https://jamanetwork.com/journals/jamacardiology/newonlineissues/rss",                      "ep_only": True},
     {"name": "Lancet",                "url": "https://www.thelancet.com/rssfeed/lancet_current.xml",                                     "ep_only": True},
     {"name": "Nature Cardiovasc Res", "url": "https://www.nature.com/natcardiovascres.rss",                                              "ep_only": True},
 ]
@@ -57,8 +53,12 @@ EP_FILTER_KEYWORDS = [
 # Journals to fetch via CrossRef API (ISSN → display name)
 # Used for journals whose RSS feeds are broken or inaccessible (e.g. Oxford Academic)
 CROSSREF_JOURNALS = [
-    {"name": "EP Europace",           "issn": "1099-5129", "ep_only": False},
-    {"name": "European Heart Journal","issn": "0195-668X", "ep_only": True},
+    {"name": "EP Europace",            "issn": "1099-5129", "ep_only": False},
+    {"name": "Circ: Arrhythmia & EP",  "issn": "1941-3084", "ep_only": False},
+    {"name": "Heart Rhythm Case Rep",  "issn": "2214-0271", "ep_only": False},
+    {"name": "European Heart Journal", "issn": "0195-668X", "ep_only": True},
+    {"name": "Circulation",           "issn": "0009-7322", "ep_only": True},
+    {"name": "JAMA Cardiology",       "issn": "2380-6583", "ep_only": True},
 ]
 
 MEDRXIV_URL = (
