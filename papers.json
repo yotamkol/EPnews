@@ -1,5 +1,29 @@
 [
   {
+    "title": "26-CCC-10386-ACC BLUE TOE SYNDROME: ANTICOAGULATION CHALLENGES AFTER SUCCESSFUL ATRIAL FIBRILLATION ABLATION",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726060250?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775662541.638121,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "26-CCC-14735-ACC REFRACTORY CHYLOTHORAX RELATED TO SUPERIOR VENA CAVA STENOSIS FROM IMPLANTABLE CARDIAC DEFIBRILLATOR LEADS",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726060468?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775662541.637752,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "26-CCC-16127-ACC A CASE OF TRICUSPID AND SUBPULMONIC VALVE STENOSIS IN THE SETTING OF ABANDONED PACEMAKER LEADS PRESENTING AS SVC SYNDROME",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726051132?dgcid=rss_sd_all",
     "doi": null,
@@ -6024,30 +6048,6 @@
     "date_ts": 1769904000.0,
     "tags": [
       "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Feasibility, procedural efficiency, and early imaging outcomes of concomitant pulsed field ablation and left atrial appendage closure: a prospective single-centre study",
-    "link": "https://doi.org/10.1093/europace/euag017",
-    "doi": "10.1093/europace/euag017",
-    "journal": "EP Europace",
-    "date": "Feb 01, 2026",
-    "date_ts": 1769904000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Shortest pulmonary vein atrial fibrillation cycle length identifies pulmonary vein isolation responders beyond clinical atrial fibrillation pattern: the FARS-AF II study",
-    "link": "https://doi.org/10.1093/europace/euag033",
-    "doi": "10.1093/europace/euag033",
-    "journal": "EP Europace",
-    "date": "Feb 01, 2026",
-    "date_ts": 1769904000.0,
-    "tags": [
-      "AFib"
     ],
     "hot": false
   }
