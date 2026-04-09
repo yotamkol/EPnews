@@ -141,6 +141,7 @@ OUTPUT_FILE = Path("index.html")
 RESEND_API_KEY = os.environ.get("RESEND_API_KEY", "")
 EMAIL_FROM = os.environ.get("EMAIL_FROM", "ep-feed@yourdomain.com")
 EMAIL_TO   = os.environ.get("EMAIL_TO", "")
+SITE_URL   = os.environ.get("SITE_URL", "https://epfeed.vercel.app")
 
 
 # ─────────────────────────────────────────────
@@ -1112,11 +1113,14 @@ def build_email_html(papers: list[dict]) -> str:
     <html><body style="background:#080c0e;margin:0;padding:0;font-family:'DM Sans',sans-serif">
     <table width="100%" cellpadding="0" cellspacing="0" style="max-width:640px;margin:0 auto;padding:32px 24px">
       <tr><td>
-        <div style="font-family:monospace;font-size:13px;color:#00d4aa;letter-spacing:0.15em;margin-bottom:4px">EP FEED</div>
+        <a href="{SITE_URL}" style="font-family:monospace;font-size:13px;color:#00d4aa;letter-spacing:0.15em;margin-bottom:4px;text-decoration:none;display:block">EP FEED</a>
         <div style="font-family:monospace;font-size:11px;color:#4a5a63;margin-bottom:32px">{date_str} · {len(papers)} new papers</div>
         <table width="100%" cellpadding="0" cellspacing="0">
           {rows}
         </table>
+        <div style="text-align:center;padding:24px 0 0">
+          <a href="{SITE_URL}" style="font-family:monospace;font-size:12px;color:#00d4aa;text-decoration:none;border:1px solid #00d4aa;padding:8px 20px;border-radius:4px">View full feed on EP Feed</a>
+        </div>
       </td></tr>
     </table>
     </body></html>
