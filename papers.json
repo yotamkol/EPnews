@@ -1,5 +1,102 @@
 [
   {
+    "title": "Author\u2019s Reply to POTS: A neuroimmune disorder with cardiovascular manifestations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001674?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 11, 2026",
+    "date_ts": 1775928475.943677,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Management Algorithm for Pulmonary Vein Stenosis: An Evaluation of Available Surgical Data",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001650?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 11, 2026",
+    "date_ts": 1775928475.943643,
+    "tags": [
+      "AFib",
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "POTS: A neuroimmune disorder with cardiovascular manifestations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001662?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 11, 2026",
+    "date_ts": 1775928475.94361,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of Radiofrequency Power Settings on Acute Mitral Isthmus Ablation Success with Concomitant Vein of Marshall Ethanol Infusion",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001686?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 11, 2026",
+    "date_ts": 1775928475.943567,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Device Related Events Do Not Alter Long-Term Psychological Distress After ICD Implantation: A 24-Month Prospective Cohort Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001698?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 11, 2026",
+    "date_ts": 1775928475.943364,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Inflammation and day-to-day occurrence of atrial fibrillation",
+    "link": "https://doi.org/10.1093/europace/euag067",
+    "doi": "10.1093/europace/euag067",
+    "journal": "EP Europace",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775606400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "New-onset postoperative atrial fibrillation management and outcomes: the VISION Cardiac Surgery cohort",
+    "link": "https://doi.org/10.1093/eurheartj/ehag236",
+    "doi": "10.1093/eurheartj/ehag236",
+    "journal": "European Heart Journal",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775606400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Post-operative atrial fibrillation after cardiac surgery: reversible, provoked, or predictive? Time to reframe a persistent challenge",
+    "link": "https://doi.org/10.1093/eurheartj/ehag056",
+    "doi": "10.1093/eurheartj/ehag056",
+    "journal": "European Heart Journal",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775606400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Radiofrequency current-facilitated implantation of left bundle branch pacing lead for cardiac resynchronization therapy.",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022265?dgcid=rss_sd_all",
     "doi": null,
@@ -5954,102 +6051,6 @@
     "journal": "J Cardiovasc EP",
     "date": "Mar 12, 2026",
     "date_ts": 1773298800.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Validation of an Imageless Electrocardiographic Imaging Technique for the Non-Invasive Mapping of Regular Atrial Tachyarrhythmias",
-    "link": "https://doi.org/10.1093/europace/euag048",
-    "doi": "10.1093/europace/euag048",
-    "journal": "EP Europace",
-    "date": "Mar 12, 2026",
-    "date_ts": 1773273600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Interplay of Probe Stability and Oscillation During Very\u2010High\u2010Power Short\u2010Duration Ablation in Pulmonary Vein Isolation for Atrial Fibrillation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70202?af=R",
-    "doi": "10.1111/pace.70202",
-    "journal": "PACE",
-    "date": "Mar 11, 2026",
-    "date_ts": 1773227744.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Fto-mediated m6A demethylation of Lox drives atrial fibrosis and promotes atrial fibrillation in a murine model of hyperthyroidism",
-    "link": "https://doi.org/10.1093/europace/euag047",
-    "doi": "10.1093/europace/euag047",
-    "journal": "EP Europace",
-    "date": "Mar 11, 2026",
-    "date_ts": 1773187200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Long\u2010Term Outcomes of Radiofrequency Atrioventricular Node Ablation in a Real\u2010World Population",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70196?af=R",
-    "doi": "10.1111/pace.70196",
-    "journal": "PACE",
-    "date": "Mar 10, 2026",
-    "date_ts": 1773143467.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Mid\u2010Tracing Mystery During Narrow QRS Complex Tachycardia: What Is the Mechanism?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70201?af=R",
-    "doi": "10.1111/pace.70201",
-    "journal": "PACE",
-    "date": "Mar 10, 2026",
-    "date_ts": 1773142741.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Novel Use of Helium Insufflation to Facilitate Epicardial Access in Ventricular Tachycardia Ablation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70313?af=R",
-    "doi": "10.1111/jce.70313",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 10, 2026",
-    "date_ts": 1773117894.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Characterization of AV Nodal Left Inferior Extension by Use of High\u2010Density Mapping and Voltage\u2010Time Relationship",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70293?af=R",
-    "doi": "10.1111/jce.70293",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 10, 2026",
-    "date_ts": 1773116068.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Electrophysiology Consumables Procurement in Europe: Implications for Access, Innovation and Value-Based Care",
-    "link": "https://doi.org/10.1093/europace/euag039",
-    "doi": "10.1093/europace/euag039",
-    "journal": "EP Europace",
-    "date": "Mar 10, 2026",
-    "date_ts": 1773100800.0,
     "tags": [
       "Other"
     ],
