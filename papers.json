@@ -1,5 +1,17 @@
 [
   {
+    "title": "Radiofrequency current-facilitated implantation of left bundle branch pacing lead for cardiac resynchronization therapy.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022265?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 11, 2026",
+    "date_ts": 1775870023.372439,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
     "title": "LBBAP Is Not LBBP",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002306?dgcid=rss_sd_all",
     "doi": null,
@@ -6040,18 +6052,6 @@
     "date_ts": 1773100800.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Patients Experiencing Unsuccessful Defibrillation From Implantable Cardiac Devices Remain at Elevated Risk Despite Procedural Management",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70310?af=R",
-    "doi": "10.1111/jce.70310",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 09, 2026",
-    "date_ts": 1773029001.0,
-    "tags": [
-      "Devices"
     ],
     "hot": false
   }
