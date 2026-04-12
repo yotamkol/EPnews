@@ -1,5 +1,41 @@
 [
   {
+    "title": "Comparison of Invasive Left Atrial Pressure Between Bachmann's Bundle and Right Atrial Appendage Pacing",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70255?af=R",
+    "doi": "10.1111/pace.70255",
+    "journal": "PACE",
+    "date": "Apr 11, 2026",
+    "date_ts": 1775911986.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Zero\u2010Fluoroscopy Versus Conventional Catheter Ablation for Premature Ventricular Contractions",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70248?af=R",
+    "doi": "10.1111/pace.70248",
+    "journal": "PACE",
+    "date": "Apr 11, 2026",
+    "date_ts": 1775911789.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Reversal of Mechanical Dyssynchrony and Suppression of Atrial and Ventricular Ectopy With Left Bundle Branch Area Pacing",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70249?af=R",
+    "doi": "10.1111/pace.70249",
+    "journal": "PACE",
+    "date": "Apr 11, 2026",
+    "date_ts": 1775908160.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "EPI\u2010VT Score: A Step Forward or a Misstep?",
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70198?af=R",
     "doi": "10.1111/jce.70198",
@@ -6015,42 +6051,6 @@
     "title": "Long\u2010Term Follow\u2010Up After Atrioventricular Node Ablation in Patients With Atrial Fibrillation: A Nationwide Danish Cohort Study",
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70268?af=R",
     "doi": "10.1111/jce.70268",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 12, 2026",
-    "date_ts": 1773298800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Pirfenidone on Arrhythmic and Clinical Outcomes in Patients With Idiopathic Pulmonary Fibrosis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70269?af=R",
-    "doi": "10.1111/jce.70269",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 12, 2026",
-    "date_ts": 1773298800.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Prospective Study of a Novel Pocket Compression Device to Reduce Pocket Hematoma After Cardiac Implantable Electronic Device Implantation in a High Bleeding Risk Population",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70014?af=R",
-    "doi": "10.1111/jce.70014",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 12, 2026",
-    "date_ts": 1773298800.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Recurrence of Atrial Fibrillation/Flutter Over Long\u2010Term Follow\u2010Up After Index Atrial Fibrillation Catheter Ablation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70231?af=R",
-    "doi": "10.1111/jce.70231",
     "journal": "J Cardiovasc EP",
     "date": "Mar 12, 2026",
     "date_ts": 1773298800.0,
