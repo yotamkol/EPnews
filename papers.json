@@ -1,5 +1,18 @@
 [
   {
+    "title": "New Criteria to Demonstrate Entrainment and Macro\u2013Re-Entry in Atrial Tachycardias",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002197?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Apr 12, 2026",
+    "date_ts": 1775956924.845866,
+    "tags": [
+      "AFib",
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
     "title": "Author\u2019s Reply to POTS: A neuroimmune disorder with cardiovascular manifestations",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001674?dgcid=rss_sd_all",
     "doi": null,
@@ -6041,18 +6054,6 @@
     "date_ts": 1773298800.0,
     "tags": [
       "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Issue Information",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70309?af=R",
-    "doi": "10.1111/jce.70309",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 12, 2026",
-    "date_ts": 1773298800.0,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
