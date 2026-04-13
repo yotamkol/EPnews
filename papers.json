@@ -1,5 +1,90 @@
 [
   {
+    "title": "The value of microelectrodes and microbipolar electrograms in premature ventricular complex mapping and ablation: The micro-PVC study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001145?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 13, 2026",
+    "date_ts": 1776072798.722257,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Artificial intelligence-powered electrocardiogram is superior to NT-proBNP in predicting left ventricular systolic dysfunction in atrial fibrillation with rapid ventricular response",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000516?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 13, 2026",
+    "date_ts": 1776072798.722028,
+    "tags": [
+      "AFib",
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Conduction System Versus Biventricular Pacing in Pacing\u2010Induced Cardiomyopathy: Systematic Review and Meta\u2010Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70243?af=R",
+    "doi": "10.1111/pace.70243",
+    "journal": "PACE",
+    "date": "Apr 13, 2026",
+    "date_ts": 1776059375.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed Field Ablation: From Technological Breakthrough to Structured Clinical Implementation\u2014The Role of the European Heart Rhythm Association",
+    "link": "https://doi.org/10.1093/europace/euag074",
+    "doi": "10.1093/europace/euag074",
+    "journal": "EP Europace",
+    "date": "Apr 12, 2026",
+    "date_ts": 1775952000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed Field Ablation for the Interventional Treatment of Atrial Fibrillation. A Scientific Statement of the European Heart Rhythm Association (EHRA) of the ESC, the Heart Rhythm Society (HRS), the Asia Pacific Heart Rhythm Society (APHRS), the Latin American Heart Rhythm Society (LAHRS) and the Canadian Heart Rhythm Society (CHRS)",
+    "link": "https://doi.org/10.1093/europace/euag080",
+    "doi": "10.1093/europace/euag080",
+    "journal": "EP Europace",
+    "date": "Apr 12, 2026",
+    "date_ts": 1775952000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Effectiveness of AF Pulsed Field Ablation With a Variable Loop Circular Catheter: 12-Month VARIPURE Results",
+    "link": "https://doi.org/10.1093/europace/euag082",
+    "doi": "10.1093/europace/euag082",
+    "journal": "EP Europace",
+    "date": "Apr 11, 2026",
+    "date_ts": 1775865600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Successful Atrioventricular Nodal Reentrant Tachycardia Ablation in a 2-year-old Girl with Discordant Criss-Cross Heart",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.04.009",
+    "doi": "10.1016/j.hrcr.2026.04.009",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Apr 01, 2026",
+    "date_ts": 1775001600.0,
+    "tags": [
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
     "title": "Left Atrial Ablation using the Dual-Energy, Lattice-Tip Catheter in the <em>SAFE-Ablation</em> Registry: How to Avoid Procedure-Related Stroke?",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022423?dgcid=rss_sd_all",
     "doi": null,
@@ -5970,92 +6055,6 @@
     "date_ts": 1773446400.0,
     "tags": [
       "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Is Coumel's Law Always True?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70155?af=R",
-    "doi": "10.1111/pace.70155",
-    "journal": "PACE",
-    "date": "Mar 13, 2026",
-    "date_ts": 1773422703.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Prognostic Impact of the Atrial Fibrillation Burden in Patients With Pulmonary Embolism",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70200?af=R",
-    "doi": "10.1111/pace.70200",
-    "journal": "PACE",
-    "date": "Mar 13, 2026",
-    "date_ts": 1773422104.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsed Field Ablation of Macro\u2010Reentrant Atrial Tachycardia Involving the Persistent Left Superior Vena Cava",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70205?af=R",
-    "doi": "10.1111/pace.70205",
-    "journal": "PACE",
-    "date": "Mar 13, 2026",
-    "date_ts": 1773420892.0,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Empiric Slow Pathway Ablation vs. no Ablation in Patients With Non\u2010Inducible Supraventricular Tachycardia",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70207?af=R",
-    "doi": "10.1111/pace.70207",
-    "journal": "PACE",
-    "date": "Mar 13, 2026",
-    "date_ts": 1773420531.0,
-    "tags": [
-      "VT",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Spinning Nightmare of Twiddler's Syndrome?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70173?af=R",
-    "doi": "10.1111/pace.70173",
-    "journal": "PACE",
-    "date": "Mar 13, 2026",
-    "date_ts": 1773420297.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sustained Idiopathic Outflow Tract Ventricular Tachycardia: Clinical Evidence for RVOT Predominance",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70315?af=R",
-    "doi": "10.1111/jce.70315",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 13, 2026",
-    "date_ts": 1773387419.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Inadvertent Placement of an Extravascular Implantable Cardioverter\u2010Defibrillator Lead in the Pericardial Space: Recognition and Successful Management at the Time of Implantation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70276?af=R",
-    "doi": "10.1111/jce.70276",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 12, 2026",
-    "date_ts": 1773298800.0,
-    "tags": [
-      "Devices"
     ],
     "hot": false
   }
