@@ -1,5 +1,90 @@
 [
   {
+    "title": "Left Atrial Ablation using the Dual-Energy, Lattice-Tip Catheter in the <em>SAFE-Ablation</em> Registry: How to Avoid Procedure-Related Stroke?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022423?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 13, 2026",
+    "date_ts": 1776043466.539952,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cardiovascular-kidney-metabolic syndrome and atrial fibrillation: Insights from 2 real-world prospective registries across Europe and East Asia",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712600161X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 13, 2026",
+    "date_ts": 1776043466.539783,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Female Sex\u2013Related Stroke Risk in Atrial Fibrillation: A Thing From the Past?",
+    "link": "https://doi.org/10.1161/circep.125.014728",
+    "doi": "10.1161/circep.125.014728",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Apr 12, 2026",
+    "date_ts": 1775952000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical characteristics, treatment, and outcomes in CIED-related versus left-sided infective endocarditis: a nationwide study from the NIDUS registry",
+    "link": "https://doi.org/10.1093/europace/euag075",
+    "doi": "10.1093/europace/euag075",
+    "journal": "EP Europace",
+    "date": "Apr 09, 2026",
+    "date_ts": 1775692800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Accuracy of non-invasive electrocardiographic imaging in scar-dependent ventricular tachycardia: Relationship to arrhythmogenic substrate and imaging defined scar",
+    "link": "https://doi.org/10.1093/europace/euag076",
+    "doi": "10.1093/europace/euag076",
+    "journal": "EP Europace",
+    "date": "Apr 09, 2026",
+    "date_ts": 1775692800.0,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Ultra-high-frequency electrocardiography guided cardiac resynchronization therapy in a patient with an ambiguous electrocardiogram",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.01.023",
+    "doi": "10.1016/j.hrcr.2026.01.023",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Apr 01, 2026",
+    "date_ts": 1775001600.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Contained pulmonary vein injury presenting as a hemorrhagic bulla post\u2013pulsed field ablation: A case report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.03.007",
+    "doi": "10.1016/j.hrcr.2026.03.007",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Apr 01, 2026",
+    "date_ts": 1775001600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Comparison of Invasive Left Atrial Pressure Between Bachmann's Bundle and Right Atrial Appendage Pacing",
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70255?af=R",
     "doi": "10.1111/pace.70255",
@@ -5971,91 +6056,6 @@
     "date_ts": 1773298800.0,
     "tags": [
       "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "First Report on Atrial Leadless Pacing in a Lateral Tunnel Fontan Patient",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70215?af=R",
-    "doi": "10.1111/jce.70215",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 12, 2026",
-    "date_ts": 1773298800.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Bachmann's Bundle\u2010Related Atrial Tachycardias Following Catheter Ablation of Persistent Atrial Fibrillation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70220?af=R",
-    "doi": "10.1111/jce.70220",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 12, 2026",
-    "date_ts": 1773298800.0,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Implantation Success, Electrical Performance, and Safety of an Active Fixation Stylet\u2010Driven Lead for LBBAP in Clinical Practice: A Multicenter Experience",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70237?af=R",
-    "doi": "10.1111/jce.70237",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 12, 2026",
-    "date_ts": 1773298800.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Simple Method Is Used to Identify PVI\u2010Responsive Patients With Persistent Atrial Fibrillation: Electrical Cardioversion and Noninduction Before Procedure",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70240?af=R",
-    "doi": "10.1111/jce.70240",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 12, 2026",
-    "date_ts": 1773298800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Comparative Analysis of Long\u2010Term Procedural Outcomes Following Circular Array Pulsed Field and Radiofrequency Ablation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70253?af=R",
-    "doi": "10.1111/jce.70253",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 12, 2026",
-    "date_ts": 1773298800.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Short\u2010Term Procedural Outcomes of Posterior Wall Isolation Using the Affera Pulse Field Ablation System",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70261?af=R",
-    "doi": "10.1111/jce.70261",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 12, 2026",
-    "date_ts": 1773298800.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Long\u2010Term Follow\u2010Up After Atrioventricular Node Ablation in Patients With Atrial Fibrillation: A Nationwide Danish Cohort Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70268?af=R",
-    "doi": "10.1111/jce.70268",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 12, 2026",
-    "date_ts": 1773298800.0,
-    "tags": [
-      "AFib"
     ],
     "hot": false
   }
