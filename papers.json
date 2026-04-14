@@ -1,5 +1,127 @@
 [
   {
+    "title": "His Pacing vs Biventricular Pacing for Cardiac Resynchronization Therapy: Long-Term Follow-Up From the His-Alternative I Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001489?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Apr 14, 2026",
+    "date_ts": 1776129782.33483,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Translational peak frequency mapping of human sinoatrial node\u2013Bachmann bundle axis: Integrating human in vivo electroanatomic mapping with preclinical microstructural validation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126002134?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 14, 2026",
+    "date_ts": 1776129781.945027,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Incidence and predictors of major arrhythmic events following acute myocarditis complicated by ventricular arrhythmias: a systematic review and meta-analysis.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022356?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 14, 2026",
+    "date_ts": 1776129781.944817,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Supraventricular Tachycardia or Ventricular Tachycardia: An Unexpected Diagnostic Clue",
+    "link": "https://doi.org/10.1161/circulationaha.126.080138",
+    "doi": "10.1161/circulationaha.126.080138",
+    "journal": "Circulation",
+    "date": "Apr 14, 2026",
+    "date_ts": 1776124800.0,
+    "tags": [
+      "VT",
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Intracardiac echocardiography during invasive electrophysiological procedures. A scientific statement of the European Heart Rhythm Association of the ESC, and the European Association of Percutaneous Cardiovascular Interventions of the ESC",
+    "link": "https://doi.org/10.1093/europace/euag059",
+    "doi": "10.1093/europace/euag059",
+    "journal": "EP Europace",
+    "date": "Apr 13, 2026",
+    "date_ts": 1776038400.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Digitally-Assisted Learning in Cardiac Electrophysiology and Cardiac Implantable Electronic Devices. A Scientific Statement of the European Heart Rhythm Association of the ESC",
+    "link": "https://doi.org/10.1093/europace/euag081",
+    "doi": "10.1093/europace/euag081",
+    "journal": "EP Europace",
+    "date": "Apr 13, 2026",
+    "date_ts": 1776038400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Kidney disease increases the risk of cardiovascular events in patients with device-detected atrial fibrillation: NOAH-AFNET 6",
+    "link": "https://doi.org/10.1093/europace/euag083",
+    "doi": "10.1093/europace/euag083",
+    "journal": "EP Europace",
+    "date": "Apr 13, 2026",
+    "date_ts": 1776038400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Same-day discharge after electrophysiological and cardiac implantable electronic device procedures: a clinical consensus statement of the European Heart Rhythm Association (EHRA) and the Association of Cardiovascular Nursing &amp; Allied Professions (ACNAP) of the ESC",
+    "link": "https://doi.org/10.1093/europace/euag065",
+    "doi": "10.1093/europace/euag065",
+    "journal": "EP Europace",
+    "date": "Mar 30, 2026",
+    "date_ts": 1774828800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of prophylactic protamine administration following atrial fibrillation ablation on vascular and pericardial complications",
+    "link": "https://doi.org/10.1093/europace/euag006",
+    "doi": "10.1093/europace/euag006",
+    "journal": "EP Europace",
+    "date": "Mar 30, 2026",
+    "date_ts": 1774828800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Epicardial conduction via the septopulmonary bundle visualized by an esophageal temperature catheter in macroreentrant atrial tachycardia",
+    "link": "https://doi.org/10.1016/j.hrcr.2025.11.024",
+    "doi": "10.1016/j.hrcr.2025.11.024",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Mar 01, 2026",
+    "date_ts": 1772323200.0,
+    "tags": [
+      "AFib",
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
     "title": "26-CCC-14735-ACC REFRACTORY CHYLOTHORAX RELATED TO SUPERIOR VENA CAVA STENOSIS FROM IMPLANTABLE CARDIAC DEFIBRILLATOR LEADS",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726060468?dgcid=rss_sd_all",
     "doi": null,
@@ -5932,126 +6054,6 @@
     "date_ts": 1773387419.0,
     "tags": [
       "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Validation of an imageless electrocardiographic imaging technique for the non-invasive mapping of regular atrial tachyarrhythmias",
-    "link": "https://doi.org/10.1093/europace/euag048",
-    "doi": "10.1093/europace/euag048",
-    "journal": "EP Europace",
-    "date": "Mar 12, 2026",
-    "date_ts": 1773273600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Interplay of Probe Stability and Oscillation During Very\u2010High\u2010Power Short\u2010Duration Ablation in Pulmonary Vein Isolation for Atrial Fibrillation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70202?af=R",
-    "doi": "10.1111/pace.70202",
-    "journal": "PACE",
-    "date": "Mar 11, 2026",
-    "date_ts": 1773227744.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Fto-mediated m6A demethylation of Lox drives atrial fibrosis and promotes atrial fibrillation in a murine model of hyperthyroidism",
-    "link": "https://doi.org/10.1093/europace/euag047",
-    "doi": "10.1093/europace/euag047",
-    "journal": "EP Europace",
-    "date": "Mar 11, 2026",
-    "date_ts": 1773187200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Long\u2010Term Outcomes of Radiofrequency Atrioventricular Node Ablation in a Real\u2010World Population",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70196?af=R",
-    "doi": "10.1111/pace.70196",
-    "journal": "PACE",
-    "date": "Mar 10, 2026",
-    "date_ts": 1773143467.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Mid\u2010Tracing Mystery During Narrow QRS Complex Tachycardia: What Is the Mechanism?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70201?af=R",
-    "doi": "10.1111/pace.70201",
-    "journal": "PACE",
-    "date": "Mar 10, 2026",
-    "date_ts": 1773142741.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Novel Use of Helium Insufflation to Facilitate Epicardial Access in Ventricular Tachycardia Ablation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70313?af=R",
-    "doi": "10.1111/jce.70313",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 10, 2026",
-    "date_ts": 1773117894.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Characterization of AV Nodal Left Inferior Extension by Use of High\u2010Density Mapping and Voltage\u2010Time Relationship",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70293?af=R",
-    "doi": "10.1111/jce.70293",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 10, 2026",
-    "date_ts": 1773116068.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Electrophysiology Consumables Procurement in Europe: Implications for Access, Innovation and Value-Based Care",
-    "link": "https://doi.org/10.1093/europace/euag039",
-    "doi": "10.1093/europace/euag039",
-    "journal": "EP Europace",
-    "date": "Mar 10, 2026",
-    "date_ts": 1773100800.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Patients Experiencing Unsuccessful Defibrillation From Implantable Cardiac Devices Remain at Elevated Risk Despite Procedural Management",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70310?af=R",
-    "doi": "10.1111/jce.70310",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 09, 2026",
-    "date_ts": 1773029001.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsed Field Ablation for Atrial Fibrillation in the Elderly \u226575\u00a0Years Old: A Systematic Review and Meta\u2010Analysis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70195?af=R",
-    "doi": "10.1111/pace.70195",
-    "journal": "PACE",
-    "date": "Mar 05, 2026",
-    "date_ts": 1772708854.0,
-    "tags": [
-      "AFib"
     ],
     "hot": false
   }
