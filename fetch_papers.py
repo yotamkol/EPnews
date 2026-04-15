@@ -383,7 +383,7 @@ def fetch_medrxiv_papers(seen: set) -> list[dict]:
 
 HOT_CITATION_THRESHOLD = 3  # cited-by count above this = 🔥
 
-def extract_doi(link: str) -> str | None:
+def extract_doi(link: str) :
     """Extract DOI from a journal article URL, handling publisher-specific formats."""
     if not link:
         return None
@@ -406,7 +406,7 @@ def extract_doi(link: str) -> str | None:
     return None
 
 
-def resolve_doi_via_crossref(title: str) -> str | None:
+def resolve_doi_via_crossref(title: str) :
     """Look up a paper's DOI via CrossRef title search. Used as fallback
     when the DOI isn't available from the RSS feed or URL (e.g. Elsevier)."""
     try:
@@ -584,7 +584,7 @@ def build_paper_row(paper: dict) -> str:
     hot_badge = '<span class="hot-badge" title="High attention score">🔥</span>' if paper.get("hot") else ""
     is_important = paper.get("journal") in IMPORTANT_JOURNALS
     important_class = " important" if is_important else ""
-    important_badge = '<span class="important-badge" title="Top Journal">★</span>' if is_important else ""
+    important_badge = ""
     link_id = paper["link"].replace("https://", "").replace("http://", "").replace("/", "_").replace(".", "_")
     journal_safe = paper["journal"].replace('"', '&quot;')
     title_safe = paper["title"].replace("'", "&#39;").replace('"', '&quot;')
@@ -605,8 +605,7 @@ def build_paper_row(paper: dict) -> str:
       <div class="paper-title-wrap">
         <span class="unread-dot" title="Unread"></span>
         <span class="star-btn" title="Star (synced)" onclick="toggleStar('{link_id}', this)">&#9734;</span>
-        <span class="bookmark-btn" title="Bookmark" onclick="toggleBookmark('{link_id}')">&#9734;</span>
-        {important_badge}{hot_badge}
+        {hot_badge}
         <a class="paper-title" href="{paper["link"]}" target="_blank" rel="noopener"
            onclick="markRead('{link_id}')">{paper["title"]}</a>
       </div>
@@ -911,21 +910,6 @@ def render_html(papers: list[dict]) -> str:
 
     .paper.hidden {{ display: none; }}
 
-    /* important papers */
-    .paper.important {{
-      border-left: 3px solid #f5c518;
-      padding-left: 12px;
-    }}
-    .paper.important:hover {{
-      padding-left: 44px;
-    }}
-    .important-badge {{
-      color: #f5c518;
-      font-size: 13px;
-      margin-right: 4px;
-      flex-shrink: 0;
-      filter: drop-shadow(0 0 3px rgba(245,197,24,0.4));
-    }}
 
     /* unread state */
     .paper.unread .paper-title {{ font-weight: 500; color: #eaf0f9; }}
@@ -1239,18 +1223,6 @@ def render_html(papers: list[dict]) -> str:
     }}
     .scroll-top.visible {{ display: flex; }}
 
-    /* ── bookmark ── */
-    .bookmark-btn {{
-      cursor: pointer;
-      font-size: 14px;
-      color: var(--muted);
-      margin-right: 5px;
-      flex-shrink: 0;
-      transition: color 0.1s;
-      user-select: none;
-    }}
-    .bookmark-btn:hover {{ color: var(--accent); }}
-    .bookmark-btn.bookmarked {{ color: #f5c518; }}
 
     /* ── new-since-last-visit divider ── */
     .new-divider {{
@@ -1324,7 +1296,6 @@ def render_html(papers: list[dict]) -> str:
       .feed {{ padding: 0 16px 48px; }}
       .paper {{ grid-template-columns: 1fr; gap: 5px; }}
       .paper:hover {{ margin: 0 -16px; padding: 12px 16px; }}
-      .paper.important:hover {{ padding-left: 28px; }}
       .paper-meta {{ font-size: 10px; text-align: left; }}
       footer {{ padding: 16px; }}
       .discussion-panel {{ width: 100vw; }}
@@ -1406,7 +1377,6 @@ def render_html(papers: list[dict]) -> str:
 <script>
   // ── Config ──
   const READ_KEY = 'ep_read_v1';
-  const BOOKMARK_KEY = 'ep_bookmarks_v1';
   const VISIT_KEY = 'ep_last_visit';
   const THEME_KEY = 'ep_theme';
 
@@ -1448,28 +1418,6 @@ def render_html(papers: list[dict]) -> str:
     saveSet(READ_KEY, read);
     const paper = document.querySelector(`.paper[data-id="${{id}}"]`);
     if (paper) {{ paper.classList.add('read'); paper.classList.remove('unread'); }}
-  }}
-
-  // ── Bookmarks (local) ──
-  function applyBookmarks() {{
-    const bm = getSet(BOOKMARK_KEY);
-    document.querySelectorAll('.paper').forEach(p => {{
-      const btn = p.querySelector('.bookmark-btn');
-      if (bm.has(p.dataset.id)) {{
-        btn.innerHTML = '&#9733;';
-        btn.classList.add('bookmarked');
-      }} else {{
-        btn.innerHTML = '&#9734;';
-        btn.classList.remove('bookmarked');
-      }}
-    }});
-  }}
-
-  function toggleBookmark(id) {{
-    const bm = getSet(BOOKMARK_KEY);
-    if (bm.has(id)) {{ bm.delete(id); }} else {{ bm.add(id); }}
-    saveSet(BOOKMARK_KEY, bm);
-    applyBookmarks();
   }}
 
   // ── Auth ──
@@ -1644,7 +1592,6 @@ def render_html(papers: list[dict]) -> str:
     const feed = document.querySelector('.feed');
     const papers = [...feed.querySelectorAll('.paper')];
     const read = getSet(READ_KEY);
-    const bm = getSet(BOOKMARK_KEY);
     papers.sort((a, b) => {{
       if (mode === 'date') {{
         // Within same day, important papers first
@@ -1661,11 +1608,6 @@ def render_html(papers: list[dict]) -> str:
         const au = read.has(a.dataset.id) ? 1 : 0;
         const bu = read.has(b.dataset.id) ? 1 : 0;
         return au - bu || parseFloat(b.dataset.date) - parseFloat(a.dataset.date);
-      }}
-      if (mode === 'bookmarked') {{
-        const ab = bm.has(a.dataset.id) ? 0 : 1;
-        const bb = bm.has(b.dataset.id) ? 0 : 1;
-        return ab - bb || parseFloat(b.dataset.date) - parseFloat(a.dataset.date);
       }}
       return 0;
     }});
@@ -1865,7 +1807,6 @@ def render_html(papers: list[dict]) -> str:
   document.addEventListener('DOMContentLoaded', async () => {{
     applyTheme();
     applyReadState();
-    applyBookmarks();
     markNewPapers();
     initSupabase();
     await initAuth();
