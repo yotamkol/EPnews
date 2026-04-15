@@ -1809,6 +1809,7 @@ def render_html(papers: list[dict]) -> str:
 
     input.value = '';
     cancelReply();
+    await loadCommentCounts();
     openDiscussion(currentDiscussionPaperId);
   }}
 
