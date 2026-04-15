@@ -1,5 +1,222 @@
 [
   {
+    "title": "Inappropriate Surface ECG Signal Filtering Significantly Reduces Physicians\u2019 Ability to Recognize LBBB",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002422?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Apr 15, 2026",
+    "date_ts": 1776215965.317429,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Making a Start: Discerning Ventricular Arrhythmia Initiation in Brugada Syndrome",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002690?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Apr 15, 2026",
+    "date_ts": 1776215965.317391,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical Profile and Mode of Initiation of Spontaneous Ventricular Tachyarrhythmias in Patients With Brugada Syndrome (START-BrS)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002331?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Apr 15, 2026",
+    "date_ts": 1776215965.317316,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Real-World Data of Sex Differences in Atrial Fibrillation Catheter Ablation: Insights from a Prospective Multicenter Registry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001704?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 15, 2026",
+    "date_ts": 1776215965.171962,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Safety and efficacy of conduction system pacing in dual-chamber Pacemakers in a CRT-indicated population: Primary analysis of the CORE-CPP study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000147?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 15, 2026",
+    "date_ts": 1776215965.025521,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Comparative 1-Year Outcomes of Pentaspline versus Circular Array Pulsed Field Ablation for Pulmonary Vein Isolation with Adjunctive Atrial Lines",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021697?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 15, 2026",
+    "date_ts": 1776215965.025469,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Characterization of a successful transseptal access with an electrified guidewire: An ex vivo ovine study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001189?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 15, 2026",
+    "date_ts": 1776215965.02526,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Automated Cardiac Arrest Detection Using Wrist-Worn Photoplethysmography: External Validation in Patients With Induced Shockable Cardiac Arrest (DETECT-1b)",
+    "link": "https://doi.org/10.1161/circep.125.014708",
+    "doi": "10.1161/circep.125.014708",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Apr 14, 2026",
+    "date_ts": 1776124800.0,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "RACGAP1 as a Circulating Biomarker of Atrial Fibrillation in Heart Failure: A Dual-Cohort Proteomic Study",
+    "link": "https://doi.org/10.1161/circep.125.014024",
+    "doi": "10.1161/circep.125.014024",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Apr 14, 2026",
+    "date_ts": 1776124800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Experimental Platform for Screening and Validation of BacNa\n                    <sub>v</sub>\n                    Gene Therapy Candidates",
+    "link": "https://doi.org/10.1161/circep.125.014425",
+    "doi": "10.1161/circep.125.014425",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Apr 14, 2026",
+    "date_ts": 1776124800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Ultrasound-guided vs conventional venous puncture for atrial fibrillation ablation: the ULYSSES trial",
+    "link": "https://doi.org/10.1093/eurheartj/ehag291",
+    "doi": "10.1093/eurheartj/ehag291",
+    "journal": "European Heart Journal",
+    "date": "Apr 14, 2026",
+    "date_ts": 1776124800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left bundle branch area vs biventricular pacing for cardiac resynchronization therapy: the LEFT-BUNDLE-CRT trial",
+    "link": "https://doi.org/10.1093/eurheartj/ehag225",
+    "doi": "10.1093/eurheartj/ehag225",
+    "journal": "European Heart Journal",
+    "date": "Apr 14, 2026",
+    "date_ts": 1776124800.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Interventional MRI-Guided Ablation of Left Ventricular Tachycardia",
+    "link": "https://doi.org/10.1161/circulationaha.126.080380",
+    "doi": "10.1161/circulationaha.126.080380",
+    "journal": "Circulation",
+    "date": "Apr 14, 2026",
+    "date_ts": 1776124800.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Breaking Frontiers\u2014Leadless Atrial\u2010Ventricular Hybrid Upgrade to Dual Chamber Leadless Pacemaker",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70252?af=R",
+    "doi": "10.1111/pace.70252",
+    "journal": "PACE",
+    "date": "Apr 13, 2026",
+    "date_ts": 1776085186.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left Bundle Branch Area Pacing Reverts Electromechanical Window Negativity to a Similar Extent as Biventricular Pacing",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70250?af=R",
+    "doi": "10.1111/pace.70250",
+    "journal": "PACE",
+    "date": "Apr 13, 2026",
+    "date_ts": 1776069638.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sensing Challenges in Patients with Cardiac Amyloidosis and Subcutaneous Implantable Cardioverter Defibrillators",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.04.008",
+    "doi": "10.1016/j.hrcr.2026.04.008",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Apr 01, 2026",
+    "date_ts": 1775001600.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Lattice-tip vs. standard irrigated focal-tip catheter for radiofrequency ablation of the cavotricuspid isthmus - the LINEAR randomized trial",
+    "link": "https://doi.org/10.1093/europace/euag046",
+    "doi": "10.1093/europace/euag046",
+    "journal": "EP Europace",
+    "date": "Mar 30, 2026",
+    "date_ts": 1774828800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Rural\u2013urban disparities in atrial fibrillation\u2013related diagnostic testing and medical procedures in Canada",
+    "link": "https://doi.org/10.1093/europace/euag054",
+    "doi": "10.1093/europace/euag054",
+    "journal": "EP Europace",
+    "date": "Mar 30, 2026",
+    "date_ts": 1774828800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "His Pacing vs Biventricular Pacing for Cardiac Resynchronization Therapy: Long-Term Follow-Up From the His-Alternative I Trial",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001489?dgcid=rss_sd_all",
     "doi": null,
@@ -5836,224 +6053,6 @@
     "date_ts": 1773732897.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Modified Anatomical Ablation Strategy for Mitral Isthmus",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70116?af=R",
-    "doi": "10.1111/pace.70116",
-    "journal": "PACE",
-    "date": "Mar 17, 2026",
-    "date_ts": 1773732591.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Hemolysis After Pulsed Field Ablation With a Variable\u2010Loop Irrigated Circular Catheter",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70208?af=R",
-    "doi": "10.1111/pace.70208",
-    "journal": "PACE",
-    "date": "Mar 17, 2026",
-    "date_ts": 1773732221.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Anticoagulation for Incident Atrial Fibrillation/Flutter Following Surgical Left Atrial Appendage Occlusion and CABG",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70209?af=R",
-    "doi": "10.1111/pace.70209",
-    "journal": "PACE",
-    "date": "Mar 17, 2026",
-    "date_ts": 1773731639.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Extremely Late Complete AV Block After TAVR: ECG Clues and Correction With Left Bundle Branch Pacing",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70215?af=R",
-    "doi": "10.1111/pace.70215",
-    "journal": "PACE",
-    "date": "Mar 17, 2026",
-    "date_ts": 1773731395.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Is the Esophagus Spared During Pulsed Field Ablation?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70216?af=R",
-    "doi": "10.1111/pace.70216",
-    "journal": "PACE",
-    "date": "Mar 17, 2026",
-    "date_ts": 1773730800.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Curarization on Pentaspline Catheter Stability During Pulsed\u2010Field Pulmonary Vein Ablation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70314?af=R",
-    "doi": "10.1111/jce.70314",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 17, 2026",
-    "date_ts": 1773727779.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsed field ablation for atrial fibrillation in patients with heart failure: insight from the ATHENA registry",
-    "link": "https://doi.org/10.1093/europace/euag049",
-    "doi": "10.1093/europace/euag049",
-    "journal": "EP Europace",
-    "date": "Mar 17, 2026",
-    "date_ts": 1773705600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intra\u2010Procedural Three\u2010Dimensional Rotational Angiography in Cryoballoon Ablation of Atrial Fibrillation: An RCT",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70211?af=R",
-    "doi": "10.1111/pace.70211",
-    "journal": "PACE",
-    "date": "Mar 16, 2026",
-    "date_ts": 1773650956.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "T\u2010Wave Oversensing in Patients With Left Bundle Branch Pacing: A Report of Three Cases and Review of Literature",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70197?af=R",
-    "doi": "10.1111/pace.70197",
-    "journal": "PACE",
-    "date": "Mar 16, 2026",
-    "date_ts": 1773638455.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Outcomes of Septal Versus Non\u2010Septal Right Ventricular Pacemaker Leads as Adjudicated by CT Imaging",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70307?af=R",
-    "doi": "10.1111/jce.70307",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 15, 2026",
-    "date_ts": 1773581390.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Key stakeholder views on atrial fibrillation screening: a systematic mixed-studies review and interpretive analysis",
-    "link": "https://doi.org/10.1093/europace/euag051",
-    "doi": "10.1093/europace/euag051",
-    "journal": "EP Europace",
-    "date": "Mar 14, 2026",
-    "date_ts": 1773446400.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Ventricular tachycardia ablation associated abnormalities on FDG PET/CT in patients with suspected cardiac sarcoidosis",
-    "link": "https://doi.org/10.1093/europace/euag050",
-    "doi": "10.1093/europace/euag050",
-    "journal": "EP Europace",
-    "date": "Mar 14, 2026",
-    "date_ts": 1773446400.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Is Coumel's Law Always True?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70155?af=R",
-    "doi": "10.1111/pace.70155",
-    "journal": "PACE",
-    "date": "Mar 13, 2026",
-    "date_ts": 1773422703.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Prognostic Impact of the Atrial Fibrillation Burden in Patients With Pulmonary Embolism",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70200?af=R",
-    "doi": "10.1111/pace.70200",
-    "journal": "PACE",
-    "date": "Mar 13, 2026",
-    "date_ts": 1773422104.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsed Field Ablation of Macro\u2010Reentrant Atrial Tachycardia Involving the Persistent Left Superior Vena Cava",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70205?af=R",
-    "doi": "10.1111/pace.70205",
-    "journal": "PACE",
-    "date": "Mar 13, 2026",
-    "date_ts": 1773420892.0,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Empiric Slow Pathway Ablation vs. no Ablation in Patients With Non\u2010Inducible Supraventricular Tachycardia",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70207?af=R",
-    "doi": "10.1111/pace.70207",
-    "journal": "PACE",
-    "date": "Mar 13, 2026",
-    "date_ts": 1773420531.0,
-    "tags": [
-      "VT",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Spinning Nightmare of Twiddler's Syndrome?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70173?af=R",
-    "doi": "10.1111/pace.70173",
-    "journal": "PACE",
-    "date": "Mar 13, 2026",
-    "date_ts": 1773420297.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sustained Idiopathic Outflow Tract Ventricular Tachycardia: Clinical Evidence for RVOT Predominance",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70315?af=R",
-    "doi": "10.1111/jce.70315",
-    "journal": "J Cardiovasc EP",
-    "date": "Mar 13, 2026",
-    "date_ts": 1773387419.0,
-    "tags": [
-      "VT"
     ],
     "hot": false
   }
