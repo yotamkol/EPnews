@@ -1815,10 +1815,16 @@ def render_html(papers: list[dict]) -> str:
 
   async function loadCommentCounts() {{
     if (!sb) return;
-    const {{ data }} = await sb.from('discussions').select('paper_link_id, comment_count');
-    if (!data) return;
+    const {{ data: discussions }} = await sb.from('discussions').select('id, paper_link_id');
+    if (!discussions || !discussions.length) return;
+    const {{ data: comments }} = await sb.from('comments').select('discussion_id');
+    if (!comments) return;
+    // Count comments per discussion
+    const countByDisc = {{}};
+    comments.forEach(c => {{ countByDisc[c.discussion_id] = (countByDisc[c.discussion_id] || 0) + 1; }});
+    // Map to paper_link_id
     const countMap = {{}};
-    data.forEach(d => countMap[d.paper_link_id] = d.comment_count);
+    discussions.forEach(d => {{ countMap[d.paper_link_id] = countByDisc[d.id] || 0; }});
     document.querySelectorAll('.comment-count').forEach(el => {{
       const count = countMap[el.dataset.paper] || 0;
       el.textContent = count;
