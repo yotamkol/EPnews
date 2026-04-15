@@ -1386,6 +1386,7 @@ def render_html(papers: list[dict]) -> str:
   let sb = null;
   let currentUser = null;
   let userStars = new Set();
+  let displayName = null;
 
   // ── Supabase init ──
   function initSupabase() {{
@@ -1426,15 +1427,60 @@ def render_html(papers: list[dict]) -> str:
     const {{ data: {{ session }} }} = await sb.auth.getSession();
     if (session) {{
       currentUser = session.user;
+      await loadProfile();
       updateAuthUI();
       await loadStars();
     }}
     sb.auth.onAuthStateChange(async (event, session) => {{
       currentUser = session?.user || null;
-      updateAuthUI();
-      if (currentUser) await loadStars();
-      else {{ userStars.clear(); applyStars(); }}
+      if (currentUser) {{
+        await loadProfile();
+        updateAuthUI();
+        await loadStars();
+      }} else {{
+        displayName = null;
+        userStars.clear();
+        updateAuthUI();
+        applyStars();
+      }}
     }});
+  }}
+
+  async function loadProfile() {{
+    if (!sb || !currentUser) return;
+    const {{ data }} = await sb.from('profiles')
+      .select('display_name').eq('id', currentUser.id).maybeSingle();
+    if (data) {{
+      displayName = data.display_name;
+    }} else {{
+      await promptDisplayName();
+    }}
+  }}
+
+  async function promptDisplayName() {{
+    let name = null;
+    while (!name) {{
+      name = prompt('Choose a display name for discussions:');
+      if (name === null) return; // user cancelled
+      name = name.trim();
+      if (!name) {{ name = null; continue; }}
+      // Check uniqueness
+      const {{ data: existing }} = await sb.from('profiles')
+        .select('id').eq('display_name', name).maybeSingle();
+      if (existing) {{
+        alert('That display name is already taken. Please choose another.');
+        name = null;
+        continue;
+      }}
+      const {{ error }} = await sb.from('profiles')
+        .insert({{ id: currentUser.id, display_name: name }});
+      if (error) {{
+        alert('Error saving display name: ' + error.message);
+        name = null;
+      }} else {{
+        displayName = name;
+      }}
+    }}
   }}
 
   function updateAuthUI() {{
@@ -1443,7 +1489,7 @@ def render_html(papers: list[dict]) -> str:
     if (currentUser) {{
       loginBtn.style.display = 'none';
       userInfo.style.display = 'flex';
-      document.getElementById('user-email').textContent = currentUser.email;
+      document.getElementById('user-email').textContent = displayName || currentUser.email;
     }} else {{
       loginBtn.style.display = 'block';
       userInfo.style.display = 'none';
@@ -1649,17 +1695,20 @@ def render_html(papers: list[dict]) -> str:
 
     // Get or create discussion
     let {{ data: disc }} = await sb.from('discussions')
-      .select('id').eq('paper_link_id', paperId).single();
+      .select('id').eq('paper_link_id', paperId).maybeSingle();
 
     if (!disc && currentUser) {{
-      const {{ data: newDisc }} = await sb.from('discussions')
+      const {{ data: newDisc, error }} = await sb.from('discussions')
         .insert({{ paper_link_id: paperId }}).select('id').single();
+      if (error) console.error('Discussion create error:', error);
       disc = newDisc;
     }}
 
     if (!disc) {{
       document.getElementById('discussion-comments').innerHTML =
-        '<p class="no-comments">Sign in to start the discussion!</p>';
+        currentUser
+          ? '<p class="no-comments">Could not load discussion. Try again.</p>'
+          : '<p class="no-comments">Sign in to start the discussion!</p>';
       return;
     }}
 
@@ -1708,9 +1757,9 @@ def render_html(papers: list[dict]) -> str:
       const children = byParent[parentId || 'root'] || [];
       return children.map(c => `
         <div class="comment" style="margin-left:${{Math.min(depth * 20, 80)}}px">
-          <div class="comment-meta">${{escapeHtml(c.user_email.split('@')[0])}} &middot; ${{timeAgo(c.created_at)}}</div>
+          <div class="comment-meta">${{escapeHtml(c.user_email)}} &middot; ${{timeAgo(c.created_at)}}</div>
           <div class="comment-body">${{escapeHtml(c.body)}}</div>
-          ${{currentUser ? `<button class="reply-btn" onclick="replyTo('${{c.id}}','${{escapeHtml(c.user_email.split('@')[0])}}')">reply</button>` : ''}}
+          ${{currentUser ? `<button class="reply-btn" onclick="replyTo('${{c.id}}','${{escapeHtml(c.user_email)}}')">reply</button>` : ''}}
           ${{buildTree(c.id, depth + 1)}}
         </div>
       `).join('');
@@ -1740,7 +1789,7 @@ def render_html(papers: list[dict]) -> str:
 
     // Get discussion id
     let {{ data: disc }} = await sb.from('discussions')
-      .select('id').eq('paper_link_id', currentDiscussionPaperId).single();
+      .select('id').eq('paper_link_id', currentDiscussionPaperId).maybeSingle();
 
     if (!disc) {{
       const {{ data: newDisc }} = await sb.from('discussions')
@@ -1749,13 +1798,14 @@ def render_html(papers: list[dict]) -> str:
     }}
     if (!disc) return;
 
-    await sb.from('comments').insert({{
+    const {{ error }} = await sb.from('comments').insert({{
       discussion_id: disc.id,
       parent_id: replyParentId || null,
       user_id: currentUser.id,
-      user_email: currentUser.email,
+      user_email: displayName || currentUser.email,
       body: body,
     }});
+    if (error) {{ console.error('Comment error:', error); return; }}
 
     input.value = '';
     cancelReply();
