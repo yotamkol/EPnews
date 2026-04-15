@@ -135,13 +135,55 @@ TAG_COLORS = {
     "Other":    "#4b5563",
 }
 
+# Top-tier journals get a visual badge and sort higher within same day
+IMPORTANT_JOURNALS = {
+    "NEJM", "Lancet", "JACC", "Circulation",
+    "European Heart Journal", "Nature Medicine", "JAMA Cardiology",
+}
+
+SUBTITLES = [
+    "Your daily EP reading list",
+    "Where every QRS has a story",
+    "Ablate first, ask questions later",
+    "Keeping you in sinus rhythm since 2025",
+    "More PVCs than your Holter monitor",
+    "No shocking content (just defibrillation)",
+    "Procrastination, but make it academic",
+    "Your PI can't assign more reading than this",
+    "Warning: may cause prolonged QT intervals of focus",
+    "Peer-reviewed doom scrolling",
+    "We put the 'fun' in bundle of His",
+    "Today's excuse for not answering pages",
+    "Powered by coffee and p-values",
+    "Less exciting than a VT storm, more useful",
+    "The only feed that won't cause reentry",
+    "Now with 100% more sinus rhythm",
+    "If you can read this, you're not in the cath lab",
+    "Better than reading the methods section",
+    "Side effects may include knowledge",
+    "Like Twitter, but with citations",
+    "Your Holter is recording. Make it count.",
+    "One does not simply skip the abstract",
+    "EP: where milliseconds actually matter",
+    "Papers so good they'll make your heart skip a beat",
+    "All signal, no artifact",
+    "Not affiliated with any pacemaker company (yet)",
+    "Because someone has to read these papers",
+    "The EP lounge, now in digital form",
+    "Caution: may induce academic FOMO",
+    "Still better than a 6am cath lab start",
+]
+
 SEEN_FILE = Path("seen.json")
 OUTPUT_FILE = Path("index.html")
 
-RESEND_API_KEY = os.environ.get("RESEND_API_KEY", "")
-EMAIL_FROM = os.environ.get("EMAIL_FROM", "ep-feed@yourdomain.com")
-EMAIL_TO   = os.environ.get("EMAIL_TO", "")
-SITE_URL   = os.environ.get("SITE_URL", "https://epfeed.vercel.app")
+RESEND_API_KEY     = os.environ.get("RESEND_API_KEY", "")
+EMAIL_FROM         = os.environ.get("EMAIL_FROM", "ep-feed@yourdomain.com")
+EMAIL_TO           = os.environ.get("EMAIL_TO", "")
+SITE_URL           = os.environ.get("SITE_URL", "https://epfeed.vercel.app")
+SUPABASE_URL       = os.environ.get("SUPABASE_URL", "")
+SUPABASE_ANON_KEY  = os.environ.get("SUPABASE_ANON_KEY", "")
+ANTHROPIC_API_KEY  = os.environ.get("ANTHROPIC_API_KEY", "")
 
 
 # ─────────────────────────────────────────────
@@ -327,6 +369,7 @@ def fetch_medrxiv_papers(seen: set) -> list[dict]:
                 "date":    date.strftime("%b %d, %Y"),
                 "date_ts": date.timestamp(),
                 "tags":    tag_paper(title),
+                "abstract": item.get("abstract", "").strip(),
             })
             seen.add(link)
     except Exception as e:
@@ -340,7 +383,7 @@ def fetch_medrxiv_papers(seen: set) -> list[dict]:
 
 HOT_CITATION_THRESHOLD = 3  # cited-by count above this = 🔥
 
-def extract_doi(link: str) -> str | None:
+def extract_doi(link: str) :
     """Extract DOI from a journal article URL, handling publisher-specific formats."""
     if not link:
         return None
@@ -363,7 +406,7 @@ def extract_doi(link: str) -> str | None:
     return None
 
 
-def resolve_doi_via_crossref(title: str) -> str | None:
+def resolve_doi_via_crossref(title: str) :
     """Look up a paper's DOI via CrossRef title search. Used as fallback
     when the DOI isn't available from the RSS feed or URL (e.g. Elsevier)."""
     try:
@@ -456,6 +499,77 @@ def fetch_hot_scores(papers: list[dict]) -> list[dict]:
 
 
 # ─────────────────────────────────────────────
+# ABSTRACTS & SUMMARIES
+# ─────────────────────────────────────────────
+
+def fetch_abstracts(papers: list[dict]):
+    """Fetch abstracts from CrossRef for papers that have a DOI."""
+    import time
+    fetched = 0
+    for paper in papers:
+        if paper.get("abstract"):
+            continue
+        doi = paper.get("doi")
+        if not doi:
+            continue
+        try:
+            resp = requests.get(
+                f"https://api.crossref.org/works/{doi}",
+                params={"mailto": "ep-feed@example.com"},
+                timeout=10,
+            )
+            if resp.status_code == 200:
+                abstract = resp.json().get("message", {}).get("abstract", "")
+                # CrossRef returns JATS XML; strip tags
+                abstract = re.sub(r"<[^>]+>", "", abstract).strip()
+                if abstract:
+                    paper["abstract"] = abstract
+                    fetched += 1
+            time.sleep(0.3)
+        except Exception:
+            pass
+    print(f"[info] Fetched {fetched} abstracts from CrossRef")
+
+
+def summarize_abstracts(papers: list[dict]):
+    """Summarize abstracts using Claude API. Only processes papers with an
+    abstract but no existing summary."""
+    if not ANTHROPIC_API_KEY:
+        print("[info] No ANTHROPIC_API_KEY set, skipping abstract summarization.")
+        return
+    summarized = 0
+    for paper in papers:
+        if paper.get("summary") or not paper.get("abstract"):
+            continue
+        try:
+            resp = requests.post(
+                "https://api.anthropic.com/v1/messages",
+                headers={
+                    "x-api-key": ANTHROPIC_API_KEY,
+                    "anthropic-version": "2023-06-01",
+                    "content-type": "application/json",
+                },
+                json={
+                    "model": "claude-haiku-4-5-20251001",
+                    "max_tokens": 150,
+                    "messages": [{"role": "user", "content":
+                        f"Summarize this medical research abstract in 1-2 plain-language sentences. "
+                        f"Be concise and focus on the key finding:\n\n{paper['abstract']}"
+                    }],
+                },
+                timeout=15,
+            )
+            if resp.status_code == 200:
+                content = resp.json().get("content", [])
+                if content:
+                    paper["summary"] = content[0].get("text", "").strip()
+                    summarized += 1
+        except Exception as e:
+            print(f"[warn] Summary failed for '{paper['title'][:50]}': {e}")
+    print(f"[info] Summarized {summarized} abstracts via Claude API")
+
+
+# ─────────────────────────────────────────────
 # RENDER HTML
 # ─────────────────────────────────────────────
 
@@ -468,24 +582,47 @@ def build_paper_row(paper: dict) -> str:
     tags_html = "".join(build_tag_pill(t) for t in paper["tags"])
     tag_classes = " ".join(f"tag-{t.lower()}" for t in paper["tags"])
     hot_badge = '<span class="hot-badge" title="High attention score">🔥</span>' if paper.get("hot") else ""
+    is_important = paper.get("journal") in IMPORTANT_JOURNALS
+    important_class = " important" if is_important else ""
+    important_badge = ""
     link_id = paper["link"].replace("https://", "").replace("http://", "").replace("/", "_").replace(".", "_")
     journal_safe = paper["journal"].replace('"', '&quot;')
+    title_safe = paper["title"].replace("'", "&#39;").replace('"', '&quot;')
+
+    # Summary toggle (only if summary exists)
+    summary_html = ""
+    if paper.get("summary"):
+        safe_summary = paper["summary"].replace('"', '&quot;').replace("'", "&#39;").replace("\n", " ")
+        summary_html = f'''
+      <div class="summary-row">
+        <button class="summary-btn" onclick="toggleSummary(this)">Summary</button>
+        <div class="summary-text" style="display:none">{paper["summary"]}</div>
+      </div>'''
+
     return f'''
-    <div class="paper {tag_classes}" data-id="{link_id}" data-date="{paper["date_ts"]}" data-journal="{journal_safe}">
+    <div class="paper {tag_classes}{important_class}" data-id="{link_id}" data-date="{paper["date_ts"]}" data-journal="{journal_safe}" data-important="{1 if is_important else 0}">
       <div class="paper-tags">{tags_html}</div>
       <div class="paper-title-wrap">
         <span class="unread-dot" title="Unread"></span>
-        <span class="bookmark-btn" title="Bookmark" onclick="toggleBookmark('{link_id}')">&#9734;</span>
+        <span class="star-btn" title="Star (synced)" onclick="toggleStar('{link_id}', this)">&#9734;</span>
         {hot_badge}
         <a class="paper-title" href="{paper["link"]}" target="_blank" rel="noopener"
            onclick="markRead('{link_id}')">{paper["title"]}</a>
       </div>
-      <div class="paper-meta">{paper["journal"]} · {paper["date"]}</div>
+      <div class="paper-meta">
+        {paper["journal"]} · {paper["date"]}
+        <span class="discuss-btn" onclick="openDiscussion('{link_id}')">&#128172; <span class="comment-count" data-paper="{link_id}">0</span></span>
+      </div>{summary_html}
     </div>'''
 
 
 def render_html(papers: list[dict]) -> str:
+    from datetime import date
     updated = datetime.now(timezone.utc).strftime("%b %d, %Y at %H:%M UTC")
+
+    # Daily rotating subtitle
+    day_index = (date.today() - date(2025, 1, 1)).days
+    subtitle = SUBTITLES[day_index % len(SUBTITLES)]
 
     tag_order = ["AFib", "SVT", "VT", "SCD", "Devices", "Genetics", "Imaging", "AI", "Other"]
     filter_buttons = '<button class="filter-btn active" onclick="filterTag(\'all\')">All</button>'
@@ -493,6 +630,8 @@ def render_html(papers: list[dict]) -> str:
         color = TAG_COLORS[tag]
         filter_buttons += f'<button class="filter-btn" onclick="filterTag(\'{tag.lower()}\''
         filter_buttons += f')" style="--accent:{color}">{tag}</button>'
+    # Starred filter button
+    filter_buttons += '<button class="filter-btn" id="starred-filter-btn" onclick="filterStarred()" style="--accent:#f5c518">&#9733; Starred</button>'
 
     # Build journal dropdown options
     journals = sorted(set(p["journal"] for p in papers))
@@ -511,6 +650,7 @@ def render_html(papers: list[dict]) -> str:
   <title>EP Feed</title>
   <link rel="preconnect" href="https://fonts.googleapis.com"/>
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
   <style>
     :root {{
       --bg:       #111318;
@@ -581,6 +721,118 @@ def render_html(papers: list[dict]) -> str:
       display: flex;
       align-items: center;
       gap: 10px;
+    }}
+
+    /* ── auth ── */
+    #auth-area {{
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }}
+    .auth-btn {{
+      font-family: var(--mono);
+      font-size: 11px;
+      padding: 4px 10px;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      background: transparent;
+      color: var(--muted);
+      cursor: pointer;
+      transition: all 0.12s;
+    }}
+    .auth-btn:hover {{ color: var(--text); border-color: var(--accent); }}
+    .auth-email {{
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--accent);
+      max-width: 150px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }}
+    #user-info {{ display: flex; align-items: center; gap: 8px; }}
+
+    /* ── login modal ── */
+    .login-overlay {{
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.6);
+      z-index: 100;
+      align-items: center;
+      justify-content: center;
+    }}
+    .login-overlay.visible {{ display: flex; }}
+    .login-modal {{
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 32px;
+      max-width: 360px;
+      width: 90%;
+    }}
+    .login-modal h3 {{
+      font-family: var(--mono);
+      font-size: 14px;
+      color: var(--accent);
+      margin-bottom: 20px;
+      letter-spacing: 0.08em;
+    }}
+    .login-modal .oauth-btn {{
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+      font-family: var(--sans);
+      font-size: 14px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      background: var(--bg);
+      color: var(--text);
+      cursor: pointer;
+      transition: all 0.12s;
+    }}
+    .login-modal .oauth-btn:hover {{ border-color: var(--accent); background: var(--surface); }}
+    .login-modal .divider {{
+      text-align: center;
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--muted);
+      margin: 16px 0;
+    }}
+    .login-modal input[type="email"] {{
+      width: 100%;
+      padding: 9px 12px;
+      font-family: var(--sans);
+      font-size: 14px;
+      color: var(--text);
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      outline: none;
+      margin-bottom: 10px;
+    }}
+    .login-modal input[type="email"]:focus {{ border-color: var(--accent); }}
+    .login-modal .magic-btn {{
+      width: 100%;
+      padding: 10px;
+      font-family: var(--sans);
+      font-size: 14px;
+      border: none;
+      border-radius: 6px;
+      background: var(--accent);
+      color: #0e1118;
+      cursor: pointer;
+      font-weight: 500;
+    }}
+    .login-modal .close-modal {{
+      position: absolute;
+      top: 12px;
+      right: 16px;
+      background: none;
+      border: none;
+      color: var(--muted);
+      font-size: 20px;
+      cursor: pointer;
     }}
 
     /* ── ecg line decoration ── */
@@ -658,6 +910,7 @@ def render_html(papers: list[dict]) -> str:
 
     .paper.hidden {{ display: none; }}
 
+
     /* unread state */
     .paper.unread .paper-title {{ font-weight: 500; color: #eaf0f9; }}
     .paper.unread .unread-dot {{
@@ -722,6 +975,177 @@ def render_html(papers: list[dict]) -> str:
       white-space: nowrap;
       flex-shrink: 0;
       text-align: right;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      justify-content: flex-end;
+    }}
+
+    /* ── summary ── */
+    .summary-row {{
+      grid-column: 1 / -1;
+      padding: 0;
+    }}
+    .summary-btn {{
+      font-family: var(--mono);
+      font-size: 10px;
+      letter-spacing: 0.05em;
+      padding: 3px 8px;
+      border-radius: 3px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--muted);
+      cursor: pointer;
+      transition: all 0.12s;
+    }}
+    .summary-btn:hover {{ color: var(--text); border-color: var(--accent); }}
+    .summary-text {{
+      font-size: 13px;
+      line-height: 1.6;
+      color: var(--muted);
+      padding: 8px 0 4px 0;
+      border-left: 2px solid var(--accent);
+      padding-left: 12px;
+      margin-top: 6px;
+    }}
+
+    /* ── star (synced) ── */
+    .star-btn {{
+      cursor: pointer;
+      font-size: 14px;
+      color: var(--muted);
+      margin-right: 3px;
+      flex-shrink: 0;
+      transition: color 0.1s;
+      user-select: none;
+      opacity: 0.5;
+    }}
+    .star-btn:hover {{ color: #f5c518; opacity: 1; }}
+    .star-btn.starred {{ color: #f5c518; opacity: 1; }}
+
+    /* ── discuss ── */
+    .discuss-btn {{
+      cursor: pointer;
+      font-size: 11px;
+      color: var(--muted);
+      transition: color 0.1s;
+      user-select: none;
+      margin-left: 4px;
+    }}
+    .discuss-btn:hover {{ color: var(--accent); }}
+    .comment-count {{ font-size: 10px; }}
+
+    /* ── discussion panel ── */
+    .discussion-panel {{
+      display: none;
+      position: fixed;
+      top: 0;
+      right: 0;
+      width: 440px;
+      max-width: 100vw;
+      height: 100vh;
+      background: var(--surface);
+      border-left: 1px solid var(--border);
+      z-index: 50;
+      flex-direction: column;
+      box-shadow: -4px 0 20px rgba(0,0,0,0.3);
+    }}
+    .discussion-panel.open {{ display: flex; }}
+    .discussion-header {{
+      padding: 16px 20px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }}
+    .discussion-header h3 {{
+      font-family: var(--sans);
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--text);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      flex: 1;
+      margin-right: 12px;
+    }}
+    .discussion-close {{
+      background: none;
+      border: none;
+      color: var(--muted);
+      font-size: 22px;
+      cursor: pointer;
+      padding: 0 4px;
+    }}
+    .discussion-close:hover {{ color: var(--text); }}
+    #discussion-comments {{
+      flex: 1;
+      overflow-y: auto;
+      padding: 16px 20px;
+    }}
+    .comment {{
+      margin-bottom: 16px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--border);
+    }}
+    .comment-meta {{
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--muted);
+      margin-bottom: 4px;
+    }}
+    .comment-body {{
+      font-size: 14px;
+      line-height: 1.5;
+      color: var(--text);
+    }}
+    .reply-btn {{
+      font-family: var(--mono);
+      font-size: 10px;
+      color: var(--muted);
+      background: none;
+      border: none;
+      cursor: pointer;
+      margin-top: 4px;
+      padding: 0;
+    }}
+    .reply-btn:hover {{ color: var(--accent); }}
+    .no-comments {{
+      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--muted);
+      text-align: center;
+      padding: 32px 0;
+    }}
+    #discussion-form {{
+      padding: 12px 20px;
+      border-top: 1px solid var(--border);
+    }}
+    #discussion-form textarea {{
+      width: 100%;
+      min-height: 60px;
+      padding: 8px 10px;
+      font-family: var(--sans);
+      font-size: 13px;
+      color: var(--text);
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      outline: none;
+      resize: vertical;
+      margin-bottom: 8px;
+    }}
+    #discussion-form textarea:focus {{ border-color: var(--accent); }}
+    #discussion-form button {{
+      font-family: var(--mono);
+      font-size: 11px;
+      padding: 6px 16px;
+      border: none;
+      border-radius: 4px;
+      background: var(--accent);
+      color: #0e1118;
+      cursor: pointer;
+      font-weight: 500;
     }}
 
     /* ── toolbar (search + sort + journal filter) ── */
@@ -799,18 +1223,6 @@ def render_html(papers: list[dict]) -> str:
     }}
     .scroll-top.visible {{ display: flex; }}
 
-    /* ── bookmark ── */
-    .bookmark-btn {{
-      cursor: pointer;
-      font-size: 14px;
-      color: var(--muted);
-      margin-right: 5px;
-      flex-shrink: 0;
-      transition: color 0.1s;
-      user-select: none;
-    }}
-    .bookmark-btn:hover {{ color: var(--accent); }}
-    .bookmark-btn.bookmarked {{ color: #f5c518; }}
 
     /* ── new-since-last-visit divider ── */
     .new-divider {{
@@ -875,8 +1287,9 @@ def render_html(papers: list[dict]) -> str:
       }}
       .logo-sub {{ font-size: 11px; white-space: nowrap; }}
       .last-updated {{ display: block; font-size: 9px; }}
-      .header-right span {{ display: none; }}
-      .header-right {{ gap: 0; }}
+      .header-right span.updated-text {{ display: none; }}
+      .header-right {{ gap: 6px; }}
+      .auth-email {{ max-width: 80px; }}
       .filters {{ padding: 10px 16px; gap: 5px; }}
       .toolbar {{ padding: 10px 16px; flex-wrap: nowrap; }}
       .search-input {{ min-width: 0; flex: 1; font-size: 13px; padding: 6px 10px; }}
@@ -885,6 +1298,7 @@ def render_html(papers: list[dict]) -> str:
       .paper:hover {{ margin: 0 -16px; padding: 12px 16px; }}
       .paper-meta {{ font-size: 10px; text-align: left; }}
       footer {{ padding: 16px; }}
+      .discussion-panel {{ width: 100vw; }}
     }}
   </style>
 </head>
@@ -893,11 +1307,18 @@ def render_html(papers: list[dict]) -> str:
 <header>
   <div class="header-left">
     <div class="logo">EP Feed</div>
-    <div class="logo-sub">Your daily EP reading list</div>
+    <div class="logo-sub">{subtitle}</div>
     <div class="last-updated">Last updated {updated}</div>
   </div>
   <div class="header-right">
-    <span>Last updated {updated}</span>
+    <span class="updated-text">Last updated {updated}</span>
+    <div id="auth-area">
+      <button id="login-btn" class="auth-btn" onclick="showLoginModal()">Sign in</button>
+      <div id="user-info" style="display:none">
+        <span id="user-email" class="auth-email"></span>
+        <button class="auth-btn" onclick="signOut()">Sign out</button>
+      </div>
+    </div>
     <button class="theme-toggle" onclick="toggleTheme()" title="Toggle light/dark mode" id="theme-btn">&#9790;</button>
   </div>
 </header>
@@ -925,11 +1346,52 @@ def render_html(papers: list[dict]) -> str:
 
 <button class="scroll-top" id="scroll-top-btn" onclick="window.scrollTo({{top:0,behavior:'smooth'}})">&#8593;</button>
 
+<!-- Login Modal -->
+<div class="login-overlay" id="login-overlay" onclick="if(event.target===this)closeLoginModal()">
+  <div class="login-modal" style="position:relative">
+    <button class="close-modal" onclick="closeLoginModal()">&times;</button>
+    <h3>Sign in to EP Feed</h3>
+    <button class="oauth-btn" onclick="signInWithGoogle()">Sign in with Google</button>
+    <div class="divider">or</div>
+    <input type="email" id="magic-link-email" placeholder="your@email.com"/>
+    <button class="magic-btn" onclick="sendMagicLink()">Send magic link</button>
+  </div>
+</div>
+
+<!-- Discussion Panel -->
+<div class="discussion-panel" id="discussion-panel">
+  <div class="discussion-header">
+    <h3 id="discussion-title">Discussion</h3>
+    <button class="discussion-close" onclick="closeDiscussion()">&times;</button>
+  </div>
+  <div id="discussion-comments"></div>
+  <div id="discussion-form" style="display:none">
+    <textarea id="comment-input" placeholder="Write a comment..."></textarea>
+    <div id="reply-indicator" style="display:none;font-family:var(--mono);font-size:10px;color:var(--muted);margin-bottom:6px">
+      Replying to <span id="reply-to-name"></span> <button onclick="cancelReply()" style="background:none;border:none;color:var(--accent);cursor:pointer;font-size:10px">cancel</button>
+    </div>
+    <button onclick="submitComment()">Post</button>
+  </div>
+</div>
+
 <script>
+  // ── Config ──
   const READ_KEY = 'ep_read_v1';
-  const BOOKMARK_KEY = 'ep_bookmarks_v1';
   const VISIT_KEY = 'ep_last_visit';
   const THEME_KEY = 'ep_theme';
+
+  const SUPABASE_URL = '{SUPABASE_URL}';
+  const SUPABASE_ANON_KEY = '{SUPABASE_ANON_KEY}';
+
+  let sb = null;
+  let currentUser = null;
+  let userStars = new Set();
+
+  // ── Supabase init ──
+  function initSupabase() {{
+    if (!SUPABASE_URL || !SUPABASE_ANON_KEY) return;
+    sb = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+  }}
 
   // ── localStorage helpers ──
   function getSet(key) {{
@@ -958,32 +1420,138 @@ def render_html(papers: list[dict]) -> str:
     if (paper) {{ paper.classList.add('read'); paper.classList.remove('unread'); }}
   }}
 
-  // ── Bookmarks ──
-  function applyBookmarks() {{
-    const bm = getSet(BOOKMARK_KEY);
+  // ── Auth ──
+  async function initAuth() {{
+    if (!sb) return;
+    const {{ data: {{ session }} }} = await sb.auth.getSession();
+    if (session) {{
+      currentUser = session.user;
+      updateAuthUI();
+      await loadStars();
+    }}
+    sb.auth.onAuthStateChange(async (event, session) => {{
+      currentUser = session?.user || null;
+      updateAuthUI();
+      if (currentUser) await loadStars();
+      else {{ userStars.clear(); applyStars(); }}
+    }});
+  }}
+
+  function updateAuthUI() {{
+    const loginBtn = document.getElementById('login-btn');
+    const userInfo = document.getElementById('user-info');
+    if (currentUser) {{
+      loginBtn.style.display = 'none';
+      userInfo.style.display = 'flex';
+      document.getElementById('user-email').textContent = currentUser.email;
+    }} else {{
+      loginBtn.style.display = 'block';
+      userInfo.style.display = 'none';
+    }}
+  }}
+
+  function showLoginModal() {{ document.getElementById('login-overlay').classList.add('visible'); }}
+  function closeLoginModal() {{ document.getElementById('login-overlay').classList.remove('visible'); }}
+
+  async function signInWithGoogle() {{
+    if (!sb) return;
+    await sb.auth.signInWithOAuth({{ provider: 'google' }});
+  }}
+
+  async function sendMagicLink() {{
+    if (!sb) return;
+    const email = document.getElementById('magic-link-email').value.trim();
+    if (!email) return;
+    const {{ error }} = await sb.auth.signInWithOtp({{ email }});
+    if (error) alert(error.message);
+    else {{
+      alert('Check your email for the login link!');
+      closeLoginModal();
+    }}
+  }}
+
+  async function signOut() {{
+    if (!sb) return;
+    await sb.auth.signOut();
+    currentUser = null;
+    userStars.clear();
+    updateAuthUI();
+    applyStars();
+  }}
+
+  // ── Stars (Supabase) ──
+  async function loadStars() {{
+    if (!sb || !currentUser) return;
+    const {{ data }} = await sb.from('starred_articles').select('paper_link_id');
+    userStars = new Set((data || []).map(r => r.paper_link_id));
+    applyStars();
+  }}
+
+  function applyStars() {{
     document.querySelectorAll('.paper').forEach(p => {{
-      const btn = p.querySelector('.bookmark-btn');
-      if (bm.has(p.dataset.id)) {{
+      const btn = p.querySelector('.star-btn');
+      if (!btn) return;
+      if (userStars.has(p.dataset.id)) {{
         btn.innerHTML = '&#9733;';
-        btn.classList.add('bookmarked');
+        btn.classList.add('starred');
       }} else {{
         btn.innerHTML = '&#9734;';
-        btn.classList.remove('bookmarked');
+        btn.classList.remove('starred');
       }}
     }});
   }}
 
-  function toggleBookmark(id) {{
-    const bm = getSet(BOOKMARK_KEY);
-    if (bm.has(id)) {{ bm.delete(id); }} else {{ bm.add(id); }}
-    saveSet(BOOKMARK_KEY, bm);
-    applyBookmarks();
+  async function toggleStar(id, btn) {{
+    if (!currentUser) {{ showLoginModal(); return; }}
+    if (!sb) return;
+    if (userStars.has(id)) {{
+      userStars.delete(id);
+      await sb.from('starred_articles').delete()
+        .eq('user_id', currentUser.id).eq('paper_link_id', id);
+    }} else {{
+      userStars.add(id);
+      const title = btn.closest('.paper')?.querySelector('.paper-title')?.textContent || '';
+      await sb.from('starred_articles').insert({{
+        user_id: currentUser.id,
+        paper_link_id: id,
+        paper_title: title,
+      }});
+    }}
+    applyStars();
+  }}
+
+  let showStarredOnly = false;
+  function filterStarred() {{
+    showStarredOnly = !showStarredOnly;
+    document.getElementById('starred-filter-btn').classList.toggle('active', showStarredOnly);
+    // Deactivate tag filters when starring
+    if (showStarredOnly) {{
+      activeTag = 'all';
+      document.querySelectorAll('.filter-btn').forEach(btn => {{
+        if (btn.id !== 'starred-filter-btn') btn.classList.remove('active');
+      }});
+      document.querySelector('.filter-btn:not(#starred-filter-btn)').classList.add('active');
+    }}
+    applyVisibility();
+  }}
+
+  // ── Summary toggle ──
+  function toggleSummary(btn) {{
+    const div = btn.nextElementSibling;
+    if (div.style.display === 'none') {{
+      div.style.display = 'block';
+      btn.textContent = 'Hide';
+    }} else {{
+      div.style.display = 'none';
+      btn.textContent = 'Summary';
+    }}
   }}
 
   // ── Tag filter ──
   let activeTag = 'all';
   function filterTag(tag) {{
     activeTag = tag;
+    showStarredOnly = false;
     document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
     event.target.classList.add('active');
     applyVisibility();
@@ -1003,12 +1571,13 @@ def render_html(papers: list[dict]) -> str:
     applyVisibility();
   }}
 
-  // ── Combined visibility (tag + journal + search) ──
+  // ── Combined visibility (tag + journal + search + starred) ──
   function applyVisibility() {{
     document.querySelectorAll('.paper').forEach(p => {{
       let show = true;
       if (activeTag !== 'all' && !p.classList.contains('tag-' + activeTag)) show = false;
       if (activeJournal !== 'all' && p.dataset.journal !== activeJournal) show = false;
+      if (showStarredOnly && !userStars.has(p.dataset.id)) show = false;
       if (searchQuery) {{
         const title = (p.querySelector('.paper-title')?.textContent || '').toLowerCase();
         const meta = (p.querySelector('.paper-meta')?.textContent || '').toLowerCase();
@@ -1023,19 +1592,22 @@ def render_html(papers: list[dict]) -> str:
     const feed = document.querySelector('.feed');
     const papers = [...feed.querySelectorAll('.paper')];
     const read = getSet(READ_KEY);
-    const bm = getSet(BOOKMARK_KEY);
     papers.sort((a, b) => {{
-      if (mode === 'date') return parseFloat(b.dataset.date) - parseFloat(a.dataset.date);
+      if (mode === 'date') {{
+        // Within same day, important papers first
+        const dayA = Math.floor(parseFloat(a.dataset.date) / 86400);
+        const dayB = Math.floor(parseFloat(b.dataset.date) / 86400);
+        if (dayA !== dayB) return dayB - dayA;
+        const impA = parseInt(a.dataset.important || '0');
+        const impB = parseInt(b.dataset.important || '0');
+        if (impA !== impB) return impB - impA;
+        return parseFloat(b.dataset.date) - parseFloat(a.dataset.date);
+      }}
       if (mode === 'journal') return a.dataset.journal.localeCompare(b.dataset.journal) || parseFloat(b.dataset.date) - parseFloat(a.dataset.date);
       if (mode === 'unread') {{
         const au = read.has(a.dataset.id) ? 1 : 0;
         const bu = read.has(b.dataset.id) ? 1 : 0;
         return au - bu || parseFloat(b.dataset.date) - parseFloat(a.dataset.date);
-      }}
-      if (mode === 'bookmarked') {{
-        const ab = bm.has(a.dataset.id) ? 0 : 1;
-        const bb = bm.has(b.dataset.id) ? 0 : 1;
-        return ab - bb || parseFloat(b.dataset.date) - parseFloat(a.dataset.date);
       }}
       return 0;
     }});
@@ -1053,6 +1625,153 @@ def render_html(papers: list[dict]) -> str:
     const next = current === 'dark' ? 'light' : 'dark';
     localStorage.setItem(THEME_KEY, next);
     applyTheme();
+  }}
+
+  // ── Discussion ──
+  let currentDiscussionPaperId = null;
+  let replyParentId = null;
+
+  async function openDiscussion(paperId) {{
+    if (!sb) {{ alert('Discussion requires Supabase to be configured.'); return; }}
+    currentDiscussionPaperId = paperId;
+    replyParentId = null;
+    const panel = document.getElementById('discussion-panel');
+    panel.classList.add('open');
+
+    // Set title from paper
+    const paper = document.querySelector(`.paper[data-id="${{paperId}}"]`);
+    const title = paper?.querySelector('.paper-title')?.textContent || 'Discussion';
+    document.getElementById('discussion-title').textContent = title;
+
+    // Show form only if logged in
+    document.getElementById('discussion-form').style.display = currentUser ? 'block' : 'none';
+    document.getElementById('reply-indicator').style.display = 'none';
+
+    // Get or create discussion
+    let {{ data: disc }} = await sb.from('discussions')
+      .select('id').eq('paper_link_id', paperId).single();
+
+    if (!disc && currentUser) {{
+      const {{ data: newDisc }} = await sb.from('discussions')
+        .insert({{ paper_link_id: paperId }}).select('id').single();
+      disc = newDisc;
+    }}
+
+    if (!disc) {{
+      document.getElementById('discussion-comments').innerHTML =
+        '<p class="no-comments">Sign in to start the discussion!</p>';
+      return;
+    }}
+
+    // Load comments
+    const {{ data: comments }} = await sb.from('comments')
+      .select('*').eq('discussion_id', disc.id)
+      .order('created_at', {{ ascending: true }});
+
+    renderComments(comments || [], disc.id);
+  }}
+
+  function closeDiscussion() {{
+    document.getElementById('discussion-panel').classList.remove('open');
+    currentDiscussionPaperId = null;
+  }}
+
+  function escapeHtml(text) {{
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+  }}
+
+  function timeAgo(dateStr) {{
+    const seconds = Math.floor((Date.now() - new Date(dateStr).getTime()) / 1000);
+    if (seconds < 60) return 'just now';
+    if (seconds < 3600) return Math.floor(seconds / 60) + 'm ago';
+    if (seconds < 86400) return Math.floor(seconds / 3600) + 'h ago';
+    return Math.floor(seconds / 86400) + 'd ago';
+  }}
+
+  function renderComments(comments, discussionId) {{
+    const container = document.getElementById('discussion-comments');
+    if (!comments.length) {{
+      container.innerHTML = '<p class="no-comments">No comments yet. Be the first!</p>';
+      return;
+    }}
+    // Build threaded tree
+    const byParent = {{}};
+    comments.forEach(c => {{
+      const key = c.parent_id || 'root';
+      if (!byParent[key]) byParent[key] = [];
+      byParent[key].push(c);
+    }});
+
+    function buildTree(parentId, depth) {{
+      const children = byParent[parentId || 'root'] || [];
+      return children.map(c => `
+        <div class="comment" style="margin-left:${{Math.min(depth * 20, 80)}}px">
+          <div class="comment-meta">${{escapeHtml(c.user_email.split('@')[0])}} &middot; ${{timeAgo(c.created_at)}}</div>
+          <div class="comment-body">${{escapeHtml(c.body)}}</div>
+          ${{currentUser ? `<button class="reply-btn" onclick="replyTo('${{c.id}}','${{escapeHtml(c.user_email.split('@')[0])}}')">reply</button>` : ''}}
+          ${{buildTree(c.id, depth + 1)}}
+        </div>
+      `).join('');
+    }}
+
+    container.innerHTML = buildTree(null, 0);
+  }}
+
+  function replyTo(commentId, username) {{
+    replyParentId = commentId;
+    document.getElementById('reply-indicator').style.display = 'block';
+    document.getElementById('reply-to-name').textContent = username;
+    document.getElementById('comment-input').focus();
+  }}
+
+  function cancelReply() {{
+    replyParentId = null;
+    document.getElementById('reply-indicator').style.display = 'none';
+  }}
+
+  async function submitComment() {{
+    if (!currentUser) {{ showLoginModal(); return; }}
+    if (!sb) return;
+    const input = document.getElementById('comment-input');
+    const body = input.value.trim();
+    if (!body) return;
+
+    // Get discussion id
+    let {{ data: disc }} = await sb.from('discussions')
+      .select('id').eq('paper_link_id', currentDiscussionPaperId).single();
+
+    if (!disc) {{
+      const {{ data: newDisc }} = await sb.from('discussions')
+        .insert({{ paper_link_id: currentDiscussionPaperId }}).select('id').single();
+      disc = newDisc;
+    }}
+    if (!disc) return;
+
+    await sb.from('comments').insert({{
+      discussion_id: disc.id,
+      parent_id: replyParentId || null,
+      user_id: currentUser.id,
+      user_email: currentUser.email,
+      body: body,
+    }});
+
+    input.value = '';
+    cancelReply();
+    openDiscussion(currentDiscussionPaperId);
+  }}
+
+  async function loadCommentCounts() {{
+    if (!sb) return;
+    const {{ data }} = await sb.from('discussions').select('paper_link_id, comment_count');
+    if (!data) return;
+    const countMap = {{}};
+    data.forEach(d => countMap[d.paper_link_id] = d.comment_count);
+    document.querySelectorAll('.comment-count').forEach(el => {{
+      const count = countMap[el.dataset.paper] || 0;
+      el.textContent = count;
+    }});
   }}
 
   // ── New since last visit ──
@@ -1085,11 +1804,13 @@ def render_html(papers: list[dict]) -> str:
   }});
 
   // ── Init ──
-  document.addEventListener('DOMContentLoaded', () => {{
+  document.addEventListener('DOMContentLoaded', async () => {{
     applyTheme();
     applyReadState();
-    applyBookmarks();
     markNewPapers();
+    initSupabase();
+    await initAuth();
+    loadCommentCounts();
   }});
 </script>
 
@@ -1197,6 +1918,13 @@ def main():
 
     print(f"[info] {len(new_papers)} new papers found (seen grew from {seen_before} → {len(seen)})")
 
+    # Fetch abstracts and generate summaries for new papers
+    if new_papers:
+        print("[info] Fetching abstracts...")
+        fetch_abstracts(new_papers)
+        print("[info] Generating summaries...")
+        summarize_abstracts(new_papers)
+
     # Load all previously stored papers to show in HTML (not just today's)
     # We persist a rolling papers.json alongside seen.json
     papers_file = Path("papers.json")
@@ -1211,6 +1939,14 @@ def main():
 
     # Keep last 500 papers in the feed
     all_papers = all_papers[:500]
+
+    # Sort: newest day first, important papers at top of each day, then by recency
+    def sort_key(p):
+        day_floor = int(p["date_ts"]) // 86400
+        is_important = 1 if p.get("journal") in IMPORTANT_JOURNALS else 0
+        return (-day_floor, -is_important, -p["date_ts"])
+    all_papers.sort(key=sort_key)
+
     papers_file.write_text(json.dumps(all_papers, indent=2))
 
     print("[info] Rendering HTML...")

@@ -27,9 +27,12 @@ jobs:
 
       - name: Run fetch script
         env:
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          EMAIL_FROM:     ${{ secrets.EMAIL_FROM }}
-          EMAIL_TO:       ${{ secrets.EMAIL_TO }}
+          RESEND_API_KEY:    ${{ secrets.RESEND_API_KEY }}
+          EMAIL_FROM:        ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO:          ${{ secrets.EMAIL_TO }}
+          SUPABASE_URL:      ${{ secrets.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python fetch_papers.py
 
       - name: Commit updated files
