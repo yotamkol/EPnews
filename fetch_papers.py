@@ -184,7 +184,6 @@ SITE_URL           = os.environ.get("SITE_URL", "https://epfeed.vercel.app")
 SUPABASE_URL       = os.environ.get("SUPABASE_URL", "")
 SUPABASE_ANON_KEY  = os.environ.get("SUPABASE_ANON_KEY", "")
 ANTHROPIC_API_KEY  = os.environ.get("ANTHROPIC_API_KEY", "")
-ELSEVIER_API_KEY   = os.environ.get("ELSEVIER_API_KEY", "")
 
 
 # ─────────────────────────────────────────────
@@ -503,28 +502,6 @@ def fetch_hot_scores(papers: list[dict]) -> list[dict]:
 # ABSTRACTS & SUMMARIES
 # ─────────────────────────────────────────────
 
-def fetch_abstract_elsevier(doi):
-    """Fetch abstract from Elsevier Scopus API (free for non-commercial use)."""
-    if not ELSEVIER_API_KEY:
-        return None
-    try:
-        resp = requests.get(
-            "https://api.elsevier.com/content/abstract/doi/" + doi,
-            headers={"X-ELS-APIKey": ELSEVIER_API_KEY, "Accept": "application/json"},
-            timeout=10,
-        )
-        if resp.status_code == 200:
-            data = resp.json()
-            abstract = (data.get("abstracts-retrieval-response", {})
-                        .get("coredata", {})
-                        .get("dc:description", ""))
-            if abstract:
-                return re.sub(r"<[^>]+>", "", abstract).strip()
-        return None
-    except Exception:
-        return None
-
-
 def fetch_abstract_pubmed(doi):
     """Fetch abstract from PubMed using DOI lookup."""
     try:
@@ -601,8 +578,7 @@ def fetch_abstract_openalex(doi):
 def fetch_abstracts(papers: list[dict]):
     """Fetch abstracts from CrossRef, Semantic Scholar, OpenAlex, and PubMed."""
     import time
-    counts = {"crossref": 0, "elsevier": 0,
-              "semantic_scholar": 0, "openalex": 0, "pubmed": 0}
+    counts = {"crossref": 0, "semantic_scholar": 0, "openalex": 0, "pubmed": 0}
     for paper in papers:
         if paper.get("abstract"):
             continue
@@ -629,16 +605,7 @@ def fetch_abstracts(papers: list[dict]):
             pass
         time.sleep(0.3)
 
-        # Fallback 1: Elsevier Scopus API
-        abstract = fetch_abstract_elsevier(doi)
-        if abstract:
-            paper["abstract"] = abstract
-            counts["elsevier"] += 1
-            time.sleep(0.3)
-            continue
-        time.sleep(0.3)
-
-        # Fallback 2: Semantic Scholar
+        # Fallback 1: Semantic Scholar
         abstract = fetch_abstract_semantic_scholar(doi)
         if abstract:
             paper["abstract"] = abstract
@@ -665,7 +632,6 @@ def fetch_abstracts(papers: list[dict]):
 
     total = sum(counts.values())
     print(f"[info] Fetched {total} abstracts (CrossRef: {counts['crossref']}, "
-          f"Elsevier: {counts['elsevier']}, "
           f"Semantic Scholar: {counts['semantic_scholar']}, "
           f"OpenAlex: {counts['openalex']}, PubMed: {counts['pubmed']})")
 
