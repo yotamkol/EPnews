@@ -553,8 +553,10 @@ def summarize_abstracts(papers: list[dict]):
                     "model": "claude-haiku-4-5-20251001",
                     "max_tokens": 150,
                     "messages": [{"role": "user", "content":
-                        f"Summarize this medical research abstract in 1-2 plain-language sentences. "
-                        f"Be concise and focus on the key finding:\n\n{paper['abstract']}"
+                        f"Summarize this medical research abstract in 1-2 sentences for a physician audience. "
+                        f"Include study type (RCT, retrospective, meta-analysis, etc.), sample size if available, "
+                        f"intervention/exposure, and key result. Be concise and scientific. "
+                        f"Do not add any heading or label.\n\n{paper['abstract']}"
                     }],
                 },
                 timeout=15,
