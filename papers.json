@@ -4694,6 +4694,21 @@
     "summary": "# Plain-Language Summary\n\nResearchers tested a new pacing lead insertion technique in donor human hearts and found that using proper delivery system support prevents the lead from getting tangled in the heart's inner lining, which can cause tissue damage. Without adequate support, the lead became entangled 70% of the time, causing extensive peeling away of the endocardial tissue, but proper support eliminated this problem entirely."
   },
   {
+    "title": "Burst Exercise Stress Testing in Catecholaminergic Polymorphic Ventricular Tachycardia",
+    "link": "https://doi.org/10.1001/jamacardio.2026.0384",
+    "doi": "10.1001/jamacardio.2026.0384",
+    "journal": "JAMA Cardiology",
+    "date": "Apr 08, 2026",
+    "date_ts": 1775606400.0,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "Importance\n                    Catecholaminergic polymorphic ventricular tachycardia (CPVT) is a rare inherited arrhythmogenic syndrome in which exercise stress testing is the primary method for provoking adrenergically mediated ventricular arrhythmias. Traditional exercise testing protocols, such as the Bruce protocol, may lack sensitivity, leading to missed diagnoses and undertreatment, whereas early pilot data suggest that a sudden high-intensity Burst protocol may better unmask arrhythmias.\n                  \n                  \n                    Objective\n                    To evaluate the diagnostic yield and therapeutic impact of the Burst exercise stress testing protocol compared with the traditional Bruce protocol in CPVT.\n                  \n                  \n                    Design, Setting, and Participants\n                    This retrospective cohort study included pediatric and adult patients evaluated for CPVT at 2 tertiary referral centers in Vancouver, British Columbia, Canada.\n                    Data were collected from May 2017 through May 2024, and data analysis was performed from May 2024 through April 2025. Of 38 screened patients, 28 were included who had undergone consecutive Bruce and Burst exercise tests, with available tracings and a diagnostic phenotype on at least 1 test. Arrhythmia severity was scored using the Ventricular Arrhythmia Score.\n                  \n                  \n                    Exposure\n                    Type of exercise stress testing protocol (Bruce vs Burst).\n                  \n                  \n                    Main Outcomes and Measures\n                    The main outcome was the Ventricular Arrhythmia Score (ranging from 0\u2009=\u2009no premature ventricular contractions to 4\u2009=\u2009nonsustained ventricular tachycardia). Other outcomes included changes in pharmacologic therapy and adverse events.\n                  \n                  \n                    Results\n                    \n                      The cohort included 13 female patients (46%) and 18 probands (64%), including 23 (82%) with a causative\n                      RYR2\n                      variant. Median (IQR) age at testing was 19.9 (14.8-33.9) years for Bruce testing and 21.0 (16.1-35.5) years at Burst testing. Bruce and Burst exercise tests were performed a median (IQR) of 1.3 (0.6-2.0) years apart, with all Burst tests performed on equivalent or intensified therapy. The Burst protocol provoked more severe arrhythmias in 20 of 28 patients (71%) with a higher median (IQR) Ventricular Arrhythmia Score (3 [2-4] vs 1 [1-2];\n                      P\n                      \u2009&amp;amp;lt;\u2009.001). These findings prompted \u03b2-blocker or flecainide initiation or dose escalation in 13 patients (65%). No adverse safety events occurred.\n                    \n                  \n                  \n                    Conclusions and Relevance\n                    In this cohort study, the Burst exercise stress testing protocol detected a greater burden and severity of ventricular arrhythmias than the Bruce protocol in patients with CPVT, frequently prompting treatment escalation without observed safety concerns. These data suggest that incorporating Burst protocol exercise stress testing into the routine care of patients with CPVT is low risk and often informative.",
+    "summary": "This retrospective cohort study of 28 pediatric and adult patients with CPVT found that the Burst exercise stress testing protocol provoked more severe arrhythmias than the traditional Bruce protocol in 71% of patients (median Ventricular Arrhythmia Score 3 vs 1; P<0.001), resulting in treatment intensification in 65% of cases without adverse events. The findings suggest that Burst protocol testing improves diagnostic yield and guides therapeutic decision-making in CPVT evaluation."
+  },
+  {
     "title": "New-onset postoperative atrial fibrillation management and outcomes: the VISION Cardiac Surgery cohort",
     "link": "https://doi.org/10.1093/eurheartj/ehag236",
     "doi": "10.1093/eurheartj/ehag236",
@@ -6243,45 +6258,27 @@
     "summary": "# Plain Language Summary\n\nRadiofrequency-assisted needle techniques are more effective than traditional mechanical needles for puncturing the heart's septum (a procedure needed for certain cardiac treatments), with higher success rates, fewer failed attempts, and shorter procedure times. Safety profiles were similar between the two methods, though the radiofrequency approach may be especially beneficial in complex cases."
   },
   {
-    "title": "Outcomes of Functional Substrate Mapping Based Ablation in Addition to Pulmonary Vein Isolation in Atrial Fibrillation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70220?af=R",
-    "doi": "10.1111/pace.70220",
-    "journal": "PACE",
-    "date": "Mar 27, 2026",
-    "date_ts": 1774617036.0,
+    "title": "Finerenone, New-Onset Atrial Fibrillation, and Prognosis in HFpEF/HFmrEF\u2014Reply",
+    "link": "https://doi.org/10.1001/jamacardio.2025.4578",
+    "doi": "10.1001/jamacardio.2025.4578",
+    "journal": "JAMA Cardiology",
+    "date": "Mar 25, 2026",
+    "date_ts": 1774396800.0,
     "tags": [
       "AFib"
     ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Functional substrate mapping (FSM) enables the identification of slow conduction zones, which may represent critical atrial sites in atrial fibrillation (AF). This study aimed to evaluate the efficacy of FSM\u2010guided ablation as an adjunct to pulmonary vein isolation (PVI) and to identify clinical predictors of arrhythmia recurrence in patients with AF.\n                  \n                  \n                    Methods\n                    A total of 206 patients [mean age 61 \u00b1 10, 105 (%51) males] with AF who underwent voltage and isochronal late activation mapping (ILAM) during sinus/paced rhythm were retrospectively included. Patients were divided into two groups based on the presence of deceleration zone (DZ) during ILAM: DZ (\u2212) and DZ (+). While patients in the DZ (\u2212) group underwent PVI alone, those in the DZ (+) group received additional ablation lesions targeting the DZs in addition to PVI.\n                  \n                  \n                    Results\n                    \n                      The mean number of DZs per left atrium was 1.45\u00a0\u00b1\u00a00.6. In the DZ (+) patients, 43 ATs were inducible in 35 patients, with 81.4% (35/43) of CIs colocalized with the DZs identified during ILAM. At a median follow\u2010up of 12.5 (8\u201323) months, atrial arrhythmia\u2010free survival was significantly higher in the DZ (\u2212) group compared to the DZ (+) group (\n                      p\n                      = 0.004). Multivariate Cox regression analysis revealed that the presence of DZ (HR: 2.152, 95%CI 1.051\u20134.404;\n                      p\n                      = 0.036) was the only significant predictor associated with atrial arrhythmia recurrence.\n                    \n                  \n                  \n                    Conclusions\n                    DZs identified by ILAM may serve as a critical substrate for AF and targeting these regions as an adjunct to PVI could improve procedural success especially in PAF.",
-    "summary": "# Plain-Language Summary\n\nResearchers found that patients with atrial fibrillation who had slow conduction zones in their hearts were more likely to have arrhythmia recurrence even after ablation treatment, suggesting these zones represent important targets for the procedure. Adding ablation of these slow conduction zones to standard pulmonary vein isolation improved outcomes, though patients with these zones still had lower success rates overall."
+    "hot": false
   },
   {
-    "title": "Hemolysis and Renal Outcomes After Pulsed Field Versus Thermal Ablation for Atrial Fibrillation: A Meta\u2010Analysis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70225?af=R",
-    "doi": "10.1111/pace.70225",
-    "journal": "PACE",
-    "date": "Mar 27, 2026",
-    "date_ts": 1774615074.0,
+    "title": "Finerenone, New-Onset Atrial Fibrillation, and Prognosis in HFpEF/HFmrEF",
+    "link": "https://doi.org/10.1001/jamacardio.2025.4575",
+    "doi": "10.1001/jamacardio.2025.4575",
+    "journal": "JAMA Cardiology",
+    "date": "Mar 25, 2026",
+    "date_ts": 1774396800.0,
     "tags": [
       "AFib"
     ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Purpose\n                    Evaluate the comparative risk of hemolysis and acute kidney injury (AKI) with pulsed field ablation (PFA) versus thermal ablation (TA) for atrial fibrillation.\n                  \n                  \n                    Methods\n                    Databases were searched through June 2025 for comparative studies reporting hemolysis markers or renal outcomes. Random\u2010effects models estimated risk ratios (RRs) and mean differences (MDs).\n                  \n                  \n                    Results\n                    \n                      Eight studies (\n                      n\n                      \u00a0=\u00a04307) were included. Compared with TA, PFA was not associated with a statistically significant increase in AKI (RR 2.00, 95% CI 0.5\u20137.9) or change in creatinine (MD 0.02\u00a0mg/dL,\n                      p\n                      \u00a0=\u00a00.10). PFA was associated with higher LDH (MD +72\u00a0U/L\n                      p\n                      \u00a0&lt;\u00a00.001) and lower haptoglobin (MD \u22120.60\u00a0g/L\n                      p\u00a0\n                      &lt;\u00a00.001).\n                    \n                  \n                  \n                    Conclusions\n                    PFA may be associated with greater biochemical hemolysis than TA; however, no statistically significant difference in AKI or post\u2010procedural creatinine was observed in pooled analyses.",
-    "summary": "# Plain-Language Summary\n\nPulsed field ablation (PFA) shows some signs of causing more red blood cell breakdown than traditional thermal ablation when treating atrial fibrillation, but this did not translate into actual kidney damage or clinically meaningful differences in kidney function between the two procedures."
-  },
-  {
-    "title": "Optimization of Cryoablation Catheter\u2013Tissue Contact Using the Contact Index",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70235?af=R",
-    "doi": "10.1111/pace.70235",
-    "journal": "PACE",
-    "date": "Mar 27, 2026",
-    "date_ts": 1774615021.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Cryoablation is widely used for septal paroxysmal supraventricular tachycardia because of its lower risk of atrioventricular block; however, real\u2010time quantitative assessment of catheter\u2013tissue contact is limited.\n                  \n                  \n                    Methods and Results\n                    We describe a modified configuration enabling visualization of the contact index (CI) during cryoablation with the Freezor Xtra catheter, supported by in vitro validation and two clinical cases. In vitro testing demonstrated progressive CI elevation with decreasing catheter\u2013tissue distance. Successful lesions were achieved at CI values of approximately 20%\u201325%. CI increased despite minimal electrogram changes and correlated with tissue proximity.\n                  \n                  \n                    Conclusion\n                    CI\u2010guided cryoablation is feasible and may improve contact assessment during septal ablation.",
-    "summary": "# Plain Language Summary\n\nResearchers developed a way to measure how well a freezing catheter makes contact with heart tissue during a specific type of heart rhythm procedure, which could help doctors perform these treatments more effectively. Testing showed this contact measurement reliably indicates proper positioning and successful treatment, even when other traditional monitoring methods don't show obvious changes."
+    "hot": false
   }
 ]
