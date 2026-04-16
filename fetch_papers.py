@@ -1635,7 +1635,8 @@ def render_html(papers: list[dict]) -> str:
   // ── Stars (Supabase) ──
   async function loadStars() {{
     if (!sb || !currentUser) return;
-    const {{ data }} = await sb.from('starred_articles').select('paper_link_id');
+    const {{ data, error }} = await sb.from('starred_articles').select('paper_link_id');
+    if (error) {{ console.error('Load stars error:', error); return; }}
     userStars = new Set((data || []).map(r => r.paper_link_id));
     applyStars();
   }}
@@ -1659,16 +1660,18 @@ def render_html(papers: list[dict]) -> str:
     if (!sb) return;
     if (userStars.has(id)) {{
       userStars.delete(id);
-      await sb.from('starred_articles').delete()
+      const {{ error }} = await sb.from('starred_articles').delete()
         .eq('user_id', currentUser.id).eq('paper_link_id', id);
+      if (error) {{ alert('Could not unstar: ' + error.message); userStars.add(id); }}
     }} else {{
       userStars.add(id);
       const title = btn.closest('.paper')?.querySelector('.paper-title')?.textContent || '';
-      await sb.from('starred_articles').insert({{
+      const {{ error }} = await sb.from('starred_articles').insert({{
         user_id: currentUser.id,
         paper_link_id: id,
         paper_title: title,
       }});
+      if (error) {{ alert('Could not star: ' + error.message); userStars.delete(id); }}
     }}
     applyStars();
   }}
