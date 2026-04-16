@@ -1,5 +1,20 @@
 [
   {
+    "title": "Cardiac resynchronization therapy with or without atrioventricular node ablation in atrial fibrillation: the CAAN-AF trial",
+    "link": "https://doi.org/10.1093/eurheartj/ehag206",
+    "doi": "10.1093/eurheartj/ehag206",
+    "journal": "European Heart Journal",
+    "date": "Apr 16, 2026",
+    "date_ts": 1776297600.0,
+    "tags": [
+      "AFib",
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Patients with heart failure with reduced ejection fraction (HFrEF) derive less benefit from cardiac resynchronization therapy (CRT) if they have coexisting atrial fibrillation (AF). Observational data suggest that atrioventricular node ablation (AVNA) may enhance CRT efficacy in this population. This trial aimed to evaluate the effect of AVNA compared with medical rate control therapy (MRCT) on CRT outcomes in patients with HFrEF and permanent AF.\n                  \n                  \n                    Methods\n                    The CAAN-AF trial was an international, prospective, multicentre, randomized controlled trial evaluating the impact of AVNA in patients with HFrEF, permanent AF, and CRT-defibrillators (CRT-D). Participants were randomly assigned (1:1) to AVNA or MRCT targeting a resting heart rate &amp;lt;90 bpm. All participants received device optimization. The primary endpoint was a composite of all-cause mortality and nonfatal heart failure events. Secondary endpoints included cardiovascular mortality, unplanned hospitalizations, ventricular arrhythmias requiring device therapy, 6-min walk distance (6MWD), and quality of life.\n                  \n                  \n                    Results\n                    With early termination of the trial due to futility, a total of 143 patients were randomized (67 to AVNA, 76 to MRCT). Baseline characteristics were similar across groups. No significant difference was found in the primary endpoint [47 vs. 46 events; incident rate ratio (IRR), 1.16; 95% confidence interval (CI), 0.60\u20132.24]. Secondary outcomes, including cardiovascular mortality (odds ratio, 1.93; 95% CI 0.60\u20136.20), unplanned hospitalizations (IRR, 1.01; 95% CI 0.71\u20131.74), ventricular arrhythmias requiring device therapy (IRR, 0.68; 95% CI 0.17\u20132.63), 6MWD, and SF-36 scores, also showed no significant differences.\n                  \n                  \n                    Conclusions\n                    This randomized trial of patients with permanent AF and CRT-D found no evidence of a reduction in all-cause mortality and nonfatal heart failure events with AVNA compared with MRCT.\n                  \n                  \n                    Trial Registration\n                    NCT01522898.",
+    "summary": "# Plain-Language Summary\n\nIn heart failure patients with atrial fibrillation who have pacemakers, ablating the heart's electrical conduction system (AVNA) did not improve outcomes compared to controlling heart rate with medication alone. Both groups had similar rates of death, hospital admissions, and quality of life measures."
+  },
+  {
     "title": "Enhanced Detection and Prompt Diagnosis of Atrial Fibrillation Using Apple Watch: A Randomized Controlled Trial",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109725103379?dgcid=rss_sd_all",
     "doi": null,
@@ -6268,17 +6283,5 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Cryoablation is widely used for septal paroxysmal supraventricular tachycardia because of its lower risk of atrioventricular block; however, real\u2010time quantitative assessment of catheter\u2013tissue contact is limited.\n                  \n                  \n                    Methods and Results\n                    We describe a modified configuration enabling visualization of the contact index (CI) during cryoablation with the Freezor Xtra catheter, supported by in vitro validation and two clinical cases. In vitro testing demonstrated progressive CI elevation with decreasing catheter\u2013tissue distance. Successful lesions were achieved at CI values of approximately 20%\u201325%. CI increased despite minimal electrogram changes and correlated with tissue proximity.\n                  \n                  \n                    Conclusion\n                    CI\u2010guided cryoablation is feasible and may improve contact assessment during septal ablation.",
     "summary": "# Plain Language Summary\n\nResearchers developed a way to measure how well a freezing catheter makes contact with heart tissue during a specific type of heart rhythm procedure, which could help doctors perform these treatments more effectively. Testing showed this contact measurement reliably indicates proper positioning and successful treatment, even when other traditional monitoring methods don't show obvious changes."
-  },
-  {
-    "title": "Efficiency of Exclusive Remote Monitoring in Pacemaker Follow\u2010Up",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70219?af=R",
-    "doi": "10.1111/pace.70219",
-    "journal": "PACE",
-    "date": "Mar 27, 2026",
-    "date_ts": 1774614380.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
   }
 ]
