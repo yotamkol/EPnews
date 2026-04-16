@@ -1683,12 +1683,23 @@ def render_html(papers: list[dict]) -> str:
     if (!sb) {{ alert('Discussion requires Supabase to be configured.'); return; }}
     currentDiscussionPaperId = paperId;
     replyParentId = null;
+
+    // Reset panel content
+    document.getElementById('discussion-comments').innerHTML = '<p class="no-comments">Loading...</p>';
+    document.getElementById('comment-input').value = '';
+    document.getElementById('reply-indicator').style.display = 'none';
+
     const panel = document.getElementById('discussion-panel');
     panel.classList.add('open');
 
     // Set title from paper
-    const paper = document.querySelector(`.paper[data-id="${{paperId}}"]`);
-    const title = paper?.querySelector('.paper-title')?.textContent || 'Discussion';
+    const papers = document.querySelectorAll('.paper');
+    let title = 'Discussion';
+    papers.forEach(p => {{
+      if (p.dataset.id === paperId) {{
+        title = p.querySelector('.paper-title')?.textContent || 'Discussion';
+      }}
+    }});
     document.getElementById('discussion-title').textContent = title;
 
     // Show form only if logged in
