@@ -553,8 +553,10 @@ def summarize_abstracts(papers: list[dict]):
                     "model": "claude-haiku-4-5-20251001",
                     "max_tokens": 150,
                     "messages": [{"role": "user", "content":
-                        f"Summarize this medical research abstract in 1-2 plain-language sentences. "
-                        f"Be concise and focus on the key finding:\n\n{paper['abstract']}"
+                        f"Summarize this medical research abstract in 1-2 sentences for a physician audience. "
+                        f"Include study type (RCT, retrospective, meta-analysis, etc.), sample size if available, "
+                        f"intervention/exposure, and key result. Be concise and scientific. "
+                        f"Do not add any heading or label.\n\n{paper['abstract']}"
                     }],
                 },
                 timeout=15,
@@ -1681,12 +1683,23 @@ def render_html(papers: list[dict]) -> str:
     if (!sb) {{ alert('Discussion requires Supabase to be configured.'); return; }}
     currentDiscussionPaperId = paperId;
     replyParentId = null;
+
+    // Reset panel content
+    document.getElementById('discussion-comments').innerHTML = '<p class="no-comments">Loading...</p>';
+    document.getElementById('comment-input').value = '';
+    document.getElementById('reply-indicator').style.display = 'none';
+
     const panel = document.getElementById('discussion-panel');
     panel.classList.add('open');
 
     // Set title from paper
-    const paper = document.querySelector(`.paper[data-id="${{paperId}}"]`);
-    const title = paper?.querySelector('.paper-title')?.textContent || 'Discussion';
+    const papers = document.querySelectorAll('.paper');
+    let title = 'Discussion';
+    papers.forEach(p => {{
+      if (p.dataset.id === paperId) {{
+        title = p.querySelector('.paper-title')?.textContent || 'Discussion';
+      }}
+    }});
     document.getElementById('discussion-title').textContent = title;
 
     // Show form only if logged in
@@ -1787,30 +1800,42 @@ def render_html(papers: list[dict]) -> str:
     const body = input.value.trim();
     if (!body) return;
 
-    // Get discussion id
-    let {{ data: disc }} = await sb.from('discussions')
-      .select('id').eq('paper_link_id', currentDiscussionPaperId).maybeSingle();
+    try {{
+      // Get discussion id
+      let {{ data: disc, error: discErr }} = await sb.from('discussions')
+        .select('id').eq('paper_link_id', currentDiscussionPaperId).maybeSingle();
 
-    if (!disc) {{
-      const {{ data: newDisc }} = await sb.from('discussions')
-        .insert({{ paper_link_id: currentDiscussionPaperId }}).select('id').single();
-      disc = newDisc;
+      if (discErr) {{
+        console.error('Discussion query error:', discErr);
+      }}
+
+      if (!disc) {{
+        const {{ data: newDisc, error: createErr }} = await sb.from('discussions')
+          .insert({{ paper_link_id: currentDiscussionPaperId }}).select('id').single();
+        if (createErr) {{
+          alert('Could not create discussion: ' + createErr.message);
+          return;
+        }}
+        disc = newDisc;
+      }}
+      if (!disc) {{ alert('Could not find or create discussion.'); return; }}
+
+      const {{ error }} = await sb.from('comments').insert({{
+        discussion_id: disc.id,
+        parent_id: replyParentId || null,
+        user_id: currentUser.id,
+        user_email: displayName || currentUser.email,
+        body: body,
+      }});
+      if (error) {{ alert('Could not post comment: ' + error.message); return; }}
+
+      input.value = '';
+      cancelReply();
+      await loadCommentCounts();
+      openDiscussion(currentDiscussionPaperId);
+    }} catch (e) {{
+      alert('Error: ' + e.message);
     }}
-    if (!disc) return;
-
-    const {{ error }} = await sb.from('comments').insert({{
-      discussion_id: disc.id,
-      parent_id: replyParentId || null,
-      user_id: currentUser.id,
-      user_email: displayName || currentUser.email,
-      body: body,
-    }});
-    if (error) {{ console.error('Comment error:', error); return; }}
-
-    input.value = '';
-    cancelReply();
-    await loadCommentCounts();
-    openDiscussion(currentDiscussionPaperId);
   }}
 
   async function loadCommentCounts() {{
