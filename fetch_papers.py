@@ -502,16 +502,57 @@ def fetch_hot_scores(papers: list[dict]) -> list[dict]:
 # ABSTRACTS & SUMMARIES
 # ─────────────────────────────────────────────
 
+def fetch_abstract_pubmed(doi):
+    """Fetch abstract from PubMed using DOI lookup."""
+    try:
+        # Step 1: Convert DOI to PubMed ID
+        resp = requests.get(
+            "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi",
+            params={"db": "pubmed", "term": f"{doi}[doi]", "retmode": "json"},
+            timeout=10,
+        )
+        if resp.status_code != 200:
+            return None
+        ids = resp.json().get("esearchresult", {}).get("idlist", [])
+        if not ids:
+            return None
+        pmid = ids[0]
+
+        # Step 2: Fetch abstract using PubMed ID
+        resp = requests.get(
+            "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+            params={"db": "pubmed", "id": pmid, "rettype": "abstract", "retmode": "xml"},
+            timeout=10,
+        )
+        if resp.status_code != 200:
+            return None
+        # Extract abstract text from XML
+        match = re.search(r"<AbstractText[^>]*>(.*?)</AbstractText>", resp.text, re.DOTALL)
+        if match:
+            abstract = re.sub(r"<[^>]+>", "", match.group(1)).strip()
+            return abstract if abstract else None
+        # Some abstracts have multiple sections
+        sections = re.findall(r"<AbstractText[^>]*>(.*?)</AbstractText>", resp.text, re.DOTALL)
+        if sections:
+            abstract = " ".join(re.sub(r"<[^>]+>", "", s).strip() for s in sections)
+            return abstract if abstract else None
+        return None
+    except Exception:
+        return None
+
+
 def fetch_abstracts(papers: list[dict]):
-    """Fetch abstracts from CrossRef for papers that have a DOI."""
+    """Fetch abstracts from CrossRef, then PubMed as fallback."""
     import time
-    fetched = 0
+    crossref_count = 0
+    pubmed_count = 0
     for paper in papers:
         if paper.get("abstract"):
             continue
         doi = paper.get("doi")
         if not doi:
             continue
+        # Try CrossRef first
         try:
             resp = requests.get(
                 f"https://api.crossref.org/works/{doi}",
@@ -520,15 +561,22 @@ def fetch_abstracts(papers: list[dict]):
             )
             if resp.status_code == 200:
                 abstract = resp.json().get("message", {}).get("abstract", "")
-                # CrossRef returns JATS XML; strip tags
                 abstract = re.sub(r"<[^>]+>", "", abstract).strip()
                 if abstract:
                     paper["abstract"] = abstract
-                    fetched += 1
+                    crossref_count += 1
+                    time.sleep(0.3)
+                    continue
             time.sleep(0.3)
         except Exception:
             pass
-    print(f"[info] Fetched {fetched} abstracts from CrossRef")
+        # Fallback: PubMed
+        abstract = fetch_abstract_pubmed(doi)
+        if abstract:
+            paper["abstract"] = abstract
+            pubmed_count += 1
+        time.sleep(0.3)
+    print(f"[info] Fetched {crossref_count} abstracts from CrossRef, {pubmed_count} from PubMed")
 
 
 def summarize_abstracts(papers: list[dict]):
