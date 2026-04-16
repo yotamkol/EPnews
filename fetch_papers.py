@@ -505,7 +505,6 @@ def fetch_hot_scores(papers: list[dict]) -> list[dict]:
 def fetch_abstract_pubmed(doi):
     """Fetch abstract from PubMed using DOI lookup."""
     try:
-        # Step 1: Convert DOI to PubMed ID
         resp = requests.get(
             "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi",
             params={"db": "pubmed", "term": f"{doi}[doi]", "retmode": "json"},
@@ -517,8 +516,6 @@ def fetch_abstract_pubmed(doi):
         if not ids:
             return None
         pmid = ids[0]
-
-        # Step 2: Fetch abstract using PubMed ID
         resp = requests.get(
             "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
             params={"db": "pubmed", "id": pmid, "rettype": "abstract", "retmode": "xml"},
@@ -526,12 +523,6 @@ def fetch_abstract_pubmed(doi):
         )
         if resp.status_code != 200:
             return None
-        # Extract abstract text from XML
-        match = re.search(r"<AbstractText[^>]*>(.*?)</AbstractText>", resp.text, re.DOTALL)
-        if match:
-            abstract = re.sub(r"<[^>]+>", "", match.group(1)).strip()
-            return abstract if abstract else None
-        # Some abstracts have multiple sections
         sections = re.findall(r"<AbstractText[^>]*>(.*?)</AbstractText>", resp.text, re.DOTALL)
         if sections:
             abstract = " ".join(re.sub(r"<[^>]+>", "", s).strip() for s in sections)
@@ -541,17 +532,60 @@ def fetch_abstract_pubmed(doi):
         return None
 
 
+def fetch_abstract_semantic_scholar(doi):
+    """Fetch abstract from Semantic Scholar API."""
+    try:
+        resp = requests.get(
+            f"https://api.semanticscholar.org/graph/v1/paper/DOI:{doi}",
+            params={"fields": "abstract"},
+            timeout=10,
+        )
+        if resp.status_code == 200:
+            abstract = resp.json().get("abstract", "")
+            return abstract.strip() if abstract else None
+        return None
+    except Exception:
+        return None
+
+
+def fetch_abstract_openalex(doi):
+    """Fetch abstract from OpenAlex API (reconstructed from inverted index)."""
+    try:
+        resp = requests.get(
+            f"https://api.openalex.org/works/doi:{doi}",
+            params={"mailto": "ep-feed@example.com"},
+            timeout=10,
+        )
+        if resp.status_code != 200:
+            return None
+        data = resp.json()
+        inverted = data.get("abstract_inverted_index")
+        if not inverted:
+            return None
+        # Reconstruct abstract from inverted index
+        words = {}
+        for word, positions in inverted.items():
+            for pos in positions:
+                words[pos] = word
+        if not words:
+            return None
+        abstract = " ".join(words[i] for i in sorted(words.keys()))
+        return abstract.strip() if abstract else None
+    except Exception:
+        return None
+
+
 def fetch_abstracts(papers: list[dict]):
-    """Fetch abstracts from CrossRef, then PubMed as fallback."""
+    """Fetch abstracts from CrossRef, Semantic Scholar, OpenAlex, and PubMed."""
     import time
-    crossref_count = 0
-    pubmed_count = 0
+    counts = {"crossref": 0, "semantic_scholar": 0, "openalex": 0, "pubmed": 0}
     for paper in papers:
         if paper.get("abstract"):
             continue
         doi = paper.get("doi")
         if not doi:
             continue
+
         # Try CrossRef first
         try:
             resp = requests.get(
@@ -564,19 +598,42 @@ def fetch_abstracts(papers: list[dict]):
                 abstract = re.sub(r"<[^>]+>", "", abstract).strip()
                 if abstract:
                     paper["abstract"] = abstract
-                    crossref_count += 1
+                    counts["crossref"] += 1
                     time.sleep(0.3)
                     continue
-            time.sleep(0.3)
         except Exception:
             pass
-        # Fallback: PubMed
+        time.sleep(0.3)
+
+        # Fallback 1: Semantic Scholar
+        abstract = fetch_abstract_semantic_scholar(doi)
+        if abstract:
+            paper["abstract"] = abstract
+            counts["semantic_scholar"] += 1
+            time.sleep(0.3)
+            continue
+        time.sleep(0.3)
+
+        # Fallback 2: OpenAlex
+        abstract = fetch_abstract_openalex(doi)
+        if abstract:
+            paper["abstract"] = abstract
+            counts["openalex"] += 1
+            time.sleep(0.3)
+            continue
+        time.sleep(0.3)
+
+        # Fallback 3: PubMed
         abstract = fetch_abstract_pubmed(doi)
         if abstract:
             paper["abstract"] = abstract
-            pubmed_count += 1
+            counts["pubmed"] += 1
         time.sleep(0.3)
-    print(f"[info] Fetched {crossref_count} abstracts from CrossRef, {pubmed_count} from PubMed")
+
+    total = sum(counts.values())
+    print(f"[info] Fetched {total} abstracts (CrossRef: {counts['crossref']}, "
+          f"Semantic Scholar: {counts['semantic_scholar']}, "
+          f"OpenAlex: {counts['openalex']}, PubMed: {counts['pubmed']})")
 
 
 def summarize_abstracts(papers: list[dict]):
@@ -1578,7 +1635,8 @@ def render_html(papers: list[dict]) -> str:
   // ── Stars (Supabase) ──
   async function loadStars() {{
     if (!sb || !currentUser) return;
-    const {{ data }} = await sb.from('starred_articles').select('paper_link_id');
+    const {{ data, error }} = await sb.from('starred_articles').select('paper_link_id');
+    if (error) {{ console.error('Load stars error:', error); return; }}
     userStars = new Set((data || []).map(r => r.paper_link_id));
     applyStars();
   }}
@@ -1602,16 +1660,18 @@ def render_html(papers: list[dict]) -> str:
     if (!sb) return;
     if (userStars.has(id)) {{
       userStars.delete(id);
-      await sb.from('starred_articles').delete()
+      const {{ error }} = await sb.from('starred_articles').delete()
         .eq('user_id', currentUser.id).eq('paper_link_id', id);
+      if (error) {{ alert('Could not unstar: ' + error.message); userStars.add(id); }}
     }} else {{
       userStars.add(id);
       const title = btn.closest('.paper')?.querySelector('.paper-title')?.textContent || '';
-      await sb.from('starred_articles').insert({{
+      const {{ error }} = await sb.from('starred_articles').insert({{
         user_id: currentUser.id,
         paper_link_id: id,
         paper_title: title,
       }});
+      if (error) {{ alert('Could not star: ' + error.message); userStars.delete(id); }}
     }}
     applyStars();
   }}
