@@ -2120,7 +2120,10 @@ def main():
     papers_file = Path("papers.json")
     all_papers = []
     if papers_file.exists():
-        all_papers = json.loads(papers_file.read_text())
+        try:
+            all_papers = json.loads(papers_file.read_text())
+        except (json.JSONDecodeError, ValueError):
+            all_papers = []
         for p in all_papers:
             p.setdefault("hot", False)
 
