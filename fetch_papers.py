@@ -185,7 +185,6 @@ SUPABASE_URL       = os.environ.get("SUPABASE_URL", "")
 SUPABASE_ANON_KEY  = os.environ.get("SUPABASE_ANON_KEY", "")
 ANTHROPIC_API_KEY  = os.environ.get("ANTHROPIC_API_KEY", "")
 ELSEVIER_API_KEY   = os.environ.get("ELSEVIER_API_KEY", "")
-SPRINGER_API_KEY   = os.environ.get("SPRINGER_API_KEY", "")
 
 
 # ─────────────────────────────────────────────
@@ -526,27 +525,6 @@ def fetch_abstract_elsevier(doi):
         return None
 
 
-def fetch_abstract_springer(doi):
-    """Fetch abstract from Springer Nature Metadata API."""
-    if not SPRINGER_API_KEY:
-        return None
-    try:
-        resp = requests.get(
-            "https://api.springernature.com/meta/v2/json",
-            params={"q": f"doi:{doi}", "api_key": SPRINGER_API_KEY},
-            timeout=10,
-        )
-        if resp.status_code == 200:
-            records = resp.json().get("records", [])
-            if records:
-                abstract = records[0].get("abstract", "")
-                if abstract:
-                    return re.sub(r"<[^>]+>", "", abstract).strip()
-        return None
-    except Exception:
-        return None
-
-
 def fetch_abstract_pubmed(doi):
     """Fetch abstract from PubMed using DOI lookup."""
     try:
@@ -623,7 +601,7 @@ def fetch_abstract_openalex(doi):
 def fetch_abstracts(papers: list[dict]):
     """Fetch abstracts from CrossRef, Semantic Scholar, OpenAlex, and PubMed."""
     import time
-    counts = {"crossref": 0, "elsevier": 0, "springer": 0,
+    counts = {"crossref": 0, "elsevier": 0,
               "semantic_scholar": 0, "openalex": 0, "pubmed": 0}
     for paper in papers:
         if paper.get("abstract"):
@@ -660,16 +638,7 @@ def fetch_abstracts(papers: list[dict]):
             continue
         time.sleep(0.3)
 
-        # Fallback 2: Springer Nature API
-        abstract = fetch_abstract_springer(doi)
-        if abstract:
-            paper["abstract"] = abstract
-            counts["springer"] += 1
-            time.sleep(0.3)
-            continue
-        time.sleep(0.3)
-
-        # Fallback 3: Semantic Scholar
+        # Fallback 2: Semantic Scholar
         abstract = fetch_abstract_semantic_scholar(doi)
         if abstract:
             paper["abstract"] = abstract
@@ -678,7 +647,7 @@ def fetch_abstracts(papers: list[dict]):
             continue
         time.sleep(0.3)
 
-        # Fallback 4: OpenAlex
+        # Fallback 3: OpenAlex
         abstract = fetch_abstract_openalex(doi)
         if abstract:
             paper["abstract"] = abstract
@@ -687,7 +656,7 @@ def fetch_abstracts(papers: list[dict]):
             continue
         time.sleep(0.3)
 
-        # Fallback 5: PubMed
+        # Fallback 4: PubMed
         abstract = fetch_abstract_pubmed(doi)
         if abstract:
             paper["abstract"] = abstract
@@ -696,7 +665,7 @@ def fetch_abstracts(papers: list[dict]):
 
     total = sum(counts.values())
     print(f"[info] Fetched {total} abstracts (CrossRef: {counts['crossref']}, "
-          f"Elsevier: {counts['elsevier']}, Springer: {counts['springer']}, "
+          f"Elsevier: {counts['elsevier']}, "
           f"Semantic Scholar: {counts['semantic_scholar']}, "
           f"OpenAlex: {counts['openalex']}, PubMed: {counts['pubmed']})")
 

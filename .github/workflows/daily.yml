@@ -34,7 +34,6 @@ jobs:
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ELSEVIER_API_KEY:  ${{ secrets.ELSEVIER_API_KEY }}
-          SPRINGER_API_KEY:  ${{ secrets.SPRINGER_API_KEY }}
         run: python fetch_papers.py
 
       - name: Commit updated files
