@@ -1789,30 +1789,42 @@ def render_html(papers: list[dict]) -> str:
     const body = input.value.trim();
     if (!body) return;
 
-    // Get discussion id
-    let {{ data: disc }} = await sb.from('discussions')
-      .select('id').eq('paper_link_id', currentDiscussionPaperId).maybeSingle();
+    try {{
+      // Get discussion id
+      let {{ data: disc, error: discErr }} = await sb.from('discussions')
+        .select('id').eq('paper_link_id', currentDiscussionPaperId).maybeSingle();
 
-    if (!disc) {{
-      const {{ data: newDisc }} = await sb.from('discussions')
-        .insert({{ paper_link_id: currentDiscussionPaperId }}).select('id').single();
-      disc = newDisc;
+      if (discErr) {{
+        console.error('Discussion query error:', discErr);
+      }}
+
+      if (!disc) {{
+        const {{ data: newDisc, error: createErr }} = await sb.from('discussions')
+          .insert({{ paper_link_id: currentDiscussionPaperId }}).select('id').single();
+        if (createErr) {{
+          alert('Could not create discussion: ' + createErr.message);
+          return;
+        }}
+        disc = newDisc;
+      }}
+      if (!disc) {{ alert('Could not find or create discussion.'); return; }}
+
+      const {{ error }} = await sb.from('comments').insert({{
+        discussion_id: disc.id,
+        parent_id: replyParentId || null,
+        user_id: currentUser.id,
+        user_email: displayName || currentUser.email,
+        body: body,
+      }});
+      if (error) {{ alert('Could not post comment: ' + error.message); return; }}
+
+      input.value = '';
+      cancelReply();
+      await loadCommentCounts();
+      openDiscussion(currentDiscussionPaperId);
+    }} catch (e) {{
+      alert('Error: ' + e.message);
     }}
-    if (!disc) return;
-
-    const {{ error }} = await sb.from('comments').insert({{
-      discussion_id: disc.id,
-      parent_id: replyParentId || null,
-      user_id: currentUser.id,
-      user_email: displayName || currentUser.email,
-      body: body,
-    }});
-    if (error) {{ console.error('Comment error:', error); return; }}
-
-    input.value = '';
-    cancelReply();
-    await loadCommentCounts();
-    openDiscussion(currentDiscussionPaperId);
   }}
 
   async function loadCommentCounts() {{
