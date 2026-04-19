@@ -1,5 +1,102 @@
 [
   {
+    "title": "Aortic root\u2013based ablation of para-hisian atrial tachycardia: Acute and long-term outcomes from a consecutive series.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001765?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 19, 2026",
+    "date_ts": 1776561934.054469,
+    "tags": [
+      "AFib",
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "An Irregular Narrow QRS Tachycardia Mimicking Atrial Fibrillation: The Importance of Preprocedural Diagnosis in the Era of Pulsed Field Ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001753?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 19, 2026",
+    "date_ts": 1776561934.054417,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulse field ablation induces non-apoptotic cardiomyocyte death <em>in vitro</em> accompanied by thermal effects",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022678?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 19, 2026",
+    "date_ts": 1776561933.943455,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed Field Ablation with a Pentaspline Catheter and Concomitant Left Atrial Appendage Closure for Long-Standing Persistent Atrial Fibrillation: Comparison with a Radiofrequency Cohort",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602268X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 19, 2026",
+    "date_ts": 1776561933.943416,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Patterns of Antithrombotic Treatment after Left Atrial Appendage Occlusion",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022691?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 19, 2026",
+    "date_ts": 1776561933.94338,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Outcomes of Cardiac Resynchronization Therapy in Adults with Congenital Heart Disease and Heart Failure with Reduced Ejection Fraction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022654?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 19, 2026",
+    "date_ts": 1776561933.943332,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of Age and Diagnosis-to-Ablation Time on Sex Differences in 12-Month Outcomes After Catheter Ablation for Atrial Fibrillation: An admIRE Subanalysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022666?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 19, 2026",
+    "date_ts": 1776561933.943288,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Direct Oral Anticoagulants Versus Dual Antiplatelet Therapy Following Left Atrial Appendage Closure in Atrial Fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022708?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 19, 2026",
+    "date_ts": 1776561933.943137,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Caveolae Create Pacemaker Clock Protein Nanodomains to Keep the Beat",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002252?dgcid=rss_sd_all",
     "doi": null,
@@ -6179,114 +6276,14 @@
     "summary": "This retrospective/case series review describes Purkinje de-networking (PDN) as a rescue ablation strategy for drug-refractory ventricular fibrillation storm in subacute myocardial infarction patients, where Purkinje fiber activity triggered by PVCs from ischemic but viable tissue drives arrhythmia initiation and maintenance, requiring individualized rather than anatomic approaches. The mechanism-based intervention targets the pathophysiology distinct from idiopathic VF, offering a potential solution when pharmacotherapy fails in this high-risk post-MI population."
   },
   {
-    "title": "Ultra-high-frequency electrocardiography guided cardiac resynchronization therapy in a patient with an ambiguous electrocardiogram",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.01.023",
-    "doi": "10.1016/j.hrcr.2026.01.023",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Workflow for removal of dislodged leadless pacemaker from distal pulmonary artery: A case report",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.01.008",
-    "doi": "10.1016/j.hrcr.2026.01.008",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "Leadless pacemaker (LP) implantation and its adoption are becoming increasingly mainstream1. The Abbott Aveir VR single-chamber pacemaker was approved for use in April 2022 by the FDA.2 As implantations increase, rare complications such as dislodgement of these pacemakers may occur. LPs are implanted percutaneously through femoral venous access and provide self-contained, intracardiac single-chamber right ventricular (RV) pacing. Device dislodgement rates of 1.7% were reported in the Leadless II trial at six months of follow up.",
-    "summary": "This retrospective case series describes rare dislodgement complications of the Abbott Aveir VR leadless pacemaker following FDA approval in 2022, with historical dislodgement rates of 1.7% reported at six months in the Leadless II trial. The authors highlight the clinical significance of monitoring for this complication as percutaneous femoral implantation of these self-contained intracardiac devices becomes more widespread."
-  },
-  {
-    "title": "A safety consideration in EP lab: Dramatic prolongation of adenosine induced AV-block in presence of ticagrelor",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.03.022",
-    "doi": "10.1016/j.hrcr.2026.03.022",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Guidewire Entrapment in Pulmonary Veins During Pulsed Field Ablation of Atrial Fibrillation: A Case Series",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.04.002",
-    "doi": "10.1016/j.hrcr.2026.04.002",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
+    "title": "Higher Daily Temperature Is Associated With Prolonged Device-Detected Atrial Fibrillation Episodes",
+    "link": "https://doi.org/10.1161/circep.125.014307",
+    "doi": "10.1161/circep.125.014307",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Dec 01, 2025",
+    "date_ts": 1764547200.0,
     "tags": [
       "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pacemaker implant and programming challenges in a young patient with painful left bundle branch block syndrome",
-    "link": "https://doi.org/10.1016/j.hrcr.2025.12.006",
-    "doi": "10.1016/j.hrcr.2025.12.006",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sensing Challenges in Patients with Cardiac Amyloidosis and Subcutaneous Implantable Cardioverter Defibrillators",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.04.008",
-    "doi": "10.1016/j.hrcr.2026.04.008",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Novel Presentation of SLC30A6 Mutation-Mediated Cardiac Conduction Disease in the Neonate",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.03.027",
-    "doi": "10.1016/j.hrcr.2026.03.027",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Contained pulmonary vein injury presenting as a hemorrhagic bulla post\u2013pulsed field ablation: A case report",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.03.007",
-    "doi": "10.1016/j.hrcr.2026.03.007",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "deeply advanced guidewires enter small or early-branching pulmonary veins.",
-    "summary": "I need the full abstract text to provide an accurate summary with the requested details (study type, sample size, intervention, and key results). The text you've provided appears to be incomplete\u2014it seems to be only a fragment describing guidewire behavior rather than a complete research abstract. Could you please share the full abstract?"
-  },
-  {
-    "title": "Idiopathic left posterior fascicular ventricular tachycardia in a military tactical athlete",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.01.014",
-    "doi": "10.1016/j.hrcr.2026.01.014",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "VT"
     ],
     "hot": false
   }
