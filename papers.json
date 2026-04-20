@@ -1,5 +1,73 @@
 [
   {
+    "title": "Effects of Pacing Sites on Substrate Mapping Using Decrement-Evoked Potential Mapping for Scar-Related Ventricular Tachycardia",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022824?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 20, 2026",
+    "date_ts": 1776648308.033899,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "PFA Under Deep Sedation and Non\u2010Invasive Monitoring in Atrial Fibrillation Patients With Obstructive Sleep Apnea",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70260?af=R",
+    "doi": "10.1111/pace.70260",
+    "journal": "PACE",
+    "date": "Apr 19, 2026",
+    "date_ts": 1776579252.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Clinical data about pulsed field ablation (PFA) under deep sedation among patients with obstructive sleep apnea (OSA) are limited, while the optimal periprocedural monitoring is not established. We report our experience in PFA among patients with atrial fibrillation (AF) and OSA, using a continuous non\u2010invasive respiratory and hemodynamic monitoring protocol.\n                  \n                  \n                    Methods\n                    A total of 32 patients with AF suffering from OSA (mean age 68.5 \u00b19 years, 31% female) were compared with 60 consecutive patients without OSA. The monitoring protocol comprised continuous beat\u2010to\u2010beat blood pressure recording via an infrared light system and near\u2010infrared spectroscopy for both cerebral and peripheral tissue oximetry. The Acumen Hypotension Prediction Index (HPI) that detects hypotensive trending was also assessed.\n                  \n                  \n                    Results\n                    Three of the patients with OSA (9%) and four of the controls (6%) developed transient decrease of cerebral saturation during induction to deep sedation, early detected and effectively managed with airway manoeuvres and supplemental oxygen up\u2010titration. In nine patients with OSA (28%) and twenty controls (33%), increased HPI values followed by transient decrease in blood pressure were detected after induction to sedation and/or during PFA, responsive to intravenous fluids. The average time of hypotension was comparable between patients with and without OSA (2.69% vs. 3.23% of the total procedure time, respectively). No serious complications occurred.\n                  \n                  \n                    Conclusion\n                    PFA under deep sedation in patients with OSA and AF was not associated with higher incidence of adverse events compared to those without OSA. This is confirmed by a sensitive continuous non\u2010invasive monitoring protocol, which could be further evaluated by dedicated multicenter studies.",
+    "summary": "This retrospective comparative study of 32 AF patients with OSA versus 60 without OSA undergoing pulsed field ablation under deep sedation with continuous non-invasive respiratory and hemodynamic monitoring found no significant difference in adverse events between groups, with transient hypotension and cerebral desaturation occurring at similar rates and successfully managed with standard interventions."
+  },
+  {
+    "title": "Multipoint Pacing Versus Cardiac Resynchronization Therapy in Heart Failure: A Systematic Review and Meta\u2010Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70259?af=R",
+    "doi": "10.1111/pace.70259",
+    "journal": "PACE",
+    "date": "Apr 19, 2026",
+    "date_ts": 1776579014.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Multipoint pacing (MPP) delivers sequential stimuli from multiple left\u2010ventricular electrodes, potentially improving cardiac resynchronization therapy (CRT) response versus conventional biventricular pacing (BiV). We performed an updated systematic review and meta\u2010analysis to synthesize contemporary evidence.\n                  \n                  \n                    Methods\n                    Following PRISMA 2020 (PROSPERO CRD420261293273), MEDLINE, EMBASE, and CENTRAL were searched to January 2026 for comparative studies of MPP versus conventional BiV in adults receiving CRT. Primary outcomes were all\u2010cause mortality and heart failure (HF)\u2010related hospitalization. Secondary outcomes included echocardiographic response, NYHA class improvement, and absolute change in left\u2010ventricular ejection fraction (LVEF). Random\u2010effects models produced pooled odds ratios (OR) or mean differences (MD).\n                  \n                  \n                    Results\n                    \n                      Eight studies (\n                      n\n                      = 2430; 1190 MPP, 1240 BiV), including five randomized and three observational studies, were analyzed. All\u2010cause mortality showed no significant difference between groups (OR = 1.46, 95% CI 0.76\u20132.80;\n                      p\n                      = 0.25;\n                      I\n                      2\n                      = 0%). HF\u2010related hospitalization was significantly reduced with MPP in the largest trial (5.4%\u00a0vs. 8.9%;\n                      p\n                      = 0.015), corresponding to a 39% relative risk reduction. MPP was associated with significantly higher echocardiographic response (OR = 0.43, 95% CI 0.29\u20130.64;\n                      p\n                      \u00a0&lt;\u00a00.0001;\n                      I\n                      2\n                      = 0%), greater NYHA class improvement (OR = 0.38, 95% CI 0.20\u20130.73;\n                      p\n                      = 0.004;\n                      I\n                      2\n                      = 3%), and greater absolute LVEF (MD = \u22124.67, 95% CI \u22126.70 to \u22122.64;\n                      p\n                      \u00a0&lt;\u00a00.00001;\n                      I\n                      2\n                      = 0%).\n                    \n                  \n                  \n                    Conclusions\n                    Compared with conventional CRT, MPP was associated with improved functional and echocardiographic outcomes and reduced HF hospitalization, without a demonstrated mortality benefit. Larger prospective studies with longer follow\u2010up are required to assess long\u2010term prognostic effects.",
+    "summary": "This meta-analysis of 8 studies (n=2,430; 5 RCTs and 3 observational) comparing multipoint pacing to conventional biventricular pacing in CRT patients found no difference in all-cause mortality, but multipoint pacing demonstrated superior echocardiographic response, greater NYHA class improvement, larger LVEF gains, and a 39% relative risk reduction in heart failure hospitalizations. Larger prospective studies with extended follow-up are needed to determine long-term mortality effects."
+  },
+  {
+    "title": "Atrial Reverse Remodeling by Bachmann's Bundle Pacing With Improved Interatrial Dyssynchrony: Case Series",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70261?af=R",
+    "doi": "10.1111/pace.70261",
+    "journal": "PACE",
+    "date": "Apr 19, 2026",
+    "date_ts": 1776578628.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Bachmann's bundle pacing (BBp) improves interatrial conduction, but its clinical impact on atrial function has not fully established.\n                  \n                  \n                    Methods and Results\n                    We report eight cases of attempted BBp. Three cases met BBp electrocardiographic criteria with significant P\u2010wave shortening and P\u2010wave amplitude increase in the inferior leads, resulting in improved left atrial (LA) function (increased a' velocity, decreased E/e', and reduced LA diameter) and heart failure stabilization. Conversely, the remaining five cases failing to achieve significant P\u2010wave changes showed no such improvements.\n                  \n                  \n                    Conclusions\n                    Restoring interatrial conduction through successful BBp may optimize LA performance, potentially offering heart failure stabilization.",
+    "summary": "This case series of eight attempted Bachmann's bundle pacing procedures found that three cases achieving successful BBp criteria demonstrated improved left atrial function parameters (increased a' velocity, decreased E/e', and reduced LA diameter) with heart failure stabilization, while five cases failing to achieve significant P-wave changes showed no functional improvement. The findings suggest that successful BBp restoration of interatrial conduction may optimize left atrial performance and provide hemodynamic benefit in heart failure patients."
+  },
+  {
+    "title": "Strength\u2010Duration Characterisation of Subcutaneous Pacing: A Preclinical Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70256?af=R",
+    "doi": "10.1111/pace.70256",
+    "journal": "PACE",
+    "date": "Apr 19, 2026",
+    "date_ts": 1776578393.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Subcutaneous and extravascular pacing systems represent an emerging class of cardiac rhythm management devices that deliver therapy without direct myocardial contact. Despite their clinical potential, the excitability characteristics of subcutaneous stimulation are not well defined.\n                  \n                  \n                    Methods\n                    \n                      Acute preclinical studies were conducted in four swine (\n                      n\n                      = 4) using a coil\u2010to\u2010can subcutaneous pacing configuration. Monophasic and biphasic pulses ranging from 1 to 10\u00a0ms and 1 to 200\u00a0mA in amplitude were delivered asynchronously at rates 20\u201330\u00a0bpm above the intrinsic heart rate. Myocardial capture was confirmed via high\u2010fidelity intra\u2010aortic pressure. Strength\u2010duration curves were generated, and rheobase and chronaxie values were derived using Lapicque's model.\n                    \n                  \n                  \n                    Results\n                    \n                      All subjects exhibited a hyperbolic strength\u2010duration profile. Rheobase ranged from 19.54 to 77.58\u00a0mA, chronaxie varied from 0.70 to 2.94\u00a0ms. An inverse relationship was identified between rheobase and chronaxie, suggesting that effects of electrode geometry, tissue impedance, or lead placement may influence the excitability profile. Biphasic waveforms tended to lower capture thresholds versus monophasic stimuli; this difference did not reach statistical significance (\n                      p\n                      = 0.161). Inter\u2010subject variability was consistent with differences in tissue impedance and electrode\u2010myocardial distance.\n                    \n                  \n                  \n                    Conclusion\n                    Subcutaneous pacing exhibits classical excitability consistent with Lapicque's theory. Thresholds follow predictable dependencies on pulse width and waveform, indicating opportunities to optimize energy delivery safety margins. These data provide a basis for programming strategies and future device designs targeting lower energy use and extended battery life in subcutaneous and extravascular pacing systems.",
+    "summary": "This acute preclinical study in four swine evaluated the excitability characteristics of subcutaneous pacing using strength-duration curves, demonstrating that subcutaneous stimulation follows classical Lapicque excitability theory with rheobase values of 19.54-77.58 mA and chronaxie of 0.70-2.94 ms, and that biphasic waveforms tend to lower capture thresholds compared to monophasic stimuli. These findings provide a mechanistic foundation for optimizing programming strategies and device design to reduce energy consumption in subcutaneous and extravascular pacing systems."
+  },
+  {
     "title": "Aortic root\u2013based ablation of para-hisian atrial tachycardia: Acute and long-term outcomes from a consecutive series.",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001765?dgcid=rss_sd_all",
     "doi": null,
@@ -6220,70 +6288,6 @@
     "date_ts": 1775001600.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "\u201cPure\u201d Self-Reference Omnipolar Electrogram\u2013Based Mapping for Localization of the Reentrant Circuit in the Dissociated Right Atrium",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.04.004",
-    "doi": "10.1016/j.hrcr.2026.04.004",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "From brain freeze to heart freeze: A case of deglutition syncope\u2013induced asystole/tachyarrhythmia in a patient with titin cardiomyopathy",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.01.009",
-    "doi": "10.1016/j.hrcr.2026.01.009",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Leadless pacing in the context of Staphylococcus aureus infection: A solution or reason to pause?",
-    "link": "https://doi.org/10.1016/j.hrcr.2025.12.017",
-    "doi": "10.1016/j.hrcr.2025.12.017",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "Bacteremia in patients who require cardiac pacing creates a challenging clinical scenario. Rates of infection overall are lower with leadless devices compared to traditional transvenous devices1. Thus, they are often considered when pacing is required for patients with recent infection or who are at high risk of infection. However, infections can occur when these devices are implanted while a patient is bacteremic. It is therefore important to check blood cultures and perform appropriate cardiac imaging prior to implantation of a leadless pacemaker when clinical circumstances suggest a high risk of bacteremia.",
-    "summary": "This is a narrative review discussing infection rates in cardiac pacing devices, noting that leadless pacemakers have lower overall infection rates compared to transvenous devices and may be preferred in bacteremic or high-risk patients; however, blood cultures and cardiac imaging should be obtained before implantation when bacteremia is suspected to prevent device infection."
-  },
-  {
-    "title": "Targeted Purkinje de-networking based on His-to-QRS onset (HiQ) map for ventricular fibrillation storm after subacute myocardial infarction",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.01.005",
-    "doi": "10.1016/j.hrcr.2026.01.005",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false,
-    "abstract": "Ventricular fibrillation (VF) storm can occur even after successful revascularization for myocardial infarction.1 These episodes are frequently triggered by premature ventricular contractions (PVCs) arising from injured but viable Purkinje fibers,2 and the Purkinje network plays a critical role in both the initiation and maintenance of VF.3,4 To address these mechanisms, Purkinje de-networking (PDN) is an effective rescue strategy for drug-refractory VF storm.3,5 In contrast to idiopathic VF, where PDN can be performed anatomically, patients with subacute myocardial infarction (SMI) may require case-tailored approaches.",
-    "summary": "This retrospective/case series review describes Purkinje de-networking (PDN) as a rescue ablation strategy for drug-refractory ventricular fibrillation storm in subacute myocardial infarction patients, where Purkinje fiber activity triggered by PVCs from ischemic but viable tissue drives arrhythmia initiation and maintenance, requiring individualized rather than anatomic approaches. The mechanism-based intervention targets the pathophysiology distinct from idiopathic VF, offering a potential solution when pharmacotherapy fails in this high-risk post-MI population."
-  },
-  {
-    "title": "Higher Daily Temperature Is Associated With Prolonged Device-Detected Atrial Fibrillation Episodes",
-    "link": "https://doi.org/10.1161/circep.125.014307",
-    "doi": "10.1161/circep.125.014307",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Dec 01, 2025",
-    "date_ts": 1764547200.0,
-    "tags": [
-      "AFib"
     ],
     "hot": false
   }
