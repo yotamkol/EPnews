@@ -1,5 +1,374 @@
 [
   {
+    "title": "Letter by Luo et al Regarding Article, \u201cScreening-Detected Atrial Fibrillation and Cardiovascular Outcomes in Working-Age Adults\u201d",
+    "link": "https://doi.org/10.1161/circulationaha.125.077870",
+    "doi": "10.1161/circulationaha.125.077870",
+    "journal": "Circulation",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776729600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Response by Mori et al to Letter Regarding Article, \u201cScreening-Detected Atrial Fibrillation and Cardiovascular Outcomes in Working-Age Adults\u201d",
+    "link": "https://doi.org/10.1161/circulationaha.126.079913",
+    "doi": "10.1161/circulationaha.126.079913",
+    "journal": "Circulation",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776729600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Single or multiple pulsed field applications: Intracardiac electrogram changes and implications for procedural end points",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000310?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.977714,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Same day discharge can be performed safely after atrial fibrillation catheter ablation using a wide-footprint lattice-tip dual-energy system",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000279?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.977681,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Zero- or minimal-fluoroscopy vs conventional fluoroscopy in catheter ablation of supraventricular tachycardias: An updated systematic review and meta-analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000206?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.97765,
+    "tags": [
+      "VT",
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sex-specific impact of body mass index on recurrence of atrial fibrillation after catheter ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600036X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.977619,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Acute hemodynamic effects of a novel algorithm for cardiac resynchronization therapy optimization: Results from the BIO|Adapt study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600053X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.977586,
+    "tags": [
+      "Devices",
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Safety, performance, and remote programming utilization of an insertable cardiac monitor: The LUX-Dx PERFORM study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000383?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.977554,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "How to isolate the superior vena cava using balloon-in-basket pulsed field ablation system: Standardized workflow and initial results",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000267?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.97752,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Spatiotemporal heterogeneity of activation alternans in cardiomyopathy: Implications for risk stratification with microvolt QRS alternans",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000231?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.977483,
+    "tags": [
+      "SCD",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Obesity promotes atrial fat deposition independent of myocardial infarction in G\u00f6ttingen minipigs",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000346?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.977445,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A framework for developing successful academic-industry partnerships for cardiovascular innovations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005860?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.977392,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical evaluation of a spot-check ECG for the diagnosis of atrial fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000188?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.977363,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Self-supervised contrastive learning enables robust electrocardiogram-based cardiac classification",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000280?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.97733,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Identifying hidden medical complexity in cardiovascular care: A large language model approach to evaluation and management coding and documentation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000292?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.977295,
+    "tags": [
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "OPTIA-AF trial: A randomized study of rhythm-guided antithrombotic strategy after atrial fibrillation ablation in patients with prior drug-eluting stent implantation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000577?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.977259,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Complex signal identification as a marker of left atrial remodeling and very early recurrence after atrial fibrillation ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000243?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.977225,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Estimated longevity of contemporary subcutaneous implantable cardioverter-defibrillators: Multicenter real-world data",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000322?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.977192,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Utility of impedance mapping to delineate atrial septal occluders during catheter ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000619?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.977158,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed field ablation for atrial fibrillation in a patient with cor triatriatum sinister using a single-shot mapping-integrated catheter",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000309?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.97712,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A case of post-ablation chest pain: Navigating the diagnostic dilemma",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000334?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.977088,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Inferior vena cava angiography through the protective sleeve for right-heart visualization in helix-fixation ventricular leadless pacemaker implantation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000528?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.977051,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Proposed workflow for the prevention of lead-related superior vena cava syndrome",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000371?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.977017,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cardiovascular outcomes with diltiazem vs verapamil in permanent atrial fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000395?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.976981,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Exploratory assessment of field-tag\u2013based catheter-tissue contact and acute lesion surrogates during pulsed field ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000589?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.976937,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Considerations on phrenic nerve and sinus node safety during superior vena cava isolation using a balloon-in-basket pulsed field ablation system",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000620?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.976889,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Author's Reply to \u201cConsiderations on phrenic nerve and sinus node safety during superior vena cava isolation using a balloon-in-basket pulsed field ablation system\u201d",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000632?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776734546.976668,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Stereotactic arrhythmia radioablation for refractory ventricular tachycardia: the STOPSTORM.eu study",
+    "link": "https://doi.org/10.1093/eurheartj/ehag338",
+    "doi": "10.1093/eurheartj/ehag338",
+    "journal": "European Heart Journal",
+    "date": "Apr 20, 2026",
+    "date_ts": 1776643200.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Stereotactic arrhythmia radioablation (STAR) is increasingly used for refractory ventricular tachycardia (VT), yet prospective multicentre outcome data remain limited. Here, the planned interim analysis of the prospective Standardized Treatment and Outcome Platform for Stereotactic Therapy Of Re-entrant tachycardia by a Multidisciplinary (STOPSTORM) registry is reported.\n                  \n                  \n                    Methods\n                    STOPSTORM is a European prospective, international, multicentre registry of patients treated with STAR. The primary efficacy endpoint was the change in sustained VT episode burden comparing the 6 months before versus the 6 months after STAR. The primary safety endpoint was the occurrence of serious adverse events (SAEs) adjudicated as possibly or probably treatment-related. Overall survival was assessed using time-to-event methods.\n                  \n                  \n                    Results\n                    Across 28 centres, 193 patients were included (mean age 68\u00b19 years; 88% male; 53% non-ischaemic cardiomyopathy). Median follow-up was 19 months. Among 107 evaluable patients with \u22656-month follow-up, the median VT episode burden was reduced by 80% after STAR. Among patients surviving \u22656 months, 72% were free from implantable cardioverter-defibrillator (ICD) shock. In the full cohort, 12 SAEs were adjudicated as possibly or probably treatment-related, including pericardial effusion, coronary events, and early post-treatment ventricular arrhythmia. Overall survival probability was 77% at 12 months.\n                  \n                  \n                    Conclusions\n                    In the largest prospective multicentre cohort reported to date, STAR was associated with a substantial reduction in VT burden and ICD shocks, with a low frequency of possibly or probably treatment-related SAEs.",
+    "summary": "This prospective European multicentre registry (STOPSTORM) of 193 patients (mean age 68 years, 88% male) demonstrated that stereotactic arrhythmia radioablation for refractory ventricular tachycardia achieved an 80% median reduction in VT episode burden at 6 months with 72% freedom from ICD shocks, while serious adverse events adjudicated as treatment-related occurred in only 12 patients. Overall survival probability was 77% at 12 months."
+  },
+  {
+    "title": "JNK2 Is a Stress Integrator Driving Atrial Fibrillation Pathogenesis in Aging via Gut-Heart Crosstalk",
+    "link": "https://doi.org/10.1161/circulationaha.125.076147",
+    "doi": "10.1161/circulationaha.125.076147",
+    "journal": "Circulation",
+    "date": "Apr 20, 2026",
+    "date_ts": 1776643200.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    \n                      Atrial fibrillation (AF) is the most common arrhythmia and is associated with high morbidity and mortality, particularly in the aging population. Current treatment and prevention strategies remain suboptimal, highlighting the urgent need to better understand the mechanisms underlying aging-associated AF. We recently reported a causal role of the stress-activated kinase JNK2 (c-Jun N-terminal kinase 2) in aging-associated AF pathogenesis, mediated by JNK2-driven sarcoplasmic reticulum Ca\n                      2\n                      +\n                      dysfunction. However, the mechanisms by which cardiac JNK2 is activated during aging to promote AF remain unclear. Emerging evidence suggests that interorgan crosstalk contributes critically to the development of cardiovascular diseases. A hyperpermeable gastrointestinal epithelial barrier (\u201cleaky gut\u201d), commonly observed in aged individuals, is associated with elevated levels of proinflammatory cytokines and an increased risk of AF. Although proinflammatory cytokines have been proposed as predisposing factors for AF, clinical and experimental studies have yielded inconsistent results, underscoring the complexity of inflammation-associated AF pathogenesis. Here, we investigated whether cardiac JNK2 integrates diverse stress stimuli, including proinflammatory cytokines and lipopolysaccharide, to drive AF pathogenesis.\n                    \n                  \n                  \n                    METHODS:\n                    \n                      We used aged mice, intestinal epithelium\u2013specific tight junction OD (occludin) knockdown (OD\n                      +/\u2212\n                      ) mice, and a well-established dextran sulfate sodium\u2013induced leaky gut mouse model characterized by reduced gastrointestinal epithelial occludin expression. A series of physiological and molecular approaches was applied to assess cardiac and gastrointestinal responses.\n                    \n                  \n                  \n                    RESULTS:\n                    \n                      We found that leaky gut significantly activates atrial JNK2, which, in turn, drives Ca\n                      2\n                      +\n                      -triggered arrhythmic activity and increases AF inducibility in aged, dextran sulfate sodium\u2013treated, and OD\n                      +/\u2212\n                      mouse models. Restoration of gut barrier function in dextran sulfate sodium mice, a clinically relevant model, reduced AF susceptibility. Similarly, either JNK2 inhibition or TNF-\u03b1 (tumor necrosis factor \u03b1) blockade abolished the increased AF risk associated with leaky gut. Furthermore, we demonstrate, for the first time, that leaky gut\u2013associated proinflammatory cytokines, including TNF-\u03b1 and IL-17A (interleukin-17A), together with lipopolysaccharide, activate cardiac JNK2. This activation promotes AF pathogenesis through JNK2-mediated arrhythmogenic mechanisms, including diastolic sarcoplasmic reticulum Ca\n                      2\n                      +\n                      leak, Ca\n                      2\n                      +\n                      waves, and delayed afterdepolarizations.\n                    \n                  \n                  \n                    CONCLUSION:\n                    Activated JNK2 functions as a pathological nodal integrator of leaky gut\u2013associated stress signals, mediating gut-to-heart crosstalk and driving inflammation-induced AF pathogenesis. Targeting JNK2 may represent a novel therapeutic strategy for AF.",
+    "summary": "This preclinical study using aged mice and leaky gut models (dextran sulfate sodium-treated, occludin knockdown, and wild-type aged mice) demonstrates that intestinal barrier dysfunction activates cardiac JNK2, which integrates proinflammatory cytokines (TNF-\u03b1, IL-17A) and lipopolysaccharide to promote atrial fibrillation susceptibility through sarcoplasmic reticulum calcium dysfunction and arrhythmogenic activity, with restoration of gut barrier function or JNK2/TNF-\u03b1 inhibition reducing AF inducibility. These findings suggest JNK2 as a potential therapeutic target for inflammation-mediated"
+  },
+  {
+    "title": "Sheath Withdrawal May Represent a Mechanically Vulnerable Phase for Septal Perforation During Left Bundle Branch Area Pacing",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70346?af=R",
+    "doi": "10.1111/jce.70346",
+    "journal": "J Cardiovasc EP",
+    "date": "Apr 20, 2026",
+    "date_ts": 1776668252.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Although interventricular septal perforation is a recognized complication of left bundle branch area pacing (LBBAP), its underlying mechanisms remain unclear. Previous studies have focused primarily on lead deployment\u2010related factors, whereas mechanical events occurring after apparently successful lead fixation have received limited attention.\n                  \n                  \n                    Methods\n                    In this exploratory mechanistic study, we investigated axial force transmission during delivery sheath withdrawal using a simplified benchtop model motivated by a representative clinical observation in which overt septal perforation became apparent immediately after sheath slitting. Axial force transmitted along the lead\u2010sheath system was quantified under two geometric configurations simulating a constrained (5\u2009cm) and less\u2010constrained (10\u2009cm) atrial space. Sheath withdrawal was performed in 1\u2010cm increments under three initial orientations (neutral, clockwise, and counterclockwise). Peak axial force values were analyzed using two\u2010way analysis of variance.\n                  \n                  \n                    Results\n                    \n                      In the benchtop model, the constrained configuration generated significantly higher peak axial forces than the less\u2010constrained configuration across all sheath orientations (\n                      p\n                      \u2009&lt;\u20090.001). Initial sheath orientation significantly modified force transmission, with a counterclockwise orientation producing the highest peak axial force under constrained conditions (\n                      p\n                      \u2009&lt;\u20090.001). Peak axial force consistently occurred during the early phase of sheath withdrawal, corresponding to a lead tip\u2010to\u2010sheath tip distance of approximately 3.5\u20134.5\u2009cm. These mechanical findings were concordant with fluoroscopic observations from the index clinical case, in which distinct lead\u2010tip excursion and overt septal perforation were recognized during early sheath withdrawal. However, subtle pre\u2010existing protrusion of the lead helix before sheath withdrawal could not be excluded.\n                    \n                  \n                  \n                    Conclusions\n                    Sheath withdrawal during LBBAP may represent a mechanically vulnerable phase during which geometric constraint and sheath orientation can synergistically amplify axial force transmission to the lead tip. Recognition of this vulnerable phase, together with attention to atrial geometry and sheath orientation during early withdrawal, may help reduce the risk of lead destabilization or overt interventricular septal perforation during LBBAP.",
+    "summary": "This exploratory benchtop mechanistic study demonstrated that constrained atrial geometry and counterclockwise sheath orientation synergistically increase axial force transmission during sheath withdrawal in left bundle branch area pacing, with peak forces occurring early in withdrawal and potentially explaining septal perforation risk during this previously under-recognized vulnerable phase."
+  },
+  {
     "title": "Effects of Pacing Sites on Substrate Mapping Using Decrement-Evoked Potential Mapping for Scar-Related Ventricular Tachycardia",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022824?dgcid=rss_sd_all",
     "doi": null,
@@ -10,6 +379,34 @@
       "VT"
     ],
     "hot": false
+  },
+  {
+    "title": "Quantitative Vector Screening to Improve Sensing and Reduce Inappropriate Shocks With the Subcutaneous Implantable Cardioverter Defibrillator",
+    "link": "https://doi.org/10.1161/circep.125.014581",
+    "doi": "10.1161/circep.125.014581",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Apr 20, 2026",
+    "date_ts": 1776643200.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    The subcutaneous Implantable Cardioverter Defibrillator (S-ICD) offers protection from sudden cardiac death without transvenous leads. Although contemporary techniques and programming have reduced inappropriate shocks, high rates persist in certain populations. The objective of this study was to evaluate the impact of a novel quantitative vector screening (QVS) protocol on the incidence of sensing-related complications and inappropriate shocks in patients undergoing S-ICD implantation.\n                  \n                  \n                    METHODS:\n                    We analyzed 223 consecutive patients who underwent S-ICD implantation at the Hospital of the University of Pennsylvania from December 2018 to July 2025. Traditional vector screening was used before 2023. In 2023, we implemented QVS, which incorporated quantitative sensing scores for each candidate and raised the threshold for S-ICD implantation. The primary end point was time to first inappropriate shock or under-sensed ventricular arrhythmia. Secondary outcomes included SMART Pass deactivation and need for device revision. Outcomes were reported as survival analyses.\n                  \n                  \n                    RESULTS:\n                    \n                      During preimplant screening, the QVS protocol reduced patient eligibility from 96% to 83%. The median follow-up after implant was 42 months (interquartile range, 48) in the traditional vector screening arm and 18 months (interquartile range, 15) in the QVS arm. The primary end point of time to first inappropriate shock or under-sensed ventricular arrhythmia was longer in the QVS arm (log-rank,\n                      P\n                      =0.02). There were 23 primary end point events among 145 patients in the traditional vector screening arm (5.2 per 100 patient-years [95% CI, 3.1\u20137.4]) and 2 primary end point events among 78 patients in the QVS arm (1.8 per 100 patient-years [95% CI, 0.01\u20134.38]).\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    Implementation of a novel S-ICD screening protocol with stricter eligibility thresholds reduced sensing-related complications, particularly inappropriate shocks.",
+    "summary": "This retrospective cohort study of 223 S-ICD implant patients compared traditional vector screening to a novel quantitative vector screening (QVS) protocol implemented in 2023, finding that QVS with stricter eligibility criteria (reducing candidacy from 96% to 83%) significantly reduced inappropriate shocks and under-sensed arrhythmias from 5.2 to 1.8 per 100 patient-years (P=0.02). The findings suggest that quantitative assessment of sensing parameters during preimplant evaluation can improve S-ICD safety by reducing sensing-related complications."
+  },
+  {
+    "title": "Variability in Tissue Interface Temperature During Pulse Field Atrial Ablation: Implications for Real-Time Contact Assessment",
+    "link": "https://doi.org/10.1161/circep.125.014310",
+    "doi": "10.1161/circep.125.014310",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Apr 20, 2026",
+    "date_ts": 1776643200.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    Pulsed field ablation (PFA) can generate low-intensity catheter-tissue interface heating. Recently, a large-focal PFA catheter able to measure the tip-tissue interface temperature has become available. Accordingly, we aimed to characterize the electrode tip-tissue interface temperature dynamics during PFA.\n                  \n                  \n                    METHODS:\n                    A retrospective single-center study evaluated PFA lesions in 41 consecutive patients undergoing atrial fibrillation ablation using the lattice-tip catheter. Lesions were grouped by anatomic location with interface temperatures measured via catheter tip thermocouples. The association of predictors with lesion temperatures was evaluated with a mixed-effects model. An analysis of lesion dimensions and interface temperatures was also performed in swine.\n                  \n                  \n                    RESULTS:\n                    \n                      Among 41 patients, 2779 pulse field lesions were analyzed. Mean peak temperature was 41.7\u00b12.2\u2009\u00b0C (range, 37.2\u2009\u00b0C\u201352.8\u2009\u00b0C) and average temperature was 39.5\u00b11.4\u2009\u00b0C (range, 36.4\u2009\u00b0C\u201346.9\u2009\u00b0C). Temperatures exceeded 50\u2009\u00b0C in 10 of 2779 (0.4%) lesions, most often in the anterosuperior left superior pulmonary vein (5/10). Univariate analysis showed peak temperature was positively associated with previous lesion temperature (\n                      r\n                      =0.65 [95% CI, 0.63\u20130.67];\n                      P\n                      &lt;0.001) and had weak associations with time between lesions (\n                      r\n                      =\u22120.15 [\u22120.19 to \u22120.11];\n                      P\n                      &lt;0.001) and percentage impedance drop (\n                      r\n                      =0.20 [95% CI, 0.16\u20130.23];\n                      P\n                      &lt;0.001). Even after multivariable analysis, the peak temperature remained significantly lowest at the right carina (39.7\u2009\u00b0C), anterosuperior right superior pulmonary vein (40.9\u2009\u00b0C), and right superior pulmonary vein roof (40.5\u2009\u00b0C) locations. Swine demonstrated a moderately strong association between lesion depth with peak temperature (\n                      R\n                      =0.53 [95% CI, 0.20\u20130.75];\n                      P\n                      =0.003) and average temperature (\n                      R\n                      =0.49 [95% CI, 0.16\u20130.73];\n                      P\n                      =0.007).\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    Lattice-tip temperatures during PFA vary substantially, with right superior pulmonary vein sites often demonstrating a blunted temperature response compared with other sites. Peak and average temperatures correlated with lesion depth.",
+    "summary": "This retrospective single-center study of 41 atrial fibrillation ablation patients analyzed 2,779 pulsed field ablation (PFA) lesions using a lattice-tip catheter with integrated thermocouples and found that electrode tip-tissue interface temperatures remained relatively modest (mean peak 41.7\u00b0C), varied significantly by anatomic location with lowest temperatures at right-sided pulmonary vein sites, and correlated with lesion depth. Only 0.4% of lesions exceeded 50\u00b0C, suggesting minimal thermal injury risk with this PFA approach."
   },
   {
     "title": "PFA Under Deep Sedation and Non\u2010Invasive Monitoring in Atrial Fibrillation Patients With Obstructive Sleep Apnea",
@@ -5855,434 +6252,9 @@
     "summary": "This retrospective cohort study using the National Readmission Database (2016-2020) analyzed 89,552 hospitalizations for left atrial appendage occlusion (LAAO) device placement and found that after propensity score matching (N=20,627), females experienced significantly higher adverse events including mortality (0.23% vs 0.15%), sudden cardiac arrest (1.77% vs 1.37%), pericardial complications (1.46% vs 0.86%), and cardiac tamponade (0.94% vs 0.54%), as well as increased 30-, 90-, and 180-day readmission rates compared to males. The"
   },
   {
-    "title": "Leadless vs. Conventional Transvenous Pacemakers in Valve Intervention Patients: A Systematic Review & Meta\u2010Analysis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70148?af=R",
-    "doi": "10.1111/pace.70148",
-    "journal": "PACE",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775125525.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Management of structural heart diseases (SHD) with either transcatheter or surgical valve interventions has led to a growing number of patients requiring post\u2010procedural permanent pacemaker implantation,(PPI) with rates of implantation reaching as high as 37.7% after transcatheter aortic valve replacement (TAVR). Transvenous pacemakers (TVP) have been the standard of care for such cases, although they carry the risk of numerous complications, such as surgical pocket and lead infections. Leadless pacemakers (LP) were introduced as an alternative to minimize these risks. This study aims to compare the outcomes of leadless versus TVP implantation in patients undergoing valve intervention during the peri\u2010procedural duration.\n                  \n                  \n                    Methods\n                    We conducted a systematic review and meta\u2010analysis of studies identified through a comprehensive search of the PubMed, Scopus, Web of Science, and Cochrane Library databases, performed in accordance with the Cochrane Handbook, to compare leadless and TVP in valve intervention patients during the peri\u2010procedural period. Data analysis was performed using Comprehensive Meta\u2010analysis (CMA, version 3.7.107). Primary outcomes included mortality, rehospitalization, and device\u2010 or procedure\u2010related complications. Risk ratios (RRs) and mean differences (MDs) were calculated for dichotomous and continuous outcomes, respectively, both with 95% confidence intervals (CIs). The protocol was prospectively registered (PROSPERO: CRD420251150891).\n                  \n                  \n                    Results\n                    \n                      The meta\u2010analysis included 5 cohort studies comprising 10,494 participants. 794 patients received LP and 9,700 received conventional TVP. LP patients had a significantly higher mortality risk (RR = 1.85; 95% CI, 1.06\u20133.20;\n                      p\n                      = 0.029), longer hospital stay (MD = 0.67; 95% CI, 0.43\u20130.90;\n                      p\n                      &lt; 0.001) and lower ventricular pacing burden (MD = \u201011.39; 95% CI, \u201018.98 to \u20103.80;\n                      p\n                      = 0.003) compared to patients with conventional TVP. There was no statistically significant difference between the two groups regarding rehospitalization, pocket infection, lead/device dislodgement, and vascular complications.\n                    \n                  \n                  \n                    Conclusion\n                    In this meta\u2010analysis, LP implantation was associated with reduced ventricular pacing burden, but at the expense of a longer hospital stay and increased mortality risk compared with conventional TVP. No significant differences were observed between the two modalities in terms of rehospitalization, pocket infection, lead/device dislodgement, and vascular complications. These findings suggest that although LP were associated with higher observed mortality, this association is likely driven by selection bias, as leadless devices are preferentially implanted in patients with higher baseline risk and greater comorbidity burden. Randomized controlled trials are needed to clarify the comparative safety of leadless versus TVP while minimizing confounding by indication.\n                  \n                  \n                    Trial Registration\n                    The study protocol was prospectively registered in PROSPERO (CRD420251150891).",
-    "summary": "This meta-analysis of 5 cohort studies (10,494 patients: 794 leadless pacemakers vs. 9,700 transvenous pacemakers) in valve intervention patients found that leadless pacemakers were associated with increased mortality risk (RR 1.85), longer hospital stay, but lower ventricular pacing burden, with no significant differences in rehospitalization or infection rates. The authors attribute the mortality difference primarily to selection bias, as leadless devices are preferentially used in higher-risk patients, and call for RCTs to clarify comparative safety."
-  },
-  {
-    "title": "Trends in Utilization of Subcutaneous ICD Using Nationwide Readmissions Database",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70166?af=R",
-    "doi": "10.1111/pace.70166",
-    "journal": "PACE",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775125525.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "The subcutaneous implantable cardioverter-defibrillator (S-ICD) has potential advantages over the transvenous ICD (TV-ICD), particularly in patients at high risk for lead malfunction or infection over time. An analysis of National Cardiovascular Data Registry from 2012 to 2015 demonstrated an increase in utilization of S-ICDs, from 0.2% to 1.9% [ 1 ]. The majority of implantations at the time were done at teaching hospitals (74%) [ 1 ]. Contemporary data on their use and outcomes are lacking [ 2, 3 ]. We conducted this nationwide, retrospective analysis of the Nationwide Readmissions Database (NRD) to study contemporary trends and outcomes of S-ICD. We analyzed the NRD from October 2019 to November 2022. We used ICD 10 code for S-ICD implantation which first became available in 2019. Descriptive analyses were performed and outcomes studied were mortality, bleeding and readmission rate. We excluded any patients with prior transvenous pacemakers or implantable cardioverter defibrillator device to avoid classification bias from device upgrades, generator changes and revisions. ICD 10 codes for post procedural hemorrhage were used to evaluate for bleeding. A total of 7725 patients underwent S-ICD implant over the study period with a mean age of 55.6 years. The annual implant rate did not increase over the study period. Common comorbidities included coronary artery disease (4385, 57.8%), congestive heart failure (5435, 70.4%), hypertension (3476, 45%",
-    "summary": "This retrospective analysis of the Nationwide Readmissions Database from October 2019 to November 2022 examined 7,725 S-ICD implantations and found that annual implant rates remained stable (not increasing) during the study period, with mortality, bleeding, and readmission rates as primary outcomes in a population with mean age 55.6 years and significant comorbidity burden (57.8% CAD, 70.4% CHF). Contemporary S-ICD utilization trends did not demonstrate the growth trajectory previously observed in registry data from 2012-2015."
-  },
-  {
-    "title": "Clinical Utility of Cardiovascular Magnetic Resonance in Patients With Cardiac Implantable Electronic Devices",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70206?af=R",
-    "doi": "10.1111/pace.70206",
-    "journal": "PACE",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775125525.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "D.J.P. is a consultant to Siemens Healthcare, and a director and stockholder in Cardiovascular Imaging Solutions. The data that support the findings of this study are available from the corresponding author upon reasonable request.",
-    "summary": "I appreciate you sharing this text, but this appears to be a conflict of interest disclosure and data availability statement rather than a research abstract. To provide the summary you've requested, I would need the actual abstract containing the study methodology, sample size, intervention, and results. Please share the full abstract text."
-  },
-  {
-    "title": "How to Assess Long\u2010Term Prognostic Impact of Catheter Ablation for Atrial Fibrillation in HFrEF Patients",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70203?af=R",
-    "doi": "10.1111/pace.70203",
-    "journal": "PACE",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775125525.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ablation (CA) for atrial fibrillation (AF)",
-    "summary": "I don't see a complete abstract provided in your message - you've only included the topic \"ablation (CA) for atrial fibrillation (AF)\" without the full abstract text. Please provide the complete abstract so I can summarize the study type, sample size, intervention, and key results for you."
-  },
-  {
-    "title": "Pioneering Rhythm Management: A Design Analysis of the Earliest Battery\u2010Powered Implantable Pacemakers",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70127?af=R",
-    "doi": "10.1111/pace.70127",
-    "journal": "PACE",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775125525.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  In 1958 and 1960, Dr. Rune Elmqvist (Sweden) and Wilson Greatbatch (USA) independently developed the first battery\u2010powered implantable cardiac pacemakers. Though unaware of each other's work, both pioneers employed a transistorized blocking oscillator as the core of their pacemaker design, enabled by the recent availability of silicon transistors. This paper analyzes the convergent design principles of these early devices, comparing circuit architectures, power sources, and clinical considerations. Elmqvist's use of rechargeable nickel\u2013cadmium batteries with transcutaneous charging contrasted with Greatbatch's strategy of primary mercury\u2013zinc cells, each reflecting distinct engineering priorities. To better understand these designs, we constructed characterization breadboards, as well as reconstructed functional, visually faithful replicas of three historical devices: Elmqvist's 1958 prototype, Elema\u2013Sch\u00f6nander 1959's model EM135, and the 1960 Greatbatch\u2013Chardack pacemaker. Our engineering analysis and replica testing demonstrate the elegant simplicity of these pioneering systems, offering insights into the early intersection of electronics and implantable medical therapy.",
-    "summary": "This historical engineering analysis reconstructed and characterized three early battery-powered implantable pacemakers (Elmqvist 1958, Elema\u2013Sch\u00f6nander 1959, and Greatbatch\u2013Chardack 1960) through functional replicas and breadboard testing, demonstrating the convergent design principles and engineering trade-offs\u2014particularly regarding battery chemistries and charging strategies\u2014that enabled the transistorized blocking oscillator architecture fundamental to modern cardiac pacing."
-  },
-  {
-    "title": "Zero\u2010Contrast Percutaneous Left Atrial Appendage Closure: A Large\u2010Scale, Single\u2010Center, Real\u2010World Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70134?af=R",
-    "doi": "10.1111/pace.70134",
-    "journal": "PACE",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775125525.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Left atrial appendage closure (LAAC) is a proven stroke prevention method for patients with non\u2010valvular atrial fibrillation (AF) who are not suitable for long\u2010term anticoagulation. However, the use of iodinated contrast agents during the procedure can increase the risk of acute kidney injury (AKI), especially in patients with chronic kidney disease (CKD). This study evaluates the safety and effectiveness of a zero\u2010contrast LAAC technique using transesophageal echocardiography (TEE) and fluoroscopy.\n                  \n                  \n                    Methods\n                    In this retrospective study, 324 consecutive patients underwent zero\u2010contrast LAAC between January 2014 and January 2025. All procedures were performed using TEE and fluoroscopy guidance without iodinated contrast agents. The primary safety endpoint was the composite of procedure\u2010related major complications occurring within 7 days after the procedure. Secondary endpoints included the rate of procedural success.\n                  \n                  \n                    Results\n                    \n                      The mean age was 74.1 \u00b1 9.3 years. CKD was present in 25.6% of the population, including four patients (1.2%) with prior renal transplantation and 19 patients (5.9%) receiving maintenance hemodialysis. The median CHA\n                      2\n                      DS\n                      2\n                      \u2010VASc and HAS\u2010BLED scores were both 4.0. Primary endpoints were observed in 8 (2.46%) patients (all\u2010cause mortality in 4 patients, device embolization in 2 patients, and major bleeding in 2 patients). The procedural success rate was 99.7%. Vascular access site complications were observed in 5 (1.5%) patients. Renal function assessment showed baseline serum creatinine levels of 1.24 \u00b1 1.30\u00a0mg/dL and 1.26 \u00b1 1.32\u00a0mg/dL at 24\u201348 h (\n                      p\n                      = 0.847). No cases of acute kidney injury (KDIGO criteria) occurred during the index hospitalization, and renal function remained stable in 83 patients (25.6%) with pre\u2010existing CKD. Survival analysis stratified by CKD stages demonstrated significantly higher mortality rates with progressive renal dysfunction (\n                      p\n                      &lt; 0.001).\n                    \n                  \n                  \n                    Conclusions\n                    Zero\u2010contrast LAAC guided by TEE and fluoroscopy is a safe and effective alternative to contrast\u2010enhanced LAAC, with particular advantages in patients with renal dysfunction. These findings support broader adoption of contrast\u2010avoidance strategies in high\u2010risk populations.",
-    "summary": "This retrospective study of 324 consecutive patients demonstrated that zero-contrast left atrial appendage closure guided by transesophageal echocardiography and fluoroscopy achieved a 99.7% procedural success rate with a 2.46% major complication rate and critically, zero cases of contrast-induced acute kidney injury, making it a safe alternative to contrast-enhanced LAAC particularly for the 25.6% of patients with chronic kidney disease. Renal function remained stable in all CKD patients, though mortality increased with progressive renal dysfunction independent of the procedure."
-  },
-  {
-    "title": "Sex Differences in Early Complications After Cardiac Implantable Electronic Device Implantation: Myth or Reality?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70194?af=R",
-    "doi": "10.1111/pace.70194",
-    "journal": "PACE",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775125525.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Early complications after cardiac implantable electronic device (CIED) implantation remain clinically relevant and have been widely examined in large registry studies. Advanced age, comorbidities, device complexity, and antithrombotic therapy are recognized predictors of early complications. This study planned to examine the effect of sex on early (\u2264 30 days) device\u2010related complications and to determine independent predictors of early major adverse cardiac events (MACE).\n                  \n                  \n                    Methods\n                    This retrospective, single\u2010center study enrolled 1807 sequential patients (729 women, 1078 men) undergoing pacemaker, implantable cardioverter\u2010defibrillator, or cardiac resynchronization therapy implantation. Early MACE was described as consisting of pocket hematoma, pneumothorax, pericardial effusion/tamponade, and device\u2010related infection within 30 days. Univariable and multivariable logistic regression analyses were conducted to determine autonomous prognostic factors.\n                  \n                  \n                    Results\n                    \n                      Early MACE occurred in 26 (3.6%) women and 41 (3.8%) men (\n                      p\n                      = 0.893). Device type distribution differed significantly by sex, with defibrillators more frequently implanted in men and pacemakers and resynchronization devices in women (all\n                      p\n                      &lt; 0.001). Sex was not independently related to early MACE (OR 1.28, 95% CI 0.77\u20132.13;\n                      p\n                      = 0.337). Higher PORT scores (OR 1.06,\n                      p\n                      = 0.035), higher white blood cell counts (OR 1.09,\n                      p\n                      = 0.004), lower hemoglobin levels (OR 0.86,\n                      p\n                      = 0.024), and the presence of heart failure (OR 0.35,\n                      p\n                      = 0.002) remained independent predictors of early MACE.\n                    \n                  \n                  \n                    Conclusion\n                    Early CIED\u2010related complications were infrequent and occurred at similar rates in women and men. Sex was not an independent predictor of early MACE; instead, overall clinical risk burden and systemic factors were the primary determinants of early adverse outcomes.",
-    "summary": "This retrospective, single-center study of 1,807 patients (729 women, 1,078 men) undergoing CIED implantation found that early major adverse cardiac events (\u226430 days) occurred at similar rates between sexes (3.6% women vs. 3.8% men, p=0.893), with sex being an independent predictor of early MACE. Independent predictors of early complications included higher PORT scores, elevated white blood cell counts, lower hemoglobin levels, and presence of heart failure, suggesting that overall clinical risk burden rather than sex drives early CIED-related adverse outcomes."
-  },
-  {
-    "title": "Comparing Left Versus Right Atrial Intracardiac Echocardiography in Pulsed Field Ablation for Atrial Fibrillation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70129?af=R",
-    "doi": "10.1111/pace.70129",
-    "journal": "PACE",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775125525.0,
-    "tags": [
-      "AFib",
-      "Imaging"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Pulsed field ablation (PFA) is an emerging, effective therapy for atrial fibrillation (AF). Achieving adequate catheter\u2010to\u2010tissue contact is crucial, as poor contact can result in pulmonary vein (PV) reconnection or hemolysis. Intracardiac echocardiography (ICE) enables real\u2010time visualization of the PFA catheter and PV anatomy. To compare the utility of left atrial (LA) versus right atrial (RA) ICE placement during PFA for AF.\n                  \n                  \n                    Methods\n                    \n                      We retrospectively analyzed 53 consecutive AF patients who underwent index PFA procedures (FARAWAVE, Boston Scientific). Patients were stratified into two groups according to ICE location: RA\u2010ICE (\n                      n\n                      \u00a0=\u00a020) and LA\u2010ICE (\n                      n\n                      \u00a0=\u00a033). Procedural characteristics and image quality of catheter and PV anatomy were evaluated.\n                    \n                  \n                  \n                    Results\n                    \n                      The total number of PFA applications was higher in the LA\u2010ICE group than in the RA\u2010ICE group (45.6\u00a0\u00b1\u00a06.8\u00a0vs. 35.8\u00a0\u00b1\u00a03.4,\n                      p\n                      \u00a0&lt;\u00a00.01). Nevertheless, LA\u2010ICE was associated with a shorter LA dwell time (45.4\u00a0\u00b1\u00a013.3\u00a0vs. 55.0\u00a0\u00b1\u00a017.1\u00a0min,\n                      p\n                      \u00a0=\u00a00.04) and PV isolation time (19.6\u00a0\u00b1\u00a03.9\u00a0vs. 25.4\u00a0\u00b1\u00a010.5\u00a0min,\n                      p\n                      \u00a0=\u00a00.01). Visualization of catheter configuration and PV anatomy was significantly better in the LA\u2010ICE group, particularly for the left inferior and right\u2010sided PVs (\n                      p\n                      \u00a0&lt;\u00a00.01).\n                    \n                  \n                  \n                    Conclusions\n                    ICE placement in the LA improved visualization of the PFA catheter and PV anatomy, resulting in reduced PV isolation and LA dwell times compared with RA\u2010ICE.",
-    "summary": "This retrospective study of 53 AF patients undergoing pulsed field ablation compared left atrial versus right atrial intracardiac echocardiography (ICE) placement and found that LA-ICE provided superior visualization of the ablation catheter and pulmonary vein anatomy, resulting in shorter procedural times for pulmonary vein isolation and left atrial dwell time despite requiring more PFA applications. Key advantage: LA-ICE enabled more efficient catheter positioning, particularly for visualization of the left inferior and right-sided pulmonary veins."
-  },
-  {
-    "title": "Combined Procedure Versus Catheter Ablation Alone for Atrial Fibrillation: Predictors of Long\u2010Term Arrhythmia Recurrence",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70135?af=R",
-    "doi": "10.1111/pace.70135",
-    "journal": "PACE",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775125525.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Early recurrence (ER) of atrial tachyarrhythmia (ATA) has been proven to predict late recurrence (LR) in patients undergoing catheter ablation (CA). However, the long\u2010term ATA recurrence in patients undergoing combined left atrial appendage closure (LAAC) and CA procedures remains unclear.\n                  \n                  \n                    Methods\n                    This study aimed to investigate the long\u2010term ATA recurrence after the combined procedure. We enrolled patients with atrial fibrillation (AF) who underwent combined procedures from January 2019 to February 2022. A 1:1 propensity score match was used to identify a comparable cohort from the isolated CA (CA\u2010only) groups. ER and LR were defined as recurrence of ATA during 8 weeks and beyond an 8\u2010week blanking period after ablation.\n                  \n                  \n                    Results\n                    \n                      Among the 326 enrolled patients (aged 67.8 \u00b1 8.7 years, 42.9% female, 26.4% paroxysmal AF), the groups were similar regarding the occurrence of ER (LAAC\u00a0+\u00a0CA: 25.2% vs. CA\u2010only: 20.9%,\n                      p\n                      = 0.357). After a 4\u2010year follow\u2010up, the combined group demonstrated a significantly lower ATA\u2010free rate compared to the CA\u2010only group (LAAC\u00a0+\u00a0CA: 52.1% vs. CA\u2010only: 63.2%, log\u2010rank,\n                      p\n                      = 0.049). Based on a multivariate Cox regression analysis, the risk of LR significantly increased in patients with ER (hazard ratio [HR] = 1.789, 95% confidence interval [CI] = 1.194\u20132.681,\n                      p\n                      = 0.005), the combined procedure (HR = 1.559, 95% CI = 1.072\u20132.268,\n                      p\n                      = 0.020), and increased left atrial diameter (LAD) (HR = 1.036, 95% CI = 1.002\u20131.071,\n                      p\n                      = 0.036).\n                    \n                  \n                  \n                    Conclusions\n                    ATA recurrence postprocedure is more frequent in the combined procedure than in the CA\u2010only procedure after the long\u2010term follow\u2010up. ER, the combined procedure, and increased LAD are associated with a higher risk of LR.",
-    "summary": "This retrospective propensity-matched study of 326 AF patients (mean age 67.8 years) compared combined LAAC and catheter ablation versus CA-only, finding that the combined procedure was associated with significantly lower 4-year atrial tachyarrhythmia-free rates (52.1% vs 63.2%, p=0.049), with early recurrence, combined procedure status, and increased left atrial diameter independently predicting late recurrence risk. Early recurrence demonstrated a 1.79-fold increased hazard of late recurrence, independent of treatment strategy."
-  },
-  {
-    "title": "Bipolar Radiofrequency Ablation of Atrial Tachycardia Originating From RAA via Pericardium Pathway\u2010A Case Report",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70242?af=R",
-    "doi": "10.1111/pace.70242",
-    "journal": "PACE",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775124161.0,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  Atrial tachycardia originating from the right atrial appendage was first reported more than a decade ago, which had been observed to occur more frequently in younger populations. Radiofrequency catheter ablation of this type of tachycardia often yielded suboptimal success rates, largely attributable to the complex anatomical structure of the right atrial appendage. In this report, we presented a successful case of bipolar radiofrequency ablation for atrial tachycardia arising from the right atrial appendage, which might offer a promising approach for the treatment of similar cases in the future.",
-    "summary": "This case report describes successful bipolar radiofrequency catheter ablation for atrial tachycardia originating from the right atrial appendage, a technically challenging arrhythmia source in younger patients with traditionally suboptimal ablation success rates, suggesting bipolar ablation may improve outcomes for this difficult anatomy."
-  },
-  {
-    "title": "Transient Atrioventricular Block With Focal Pulsed Field Ablation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70238?af=R",
-    "doi": "10.1111/pace.70238",
-    "journal": "PACE",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775123633.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  Pulsed field ablation (PFA) is being adopted into widespread use worldwide for the treatment of a wide range of arrhythmias, with attractive tissue selectivity and safety profiles. While single\u2010shot PFA remains the mainstay of atrial ablation at present, focal applications of PFA are emerging as a highly effective means of delivering effective ablation. The present case illustrates transient atrioventricular block following PFA, highlighting potential for conduction system damage with PFA and supporting a cautious approach in close proximity to conduction system structures.",
-    "summary": "This case report describes transient atrioventricular block following pulsed field ablation (PFA) for arrhythmia treatment, highlighting a potential risk of conduction system injury despite PFA's favorable tissue selectivity profile and supporting the need for cautious anatomic positioning during focal PFA applications near critical conduction pathways."
-  },
-  {
-    "title": "Left Ventricular wall Thickness and Decrement Evoked Potentials in Ablation of Ischemic Ventricular Tachycardia",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70240?af=R",
-    "doi": "10.1111/pace.70240",
-    "journal": "PACE",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775123490.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Preprocedural imaging can improve the success rate of ventricular tachycardia (VT) ablation. Left ventricular wall thickness (LVWT) measured by cardiac computed tomography (CT) can be used to identify infarct regions. We sought to determine whether an association exists between left ventricular wall thickness (LVWT) as obtained from CT imaging and the presence of decrement evoked potentials (DeEPs) as obtained from electroanatomic mapping.\n                  \n                  \n                    Methods\n                    In this single\u2010center, retrospective analysis, 14 patients with ischemic heart disease who underwent a VT ablation in the University Medical Center Groningen (UMCG) between January 2021 and March 2023 were included. CT images as well as electroanatomic maps were obtained and processed, after which a 3D model of the left ventricle was obtained and segmented in 17 segments. The primary outcome was the presence of DeEPs, defined as late potentials exhibiting a decremental delay response longer than 20\u00a0ms after S2 extrastimulus delivery (with the extrastimulus delivered at 50\u00a0ms above the ventricular effective refractory period [VERP]), in each of the left ventricular segments. The mean segment LVWT and coefficient of variation of LVWT, defined as the standard deviation of the LVWT of each segment divided by the mean segment LVWT, were analyzed as determinants of the primary outcome.\n                  \n                  \n                    Results\n                    \n                      The mean age was 69 \u00b1 seven years and 13 (92.9%) patients were male. The mean LVWT was significantly associated with the presence of DeEPs in left ventricular segments [odds ratio (OR) 0.65 (95% confidence interval (CI) 0.55 \u2013 0.78);\n                      p\n                      &lt; 0.001], as was the coefficient of variation of LVWT [OR 1.10 (95% CI 1.06 \u2013 1.15);\n                      p\n                      &lt; 0.001].\n                    \n                  \n                  \n                    Conclusions\n                    The mean and coefficient of variation of LVWT were significantly associated with the presence of DeEPs. This may possibly allow for the preprocedural identification of arrhythmogenic regions as potential targets for VT ablation.",
-    "summary": "This single-center retrospective analysis of 14 patients with ischemic heart disease undergoing VT ablation found that both decreased mean left ventricular wall thickness and increased coefficient of variation of wall thickness on preprocedural CT imaging were significantly associated with the presence of decrement evoked potentials on electroanatomic mapping, suggesting CT-derived wall thickness parameters may help identify arrhythmogenic substrate targets prior to ablation."
-  },
-  {
-    "title": "Ethanol Infusion of the Vein of Marshall-Based Strategies for Persistent Atrial Fibrillation: A Systematic Review and Meta-Analysis of Randomized Trials",
-    "link": "https://doi.org/10.1093/europace/euag069",
-    "doi": "10.1093/europace/euag069",
-    "journal": "EP Europace",
-    "date": "Apr 02, 2026",
-    "date_ts": 1775088000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Pulmonary vein isolation (PVI) alone achieves modest arrhythmia freedom in persistent atrial fibrillation (PeAF). Ethanol infusion of the vein of Marshall (EIVOM) overcomes heat-sink effects, facilitating mitral isthmus (MI) block, and may represent an effective adjunctive ablation strategy. We aimed to quantify the efficacy and safety of EIVOM through a meta-analysis of randomized controlled trials (RCTs).\n                  \n                  \n                    Methods and Results\n                    Systematic review of MEDLINE, Web of Science, and PubMed identified 5 RCTs enrolling 1,179 patients (602 EIVOM, 577 control). The primary endpoint was 12-month freedom from any atrial arrhythmia. Random-effects models generated risk ratios (RR) with 95% confidence intervals (CI). Time-to-event data were pooled using a generic inverse-variance approach to derive hazard ratios (HR). EIVOM-based strategies improved freedom from any arrhythmia (RR 1.16, 95% CI 1.04\u20131.29; P&amp;lt;0.001; NNT=10) and from AF (RR 1.11, 95% CI 1.05\u20131.18; P&amp;lt;0.001; NNT=13). Time-to-event analysis demonstrated a sustained reduction in recurrence hazard (HR 0.72, 95% CI 0.64\u20130.81; P=0.003; I2=0%). Repeat ablation was reduced (RR 0.61; P=0.009). Fluoroscopy time increased (+9.08 minutes; P=0.007), while major complications were comparable (2.5% vs 2.8%; P=0.47). Trial Sequential Analysis confirmed that the cumulative Z-curve crossed the monitoring boundary for benefit for the primary endpoint, indicating that the available evidence is sufficient\n                  \n                  \n                    Conclusion\n                    In PeAF, EIVOM-based ablation strategies significantly improve 12-month arrhythmia-free survival and reduce repeat procedures without increasing major adverse events. However, the observed benefit reflects composite ablation sets rather than ethanol infusion in isolation, and the predominance of high-volume expert centres may limit generalizability.",
-    "summary": "This meta-analysis of 5 RCTs (1,179 patients) demonstrates that ethanol infusion of the vein of Marshall as an adjunct to pulmonary vein isolation improves 12-month freedom from atrial arrhythmia (RR 1.16, NNT=10) and reduces repeat ablation procedures in persistent atrial fibrillation, without increasing major complications despite longer fluoroscopy times. The authors acknowledge that benefits derive from composite ablation strategies rather than ethanol infusion alone, and results may not generalize beyond expert centers."
-  },
-  {
-    "title": "Cutting-edge studies on atrial fibrillation, left bundle branch area pacing, and subcutaneous defibrillators",
-    "link": "https://doi.org/10.1093/eurheartj/ehag223",
-    "doi": "10.1093/eurheartj/ehag223",
-    "journal": "European Heart Journal",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Atrial fibrillation: an underappreciated complication of diabetes', by Lingli Cai from Shanghai JiaoTong University School of Medicine in China, and colleagues. 1 The authors outline the intricate and close relationship between diabetes and atrial fibrillation (AF), addressing the epidemiology, pathogenesis, and management strategies built on the CARE-based approach in diabetic patients.Such consideration may facilitate timely prevention, early detection, and effective intervention, ultimately improving the health outcomes of patients with AF and diabetes.AF should be recognized as a complication of diabetes, with a prevalence of up to 25%.AF can develop in individuals with diabetes independent of hypertension, atherosclerotic cardiovascular disease, or heart failure.The pathogenesis linking diabetes to AF is multifactorial, involving atrial structural, electrical, electromechanical, and autonomic remodelling, as well as diabetes-related metabolic comorbidities.Given that the prevalence of diabetes (mainly type 2) is expected to increase further, the co-existent burden of AF on individuals, society, and healthcare systems will continue to increase.Thus, an integrated CARE-based management approach should be adopted to optimize care for diabetic patients across all stages of those at risk for AF and those with subclinical or clinical AF.This comprises 'Comorbidity and risk factor management', 'Avoidance of stroke and thromboembolism', 'Reduction of symptoms by rate and rhythm control', and 'Evaluation and dynamic reassessment'.AF is characterized by a complex pathogenesis, is the most common sustained cardiac arrhythmia in humans, represents a substantial burden for patients, clinicians, and healthcare systems worldwide, and requires a careful management. [2][3]][4][5][6][7][8][9][10][11][12] In a Fast Track Clinical Research article entitled 'Pulsed field vs radiofrequency ablation for paroxysmal atrial fibrillation: the BEAT PAROX-AF trial', Pierre Jais from the University of Bordeaux in France, and colleagues compare single-procedure efficacy and safety of pulsed field ablation (PFA) vs radiofrequency ablation (RFA) in patients with drug-resistant paroxysmal AF. 13 BEAT PAROX-AF is a European, multicentre, open-label, randomized, controlled, superiority trial conducted across nine European sites.Eligible patients (aged 18-80 years) with symptomatic, drug-resistant paroxysmal AF were randomized (1:1) to either PFA (pentaspline) or RFA following the CLOSE protocol (contact force sensing catheter and electroanatomical mapping system).The primary endpoint was the single-procedure success rate after 12 months defined as the absence of recurrence 30 s atrial arrhythmia, cardioversion, class I/III antiarrhythmic drug resumption after a 2-month blanking period, or any repeat ablation.From December 2021 to January 2024, a total of 292 patients were randomized and 289 (median age 63 years, 58% male) were analysed.Single-procedure success at 12 months was 77% in the PFA group and 77% in the RFA group (P = .84).Procedure-related serious adverse events occurred in 3.4% of PFA vs 7.6% of RFA patients.No deaths, persistent phrenic palsy, or stroke occurred.In the RFA group, two patients had pulmonary vein stenosis >70% and 12 had stenosis >50%; there were also two tamponades, and one oesophageal bleed (Figure 1).The authors conclude that this randomized trial performed in patients with paroxysmal AF does not demonstrate superior efficacy of single-shot PFA vs point-by-point RFA using the CLOSE protocol regarding single-procedure freedom from atrial arrhythmias, but fewer safety events being observed in this study with PFA.The manuscript is accompanied by an",
-    "summary": "This abstract comprises two distinct topics: (1) a narrative review of atrial fibrillation as an underappreciated complication of diabetes (prevalence up to 25%) with multifactorial pathogenesis requiring integrated CARE-based management; and (2) the BEAT PAROX-AF randomized controlled trial (N=289 patients with drug-resistant paroxysmal AF) comparing pulsed field ablation versus radiofrequency ablation, which demonstrated equivalent single-procedure success at 12 months (77% both groups, P=.84) but fewer serious adverse events with pulsed field ablation (3.4% vs 7.6%)."
-  },
-  {
-    "title": "Impact of Expandable Cryoballoon on Pulmonary Vein Morphology and Treatment Selection in Atrial Fibrillation Ablation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70227?af=R",
-    "doi": "10.1111/pace.70227",
-    "journal": "PACE",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775019863.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Cryoballoon (CB) ablation is widely used for pulmonary vein isolation (PVI). A novel CB (POLARx\u2010FIT) that can be expanded from 28 to 31\u00a0mm has recently been introduced. However, its impact on pulmonary vein (PV) morphology, acute lesion characteristics, and treatment selection remains unclear.\n                  \n                  \n                    Methods\n                    \n                      Among 416 consecutive patients undergoing PVI for atrial fibrillation, after excluding radiofrequency catheter ablation (RFCA) cases and CB ablation with Arctic Front Advance, 190 patients were included: a 28\u00a0mm CB group (POLARx,\n                      N\n                      = 122) and a 31\u00a0mm CB group (POLARx\u2010FIT,\n                      N\n                      = 68). PV morphology was assessed on preoperative computed tomography. Lesion size of the CB was evaluated using post\u2010ablation voltage mapping.\n                    \n                  \n                  \n                    Results\n                    \n                      After introduction of 31\u00a0mm CB, the proportion of patients selecting RFCA due to large PV size decreased from 30.7% to 8.3% (\n                      p\n                      &lt; 0.01). Left and right superior PV were significantly larger and both left and right PV distance were significantly longer in the 31\u00a0mm CB group. The actual PVI lesion area was significantly larger in the 31\u00a0mm CB group (28\u00a0mm CB: 14.1\u00a0\u00b1\u00a03.4 cm\n                      2\n                      , 31\u00a0mm CB: 17.5\u00a0\u00b1\u00a03.7 cm\n                      2\n                      ,\n                      p\n                      &lt; 0.01). One\u2010year atrial tachyarrhythmia recurrence was not significantly different between groups (\n                      p\n                      = 0.62)\n                    \n                  \n                  \n                    Conclusion\n                    Despite inclusion of patients with larger PVs, the 31\u00a0mm CB was associated with a larger PVI lesion, with similar 1\u2010year recurrence. The introduction of a 31\u00a0mm CB expanded CB eligibility and reduced the need for RFCA in the real\u2010world practice.",
-    "summary": "This prospective observational study of 190 AF patients compared 28 mm and 31 mm cryoballoon ablation for pulmonary vein isolation, finding that the expandable 31 mm balloon created significantly larger lesions (17.5 vs 14.1 cm\u00b2) and reduced RFCA crossover from 30.7% to 8.3% in patients with larger pulmonary veins, while maintaining similar 1-year atrial tachyarrhythmia recurrence rates. The expanded balloon broadened cryoballoon eligibility in real-world practice without compromising efficacy."
-  },
-  {
-    "title": "Successful Implantation of an Extravascular Implantable Cardioverter Defibrillator in a Patient with Hypertrophic Cardiomyopathy and Prior Sternotomy for Non-cardiac Surgery: A First-in-Man Report",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.04.013",
-    "doi": "10.1016/j.hrcr.2026.04.013",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Devices",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Acute Esophageal Dilatation Detected on CT After Radiofrequency Ablation of an Atrial Arrhythmia: A Case report",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.04.014",
-    "doi": "10.1016/j.hrcr.2026.04.014",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intraoperative Open-Chest Epicardial High-Density Mapping\u2013Guided Hybrid Ablation for Refractory Premature Ventricular Complexes and Ventricular Tachycardia in a Pediatric Patient Undergoing Aortic Valve Repair",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.04.015",
-    "doi": "10.1016/j.hrcr.2026.04.015",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "First Case Report of Leadless Pacemaker Snaring and Replacement via Internal Jugular Approach",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.04.016",
-    "doi": "10.1016/j.hrcr.2026.04.016",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Right Atrium-to-Left Ventricle Access Guided by Computed Tomography Merged with 3D Mapping for VT Ablation in a Patient with Mechanical Aortic and Mitral Valves",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.04.011",
-    "doi": "10.1016/j.hrcr.2026.04.011",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "VT",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Leadless Frontier in Cardiac Resynchronization: Leadless Right Ventricular Combined with Endocardial Left Ventricular Pacing",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.04.017",
-    "doi": "10.1016/j.hrcr.2026.04.017",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Differential Impact of Low Voltage Area Radiofrequency Ablation on Recurrence of Atrial Fibrillation Versus Atrial Tachycardia in Patients With Persistent Atrial Fibrillation",
-    "link": "https://doi.org/10.1161/circep.125.014408",
-    "doi": "10.1161/circep.125.014408",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Lesion Durability of the Second Generation Pentaspline Pulsed Field Ablation Catheter\n                    <i>NAVIGATE-PF</i>\n                    Phase 2 Results",
-    "link": "https://doi.org/10.1161/circep.125.014477",
-    "doi": "10.1161/circep.125.014477",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Remapping studies have evaluated chronic lesion durability of the first-generation pentaspline pulsed field ablation (PFA) catheter that did not have integrated electroanatomical mapping. By invasive remapping, this first-in-human study evaluated the durability of lesions facilitated by the integration of the navigation-enabled pentaspline PFA catheter and mapping system in patients with atrial fibrillation.\n                  \n                  \n                    METHODS:\n                    \n                      The\n                      NAVIGATE-PF-Phase 2\n                      trial evaluated the second-generation, mapping-integrated pentaspline PFA catheter. Lesion durability was assessed by invasive remapping 60 days postindex procedure.\n                    \n                  \n                  \n                    RESULTS:\n                    After index ablation in 20 patients with the pentaspline PFA catheter, remaps were performed 60 days later in 17 patients, demonstrating a high rate of lesion durability in the pulmonary veins (95%) and posterior wall (86%).\n                  \n                  \n                    CONCLUSIONS:\n                    By facilitating real-time visualization of catheter positioning and acute lesion estimation through tags, the second-generation map and ablate pentaspline PFA catheter and integrated mapping system may enhance procedural success.\n                  \n                  \n                    REGISTRATION:\n                    \n                      URL:\n                      https://www.clinicaltrials.gov\n                      ; Unique identifier: NCT06175234.",
-    "summary": "This prospective first-in-human trial (NAVIGATE-PF-Phase 2, n=20 with 17 remapped at 60 days) evaluated lesion durability of a second-generation mapping-integrated pentaspline pulsed field ablation catheter for atrial fibrillation, demonstrating high durability rates at invasive remapping: 95% in pulmonary veins and 86% in posterior wall. The integration of real-time electroanatomical mapping with the ablation catheter appears to enhance procedural efficacy by enabling improved catheter visualization and acute lesion assessment."
-  },
-  {
-    "title": "Safety and Chronic Atrial Lesion Formation With a Large-Tip, Contact-Force-Sensing Multipolar Pulsed Field Ablation Catheter: Effect of Application Number in a Porcine Beating Heart Model",
-    "link": "https://doi.org/10.1161/circep.125.014473",
-    "doi": "10.1161/circep.125.014473",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Integration of catheter\u2013tissue contact force with pulsed field ablation (PFA) dosing is essential for achieving safe and durable lesion formation with contact force sensing catheters in ventricular models. However, data on the use of these catheters for atrial ablation remain limited. This study evaluated the procedural safety and 30-day lesion characteristics of atrial PFA delivered with the OMNYPULSE ablation catheter in a porcine model.\n                  \n                  \n                    METHODS:\n                    Twelve pigs were randomized to receive either 6 (\u00d76 or Group A) or 12 (\u00d712 or group B) PFA applications per ablation. Following 3-dimensional electroanatomic mapping, PFA was delivered to the right superior and inferior pulmonary veins, cavotricuspid isthmus, right atrial posterior wall, left atrial roof, and mitral annulus. Procedural safety was assessed acutely, and lesion characteristics were evaluated on 30-day histology. Maximum transmurality extent (MTE) was defined as &gt;80% of the lesion span exhibiting continuous endocardial-to-epicardial fibrosis within representative histological sections.\n                  \n                  \n                    RESULTS:\n                    \n                      Adequate catheter\u2013tissue contact was achieved during PFA delivery (contact force, 28\u00b115 g). No acute procedural complications were observed. At 30 days, PVs and right atrial sites (ie, cavotricuspid isthmus and right atrial posterior wall) demonstrated near-complete MTE regardless of PFA dosing. In contrast, MTE was significantly lower at the mitral annulus and LA roof compared with other sites (44\u00b130% and 21\u00b126%, respectively;\n                      P\n                      &lt;0.001). Increasing the number of PFA applications (\u00d712) resulted in a remarkable improvement in MTE at these locations, with MTE increases of up to 68% compared with \u00d76 dosing at these sites.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    Atrial PFA using the OMNYPULSE catheter was feasible and safe in a porcine model. However, lesion transmurality varied by atrial location and was dose-dependent at select sites, underscoring the need for site-specific PFA dosing strategies. Further studies are warranted to define optimal PFA parameters for consistent atrial lesion formation.",
-    "summary": "This randomized controlled trial (n=12 pigs) evaluated atrial pulsed field ablation (PFA) using the OMNYPULSE contact force-sensing catheter at varying dosages (6 vs 12 applications), finding the procedure to be safe with adequate lesion transmurality at pulmonary veins and right atrial sites, but significantly reduced transmurality at the mitral annulus and left atrial roof that improved substantially with higher PFA dosing (\u00d712), suggesting the need for site-specific dosing strategies."
-  },
-  {
-    "title": "Leadless pacemaker placement in a patient with a bicaval stent transcatheter tricuspid valve replacement",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.01.011",
-    "doi": "10.1016/j.hrcr.2026.01.011",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "SUBCUTANEOUS ICD SYSTEM MALFUNCTION DURING PELVIC RADIATION THERAPY: RECOGNITION AND MANAGEMENT OF A RARE COMPLICATION",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.04.003",
-    "doi": "10.1016/j.hrcr.2026.04.003",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Early-onset and rapid progression of arrhythmogenic cardiomyopathy in a pediatric patient with medium chain acyl-CoA dehydrogenase deficiency",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.04.007",
-    "doi": "10.1016/j.hrcr.2026.04.007",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "High-Density 3D Mapping of Intermittent Fasciculoventricular Pathway: Intra-Case Comparison of Ventricular Activations",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.03.025",
-    "doi": "10.1016/j.hrcr.2026.03.025",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Zero-fluoroscopy pulsed field ablation of atrial fibrillation in a patient with cor triatriatum sinister: A case report",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.01.002",
-    "doi": "10.1016/j.hrcr.2026.01.002",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Zero-fluoroscopy catheter ablation of maternal atrial arrhythmias during pregnancy in a patient with myotonic dystrophy",
-    "link": "https://doi.org/10.1016/j.hrcr.2025.09.005",
-    "doi": "10.1016/j.hrcr.2025.09.005",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Comprehensive Genetic Testing Reveals a Dual-Molecular Basis for Severe Andersen\u2013Tawil Syndrome and Enables Precision-Based treatment",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.03.029",
-    "doi": "10.1016/j.hrcr.2026.03.029",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Successful Atrioventricular Nodal Reentrant Tachycardia Ablation in a 2-year-old Girl with Discordant Criss-Cross Heart",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.04.009",
-    "doi": "10.1016/j.hrcr.2026.04.009",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "SVT"
-    ],
-    "hot": false,
-    "abstract": "Criss-cross heart is an extremely rare congenital heart defect defined as the crossing of the long axis of the atrioventricular (AV) valve. It was first described by Lev and Rowlatt in 1961,1 and the term \u201ccriss-cross heart\u201d was initially coined by Anderson et al in 1972.2 According to the AV connection, criss-cross heart can be categorized into two types: concordant and discordant. In the concordant type, the inflowing blood streams from the right atrium (RA) to the right ventricle (RV) and from the left atrium (LA) to the left ventricle (LV) intersect.",
-    "summary": "This is a case report/review article describing criss-cross heart, an extremely rare congenital cardiac anomaly characterized by crossing of the long axis of the atrioventricular valve, classified as either concordant (RA-RV and LA-LV blood streams intersect) or discordant type based on atrioventricular connection patterns. No intervention or outcome data are presented in this descriptive definition excerpt."
-  },
-  {
-    "title": "Bachman\u2019s bundle and adjacent pacing \u2013 Do all roads lead to Rome?",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.03.024",
-    "doi": "10.1016/j.hrcr.2026.03.024",
+    "title": "Transient Phrenic Nerve Stunning During Superior Vena Cava Isolation Following Focal Pulsed Field Ablation",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.04.018",
+    "doi": "10.1016/j.hrcr.2026.04.018",
     "journal": "Heart Rhythm Case Rep",
     "date": "Apr 01, 2026",
     "date_ts": 1775001600.0,
