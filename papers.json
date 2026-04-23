@@ -1,5 +1,19 @@
 [
   {
+    "title": "First Pediatric Application of Bachmann's Bundle Pacing and Left Bundle Branch Area Pacing for Bi\u2010Physiologic Conduction System Pacing",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70349?af=R",
+    "doi": "10.1111/jce.70349",
+    "journal": "J Cardiovasc EP",
+    "date": "Apr 22, 2026",
+    "date_ts": 1776833730.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Atrial pacing at right atrial appendage causes nonphysiologic delays. Bachmann's bundle (BB) pacing preserves synchrony but lacks pediatric data.\n                  \n                  \n                    Case Summary\n                    We report the first pediatric combined BB and left bundle branch area pacing in a 9\u2010year\u2010old boy (23.5\u2009kg). With electrophysiologic and echocardiographic guidance, successful BB capture was achieved on a thin 2.1\u2009mm atrial septum. Pacing significantly shortened P\u2010wave duration (122\u2013&gt;\u200966\u2009ms) and reduced interatrial mechanical delay (53\u2013&gt;\u200940\u2009ms) on speckle\u2010tracking echocardiography.\n                  \n                  \n                    Conclusion\n                    This case demonstrates the acute success of BB pacing in a child. Bi\u2010physiologic pacing is technically feasible and safe, though long\u2010term outcomes warrant further evaluation.",
+    "summary": "This case report describes the first successful pediatric combined Bachmann's bundle and left bundle branch area pacing in a 9-year-old, demonstrating acute hemodynamic improvements with shortened P-wave duration (122\u219266 ms) and reduced interatrial mechanical delay (53\u219240 ms), though long-term safety and efficacy require further evaluation."
+  },
+  {
     "title": "Late device-related thrombus after left atrial appendage closure following early antithrombotic discontinuation: the paradox of complete sealing",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001789?dgcid=rss_sd_all",
     "doi": null,
@@ -153,6 +167,18 @@
     "tags": [
       "VT",
       "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "2026 ACC/AHA/HRS Advanced Training Statement on Clinical Cardiac Electrophysiology (Revision of the 2015 ACC/AHA/HRS Advanced Training Statement on Clinical Cardiac Electrophysiology): A Report of the ACC Competency Management Committee",
+    "link": "https://doi.org/10.1161/hae.0000000000000094",
+    "doi": "10.1161/hae.0000000000000094",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Apr 22, 2026",
+    "date_ts": 1776816000.0,
+    "tags": [
+      "Other"
     ],
     "hot": false
   },
@@ -572,6 +598,32 @@
     "date_ts": 1776734546.976668,
     "tags": [
       "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Differential Effects of Semaglutide and Colchicine on Atrial Remodeling in Rats with Reduced Ejection Fraction after Myocardial Infarction",
+    "link": "https://doi.org/10.1093/europace/euag091",
+    "doi": "10.1093/europace/euag091",
+    "journal": "EP Europace",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776729600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Atrial fibrillation (AF) is strongly associated with adverse outcomes, particularly in patients with heart failure (HF). AF susceptibility is driven by atrial remodeling, including electrical disarray, inflammation, and fibrosis, yet current therapies do not adequately target the underlying substrate. Semaglutide, a glucagon-like peptide-1 (GLP-1) receptor agonist, and colchicine, a broad-spectrum anti-inflammatory agent, have demonstrated cardiovascular benefits, but their effects on atrial remodeling remain unclear. We evaluated the effects of both drugs on atrial remodeling in post-myocardial infarction (MI) rats with reduced ejection fraction.\n                  \n                  \n                    Methods\n                    Male rats underwent MI together with implantation of a chronic atrial pacing and recording system. One week post-MI, animals with left ventricular ejection fraction \u226440% were randomized to semaglutide (40 \u00b5g/kg subcutaneously every 72 h), colchicine (100 \u00b5g/kg intraperitoneally daily), or vehicle for 21 days. Serial electrophysiological testing, echocardiography, histology, and molecular analyses were performed to characterize the AF substrate.\n                  \n                  \n                    Results\n                    Both semaglutide and colchicine reduced AF inducibility and AF duration, whereas semaglutide additionally reduced atrial signal complexity. Semaglutide attenuated atrial fibrosis, suppressed NOD-like receptor pyrin domain-containing protein 3 (NLRP3) inflammasome expression, prevented connexin-43 (Cx43) lateralization, and reduced expression of the proarrhythmic small-conductance calcium-activated potassium channel 4 (SK4). Colchicine reduced NLRP3 and SK4 expression and inhibited p38, c-Jun N-terminal kinase (JNK), and protein kinase B (AKT) signaling, but did not prevent fibrosis or Cx43 remodeling.\n                  \n                  \n                    Conclusions\n                    In the post-MI HF setting, both drugs demonstrated anti-arrhythmic and anti-remodeling effects. Their differential actions suggest that multiple pathways can be targeted to limit AF substrate progression.",
+    "summary": "This preclinical randomized controlled trial in post-MI rats with reduced ejection fraction (n not specified for final cohort) demonstrated that both semaglutide and colchicine reduced AF inducibility and duration, with semaglutide additionally reducing atrial fibrosis, NLRP3 inflammasome expression, and proarrhythmic ion channel remodeling through distinct mechanistic pathways. These findings suggest that GLP-1 agonists and anti-inflammatory agents may represent complementary therapeutic approaches to target atrial substrate remodeling in heart failure-associated AF."
+  },
+  {
+    "title": "The Natural History of Autosomal Recessive Atrial Dilated Cardiomyopathy Associated with Mutation of Natriuretic Peptide Precursor a",
+    "link": "https://doi.org/10.1093/europace/euag090",
+    "doi": "10.1093/europace/euag090",
+    "journal": "EP Europace",
+    "date": "Apr 21, 2026",
+    "date_ts": 1776729600.0,
+    "tags": [
+      "Genetics"
     ],
     "hot": false
   },
@@ -6141,96 +6193,38 @@
     "summary": "This post-hoc analysis of the LOOP study (n=1065 participants with >1.2 million days of continuous heart rhythm monitoring) found a dose-dependent temporal association between elevated plasma C-reactive protein (CRP) and occurrence of atrial fibrillation episodes \u226560 minutes, with each doubling of CRP conferring 36% higher odds of AF and CRP >50 mg/L associated with nearly six-fold increased odds compared to CRP \u22643 mg/L, supporting inflammation as an acute AF trigger."
   },
   {
-    "title": "Mitral annular disjunction and ventricular arrhythmias after mitral valve surgery: true, longer, inferolateral disjunctions matter",
-    "link": "https://doi.org/10.1093/eurheartj/ehag243",
-    "doi": "10.1093/eurheartj/ehag243",
-    "journal": "European Heart Journal",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775520000.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Breast cancer, fibrotic signalling, and development of atrial fibrillation",
-    "link": "https://doi.org/10.1093/eurheartj/ehag185",
-    "doi": "10.1093/eurheartj/ehag185",
-    "journal": "European Heart Journal",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775520000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "GWAS-Identified Novel Genetic Loci for QT Interval in Taiwan: Implications for Population-specific Arrhythmia Risk",
-    "link": "https://doi.org/10.1093/europace/euag055",
-    "doi": "10.1093/europace/euag055",
-    "journal": "EP Europace",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775520000.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Prolonged QT interval is a well-established marker for malignant ventricular arrhythmias and sudden cardiac death (SCD). Although previous genome-wide association studies (GWAS) have identified multiple QT-associated loci, most were conducted in European cohorts, limiting generalizability to East Asian populations. This study aimed to identify genetic determinants of QTc interval in a Taiwanese population.\n                  \n                  \n                    Methods\n                    A multi-stage GWAS was performed on 13,020 Taiwan Biobank participants genotyped using the Axiom Taiwan-specific TWB array, with \u223c4.5 million imputed SNPs tested. Genome-wide significant loci (P &amp;lt; 5\u00d710\u22128) were taken forward for validation in an independent cohort of 2,011 individuals from the NTU-AF Registry. Functional annotation included cis-eQTL assessment and Bayesian colocalization analyses in relevant cardiac and vascular tissues.\n                  \n                  \n                    Results\n                    Eleven significant loci were identified, including known QT loci/genes (KCNQ1, KCNH2, KCNE1, NOS1AP). Two novel loci\u2014rs55797717 (CD46/MIR29B2CHG) at 1q32.2 and rs76715387 (GJA1) at 6q22.31\u2014were identified and replicated in an independent population. Colocalization analyses linked these variants to gene expression in cardiac and vascular tissues (CD46 expression in atrial appendage and MIR29B2CHG in left ventricle; rs76715387 with GJA1 expression in tibial artery).\n                  \n                  \n                    Conclusions\n                    This is the first GWAS of QT interval in a Taiwanese cohort, revealing novel loci at GJA1 and CD46/MIR29B2CHG. These genes may influence ventricular repolarization and susceptibility to SCD through electrotonic load (GJA1), inflammation (CD46) or microRNA (MIR29B2CH).",
-    "summary": "This multi-stage GWAS in 13,020 Taiwanese participants identified 11 genome-wide significant loci associated with QTc interval, including two novel loci at GJA1 and CD46/MIR29B2CHG that were validated in an independent cohort of 2,011 individuals and functionally linked to cardiac tissue gene expression. These findings suggest novel mechanisms for QT prolongation and sudden cardiac death risk in East Asian populations through electrotonic coupling, inflammation, and microRNA regulation."
-  },
-  {
-    "title": "Adverse Outcomes Due to Atrioventricular Synchrony Loss Induced by Temporary VVI Pacing in Patients with Pre-existing DDD Stimulation: Insights from a Device Recall Scenario",
-    "link": "https://doi.org/10.1093/europace/euag068",
-    "doi": "10.1093/europace/euag068",
-    "journal": "EP Europace",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775520000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Aims\n                    Temporary reprogramming of dual-chamber (DDD) pacemakers to non-synchronous ventricular modes (VVI/VVIR) may be required in selected clinical scenarios, but short-term consequences of abrupt atrioventricular (AV) synchrony loss remain incompletely characterized.\n                    Leveraging a unique natural experiment, this study aimed to quantify the clinical and echocardiographic consequences of temporary VVI/VVIR pacing in patients in sinus rhythm chronically adapted to DDD stimulation.\n                  \n                  \n                    Methods and results\n                    In this prospective observational study, 93 patients (79.9\u00b116.0 years; 63.4% AV block) with recalled DDD pacemakers were reprogrammed to VVI/VVIR for 6 months, followed by DDD restoration. Serial assessments included echocardiography, BNP, and 6-minute walk test. Primary endpoints were changes in left ventricular ejection fraction (LVEF) and heart failure (HF) hospitalizations; secondary endpoints included echocardiographic remodelling parameters, functional capacity, quality of life, and atrial fibrillation. Clinical events were tracked for 12 months.\n                    Ventricular pacing remained &amp;gt;88% throughout. During the VVI/VVIR period, HF hospitalizations increased compared with the subsequent DDD restoration period (22.6% vs 6.7%, p&amp;lt;0.001). This was accompanied by adverse echocardiographic remodelling, a decline in LVEF from 57.3% to 53.0% (p&amp;lt;0.001), and a marked BNP increase from 155 to 260 pg/ml (p&amp;lt;0.001). After DDD restoration, clinical and structural recovery was incomplete: LVEF improved to 54.8% and BNP decreased to 210 pg/ml, but both remained significantly worse than baseline (p&amp;lt;0.05).\n                  \n                  \n                    Conclusion\n                    Temporary loss of AV synchrony in chronically DDD-paced patients was associated with rapid, severe, and only partially reversible clinical and echocardiographic deterioration. These findings underscore that continuous AV synchrony is a critical determinant of clinical stability.",
-    "summary": "This prospective observational study of 93 elderly patients with DDD pacemakers reprogrammed to VVI/VVIR for 6 months demonstrated that loss of atrioventricular synchrony resulted in significantly increased heart failure hospitalizations (22.6% vs 6.7%, p<0.001), declined left ventricular ejection fraction (57.3% to 53.0%), and elevated BNP levels, with only incomplete recovery after DDD restoration. These findings highlight that maintenance of AV synchrony is critical for clinical stability in chronically paced patients."
-  },
-  {
-    "title": "Transseptal Puncture and Catheter Ablation of Atrial Fibrillation in Patients With Atrial Septal Occluder Devices: Procedural Techniques and Outcomes",
-    "link": "https://doi.org/10.1093/europace/euag071",
-    "doi": "10.1093/europace/euag071",
-    "journal": "EP Europace",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775520000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Transseptal puncture (TSP) for left atrial (LA) access during catheter ablation poses technical challenges in patients with an atrial septal occluder (ASO) device because of altered septal anatomy and device coverage. However, detailed procedural techniques remain insufficiently described. This study aimed to describe a practical, case-based approach to TSP in patients with ASO devices and to evaluate procedural outcomes.\n                  \n                  \n                    Methods\n                    Between March 2005 and September 2025, a total of 1,550 patients underwent ASO device implantation at our institution. Among them, 28 consecutive patients who later underwent atrial fibrillation (AF) ablation between March 2017 and September 2025 were retrospectively analyzed. A representative clinical case illustrates the procedural workflow.\n                  \n                  \n                    Results\n                    Transseptal access was successfully achieved in 27 of 28 patients (96.4%). TSP was performed through the native septum in 17 patients and through the ASO device in 11 patients. Balloon dilation was frequently required in device puncture cases. Pulmonary vein isolation and adjunctive ablation were successfully completed in all patients without major complications. Small residual interatrial shunts observed immediately after the procedure resolved spontaneously during follow-up.\n                  \n                  \n                    Conclusion\n                    Transseptal puncture and AF ablation can be performed safely and effectively in patients with ASO devices. A case-based procedural approach with appropriate imaging guidance enables reliable LA access even in the presence of an ASO device.",
-    "summary": "This retrospective case series of 28 patients with atrial septal occluder devices undergoing AF ablation demonstrated successful transseptal access in 96.4% of cases, with pulmonary vein isolation and adjunctive ablation completed safely in all patients without major complications, using either native septum or device puncture approaches guided by appropriate imaging."
-  },
-  {
-    "title": "Temporal trends in the primary prevention of implantable cardioverter-defibrillator selection and long-term outcomes in patients with non-ischaemic dilated cardiomyopathy and ischaemic cardiomyopathy",
-    "link": "https://doi.org/10.1093/europace/euag062",
-    "doi": "10.1093/europace/euag062",
-    "journal": "EP Europace",
-    "date": "Apr 07, 2026",
-    "date_ts": 1775520000.0,
-    "tags": [
-      "SCD",
-      "Devices",
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background\n                    The effect of primary prevention ICD (ppICD) in non-ischemic dilated cardiomyopathy (DCM) remains debated. We investigated long-term outcomes and the incidence of ppICD therapy in patients with DCM and ischaemic cardiomyopathy (ICM), comparing implants before and after 2017.\n                  \n                  \n                    Methods\n                    We prospectively included ppICD patients from the multicenter IMPROVE study (2014-2022) with DCM and ICM. All underwent ECG and echocardiography at baseline. Primary outcome was appropriate ICD therapy; secondary outcome was all-cause mortality. Outcomes were compared pre- and post-2017 in DCM and ICM patients.\n                  \n                  \n                    Results\n                    Among 393 ppICD patients (median age 66, 15% female), 115 had DCM (66 post-2017, 49 pre-2017) and 278 had ICM (165 post-2017, 113 pre-2017). DCM post-2017 patients were younger (54 vs. 64 years, p &amp;lt; 0.01) and had a higher left ventricular ejection fraction (LVEF) (33% vs. 24%, p&amp;lt;0.001) compared to DCM pre-2017 patients. Nevertheless, ICD therapy (4.0 vs. 3.1/100 person-years (PY), p = 0.57) and all-cause mortality rates (2.0 vs. 4.7/100 PY, p = 0.09) were similar. ICM post-2017 patients had a slightly higher LVEF (31% vs. 29%, p = 0.04), fewer ICD therapies (3.1 vs. 6.2/100 PY, p = 0.01), and similar mortality rates (6.3 vs. 8.3/100 PY, p = 0.18) compared to pre-2017.\n                  \n                  \n                    Conclusions\n                    Patient selection for ppICD in DCM changed post-2017, with a shift towards younger patients and better LVEF compared to those implanted pre-2017; however, appropriate ICD therapy and all-cause mortality rates remained unchanged. In ICM, lower ICD therapy rates post-2017, may reflect improvement in revascularization and heart failure treatments.\n                  \n                  \n                    Trial Registration\n                    ClinicalTrials.gov Identifier: NCT02286908",
-    "summary": "This prospective multicenter cohort study (IMPROVE, 2014-2022) of 393 ppICD patients (115 DCM, 278 ICM) found that post-2017 DCM patients were younger with higher LVEF yet had similar rates of appropriate ICD therapy (4.0 vs. 3.1/100 PY) and mortality (2.0 vs. 4.7/100 PY) compared to pre-2017 implants, suggesting changing selection criteria without improved clinical outcomes. In ICM, post-2017 patients demonstrated reduced ICD therapy rates (3.1 vs. 6.2/100"
-  },
-  {
-    "title": "Troubleshooting Right-Sided His Bundle Pacing in Isolated Persistent Left Superior Vena Cava",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.04.012",
-    "doi": "10.1016/j.hrcr.2026.04.012",
+    "title": "Extravascular Implantable Cardioverter Defibrillator Lead Fracture and Challenges with Revision",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.04.019",
+    "doi": "10.1016/j.hrcr.2026.04.019",
     "journal": "Heart Rhythm Case Rep",
     "date": "Apr 01, 2026",
     "date_ts": 1775001600.0,
     "tags": [
       "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Perimitral Flutter Related to Pulsed Field Ablation using a pentaspline catheter: A Case Report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.04.021",
+    "doi": "10.1016/j.hrcr.2026.04.021",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Apr 01, 2026",
+    "date_ts": 1775001600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Delayed Circumflex Artery Stenosis Following Endocardial Left Posterolateral Accessory Pathway Ablation",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.04.020",
+    "doi": "10.1016/j.hrcr.2026.04.020",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Apr 01, 2026",
+    "date_ts": 1775001600.0,
+    "tags": [
+      "SVT"
     ],
     "hot": false
   }
