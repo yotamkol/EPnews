@@ -1,5 +1,65 @@
 [
   {
+    "title": "Pulsed Electric Field for Pulmonary Vein Isolation in Paroxysmal Atrial Fibrillation: A Multicenter Experience Comparing Pentaspline and Lattice Tip Catheters",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001807?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 26, 2026",
+    "date_ts": 1777166873.834198,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Centers of Excellence Optimal Management Pathways for Atrial Fibrillation Specialty Services (COMPASS) early rhythm control treatment care pathway: a quality improvement initiative",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001273?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Apr 26, 2026",
+    "date_ts": 1777166873.83412,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Late-Breaking Clinical Trials LB-525394: Late-Breaking Clinical Trials: Clinical Electrophysiology",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021521?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 26, 2026",
+    "date_ts": 1777166873.479134,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cognitive Function and Anticoagulation Discontinuation in Patients Without Long-Term Recurrence After Catheter Ablation for Atrial Fibrillation: A Substudy of the ALONE-AF Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022733?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 26, 2026",
+    "date_ts": 1777166873.479085,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Variable Loop Circular Catheter Pulsed Field Ablation in Real-World Practice: Low Complication Rates Across Patient and Procedural Characteristics in the REAL AF Registry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022721?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 26, 2026",
+    "date_ts": 1777166873.478904,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Sudden Cardiac Death Due to Myocardial Infarction With Obstructive and Nonobstructive Coronary Arteries",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726001403?dgcid=rss_sd_all",
     "doi": null,
@@ -46,6 +106,20 @@
       "SCD"
     ],
     "hot": false
+  },
+  {
+    "title": "Subcutaneous Defibrillator Implantation With or Without Defibrillation Test: The Primary Results of the Randomized PRAETORIAN-DFT Trial",
+    "link": "https://doi.org/10.1161/circulationaha.126.080638",
+    "doi": "10.1161/circulationaha.126.080638",
+    "journal": "Circulation",
+    "date": "Apr 25, 2026",
+    "date_ts": 1777075200.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Background: To improve survival in patients at risk of sudden cardiac death, subcutaneous ICDs (S-ICDs) require optimal implant positioning for effective shocks. Defibrillation (DF) testing is recommended but carries serious risks. The PRAETORIAN score predicts defibrillation outcomes based on chest X-rays. The PRAETORIAN-DFT trial evaluated whether omission of DF testing guided by the PRAETORIAN score is non-inferior for first-shock efficacy.\n                  Methods:  In this multinational trial, S-ICD patients from 37 centers were randomized to DF testing or no DF testing. In the No-DF testing group, the PRAETORIAN score was evaluated before discharge. The primary endpoint was failed first shock for spontaneous ventricular arrhythmias, as a surrogate for defibrillation success, tested for non-inferiority with a 3% absolute risk margin. Secondary endpoints included mortality, potential DF testing-related complications, and S-ICD revisions.\n                  Results: The included 965 patients (No-DF testing, n=483;DF testing, n=482) were followed for a median of 41 months. Failed first shock for spontaneous ventricular arrhythmia occurred in 1.7% of the No-DF testing group versus 2.3% of the DF testing group (\u20130.6%, 95% CI [ \u20132.6 to 1.4]; p&lt;0.001). There were no significant differences in all-cause mortality (HR 0.9 [95% CI 0.6\u20131.4]) or arrhythmic death (HR 0.4 [95% CI 0.04\u20133.4]). Potential DF testing-related complications occurred in 1.7% in the DF testing group. Postoperative S-ICD revisions due to inadequate positioning were identical between groups (n=2 each).\n                  Conclusions: PRAETORIAN score\u2013guided omission of DF testing- after S-ICD implantation did not increase the risk of failed first shocks for spontaneous ventricular arrhythmias and reduced procedural risk without increasing S-ICD revisions. (Funded by Boston Scientific; PRAETORIAN-DFT).",
+    "summary": "This multinational randomized controlled trial of 965 S-ICD patients demonstrated that omitting defibrillation testing guided by the PRAETORIAN score is non-inferior to routine testing for first-shock efficacy (1.7% vs 2.3% failed first shocks; p<0.001 for non-inferiority), while reducing procedural complications (1.7% in testing group) without increasing mortality or device revisions over 41 months of follow-up."
   },
   {
     "title": "Multifocal Purkinje-Related Premature Ventricular Contractions Cardiomyopathy From SCN5A Gain-of-Function Mutation Treated by Catheter Ablation",
@@ -6057,85 +6131,5 @@
     "hot": false,
     "abstract": "Abstract\n                  Pulsed field ablation (PFA) has rapidly evolved from an experimental electroporation-based concept to a widely adopted modality in cardiac electrophysiology, marking one of the fastest clinical integrations of a novel technology in the field. Its non-thermal mechanism, based on irreversible electroporation, fundamentally distinguishes it from conventional radiofrequency and cryoablation, providing relative myocardial selectivity and driving widespread enthusiasm and clinical uptake. However, the rapid expansion of PFA into routine practice introduces new clinical and organizational challenges. The growing number of scientific statements reflects the dynamic evolution of PFA technologies and underscores the need for iterative, regionally relevant guidance. Variability in healthcare systems, procedural workflows, and resource availability further necessitates tailored guidance, particularly within the European context. As the field transitions from innovation to implementation, emphasis must shift toward standardized procedural strategies, avoidance of excessive ablation, and structured education. Training programs must incorporate electroporation-specific principles and safety management. Ultimately, the responsible integration of PFA requires continued vigilance, registry-based surveillance, and collaborative scientific leadership. Ensuring that rapid technological progress translates into consistent, safe, and effective patient care remains a central priority for the European Heart Rhythm Association.",
     "summary": "This is a narrative review/position statement (not a primary research study) that discusses the clinical integration of pulsed field ablation (PFA), a non-thermal electroporation-based technology for cardiac arrhythmia ablation, emphasizing the need for standardized procedural protocols, specialized training, and registry-based surveillance to ensure safe and effective implementation across European healthcare systems as PFA transitions from experimental to routine practice."
-  },
-  {
-    "title": "Pulsed Field Ablation for the Interventional Treatment of Atrial Fibrillation. A Scientific Statement of the European Heart Rhythm Association (EHRA) of the ESC, the Heart Rhythm Society (HRS), the Asia Pacific Heart Rhythm Society (APHRS), the Latin American Heart Rhythm Society (LAHRS) and the Canadian Heart Rhythm Society (CHRS)",
-    "link": "https://doi.org/10.1093/europace/euag080",
-    "doi": "10.1093/europace/euag080",
-    "journal": "EP Europace",
-    "date": "Apr 12, 2026",
-    "date_ts": 1775952000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  Pulsed field ablation has emerged as a novel non-thermal treatment modality with a distinct safety profile for the interventional treatment of atrial fibrillation. By inducing irreversible electroporation, pulsed field ablation achieves myocardial ablation while preserving surrounding structures such as nerves, vasculature, and the esophagus. This European Heart Rhythm Association (EHRA) of the European Society of Cardiology (ESC) scientific statement, endorsed by major international societies, reviews the biophysics, technology, clinical evidence, workflow, safety, and training aspects of pulsed field ablation. Randomized trials demonstrate comparable efficacy to radiofrequency and cryoballoon ablation, with advantages in safety and efficiency. The statement provides practical advice for clinical implementation, operator training, and identifies key gaps in evidence and priorities for future research and innovation.",
-    "summary": "This EHRA/ESC scientific statement reviews pulsed field ablation, a novel non-thermal ablation modality for atrial fibrillation that uses irreversible electroporation to achieve selective myocardial ablation while preserving adjacent structures. Randomized trials demonstrate efficacy comparable to radiofrequency and cryoballoon ablation with superior safety and procedural efficiency profiles, with the statement providing guidance on clinical implementation and operator training requirements."
-  },
-  {
-    "title": "Female Sex\u2013Related Stroke Risk in Atrial Fibrillation: A Thing From the Past?",
-    "link": "https://doi.org/10.1161/circep.125.014728",
-    "doi": "10.1161/circep.125.014728",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Apr 12, 2026",
-    "date_ts": 1775952000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Comparison of Invasive Left Atrial Pressure Between Bachmann's Bundle and Right Atrial Appendage Pacing",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70255?af=R",
-    "doi": "10.1111/pace.70255",
-    "journal": "PACE",
-    "date": "Apr 11, 2026",
-    "date_ts": 1775911986.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Bachmann's bundle pacing (BBP) is associated with shorter p\u2010wave duration (PWD) and reduced atrial fibrillation (AF) recurrence compared to right atrial appendage pacing (RAAP). We investigated the differences in acute left atrial pressure (LAP) measured invasively between sinus rhythm, BBP and RAAP.\n                  \n                  \n                    Methods and Results\n                    \n                      Acute LAP and PWD were measured in subjects undergoing left atrial catheter ablation in sinus rhythm, during BBP and RAAP at the end of ablation. Differences in PWD and LAP were determined by paired t\u2010tests. Among 26 subjects (age 56.6 \u00b1 14.2years, 27% female, 11% left\u2010sided accessory pathway ablation, 54% pulmonary vein isolation[PVI], 35% PVI+additional LA ablation), BBP was successful in 24 subjects. Adjusted for age, only PWD was significantly associated with LAP in sinus rhythm (\u00df 0.12,\n                      p\n                      = 0.039). Compared to sinus rhythm and RAAP, BBP was associated with significantly shorter PWD (\n                      p\n                      &lt; 0.05), but LAP was not significantly different (\n                      p\n                      &gt; 0.05). In subgroup analyses, BBP remained associated with significantly shorter PWD, but was also associated with lower acute LAP compared to RAAP (16.7 \u00b1 5.5\u00a0mmHg vs. 17.0 \u00b1 6.0\u00a0mmHg,\n                      p\n                      = 0.010), among patients with interatrial conduction delay, defined as PWD&gt;120\u00a0ms during sinus rhythm. Acute LAP was similar between BBP, sinus rhythm and RAAP in other subgroups (paroxysmal vs. persistent AF, PVI vs. PVI+additional LA ablation, left ventricular ejection fraction &lt;50%\u00a0vs. \u226550%; all\n                      p\n                      &gt; 0.05).\n                    \n                  \n                  \n                    Conclusion\n                    Reductions in PWD during BBP did not correspond with uniform reductions with acute LAP. Acute LAP was lower in BBP than RAAP, but its clinical significance in reducing AF requires further study.",
-    "summary": "This prospective observational study of 26 patients undergoing left atrial catheterization found that Bachmann's bundle pacing achieved significantly shorter P-wave duration compared to right atrial appendage pacing, but acute left atrial pressure reduction was limited to patients with baseline interatrial conduction delay (PWD >120 ms), suggesting that hemodynamic benefits of BBP may not uniformly correlate with electrical improvements across all patient populations."
-  },
-  {
-    "title": "Zero\u2010Fluoroscopy Versus Conventional Catheter Ablation for Premature Ventricular Contractions",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70248?af=R",
-    "doi": "10.1111/pace.70248",
-    "journal": "PACE",
-    "date": "Apr 11, 2026",
-    "date_ts": 1775911789.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Catheter ablation of premature ventricular contractions (PVCs) is an effective treatment modality, but traditionally involves fluoroscopy, which poses radiation risks. Recently, zero\u2010fluoroscopy (ZF) techniques have emerged as a safer alternative, especially in young patients and those requiring multiple procedures.\n                  \n                  \n                    Methods\n                    \n                      This retrospective, single\u2010center study evaluated 150 patients who underwent PVC ablation between January 2023 and March 2025. Patients were divided into two groups: those treated with ZF (\n                      n\n                      = 75) and conventional fluoroscopy (CF) (\n                      n\n                      = 75). Procedural characteristics, procedure time, success rates, and complications were compared.\n                    \n                  \n                  \n                    Results\n                    \n                      Acute procedural success was achieved in 79.3% overall, with comparable rates between ZF and CF groups (78.7%\u00a0vs. 80.0%,\n                      p\n                      = 0.84). The median procedure time was similar (88 vs. 90\u00a0min,\n                      p\n                      = 0.14), and no significant differences were observed in complication rates (4.0%\u00a0vs. 4.0%,\n                      p\n                      = 1.00). Stratified analysis revealed longer procedure times in anatomically complex PVC origins, particularly in LV\u2010superior and summit regions (\n                      p\n                      &lt; 0.001), whereas RV\u2010inferior PVCs showed the highest success (90%) and shortest duration (\n                      p\n                      &lt; 0.05). Univariate logistic regression identified a higher PVC burden and a longer procedure time as predictors of procedural failure. No coronary or atrioventricular conduction injury occurred in either group.\n                    \n                  \n                  \n                    Conclusion\n                    Zero\u2010fluoroscopy PVC ablation is a safe and effective alternative to conventional methods. Despite longer durations in anatomically complex cases, the ZF approach avoids radiation without compromising outcomes.",
-    "summary": "This retrospective, single-center study of 150 patients (75 zero-fluoroscopy vs. 75 conventional fluoroscopy) demonstrated comparable acute procedural success rates (78.7% vs. 80.0%), procedure times (88 vs. 90 minutes), and complication rates (4.0% vs. 4.0%) for PVC ablation, establishing zero-fluoroscopy as a safe and effective alternative that eliminates radiation exposure without compromising efficacy, though with longer durations in anatomically complex ablation sites."
-  },
-  {
-    "title": "When a Pacemaker Goes Rogue: A Case of Pitchfork Bifurcation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70327?af=R",
-    "doi": "10.1111/jce.70327",
-    "journal": "J Cardiovasc EP",
-    "date": "Apr 11, 2026",
-    "date_ts": 1775910997.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "The authors declare no conflicts of interest.",
-    "summary": "I don't see a medical research abstract in your message to summarize. Could you please provide the abstract you'd like me to summarize? Once you share it, I'll provide a concise 1-2 sentence summary including the study type, sample size, intervention/exposure, and key results."
-  },
-  {
-    "title": "Tether fracture of a leadless pacemaker during repeated deployment: Identification of a procedural warning sign",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.04.022",
-    "doi": "10.1016/j.hrcr.2026.04.022",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
   }
 ]
