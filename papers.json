@@ -1,5 +1,103 @@
 [
   {
+    "title": "Pulsed Field Ablation as Initial Therapy for Persistent Atrial Fibrillation",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2600929?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMoa2600929",
+    "journal": "NEJM",
+    "date": "Apr 27, 2026",
+    "date_ts": 1777253339.429527,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A Shielded Circuit: Pulsed-Field Ablation of VT Substrate Hidden Behind a Calcified Thrombus",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26000277?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Apr 27, 2026",
+    "date_ts": 1777253338.375591,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "High-Voltage Nanosecond Pulse Field Ablation Using A Compliant Circular Catheter To Treat Atrial Fibrillation: Lesion Durability & One-Year Outcomes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003671?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Apr 27, 2026",
+    "date_ts": 1777253338.375518,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "<em>LEAP2</em>: A First-in-Human Evaluation of a Chronically-Implanted Novel Leadless Pacemaker for Conduction System Pacing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022630?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 27, 2026",
+    "date_ts": 1777253337.968367,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Safety and performance of a novel ICD lead for left bundle branch area pacing: Results from the ASCEND CSP trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021946?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 27, 2026",
+    "date_ts": 1777253337.968323,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Late-Breaking Clinical Trials LB-525396: Late-Breaking Clinical Trials: Pulsed Field Ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021545?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 27, 2026",
+    "date_ts": 1777253337.968275,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Late-Breaking Clinical Trials LB-525395: Late-Breaking Clinical Trials: Cardiac Implanted Electronic Devices",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021533?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Apr 27, 2026",
+    "date_ts": 1777253337.96807,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Hybrid Technique for a Rare Complication of Cardiac Devices Implantation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70270?af=R",
+    "doi": "10.1111/pace.70270",
+    "journal": "PACE",
+    "date": "Apr 26, 2026",
+    "date_ts": 1777185960.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  Cardiac perforation is a rare complication of cardiac devices implantation. In this case report, a case of a 90\u2010year\u2010old man with early cardiac lead perforation is presented. The combination of capture failure on the electrocardiogram with the malposition of ventricular lead on the chest radiogram raised the suspicion for this complication, while the chest computed tomography confirmed the diagnosis. A hybrid management approach was applied for the removal of the initial ventricular lead. Although cardiac perforation is considered a potentially lethal complication, the early diagnosis and the appropriate treatment strategy can be lifesaving and effective, even for older patients.",
+    "summary": "This case report describes a 90-year-old patient with early cardiac lead perforation diagnosed through electrocardiographic capture failure and imaging findings, successfully managed with hybrid lead removal, demonstrating that early recognition and appropriate intervention can be effective even in elderly patients."
+  },
+  {
     "title": "Pulsed Electric Field for Pulmonary Vein Isolation in Paroxysmal Atrial Fibrillation: A Multicenter Experience Comparing Pentaspline and Lattice Tip Catheters",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001807?dgcid=rss_sd_all",
     "doi": null,
@@ -120,6 +218,20 @@
     "hot": false,
     "abstract": "Background: To improve survival in patients at risk of sudden cardiac death, subcutaneous ICDs (S-ICDs) require optimal implant positioning for effective shocks. Defibrillation (DF) testing is recommended but carries serious risks. The PRAETORIAN score predicts defibrillation outcomes based on chest X-rays. The PRAETORIAN-DFT trial evaluated whether omission of DF testing guided by the PRAETORIAN score is non-inferior for first-shock efficacy.\n                  Methods:  In this multinational trial, S-ICD patients from 37 centers were randomized to DF testing or no DF testing. In the No-DF testing group, the PRAETORIAN score was evaluated before discharge. The primary endpoint was failed first shock for spontaneous ventricular arrhythmias, as a surrogate for defibrillation success, tested for non-inferiority with a 3% absolute risk margin. Secondary endpoints included mortality, potential DF testing-related complications, and S-ICD revisions.\n                  Results: The included 965 patients (No-DF testing, n=483;DF testing, n=482) were followed for a median of 41 months. Failed first shock for spontaneous ventricular arrhythmia occurred in 1.7% of the No-DF testing group versus 2.3% of the DF testing group (\u20130.6%, 95% CI [ \u20132.6 to 1.4]; p&lt;0.001). There were no significant differences in all-cause mortality (HR 0.9 [95% CI 0.6\u20131.4]) or arrhythmic death (HR 0.4 [95% CI 0.04\u20133.4]). Potential DF testing-related complications occurred in 1.7% in the DF testing group. Postoperative S-ICD revisions due to inadequate positioning were identical between groups (n=2 each).\n                  Conclusions: PRAETORIAN score\u2013guided omission of DF testing- after S-ICD implantation did not increase the risk of failed first shocks for spontaneous ventricular arrhythmias and reduced procedural risk without increasing S-ICD revisions. (Funded by Boston Scientific; PRAETORIAN-DFT).",
     "summary": "This multinational randomized controlled trial of 965 S-ICD patients demonstrated that omitting defibrillation testing guided by the PRAETORIAN score is non-inferior to routine testing for first-shock efficacy (1.7% vs 2.3% failed first shocks; p<0.001 for non-inferiority), while reducing procedural complications (1.7% in testing group) without increasing mortality or device revisions over 41 months of follow-up."
+  },
+  {
+    "title": "Effect of GLP\u20101 Receptor Agonists on Post\u2010Ablation Atrial Fibrillation Recurrence: A Meta\u2011Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70262?af=R",
+    "doi": "10.1111/pace.70262",
+    "journal": "PACE",
+    "date": "Apr 25, 2026",
+    "date_ts": 1777116686.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Among patients undergoing catheter ablation for atrial fibrillation (AF), it remains uncertain whether peri\u2010 or post\u2010ablation use of glucagon\u2010like peptide\u20101 receptor agonists (GLP\u20101 RAs) reduces AF recurrence.\n                  \n                  \n                    Objectives\n                    We conducted a meta\u2010analysis of observational studies and randomized controlled trials comparing GLP\u20101 RA therapy versus no GLP\u20101 RA use on AF recurrence following ablation.\n                  \n                  \n                    Methods\n                    \n                      We systematically searched PubMed, Scopus, Web of Science, and Embase for adult randomized and observational studies. Random\u2010effects models generated risk ratios (RRs), and heterogeneity was assessed via I\n                      2\n                      . Time\u2010to\u2010event outcomes were synthesized using reconstructed individual patient data from Kaplan\u2013Meier curves.\n                    \n                  \n                  \n                    Results\n                    \n                      Six studies met the inclusion criteria, with four contributing data for Kaplan\u2013Meier curve reconstruction and five included in the hazard ratio (HR) meta\u2010analysis. Across four studies (\n                      n\n                      = 695; GLP\u20101 RA = 295; control = 400), pooled Kaplan\u2013Meier curves showed a lower risk of AF recurrence with GLP\u20101 RA therapy (HR 0.53, 95% confidence interval [CI]: 0.38\u20130.72), with a restricted mean survival time (RMST) advantage of 1.02 months. A random\u2010effects meta\u2010analysis of five studies confirmed this benefit (HR 0.78, 95% CI: 0.61\u20130.99;\n                      I\n                      2\n                      = 75%). Pairwise analyses at 12 months demonstrated fewer AF recurrences with GLP\u20101 RAs (28.6%\u00a0vs. 32.9%; RR 0.82, 95% CI: 0.76\u20130.90;\n                      I\n                      2\n                      = 46.9%).\n                    \n                  \n                  \n                    Conclusion\n                    GLP\u20101 RA therapy was associated with reduced AF recurrence after ablation, but methodological limitations warrant cautious interpretation. Prospective randomized trials are needed to confirm this potential benefit.",
+    "summary": "This meta-analysis of 6 observational studies and RCTs (n=695) found that perioperative GLP-1 receptor agonist use was associated with reduced atrial fibrillation recurrence following catheter ablation (pooled HR 0.53, 95% CI 0.38-0.72; 28.6% vs 32.9% recurrence at 12 months), though the authors acknowledge methodological limitations and call for prospective RCTs to confirm these findings."
   },
   {
     "title": "Multifocal Purkinje-Related Premature Ventricular Contractions Cardiomyopathy From SCN5A Gain-of-Function Mutation Treated by Catheter Ablation",
@@ -6011,125 +6123,5 @@
       "SCD"
     ],
     "hot": false
-  },
-  {
-    "title": "RACGAP1 as a Circulating Biomarker of Atrial Fibrillation in Heart Failure: A Dual-Cohort Proteomic Study",
-    "link": "https://doi.org/10.1161/circep.125.014024",
-    "doi": "10.1161/circep.125.014024",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Apr 14, 2026",
-    "date_ts": 1776124800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Experimental Platform for Screening and Validation of BacNa\n                    <sub>v</sub>\n                    Gene Therapy Candidates",
-    "link": "https://doi.org/10.1161/circep.125.014425",
-    "doi": "10.1161/circep.125.014425",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Apr 14, 2026",
-    "date_ts": 1776124800.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Breaking Frontiers\u2014Leadless Atrial\u2010Ventricular Hybrid Upgrade to Dual Chamber Leadless Pacemaker",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70252?af=R",
-    "doi": "10.1111/pace.70252",
-    "journal": "PACE",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776085186.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Leadless pacemakers (LP) have significantly reduced device\u2010related complications compared with conventional systems, yet limitations in atrial pacing and atrioventricular (AV) synchrony restrict their widespread use.\n                  \n                  \n                    Methods and Results\n                    We report an 87\u2010year\u2010old man with a history of stage 5 CKD on haemodialysis with complete AV block and a previously implanted Micra\u2010AV who developed symptomatic sinus node dysfunction. To restore AV synchrony and avoid transvenous implantation, an Abbott AVEIR AR atrial LP was implanted, achieving functional dual\u2010chamber leadless pacing. The procedure had no complications, and the follow\u2010up demonstrated 89% AV synchrony with symptomatic improvement.\n                  \n                  \n                    Conclusion\n                    This case demonstrates the feasibility of achieving a hybrid dual\u2010chamber leadless pacing system from two different manufacturers in selected patients.",
-    "summary": "This case report describes successful implantation of a hybrid dual-chamber leadless pacing system combining an existing Micra-AV ventricular leadless pacemaker with a newly implanted Abbott AVEIR AR atrial leadless pacemaker in an 87-year-old hemodialysis patient with complete AV block and sinus node dysfunction, achieving 89% AV synchrony without complications. The case demonstrates the feasibility of cross-manufacturer leadless pacemaker pairing to restore AV synchrony while avoiding transvenous lead placement in selected patients."
-  },
-  {
-    "title": "Left Bundle Branch Area Pacing Reverts Electromechanical Window Negativity to a Similar Extent as Biventricular Pacing",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70250?af=R",
-    "doi": "10.1111/pace.70250",
-    "journal": "PACE",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776069638.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Cardiac resynchronization therapy (CRT) through left bundle branch area pacing (LBBAP) has been associated with reduced arrhythmogenic risk compared to biventricular pacing (BiVP). Electromechanical window (EMW) is a marker of electromechanical instability, and a negative EMW is associated with ventricular arrhythmias. We hypothesized that LBBA\u2010CRT increases EMW at least as much as BiVP\u2010CRT does.\n                  \n                  \n                    Methods\n                    \n                      129 CRT recipients (LBBAP:\n                      n\n                      = 63; BiVP:\n                      n\n                      = 66) were included. EMW and echocardiographic reverse remodeling were evaluated before and 6\u201312 months after CRT implantation in the entire cohort and in a subgroup of patients with a negative EMW at baseline. EMW is calculated by subtracting the QT interval from the time interval of QRS onset to the aortic valve closure artifact (QAoC) using CW\u2010Doppler echocardiography.\n                    \n                  \n                  \n                    Results\n                    \n                      EMW measurements were feasible in 67% of patients (\n                      n\n                      = 86). No significant difference in \u0394EMW was observed between LBBAP and BiVP. In patients with a negative EMW at baseline, both CRT strategies led to significant EMW increase (LBBAP:\n                      n\n                      = 21, \u0394EMW +13\u00a0ms (IQR \u22121 to 70),\n                      p\n                      = 0.003; BiVP:\n                      n\n                      = 36, \u0394EMW +26\u00a0ms (IQR \u22122 to 54),\n                      p\n                      = 0.006). There was no significant difference between CRT groups (\n                      p\n                      = 0.779). Left ventricular ejection fraction improved by 10%\u00a0\u00b1\u00a011% and end\u2010diastolic volume decreased by 37\u00a0\u00b1\u00a051\u00a0mL (&lt;0.001), with no significant differences between LBBAP and BiVP. In multivariable analysis, a negative EMW at baseline, but not echocardiographic reverse remodeling, was the only independent predictor of EMW increase.\n                    \n                  \n                  \n                    Conclusion\n                    In CRT patients with a negative EMW at baseline, LBBAP and BiVP revert EMW to a similar degree.",
-    "summary": "This prospective observational study of 129 CRT recipients (63 LBBAP, 66 BiVP) found no significant difference in electromechanical window improvement between left bundle branch area pacing and biventricular pacing at 6-12 months follow-up, with both strategies similarly increasing EMW in patients with negative baseline EMW. Both approaches achieved comparable left ventricular reverse remodeling, suggesting equivalent electromechanical benefits despite LBBAP's previously reported lower arrhythmogenic potential."
-  },
-  {
-    "title": "Conduction System Versus Biventricular Pacing in Pacing\u2010Induced Cardiomyopathy: Systematic Review and Meta\u2010Analysis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70243?af=R",
-    "doi": "10.1111/pace.70243",
-    "journal": "PACE",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776059375.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Biventricular pacing (BVP) and conduction system pacing (CSP) can enhance pacing\u2010induced cardiomyopathy (PICM) patients' clinical outcomes. Although BVP is a class I recommendation in guidelines, CSP may provide a superior physiological alternative to BVP. This meta\u2010analysis compares the efficacy and safety of CSP and BVP in PICM patients.\n                  \n                  \n                    Methods\n                    Databases including PubMed, Cochrane Library, Web of Science, and Embase were searched from their establishment to June 2025. Data analysis was performed using Stata 17.\n                  \n                  \n                    Results\n                    \n                      Twenty observational studies involving 821 patients with PICM were included, among which 360 patients were treated with BVP and 461 patients with CSP. Results showed CSP had a greater QRS duration (QRSd) reduction than BVP (MD\u00a0=\u00a0\u221253.26\u00a0ms, 95% CI: \u221258.13, \u221248.39\u00a0vs. MD\u00a0=\u00a0\u221230.69\u00a0ms, 95% CI: \u221235.79, \u221225.59) (\n                      p\n                      \u00a0&lt;\u00a00.001). After 15.6 months' follow\u2010up, CSP had a higher response rate (84.7%\u00a0vs.\u00a067.6%) (RR\u00a0=\u00a01.25, 95% CI: 1.14, 1.38) (\n                      p\n                      \u00a0&lt;\u00a00.001) and lower incidences of adverse outcomes and device\u2010related complications (14.0%\u00a0vs.\u00a020.1%) (RR\u00a0=\u00a00.7, 95% CI: 0.5, 0.98) (\n                      p\n                      \u00a0&lt;\u00a00.001) than BVP. Subgroup analysis showed His bundle pacing (HBP) was associated with greater QRSd shortening, while left bundle branch area pacing (LBBAP) had lower thresholds.\n                    \n                  \n                  \n                    Conclusions\n                    The results indicate that upgrading to CSP in PICM patients significantly improves electrical synchrony, and correlates with higher response rates and lower adverse outcomes, suggesting CSP as a promising alternative pacing strategy.",
-    "summary": "This meta-analysis of 20 observational studies (821 PICM patients: 461 CSP vs. 360 BVP) demonstrates that conduction system pacing achieves greater QRS duration reduction (53.26 ms vs. 30.69 ms), higher clinical response rates (84.7% vs. 67.6%), and lower adverse event rates (14.0% vs. 20.1%) compared to biventricular pacing at 15.6-month follow-up. The findings suggest CSP may be superior to guideline-recommended BVP for pacing-induced cardiomyopathy management, with His bundle pacing providing optimal"
-  },
-  {
-    "title": "Intracardiac echocardiography during invasive electrophysiological procedures. A scientific statement of the European Heart Rhythm Association of the ESC, and the European Association of Percutaneous Cardiovascular Interventions of the ESC",
-    "link": "https://doi.org/10.1093/europace/euag059",
-    "doi": "10.1093/europace/euag059",
-    "journal": "EP Europace",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776038400.0,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  Intracardiac echocardiography (ICE) is an imaging technique that provides real-time, detailed visualisation of intracardiac structures during various interventional procedures performed in the electrophysiology laboratory. Over the past decades, ICE has evolved beyond simply assisting with transseptal puncture, becoming an auxiliary tool in numerous aspects of cardiac interventions. This scientific statement offers a comprehensive, systematic overview of current applications of ICE across different clinical scenarios. The existing evidence regarding the benefits of ICE is primarily derived from observational studies, which complicates the formulation of definitive advice for its clinical use. Thus, this document aims to serve as a practical roadmap, emphasising the key benefits of the technique. The document covers fundamental principles of ICE imaging, standardised views, its role in transseptal puncture, ablation of supraventricular and ventricular arrhythmias, reduction of procedural radiation, early detection and management of periprocedural complications, identification of infective endocarditis, and the role of ICE for endomyocardial biopsy and left atrial appendage occlusion procedures.",
-    "summary": "This scientific statement synthesizes evidence from observational studies to provide a comprehensive overview of intracardiac echocardiography applications across electrophysiology procedures, highlighting its utility in guiding transseptal puncture, arrhythmia ablation, reducing radiation exposure, and detecting periprocedural complications. The authors emphasize ICE as a practical auxiliary tool for multiple cardiac interventions, though acknowledge the limited level of evidence from primarily observational data."
-  },
-  {
-    "title": "Digitally-Assisted Learning in Cardiac Electrophysiology and Cardiac Implantable Electronic Devices. A Scientific Statement of the European Heart Rhythm Association of the ESC",
-    "link": "https://doi.org/10.1093/europace/euag081",
-    "doi": "10.1093/europace/euag081",
-    "journal": "EP Europace",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776038400.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  The rapid expansion of interventional electrophysiology (EP) and cardiac implantable electronic device (CIED) therapies has outpaced the capacity of traditional apprenticeship-based training to deliver standardized, equitable, and patient-safe skill acquisition across Europe. This scientific statement of European Heart Rhythm Association (EHRA) of the European Society of Cardiology (ESC) synthesizes the current landscape of digitally-assisted learning for EP/CIED, provides a structured framework for implementation, and defines the responsibilities of scientific societies in establishing trustworthy, competency-based pathways. The document first reviews the technical principles and available digital modalities, emphasizing alignment of tool selection with learning objectives and staged progression. It then contrasts these capabilities with real-world uptake, highlighting fragmented access and strong reliance on industry-mediated training, alongside the emergence of neutral access models such as the EHRA Simulation Village. A central suggestion is the adoption of proficiency-based progression (PBP) supported by protocolized evaluation: predefined and validated performance metrics, benchmarking against expert standards, deliberate practice with structured feedback, and summative assessment prior to patient procedures. Key implementation challenges include resource disparities and geographic inequities, limits in simulation fidelity for team-based and contextual decision-making, governance of industry relationships, and the need for protected educational time. Pragmatic solutions include tiered certification tracks, hybrid models combining digital and supervised clinical training, regional simulation hubs, minimum simulator specifications, ongoing curriculum updates, and coordinated stakeholder collaboration. Priority research needs are defined around clinical outcome validation, optimal curriculum design, technology development, and implementation science.",
-    "summary": "This EHRA/ESC scientific statement synthesizes current evidence and provides a structured framework for implementing digitally-assisted learning in interventional EP and CIED training across Europe, recommending proficiency-based progression with validated performance metrics, protocolized evaluation, and hybrid training models to address fragmented access and ensure standardized, equitable skill acquisition. Key implementation strategies include tiered certification tracks, regional simulation hubs, and coordinated stakeholder collaboration, with identified priorities for clinical outcome validation and implementation science research."
-  },
-  {
-    "title": "Kidney disease increases the risk of cardiovascular events in patients with device-detected atrial fibrillation: NOAH-AFNET 6",
-    "link": "https://doi.org/10.1093/europace/euag083",
-    "doi": "10.1093/europace/euag083",
-    "journal": "EP Europace",
-    "date": "Apr 13, 2026",
-    "date_ts": 1776038400.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsed Field Ablation: From Technological Breakthrough to Structured Clinical Implementation\u2014The Role of the European Heart Rhythm Association",
-    "link": "https://doi.org/10.1093/europace/euag074",
-    "doi": "10.1093/europace/euag074",
-    "journal": "EP Europace",
-    "date": "Apr 12, 2026",
-    "date_ts": 1775952000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  Pulsed field ablation (PFA) has rapidly evolved from an experimental electroporation-based concept to a widely adopted modality in cardiac electrophysiology, marking one of the fastest clinical integrations of a novel technology in the field. Its non-thermal mechanism, based on irreversible electroporation, fundamentally distinguishes it from conventional radiofrequency and cryoablation, providing relative myocardial selectivity and driving widespread enthusiasm and clinical uptake. However, the rapid expansion of PFA into routine practice introduces new clinical and organizational challenges. The growing number of scientific statements reflects the dynamic evolution of PFA technologies and underscores the need for iterative, regionally relevant guidance. Variability in healthcare systems, procedural workflows, and resource availability further necessitates tailored guidance, particularly within the European context. As the field transitions from innovation to implementation, emphasis must shift toward standardized procedural strategies, avoidance of excessive ablation, and structured education. Training programs must incorporate electroporation-specific principles and safety management. Ultimately, the responsible integration of PFA requires continued vigilance, registry-based surveillance, and collaborative scientific leadership. Ensuring that rapid technological progress translates into consistent, safe, and effective patient care remains a central priority for the European Heart Rhythm Association.",
-    "summary": "This is a narrative review/position statement (not a primary research study) that discusses the clinical integration of pulsed field ablation (PFA), a non-thermal electroporation-based technology for cardiac arrhythmia ablation, emphasizing the need for standardized procedural protocols, specialized training, and registry-based surveillance to ensure safe and effective implementation across European healthcare systems as PFA transitions from experimental to routine practice."
   }
 ]
