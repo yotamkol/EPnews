@@ -1,5 +1,185 @@
 [
   {
+    "title": "Clinical Documentation of an Individualized Emergency Action Plan for Young Athletes With Cardiovascular Conditions at Risk for Sudden Cardiac Arrest",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726057967?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 01, 2026",
+    "date_ts": 1777600409.071329,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Double Trouble: Sinus Node Dysfunction Masquerading as High-Grade AV Block",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002641?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 01, 2026",
+    "date_ts": 1777600407.92304,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Polycystic Ovarian Syndrome and Brugada Syndrome Phenotype in Women",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600263X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 01, 2026",
+    "date_ts": 1777600407.923009,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Senning Procedure: Depicting Sutures by Lines of Block",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002756?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 01, 2026",
+    "date_ts": 1777600407.922978,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Narrow QRS Tachycardia With a His\u2013A\u2013V Sequence and Fixed Short HA Interval: A Concealed Nodofascicular Circuit With a Bystander Atrio-Hisian Tract",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002653?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 01, 2026",
+    "date_ts": 1777600407.922926,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "AF Ablation and Autonomic Provocation: A New Type of Holiday Heart?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002665?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 01, 2026",
+    "date_ts": 1777600407.922854,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Subcutaneous ICD Therapy in Patients with Prior Sternotomy: Feasibility and Long-Term Outcomes in a Propensity-Matched Analysis from a National Registry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023088?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 01, 2026",
+    "date_ts": 1777600407.58933,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Dual-Chamber Pacing from a Single Leadless Device: Preclinical Implant and Retrieval Feasibility Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023064?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 01, 2026",
+    "date_ts": 1777600407.589294,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Feasibility and Safety of Ablation using a Dual-Energy, Lattice-Tip, Map-and-Ablate Catheter in Patients with Mechanical Heart Valves",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602309X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 01, 2026",
+    "date_ts": 1777600407.589257,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Energy Modality Under-encoding in Atrial Fibrillation Ablation Literature: Implications in the Pulsed Field Era",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023106?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 01, 2026",
+    "date_ts": 1777600407.589223,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Identification of Clinical Risk Factors for Arrhythmia Recurrence in Atrial Fibrillation Patients Undergoing Catheter Ablation: A Systematic review and Meta-analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023131?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 01, 2026",
+    "date_ts": 1777600407.589182,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The Importance of Lead Management in the Transcatheter Tricuspid Valve Intervention Era",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602312X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 01, 2026",
+    "date_ts": 1777600407.589147,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Residual tiny pulmonary vein potentials on high-resolution mapping after pulsed field ablation predict atrial arrhythmia recurrence and poor durability of pulmonary vein isolation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023143?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 01, 2026",
+    "date_ts": 1777600407.589103,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Alert Tone Perceptibility and MRI-Associated Dysfunction in S-ICDs: A Prospective Multicenter Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023076?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 01, 2026",
+    "date_ts": 1777600407.589059,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Baseline QRS Axis Distinguishes Para-Hisian PVC From Outflow Tract PVCs",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023118?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 01, 2026",
+    "date_ts": 1777600407.588842,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Immediate vs Delayed Coronary Angiography After Cardiac Arrest Without ST-Segment Elevation: 5-Year Outcomes From the COACT Randomized Trial",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109725104348?dgcid=rss_sd_all",
     "doi": null,
@@ -1647,6 +1827,20 @@
       "VT"
     ],
     "hot": false
+  },
+  {
+    "title": "Comparison of the effectiveness and safety of dronedarone and amiodarone for preventing recurrence after catheter ablation of atrial fibrillation: an open-label randomized controlled trial",
+    "link": "https://doi.org/10.1093/europace/euag095",
+    "doi": "10.1093/europace/euag095",
+    "journal": "EP Europace",
+    "date": "Apr 28, 2026",
+    "date_ts": 1777334400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background\n                    The high recurrence rate after catheter ablation for atrial fibrillation (AF) remains a challenge. Short-term antiarrhythmic drugs are commonly used during the 3-month blanking period, but the choice between amiodarone and dronedarone is unclear.\n                  \n                  \n                    Objectives\n                    This trial directly compared the effectiveness and safety of dronedarone versus amiodarone administered during the blanking period post-ablation in AF.\n                  \n                  \n                    Methods\n                    In this open-label, randomized controlled trial, 280 patients undergoing AF ablation were assigned to receive 12 weeks of treatment with either dronedarone or amiodarone, which was discontinued upon completion of this treatment phase as per protocol. The primary endpoint was atrial tachyarrhythmia recurrence (&amp;gt;30 seconds) after the blanking period.\n                  \n                  \n                    Results\n                    A total of 280 participants were enrolled, of whom 273 were included in the modified intention-to-treat (mITT) analysis. In the mITT analysis, recurrence rates were not significantly different between the dronedarone and amiodarone groups (23.4% vs. 16.9%, P=0.184). Secondary efficacy endpoints also showed no significant differences. However, the dronedarone group had a significantly lower incidence of side effects (40.9% vs. 64.0%, P&amp;lt;0.001), primarily due to fewer cases of QTc-interval prolongation (5.8% vs. 15.4%, P=0.01) and hypothyroidism (8.8% vs. 26.5%, P&amp;lt;0.001). The intention-to-treat analysis, which included all enrolled participants, yielded results consistent with those of the mITT analysis.\n                  \n                  \n                    Conclusions\n                    Therapy with dronedarone during the blanking period after AF ablation was associated with a similar recurrence rate but a superior safety profile compared to amiodarone.",
+    "summary": "This open-label RCT of 280 AF patients compared dronedarone versus amiodarone during the 12-week post-ablation blanking period and found no significant difference in atrial tachyarrhythmia recurrence (23.4% vs. 16.9%, P=0.184), but dronedarone demonstrated superior safety with lower adverse effects including reduced QTc prolongation and hypothyroidism. Dronedarone may be preferred as first-line antiarrhythmic therapy during the blanking period given equivalent efficacy with a more favorable safety profile."
   },
   {
     "title": "Circulating miR-10b-5p as a Candidate Biomarker of Atrial Fibrillation Recurrence After Catheter Ablation: A Two-Phase Translational Study",
@@ -5940,204 +6134,5 @@
       "Imaging"
     ],
     "hot": false
-  },
-  {
-    "title": "Feasibility and safety of cavotricuspid isthmus ablation using a circular array pulse field ablation catheter: A single-center experience",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005847?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.031927,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "12-lead electrocardiogram-based artificial intelligence model accurately predicts near-term atrial fibrillation in patients with embolic stroke of undetermined source",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825006099?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.031895,
-    "tags": [
-      "AFib",
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Wearable single-lead ECG devices to improve cardiac arrhythmia screening in Ethiopia: Opportunities and challenges",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000115?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.031863,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Adherence to consensus-based implantable cardioverter-defibrillator programming and impact on therapy delivery in clinical practice: A national cohort study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000127?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.031831,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Skin sympathetic nerve activity and nocturnal septal ST-segment elevation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000218?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.031801,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Attitudes toward the use of technology among patients with atrial fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600022X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.031771,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The subserratus approach: Beyond the intermuscular plane",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825006087?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.031742,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Can artificial intelligence transform cardiomyopathy diagnosis and risk stratification in the Philippines?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000036?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.031711,
-    "tags": [
-      "SCD",
-      "Genetics",
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Author's Reply to \u201cCan artificial intelligence transform cardiomyopathy diagnosis and risk stratification in the Philippines?\u201d",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000048?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.031673,
-    "tags": [
-      "SCD",
-      "Genetics",
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Methodological considerations for nonconcurrent comparisons of pulsed field ablation catheter platforms",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000164?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.03164,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Author\u2019s reply to \u201cMethodological considerations for nonconcurrent comparisons of pulsed field ablation catheter platforms\u201d",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000176?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.031596,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Machine learning to classify left ventricular hypertrophy using ECG feature extraction by variational autoencoder",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001297?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.031547,
-    "tags": [
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "PERSIST-PWI Trial: Rationale and Design of a Multicenter Randomized Controlled Trial Comparing Pulmonary Vein Isolation Alone versus Pulmonary Vein Isolation plus Posterior Wall Isolation Using Pulsed Field Ablation in Patients with Persistent Atrial Fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001212?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.031505,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impaired Left Atrial Strain is Associated with New-onset Atrial Fibrillation and Adverse Clinical Outcomes in Primary Care Patients",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001315?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.031473,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transseptal access with an electrified guidewire and large pulsed field ablation sheath",
-    "link": "https://doi.org/10.1093/europace/euag079",
-    "doi": "10.1093/europace/euag079",
-    "journal": "EP Europace",
-    "date": "Mar 30, 2026",
-    "date_ts": 1774828800.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Leadless atrial versus transvenous pacing for sinus node dysfunction: 1-year outcomes from the leadless ARRIVE real-world study",
-    "link": "https://doi.org/10.1093/europace/euag072",
-    "doi": "10.1093/europace/euag072",
-    "journal": "EP Europace",
-    "date": "Mar 30, 2026",
-    "date_ts": 1774828800.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Leadless pacing was developed to avoid complications inherent to transvenous (TV) pacemakers. Among patients with sinus node dysfunction (SND) without atrioventricular block (AVB), TV systems remain standard therapy. Real-world data have shown favourable safety profiles for leadless vs. TV pacemakers. This study aimed to compare 30-day complications and 1-year outcomes\u2014including complications, device-reinterventions, and all-cause mortality\u2014between AVEIR AR leadless pacemakers (LP) and dual-chamber (DCTV) or right-atrial (RATV) TV pacemakers.\n                  \n                  \n                    Methods\n                    Medicare fee-for-service claims were analysed to identify patients undergoing de novo AVEIR AR LP or TV pacemaker implantation from January 2024 to March 2025, with \u22651 year of prior and \u226530 days of post-implant continuous enrolment. The DCTV cohort included patients with SND without permanent atrial fibrillation or AVB; the RATV and LP cohorts included all respective recipients. Outcomes included 30-day and 1-year complications, device-reinterventions, and mortality. Comparisons were adjusted using propensity score derived overlap weights.\n                  \n                  \n                    Results\n                    A total of 428 AVEIR AR, 39 881 DCTV, and 389 RATV patients were included. Thirty-day complications were lower with AVEIR AR compared with DCTV (adjusted 6.7% vs. 9.4%; OR = 0.7) and similar to RATV (6.9% vs. 6.7%). At 1 year, overall complications remained lower in AVEIR AR than DCTV (3.6% vs. 8.5%; HR = 0.4) and RATV (3.3% vs. 7.5%; HR = 0.4) cohorts. Device-related complications were reduced vs. DCTV, and reinterventions were reduced vs. both DCTV and RATV. Mortality was comparable across all groups.\n                  \n                  \n                    Conclusion\n                    AVEIR AR was associated with fewer long-term complications and reinterventions compared with DCTV and RATV, while 1-year mortality remained similar.",
-    "summary": "This retrospective analysis of Medicare claims (428 leadless vs. 40,270 transvenous pacemaker recipients) compared AVEIR AR leadless pacemakers to dual-chamber and right-atrial transvenous systems, finding significantly lower 30-day (6.7% vs. 9.4% for dual-chamber) and 1-year complication rates (3.6% vs. 8.5% for dual-chamber; 3.3% vs. 7.5% for right-atrial) with leadless pacing, without differences in mortality. Device-related reinterventions were also reduced with leadless pacing compared to both transven"
   }
 ]
