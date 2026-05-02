@@ -1,5 +1,17 @@
 [
   {
+    "title": "Early and Late Structural Fractures in the Left Atrial Appendage Disk Occluder",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002720?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 02, 2026",
+    "date_ts": 1777685425.996157,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Clinical Documentation of an Individualized Emergency Action Plan for Young Athletes With Cardiovascular Conditions at Risk for Sudden Cardiac Arrest",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726057967?dgcid=rss_sd_all",
     "doi": null,
@@ -214,6 +226,58 @@
       "SCD"
     ],
     "hot": false
+  },
+  {
+    "title": "Fluoroscopy\u2010Free Pulsed Field Ablation for Atrial Fibrillation: A Systematic Review of Procedural Feasibility and Safety",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70273?af=R",
+    "doi": "10.1111/pace.70273",
+    "journal": "PACE",
+    "date": "Apr 30, 2026",
+    "date_ts": 1777545905.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND: Fluoroscopy reduction has become a priority in electrophysiology to mitigate radiation exposure and the musculoskeletal burden of lead apron use. Pulsed field ablation (PFA) offers a favorable safety profile and efficient pulmonary vein isolation (PVI), making it an attractive platform for fluoroscopy-free workflows. Our aim is to evaluate the feasibility, procedural characteristics, and safety of fluoroscopy-free PFA for atrial fibrillation (AF). METHODS: We searched PubMed/MEDLINE, Embase, and Web of Science from inception through November 2025 for studies evaluating zero- or near-zero-fluoroscopy PFA in adults with paroxysmal or persistent AF. Eligible studies reported at least one feasibility or safety outcome (fluoroscopy time, acute PVI success, procedure duration, complications, or arrhythmia-free survival). Case reports, non-PFA energy sources, and pediatric studies were excluded. Data was extracted on study design, patient characteristics, procedural strategy, and outcomes. The protocol was registered in PROSPERO (CRD420251245538). RESULTS: Five observational studies published in 2025, comprising 260 patients, met inclusion criteria. Mean or median age ranged from 60 to 68 years, and most patients had paroxysmal AF. All procedures used contemporary PFA systems (Farawave, VARIPULSE, or PulseSelect) integrated with EnSite X or CARTO 3 mapping and ICE and/or TEE guidance. Four studies reported fluoroscopy times of 0 min; in the AdmIRE subgroup, fluoroscopy was 0 min in the zero-fluoroscopy group versus a median 2.7 min in the low-fluoroscopy group. Acute PVI was achieved in 100% of cases in all studies reporting this endpoint. Among cohorts with follow-up, freedom from AF ranged from 72.1% to 80%. Major complications were rare: no cardiac tamponade was reported in any fluoroscopy-free cohort, isolated cerebrovascular events occurred only in the larger registry without excess risk in the zero-fluoroscopy group. CONCLUSIONS: Fluoroscopy-free PFA for AF appears highly feasible, with uniform acute PVI success and low complication rates. Integration of echocardiographic guidance enables effective catheter navigation and lesion delivery without radiation. Larger, prospective multicenter studies with longer follow-up are needed to confirm long-term efficacy and safety.",
+    "summary": "This systematic review of five observational studies (260 patients with paroxysmal or persistent AF) demonstrates that fluoroscopy-free pulsed field ablation achieves 100% acute pulmonary vein isolation with rare major complications and freedom from AF of 72.1-80% at follow-up, establishing the feasibility of radiation-free ablation using ICE/TEE guidance integrated with contemporary mapping systems. However, the authors acknowledge that larger prospective multicenter trials with extended follow-up are necessary to validate long-term efficacy and safety."
+  },
+  {
+    "title": "Electrocardiographic Correlates of Myocardial Remodeling After Cardiac Resynchronization Therapy",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70258?af=R",
+    "doi": "10.1111/pace.70258",
+    "journal": "PACE",
+    "date": "Apr 30, 2026",
+    "date_ts": 1777545703.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Ethanol Infusion in the Vein of Marshall as an Adjunct to Catheter Ablation in Persistent Atrial Fibrillation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70275?af=R",
+    "doi": "10.1111/pace.70275",
+    "journal": "PACE",
+    "date": "Apr 30, 2026",
+    "date_ts": 1777544980.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left Internal Mammary Artery Injury After Pacemaker Lead Implant\u2014Case Report and Review of Literature",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70271?af=R",
+    "doi": "10.1111/pace.70271",
+    "journal": "PACE",
+    "date": "Apr 30, 2026",
+    "date_ts": 1777544684.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "We hereby report a case of a 75-year-old patient who developed a large left-sided hemopneumothorax after a routine dual-chamber pacemaker insertion. The rare complication was caused by the pacing lead injuring the left internal mammary artery (LIMA) after perforating the right ventricle.",
+    "summary": "This case report describes a 75-year-old patient who sustained a rare complication of hemopneumothorax following routine dual-chamber pacemaker insertion, caused by the pacing lead perforating the right ventricle and injuring the left internal mammary artery. The case highlights an uncommon but serious iatrogenic vascular injury associated with transvenous lead placement."
   },
   {
     "title": "Antibody\u2013siRNA conjugates enable macrophage-specific osteopontin inhibition to suppress atrial fibrillation",
@@ -6072,66 +6136,6 @@
     "date_ts": 1776324051.032126,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A randomized controlled trial of pulsed field ablation vs antiarrhythmic therapy as a first-line treatment for persistent atrial fibrillation: The AVANT GUARD trial rationale and design",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005884?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032091,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Evolving modalities of atrial fibrillation ablation: From thermal to nonthermal",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000152?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032062,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The gut\u2013heart axis in atrial fibrillation: Pathophysiology, evidence, and therapeutic potential",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005239?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032027,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Safety and efficacy of leadless pacemakers: A systematic review and meta-analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005872?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.031999,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of wideband phase-sensitive inversion recovery motion corrected late gadolinium imaging on 3T cardiac magnetic resonance image quality and diagnostic utility in patients with cardiac implantable electronic devices",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005823?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.03196,
-    "tags": [
-      "Imaging"
     ],
     "hot": false
   }
