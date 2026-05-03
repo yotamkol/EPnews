@@ -1,5 +1,33 @@
 [
   {
+    "title": "The Value of Inter\u2010Lesion Time in Linear Lesion Formation Across Varying Catheter Angles and Inter\u2010Lesion Distances",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70272?af=R",
+    "doi": "10.1111/pace.70272",
+    "journal": "PACE",
+    "date": "May 02, 2026",
+    "date_ts": 1777708580.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Our previous ex-vivo study showed that shorter inter-lesion time (ILT), defined as the interval between consecutive ablations, enhances lesion depth and may reduce residual conduction during linear ablation. Its impact under practical scenarios, such as parallel catheter orientation and shorter inter-lesion distance (ILD), remains unclear. To investigate how ILT, catheter orientation, and ILD affect lesion depth during linear ablation using high-power (HP) and very-high-power short-duration (vHPSD) settings in an ex-vivo model. Linear lesions (six per line) were created using the QDOT MICRO catheter (Biosense Webster). Phase 1 evaluated catheter orientation (parallel vs. perpendicular), and Phase 2 compared ILDs (6&#xa0;mm vs. 4&#xa0;mm). Minimum perpendicular inter-lesion depths and maximum lesion depths were measured under short ILT (15&#xa0;s) or long ILT (60&#xa0;s) using vHPSD (90&#xa0;W/4 s) or HP (50&#xa0;W, Ablation Index 350). Short ILT consistently increased maximum and inter-lesion depths across all settings. In Phase 1, parallel orientation produced deeper lesions than perpendicular under HP, whereas under vHPSD, parallel orientation generated shallower lesions. In Phase 2, lesions at ILD 4&#xa0;mm were deeper than at 6&#xa0;mm for the same ILT. Notably, short ILT at ILD6 mm achieved inter-lesion depths comparable to long ILT at ILD4 mm, suggesting an additive benefit of ILT shortening, though it cannot replace a short ILD. In this proof of concept study, shorter ILTs enhanced lesion depth across all conditions. The effect of catheter orientation varied between HP and vHPSD, suggesting that the optimal strategy to maximize ILT effectiveness depends on ablation setting.",
+    "summary": "This ex-vivo study evaluated how inter-lesion time (ILT), catheter orientation, and inter-lesion distance affect lesion depth during radiofrequency ablation using high-power and very-high-power short-duration settings with the QDOT MICRO catheter. Short ILT consistently increased lesion depth across all settings, though optimal catheter orientation differed between power modes, and shorter inter-lesion distance provided additive benefits that short ILT alone could not fully replicate."
+  },
+  {
+    "title": "Werner Irnich: Pioneer in the Development of the Dual\u2010Chamber Pacemaker\u2014An Obituary",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70269?af=R",
+    "doi": "10.1111/pace.70269",
+    "journal": "PACE",
+    "date": "May 02, 2026",
+    "date_ts": 1777707846.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Fifty years ago, Werner Irnich presented the concept of an optimal pacemaker capable of responding appropriately to various cardiac arrhythmias and perceptual disturbances, and intended to be used in 85% of patients. With this concept, Irnich was far ahead of his time. His proposed circuitry for AV block and atrial fibrillation, as well as his suggestions for antitachycardia pacing and interference detection, were visionary. In the field of rate-adaptive pacing, he introduced AV-time control, the first closed-loop system. Werner Irnich represents the close connection between engineers and physicians in the field of cardiac electrotherapy. His theoretical work on the chronaxie rheobase and the electrode surface, confirmed by experimental data, still forms the basis of modern electrical stimulation today. The most extensive data on the interference immunity of electronic implants comes from his laboratory. In addition to his membership in numerous scientific societies, Werner Irnich served as Senior Editor of the international journal Pacing and Clinical Electrophysiology (PACE) from 1978 to 2013. He passed away on December 2, 2023, at the age of 89, leaving behind his wife Hanni, five children, and twelve grandchildren. We will always remember him with gratitude and deep appreciation for his contributions to cardiac electrostimulation.",
+    "summary": "This is a historical obituary/tribute rather than a research abstract. It commemorates Werner Irnich's pioneering contributions to pacemaker technology over five decades, including his foundational work on rate-adaptive pacing, AV-block management, antitachycardia pacing, and electromagnetic interference immunity\u2014innovations that established the theoretical and practical basis for modern cardiac electrostimulation devices still in use today."
+  },
+  {
     "title": "Early and Late Structural Fractures in the Left Atrial Appendage Disk Occluder",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002720?dgcid=rss_sd_all",
     "doi": null,
@@ -6112,30 +6140,6 @@
     "date_ts": 1776324051.03219,
     "tags": [
       "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Efficacy and safety of direct oral anticoagulants for intermediate stroke risk in patients with atrial fibrillation (SINGLE-AF): Study design and protocol",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005835?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032157,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "OPTimizing Beta-Blocker Dosage in Women Using the Wearable Cardioverter-Defibrillator (OPT-BB Women): Study design",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825004647?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032126,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
