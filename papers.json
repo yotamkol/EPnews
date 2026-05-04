@@ -1,5 +1,17 @@
 [
   {
+    "title": "Use of rhythm control therapy for atrial fibrillation among Veterans in the Southeastern United States by rurality",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023374?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 04, 2026",
+    "date_ts": 1777859207.319879,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "The Value of Inter\u2010Lesion Time in Linear Lesion Formation Across Varying Catheter Angles and Inter\u2010Lesion Distances",
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70272?af=R",
     "doi": "10.1111/pace.70272",
@@ -6128,18 +6140,6 @@
     "date_ts": 1776324051.032222,
     "tags": [
       "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Beyond burden metrics: Wearable photoplethysmography-derived spatiotemporal progression of atrial fibrillation linked to clinical outcomes",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000061?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.03219,
-    "tags": [
-      "AFib"
     ],
     "hot": false
   }
