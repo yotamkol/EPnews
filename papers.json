@@ -12,6 +12,48 @@
     "hot": false
   },
   {
+    "title": "Left Bundle Branch Area Pacing versus Deep Septal Pacing in Patients After Transcatheter Aortic Valve Replacement",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70361?af=R",
+    "doi": "10.1111/jce.70361",
+    "journal": "J Cardiovasc EP",
+    "date": "May 03, 2026",
+    "date_ts": 1777831143.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Left bundle branch area pacing (LBBAP) has been reported to improve long-term clinical outcomes in patients requiring permanent pacemaker implantation (PPMI) after transcatheter aortic valve replacement (TAVR). Deep septal pacing (DSP) has emerged as a potential alternative to LBBAP. This study investigated whether short-term and long-term clinical outcomes differ between LBBAP and DSP in post-TAVR patients. Consecutive patients undergoing LBBAP or DSP following TAVR were retrospectively included at our institution. Short-term clinical outcomes (1-year follow-up) were assessed by echocardiographic measures of reverse remodeling and changes in QRS duration and N-terminal pro-B-type natriuretic peptide (NT-proBNP) levels. For long-term outcomes, the primary composite endpoint was all-cause mortality or heart failure hospitalization (HFH). Secondary endpoints included HFH and improvement in New York Heart Association (NYHA) class (&#x2265;&#x2009;2 grades). A total of 82 patients (39 LBBAP and 43 DSP) were observed for a mean duration of 731.8 days. There was no significant difference between two groups in the risk of primary endpoint (23.1% vs. 23.3%, adjusted hazard ratio [aHR] 0.61; 95% CI: 0.23-1.61, p&#x2009;=&#x2009;0.315) and HFH (17.9% vs. 20.9%, aHR 0.64; 95% CI: 0.22-1.82; p&#x2009;=&#x2009;0.402). However, LBBAP was a robust predictor of NYHA class improvement compared to DSP (53.8% vs. 27.9%, aHR 2.23; 95% CI: 1.03-4.87, p&#x2009;=&#x2009;0.043), especially when left bundle branch (LBB) capture was independently confirmed (aHR 2.74, p&#x2009;=&#x2009;0.006). Both modalities were similarly effective in improving electromechanical and biochemical parameters, including LVEF, LVEDD, QRS duration, and NT-proBNP (all p&#x2009;&gt;&#x2009;0.05). LBBAP and DSP yield comparable risks for the primary composite endpoint and HFH, yet LBBAP provides superior symptomatic relief. Confirmation of left bundle branch capture is advisable to optimize clinical benefits. Liangzhen Qu and Xueting Duan contributed equally to this manuscript.",
+    "summary": "This retrospective study of 82 post-TAVR patients (39 LBBAP, 43 DSP) found comparable long-term outcomes between left bundle branch area pacing and deep septal pacing for mortality/heart failure hospitalization (23.1% vs 23.3%), but LBBAP demonstrated superior symptomatic improvement with higher rates of NYHA class improvement (53.8% vs 27.9%)."
+  },
+  {
+    "title": "Dominant Frequency Mapping as a Functional Tool for Substrate\u2010Guided Ventricular Tachycardia Ablation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70356?af=R",
+    "doi": "10.1111/jce.70356",
+    "journal": "J Cardiovasc EP",
+    "date": "May 03, 2026",
+    "date_ts": 1777830621.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false,
+    "abstract": "Accurate identification of arrhythmogenic substrate is essential for successful ventricular tachycardia (VT) ablation, yet existing electrogram-based methods are limited by far-field interference and operator dependence. Dominant frequency (DF) mapping offers a stimulus-independent alternative, but existing implementations lack anatomically integrated workflows with quantitative assessment of spatial concordance. The objective of this study is to develop and evaluate a computational workflow for DF mapping with three-dimensional anatomical integration in patients undergoing substrate-guided VT ablation. We retrospectively analyzed 12 patients (mean age 57.5&#x2009;&#xb1;&#x2009;18.0 years; 75% male) with ischemic or non-ischemic cardiomyopathy. Intracardiac electrograms from SmartTouch or Pentaray catheters were segmented, transformed into the frequency domain, and thresholded using case-specific histograms. DF activity was projected onto patient-specific ventricular meshes, and spatial correspondence with operator-defined ablation sites was quantified using continuous proximity metrics (soft recall, soft precision) and receiver operating characteristic (ROC) analysis. DF analysis was successful in all cases, with projection errors &lt;&#x2009;4&#x2009;mm. DF activity showed high soft recall (0.776-0.999) and variable soft precision (0.025-0.754). ROC AUC values ranged from 0.622 to 0.953, exceeding baseline in all cases. SmartTouch data generally yielded higher recall and greater separation between ablation and non-ablation points. DF mapping with anatomical integration is feasible across catheter types and demonstrates consistent spatial concordance with operator-defined VT ablation targets. This stimulus-independent workflow can be applied to routine mapping data and provides a framework for quantitative assessment of spatial relationships with procedural targets. DF values were case-specific and not comparable across patients, catheter types, or institutions. Prospective evaluation in larger cohorts is warranted.",
+    "summary": "This retrospective analysis of 12 patients with cardiomyopathy evaluated a novel computational workflow integrating dominant frequency mapping with three-dimensional ventricular anatomy for identifying arrhythmogenic substrate during VT ablation, demonstrating feasible implementation across catheter types with good spatial concordance to operator-defined ablation targets (ROC AUC 0.622\u20130.953) but acknowledging case-specific variability requiring prospective validation."
+  },
+  {
+    "title": "Prospective Trial of Radiofrequency Catheter Ablation of High Dominant Frequencies After Pulmonary Vein Isolation in Non\u2010Paroxysmal Atrial Fibrillation (PAD\u2010AF Trial): A Multicenter, Randomized Clinical Trial",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70357?af=R",
+    "doi": "10.1111/jce.70357",
+    "journal": "J Cardiovasc EP",
+    "date": "May 03, 2026",
+    "date_ts": 1777830558.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "The role of dominant frequency (DF)-guided ablation after pulmonary vein isolation (PVI) in persistent atrial fibrillation (AF) remains uncertain. We evaluated the clinical and mechanistic impact of DF mapping in a multicenter randomized study. In this multicenter, prospective study, 103 patients were enrolled. Patients with high-DF sites (&#x2265;&#x2009;7&#x2009;Hz) were randomized 1:1 to PVI plus DF ablation (DF group, n&#x2009;=&#x2009;32) or PVI alone (PVI group, n&#x2009;=&#x2009;32). Patients without high-DF sites (&lt;&#x2009;7&#x2009;Hz, n&#x2009;=&#x2009;39) underwent PVI only (non-DF group; exploratory cohort). The primary endpoint was freedom from documented AF recurrence without antiarrhythmic drugs (AADs) at 12 months. AF-free survival off AADs was 81.3% in the DF group versus 68.9% in the PVI group (p&#x2009;=&#x2009;0.228) at 12 months. Arrhythmia-free survival with or without AADs was 78.1% versus 65.6% (p&#x2009;=&#x2009;0.263). The non-DF group showed the most favorable outcomes (83.3%, p&#x2009;=&#x2009;0.065 vs PVI group). No adverse events were associated with DF mapping or ablation. Multivariate analysis identified right atrial (RA) low-voltage area extent (HR 1.031, 95% CI 1.005-1.058, p&#x2009;=&#x2009;0.018) and LA diameter (HR 0.899, 95% CI 0.816-0.991, p&#x2009;=&#x2009;0.032) as independent predictors of recurrence. In this multicenter randomized trial, adjunctive DF-guided ablation following PVI did not result in a statistically significant improvement in arrhythmia-free survival compared with PVI alone. However, the absence of high-DF sites was associated with favorable outcomes, and RA low-voltage burden emerged as an independent predictor of recurrence, supporting the potential mechanistic value of DF mapping and highlighting the prognostic importance of right atrial structural remodeling. UMIN000042543.",
+    "summary": "This multicenter prospective RCT randomized 64 patients with persistent AF and high-DF sites (\u22657 Hz) to PVI plus DF-guided ablation versus PVI alone, finding no statistically significant difference in AF-free survival off antiarrhythmic drugs at 12 months (81.3% vs 68.9%, p=0.228), though DF ablation showed a numerical benefit and patients without high-DF sites had the most favorable outcomes. Right atrial low-voltage area extent and left atrial diameter emerged as independent predictors of recurrence, suggesting mechanistic value to DF mapping despite its lack of clear clinical superiority in this trial."
+  },
+  {
     "title": "The Value of Inter\u2010Lesion Time in Linear Lesion Formation Across Varying Catheter Angles and Inter\u2010Lesion Distances",
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70272?af=R",
     "doi": "10.1111/pace.70272",
@@ -232,6 +274,30 @@
     "hot": false
   },
   {
+    "title": "Screening Smarter: A Quantitative Approach to Reduce Inappropriate Shocks From Subcutaneous ICDs",
+    "link": "https://doi.org/10.1161/circep.126.015114",
+    "doi": "10.1161/circep.126.015114",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pace and Ablate or Pace Then Ablate: Defining the Risk of Concomitant AV Node Ablation and Pacemaker Implantation Using a Probability Based Approach",
+    "link": "https://doi.org/10.1161/circep.125.014790",
+    "doi": "10.1161/circep.125.014790",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
     "title": "Immediate vs Delayed Coronary Angiography After Cardiac Arrest Without ST-Segment Elevation: 5-Year Outcomes From the COACT Randomized Trial",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109725104348?dgcid=rss_sd_all",
     "doi": null,
@@ -266,6 +332,20 @@
       "SCD"
     ],
     "hot": false
+  },
+  {
+    "title": "Direct oral anticoagulants vs warfarin in Asian vs non-Asian patients with atrial fibrillation: a patient-level meta-analysis from COMBINE AF",
+    "link": "https://doi.org/10.1093/eurheartj/ehag246",
+    "doi": "10.1093/eurheartj/ehag246",
+    "journal": "European Heart Journal",
+    "date": "Apr 30, 2026",
+    "date_ts": 1777507200.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Large-scale randomized data comparing clinical outcomes of atrial fibrillation patients of Asian vs non-Asian races are limited.\n                  \n                  \n                    Methods\n                    Data from A Collaboration Between Multiple Institutions to Better Investigate Non-Vitamin K Antagonist Oral Anticoagulant Use in Atrial Fibrillation, which pooled patient-level data from the four pivotal randomized trials of direct oral anticoagulants (DOACs) vs warfarin in patients with atrial fibrillation, were analysed. Baseline characteristics and clinical outcomes in patients of Asian race (Asians) vs non-Asian race were compared. The relative efficacy and safety of DOACs compared with warfarin in Asians vs non-Asians, assessing for interactions between race and treatment effect, were investigated. Outcomes across the range of body weight and creatinine clearance in Asians were also explored.\n                  \n                  \n                    Results\n                    A total of 10 212 Asian patients and 61 471 non-Asians were identified. Compared with non-Asians, Asians were on average 3.2 years younger and 20\u2005kg lighter, had worse renal function (mean creatinine clearance 64.9 vs 77.3\u2005mL/min), and had higher rates of prior stroke/transient ischaemic attack (37.2% vs 26.6%) (P &amp;lt; .001 for each). In the warfarin arm (median time in therapeutic range 57.7% for Asians vs 66.2% for non-Asians, P &amp;lt; .001), Asians had a higher adjusted risk of stroke/systemic embolic events (SEEs), major bleeding, intracranial haemorrhage, gastrointestinal bleeding, and primary net clinical outcome (stroke/SEE, major bleeding, or death). Compared with warfarin, standard-dose (SD) DOACs significantly reduced the risks in Asians to a greater degree than non-Asians for stroke/SEE (hazard ratio [HR] .65, 95% confidence interval .53\u2013.80 vs HR .86, 95% confidence interval .78\u2013.95), major bleeding (HR .62 [.52\u2013.75] vs HR .91 [.84\u2013.98]), and primary net clinical outcome (HR .76 [.68\u2013.85] vs HR .94 [.90\u2013.98]; Pint &amp;lt; .02 for each). Standard-dose DOACs increased gastrointestinal bleeding only in non-Asians (Asians HR .92 [.69\u20131.23] vs non-Asians HR 1.41 [1.25\u20131.58], Pint = .009). In Asians, SD DOACs reduced the risks of clinical events across the wide range of body weight and creatinine clearance. Compared with SD DOACs, lower-dose DOACs significantly increased the risk of stroke/SEE (HR 1.57 [1.15\u20132.13]) and secondary net clinical outcome (stroke/SEE, intracranial haemorrhage, or death; HR 1.23 [1.03\u20131.48]) in Asians.\n                  \n                  \n                    Conclusions\n                    Clinical outcomes with SD DOACs vs warfarin in patients with atrial fibrillation were generally even more favourable in patients of Asian than non-Asian race. Compared with warfarin, SD DOACs did not increase the risk of gastrointestinal bleeding in Asians. Standard-dose DOACs are preferred over warfarin or lower-dose DOACs in patients of Asian race.",
+    "summary": "This pooled analysis of four pivotal RCTs (n=71,683; 10,212 Asian, 61,471 non-Asian patients) demonstrated that standard-dose DOACs provided greater risk reduction compared with warfarin for stroke/SEE, major bleeding, and net clinical outcome in Asian versus non-Asian AF patients, with no increased gastrointestinal bleeding risk in Asians, supporting standard-dose DOAC preference over warfarin or reduced-dose DOACs in this population."
   },
   {
     "title": "Fluoroscopy\u2010Free Pulsed Field Ablation for Atrial Fibrillation: A Systematic Review of Procedural Feasibility and Safety",
@@ -6059,87 +6139,15 @@
     "hot": false
   },
   {
-    "title": "Pulsed-field vs radiofrequency ablation for posterior wall isolation in persistent atrial fibrillation: A propensity-matched outcome analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000103?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032425,
+    "title": "Intracardiac Echocardiography Guided Implantation of an Active-Fixation Ventricular Leadless Pacemaker Through a Transcatheter Tricuspid Valve Replacement",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.04.024",
+    "doi": "10.1016/j.hrcr.2026.04.024",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Apr 01, 2026",
+    "date_ts": 1775001600.0,
     "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Evaluation of the risk of hemolysis using the circular array pulsed field ablation catheter in the management of atrial fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000085?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032393,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reduction in new-onset device-detected atrial fibrillation: A prospective 2-center study comparing left bundle branch pacing with conventional right ventricular pacing",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005859?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032358,
-    "tags": [
-      "AFib",
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Laser vs rotational transvenous lead extraction: A systematic review and meta-analysis of procedural safety and efficacy outcomes",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000140?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032325,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Difference in the efficacy of atrial antitachycardia pacing for suppression of ventricular arrhythmias",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600019X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032294,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "pECGreview: Using \u201cNot-to-Miss\u201d ECG diagnoses to assess competency of trainees and faculty in ECG interpretation via a weekly online ECG education program",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825006105?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032253,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Personalized in vitro models reveal functional impact of a <em>KCNH2</em> mutation and enable drug screening in LQTS2",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000097?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032222,
-    "tags": [
-      "Genetics"
+      "Devices",
+      "Imaging"
     ],
     "hot": false
   }
