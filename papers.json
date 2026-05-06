@@ -1,5 +1,165 @@
 [
   {
+    "title": "Global Research Trends in Cancer-Associated Atrial Fibrillation: A Bibliometric Analysis of the Cardio-Oncology Interface",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023398?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 06, 2026",
+    "date_ts": 1778031929.450245,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "ERBB4 <em>Activation as a New Therapy for Atrial Remodeling and Fibrillation</em>",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023404?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 06, 2026",
+    "date_ts": 1778031929.450211,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Acute Ventricular Arrhythmia and Tissue Effects of Radiofrequency Delivery Through a Pacing Lead in a Beating Swine Septum",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602343X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 06, 2026",
+    "date_ts": 1778031929.450176,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "TWOSOME trial: Randomized comparison of single-shot versus single-tip pulsed field ablation for pulmonary vein isolation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023386?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 06, 2026",
+    "date_ts": 1778031929.45014,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "SMARTBrugada study: Smartwatch Marginosternal Application for Recording Type I Brugada Pattern",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023507?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 06, 2026",
+    "date_ts": 1778031929.450107,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Using monophasic potential mapping to visualize the Brugada substrate",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023416?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 06, 2026",
+    "date_ts": 1778031929.450074,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Lower socioeconomic status is associated with lower quality of care of atrial fibrillation despite comprehensive no-cost access to medical care in Australia",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023428?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 06, 2026",
+    "date_ts": 1778031929.450027,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Long-term outcomes among patients with and without psychiatric disorders following Out-of-Hospital Cardiac Arrest",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023477?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 06, 2026",
+    "date_ts": 1778031929.449983,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A new mapping and ablation strategy for premature ventricular complexes originating from the proximal left anterior fascicle under the guidance of electrocardiographic characteristics",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023489?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 06, 2026",
+    "date_ts": 1778031929.449742,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Daily Stellate Ganglion Phototherapy for Ventricular Arrhythmias: A Noninvasive Neuromodulation Approach for Outpatient Care",
+    "link": "https://doi.org/10.1161/circulationaha.125.078175",
+    "doi": "10.1161/circulationaha.125.078175",
+    "journal": "Circulation",
+    "date": "May 05, 2026",
+    "date_ts": 1777939200.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Can we rely on remote electrogram analysis to monitor long-term conduction system capture in left bundle branch area pacing?",
+    "link": "https://doi.org/10.1093/europace/euag084",
+    "doi": "10.1093/europace/euag084",
+    "journal": "EP Europace",
+    "date": "May 05, 2026",
+    "date_ts": 1777939200.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Optimal Pace Timing for Left Bundle Branch Area Pacing with or without an Additional LV Lead: Results from the CSPOT study",
+    "link": "https://doi.org/10.1093/europace/euag103",
+    "doi": "10.1093/europace/euag103",
+    "journal": "EP Europace",
+    "date": "May 05, 2026",
+    "date_ts": 1777939200.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    The study aimed to determine optimal AV timing for left bundle branch area pacing (LBBAP) and optimal AV and VV timing for LBBAP optimized cardiac resynchronization therapy (LOT-CRT), to enhance the benefit of conduction system pacing.\n                  \n                  \n                    Methods\n                    Acute measurements of LV dP/dtmax and QRS duration were collected during sweeps of AV and VV delays during paired comparison of LBBAP, LOT-CRT, and biventricular pacing (BVP), in 48 CRT-indicated patients. Optimal AV delays were selected as the vertex of a parabolic model fit to the AV sweep results, obtained independently for LV dP/dtmax and QRS duration.\n                  \n                  \n                    Results\n                    LBBAP, LOT-CRT, and BVP were similarly sensitive to the choice of AV delay, and 60ms deviations from optimal AV delay resulted in an approximately 30% reduction in the hemodynamic benefits of resynchronization. Based upon LV dP/dtmax measurements, the average optimal paced AV (PAV) for LBBAP (152ms) was significantly shorter than that for LOT-CRT (171ms, p &amp;lt; 0.01) or BVP (167ms, p = 0.01). Based upon QRS duration, the average optimal PAV for LBBAP (164ms) was similar to that for LOT-CRT (160ms, p = 0.52) or BVP (165ms, p = 0.95). For each resynchronization modality, a linear regression between the patient\u2019s measured intrinsic AV conduction and their optimal AV delay provided a patient-specific AV delay, resulting in improved AV selection compared to applying a fixed AV delay to all patients. Finally, simultaneous activation (VV = 0) was best for both LOT-CRT and BVP.\n                  \n                  \n                    Conclusion\n                    LBBAP, LOT-CRT, and BVP are similarly sensitive to AV-timing. Optimal AV delay is linearly related to intrinsic AV for each resynchronization modality. For LOT-CRT and BVP, simultaneous biventricular activation is best on average.",
+    "summary": "This prospective acute-measurement study (n=48 CRT-indicated patients) compared optimal atrioventricular (AV) and interventricular (VV) timing across left bundle branch area pacing (LBBAP), optimized LBBAP with biventricular pacing (LOT-CRT), and biventricular pacing (BVP) using LV dP/dtmax and QRS duration as endpoints. All three pacing modalities demonstrated similar AV timing sensitivity with ~30% benefit reduction at 60ms deviation from optimal, and optimal AV delay correlated linearly with intrinsic AV conduction for each modality, suggesting individualized"
+  },
+  {
+    "title": "Intranodal Atrioventricular Nodal Reentrant Tachycardia Mimicking Junctional Tachycardia",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70360?af=R",
+    "doi": "10.1111/jce.70360",
+    "journal": "J Cardiovasc EP",
+    "date": "May 04, 2026",
+    "date_ts": 1777904036.0,
+    "tags": [
+      "SVT"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Differentiating atrioventricular nodal reentrant tachycardia (AVNRT) from non\u2010reentrant junctional tachycardia (JT) can be challenging.\n                  \n                  \n                    Methods and Results\n                    In this case, regular narrow QRS complex tachycardia with simultaneous activation of the atrium and ventricle was reproducibly induced following an atrio\u2010His interval jump by a single atrial extrastimulus, initially suggesting typical slow\u2010fast AVNRT. During tachycardia, however, atrial activation and the His\u2010atrial interval spontaneously changed without affecting the tachycardia cycle length. An \u201catrial\u2010His\u2010His\u2010atrial\u201d response to atrial overdrive pacing, late\u2010coupled atrial premature depolarizations (APDs) that failed to reset tachycardia via slow pathway conduction, and early\u2010coupled APDs that reset tachycardia via fast pathway conduction without terminating tachycardia, favored JT. Finally, slow pathway ablation rendered tachycardia non\u2010inducible.\n                  \n                  \n                    Conclusion\n                    Intranodal AVNRT mimicking JT, which postulates an intranodal reentrant circuit with intervening conduction between the fast and slow pathways, can explain all of these findings and thus be differentiated from JT.",
+    "summary": "This case report describes a single patient with regular narrow complex tachycardia initially suspected to be typical AVNRT but ultimately diagnosed as intranodal AVNRT based on distinctive electrophysiologic findings including spontaneous changes in atrial activation independent of cycle length, specific responses to atrial pacing and premature depolarizations, and rendering the arrhythmia non-inducible with slow pathway ablation. The case demonstrates diagnostic electrophysiologic maneuvers that can differentiate intranodal AVNRT from non-reentrant junctional tachycardia despite overlapping clinical presentations."
+  },
+  {
     "title": "Use of rhythm control therapy for atrial fibrillation among Veterans in the Southeastern United States by rurality",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023374?dgcid=rss_sd_all",
     "doi": null,
@@ -8,6 +168,18 @@
     "date_ts": 1777859207.319879,
     "tags": [
       "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Value of f\n                    <b>R</b>\n                    agmented atrial electr\n                    <b>O</b>\n                    grams and intracardiac echocardiography for identification of opti\n                    <b>M</b>\n                    al sites for radio-frequency delivery during c\n                    <b>A</b>\n                    rdioneuroablation for asystolic reflex sy\n                    <b>N</b>\n                    cope. The Roman 5 study",
+    "link": "https://doi.org/10.1093/europace/euag099",
+    "doi": "10.1093/europace/euag099",
+    "journal": "EP Europace",
+    "date": "May 04, 2026",
+    "date_ts": 1777852800.0,
+    "tags": [
+      "Imaging"
     ],
     "hot": false
   },
@@ -270,6 +442,31 @@
     "date_ts": 1777600407.588842,
     "tags": [
       "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Novel NKX2-5 Mutation Associated with Familial Atrial Septal Defect and Atrial and Ventricular Arrhythmias",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.04.025",
+    "doi": "10.1016/j.hrcr.2026.04.025",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Successful Ablation of Incessant Narrow-QRS Ventricular Tachycardia Involving the His\u2013Purkinje System: Insights from Manifest Entrainment",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.04.026",
+    "doi": "10.1016/j.hrcr.2026.04.026",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "VT"
     ],
     "hot": false
   },
@@ -5954,200 +6151,6 @@
     "date_ts": 1776324051.032968,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Local modifications in tissular conditions before PFA increases acute lesion size",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005677?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032939,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Spatiotemporal mapping for detection of anatomic locations of drivers of atrial fibrillation in swine",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005811?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032908,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Artificial intelligence-guided personalized ablation improves freedom from atrial arrhythmia in heart failure: A sub-analysis of the TAILORED-AF trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005781?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032875,
-    "tags": [
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Effect of estrogen and testosterone on cardiac electrophysiology and atrial fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005380?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032845,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Anatomic complexities of the human right ventricle: Considerations for clinical practice in the electrophysiology laboratory",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182500529X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032813,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sexual health in patients with an implantable cardioverter-defibrillator: A narrative review",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005707?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032784,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Buccal dantrolene for rapid systemic delivery: A novel antiarrhythmic approach",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005586?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032754,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cavotricuspid isthmus ablation with a focal dual-energy catheter: First commercial experience",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182500563X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032723,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "High-density vs point-by-point mapping in ventricular tachycardia ablation: A comparative analysis of substrate characterization",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005690?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032689,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "To the Editor\u2014 Bridging the signal gap: Body surface potential mapping and the future of early arrhythmia detection in the Global South",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005756?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.03265,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reviewer Thanks",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000930?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032619,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Feasibility and safety of a novel very-high-power short-duration ablation strategy for superior vena cava isolation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825006075?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032564,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "First-in-human experience for cardiac arrhythmia mapping using a novel ultra-high\u2013density globe-shaped catheter from the multicenter COSMOS study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000073?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032523,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transthoracic signs of left atrial cardiomyopathy predict presence of left atrial thromboembolic substrate",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000012?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.03249,
-    "tags": [
-      "AFib",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Multicenter analysis of device-detected atrial fibrillation burden reduction after antiarrhythmic drug initiation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600005X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032458,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intracardiac Echocardiography Guided Implantation of an Active-Fixation Ventricular Leadless Pacemaker Through a Transcatheter Tricuspid Valve Replacement",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.04.024",
-    "doi": "10.1016/j.hrcr.2026.04.024",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Apr 01, 2026",
-    "date_ts": 1775001600.0,
-    "tags": [
-      "Devices",
-      "Imaging"
     ],
     "hot": false
   }
