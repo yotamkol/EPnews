@@ -1,5 +1,65 @@
 [
   {
+    "title": "Cardiac Arrest and Outcome in Patients With Cardiogenic Shock Complicating Acute Myocardial Infarction: A Pooled Analysis of Randomized Controlled Trials",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726002998?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 07, 2026",
+    "date_ts": 1778118610.532928,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The development and progression of left atrial myopathy in patients undergoing recurrent left atrial ablation procedures",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023465?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 07, 2026",
+    "date_ts": 1778118609.02175,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Mechanical Resynchronization in Left Bundle Branch Block Achieved by Conduction System Pacing: A Strain-Based Analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023453?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 07, 2026",
+    "date_ts": 1778118609.021709,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Current of Injury Mapping and Right Atrial Lead Performance With Selective Use of Stylet Railing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023441?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 07, 2026",
+    "date_ts": 1778118609.021661,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The Irregularity Factor: Mechanistic Insights into Beat-to-beat Irregularities in Atrial Fibrillation Cycle Length",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023490?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 07, 2026",
+    "date_ts": 1778118609.021501,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Global Research Trends in Cancer-Associated Atrial Fibrillation: A Bibliometric Analysis of the Cardio-Oncology Interface",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023398?dgcid=rss_sd_all",
     "doi": null,
@@ -442,6 +502,30 @@
     "date_ts": 1777600407.588842,
     "tags": [
       "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Correction to: Clinical profile and prognosis of brugada syndrome SCN5A variant carriers with negative sodium channel blocker challenge",
+    "link": "https://doi.org/10.1093/europace/euag098",
+    "doi": "10.1093/europace/euag098",
+    "journal": "EP Europace",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulmonary vein perforation causing life-threatening pulmonary hemorrhage during pulsed field ablation for atrial fibrillation using a J-shaped radiofrequency transseptal puncture wire",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.04.027",
+    "doi": "10.1016/j.hrcr.2026.04.027",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "AFib"
     ],
     "hot": false
   },
@@ -6064,91 +6148,6 @@
     "journal": "Heart Rhythm O2",
     "date": "Apr 16, 2026",
     "date_ts": 1776324051.033198,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Factors associated with complexity during transvenous lead extraction and confirmation of a very-low-risk subset",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005343?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.033165,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Risk stratification in transvenous lead extraction: Current models and clinical applications",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005264?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.033134,
-    "tags": [
-      "SCD",
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transvenous lead extraction and the shape of risk",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005628?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.033106,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Echocardiographic assessment after left bundle branch area pacing: Impact on the tricuspid valve apparatus, clinical value, and perspectives",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182500577X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.033072,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Utilization and implementation of remote monitoring of cardiac implantable electronic devices in Australia and New Zealand: Adoption, workload, and integration challenges",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182500580X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.033036,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Association between deceleration capacity-quantified vagal tone and vasovagal syncope patients with different responses to head-up tilt test",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005689?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.033002,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A custom analysis of R-R interval properties reveals alterations in the brain-heart axis in experimental animals with metabolic syndrome",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005719?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.032968,
     "tags": [
       "Other"
     ],
