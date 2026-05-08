@@ -1,5 +1,53 @@
 [
   {
+    "title": "Antithrombotic Therapy after Ablation for Atrial Fibrillation",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2602513?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMc2602513",
+    "journal": "NEJM",
+    "date": "May 08, 2026",
+    "date_ts": 1778205267.620376,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Author\u2019s reply to \u201cFunctional\u2013Anatomic Mapping in Cardioneuroablation: The Importance of a Standardized Anesthesia Protocol\u201d",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001996?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "May 08, 2026",
+    "date_ts": 1778205266.419579,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Lead Fragment Characteristics and Detection by Radiographic Imaging following Heart Transplant",
+    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600200X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "May 08, 2026",
+    "date_ts": 1778205266.419537,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Functional\u2013Anatomic Mapping in Cardioneuroablation: The Importance of a Standardized Anesthesia Protocol",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001984?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "May 08, 2026",
+    "date_ts": 1778205266.419308,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Cardiac Arrest and Outcome in Patients With Cardiogenic Shock Complicating Acute Myocardial Infarction: A Pooled Analysis of Randomized Controlled Trials",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726002998?dgcid=rss_sd_all",
     "doi": null,
@@ -10,6 +58,20 @@
       "SCD"
     ],
     "hot": false
+  },
+  {
+    "title": "Left Atrial Appendage Closure Complicated by Spinal Epidural Hematoma and Device\u2010Related Thrombosis: A Case Report",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70268?af=R",
+    "doi": "10.1111/pace.70268",
+    "journal": "PACE",
+    "date": "May 07, 2026",
+    "date_ts": 1778136353.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Left atrial appendage closure (LAAC) is an important approach for stroke prevention in patients with non\u2010valvular atrial fibrillation. Anticoagulation\u2010related spinal epidural hematoma (SEH) and device\u2010related thrombosis (DRT) are rare but serious complications.\n                  \n                  \n                    Case Summary\n                    We report the case of an 86\u2010year\u2010old female who presented with a six\u2010month history of recurrent chest tightness. She was clinically diagnosed with persistent non\u2010valvular atrial fibrillation and chronic heart failure. Following a comprehensive evaluation, she underwent successful LAAC and was started on edoxaban 30\u00a0mg once daily for anticoagulation. At six weeks post\u2010procedure, she developed an anticoagulation\u2010related SEH. Anticoagulation was immediately discontinued. Following conservative management, the hematoma resolved and her muscle strength improved. She was subsequently started on clopidogrel 75\u00a0mg once daily for antiplatelet therapy. At the six\u2010month follow\u2010up, transthoracic echocardiography and computed tomography angiography confirmed a large DRT in the left atrium. Anticoagulation was re\u2010initiated with low\u2010molecular\u2010weight heparin bridging to warfarin, with the international normalized ratio maintained between 2.0 and 2.5. Follow\u2010up imaging at eight months demonstrated significant resolution of the left atrial thrombus. During the remainder of the follow\u2010up period, no further major adverse events, including ischemic stroke or bleeding, occurred.\n                  \n                  \n                    Conclusion\n                    For patients with multiple high\u2010risk factors undergoing LAAC, attention should be paid to dynamic adjustment of individualized antithrombotic strategies, enhancement of perioperative procedural quality control, and structured follow\u2010up within key time windows, in order to minimize the risk of complications and optimize the net clinical benefit.",
+    "summary": "This case report describes an 86-year-old female with non-valvular atrial fibrillation who developed both anticoagulation-related spinal epidural hematoma at six weeks post-LAAC and device-related thrombosis at six months, both of which were successfully managed with individualized antithrombotic therapy adjustments and close follow-up imaging. The case highlights the importance of dynamic antithrombotic strategy adjustment and structured follow-up protocols in high-risk LAAC patients to minimize serious complications."
   },
   {
     "title": "The development and progression of left atrial myopathy in patients undergoing recurrent left atrial ablation procedures",
@@ -56,6 +118,32 @@
     "date_ts": 1778118609.021501,
     "tags": [
       "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Safety and Effectiveness of the TactiFlex Duo System: 6-Month Results of the FOCALFLEX Study",
+    "link": "https://doi.org/10.1093/europace/euag108",
+    "doi": "10.1093/europace/euag108",
+    "journal": "EP Europace",
+    "date": "May 07, 2026",
+    "date_ts": 1778112000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    A dual-energy ablation system was developed to optimize targeted energy delivery via a flexible-tip, contact-force sensing catheter with electroanatomic mapping integration. This is the first report of long-term safety and effectiveness results of this system for ablation of paroxysmal atrial fibrillation (PAF).\n                  \n                  \n                    Methods and results\n                    The FOCALFLEX study is a prospective, multi-center study. Patients with PAF were enrolled between August 2024 and January 2025, with 144 patients (62.0\u00b110.0 years, 62.6% male) undergoing ablation with the TactiFlex PFA System at 21 sites worldwide. Primary safety and effectiveness endpoints were the rate of pre-defined serious adverse events within 7-days and the 6-month freedom from documented AF/AFL/AT episodes &amp;gt;30s after a 90-day blanking period.\n                    Pulmonary vein isolation (PVI) was performed in each case with pulsed-field (PF) required for posterior left atrium (LA) ablation and radiofrequency (RF) for cavotricuspid isthmus (CTI) or near coronary arteries. Non-PV targets and modality were at physician\u2019s discretion. Acute effectiveness was confirmed via entrance block and post-ablation LA voltage map after a 20-minute waiting period and was achieved in 99.6% (566/568) of treated PVs with 95.5\u00b137.1 PFA applications/patient. Procedure, fluoroscopy, LA dwell, and PV ablation times were 112.2\u00b129.5, 7.6\u00b15.7, 81.1\u00b119.7, and 47.4\u00b116.4min, respectively. There were 2 (1.4%) primary safety events. At 6 months, 81.0% of subjects were free from documented arrhythmia recurrence and the protocol-defined primary effectiveness rate was 79.6%. There was 1 repeat ablation (0.7%) after the blanking period through 6 months.\n                  \n                  \n                    Conclusion\n                    The FOCALFLEX study results demonstrate safety and effectiveness of a novel dual-mode RF/PFA system through 6 months of follow-up to treat symptomatic, recurrent PAF.",
+    "summary": "The FOCALFLEX study is a prospective, multicenter trial of 144 patients with paroxysmal atrial fibrillation treated with a novel dual-energy (pulsed-field/radiofrequency) ablation system, demonstrating 79.6% freedom from arrhythmia recurrence at 6 months with a 1.4% serious adverse event rate. Pulmonary vein isolation was achieved in 99.6% of veins with acceptable procedural times and a repeat ablation rate of 0.7% through 6-month follow-up."
+  },
+  {
+    "title": "Pulmonary sinus cusp\u2013inclusive mapping and ablation for paediatric right ventricular outflow tract ventricular arrhythmias",
+    "link": "https://doi.org/10.1093/europace/euag107",
+    "doi": "10.1093/europace/euag107",
+    "journal": "EP Europace",
+    "date": "May 07, 2026",
+    "date_ts": 1778112000.0,
+    "tags": [
+      "VT"
     ],
     "hot": false
   },
@@ -500,6 +588,55 @@
     "journal": "Heart Rhythm",
     "date": "May 01, 2026",
     "date_ts": 1777600407.588842,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "High-Density Mapping of Adenosine-sensitive Atrial Tachycardia: Visualization of a Slow Conduction Zone",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.003",
+    "doi": "10.1016/j.hrcr.2026.05.003",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "AFib",
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Successful Atrial Fibrillation Ablation Using Bivalirudin in a Patient with Congenital Factor XII Deficiency and Uninterpretable ACT",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.005",
+    "doi": "10.1016/j.hrcr.2026.05.005",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Non-Idiopathic Papillary Muscle Ventricular Arrhythmia Ablation Using the Lattice-Tip Catheter: A Case Series",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.002",
+    "doi": "10.1016/j.hrcr.2026.05.002",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Optimization of Left Bundle Area Pacing Using a Novel ECG Device",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.001",
+    "doi": "10.1016/j.hrcr.2026.05.001",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
     "tags": [
       "Other"
     ],
@@ -6015,139 +6152,6 @@
     "journal": "Heart Rhythm O2",
     "date": "Apr 16, 2026",
     "date_ts": 1776324051.033559,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulmonary vein isolation and beyond: Feasibility and acute outcomes of the lattice-tip dual-energy catheter for complex ablations",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005598?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.033528,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "First multicenter Japanese registry on tissue proximity-guided pulsed field ablation: Procedural safety and mid-term outcomes",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005604?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.033496,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intravascular hemolysis after pulsed field ablation for atrial fibrillation: A comparative analysis of 3 systems",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005641?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.033466,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left atrial anterior scar in persistent atrial fibrillation: Results with pulmonary vein isolation and linear ablation including posterior mitral line",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005665?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.033432,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Early recurrence of atrial arrhythmia following catheter ablation of atrial tachycardia consecutive to ablation of atrial fibrillation using the updated blanking period",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005793?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.033397,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Using subcutaneous nerve stimulation to control atrial fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005434?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.033361,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Electrocardiographic effects of HBI-3000 (sulcardine sulfate), a new drug for termination of atrial fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005653?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.03333,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Comparative cardiac electrophysiological analysis between sinus rhythm and atrial fibrillation: The correlation of left atrial low-voltage substrate of sex and rhythm",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005720?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.033296,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Atrial fibrillation detection in endurance athletes vs non-athletes: Positive predictive value and burden estimation using implantable cardiac monitors",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005768?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.033261,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Inappropriate shocks from subcutaneous and transvenous implantable cardioverter-defibrillators: Reports from the FDA MAUDE database",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182500532X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.03323,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "When signals diverge, what MAUDE can and cannot tell us about subcutaneous implantable defibrillator inappropriate shocks",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005616?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.033198,
     "tags": [
       "Other"
     ],
