@@ -1,5 +1,89 @@
 [
   {
+    "title": "Safety and Midterm Outcome of Focal Pulsed Field Ablation for Outflow Tract Premature Ventricular Contractions: A Prospective Multicenter Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002768?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 09, 2026",
+    "date_ts": 1778291340.000081,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Percutaneous Retrieval of an Epicardial ICD Lead Fragment",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003464?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 09, 2026",
+    "date_ts": 1778291340.00005,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "J-Wave Syndromes: Reconciling the Complexity",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003452?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 09, 2026",
+    "date_ts": 1778291340.000019,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "\u201cSpoiler Alert\u201d for Atrial Entrainment: Early Circuit Detection Using Number Needed to Pace",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003439?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 09, 2026",
+    "date_ts": 1778291339.999977,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Iatrogenic Ventricular Septal Defect: A Severe Structural Complication 2 Years After Stereotactic Arrhythmia Radioablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003427?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 09, 2026",
+    "date_ts": 1778291339.999937,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Percutaneous Stellate Ganglion Ablation as a Novel Bail-Out Strategy for Refractory Ventricular Arrhythmias: A Clinical Case Series",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003488?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 09, 2026",
+    "date_ts": 1778291339.999893,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Modified Anterior Dispersive Reference Patch Position for Radiofrequency Ablation of Intramural Left Ventricular Summit Ectopy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600349X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 09, 2026",
+    "date_ts": 1778291339.999655,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Antithrombotic Therapy after Ablation for Atrial Fibrillation",
     "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2602513?af=R&rss=currentIssue",
     "doi": "10.1056/NEJMc2602513",
@@ -10,6 +94,46 @@
       "AFib"
     ],
     "hot": false
+  },
+  {
+    "title": "Weekly Journal Scan: Is left atrial appendage closure really non-inferior to anticoagulation in atrial fibrillation?",
+    "link": "https://doi.org/10.1093/eurheartj/ehag333",
+    "doi": "10.1093/eurheartj/ehag333",
+    "journal": "European Heart Journal",
+    "date": "May 08, 2026",
+    "date_ts": 1778198400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Quantitative UHF\u2010ECG Assessment of Pacing\u2010Induced Ventricular Activation: Comparison of LBBAP and RV Septal Pacing",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70284?af=R",
+    "doi": "10.1111/pace.70284",
+    "journal": "PACE",
+    "date": "May 08, 2026",
+    "date_ts": 1778220915.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Left bundle branch area pacing (LBBAP) is increasingly used to achieve more physiological ventricular activation in patients requiring permanent pacing. However, conventional ECG provides only indirect timing and morphology markers of paced activation and does not directly quantify overall ventricular activation synchrony. Ultra\u2010high\u2010frequency ECG (UHF\u2010ECG) enables quantitative assessment of ventricular activation timing and dyssynchrony beyond QRS duration alone.\n                  \n                  \n                    Methods\n                    We report a descriptive two\u2010patient comparison of pacing\u2010induced ventricular activation in bradycardia patients with intrinsically narrow baseline QRS complexes who underwent dual\u2010chamber pacemaker implantation with either LBBAP or right ventricular septal pacing (RVSP). Paired pre\u2010implant and early post\u2010implant UHF\u2010ECG recordings were analyzed using ventricular activation maps and quantitative dyssynchrony indices, including ventricular electrical delay (VED) and mean ventricular depolarization time/dispersion (MeanVD). Conventional ECG metrics were assessed in parallel, including paced QRS duration, R\u2010wave peak time (RWPT), V6\u2010V1 interpeak interval, and global RWPT. Because systematic transition testing during decremental output pacing and/or programmed stimulation was not available, formal gold\u2010standard confirmation of LBB capture was not claimed; instead, RWPT\u2010based parameters, LBB score, and global RWPT were treated as supportive ECG\u2010based markers of LBB\u2010area engagement.\n                  \n                  \n                    Results\n                    In the LBBAP case, QRS duration increased modestly from 73.4 to 87.6\u00a0ms, while VED18 remained unchanged at \u20103\u00a0ms and MeanVD18 decreased slightly from 25 to 24\u00a0ms, indicating preservation of low dyssynchrony. RWPT(V6) was 87.6\u00a0ms, RWPT(I) 56.0\u00a0ms, RWPT(aVL) 54.8\u00a0ms, V6\u2010V1 interpeak interval 34.4\u00a0ms, global RWPT 143.6\u00a0ms, and simplified LBB score 4. In the RVSP case, QRS duration increased from 93.0 to 135.8\u00a0ms, VED16 increased from 2 to 37\u00a0ms, and MeanVD16 increased from 30 to 58\u00a0ms, indicating substantially greater pacing\u2010induced dyssynchrony.\n                  \n                  \n                    Conclusion\n                    UHF\u2010ECG provides reproducible, case\u2010level quantification of pacing\u2010induced ventricular activation and may help distinguish preservation of near\u2010physiological synchrony after LBBAP from dyssynchronous activation during RVSP. These observations are descriptive and hypothesis\u2010generating and should be confirmed in larger comparative cohorts.",
+    "summary": "This descriptive two-patient case comparison demonstrates that ultra-high-frequency ECG (UHF-ECG) can quantitatively differentiate ventricular activation patterns between left bundle branch area pacing (LBBAP) and right ventricular septal pacing (RVSP), with LBBAP preserving near-physiological synchrony (minimal changes in dyssynchrony indices VED and MeanVD) while RVSP induced substantial activation delay and dyssynchrony. The authors acknowledge these findings are hypothesis-generating and require validation in larger prospective studies."
+  },
+  {
+    "title": "Zero\u2010Fluoroscopy Ablation Methods for Atrial Fibrillation: A Systematic Review and Meta\u2010Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70277?af=R",
+    "doi": "10.1111/pace.70277",
+    "journal": "PACE",
+    "date": "May 08, 2026",
+    "date_ts": 1778220649.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background and Aims\n                    Atrial fibrillation (AF) ablation traditionally relies on fluoroscopy, exposing both patients and operators to ionizing radiation and lead apron\u2010related occupational harm. Contemporary electroanatomical mapping and intracardiac echocardiography now enable zero\u2010fluoroscopy (ZF) workflows, but comparative evidence regarding their safety and effectiveness remains limited. This study evaluated radiation exposure, procedural safety, procedural duration, and 12\u2010month atrial arrhythmia\u2010free recurrence after ZF versus conventional fluoroscopy (CF)\u2010guided AF ablation.\n                  \n                  \n                    Methods\n                    A systematic review and meta\u2010analysis were conducted in accordance with PRISMA. PubMed, MEDLINE, Embase, and Cochrane were searched from January 1, 2014 to 2025 2, March for comparative studies comparing ZF with CF\u2010guided atrial fibrillation ablation in adults. Primary outcomes were radiation exposure, peri\u2010procedural complications, and 12\u2010month atrial arrhythmia\u2010free recurrence. Procedure duration was assessed as a secondary endpoint. Random\u2010effects models were used to pool mean differences and odds ratios, with 95% confidence intervals.\n                  \n                  \n                    Results\n                    \n                      Twelve studies involving 1998 patients were included, comprising two randomized controlled trials and ten observational cohorts. Of these, 1098 underwent ZF\u2010guided ablations, and 900 underwent CF\u2010guided ablations. Compared with CF\u2010guided ablation, ZF\u2010guided ablation significantly reduced fluoroscopy time (MD \u22126.94\u00a0min, 95% CI \u221211.84 to \u22122.04,\n                      p\n                      = 0.006) and radiation dose (MD \u221231.39 mGy, 95% CI \u221237.44 to \u221225.35,\n                      p\n                      &lt; 0.00001). There was no significant difference in 12\u2010month freedom from atrial arrhythmia recurrence (OR 0.98, 95% CI 0.62 to 1.57,\n                      p\n                      = 0.74) or overall procedural complications (OR 0.73, 95% CI 0.35 to 1.55,\n                      p\n                      = 0.42). Procedure duration was not significantly different between groups (MD \u22127.16\u00a0min, 95% CI \u221215.38 to 1.06,\n                      p\n                      = 0.20).\n                    \n                  \n                  \n                    Conclusion\n                    ZF\u2010guided ablation for AF substantially reduces radiation exposure without evidence higher procedural complication, 12\u2010month freedom from atrial arrhythmia recurrence or procedure duration compared with CF\u2010guided AF ablation. These findings support broader adoption of ZF\u2010guided ablation in centres with appropriate imaging and mapping expertise, although the certainty of evidence remains limited by heterogeneity and the predominance of observational data included in this study.",
+    "summary": "This meta-analysis of 12 studies (1,998 patients: 1,098 zero-fluoroscopy vs. 900 conventional fluoroscopy) demonstrates that zero-fluoroscopy-guided atrial fibrillation ablation significantly reduces fluoroscopy time (6.94 minutes) and radiation dose (31.39 mGy) while maintaining equivalent safety, procedural complications, and 12-month arrhythmia-free recurrence compared to conventional fluoroscopy guidance. The findings support adoption of zero-fluoroscopy techniques in experienced centers, though evidence certainty is limited by heterogeneity and predominance of observational studies."
   },
   {
     "title": "Author\u2019s reply to \u201cFunctional\u2013Anatomic Mapping in Cardioneuroablation: The Importance of a Standardized Anesthesia Protocol\u201d",
@@ -58,6 +182,20 @@
       "SCD"
     ],
     "hot": false
+  },
+  {
+    "title": "Impact of Left Bundle Branch Area Pacing on Echocardiographic Parameters and Symptoms: Data From the Conduction System Pacing Italian Network Group (C\u2010SING) Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70355?af=R",
+    "doi": "10.1111/jce.70355",
+    "journal": "J Cardiovasc EP",
+    "date": "May 07, 2026",
+    "date_ts": 1778177660.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Left bundle branch area pacing (LBBAP) has emerged as a physiologic alternative to conventional right ventricular and biventricular pacing, yet large real\u2010world evidence remains limited. We aimed to assess changes in ventricular function and symptoms after LBBAP in patients with different clinical indications.\n                  \n                  \n                    Methods and Results\n                    Consecutive patients discharged with confirmed LBBAP across 29 Italian centers underwent evaluation of echocardiographic parameters and New York Heart Association (NYHA) functional class at follow\u2010up.\n                    \n                      A total of 697 patients were included: 532 with a bradycardia indication and 165 with a heart failure (HF) indication, assessed at a median follow\u2010up of 12.4 months. In the bradycardia group, left ventricular ejection fraction (LVEF) showed a slight improvement from 55% (interquartile range, 50\u201360) to 56% (52\u201360) (\n                      p\n                      \u2009=\u20090.027). Paced\u2010induced cardiomyopathy (PICM), defined as a\u2009\u2265\u200910% absolute LVEF reduction to &lt;\u200950%, occurred in 3% of patients. Loss of LBBAP capture (\n                      p\n                      \u2009=\u20090.025) and lower LBBAP percentage (\n                      p\n                      \u2009=\u20090.024) were independent predictors of PICM.\n                    \n                    \n                      In the HF group, LVEF improved from 35% (30\u201341) to 45% (36\u201352) (\n                      p\n                      \u2009&lt;\u20090.001). Overall, 61.8% were classified as responders (LVEF increase \u2265\u20095%), rising to 73.8% among patients with \u2265\u200912 months of follow\u2010up. Higher LBBAP pacing percentage and absence of coronary artery disease independently predicted response. NYHA functional class improved significantly in both groups.\n                    \n                  \n                  \n                    Conclusions\n                    In this large real\u2010world cohort, LBBAP was associated with meaningful improvements in ventricular function and symptoms in both bradycardia and HF populations. A high percentage of effective LBBAP capture is essential for optimizing outcomes, supporting its role as an effective physiologic pacing strategy.",
+    "summary": "This multicenter retrospective cohort study of 697 patients (532 with bradycardia indication, 165 with heart failure) demonstrated that left bundle branch area pacing improved left ventricular ejection fraction and NYHA functional class in both populations, with 61.8% of heart failure patients showing \u22655% LVEF improvement, though pacing-induced cardiomyopathy occurred in 3% of bradycardia patients when LBBAP capture was lost or pacing percentage was suboptimal."
   },
   {
     "title": "Left Atrial Appendage Closure Complicated by Spinal Epidural Hematoma and Device\u2010Related Thrombosis: A Case Report",
@@ -6019,141 +6157,6 @@
     "date_ts": 1776324051.173013,
     "tags": [
       "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulse Self-Exam for Atrial Fibrillation Screening: A Randomized Controlled Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002318?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.172983,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Something New Under the Sun?: Identifying Macro-Re-Entry in Atrial Tachycardia",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002276?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.172953,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Novel Approach to Lead Extraction, Utilizing Vibration Energy: From Bench Experiments to a First-in-Human Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002343?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.172919,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "When Sham Works: What the TREAT-PVC Trial Teaches Us About Clinical Trial Design",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600229X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.172887,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "New Criteria to Demonstrate Entrainment and Macro\u2013Re-Entry in Atrial Tachycardias",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002197?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.172848,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "His Pacing vs Biventricular Pacing for Cardiac Resynchronization Therapy: Long-Term Follow-Up From the His-Alternative I Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001489?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.172811,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Inappropriate Surface ECG Signal Filtering Significantly Reduces Physicians\u2019 Ability to Recognize LBBB",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002422?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.172768,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Making a Start: Discerning Ventricular Arrhythmia Initiation in Brugada Syndrome",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002690?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.17273,
-    "tags": [
-      "VT",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical Profile and Mode of Initiation of Spontaneous Ventricular Tachyarrhythmias in Patients With Brugada Syndrome (START-BrS)",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002331?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.172655,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Does hemolysis matter after pulsed field ablation for atrial fibrillation? Insights from the Best Ablate Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005562?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.033612,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "\u201cAwake and Ablated\u201d: First experience with a balloon-in-basket PFA system without propofol",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005574?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.033559,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
