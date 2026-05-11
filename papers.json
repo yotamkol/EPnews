@@ -1,5 +1,41 @@
 [
   {
+    "title": "Procedural Efficiency vs Clinical Outcomes in Persistent Atrial Fibrillation Ablation: A Population-Level Trade-Off",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002114?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "May 11, 2026",
+    "date_ts": 1778464629.294144,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Evaluation of the effect of Hydroquinidine on ST-segment in Brugada Syndrome using 12-lead Holter Monitoring",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002126?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "May 11, 2026",
+    "date_ts": 1778464629.293948,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Digitoxin in heart failure with reduced ejection fraction according to atrial fibrillation status: the DIGIT-HF trial",
+    "link": "https://doi.org/10.1093/eurheartj/ehag379",
+    "doi": "10.1093/eurheartj/ehag379",
+    "journal": "European Heart Journal",
+    "date": "May 10, 2026",
+    "date_ts": 1778371200.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Terbutaline for Sinus Node Dysfunction after Heart Transplantation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002060?dgcid=rss_sd_all",
     "doi": null,
@@ -6120,43 +6156,6 @@
     "tags": [
       "VT",
       "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Device Infection Using Chlorhexidine Irrigation vs an Antibacterial Envelope: A Propensity Score\u2013Matched Analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600109X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.173558,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Number of Pacing Stimuli for Attaining a Plateau Post-Pacing Interval for Diagnosing Re-Entrant Atrial Tachycardia",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002148?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.173525,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Premature Ventricular Complexes After Atrial Fibrillation Ablation: Impact of Extensive Ablation Strategies and Vein of Marshall Ethanol",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001337?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.173492,
-    "tags": [
-      "AFib"
     ],
     "hot": false
   }
