@@ -1,5 +1,17 @@
 [
   {
+    "title": "Exploration of Arrhythmia Burden in Cardiac Amyloidosis Using Implantable Loop Recorders \u2013 The EXCALIBUR study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726063497?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 12, 2026",
+    "date_ts": 1778550811.87275,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Procedural Efficiency vs Clinical Outcomes in Persistent Atrial Fibrillation Ablation: A Population-Level Trade-Off",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002114?dgcid=rss_sd_all",
     "doi": null,
@@ -22,6 +34,44 @@
       "Genetics"
     ],
     "hot": false
+  },
+  {
+    "title": "Differences in Functional Block During Extrastimulation from the Right Atrial Appendage and Bachmann Bundle Region; a Potential Mechanism of Observed Anti-Fibrillatory Effects of Bachmann Bundle Pacing",
+    "link": "https://doi.org/10.1093/europace/euag117",
+    "doi": "10.1093/europace/euag117",
+    "journal": "EP Europace",
+    "date": "May 11, 2026",
+    "date_ts": 1778457600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left Atrial Mechanics Following Left Bundle Branch Area Pacing Versus Non-Conduction System Pacing After Atrioventricular Node Ablation in Atrial Fibrillation",
+    "link": "https://doi.org/10.1093/europace/euag116",
+    "doi": "10.1093/europace/euag116",
+    "journal": "EP Europace",
+    "date": "May 11, 2026",
+    "date_ts": 1778457600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Ventricular conduction is a marker for arrhythmic risk in\n                    <i>SCN5A-</i>\n                    E1784K overlap sodium channel disease",
+    "link": "https://doi.org/10.1093/europace/euag113",
+    "doi": "10.1093/europace/euag113",
+    "journal": "EP Europace",
+    "date": "May 11, 2026",
+    "date_ts": 1778457600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    SCN5A-E1784K (c.5350G&amp;gt;A) is the most common variant associated with the long QT (LQTS) and Brugada syndromes (BrS). It can manifest variably as LQTS, BrS and/or conduction disorders. This presents a challenge for risk stratification. We aimed to describe clinical and ECG characteristics and identify risk markers that associate with arrhythmic events.\n                  \n                  \n                    Methods\n                    We undertook a retrospective observational multicentre study of a large cohort of 231 subjects with SCN5A-E1784K from Europe, USA and Japan. Comprehensive demographic and clinical data, including initial presentation ECG and follow-up, were collected. \u2018Lethal events\u2019 were defined as sudden death, non-fatal cardiac arrest, and documented sustained VT or VF. \u2018Cardiac events\u2019 were defined as arrhythmic syncope plus any lethal events. Clinical characteristics and ECG parameters corrected for age were investigated for association with lethal and/or cardiac events.\n                  \n                  \n                    Results\n                    Fourteen (6%) subjects experienced a lethal event and 45 (19%) a cardiac event. PR interval and QRS duration were associated with lethal and cardiac events. In multivariable models, both PR interval and QRS duration were associated with lethal events but only QRS duration was associated with cardiac events. Only age-corrected QRS (rQRS) was associated with lethal and cardiac event-free survival from birth after correction for multiple testing.\n                  \n                  \n                    Conclusion\n                    Ventricular myocardial conduction appears likely to play a role in the risk of arrhythmic events in patients with SCN5A-E1784K. This provides an important opportunity for the personalisation of management and has the potential to guide preventative therapies.",
+    "summary": "This retrospective observational multicenter study of 231 subjects with SCN5A-E1784K variant identified prolonged QRS duration as an independent predictor of lethal arrhythmic events (6% incidence) and cardiac events overall (19% incidence), suggesting that ventricular conduction abnormalities may guide risk stratification and personalized management in carriers of this variant associated with long QT and Brugada syndromes."
   },
   {
     "title": "Digitoxin in heart failure with reduced ejection fraction according to atrial fibrillation status: the DIGIT-HF trial",
@@ -6107,55 +6157,6 @@
     "date_ts": 1776324051.173753,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Full Issue PDF",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002100?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.173727,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left Atrial Appendage Occlusion in Patients With Hereditary Hemorrhagic Telangiectasia and Atrial Fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600143X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.173694,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Identifying Arrhythmic Substrates in Nonischemic Cardiomyopathy: Does Form Follow Function?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001088?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.173662,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intracardiac Echocardiography\u2013Guided Anatomical Ablation of Left Posterior Fascicular Ventricular Tachycardia in Children: A Single-Center Experience",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001362?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.173618,
-    "tags": [
-      "VT",
-      "Imaging"
     ],
     "hot": false
   }
