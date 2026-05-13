@@ -1,5 +1,53 @@
 [
   {
+    "title": "Class IC Antiarrhythmic Therapy in Myocarditis With Non-Severe LV Dysfunction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023611?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 13, 2026",
+    "date_ts": 1778637474.044479,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Long-Term Effects of Catheter Ablation vs Medical Therapy in Patients with Atrial Fibrillation and Heart Failure: A Reconstructed Individual Patient Data Meta-Analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602360X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 13, 2026",
+    "date_ts": 1778637474.044431,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Association between atrial fibrillation duration and epicardial adipose tissue: Insights into the \u201cAF begets EAT\u201d framework",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023581?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 13, 2026",
+    "date_ts": 1778637474.044381,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Artificial Intelligence Versus Electrophysiologist Adjudication of Atrial Arrhythmias",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023593?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 13, 2026",
+    "date_ts": 1778637474.044219,
+    "tags": [
+      "AI"
+    ],
+    "hot": false
+  },
+  {
     "title": "Exploration of Arrhythmia Burden in Cardiac Amyloidosis Using Implantable Loop Recorders \u2013 The EXCALIBUR study",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726063497?dgcid=rss_sd_all",
     "doi": null,
@@ -34,6 +82,32 @@
       "Genetics"
     ],
     "hot": false
+  },
+  {
+    "title": "Different Approaches to Persistent and Long-standing Persistent Atrial Fibrillation Ablation Using PFA: Impact of Procedural Workflows on Arrhythmia Termination",
+    "link": "https://doi.org/10.1093/europace/euag109",
+    "doi": "10.1093/europace/euag109",
+    "journal": "EP Europace",
+    "date": "May 11, 2026",
+    "date_ts": 1778457600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed Field Ablation versus Thermal Ablation for Pulmonary Vein Isolation: A Network Meta-Analysis of Randomized Controlled Trials",
+    "link": "https://doi.org/10.1093/europace/euag112",
+    "doi": "10.1093/europace/euag112",
+    "journal": "EP Europace",
+    "date": "May 11, 2026",
+    "date_ts": 1778457600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and aims\n                    Pulsed field ablation (PFA) has recently emerged as a promising alternative to conventional energy sources (ES) for atrial fibrillation (AF) ablation. However, comparative data between PFA and other ES\u2014such as radiofrequency (RFA), cryoballoon (CBA), and laser balloon ablation (LBA)\u2014remain limited.\n                    This network meta-analysis (CRD420251054760) aimed to compare outcomes of PFA versus thermal ES for AF ablation.\n                  \n                  \n                    Methods\n                    A systematic network metanalysis using PubMed, Cochrane and EMBASE from inception to March 2026 was performed. Randomized controlled trials comparing different ES in first-attempt pulmonary vein isolation were included. Data extraction was performed according to PRISMA guidelines. The primary outcome was the recurrence of any sustained atrial tachyarrhythmia (ATA) at 12-month follow-up. Safety and efficiency outcomes were also compared among groups.\n                  \n                  \n                    Results\n                    We included 18 studies, encompassing 4,162 patients. Compared to PFA, thermal ablation technologies showed a higher risk of ATA recurrence at 12-month follow-up (RFA: RR of 1.48 (95% CI 1.10-2.00); CBA: 1.43 (95% CI 1.07-1.92); LBA: RR 1.29 (CI 95% 0.84; 1.98)). PFA exhibited lowest procedural time among transcatheter ES, whereas RFA displayed a significantly lower fluoroscopy time. No significant differences were recorded for major periprocedural complications. A subgroup analysis restricted to studies involving only paroxysmal AF patients, as well as those employing contemporary technologies, yielded consistent findings.\n                  \n                  \n                    Conclusions\n                    The present data indicate that, in patients undergoing a first transcatheter AF ablation, PFA may be associated with favourable efficacy and procedural efficiency compared with traditional thermal technologies, while showing a broadly comparable safety profile.",
+    "summary": "This network meta-analysis of 18 RCTs (n=4,162) comparing pulsed field ablation (PFA) versus thermal energy sources (radiofrequency, cryoballoon, laser balloon) for AF ablation found that PFA was associated with lower 12-month atrial tachyarrhythmia recurrence rates compared to radiofrequency (RR 1.48) and cryoballoon (RR 1.43) ablation, with shorter procedural times but comparable major complication rates. These findings suggest PFA may offer superior efficacy and procedural efficiency compared to conventional thermal ablation modalities for first-attempt pulmonary"
   },
   {
     "title": "Differences in Functional Block During Extrastimulation from the Right Atrial Appendage and Bachmann Bundle Region; a Potential Mechanism of Observed Anti-Fibrillatory Effects of Bachmann Bundle Pacing",
@@ -997,6 +1071,31 @@
     "date_ts": 1777600407.588842,
     "tags": [
       "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Bailout Left Atrial Appendage Occlusion as a Salvage Strategy for Acute Cardiac Tamponade",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.004",
+    "doi": "10.1016/j.hrcr.2026.05.004",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "LEAD-mediated ventricular tachycardia and LEAD-mediated radiofrequency energy delivery - innovative LEAD2ER approach for hybrid ablation with transvenous lead extraction",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.006",
+    "doi": "10.1016/j.hrcr.2026.05.006",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "VT",
+      "Devices"
     ],
     "hot": false
   },
@@ -6059,102 +6158,6 @@
     "journal": "JACC: Clinical EP",
     "date": "Apr 16, 2026",
     "date_ts": 1776324051.174059,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reply: Left Bundle Branch Area Pacing in Patients With Cardiac Sarcoidosis: The Key Question Is Not Clearly Answered",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001246?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174026,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Rhythm and Blues: Atrial Fibrillation, Depression, and the Autonomic Nervous System",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010230?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.173995,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Hidden in the Septopulmonary Bundle: An Unusual Mechanism of LA Flutter After PFA of the Posterior Left Atrium",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009168?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.17396,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Passive Right Atrial Activation Driven by the Coronary Sinus Fibrillatory Activity: Insight Into Its Critical Role in Atrial Fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009922?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.173908,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Profound Asystole Following Pulsed Field Application to the Left Superior Pulmonary Vein",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009892?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.173857,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Novel Neovascular Conduit Creation for Cardiac Implantable Electronic Device Implantation in Chronic Venous Occlusions",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010023?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.173824,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Ventricular Fibrillation Termination During Ablation at a Purkinje\u2013Border Zone Channel Overlapping Site",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2501000X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.173787,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transhepatic Access (and Re-Access) in Adult Patients With Interrupted Inferior Vena Cava Undergoing Electrophysiology Procedures",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010059?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.173753,
     "tags": [
       "Other"
     ],
