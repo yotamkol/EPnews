@@ -1,5 +1,79 @@
 [
   {
+    "title": "Efficacy and Safety of Pulsed Field Ablation for Cavotricuspid Isthmus-Dependent Atrial Flutter: A Meta-Analysis Based on Real-World Evidence",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002138?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "May 14, 2026",
+    "date_ts": 1778724029.069484,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Quantifying atrial fibrillation to improve risk estimation: the growing role of AF burden and a new density kid on the block",
+    "link": "https://doi.org/10.1093/eurheartj/ehag298",
+    "doi": "10.1093/eurheartj/ehag298",
+    "journal": "European Heart Journal",
+    "date": "May 13, 2026",
+    "date_ts": 1778630400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The dual face of lamin A/C cardiomyopathy: risk prediction of heart failure and arrhythmias",
+    "link": "https://doi.org/10.1093/eurheartj/ehag215",
+    "doi": "10.1093/eurheartj/ehag215",
+    "journal": "European Heart Journal",
+    "date": "May 13, 2026",
+    "date_ts": 1778630400.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "<i>MTMR4</i>\n                    variants have opposite gene-specific impact on life-threatening arrhythmic risk in type 1 and 2 long QT syndrome",
+    "link": "https://doi.org/10.1093/eurheartj/ehag294",
+    "doi": "10.1093/eurheartj/ehag294",
+    "journal": "European Heart Journal",
+    "date": "May 13, 2026",
+    "date_ts": 1778630400.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Modifier genes may cause different clinical phenotypes in patients with long QT syndrome (LQTS) carrying the same pathogenic variant. Variants in the MTMR4 gene have been previously associated, via patient-specific cardiomyocytes derived from induced pluripotent stem cells, with variable arrhythmic risk in a family with the p.Y111C-LQT1 mutation. This study aimed to evaluate the broader clinical impact of MTMR4 variants in patients with LQT1 and LQT2.\n                  \n                  \n                    Methods\n                    A total of 1192 LQTS patients were analysed: 638 with LQT1, 432 with LQT2, and 122 Swedish carriers of the p.Y111C-LQT1 variant. The association between MTMR4 variants and clinical severity was assessed by comparing patients with severe symptoms (cardiac arrest or syncope on beta-blockers) vs asymptomatic or mildly symptomatic individuals. ECG parameters, including Tpeak-Tend and T-wave heterogeneity, were also evaluated.\n                  \n                  \n                    Results\n                    In the LQT1 cohort, there was a significant decreasing pattern for cardiac events across MTMR4 genotypes (AA:15.9%, Aa:11.6%, aa:6.3%), while an opposite trend was apparent in the LQT2 cohort (AA:16.5%, Aa:18.2%, aa:27.6%). No pattern was apparent in the Swedish cohort. In the combined LQT1 cohort, the aa genotype was found in 15% of 702 mild/asymptomatic vs 1.7% of 58 with severe symptoms (P = .002). Vice versa, in LQT2, aa was more frequent in severe cases (24.1% vs 11.9%, P = .014). QTc was not associated with MTMR4, but the repolarization markers supported a gene-specific directionality of arrhythmic risk.\n                  \n                  \n                    Conclusions\n                    The MTMR4 minor allele in homozygosis exerts a gene-specific and opposite impact on arrhythmic risk in LQTS. This finding should influence risk stratification in clinical practice.",
+    "summary": "This retrospective cohort study of 1,192 LQTS patients (638 LQT1, 432 LQT2, 122 p.Y111C-LQT1 carriers) found that MTMR4 homozygous minor alleles have opposite gene-specific effects on arrhythmic risk: protective in LQT1 (6.3% vs 15.9% cardiac events in AA genotype, P=0.002) but deleterious in LQT2 (27.6% vs 16.5%, P=0.014), suggesting MTMR4 genotyping should inform LQ"
+  },
+  {
+    "title": "Evidence-Based Imaging Pathway for Atrial Fibrillation Ablation",
+    "link": "https://doi.org/10.1001/jamacardio.2026.0977",
+    "doi": "10.1001/jamacardio.2026.0977",
+    "journal": "JAMA Cardiology",
+    "date": "May 13, 2026",
+    "date_ts": 1778630400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Evidence-Based Imaging Pathway for Atrial Fibrillation Ablation\u2014Reply",
+    "link": "https://doi.org/10.1001/jamacardio.2026.0980",
+    "doi": "10.1001/jamacardio.2026.0980",
+    "journal": "JAMA Cardiology",
+    "date": "May 13, 2026",
+    "date_ts": 1778630400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Class IC Antiarrhythmic Therapy in Myocarditis With Non-Severe LV Dysfunction",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023611?dgcid=rss_sd_all",
     "doi": null,
@@ -48,6 +122,32 @@
     "hot": false
   },
   {
+    "title": "Current practice in the management of syncope in Italian hospitals: a national survey",
+    "link": "https://doi.org/10.1093/europace/euag089",
+    "doi": "10.1093/europace/euag089",
+    "journal": "EP Europace",
+    "date": "May 13, 2026",
+    "date_ts": 1778630400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Optimized Workflow for Pentaspline PFA and Its Impact on PVI Durability: Evidence From Systematic Remapping",
+    "link": "https://doi.org/10.1093/europace/euag118",
+    "doi": "10.1093/europace/euag118",
+    "journal": "EP Europace",
+    "date": "May 13, 2026",
+    "date_ts": 1778630400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Introduction\n                    Real-world series report substantial rates of pulmonary vein (PV) reconnection following index procedure with a pentaspline pulsed-field ablation (P-PFA) catheter. The contrast with initial durability data suggests this may be due to limitations in procedural workflow.\n                  \n                  \n                    Methods\n                    We conducted a single-centre, prospective study including consecutive patients undergoing first-time P-PFA pulmonary vein isolation (PVI), subsequently scheduled for systematic invasive remapping \u226530 days after the index procedure. Workflow was progressively refined in three phases, aiming at ensuring adequate tissue contact and based on previous remapping findings. The primary endpoint was PVI durability, per vein and per patient.\n                  \n                  \n                    Results\n                    Of 118 enrolled patients, 94 (phase 1:n=30; phase 2:n=34; phase 3:n=30) underwent systematic remapping, where 13, 10, and 1 reconnected PVs were observed in phases 1, 2 and 3, respectively. This resulted in per-vein durability of 89.8%, 92.9%, and 99.2% (p=0.005) and per-patient durability of 60.0%, 76.5%, and 96.7% (p=0.004). Mean total PFA applications increased from 36.8\u00b15.2 in phase 1 to 52.1\u00b18.0 and 58.7\u00b115.1 in phases 2 and 3, respectively (p&amp;lt;0.001). Median procedure time rose from 43 (39\u201350) minutes in phase 1 to 46 (42\u201356) minutes in phase 2 and 69 (61\u201377) minutes in phase 3 (p&amp;lt;0.001), with significant parallel increases in LA dwell time (p&amp;lt;0.001) across phases. No major or minor complications occurred during index or remapping procedures.\n                  \n                  \n                    Conclusion\n                    Progressive workflow refinements for pentaspline P-PFA markedly improved PVI durability to nearly 100%, supporting the concept that PV reconnection is predominantly technique-dependent rather than intrinsic to catheter or waveform design.",
+    "summary": "This single-centre prospective study of 94 patients undergoing pentaspline pulsed-field ablation for pulmonary vein isolation with systematic remapping demonstrated that progressive workflow refinements\u2014increasing ablation applications and left atrial dwell time across three phases\u2014significantly improved per-patient durability from 60.0% to 96.7% (p=0.004), suggesting that pulmonary vein reconnection is primarily technique-dependent rather than device-related."
+  },
+  {
     "title": "Exploration of Arrhythmia Burden in Cardiac Amyloidosis Using Implantable Loop Recorders \u2013 The EXCALIBUR study",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726063497?dgcid=rss_sd_all",
     "doi": null,
@@ -58,6 +158,76 @@
       "Other"
     ],
     "hot": false
+  },
+  {
+    "title": "Navigating the Zero Fluoroscopy Frontier: Current Tools, Evidence and Future Directions in Electrophysiology Procedures",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70290?af=R",
+    "doi": "10.1111/pace.70290",
+    "journal": "PACE",
+    "date": "May 12, 2026",
+    "date_ts": 1778578869.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  Fluoroscopy has traditionally been the mainstay imaging technique for guidance during electrophysiology (EP) ablation procedures. The numerous disadvantages associated with radiation exposure for both operators and patients have created the need for zero\u2010fluoroscopy (ZF) approaches. Today, electrophysiologists have access to a wide range of ZF tools, including electroanatomic mapping systems, transoesophageal and intracardiac echocardiography, visualisable sheaths, contact\u2010force sensing catheters, preprocedural advanced cardiac imaging integration, and real\u2010time cardiac magnetic resonance EP guidance. An increasing body of evidence supports the adoption of ZF protocols in managing of the full spectrum of arrhythmias, with feasibility demonstrated without compromise to efficacy or safety. The future of ZF appears highly promising, driven not only by continued refinement of the existing systems but also by the seamless convergence of emerging technologies.",
+    "summary": "This narrative review summarizes the evolution and current evidence supporting zero-fluoroscopy techniques in electrophysiology ablation, demonstrating that modern mapping and imaging technologies (electroanatomic mapping, echocardiography, contact-force sensing, and cardiac MRI guidance) enable safe and effective arrhythmia management across all arrhythmia types without radiation exposure to operators or patients. The review indicates that zero-fluoroscopy approaches have achieved feasibility and efficacy comparable to traditional fluoroscopy-guided procedures, with continued technological advancement expected to further improve outcomes."
+  },
+  {
+    "title": "Comment on \u201cUtilization and Prognosis of Cardiac Device Implantation in AL Versus ATTR Amyloidosis\u201d",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70291?af=R",
+    "doi": "10.1111/pace.70291",
+    "journal": "PACE",
+    "date": "May 12, 2026",
+    "date_ts": 1778578634.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "The authors declare no conflicts of interest.",
+    "summary": "I'd be happy to help summarize a medical research abstract, but I don't see an abstract included in your message. Please provide the abstract you'd like me to summarize, and I'll deliver a concise 1-2 sentence summary including the study type, sample size, intervention/exposure, and key results for a physician audience."
+  },
+  {
+    "title": "Long\u2010Term Cardiovascular Outcomes Following New\u2010Onset Arrhythmias During Pregnancy",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70283?af=R",
+    "doi": "10.1111/pace.70283",
+    "journal": "PACE",
+    "date": "May 12, 2026",
+    "date_ts": 1778578506.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Arrhythmias during pregnancy are increasingly prevalent and associated with acute adverse cardiovascular outcomes, yet their long\u2010term cardiovascular implications remain poorly defined. To address this gap, we conducted a large population\u2010based study to evaluate 5\u2010year cardiovascular outcomes following incident arrhythmias during pregnancy.\n                  \n                  \n                    Methods\n                    Using TriNetX, we conducted a retrospective cohort study of pregnant individuals (\u226518 years) admitted for delivery between 2015 and 2020. Patients with new\u2010onset arrhythmias during pregnancy were compared with those without arrhythmias. Outcomes included composite cardiovascular outcomes, incident heart failure (HF), cerebrovascular accident (CVA), and acute myocardial infarction (AMI). Propensity score matching (1:1) was used to adjust for demographic and clinical comorbidities.\n                  \n                  \n                    Results\n                    \n                      Among 886,732 deliveries, 8507 patients (0.9%) had incident arrhythmias. After matching, individuals with incident arrhythmias during pregnancy had higher 5\u2010year risks of composite cardiovascular outcomes (risk ratios [RR] 3.82), HF (RR 4.48), CVA (RR 2.04), and AMI (RR 4.80) (all\n                      P\n                      \u00a0&lt;\u00a00.01). Associations persisted across age strata, with particularly elevated risks among those \u226535 years.\n                    \n                  \n                  \n                    Conclusions\n                    This study, among the first to our knowledge to evaluate long\u2010term cardiovascular outcomes following incident arrhythmias during pregnancy, demonstrates a substantially increased 5\u2010year cardiovascular risk, underscoring the need for extended postpartum cardiovascular surveillance beyond routine follow\u2010up.",
+    "summary": "This retrospective cohort study of 886,732 pregnancies identified 8,507 patients (0.9%) with incident arrhythmias and found that pregnancy-related arrhythmias were associated with substantially elevated 5-year risks of composite cardiovascular outcomes (RR 3.82), heart failure (RR 4.48), acute myocardial infarction (RR 4.80), and cerebrovascular accident (RR 2.04) after propensity score matching, with highest risks in women \u226535 years of age."
+  },
+  {
+    "title": "Where to Perform the Pulmonary Vein Isolation in Third\u2010Ablation Paroxysmal AF?",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70288?af=R",
+    "doi": "10.1111/pace.70288",
+    "journal": "PACE",
+    "date": "May 12, 2026",
+    "date_ts": 1778577842.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Pulmonary vein isolation (PVI) is the cornerstone of atrial fibrillation (AF) ablation, although the optimal site for ablation remains controversial.\n                  \n                  \n                    Methods and Results\n                    We reported a 52\u2010 year\u2010old woman with the third paroxysmal AF ablation. Mapping showed that the ostial PV \uff0c but not the PV antrum \uff0cwas isolated. During circumferential PV antrum ablation, the atrial arrhythmias were eliminated. The roof line and superior vena cava isolation was empirically performed. During the 84\u2010month follow\u2010up, she was free of arrhythmias without antiarrhythmics.\n                  \n                  \n                    Conclusion\n                    Isolation of the PV antrum, which was easily to be identify by image integration, should be checked and achieved for patients with AF recurrence after \u201csuccessful and durable ostial PVI\u201d.\n                  \n                  \n                    Clinical trial Registration Statement\n                    No clinical trial registration number is applicable.",
+    "summary": "This is a case report of a 52-year-old woman with recurrent paroxysmal atrial fibrillation who achieved long-term arrhythmia-free status (84 months) after repeat ablation targeting the pulmonary vein antrum rather than the ostium, suggesting that antral isolation should be verified in patients with AF recurrence following apparently successful ostial PVI."
+  },
+  {
+    "title": "Cardiac Resynchronization Therapy Implantation in a Double\u2010Barrel Coronary Sinus",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70280?af=R",
+    "doi": "10.1111/pace.70280",
+    "journal": "PACE",
+    "date": "May 12, 2026",
+    "date_ts": 1778576735.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background\n                    Anatomical variations of the coronary sinus (CS) may complicate left ventricular lead placement during cardiac resynchronization therapy (CRT). A rare variant, the double\u2010barrel coronary sinus, can result in inadvertent cannulation of non\u2010target tributaries and procedural difficulty.\n                  \n                  \n                    Case Summary\n                    We report a 45\u2010year\u2010old woman with symptomatic heart failure, left bundle branch block (LBBB), severe left ventricular dysfunction, and left ventricular dyssynchrony who underwent CRT implantation. Levophase coronary angiography demonstrated a double\u2010barrel coronary sinus, with one channel continuing from the posterolateral vein and the other from the anterior interventricular vein. Repeated attempts to access the posterolateral vein preferentially entered the anterior interventricular vein. A modified pull\u2010back technique using a sheath and dual guidewires enabled successful cannulation of the posterolateral branch. Left ventricular lead placement was achieved, resulting in significant QRS narrowing and marked clinical improvement.\n                  \n                  \n                    Conclusion\n                    Recognition of double\u2010barrel coronary sinus anatomy and use of alternative wiring techniques can facilitate successful CRT implantation.",
+    "summary": "This case report describes a 45-year-old woman with heart failure and LBBB who underwent successful CRT implantation despite anatomic variation (double-barrel coronary sinus), which was overcome using a modified pull-back technique with dual guidewires to achieve posterolateral vein cannulation and subsequent left ventricular lead placement with clinical improvement."
   },
   {
     "title": "Procedural Efficiency vs Clinical Outcomes in Persistent Atrial Fibrillation Ablation: A Population-Level Trade-Off",
@@ -6001,163 +6171,6 @@
     "journal": "JACC: Clinical EP",
     "date": "Apr 16, 2026",
     "date_ts": 1776324051.174487,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Early and Late Myocardial Effects of Proton Beam Cardiac Radioablation: Insights From Gene Expression Analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008941?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174454,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Understanding the Antiarrhythmic Mechanisms of Cardiac Radioablation: Putting the Horse in Front of the Cart",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010138?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174421,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Image Integration to Identify Histologic and Electroanatomic Ventricular Scar: A Clinicopathological Study Comparing 2 Image Integration Systems",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009211?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174386,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Histology-Validated Semiautomatic LGE-CMR Postprocessing: What We Truly See\u2014and What We\u2019re Missing",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26000113?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174349,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Predicting Sudden Cardiac Death in Patients With Sarcoidosis Using a Multimodal Artificial Intelligence Model",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008291?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174318,
-    "tags": [
-      "SCD",
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "From Algorithm to Bedside: Making AI Models Clinically Meaningful",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010035?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174289,
-    "tags": [
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Implantable Cardioverter-Defibrillator Use in Patients With Left Ventricular Assist Devices: A Systematic Review and Meta-Analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2500828X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174257,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "RBM20 Truncating Variants Predict Major Ventricular Arrhythmia Risk Independent of Structural Remodeling",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008229?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174224,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Multimodal Strategies to Reduce Health System\u2013Wide Opioid Utilization After Cardiac Implantable Electronic Device Procedures",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008989?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174184,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical Outcome in Athletes With Ventricular Ectopic Beats and Normal Cardiac MRI: Preliminary Results of a Longitudinal Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008977?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174151,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "From ECG Pattern to Care Pathway: Simplifying Risk in Post-TAVI LBBB",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001222?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174121,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "REPLY: From ECG Pattern to Care Pathway: Simplifying Risk in Post-TAVI LBBB",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001234?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174092,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left Bundle Branch Area Pacing in Patients With Cardiac Sarcoidosis: The Key Question Is Not Clearly Answered",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001210?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174059,
     "tags": [
       "Other"
     ],
