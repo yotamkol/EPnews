@@ -1,5 +1,65 @@
 [
   {
+    "title": "Effectiveness and Safety of Early Rhythm Control in Patients With Atrial Fibrillation and Chronic Kidney Disease",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726060109?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 15, 2026",
+    "date_ts": 1778810358.790995,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Therapy for Atrial Fibrillation in Patients with Drug-Eluting Stents",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2603462?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMc2603462",
+    "journal": "NEJM",
+    "date": "May 15, 2026",
+    "date_ts": 1778810358.713423,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Versatility of the novel balloon-in-basket pulsed field ablation catheter \u2013 pulmonary vein isolation and beyond",
+    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600214X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "May 15, 2026",
+    "date_ts": 1778810353.476654,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Electrosurgery to traverse surgerized ventricular septum and facilitate left bundle branch area pacing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022502?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 15, 2026",
+    "date_ts": 1778810353.385734,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "P-wave Morphology of Bachmann\u2019s Bundle Pacing Based on Electroanatomical Mapping and Intracardiac Echocardiography",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023660?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 15, 2026",
+    "date_ts": 1778810353.385517,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
     "title": "Efficacy and Safety of Pulsed Field Ablation for Cavotricuspid Isthmus-Dependent Atrial Flutter: A Meta-Analysis Based on Real-World Evidence",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002138?dgcid=rss_sd_all",
     "doi": null,
@@ -72,6 +132,48 @@
       "AFib"
     ],
     "hot": false
+  },
+  {
+    "title": "Simultaneous Tricuspid Valve Replacement and Left Bundle Branch Area Pacing With Surgical Lead Refixation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70292?af=R",
+    "doi": "10.1111/pace.70292",
+    "journal": "PACE",
+    "date": "May 13, 2026",
+    "date_ts": 1778668171.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    The importance of managing tricuspid regurgitation (TR) has been increasingly recognized, and tricuspid valve replacement (TVR) is now performed more frequently. Conduction system pacing (CSP), including left bundle branch area pacing (LBBAP), offers substantial benefits by improving left ventricular (LV) electrical synchrony. However, combining these two strategies is challenging.\n                  \n                  \n                    Case\n                    A 58\u2010year\u2010old man underwent dual\u2010chamber pacemaker implantation for complete atrioventricular block. Five years later, he developed severe LV dysfunction due to right ventricular (RV) apical pacing\u2013induced cardiomyopathy. Upgrade to conventional cardiac resynchronization therapy resulted in a persistently prolonged QRS duration (150 msec) and modest improvement in LV ejection fraction (LVEF, 35%). RV lead\u2013related TR progressively worsened, leading to biventricular heart failure. Although tricuspid valve repair was performed, severe TR recurred. Following heart team discussion, both CSP upgrade and TVR were deemed necessary without delay. An LBBAP lead was implanted the day before surgery as an \u201celectrophysiological anchor.\u201d During TVR, the lead was dislodged; however, the surgeon identified the insertion (\u201canchor\u201d) site, reinserted the lead, and secured it by jailing it outside the prosthetic valve in a protective position. Postoperatively, the pacing threshold improved (1.5 V@0.4\u00a0ms to 0.75V@0.4\u00a0ms) with QRS narrowing (135 to 125\u00a0ms). At three months, heart failure symptoms were markedly relieved, LVEF improved to 50%, and lead parameters remained stable.\n                  \n                  \n                    Conclusion\n                    Although jailing a lead with a prosthetic valve requires great caution to ensure long\u2010term lead survival, we successfully combined LBBAP and surgical TVR with intraoperative refixation.",
+    "summary": "This case report describes successful combined left bundle branch area pacing (LBBAP) upgrade and tricuspid valve replacement (TVR) in a 58-year-old man with RV apical pacing\u2013induced cardiomyopathy and recurrent severe tricuspid regurgitation, where intraoperative lead reinsertion and jailing outside the prosthetic valve improved QRS duration and LVEF to 50% at three-month follow-up. The technique of using an LBBAP lead as an \"electrophysiological anchor\" prior to TVR, with careful intraoperative refixation, demonstrated feasibility for simultaneously addressing both conduction system dysfunction and structural"
+  },
+  {
+    "title": "Left Atrial Appendage Thrombus/Sludge and Flow Velocity in Patients With Atrial Fibrillation and Low CHA2DS2\u2010VASc Scores",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70285?af=R",
+    "doi": "10.1111/pace.70285",
+    "journal": "PACE",
+    "date": "May 13, 2026",
+    "date_ts": 1778667607.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Nonvalvular atrial fibrillation (NVAF) patients with low CHA2DS2\u2010VASc scores still have a risk of atrial thrombus formation. This study aims to identify these patients' risk factors for intracardiac thrombus or sludge.\n                  \n                  \n                    Methods\n                    We conducted a retrospective study of 919 consecutive hospitalized NVAF or atrial flutter patients with a CHA2DS2\u2010Vas score \u2264 1 (male) and \u2264 2 (female) who underwent transesophageal echocardiogram (TEE) before catheter ablation at Beijing An Zhen Hospital from November 2016 to December 2017. We collected the clinical and echocardiographic characteristics of the patients.\n                  \n                  \n                    Results\n                    \n                      Excluding seven patients with hypertrophic cardiomyopathy, 919 patients, including 17 identified left atrial appendage (LAA) thrombus/sludge and 902 without LAA thrombus/sludge, were included. Among 17 patients with LAA thrombus/sludge, 16 (94.1%) had non\u2010paroxysmal AF. A subgroup analysis was conducted in 403 non\u2010paroxysmal atrial fibrillation (AF) patients. 87.8% had spontaneous echo contrast (SEC), 59.3% had severe or more severe SEC, and 4.0% had thrombus/sludge. In the multivariable model, female (odds ratio [OR] 4.612, 95% [CI] 1.454\u201314.627,\n                      p\n                      = 0.009) and LA diameter \u2265 45\u00a0mm (OR 13.340, [CI] 3.601, 49.415,\n                      p\n                      &lt; 0.001) remained significantly independently associated with LAA thrombus/sludge.\n                    \n                  \n                  \n                    Conclusion\n                    Among patients with NVAF and CHA2DS2\u2010VASc scores \u2264 1 (male) and \u2264 2 (female), those non\u2010paroxysmal AF patients who were female and had an LA \u2265 45\u00a0mm still had a risk of LAA thrombus/sludge formation.",
+    "summary": "This retrospective study of 919 low-risk NVAF patients (CHA2DS2-VASc \u22641 males, \u22642 females) undergoing TEE before ablation identified female sex (OR 4.612) and left atrial diameter \u226545 mm (OR 13.340) as independent risk factors for LAA thrombus/sludge formation, particularly in non-paroxysmal AF patients. The findings suggest that conventionally low-risk NVAF patients with these characteristics warrant closer monitoring despite their low stroke risk scores."
+  },
+  {
+    "title": "Zero Fluoroscopy Catheter Ablation of Accessory Pathways and AV Nodal Re\u2010Entry Tachycardia: A Single Institution Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70281?af=R",
+    "doi": "10.1111/pace.70281",
+    "journal": "PACE",
+    "date": "May 13, 2026",
+    "date_ts": 1778667441.0,
+    "tags": [
+      "SVT"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Minimizing radiation exposure during electrophysiological studies remains an important priority in the catheterization laboratory. With the advancement of imaging and electroanatomic mapping systems, eliminating fluoroscopy from catheter ablation of arrhythmias is becoming more feasible, even for left side procedures requiring transseptal puncture. Nevertheless, there remain concern over the safety and efficacy of a zero\u2010fluoroscopy approach.\n                  \n                  \n                    Objectives\n                    The aim of this report was to evaluate the safety and efficacy of a zero\u2010fluoroscopy catheter ablation approach for accessory pathways and atrioventricular nodal\u2010reentrant tachycardia (AVNRT) in a diverse, consecutive patient cohort.\n                  \n                  \n                    Methods\n                    This was a retrospective analysis of all patients who underwent radiofrequency ablation or cryoablation of accessory pathways or AVNRT between January 2019 and June 2022 at a single institution. Patient demographics, arrhythmia substrates, ablation energy modalities, and procedural outcomes were evaluated.\n                  \n                  \n                    Results\n                    There were 166 total ablation procedures performed on 164 unique patients. Fluoroscopy was not used in any of the cases. The mean age was 14.8 years (range 3.1\u201335.7), of whom 84% were under 18 years of age. Among the 166 procedures performed, 58 involved only typical AVNRT, 1 atypical AVNRT, 99 were accessory pathways, and 8 involved multiple arrhythmia substrates. In all, there were 112 instances of accessory pathways (78 manifest, 34 concealed). Acute procedure success was 99.4%. There were five (5/164, 3%) recurrences after a year of follow\u2010up. There were no complications identified.\n                  \n                  \n                    Conclusion\n                    Zero\u2010fluoroscopy approach to catheter ablation of AVNRT and accessory pathways is safe and effective, further supporting the general adoption of radiation\u2010free techniques in such cases.",
+    "summary": "This retrospective analysis of 166 zero-fluoroscopy ablation procedures in 164 patients (mean age 14.8 years) for accessory pathways and AVNRT demonstrated 99.4% acute success with only 3% recurrence at one year and no procedural complications, supporting the safety and efficacy of eliminating fluoroscopy in these straightforward arrhythmia ablations."
   },
   {
     "title": "Class IC Antiarrhythmic Therapy in Myocarditis With Non-Severe LV Dysfunction",
@@ -1241,6 +1343,69 @@
     "date_ts": 1777600407.588842,
     "tags": [
       "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Correction to: Post-pacing interval after failed anti-tachycardia pacing for scar-related ventricular tachycardia: implications for the location of the critical substrate",
+    "link": "https://doi.org/10.1093/europace/euag106",
+    "doi": "10.1093/europace/euag106",
+    "journal": "EP Europace",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Artificial intelligence for patient selection in pulsed-field ablation: promise, pragmatism, and the need for standards",
+    "link": "https://doi.org/10.1093/europace/euag066",
+    "doi": "10.1093/europace/euag066",
+    "journal": "EP Europace",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Feasibility of hypnosis for analgosedation during atrial fibrillation ablation, including pulsed field and radiofrequency techniques: a pilot study",
+    "link": "https://doi.org/10.1093/europace/euag087",
+    "doi": "10.1093/europace/euag087",
+    "journal": "EP Europace",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Machine learning prediction of outcome following pulsed-field atrial fibrillation ablation: patient selection and risk factors",
+    "link": "https://doi.org/10.1093/europace/euag053",
+    "doi": "10.1093/europace/euag053",
+    "journal": "EP Europace",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "AFib",
+      "AI"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background\n                    Despite being the most effective option for maintaining sinus rhythm, atrial fibrillation (AF) catheter ablation reaches few patients. For this reason, identifying candidates with the highest likelihood of success or individualizing counselling to a specific patient to improve procedural outcome could enhance clinical benefits and cost-effectiveness.\n                  \n                  \n                    Objective\n                    To integrate machine learning (ML) into an outcome prediction model based on a large cohort of AF patients undergoing pulsed field ablation (PFA).\n                  \n                  \n                    Methods\n                    Consecutive AF patients undergoing transcatheter PFA between June 2022 and December 2024 were prospectively enrolled in the ATHENA registry. All procedures were performed with a penta-splines 12F over-the-wire PFA catheter (FARAWAVE\u2122, Boston Scientific). Clinical and procedural variables were collected to train five predictive models estimating 1 year arrhythmic recurrence; model interpretability was assessed using SHAP (SHapley Additive exPlanations) analysis.\n                  \n                  \n                    Results\n                    The study included 1688 AF patients with a median follow-up of 365 days (interquartile range 202-393), arrhythmic recurrence occurred in 314 patients (18.6%). The Boruta algorithm identified diagnosis-to-ablation time (DAT), CHA\u2082DS\u2082-VASc score, age, and body mass index (BMI) as most significant predictors. Among the five ML models developed to predict 1 year arrhythmic recurrence probability, Random Forest achieved the best performance (AUC = 0.75, 95% CI 0.69-0.82). SHAP analysis confirmed DAT, BMI, and indexed left atrial volume as major contributors to recurrence.\n                  \n                  \n                    Conclusion\n                    This is the first ML model exclusively trained and validated on AF patients undergoing PFA providing actionable insights for personalized treatment planning. Routine use of the model holds the potential to optimize patient selection and improve procedural outcome, supporting individualized counselling and outcome-driven care pathways, moving from static to interactive risk prediction.\n                  \n                  \n                    Clinical Trial Registration\n                    Advanced TecHnologies For SuccEssful AblatioN of AF in Clinical Practice (ATHENA). URL: http://clinicaltrials.gov/ Identifier: NCT05617456",
+    "summary": "This prospective cohort study of 1,688 AF patients undergoing pulsed field ablation developed a machine learning prediction model (Random Forest, AUC 0.75) identifying diagnosis-to-ablation time, BMI, and indexed left atrial volume as major predictors of 1-year arrhythmic recurrence (18.6%), with potential to personalize patient selection and counseling for improved procedural outcomes."
+  },
+  {
+    "title": "Sudden cardiac arrest during endurance races: beyond final acceleration?",
+    "link": "https://doi.org/10.1093/europace/euag064",
+    "doi": "10.1093/europace/euag064",
+    "journal": "EP Europace",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "SCD"
     ],
     "hot": false
   },
@@ -6017,162 +6182,6 @@
     "date_ts": 1776324051.174935,
     "tags": [
       "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Arrhythmia Occurrence After Balloon-Expandable and Self-Expanding Transcatheter Pulmonary Valve Replacement",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001180?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174903,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transcatheter Pulmonary Valve Replacement, Ventricular Arrhythmias, and Sudden Death: What Is Now Known and Not Known?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001386?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174872,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transcatheter Tricuspid Valve Replacement in Patients With Cardiac Implantable Electronic Device Leads: The TRIPLACE Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25011041?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174838,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Lead Jailing or Lead Liberation?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001209?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174811,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Tricuspid Right Ventricular Lead Entrapment in Transcatheter Tricuspid Interventions: The Tri-LEAD Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009144?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174778,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Two Intertwined Therapies",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010205?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174752,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Practice Patterns and Outcomes for Tricuspid Interventions Among Medicare Patients With Cardiac Implantable Electronic Devices",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25007947?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174718,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Lessons Learned From a Nationwide Analysis of TVIs in Patients With CIEDs: Managing the Lead at the Crossroads",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009909?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174684,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left Bundle Branch Area Pacing in Patients With Cardiac Sarcoidosis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008199?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174653,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Conduction System Pacing for Cardiac Sarcoidosis: A Mission Impossible for LBBAP?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008308?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174617,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Comparison of Monopolar and Bipolar Pulsed Field vs Radiofrequency Ablation on Coronary Artery Injury in a Swine Model",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008965?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174551,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Fly in the Ointment: Coronary Spasm After Pulsed Field Ablation of the Cavotricuspid Isthmus",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009958?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.17452,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Characterizing Sustained Arrhythmias in Patients With Arrhythmic Mitral Valve Prolapse: Insights From the SAVE-MVP collaboration",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008242?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174487,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
