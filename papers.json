@@ -1,5 +1,188 @@
 [
   {
+    "title": "An Algorithmic Pitfall Causing Pacing-Induced Ventricular Fibrillation: A Dangerous Scenario",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003506?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 16, 2026",
+    "date_ts": 1778896316.411305,
+    "tags": [
+      "VT",
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Outcomes of Left Atrial Appendage Occlusion With a Coated Device: Primary Analysis of HEAL-LAA",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002732?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 16, 2026",
+    "date_ts": 1778896316.411272,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "How Many CPVT Patients Need an ICD?: The Impact of Left Cardiac Sympathetic Denervation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002719?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 16, 2026",
+    "date_ts": 1778896316.411238,
+    "tags": [
+      "Devices",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Epinephrine Challenge: Long-Term Evaluation of Test Performance for the Evaluation of Unexplained Cardiac Arrest and Familial Sudden Death",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600318X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 16, 2026",
+    "date_ts": 1778896316.411197,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sex-Based Differences in the Etiology of Sudden Cardiac Arrest and Death Among Young Competitive Athletes From the United States",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003555?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 16, 2026",
+    "date_ts": 1778896316.411127,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Feasibility and Outcomes of Repeat Epicardial Access in Arrhythmogenic Right Ventricular Cardiomyopathy.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023684?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 16, 2026",
+    "date_ts": 1778896316.057174,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Long-Term Performance of Conduction System Pacing in Patients With Congenital Heart Disease",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023659?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 16, 2026",
+    "date_ts": 1778896316.057139,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Lattice-tip catheter for septal ventricular tachycardia ablation guided by preprocedural imaging",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023623?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 16, 2026",
+    "date_ts": 1778896316.057107,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Spatial Dissociation Between Atrial Exit and the Putative Slow Pathway Substrate in Atypical AVNRT",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023635?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 16, 2026",
+    "date_ts": 1778896316.057074,
+    "tags": [
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Electrophysiologic Observations During and After Transcatheter Aortic Valve Replacement (TAVR)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023696?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 16, 2026",
+    "date_ts": 1778896316.057037,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "High-Sensitivity Cardiac Troponin I for Enhanced Risk Stratification in Primary Prevention for Sudden Cardiac Death in Hypertrophic Cardiomyopathy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023647?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 16, 2026",
+    "date_ts": 1778896316.056999,
+    "tags": [
+      "SCD",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Anatomical Considerations for Left Bundle Branch Area Pacing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023672?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 16, 2026",
+    "date_ts": 1778896316.056959,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Intracardiac Echocardiography from the Left Heart Chambers to Guide Electrophysiology Procedures",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023702?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 16, 2026",
+    "date_ts": 1778896316.056901,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Principles Guiding PFA Cardiac Catheter and Sheath Management from Preclinical Assessment of Microbubble Formation and Air Intrusion Models",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023714?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 16, 2026",
+    "date_ts": 1778896316.05672,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Improvement in cardiovascular function after atrial fibrillation ablation in heart failure: association with ECG and echocardiographic variables",
+    "link": "https://doi.org/10.1093/europace/euag086",
+    "doi": "10.1093/europace/euag086",
+    "journal": "EP Europace",
+    "date": "May 16, 2026",
+    "date_ts": 1778889600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Effectiveness and Safety of Early Rhythm Control in Patients With Atrial Fibrillation and Chronic Kidney Disease",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726060109?dgcid=rss_sd_all",
     "doi": null,
@@ -58,6 +241,105 @@
       "Imaging"
     ],
     "hot": false
+  },
+  {
+    "title": "Incidence and Type of Recurrent Ventricular Arrhythmia in Patients with Arrhythmic Mitral Valve Prolapse and Implantable Cardioverter Defibrillator for Secondary Prevention",
+    "link": "https://doi.org/10.1093/europace/euag101",
+    "doi": "10.1093/europace/euag101",
+    "journal": "EP Europace",
+    "date": "May 15, 2026",
+    "date_ts": 1778803200.0,
+    "tags": [
+      "VT",
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background\n                    Mitral valve prolapse (MVP) is a common valvular disorder associated with ventricular arrhythmias (VAs) in a subgroup of patients, known as arrhythmic MVP (AMVP). AMVP patients with malignant VAs typically receive an implantable cardioverter-defibrillator (ICD) for secondary prevention. However, data regarding the incidence of appropriate ICD therapy and the type of arrhythmia recurrence in this population remain scarce.\n                  \n                  \n                    Objectives\n                    This study aimed to evaluate the incidence of appropriate ICD therapies and type of arrythmia recurrence in AMVP patients with an ICD implanted for secondary prevention.\n                  \n                  \n                    Methods\n                    A systematic literature search was conducted in PubMed/MEDLINE and EMBASE databases until January 2025. Studies reporting the incidence of appropriate ICD therapy in AMVP patients were included.\n                  \n                  \n                    Results\n                    A total of 9 studies met the inclusion criteria, resulting in 166 AMVP patients with ICDs for secondary prevention. The mean age was 41.8 years, with 55.8% of patients being female. Over a weighted mean follow-up of 4.9\u00b13.1 years, 34.9% (95%CI: 28.1-42.5) of the patients experienced recurrence of VA. The pooled incidence of appropriate ICD therapies during follow-up was 8.1 per 100 person-year (95% CI: 5.6\u201310.5, I2: 11.7%). Regarding the type of arrhythmic recurrence, the majority of arrhythmias (53.8%, 95% CI: 44.3%\u201363.0%) were in the form of ventricular fibrillation or polymorphic ventricular tachycardia (VT), while the remaining arrhythmias were reported as monomorphic VT. Among 67 ventricular arrhythmic episodes reported in 7 studies with available data, 65 required shock therapy, corresponding to a shock proportion of 97.0% (95% CI: 89.6\u201399.6%).\n                  \n                  \n                    Conclusion\n                    AMVP patients with ICDs for secondary prevention exhibit a high risk of recurrent arrhythmias, with recurrences in the form of polymorphic VA occurring in more than half of the cases.",
+    "summary": "This meta-analysis of 9 studies involving 166 AMVP patients with ICDs for secondary prevention found that 34.9% experienced VA recurrence over 4.9 years of follow-up, with an appropriate ICD therapy incidence of 8.1 per 100 person-years, predominantly manifesting as polymorphic VT or ventricular fibrillation (53.8%). The high shock requirement rate (97%) underscores the malignant nature of arrhythmia recurrence in this population."
+  },
+  {
+    "title": "Alcohol Consumption and Risk of Atrial Fibrillation: A Pairwise and Network Meta-Analysis",
+    "link": "https://doi.org/10.1093/europace/euag111",
+    "doi": "10.1093/europace/euag111",
+    "journal": "EP Europace",
+    "date": "May 15, 2026",
+    "date_ts": 1778803200.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background\n                    Despite well-established evidence linking alcohol consumption to an increased risk of atrial fibrillation (AF), a clear threshold for safe intake remains undefined. Most clinical guidelines recommend abstinence or moderation, but lack specificity regarding quantitative limits and evidence-based thresholds for primary prevention of AF.\n                  \n                  \n                    Methods\n                    We performed this systematic review, pairwise meta-analysis, and network meta-analysis to assess the association and dose-response relationship between varying quantities of alcohol consumption and incident AF. The predefined alcohol intake categories included: no intake, very low (&amp;lt;12 g/day), low (12.1\u201324 g/day), moderate (24.1\u201348 g/day), high (48.1\u201360 g/day), and very high (&amp;gt;60 g/day). The pairwise meta-analyses compared each intake category to no intake, and a frequentist network meta-analysis was conducted to integrate direct and indirect comparisons. Pooled relative risks (RR) for AF incidence were estimated using random-effects models, and a subgroup analysis by sex was performed.\n                  \n                  \n                    Results\n                    Twenty-six studies with nearly 15 million participants were included. As compared to those with no alcohol intake, very high alcohol intake was associated with a 75% increased risk of incident AF (RR 1.75; 95% CI: 1.25-2.44, p=0.04), intake below 48 g/day was associated with modestly lower AF risk, and the lowest risk was observed at &amp;lt;12 g/day (RR 0.72; 95% CI: 0.63-0.83). The weighted mean follow-up was approximately 6.4 years. Network meta-analysis confirmed these findings and demonstrated a significantly increased AF risk with very high compared to low (RR 1.91), moderate (RR 2.03), and high (RR 2.00) levels. Sex-stratified analyses showed similar results.\n                  \n                  \n                    Conclusions\n                    Alcohol consumption is associated with a nonlinear, threshold-dependent relationship with incident AF. While low to moderate intake may not increase AF risk, intake beyond 60 g/day significantly increases the AF risk. These findings may suggest that a more liberal approach to alcohol consumption, particularly at low to moderate levels, could be reasonable in the general population, though further prospective studies are needed to confirm causality and refine individual risk stratification.",
+    "summary": "This systematic review and network meta-analysis of 26 studies involving nearly 15 million participants demonstrates a nonlinear, dose-dependent relationship between alcohol consumption and atrial fibrillation risk, with very high intake (>60 g/day) associated with a 75% increased risk compared to abstinence, while intake below 48 g/day showed modestly lower or neutral risk. The findings suggest that low-to-moderate alcohol consumption may not increase AF risk, contrasting with current guidelines recommending abstinence."
+  },
+  {
+    "title": "Comprehensive assessment of novel cardiovascular biomarkers in AF",
+    "link": "https://doi.org/10.1093/europace/euag096",
+    "doi": "10.1093/europace/euag096",
+    "journal": "EP Europace",
+    "date": "May 15, 2026",
+    "date_ts": 1778803200.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and aims\n                    Biomarkers have the potential to improve risk prediction beyond clinical characteristics. We examined the association of four emerging cardiovascular biomarkers (angiopoietin 2 [Angpt2], bone morphogenetic protein 10 [BMP10], fibroblast growth factor 23 [FGF23], insulin-like growth factor binding protein 7 [IGFBP7]) in comparison with N-terminal pro B-type natriuretic peptide (NTproBNP) across the disease course of atrial fibrillation (AF).\n                  \n                  \n                    Methods\n                    We enrolled patients from a prospective cohort of patients at risk of AF or with manifest arrhythmia. The circulating vascular biomarkers were quantified using high-throughput, high-precision precommercial assays (Roche Diagnostics). A combined endpoint comprised: stroke, transient ischemic attack (TIA), myocardial infarction, incident coronary heart disease, heart failure and all-cause mortality.\n                  \n                  \n                    Results\n                    Of total N=1,047 individuals, N=527 had prevalent AF, N=507 were free of AF at baseline. Median follow-up was 42 months. A total of N=66 individuals died; the combined endpoint occurred in N=198 individuals. All five biomarkers were significantly associated with the incidence of AF both, in multi-state analysis (MSA) and Cox regression, though the association with FGF23 was only significant in the age and sex adjusted Cox model. AF recurrence was significantly associated with all biomarkers, most strongly with NTproBNP. In prevalent AF, NTproBNP, FGF23 and IGFBP7 were associated with the combined endpoint and all-cause mortality, Angpt2 was associated with all-cause mortality. NTproBNP showed the strongest association for all-cause mortality, IGFBP7 for the combined endpoint in prevalent AF. In incident AF the association with the combined outcome was statistically significant for NTproBNP in multivariable-adjusted models. All-cause mortality in individuals with incident AF was associated with NTproBNP, Angpt2, FGF23 and IGFBP7 both in the MSA and Cox model.\n                  \n                  \n                    Conclusions\n                    All novel biomarkers Angpt2, BMP10, FGF23 and IGFBP7 showed predictive value for incident and recurrent AF. Individual biomarkers showed distinct strengths in prediction of outcomes across the disease spectrum of AF.",
+    "summary": "This prospective cohort study of 1,047 patients (527 with prevalent AF, 507 AF-free at baseline) evaluated four emerging vascular biomarkers (Angpt2, BMP10, FGF23, IGFBP7) against NTproBNP for predicting AF incidence, recurrence, and adverse outcomes (stroke, TIA, MI, heart failure, mortality) over 42 months of follow-up. All novel biomarkers were significantly associated with incident and recurrent AF, with NTproBNP showing the strongest associations for mortality and IGFBP7 for combined endpoints in prevalent AF, suggesting biomarker-"
+  },
+  {
+    "title": "Complications of Temporary Transvenous Cardiac Pacing by Access Site: A Systematic Review and Meta\u2010Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70295?af=R",
+    "doi": "10.1111/pace.70295",
+    "journal": "PACE",
+    "date": "May 14, 2026",
+    "date_ts": 1778769246.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    The femoral and internal jugular veins are the most commonly used access routes for TTVPM placement. Femoral access is associated with higher rates of infection and bleeding due to groin proximity, whereas jugular access may increase the risk of vascular injury or pneumothorax when performed without imaging guidance. Despite numerous observational studies comparing these access sites, the evidence remains inconclusive due to heterogeneous methodologies, small sample sizes, and varying definitions of complications. To address these limitations, we conducted a meta\u2010analysis to compare the relative safety and effectiveness of jugular versus femoral access for TTVPM placement.\n                  \n                  \n                    Methods\n                    A comprehensive search of PubMed, Embase, and Cochrane was performed from June 28, 2025, without language restrictions. Eligible studies included adult patients (\u226518 years) undergoing TTVPM placement and directly comparing femoral and jugular venous access. Trials were considered if they reported at least one of the following outcomes: bleeding, infection, lead repositioning, cardiac perforation, or other major procedural complications.\n                  \n                  \n                    Results and Discussion\n                    \n                      Six observational studies published between 2013 and 2024 met the inclusion criteria and encompassed 2,267 patients from diverse clinical settings. Bleeding complications were reported in five studies (\n                      n\n                      = 1,457), showing no statistically significant difference between access sites (RR 0.54; 95% CI 0.18\u20131.60;\n                      p\n                      = 0.27). Four studies (\n                      n\n                      = 528) reported catheter\u2010related infections, demonstrating a significantly lower risk with jugular access (RR 0.25; 95% CI 0.11\u20130.53;\n                      p\n                      = 0.0003). Lead repositioning (RR 0.73;\n                      p\n                      = 0.46) and cardiac perforation (RR 0.50;\n                      p\n                      = 0.33) showed no significant differences.\n                    \n                  \n                  \n                    Conclusion\n                    Jugular venous access for TTVPM placement is associated with a significantly lower risk of catheter\u2010related infections compared with femoral access, while rates of bleeding, lead repositioning, and cardiac perforation do not significantly differ between approaches. Jugular access may be preferred for patients expected to require prolonged pacing or those at high infection risk, whereas femoral access remains reasonable for short\u2010term or emergent indications.",
+    "summary": "This meta-analysis of 6 observational studies (2,267 patients) comparing jugular versus femoral venous access for TTVPM placement found that jugular access significantly reduced catheter-related infections (RR 0.25, p=0.0003) without differences in bleeding, lead repositioning, or cardiac perforation rates. Jugular access may be preferred for prolonged pacing or high-infection-risk patients, while femoral access remains acceptable for emergent short-term use."
+  },
+  {
+    "title": "Recurrent Takotsubo Syndrome After Pacemaker Implantation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70257?af=R",
+    "doi": "10.1111/pace.70257",
+    "journal": "PACE",
+    "date": "May 14, 2026",
+    "date_ts": 1778769121.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Takotsubo syndrome (stress cardiomyopathy) is a reversible ventricular systolic dysfunction presenting as acute heart failure, typically precipitated by emotional or physical stress. It features transient apical ballooning or regional wall\u2010motion abnormalities and often requires distinction from acute coronary syndrome. Although episodes soon after pacemaker implantation are described, recurrence within three months of apparent recovery is rare.\n                  \n                  \n                    Case Summary\n                    We report a case of a patient who underwent dual\u2010chamber pacemaker implantation for atrioventricular block. One day after discharge, the patient developed acute heart failure and was subsequently diagnosed with previously undiagnosed stress cardiomyopathy. After recovery from the initial episode, the patient experienced a recurrence of stress cardiomyopathy three months later.\n                  \n                  \n                    Discussion\n                    This case illustrates very early, procedure\u2010associated Takotsubo syndrome with short\u2010interval recurrence. Recognition in the peri\u2010implant setting is crucial, as management is supportive and outcomes hinge on timely echocardiography, exclusion of acute coronary syndrome, and structured follow\u2010up.\n                  \n                  \n                    Take\u2010Home Messages\n                    \n                      \n                        \n                          Consider Takotsubo syndrome in peri\u2010implant decompensation after pacemaker implantation; obtain early bedside echocardiography and selective coronary evaluation.\n                        \n                        \n                          Manage with obstruction\u2010aware supportive care; continue RAS blockade after discharge and ensure structured follow\u2010up, as recurrence can occur despite guideline\u2010concordant therapy.",
+    "summary": "This is a case report describing a patient who developed stress cardiomyopathy (Takotsubo syndrome) one day after dual-chamber pacemaker implantation for atrioventricular block, with an unusual recurrence three months after initial recovery. The authors emphasize the importance of recognizing procedure-associated Takotsubo syndrome in the peri-implant setting through early echocardiography and coronary evaluation, with supportive management and close follow-up, as recurrence can occur despite appropriate medical therapy."
+  },
+  {
+    "title": "Tied up in the Lab: An Unexpected Catheter Knot in the Arterial System",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70287?af=R",
+    "doi": "10.1111/pace.70287",
+    "journal": "PACE",
+    "date": "May 14, 2026",
+    "date_ts": 1778756973.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  Catheter knotting is a rare but potentially serious complication encountered during electrophysiological procedures. We report an unusual case of catheter ablation for premature ventricular complexes (PVCs) arising from anterolateral papillary muscle, where a ThermoCool SmartTouch (ST) catheter (Biosense Webster, Irvine, CA) developed a knot within the arterial system during transaortic mapping. The knot formed after the catheter was inadvertently withdrawn into the ascending aorta and re\u2010advanced, leading to looping and tip entrapment. Standard maneuvers to untie the knot were unsuccessful. As a novel bailout strategy, the external portion of the catheter was cut near the handle and a large\u2010bore 8.5 SL0 sheath (Swartz Braided SL Transseptal Guiding Introducer Sheath; length 63\u00a0cm) was advanced over it. The knotted catheter was then maneuvered against the aortic valve, and controlled mechanical contact led to successful loosening of knot and sheath retrieval. This case underscores the importance of early recognition, careful manipulation, and innovative problem\u2010solving in managing rare mechanical complications in the cardiac electrophysiology lab.",
+    "summary": "This is a case report describing an unusual complication of catheter ablation for anterolateral papillary muscle PVCs, where a ThermoCool SmartTouch catheter developed an intravascular knot that was successfully managed using a novel technique involving catheter transection and mechanical manipulation against the aortic valve. The case illustrates the importance of careful catheter handling and innovative bailout strategies for rare mechanical complications during electrophysiological procedures."
+  },
+  {
+    "title": "Short\u2010Term, Weight\u2010Adjusted Colchicine to Prevent Post\u2010CABG Arrhythmias: A Randomized, Double\u2010Blind, Controlled Trial",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70278?af=R",
+    "doi": "10.1111/pace.70278",
+    "journal": "PACE",
+    "date": "May 14, 2026",
+    "date_ts": 1778756701.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Postoperative arrhythmias are common after coronary artery bypass graft (CABG) surgery and are linked to adverse outcomes. Colchicine, an anti\u2010inflammatory agent, has shown inconsistent results in prior studies, possibly due to dosing and timing variations.\n                  \n                  \n                    Objectives\n                    To evaluate the efficacy and safety of short\u2010term, weight\u2010adjusted colchicine initiated preoperatively for preventing postoperative arrhythmias after CABG.\n                  \n                  \n                    Methods\n                    In this randomized, double\u2010blind, placebo\u2010controlled trial, 172 adults scheduled for on\u2010pump CABG received colchicine or placebo. The regimen included a preoperative loading dose (1\u00a0mg twice daily) followed by a weight\u2010based maintenance dose (0.5\u00a0mg daily if &lt;70\u00a0kg; 1\u00a0mg daily if \u226570\u00a0kg) for 14 days. The primary outcome was incidence of postoperative atrial fibrillation (POAF). Secondary outcomes included early (\u226448\u00a0h) and late (&gt;48\u00a0h) POAF, other arrhythmias, inflammatory markers (CRP, ESR), length of stay, and adverse events.\n                  \n                  \n                    Results\n                    \n                      Of 163 analyzed patients (81 colchicine, 82 placebo), POAF incidence was significantly lower in the colchicine group (17.3%\u00a0vs. 46.3%; RR 0.37, 95% CI 0.21\u20130.66;\n                      p\n                      &lt; 0.001), with an absolute risk reduction of 29.0% and number needed to treat (NNT) of 4. Colchicine reduced both early and late POAF (\n                      p\n                      &lt; 0.001 and\n                      p\n                      = 0.002). No significant reduction was seen in other arrhythmias. Gastrointestinal events, primarily diarrhea, were more common with colchicine (25.9%\u00a0vs. 8.5%,\n                      p\n                      = 0.003), but were manageable and without serious adverse events.\n                    \n                  \n                  \n                    Conclusion\n                    Short\u2010term perioperative weight\u2010adjusted colchicine is effective and safe for preventing POAF after CABG, with a low NNT and manageable side effects, though it did not significantly affect other arrhythmias.\n                  \n                  \n                    Trial Registration\n                    Iranian Registry of Clinical Trials, IRCT20200328046886N6",
+    "summary": "This randomized, double-blind, placebo-controlled trial (n=163) evaluated perioperative weight-adjusted colchicine versus placebo in patients undergoing on-pump CABG and found that colchicine significantly reduced postoperative atrial fibrillation incidence (17.3% vs. 46.3%; RR 0.37, p<0.001, NNT=4), with increased but manageable gastrointestinal adverse events (25.9% vs. 8.5%)."
   },
   {
     "title": "Efficacy and Safety of Pulsed Field Ablation for Cavotricuspid Isthmus-Dependent Atrial Flutter: A Meta-Analysis Based on Real-World Evidence",
@@ -1343,6 +1625,30 @@
     "date_ts": 1777600407.588842,
     "tags": [
       "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Premature Ventricular Contractions Originating from the Right Ventricular Outflow Tract Induced by Adenosine Triphosphate Administration",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.008",
+    "doi": "10.1016/j.hrcr.2026.05.008",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Leadless atrial pacemakers at Bachmann\u2019s bundle region: Early experience and procedural challenges",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.007",
+    "doi": "10.1016/j.hrcr.2026.05.007",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Devices"
     ],
     "hot": false
   },
@@ -5893,295 +6199,6 @@
     "date_ts": 1776324051.175754,
     "tags": [
       "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Phenotype-Enhanced Variant Classification Framework to Decrease the Burden of Variants of Uncertain Significance in Type 2 Long QT Syndrome",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008254?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.17572,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Phenotype-Enhanced Classification of Genetic Variants in Long QT Syndrome, Type 2",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010011?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175691,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Detection of Titin-Associated Electrocardiography Features in Dilated Cardiomyopathy Using Conventional and Deep Neural Network Analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008266?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175657,
-    "tags": [
-      "Genetics",
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Illuminating Titin Truncating Variants in Dilated Cardiomyopathy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009910?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175618,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Safety and Effectiveness of Surgical Pericardial Access for Catheter Ablation of Epicardial Ventricular Tachycardia: A Multicenter Experience",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25007911?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175536,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Syncopal Recurrence in Patients Treated With Dual Chamber Pacemaker for Reflex Syncope With Asystole",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008060?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175497,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Isoproterenol Testing as a Sensitive Tool to Unmask Arrhythmogenic Susceptibility In Patients With AMVP",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008072?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175466,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Comparative Analysis of Hemolysis Related to the Bipolar Pentaspline and Monopolar Lattice-Tip Catheters",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008096?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175435,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Steroids on Managing Iatrogenic Pericardial Diseases After Electrophysiology Procedures",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008175?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175402,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Atrial Fibrillation and Takotsubo Syndrome: A Propensity-Matched Analysis From the GEIST and ATHERO-AF Registries",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25007960?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.17537,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Measuring Hormones After TdP: Timing, Targeting, and Treatment Windows",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25011028?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.17534,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "REPLY: Measuring Hormones After TdP: Timing, Targeting, and Treatment Windows",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2501103X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175308,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Real Risk-Benefit Ratio of Contemporary Implantable Cardioverter-Defibrillator Therapy Remains Unknown",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25011211?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175278,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "REPLY: The Real Risk-Benefit Ratio of Contemporary Implantable Cardioverter-Defibrillator Therapy Remains Unknown",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25011223?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175247,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Complex Interplay Between Aging, Cardiac Remodeling, and Atrial Fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2500814X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175218,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Biatrial Flutter in Repaired Tetralogy of Fallot: Complementary Role of Activation and Entrainment Mapping in Understanding the Mechanism of a Complex Atrial Arrhythmia",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008321?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175182,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Dynamic Conduction Variability: Beat-to-Beat Changes in His Bundle and Right Bundle Activation and QRS Morphology",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008333?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.17515,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Focal-Bipolar Pulsed Field Ablation of Inaccessible Epicardial Left Ventricular Summit Arrhythmia",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2500831X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175118,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transient Transmural Impact on Epicardial Ventricular Tachycardia Substrate Using a Dual-Energy, Contact Force\u2013Sensing Ablation Catheter",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009156?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175077,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Full Issue PDF",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600071X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175052,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Editorial Board",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001490?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175027,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Electrophysiologic Considerations in Percutaneous Right-Sided Valve Interventions",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001477?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174997,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Ventricular Arrhythmias After Self-Expanding Transcatheter Pulmonary Valve Replacement: A Report From the SERVE Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001398?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174966,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Ventricular Arrhythmias After Self-Expanding Transcatheter Pulmonary Valves: Mechanisms Matter",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001349?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.174935,
-    "tags": [
-      "VT"
     ],
     "hot": false
   }
