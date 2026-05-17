@@ -1,5 +1,149 @@
 [
   {
+    "title": "Last Entrainment Response: A Novel Technique for Localizing Slow Pathway During Atrioventricular Nodal Re-entrant Tachycardia",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003658?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 17, 2026",
+    "date_ts": 1778982923.842813,
+    "tags": [
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Successful Bipolar Radiofrequency Ablation for Intramural Premature Ventricular Complexes Protected by Transcatheter Aortic Valve",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003622?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 17, 2026",
+    "date_ts": 1778982923.842773,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Intraseptal Mapping of Premature Ventricular Complexes Using Multipolar Catheters",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002604?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 17, 2026",
+    "date_ts": 1778982923.842711,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulmonary Vein to Ganglionated Plexi Distance Predicts Cryoballoon Ganglionated Plexi Modification",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002175?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "May 17, 2026",
+    "date_ts": 1778982923.66964,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Feasibility, Safety, and Efficacy of Epicardial CO2 Insufflation to Facilitate Epicardial Access for VT Ablation: A Systematic Review and Meta-Analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002151?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "May 17, 2026",
+    "date_ts": 1778982923.669568,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Optimizing Defibrillation Waveforms for the Real World",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023866?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 17, 2026",
+    "date_ts": 1778982923.526587,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The SIMPLE Registry: SIMplified Approach for Percutaneous LAA Exclusion",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023830?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 17, 2026",
+    "date_ts": 1778982923.526555,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of percutaneous mechanical circulatory support to guide ablation of ventricular arrhythmias: Rationale for a national German ablation registry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023842?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 17, 2026",
+    "date_ts": 1778982923.526517,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Off-Target Myocardial Necrosis Due to Incomplete Balloon Occlusion During Retrograde Coronary Venous Ethanol Ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023891?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 17, 2026",
+    "date_ts": 1778982923.526478,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Right Ventricular Dysfunction in Patients with Symptomatic Atrial Fibrillation: Prevalence and Functional Implications",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023878?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 17, 2026",
+    "date_ts": 1778982923.526435,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sudden cardiac death and major arrhythmic events in patients with Fabry disease: risk stratification in the FHFc multicenter study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602388X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 17, 2026",
+    "date_ts": 1778982923.526392,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "DURABILITY OF PULMONARY VEIN ISOLATION: DOES THE PULSED FIELD ABLATION SYSTEM MATTER?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023854?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 17, 2026",
+    "date_ts": 1778982923.526214,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "An Algorithmic Pitfall Causing Pacing-Induced Ventricular Fibrillation: A Dangerous Scenario",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003506?dgcid=rss_sd_all",
     "doi": null,
@@ -171,6 +315,18 @@
     "hot": false
   },
   {
+    "title": "Pre-clinical Impact of Higher Irrigation Flow Rates during Pulsed Field Ablation with a Variable Loop Circular Catheter",
+    "link": "https://doi.org/10.1093/europace/euag120",
+    "doi": "10.1093/europace/euag120",
+    "journal": "EP Europace",
+    "date": "May 16, 2026",
+    "date_ts": 1778889600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Improvement in cardiovascular function after atrial fibrillation ablation in heart failure: association with ECG and echocardiographic variables",
     "link": "https://doi.org/10.1093/europace/euag086",
     "doi": "10.1093/europace/euag086",
@@ -205,6 +361,134 @@
       "AFib"
     ],
     "hot": false
+  },
+  {
+    "title": "Vein of Marshall Ethanol Infusion for Recurrent Atrial Fibrillation Patients Presenting for Redo Ablation: A Systematic Review and Meta\u2010Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70363?af=R",
+    "doi": "10.1111/jce.70363",
+    "journal": "J Cardiovasc EP",
+    "date": "May 15, 2026",
+    "date_ts": 1778853399.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    \n                    Randomized trials of ethanol infusion into the vein of Marshall (EIVOM) have shown efficacy in preventing atrial fibrillation (AF) recurrence in patients presenting for de novo ablation. The utility of EIVOM in AF patients who present for redo ablation is unclear. This meta\u2010analysis was reported according to the Preferred Reporting Items for Systematic Review and Meta\u2010Analyses guidelines. Medline, Scopus, and Cochrane Central Register of Controlled Trials were systematically searched to identify relevant studies. Risk of bias was assessed using the Modified Newcastle\u2010Ottawa scale. Eligible studies reported outcomes in AF patients with previous ablation who underwent redo catheter ablation (CA) alone vs. combined redo CA and EIVOM. Five observational studies comprising 568 patients were included. When comparing combined redo CA and EIVOM vs. redo CA alone, pooled results showed no difference in freedom from arrhythmia (FFA) in all patients (risk ratio [RR] 1.13; 95% confidence interval [CI] 0.96\u20131.33), FFA in persistent AF patients only (RR 1.08; 95% CI 0.90\u20131.29), total procedure time (mean difference \u22120.59; 95% CI \u221241.04\u201339.85), or major periprocedural complications (RR 0.81; 95% CI 0.06\u201311.64). Patients with AF recurrence after ablation represent a difficult\u2010to\u2010treat population. Salvage therapy with combined CA and EIVOM did not improve arrhythmic outcomes compared to CA alone in AF patients who presented for redo ablation.",
+    "summary": "This meta-analysis of 5 observational studies (568 patients) found that ethanol infusion into the vein of Marshall combined with repeat catheter ablation did not significantly improve freedom from arrhythmia compared to repeat ablation alone in patients with recurrent atrial fibrillation, with no differences in procedure time or major complications. EIVOM does not appear to provide additional benefit as salvage therapy in the redo ablation population."
+  },
+  {
+    "title": "The Electrophysiology Experience in Patients With Ebstein's Anomaly Undergoing the da Silva Cone Repair at UPMC Children's Hospital of Pittsburgh",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70330?af=R",
+    "doi": "10.1111/jce.70330",
+    "journal": "J Cardiovasc EP",
+    "date": "May 15, 2026",
+    "date_ts": 1778853181.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    The da Silva Cone repair (CR) has demonstrated to be an effective intervention for Ebstein's anomaly (EA). Perioperative management can be complicated by arrhythmias, but previous studies showed improvement with preoperative catheter and intraoperative surgical ablation. The purpose of this study was to describe the evolving diagnostic protocol and perioperative findings at our center.\n                  \n                  \n                    Methods\n                    All patients referred to UPMC Children's Hospital of Pittsburgh from February 2016 to December 2024 with EA who underwent CR were reviewed. An electrophysiology study (EPS) was performed for those with a history of Wolff\u2013Parkinson\u2013White, supraventricular tachycardia, ventricular tachycardia, unexplained palpitations, or syncope.\n                  \n                  \n                    Results\n                    There were 135 patients (median age 7.8 years, range: 0.14\u201362 years), and 55 patients (41%) were &lt;\u20095 years old at the time of CR. Seventy\u2010two (53%) patients had a pre\u2010operative arrhythmia, and 37 patients (27%) had a pre\u2010operative EPS at our center before CR. Nineteen (51%) had a significant finding, and 12 (32%) received a transcatheter ablation. Intraoperative ablation was performed in 86 (64%) patients with cavotricuspid isthmus (CTI) ablation performed in 74 (55%), of which 24 (18%) had a CTI with additional targeted accessory pathway ablation. Postoperative wire studies were performed in 11 (8%). Since implementing our current electrophysiologic diagnostic algorithm, 7% had a follow\u2010up arrythmia and only 1 underwent a postoperative EPS.\n                  \n                  \n                    Conclusion\n                    Pre\u2010operative EPS, targeted surgical ablation, and follow\u2010up bedside wire study in EA patients with accessory pathway\u2010mediated arrhythmias can serve as an effective model in patients undergoing CR.",
+    "summary": "This retrospective case series of 135 patients (median age 7.8 years) undergoing da Silva cone repair for Ebstein's anomaly at a single center found that a systematic electrophysiology diagnostic protocol combining preoperative EPS (27% of cohort), intraoperative ablation (64% of patients, primarily CTI-directed), and postoperative bedside wire studies resulted in low postoperative arrhythmia recurrence (7%) and minimal need for postoperative EPS. The authors conclude that targeted perioperative rhythm management substantially reduces arrhythmia complications in this patient population."
+  },
+  {
+    "title": "Active Fixation Quadripolar Left Ventricular Leads in Cardiac Resynchronization Therapy: Clinical Utility at Mid\u2010Term Follow\u2010Up",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70337?af=R",
+    "doi": "10.1111/jce.70337",
+    "journal": "J Cardiovasc EP",
+    "date": "May 15, 2026",
+    "date_ts": 1778853042.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    This study aimed to evaluate the performance of the Medtronic Attain Stability Quad (ASQ) quadripolar active fixation left ventricular (LV) lead compared with conventional quadripolar passive fixation leads (non\u2010ASQ) in a mid\u2010term follow\u2010up study.\n                  \n                  \n                    Methods and Results\n                    \n                      A total of 300 consecutive patients (ASQ 159, non\u2010ASQ 141) who underwent attempted and successful cardiac resynchronization therapy (CRT) device implantation with an LV lead between January 2018 and October 2023 were enrolled. The median follow\u2010up period was 834 days (766 days in the ASQ group and 938 days in the non\u2010ASQ group). Complications including elevated pacing capture threshold (PCT), phrenic nerve stimulation (PNS) and LV lead dislodgement were analyzed in the period from implantation to the first outpatient visit after hospital discharge. The incidence of LV lead\u2010related complications was significantly lower in the ASQ group (19%) than in the non\u2010ASQ group (32%) (\n                      p\n                      \u2009=\u20090.014). Specifically, LV lead dislodgement occurred in the non\u2010ASQ group only, and elevated PCT was significantly lower in the ASQ group (8% vs. 26%,\n                      p\n                      \u2009&lt;\u20090.001). Kaplan\u2013Meier analysis confirmed a significantly lower incidence of LV lead\u2010related complications in the ASQ group (log\u2010rank\n                      p\n                      \u2009&lt;\u20090.001). Cox multivariate regression analysis showed a significant reduction in lead\u2010related complications associated with ASQ (HR: 0.31, 95% CI: 0.19\u20130.51,\n                      p\n                      \u2009&lt;\u20090.001).\n                    \n                  \n                  \n                    Conclusion\n                    The ASQ group exhibited fewer LV lead\u2010related complications requiring reintervention and setting changes than the non\u2010ASQ group. The ASQ may be accepted as the first choice for CRT device implantation.",
+    "summary": "This retrospective comparative study of 300 patients (159 ASQ, 141 non-ASQ) with median follow-up of 834 days demonstrated that the Medtronic Attain Stability Quad active fixation lead significantly reduced left ventricular lead-related complications compared to conventional quadripolar passive fixation leads (19% vs. 32%, p=0.014), with notably lower rates of elevated pacing capture threshold (8% vs. 26%, p<0.001) and no lead dislodgements in the ASQ group. The ASQ lead is proposed as the preferred option for CRT device implantation based on superior mid-term safety outcomes."
+  },
+  {
+    "title": "Clinical Outcomes of Catheter Ablation for Atrial Fibrillation in Patients With Hypertrophic Cardiomyopathy",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70377?af=R",
+    "doi": "10.1111/jce.70377",
+    "journal": "J Cardiovasc EP",
+    "date": "May 15, 2026",
+    "date_ts": 1778850635.0,
+    "tags": [
+      "AFib",
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Atrial fibrillation (AF) is common in patients with hypertrophic cardiomyopathy (HCM) and is associated with increased morbidity, heart failure (HF) exacerbations, and adverse long\u2010term outcomes. Although catheter ablation is an established rhythm\u2010control strategy, data comparing its long\u2010term clinical outcomes with anti\u2010arrhythmic drug (AAD) therapy in patients with HCM remain limited.\n                  \n                  \n                    Objective\n                    To compare long\u2010term clinical outcomes of catheter ablation versus medical therapy with AADs in patients with HCM and AF.\n                  \n                  \n                    Methods\n                    We conducted a retrospective cohort study using the TriNetX Research Network, a global federated database of electronic health records. Adult patients with HCM and AF between January 2010 and December 2020 were identified and stratified according to treatment with catheter ablation or AAD therapy. Outcomes included all\u2010cause mortality, HF exacerbations, AAD\u2010related adverse events, all\u2010cause hospitalization, ischemic stroke, repeat ablation, need for cardioversion, need for long\u2010term AAD use, and atrioventricular nodal ablation. A 1:1 propensity score matching (PSM) analysis was performed to balance baseline characteristics. Kaplan\u2013Meier survival analysis and Cox proportional hazards models were used to estimate hazard ratios (HRs).\n                  \n                  \n                    Results\n                    \n                      After PSM, 3144 patients were included (1572 in each cohort) with a mean follow\u2010up of approximately 3.4 years. Catheter ablation was associated with lower all\u2010cause mortality compared with AAD therapy (9.5% vs. 14.8%; HR: 0.60; 95% CI: 0.49\u20130.74;\n                      p\n                      \u2009&lt;\u20090.001). Ablation was also associated with reduced risk of HF exacerbations (38.4% vs. 43.3%; HR: 0.79; 95% CI: 0.71\u20130.88;\n                      p\n                      \u2009&lt;\u20090.001) and fewer AAD\u2010related adverse events (8.4% vs. 11.2%; HR: 0.71; 95% CI: 0.55\u20130.93;\n                      p\n                      \u2009=\u20090.011). Rates of all\u2010cause hospitalization (HR: 0.93;\n                      p\n                      \u2009=\u20090.11) and ischemic stroke (HR: 0.78;\n                      p\n                      \u2009=\u20090.10) were similar between groups.\n                    \n                  \n                  \n                    Conclusion\n                    In this large real\u2010world cohort of patients with HCM and AF, catheter ablation was associated with lower mortality, reduced HF hospitalizations, and decreased AAD therapy\u2010related adverse events, as compared with medical therapy. These findings suggest that catheter ablation may provide meaningful clinical benefits in selected patients with HCM and AF, although prospective studies are needed to confirm these observations.",
+    "summary": "This retrospective cohort study of 3,144 propensity-matched patients with HCM and AF (mean follow-up 3.4 years) demonstrated that catheter ablation compared to antiarrhythmic drug therapy was associated with significantly lower all-cause mortality (9.5% vs 14.8%, HR 0.60), reduced heart failure exacerbations (38.4% vs 43.3%, HR 0.79), and fewer drug-related adverse events (8.4% vs 11.2%, HR 0.71). Rates of hospitalization and ischemic stroke were similar between groups, suggesting ablation may provide clinical benefits in selected H"
+  },
+  {
+    "title": "Substrate Unmasking via High\u2010Density Omnipolar Mapping Under Rapid Pacing in Atrial Fibrillation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70372?af=R",
+    "doi": "10.1111/jce.70372",
+    "journal": "J Cardiovasc EP",
+    "date": "May 15, 2026",
+    "date_ts": 1778850273.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Substrate mapping for atrial fibrillation (AF) ablation commonly relies on sinus rhythm (SR) maps, which may overlook rate\u2010dependent electrophysiological changes.\n                  \n                  \n                    Objective\n                    This study aimed to evaluate the diagnostic and prognostic value of rate\u2010dependent substrate characterization using high\u2010density omnipolar mapping under rapid pacing.\n                  \n                  \n                    Methods\n                    In a prospective cohort of 46 patients (5 controls, 22 paroxysmal AF [PAF], 19 persistent AF [PeAF]), bi\u2010atrial conduction velocity (CV) and low\u2010voltage zones (LVZ) were assessed across seven mapping conditions: SR and graded pacing (600, 400, 300\u2009ms) from the distal coronary sinus (CSD) and high right atrium (HRA).\n                  \n                  \n                    Results\n                    \n                      CV decreased with faster pacing across all cohorts. At 300\u2009ms, PeAF patients exhibited significantly slower CV than PAF and controls (0.60\u2009\u00b1\u20090.07 vs. 0.72\u2009\u00b1\u20090.06 vs. 0.90\u2009\u00b1\u20090.05\u2009m/s;\n                      p\n                      \u2009&lt;\u20090.001). The global LVZ burden was greater in PeAF than PAF at 300\u2009ms (58.71 [39.84\u201368.69] vs. 26.18 [20.94\u201337.40];\n                      p\n                      \u2009=\u20090.009). Decremental pacing was associated with progressive bi\u2010atrial conduction slowing in AF, most pronounced in PeAF (0.76\u2009\u00b1\u20090.08 vs. 0.74\u2009\u00b1\u20090.06 vs. 0.69\u2009\u00b1\u20090.02 vs. 0.60\u2009\u00b1\u20090.07\u2009m/s;\n                      p\n                      \u2009&lt;\u20090.001). Rapid pacing at 300\u2009ms showed the numerically highest discriminative capacity. Patients with global CV\u2009&lt;\u20090.67\u2009m/s (AUC 0.749;\n                      p\n                      \u2009=\u20090.019) or LVZ% &gt;\u200943.4% (AUC 0.681;\n                      p\n                      \u2009=\u20090.008) at 300\u2009ms were associated with a higher risk of recurrence.\n                    \n                  \n                  \n                    Conclusion\n                    Rapid pacing at 300\u2009ms reveals latent bi\u2010atrial substrate occult during SR and may improve risk stratification.",
+    "summary": "This prospective cohort study of 46 patients (5 controls, 22 paroxysmal AF, 19 persistent AF) used high-density omnipolar mapping during graded rapid pacing (600-300 ms) to assess conduction velocity and low-voltage zones, demonstrating that rapid pacing at 300 ms reveals substrate differences between AF phenotypes and identifies patients at higher recurrence risk (CV <0.67 m/s or LVZ >43.4% associated with worse outcomes)."
+  },
+  {
+    "title": "Incidence and Outcomes of Early Pacemaker Implantation for Sinus Node Dysfunction Following Atrial Fibrillation Ablation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70365?af=R",
+    "doi": "10.1111/jce.70365",
+    "journal": "J Cardiovasc EP",
+    "date": "May 15, 2026",
+    "date_ts": 1778850157.0,
+    "tags": [
+      "AFib",
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Sinus node dysfunction (SND) may be observed following atrial fibrillation ablation (AFA), leading to urgent pacemaker (PPM) implantation. However, the incidence of PPM implantation and the long\u2010term outcomes are not well known.\n                  \n                  \n                    Objective\n                    To assess the incidence and outcomes of PPM implantation for SND immediately after AFA and assess the long\u2010term requirement for pacing.\n                  \n                  \n                    Methods\n                    We conducted a multi\u2010center, retrospective study of patients who underwent AFA from 2018 to 2024 and received PPM for SND during the same hospitalization. We assessed the patient and procedural characteristics, post\u2010PPM complications, and atrial pacing percentage (AP%) at 30 and 90 days.\n                  \n                  \n                    Results\n                    Of the 8772 patients who underwent AFA, 178 patients (2.0%) received PPM implantation for SND during the same admission. The mean age was 78.6\u2009\u00b1\u20096.0 years; 48.3% were female, and 51.9% had non\u2010paroxysmal atrial fibrillation; 14.6% required temporary pacing. PPM implantation was associated with complications, including pocket hematoma (10.7%) and lead malfunction (1.2%). One patient required PPM explantation for pocket erosion following pocket hematoma. At 30 days, 33.1% of patients had AP\u2009&gt;\u200950% with a mean AP% of 34.1\u2009\u00b1\u200939.2%. At 90 days, 31.5% patients had AP\u2009&gt;\u200950% with a mean AP% of 33.7\u2009\u00b1\u200939.0%, and 6.7% were PPM\u2010dependent.\n                  \n                  \n                    Conclusions\n                    While the incidence of PPM implantation for Sinus node dysfunction immediately following atrial fibrillation ablation is low, it is associated with an increased risk of complications, especially pocket hematoma. The need for atrial pacing decreased during follow\u2010up. Hence, extending the monitoring period must be considered before PPM implantation.",
+    "summary": "This multi-center retrospective study of 8,772 AFA patients found that 2.0% (n=178) required PPM implantation for post-ablation SND during the same hospitalization, with significant early complications (10.7% pocket hematoma) but decreased pacing requirements by 90 days (mean AP% 33.7%, only 6.7% PPM-dependent), suggesting a need for extended monitoring before urgent PPM implantation."
+  },
+  {
+    "title": "Late\u2010Onset Suspected Coronary Vasospasm Following Focal Monopolar Pulsed\u2010Field Ablation for Atrial Fibrillation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70370?af=R",
+    "doi": "10.1111/jce.70370",
+    "journal": "J Cardiovasc EP",
+    "date": "May 15, 2026",
+    "date_ts": 1778850022.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Coronary vasospasm is a recognized complication of pulsed\u2010field ablation (PFA), but delayed events are rarely described.\n                  \n                  \n                    Methods and Results\n                    A 64\u2010year\u2010old man underwent atrial fibrillation ablation using a focal monopolar PFA catheter. He developed transient chest discomfort 18\u2009h after ablation, followed by sustained chest tightness with ST\u2010segment depression 42\u2009h post\u2010procedure. Symptoms and electrocardiographic changes resolved promptly with sublingual nitroglycerin, suggesting coronary vasospasm.\n                  \n                  \n                    Conclusion\n                    Coronary vasospasm after focal monopolar PFA may occur beyond the immediate post\u2010procedural period, which may have implications for monitoring and discharge planning.",
+    "summary": "This case report describes a 64-year-old patient who developed delayed coronary vasospasm 42 hours after focal monopolar pulsed-field ablation for atrial fibrillation, presenting with chest discomfort and ST-segment depression that resolved with nitroglycerin, highlighting the need for extended monitoring beyond the immediate post-procedural period. The finding suggests coronary vasospasm is a potential late complication of PFA that warrants clinical vigilance and may impact patient discharge protocols."
+  },
+  {
+    "title": "Real\u2010World Adverse Events Associated With the Sphere\u20109 Dual\u2010Energy Arrhythmia Ablation Catheter",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70367?af=R",
+    "doi": "10.1111/jce.70367",
+    "journal": "J Cardiovasc EP",
+    "date": "May 15, 2026",
+    "date_ts": 1778849830.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Sphere\u20109 is a lattice tip ablation catheter (Medtronic, USA) capable of delivering both pulsed field and radiofrequency ablation. It is approved for the treatment of atrial fibrillation. Adverse events related to this device have been reported to national databases. A systematic assessment of these reports is needed to understand the nature of device\u2010related complications.\n                  \n                  \n                    Methods\n                    We queried the FDA Manufacturer and User Facility Device Experience (MAUDE) database between October 24, 2024 and October 24, 2025 to identify reports related to the Sphere\u20109 catheter. A total of 222 reports were included in the final analysis.\n                  \n                  \n                    Results\n                    \n                      Of 222 reports, 148 (67%) resulted in clinical events. Of these, 107 were suspected to be related to the Sphere\u20109, including: VT/VF during/following energy delivery (\n                      n\n                      \u2009=\u200930), Stroke/TIA (\n                      n\n                      \u2009=\u200925), sinus node dysfunction/AV block (\n                      n\n                      \u2009=\u200923), pericardial effusion (\n                      n\n                      \u2009=\u20097), coronary spasm (\n                      n\n                      \u2009=\u20099), and phrenic nerve injury (\n                      n\n                      \u2009=\u20092). Catheter/defibrillator (ICD) related interactions were suspected in 10 of the VT/VF reports. There were 65 catheter related reports that did not appear to be associated with adverse clinical events, which included tissue/char formation on the catheter tip (\n                      n\n                      \u2009=\u200924), steam pop (\n                      n\n                      \u2009=\u200925), and mechanical entrapment (\n                      n\n                      \u2009=\u20097).\n                    \n                  \n                  \n                    Conclusion\n                    This early analysis of adverse events reported for the Sphere\u20109 catheter highlights complications including arrhythmias, such as VT/VF and AV block, and the risks associated with ICD\u2010catheter related interactions.",
+    "summary": "This retrospective analysis of FDA MAUDE database reports (n=222) identified adverse events associated with the Sphere-9 lattice tip ablation catheter, with 67% resulting in clinical events including ventricular arrhythmias (n=30), stroke/TIA (n=25), conduction abnormalities (n=23), pericardial effusion (n=7), coronary spasm (n=9), and phrenic nerve injury (n=2), with particular concern for device-device interactions in ICD patients. These findings highlight important safety considerations for this newly approved atrial fibrillation ablation device during early clinical use."
+  },
+  {
+    "title": "Prevalence and Recovery of Arrhythmia\u2010Induced Cardiomyopathy in Patients With Newly Diagnosed Heart Failure Using a Wearable Defibrillator: A Real\u2010World Cohort Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70366?af=R",
+    "doi": "10.1111/jce.70366",
+    "journal": "J Cardiovasc EP",
+    "date": "May 15, 2026",
+    "date_ts": 1778849451.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Arrhythmia\u2010induced cardiomyopathy (AIC) is a potentially reversible cause of heart failure triggered by different sustained arrhythmias, but data on its real\u2010world prevalence, recognition, and outcomes are limited.\n                  \n                  \n                    Objective\n                    To assess frequency, predictors, and outcomes of AIC in patients with newly diagnosed left ventricular systolic dysfunction (LVSD) and concurrent arrhythmia undergoing early rhythm control with a wearable cardioverter\u2010defibrillator (WCD).\n                  \n                  \n                    Methods\n                    Among 780 WCD\u2010treated patients (2017\u20132023), those with newly diagnosed idiopathic LVSD (LVEF\u2009&lt;\u200935%) and persistent arrhythmia (atrial fibrillation/flutter or &gt;\u200920% ventricular ectopy) were included. Diagnostic workup comprised echocardiography, coronary angiography, and cardiac MRI. Effective rhythm control was achieved via cardioversion, antiarrhythmic drugs, and/or ablation. Follow\u2010up was up to 6 months. AIC was defined as LVEF improvement &gt;\u200915% with restored sinus rhythm or suppressed ventricular ectopy.\n                  \n                  \n                    Results\n                    \n                      Of 780 WCD patients, 142 (18.2%) had LVSD with arrhythmia; 74 idiopathic cases were analyzed. At a mean follow\u2010up of 138 days (4.5 months), 54 patients (73%) maintained sinus rhythm or suppressed ventricular ectopy after rhythm control, of whom 32 (59.3%) fulfilled AIC criteria. LVEF improved from 28% to 43% in AIC; 56.3% of AIC patients fully recovered (&gt;\u200950%). Non\u2010AIC patients had larger LV dimensions, lower heart rates, more mitral regurgitation, and a non\u2010significant trend toward more frequent late gadolinium enhancement (\n                      p\n                      \u2009=\u20090.073). No parameter reliably predicted AIC; LVEF\u2009&lt;\u200925% predicted lack of full recovery (\n                      p\n                      \u2009=\u20090.040). No appropriate WCD shocks occurred. ICD indication decreased from 100% to 17% post\u2010therapy in AIC and Non\u2010AIC patients (3.1% vs\n                      .\n                      36.4%,\n                      p\n                      \u2009=\u20090.001).\n                    \n                  \n                  \n                    Conclusions\n                    AIC related to atrial fibrillation, flutter, or frequent ventricular ectopy is more prevalent and reversible than often recognized. Early rhythm control under WCD protection, supported by comprehensive diagnostics, allows identification of reversible LVSD and may help prevent unnecessary ICD implantation.",
+    "summary": "This prospective cohort study of 74 WCD-treated patients with newly diagnosed idiopathic LVSD and concurrent arrhythmia found that 59.3% met criteria for arrhythmia-induced cardiomyopathy (LVEF improvement >15% after rhythm control), with 56.3% achieving full recovery (LVEF >50%), and demonstrated that early rhythm control strategy reduced ICD indication from 100% to 17%. No clinical parameters reliably predicted AIC development, though LVEF <25% predicted failure to achieve full recovery."
   },
   {
     "title": "Versatility of the novel balloon-in-basket pulsed field ablation catheter \u2013 pulmonary vein isolation and beyond",
@@ -1625,6 +1909,18 @@
     "date_ts": 1777600407.588842,
     "tags": [
       "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Keeping it Hot: Radiofrequency Ablation of Atrial Fibrillation in a Patient with Cold Agglutinin Disease",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.010",
+    "doi": "10.1016/j.hrcr.2026.05.010",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "AFib"
     ],
     "hot": false
   },
@@ -5915,290 +6211,6 @@
     "date_ts": 1776324052.101023,
     "tags": [
       "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transvenous or Subcutaneous Implantable Cardioverter-Defibrillators for Prevention of Sudden Cardiac Death?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725103550?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324052.10099,
-    "tags": [
-      "SCD",
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsed-Field Ablation to Enhance the Durability of Pulmonary Vein Isolation and Treat Paroxysmal Atrial Fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725102568?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324052.100957,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulse-Field Spherical Array Ablation for Atrial Fibrillation: Me Too or Brand New?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725103586?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324052.100927,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsed Field Ablation vs Standard Radiofrequency Ablation for Typical Atrial Flutter: ADVANTAGE AF Trial Substudy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726000550?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324052.100893,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsed-Field vs Radiofrequency Ablation of Typical Atrial Flutter: Solidifying the Versatility of Pulsed Field Ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726002068?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324052.100859,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Risk-Guided Atrial Fibrillation Screening With Artificial Intelligence\u2013Enabled Electrocardiogram Models: A VITAL-AF Trial Analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726054938?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324052.100808,
-    "tags": [
-      "AFib",
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Risk-Guided Atrial Fibrillation Screening in the Era of Artificial Intelligence",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726055099?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324052.100773,
-    "tags": [
-      "AFib",
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Emergency Preparedness for Sudden Cardiac Arrest in Young Athletes: Time to Adjust the Goalposts",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726003293?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324052.100731,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Electrophysiology in Adults With Congenital Heart Disease as an Area of Focused Competency",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726056433?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324052.10069,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "HRS/ACC Scientific Statement: Guiding Principles on the Performance of Intracardiac Ablation Procedures in Ambulatory Surgical Centers",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725100302?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324052.100619,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left Atrial Appendage Closure or Anticoagulation for Atrial Fibrillation",
-    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2517213?af=R&rss=currentIssue",
-    "doi": "10.1056/NEJMoa2517213",
-    "journal": "NEJM",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324052.009917,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Among patients with atrial fibrillation who were candidates for anticoagulation, device-based left atrial appendage closure was noninferior to NOAC therapy with respect to a composite of death from cardiovascular causes, stroke, or systemic embolism and was superior to NOAC therapy for non-procedure-related bleeding at 3 years. (Funded by Boston Scientific; CHAMPION-AF ClinicalTrials.gov number, NCT04394546.).",
-    "summary": "This RCT demonstrated that in anticoagulation-eligible atrial fibrillation patients, device-based left atrial appendage closure was noninferior to NOAC therapy for the composite endpoint of cardiovascular death, stroke, or systemic embolism, and superior for reducing non-procedure-related bleeding at 3 years."
-  },
-  {
-    "title": "Cardiac resynchronization therapy with or without atrioventricular node ablation in atrial fibrillation: the CAAN-AF trial",
-    "link": "https://doi.org/10.1093/eurheartj/ehag206",
-    "doi": "10.1093/eurheartj/ehag206",
-    "journal": "European Heart Journal",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776297600.0,
-    "tags": [
-      "AFib",
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Patients with heart failure with reduced ejection fraction (HFrEF) derive less benefit from cardiac resynchronization therapy (CRT) if they have coexisting atrial fibrillation (AF). Observational data suggest that atrioventricular node ablation (AVNA) may enhance CRT efficacy in this population. This trial aimed to evaluate the effect of AVNA compared with medical rate control therapy (MRCT) on CRT outcomes in patients with HFrEF and permanent AF.\n                  \n                  \n                    Methods\n                    The CAAN-AF trial was an international, prospective, multicentre, randomized controlled trial evaluating the impact of AVNA in patients with HFrEF, permanent AF, and CRT-defibrillators (CRT-D). Participants were randomly assigned (1:1) to AVNA or MRCT targeting a resting heart rate &amp;lt;90 bpm. All participants received device optimization. The primary endpoint was a composite of all-cause mortality and nonfatal heart failure events. Secondary endpoints included cardiovascular mortality, unplanned hospitalizations, ventricular arrhythmias requiring device therapy, 6-min walk distance (6MWD), and quality of life.\n                  \n                  \n                    Results\n                    With early termination of the trial due to futility, a total of 143 patients were randomized (67 to AVNA, 76 to MRCT). Baseline characteristics were similar across groups. No significant difference was found in the primary endpoint [47 vs. 46 events; incident rate ratio (IRR), 1.16; 95% confidence interval (CI), 0.60\u20132.24]. Secondary outcomes, including cardiovascular mortality (odds ratio, 1.93; 95% CI 0.60\u20136.20), unplanned hospitalizations (IRR, 1.01; 95% CI 0.71\u20131.74), ventricular arrhythmias requiring device therapy (IRR, 0.68; 95% CI 0.17\u20132.63), 6MWD, and SF-36 scores, also showed no significant differences.\n                  \n                  \n                    Conclusions\n                    This randomized trial of patients with permanent AF and CRT-D found no evidence of a reduction in all-cause mortality and nonfatal heart failure events with AVNA compared with MRCT.\n                  \n                  \n                    Trial Registration\n                    NCT01522898.",
-    "summary": "The CAAN-AF trial was a prospective, multicenter RCT of 143 patients with HFrEF and permanent AF comparing atrioventricular node ablation (AVNA) versus medical rate control therapy on CRT outcomes, which was terminated early for futility and found no significant difference in the primary endpoint of all-cause mortality and nonfatal heart failure events (IRR 1.16; 95% CI 0.60\u20132.24) or any secondary outcomes. These findings do not support AVNA as a strategy to enhance CRT efficacy in this population."
-  },
-  {
-    "title": "Pulmonary Vein Isolation Only for Atrial Fibrillation With Heart Failure (POLAR-HF)",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008126?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.176068,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Ablation in Heart Failure: The Case for Simplicity",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009193?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.17604,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Spontaneous Echo Contrast on Clinical Outcomes After Left Atrial Appendage Closure",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25007984?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.176008,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reading the \u201cSmoke\u201d: Spontaneous Echo Contrast and Thromboembolic Risk After Left Atrial Appendage Occlusion",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2500917X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.17597,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Atrial Fibrillation Recurrence After Left Atrial Appendage Occlusion in Patients Undergoing Ablation: The OPTION Trial Sub analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2500800X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175938,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Closing the Appendage, Opening Questions: Rhythm Outcomes From the OPTION Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010047?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175908,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Catheter Ablation Outcomes and Life Expectancy in Very Elderly Atrial Fibrillation Patients: The REHEALTH AF Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008278?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175876,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Atrial Fibrillation in the Octogenarians: Is It Too Late to Ablate?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010072?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175847,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Catheter Ablation vs Antiarrhythmic Drug Therapy for Atrial Fibrillation in Cardiac Amyloidosis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25007996?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175816,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left Atrial Wall Thickness as a Marker of Atrial Substrate in Patients With Atrial Fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008138?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175785,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Antemortem Underdiagnosis of Cardiac Amyloidosis in Sudden Cardiac Death Victims",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25008230?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324051.175754,
-    "tags": [
-      "SCD"
     ],
     "hot": false
   }
