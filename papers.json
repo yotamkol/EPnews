@@ -144,6 +144,62 @@
     "hot": false
   },
   {
+    "title": "Association Between Micra Transcatheter Pacing System Curvature and Capture Threshold During Implantation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70279?af=R",
+    "doi": "10.1111/pace.70279",
+    "journal": "PACE",
+    "date": "May 16, 2026",
+    "date_ts": 1778944501.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    No previous studies have examined the relationship between Micra transcatheter pacing system (TPS) curvature and acceptable thresholds during implantation. This study aimed to evaluate the association between Micra TPS curvature and pre\u2010deployment capture thresholds.\n                  \n                  \n                    Methods\n                    The Micra TPS was successfully implanted with the assistance of right ventriculography in 180 patients. The curvature of the Micra TPS prior to deployment was analyzed using archived right anterior oblique (RAO) images from the first deployment, with the aid of Origin software (OriginLab Corporation, USA), while electrical parameters were recorded from 0 to 30\u00a0min at 10\u2010min intervals.\n                  \n                  \n                    Results\n                    \n                      Among 159 eligible patients, 126 (79.2%) demonstrated acceptable thresholds with a mean curvature of 0.58 \u00b1 0.18. The high\u2010threshold group (\n                      n\n                      = 33, 20.8%) exhibited significantly greater curvature (1.36 \u00b1 0.64). Receiver operating characteristic analysis indicated that Micra TPS curvature \u22640.799 predicted acceptable thresholds with 90.9% sensitivity and 91.3% specificity (area under the curve = 0.958, 95% confidence interval: 0.924\u20130.992), with stable thresholds maintained in the acceptable group. No procedural complications occurred.\n                    \n                  \n                  \n                    Conclusions\n                    A curvature of \u22640.799 in the RAO view of the Micra TPS prior to deployment reliably indicates acceptable capture thresholds. Combining curvature assessment with right ventriculography enhances the procedural safety of Micra implantation.",
+    "summary": "This retrospective observational study of 159 Micra transcatheter pacing system implants found that a pre-deployment curvature \u22640.799 on right anterior oblique imaging reliably predicted acceptable capture thresholds (90.9% sensitivity, 91.3% specificity), with significantly greater curvature observed in the high-threshold group, suggesting curvature assessment during implantation can optimize procedural outcomes."
+  },
+  {
+    "title": "Remote Monitoring of Implantable Loop Recorders in Syncope Patients: Management of High Volume of Transmissions",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70289?af=R",
+    "doi": "10.1111/pace.70289",
+    "journal": "PACE",
+    "date": "May 16, 2026",
+    "date_ts": 1778944447.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Implantable loop recorder (ILR) is among the first line diagnostic tools in patients with unexplained syncope. When ILRs are followed with remote monitoring (RM) diagnosis can be established readily. However, the challenge in RM is the substantial workload related to false positive findings. The aim of this study was to evaluate the impact of symptom base scheduled monitoring (SBSM) on the efficacy and safety on follow\u2010up of patients with unexplained syncope and large number of nonactionable RM transmissions.\n                  \n                  \n                    Methods\n                    \n                      The data of all patients (\n                      n\n                      = 176) with ILR implantation due to unexplained syncope from first of January 2021 to 31st of December 2024 were collected. Symptom based scheduled monitoring (SBSM), where the alert transmissions were replaced by scheduled quarterly and symptom\u2010triggered transmissions, was introduced after 3 months alert\u2010based follow\u2010up in patients with a high burden of nonactionable transmissions.\n                    \n                  \n                  \n                    Results\n                    \n                      Mean age of the patients was 60 \u00b1 17 years (56% female). ILR monitoring led to diagnosis in 34 % of the patients. Median time to diagnosis was 84 days (18\u2013216 days) and the therapy included a pacemaker or an ICD implantation in 85% of them. SBSM was used in 18% of the patients. It was associated neither with an increased need for emergency room visits (\n                      p\n                      = 0.6) nor with hospitalization (\n                      p\n                      = 0.8). With SBMS the number of monthly RM transmissions decreased almost 80% from 1.5 to 0.3 transmission/device (\n                      p\n                      = 0.001).\n                    \n                  \n                  \n                    Conclusions\n                    Our data indicates that the burden related to the non\u2010actionable ILR alerts can be significantly reduced with SBMS without compromising patient safety.\n                  \n                  \n                    Capsule summary\n                    Implantable loop recorders (ILRs) enable prompt diagnosis in patients with unexplained syncope. Unfortunately, they also generate a deluge of false\u2010positive alerts. However, turning off alerts in patients with the highest burden of nonactionable transmissions can reduce the remote\u2010monitoring workload without compromising patient safety.",
+    "summary": "This retrospective study of 176 patients with implantable loop recorders for unexplained syncope found that switching from alert-based to symptom-based scheduled monitoring (SBSM) in patients with high nonactionable transmission burden reduced monthly remote monitoring transmissions by 80% without increasing emergency room visits or hospitalizations. ILR monitoring overall achieved diagnosis in 34% of patients with median time to diagnosis of 84 days, with 85% requiring pacemaker or ICD implantation."
+  },
+  {
+    "title": "Safety and Performance of INVICTA DF4 Ventricular Defibrillation Lead: Results From APOLLO Prospective Multicenter Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70286?af=R",
+    "doi": "10.1111/pace.70286",
+    "journal": "PACE",
+    "date": "May 16, 2026",
+    "date_ts": 1778944086.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background\n                    Implantable cardioverter\u2010defibrillator (ICD) therapy relies on reliable right ventricular leads for pacing, sensing, and defibrillation. The INVICTA DF4 lead is an active\u2010fixation, quadripolar design intended to optimize implant workflow and long\u2010term safety and performance.\n                  \n                  \n                    Methods\n                    APOLLO was a prospective, multicenter, single\u2010arm, observational study enrolling adults across Europe with guideline\u2010based indications for de novo ICD or Cardiac Resynchronization Therapy Defibrillator (CRT\u2010D) implantation who received an INVICTA DF4 lead (single\u2010 or dual\u2010coil; 58 or 68\u00a0cm). The co\u2010primary endpoints focused on safety and performance at 3 months, while secondary endpoints included long\u2010term electrical variables, arrhythmia termination, and lead\u2010related complications through 24 months.\n                  \n                  \n                    Results\n                    Between June 4, 2021, and October 19, 2022, 446 patients were implanted across 45 sites in 8 European countries. The INVICTA lead was successfully implanted in 100% of the 446 enrolled patients. Leads were positioned either in the apex in 57.2% or right ventricle (RV) septum in 42.8%. Electrical variables stabilized after discharge and remained stable up to 24 months (M24 mean pacing threshold 0.85 \u00b1 0.33\u00a0V at 0.5\u00a0ms; sensing 13.39 \u00b1 3.17\u00a0mV; pacing impedance 525.5 \u00b1 94.2 Ohms; right ventricular (RV) coil continuity 427.8 \u00b1 82.7 Ohms). Of 86 arrhythmic episodes requiring defibrillation, 97.7% were successfully terminated. Lead\u2010related complication free rate was 97.5% at 30 days, 98.9% at 31\u2013730 days, and 96.4% overall. Mortality was 8.5% (38/446) at two years, of which 63% was due to cardiovascular causes.\n                  \n                  \n                    Conclusions\n                    In a large, contemporary European cohort, the INVICTA DF4 ventricular lead demonstrated high implant success, durable electrical performance, effective arrhythmia termination, and low complication rates through 24 months. A trend toward less complication in septal positioning was observed compared to apical placement, with comparable electrical performance.",
+    "summary": "This prospective, multicenter, single-arm observational study of 446 European patients demonstrated that the INVICTA DF4 quadripolar ICD lead achieved 100% implant success with stable electrical parameters, 97.7% defibrillation efficacy, and a 96.4% lead-related complication-free rate through 24 months of follow-up. Septal positioning showed a trend toward fewer complications compared to apical placement while maintaining comparable electrical performance."
+  },
+  {
+    "title": "Safety and Efficacy of a Novel Radiofrequency Wire\u2010Based Transseptal Puncture System",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70293?af=R",
+    "doi": "10.1111/pace.70293",
+    "journal": "PACE",
+    "date": "May 16, 2026",
+    "date_ts": 1778943862.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Transseptal puncture (TSP) is a key component of cardiac ablation and structural interventional procedures. Procedural efficacy and safety of the VersaCross TSP platform, a novel blunt radiofrequency (RF)\u2010wire based system, was compared with conventional equipment.\n                  \n                  \n                    Methods\n                    Consecutive patients undergoing TSP with VersaCross or a control group using conventional equipment were studied. Procedures were carried out using fluoroscopy alone or with additional transesophageal echocardiography (TEE) or intracardiac echocardiography (ICE) guidance. Procedural metrics including TSP and fluoroscopy times were recorded. Complications, both acute and up to a month post procedure, were included.\n                  \n                  \n                    Results\n                    \n                      Two hundred and fifty procedures were included (150 VersaCross, 100 control) in the registry. Of these, 100 consecutive cases (75 VersaCross, 25 control) had prospective data collected for procedural metrics. Between the VersaCross and control cases, there was no difference between echocardiographic use (50\u00a0vs. 52%,\n                      p\n                      \u00a0=\u00a00.8) or conscious sedation use (53\u00a0vs. 55%,\n                      p\n                      \u00a0=\u00a00.56). AF ablations predominated in both groups (81%\u00a0vs. 90%). There was no difference between median TSP or fluoroscopy times for either single or double transseptal access between groups. There were five minor (one momentary AV\u2010block and four acute pericardial effusions not requiring intervention) and two major (cardiac tamponade and hemothorax) complications in the VersaCross group, with two major (cardiac tamponade) complications in the control group.\n                    \n                  \n                  \n                    Conclusions\n                    The VersaCross TSP system can be used in a variety of ablation procedures with or without TEE/ICE guidance under conscious sedation or general anesthesia. Compared with conventional TSP technologies, there is no increase in major complications, TSP or fluoroscopy times.",
+    "summary": "This retrospective registry study of 250 transseptal puncture procedures (150 VersaCross RF-wire system vs. 100 conventional equipment) demonstrated that the novel VersaCross platform achieved comparable procedural times and safety profiles to conventional techniques, with no significant differences in complication rates, fluoroscopy duration, or puncture times for single or double transseptal access. The VersaCross system was safely applicable across various ablation procedures regardless of imaging modality or anesthetic approach."
+  },
+  {
     "title": "An Algorithmic Pitfall Causing Pacing-Induced Ventricular Fibrillation: A Dangerous Scenario",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003506?dgcid=rss_sd_all",
     "doi": null,
@@ -6163,54 +6219,6 @@
     "date_ts": 1776388955.69224,
     "tags": [
       "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "\u2018Squeezing the atrial voltage map with a peak frequency tailored approach: when no one knows where the micro-reentrant circuit is\u2019",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022599?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 17, 2026",
-    "date_ts": 1776388955.692042,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Enhanced Detection and Prompt Diagnosis of Atrial Fibrillation Using Apple Watch: A Randomized Controlled Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725103379?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324052.101089,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Smartwatch-Integrated Atrial Fibrillation Detection: What the EQUAL Trial Tells Us About Screening in High-Risk Older Adults",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725104270?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324052.101056,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Inappropriate Shocks From Subcutaneous vs Transvenous Implantable Cardioverter-Defibrillators: Individual Participant Data Meta-Analysis of Randomized Trials",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725099206?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 16, 2026",
-    "date_ts": 1776324052.101023,
-    "tags": [
-      "Devices"
     ],
     "hot": false
   }
