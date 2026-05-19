@@ -1,5 +1,85 @@
 [
   {
+    "title": "Cardiac \u03b14\u03b22 nicotinic receptors as a therapeutic target for fatal ventricular arrhythmias",
+    "link": "https://doi.org/10.1093/eurheartj/ehag293",
+    "doi": "10.1093/eurheartj/ehag293",
+    "journal": "European Heart Journal",
+    "date": "May 18, 2026",
+    "date_ts": 1779062400.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Fatal ventricular tachyarrhythmias (FVTs) are a major cause of sudden cardiac death globally. Despite their clinical importance, current antiarrhythmic therapies remain constrained by limited efficacy and proarrhythmic risks. Although endogenous cardiac cholinergic signalling contributes to electrophysiological regulation, the therapeutic potential of targeting ventricular \u03b14\u03b22 nicotinic acetylcholine receptors (nAChRs), a pivotal component of this system, for FVT treatment remains to be elucidated.\n                  \n                  \n                    Methods\n                    A pharmacological screen identified positive allosteric modulators (PAMs) of \u03b14\u03b22 nAChRs as possessing antiarrhythmic properties. Through structure-based design, salvage-1 was developed and its efficacy and safety profile were evaluated in rodent, porcine, and human ex vivo heart models of FVTs. The underlying mechanism was investigated using patch-clamp electrophysiology, high-resolution optical mapping, and molecular dynamics simulations.\n                  \n                  \n                    Results\n                    Pharmacological screening validated the potentiation of \u03b14\u03b22 nAChRs as a promising antiarrhythmic strategy. Structure-guided development yielded salvage-1, a PAM that selectively engages Phe312 and Phe316 on the \u03b14 subunit to stabilize the receptor in an open-channel state. Across rodent, porcine, and human ex vivo heart models of FVTs, salvage-1 consistently prevented arrhythmogenesis and rapidly restored sinus rhythm. Mechanistically, salvage-1 enhanced acetylcholine-gated currents, selectively improved conduction velocity in injured myocardium, and suppressed re-entry, without compromising electrophysiology in healthy tissue.\n                  \n                  \n                    Conclusions\n                    This study identifies ventricular \u03b14\u03b22 nAChRs as a druggable target for FVTs and introduces salvage-1 as a first-in-class therapeutic candidate, thereby establishing a new direction for the pharmacological therapy of cardiac arrhythmias.",
+    "summary": "This preclinical study across rodent, porcine, and human ex vivo cardiac models demonstrates that salvage-1, a novel positive allosteric modulator of ventricular \u03b14\u03b22 nicotinic acetylcholine receptors, effectively prevents fatal ventricular tachyarrhythmias and restores sinus rhythm by enhancing conduction velocity in injured myocardium and suppressing re-entry without affecting healthy tissue electrophysiology. The findings identify \u03b14\u03b22 nAChRs as a new druggable target for arrhythmia therapy and position salvage-1 as a first-in-class candidate with potential advantages over current antiar"
+  },
+  {
+    "title": "Intermittent dyspnoea unmasking an extremely rare constellation of congenital anomalies: cor triatriatum sinister, venous web\u2013related pulmonary vein stenosis, meandering pulmonary vein, and Poland syndrome",
+    "link": "https://doi.org/10.1093/eurheartj/ehag321",
+    "doi": "10.1093/eurheartj/ehag321",
+    "journal": "European Heart Journal",
+    "date": "May 18, 2026",
+    "date_ts": 1779062400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Resuscitation From Out-of-Hospital Cardiac Arrest When Is EtCO\n                    <sub>2</sub>\n                    Reliably Associated With ROSC?",
+    "link": "https://doi.org/10.1161/circulationaha.125.077980",
+    "doi": "10.1161/circulationaha.125.077980",
+    "journal": "Circulation",
+    "date": "May 18, 2026",
+    "date_ts": 1779062400.0,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    \n                      Exhaled end-tidal carbon dioxide (EtCO\n                      2\n                      ) trajectory is associated with out-of-hospital cardiac arrest (OHCA) outcomes. However, the minimum EtCO\n                      2\n                      monitoring duration needed to discriminate return of spontaneous circulation (ROSC) from non-ROSC remains unknown. We sought to determine the EtCO\n                      2\n                      trajectory observation time required to differentiate ROSC from non-ROSC patients.\n                    \n                  \n                  \n                    METHODS:\n                    \n                      We performed a secondary analysis of the cluster-randomized Pragmatic Airway Resuscitation Trial (PART), which assessed endotracheal intubation or laryngeal tube strategies in OHCA resuscitation. We summarized mean EtCO\n                      2\n                      in 1-minute epochs over the resuscitation. Cases were stratified a priori by: (1) witnessed versus unwitnessed status, and (2) initial EtCO\n                      2\n                      : low (\u226430 mm Hg), moderate (31\u201349), and high (\u226550). Within each stratum, group-based trajectory modeling (GBTM) was used to identify latent EtCO\n                      2\n                      trajectory classes, and patients were categorized into an upward or downward trajectory. To balance trajectory groups on baseline characteristics including age, sex, race, initial rhythm, location, and bystander CPR, we applied inverse probability of treatment weighting. We fit weighted pooled logistic regression models to estimate risk ratios (RRs) for ROSC comparing upward versus downward EtCO\n                      2\n                      trajectories. Within each stratum, we identified the earliest minute when CIs between upward versus downward EtCO\n                      2\n                      trajectories no longer overlapped.\n                    \n                  \n                  \n                    RESULTS:\n                    \n                      EtCO\n                      2\n                      data were available for 1168 patients: 452 (38.6%) witnessed and 716 (61.1%) unwitnessed. Patients were predominantly men (63.5%), with a median age of 65 years (Q1, Q3: 53\u201375), majority White race (51.3%), and presenting in a nonpublic setting (85.4%). Overall ROSC was 18.2%: 30.5% of witnessed and 10.5% of unwitnessed. Among witnessed arrests, 95% CI for upward versus downward EtCO\n                      2\n                      trajectories no longer overlapped at 8 minutes for low initial EtCO\n                      2\n                      (RR, 3.06; 95% CI, 1.49, 6.71), 12 minutes for moderate EtCO\n                      2\n                      (RR, 1.95; 95% CI, 1.23, 3.48), and 21 minutes for high EtCO\n                      2\n                      (RR, 2.12; 95% CI, 1.30, 3.73). Among unwitnessed arrests, nonoverlapping CIs were first observed at 7 minutes (RR, 3.56; 95% CI, 1.53, 10.37).\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    \n                      Depending on witness status and initial EtCO\n                      2\n                      , between 7 and 21 minutes of monitoring are needed to reliably differentiate upward from downward EtCO\n                      2\n                      trajectories during OHCA resuscitation. Dynamic EtCO\n                      2\n                      trajectory monitoring may provide early prognostic information to guide resuscitation.",
+    "summary": "This secondary analysis of the cluster-randomized PART trial (n=1,168 OHCA patients) used group-based trajectory modeling to assess EtCO\u2082 monitoring duration needed to differentiate ROSC from non-ROSC outcomes, finding that 7-21 minutes of EtCO\u2082 trajectory observation\u2014depending on witness status and initial EtCO\u2082 level\u2014reliably discriminated upward from downward trajectories and predicted ROSC likelihood. Dynamic EtCO\u2082 trajectory monitoring may offer early prognostic guidance during resuscitation efforts."
+  },
+  {
+    "title": "Beyond the Sinus Node: Heterogeneous Atrial Substrate in Atrial Fibrillation With Sick Sinus Syndrome",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70374?af=R",
+    "doi": "10.1111/jce.70374",
+    "journal": "J Cardiovasc EP",
+    "date": "May 17, 2026",
+    "date_ts": 1779044971.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Prior Stroke Increases Residual Shunt Risk After Combined Ablation and LAAO: A Device\u2010Specific Interaction",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70254?af=R",
+    "doi": "10.1111/pace.70254",
+    "journal": "PACE",
+    "date": "May 17, 2026",
+    "date_ts": 1779023960.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    The safety and efficacy profile of the combined \u201cone\u2010stop\u201d catheter ablation (CA) and left atrial appendage occlusion (LAAO) procedure in atrial fibrillation (AF) patients with a prior history of cerebral infarction requires further validation.\n                  \n                  \n                    Methods\n                    \n                      In this retrospective, single\u2010center study, 242 consecutive AF patients undergoing the one\u2010stop procedure were categorized into Stroke (\n                      n\n                      = 103) and Non\u2010Stroke (\n                      n\n                      = 139) groups. A 1:1 propensity score matching (PSM) was performed, yielding 57 balanced pairs. The primary efficacy endpoint was procedural success. Key safety endpoints included post\u2010procedural residual shunt assessed at 45 days, device\u2010related thrombosis (DRT), and stroke recurrence.\n                    \n                  \n                  \n                    Results\n                    \n                      After PSM, baseline characteristics were well\u2010balanced. Procedural success (91.2%\u00a0vs. 87.7%,\n                      p\n                      = 0.484) and freedom from AF recurrence (88.6%\u00a0vs. 89.3%,\n                      p\n                      = 0.979) were comparable between Stroke and Non\u2010Stroke groups. However, the incidence of residual shunt was significantly higher in the Stroke group (5.3%\u00a0vs. 0%,\n                      p\n                      = 0.028). No significant differences were observed in DRT or stroke recurrence rates. Notably, a significant interaction was found between prior stroke and LAAO device type on residual shunt risk (\n                      p\n                      \u2010for\u2010interaction = 0.045), indicating the risk varied substantially depending on the occluder used.\n                    \n                  \n                  \n                    Conclusion\n                    A history of prior stroke does not impair the procedural success or mid\u2010term rhythm control of the one\u2010stop CA+LAAO strategy. However, it is associated with an increased risk of residual shunt, a relationship significantly modified by the type of occluder device. These findings highlight the potential need for individualized device selection in stroke survivors.",
+    "summary": "This retrospective single-center study of 242 AF patients (57 matched pairs after propensity score matching) compared outcomes of combined catheter ablation and left atrial appendage occlusion between those with and without prior stroke history, finding comparable procedural success (91.2% vs 87.7%) and arrhythmia recurrence rates but significantly higher residual shunt incidence in prior stroke patients (5.3% vs 0%), with shunt risk varying by occluder device type. The findings suggest prior stroke does not compromise procedural efficacy or rhythm control but warrants individualized device selection due to increased residual shunt risk."
+  },
+  {
+    "title": "Infection of Cardiac Implantable Electronic Devices in Low and Middle Income Countries: A Systematic Review",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70282?af=R",
+    "doi": "10.1111/pace.70282",
+    "journal": "PACE",
+    "date": "May 17, 2026",
+    "date_ts": 1779023598.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Cardiac implantable electronic devices (CIEDs), including pacemakers, implantable cardioverter\u2010defibrillators (ICDs), and cardiac resynchronization therapy (CRT) devices, are increasingly used in low\u2010 and middle\u2010income countries (LMICs). However, device\u2010related infections remain a significant complication, leading to increased morbidity, mortality, and healthcare burden. Evidence from LMICs is limited and fragmented.\n                  \n                  \n                    Objective\n                    To systematically review the incidence, microbiological profile, management strategies, and clinical outcomes of CIED\u2010related infections in LMICs.\n                  \n                  \n                    Methods\n                    A comprehensive literature search was conducted across PubMed and Google Scholar up to September 2025. Studies from LMICs reporting on CIED\u2010related infections were included. Data on infection rates, device types, reuse practices, microbiology, and outcomes were extracted and synthesized.\n                  \n                  \n                    Results\n                    Fifty\u2010five studies encompassing 96\u00a0448 CIED recipients were included. A total of 1910 infected patients were analyzed, yielding an overall infection rate of 1.65%. Infection rates ensuing reused CIED implantation (1.82%) are not consistently higher than those reported for new devices. Infection risk was higher with complex devices\u20145.9% in CRTs and 4.74% in ICDs\u2014compared to 1.75% in pacemakers. Replacement and revision procedures had significantly higher infection rates (2.1%) than de novo implantations (0.57%). Among 1063 infections with available microbiological data, coagulase\u2010negative Staphylococci (26.0%) and Staphylococcus aureus (25.4%) were predominant, though 35.4% were culture\u2010negative. Device extraction was performed in 75% of treated patients. Infection\u2010related mortality was 8.87%, and long\u2010term follow\u2010up data were limited.\n                  \n                  \n                    Conclusion\n                    CIED infections in LMICs occur at higher rates than in high\u2010income settings, particularly with complex devices and reinterventions. Culture\u2010negative infections are common, and access to guideline\u2010recommended care, including device extraction, is often limited.",
+    "summary": "This systematic review of 55 studies comprising 96,448 CIED recipients from low- and middle-income countries found an overall infection rate of 1.65%, with significantly higher rates in complex devices (CRT 5.9%, ICD 4.74%) and revision procedures (2.1%) compared to de novo implantations (0.57%), with coagulase-negative staphylococci and S. aureus predominating but culture-negative infections common (35.4%) and infection-related mortality at 8.87%. The findings highlight that CIED infections in LMICs exceed rates in high-income countries, particularly with device complexity and reinterventions"
+  },
+  {
     "title": "Last Entrainment Response: A Novel Technique for Localizing Slow Pathway During Atrioventricular Nodal Re-entrant Tachycardia",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003658?dgcid=rss_sd_all",
     "doi": null,
@@ -1967,6 +2047,20 @@
       "Other"
     ],
     "hot": false
+  },
+  {
+    "title": "Sensor detection and pacing for impending reflex syncope",
+    "link": "https://doi.org/10.1093/europace/euag070",
+    "doi": "10.1093/europace/euag070",
+    "journal": "EP Europace",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Reflex syncope occurs infrequently but may benefit from pacing intervention. However, reflex syncope poses special problems for successful cardiac pacing. Between episodes, monitoring by the implanted device is required to provide warning of an impending syncope and initiate pacing therapy if appropriate. This article aims to review available devices and their function in different forms of reflex syncope.\n                  \n                  \n                    Methods and results\n                    The first device dedicated to address detection of VVS was the Rate Drop Response (RDR) (Medtronic Inc., MN, USA). It used a modified rate hysteresis approach to detect falls in heart rate that are faster than physiological but slower than those in cardiac conduction tissue disease. Since the introduction of RDR more has been learnt about the development of vasodepression and cardiac inhibition in vasovagal syncope (VVS). Detection of vasodepression, which occurs substantially earlier than cardioinhibition, assumes great importance. Currently, such detection is only offered by the Closed Loop System (CLS) (Biotronik GmbH, Berlin, Germany). Carotid sinus syndrome (CSS) shows different haemodynamic features from VVS with early vasodepression absent which demands rethinking of device selection and programming. RDR yielded improved management of both VVS and CSS. CLS has demonstrated clear benefits in two important recent randomized controlled VVS pacing trials. So far, no comparative trial between RDR and CLS has been undertaken.\n                  \n                  \n                    Conclusion\n                    Pacing the bradycardia of reflex syncope requires a full appreciation of its haemodynamic events, including timing of vasodepression and cardioinhibition requiring sophisticated detection and therapy delivery.",
+    "summary": "This is a narrative review examining pacemaker devices and their detection algorithms for managing reflex syncope, comparing the Rate Drop Response (RDR) and Closed Loop System (CLS) technologies across vasovagal syncope and carotid sinus syndrome. The CLS demonstrated superior benefits in recent randomized controlled trials for vasovagal syncope through earlier detection of vasodepression, though no direct comparative trial between RDR and CLS has been conducted."
   },
   {
     "title": "Keeping it Hot: Radiofrequency Ablation of Atrial Fibrillation in a Patient with Cold Agglutinin Disease",
@@ -6135,90 +6229,6 @@
     "date_ts": 1776388955.692549,
     "tags": [
       "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LB-525393-01 <strong>OUTCOMES OF LEFT ATRIAL APPENDAGE CLOSURE VS ORAL ANTICOAGULATION IN PATIENTS WITH ATRIAL FIBRILLATION AND PRIOR ABLATION: A SUB-ANALYSIS OF THE CHAMPION-AF CLINICAL TRIAL</strong>",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021740?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 17, 2026",
-    "date_ts": 1776388955.69251,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LB-525394-03 <strong>VARIABLE LOOP CIRCULAR CATHETER PULSED FIELD ABLATION IN REAL-WORLD PRACTICE: LOW COMPLICATION RATES ACROSS PATIENT AND PROCEDURAL CHARACTERISTICS</strong>",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021922?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 17, 2026",
-    "date_ts": 1776388955.692471,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LB-525396-02 <strong>SIX-MONTH OUTCOMES FROM THE <em>SPHERE-9 VENTRICULAR TACHYCARDIA EARLY FEASIBILITY STUDY</em>: DUAL-ENERGY LATTICE-TIP MAPPING AND ABLATION CATHETER FOR VENTRICULAR TACHYCARDIA TREATMENT</strong>",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021831?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 17, 2026",
-    "date_ts": 1776388955.692432,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LB-525396-04 <strong>ONE-YEAR OUTCOMES OF NANOSECOND PULSE FIELD ABLATION USING A COMPLIANT CIRCULAR CATHETER TO TREAT ATRIAL FIBRILLATION: A MULTICENTER EXPERIENCE</strong>",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021855?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 17, 2026",
-    "date_ts": 1776388955.692394,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LB-525393-02 <strong>LONG-TERM OUTCOMES AFTER LEFT ATRIAL APPENDAGE CLOSURE IN ANTICOAGULATION-INELIGIBLE ATRIAL FIBRILLATION PATIENTS: THE RANDOMIZED <em>ASAP-TOO</em> CLINICAL TRIAL</strong>",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021752?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 17, 2026",
-    "date_ts": 1776388955.692353,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LB-525394-01 <strong>CENTERS OF EXCELLENCE OPTIMAL MANAGEMENT PATHWAYS FOR ATRIAL FIBRILLATION SPECIALTY SERVICES EARLY RHYTHM CONTROL TREATMENT CARE PATHWAY: PRIMARY RESULTS OF THE COMPASS HEART RHYTHM SOCIETY QUALITY IMPROVEMENT INITIATIVE</strong>",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021909?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 17, 2026",
-    "date_ts": 1776388955.692302,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LB-525393-04 <strong>A RANDOMIZED CONTROLLED STUDY OF ABLATION PURSUING ATRIAL FIBRILLATION TERMINATION AS A PROCEDURAL ENDPOINT VERSUS PRESPECIFIED ABLATION STRATEGY FOLLOWED BY CARDIOVERSION IN PATIENTS WITH PERSISTENT ATRIAL FIBRILLATION, (CAPT- AF TRIAL)</strong>",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021776?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 17, 2026",
-    "date_ts": 1776388955.69224,
-    "tags": [
-      "AFib"
     ],
     "hot": false
   }
