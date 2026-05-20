@@ -1,5 +1,67 @@
 [
   {
+    "title": "Clinical Validation of an <em>In-Silico</em> Pace Mapping Approach to Localize both Focal and Reentrant Ventricular Arrhythmias in Patients with Structural Heart Disease",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023908?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 20, 2026",
+    "date_ts": 1779242664.274736,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Influence of Dielectric Perfusate on pulsed-field ablation-Induced Hemolysis",
+    "link": "https://doi.org/10.1093/europace/euag124",
+    "doi": "10.1093/europace/euag124",
+    "journal": "EP Europace",
+    "date": "May 19, 2026",
+    "date_ts": 1779148800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Nationwide trends in pediatric pacemaker implantation in France, 2014\u20132024",
+    "link": "https://doi.org/10.1093/europace/euag114",
+    "doi": "10.1093/europace/euag114",
+    "journal": "EP Europace",
+    "date": "May 19, 2026",
+    "date_ts": 1779148800.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Conduction System Pacing for Cardiac Resynchronization Therapy \u2013 A Systematic Review",
+    "link": "https://doi.org/10.1093/europace/euag122",
+    "doi": "10.1093/europace/euag122",
+    "journal": "EP Europace",
+    "date": "May 19, 2026",
+    "date_ts": 1779148800.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  Biventricular pacing (BVP) remains the standard method for delivering cardiac resynchronization therapy (CRT) in patients with heart failure (HF) and left bundle branch block (LBBB). Despite its established role, BVP is a non-physiological pacing approach and is limited by factors such as anatomical constraints of the coronary sinus and a substantial proportion of non-responders. Conduction system pacing (CSP), including His bundle pacing (HBP) and Left Bundle Branch area pacing (LBBAP), has emerged as a more physiological alternative aimed at optimizing CRT outcomes. Early studies suggest that CSP may achieve superior electro-mechanical ventricular synchrony compared with BVP. Nevertheless, evidence from large-scale randomized controlled trials remains scarce, and challenges related to procedural complexity and insufficient long-term outcome data currently prevent CSP from replacing BVP as the first-line CRT strategy. This systematic review synthesizes the existing literature on CSP in CRT, explores its potential applications across different clinical contexts, and discusses the ongoing controversies and future prospects of this evolving technique.",
+    "summary": "This systematic review synthesizes evidence comparing conduction system pacing (CSP), including His bundle pacing and left bundle branch area pacing, to standard biventricular pacing for cardiac resynchronization therapy in heart failure patients, finding that CSP achieves superior electromechanical synchrony but lacks sufficient large-scale RCT data and long-term outcomes to replace biventricular pacing as first-line therapy. The review identifies procedural complexity and incomplete evidence as current barriers to widespread CSP adoption despite its theoretical physiological advantages over conventional approaches."
+  },
+  {
+    "title": "Female sex\u2013related stroke risk in patients with atrial flutter \u2013 Comparison between CHA2DS2-VA and CHA2DS2-VASc scores",
+    "link": "https://doi.org/10.1093/europace/euag121",
+    "doi": "10.1093/europace/euag121",
+    "journal": "EP Europace",
+    "date": "May 19, 2026",
+    "date_ts": 1779148800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Cardiac \u03b14\u03b22 nicotinic receptors as a therapeutic target for fatal ventricular arrhythmias",
     "link": "https://doi.org/10.1093/eurheartj/ehag293",
     "doi": "10.1093/eurheartj/ehag293",
@@ -38,6 +100,46 @@
     "hot": false,
     "abstract": "BACKGROUND:\n                    \n                      Exhaled end-tidal carbon dioxide (EtCO\n                      2\n                      ) trajectory is associated with out-of-hospital cardiac arrest (OHCA) outcomes. However, the minimum EtCO\n                      2\n                      monitoring duration needed to discriminate return of spontaneous circulation (ROSC) from non-ROSC remains unknown. We sought to determine the EtCO\n                      2\n                      trajectory observation time required to differentiate ROSC from non-ROSC patients.\n                    \n                  \n                  \n                    METHODS:\n                    \n                      We performed a secondary analysis of the cluster-randomized Pragmatic Airway Resuscitation Trial (PART), which assessed endotracheal intubation or laryngeal tube strategies in OHCA resuscitation. We summarized mean EtCO\n                      2\n                      in 1-minute epochs over the resuscitation. Cases were stratified a priori by: (1) witnessed versus unwitnessed status, and (2) initial EtCO\n                      2\n                      : low (\u226430 mm Hg), moderate (31\u201349), and high (\u226550). Within each stratum, group-based trajectory modeling (GBTM) was used to identify latent EtCO\n                      2\n                      trajectory classes, and patients were categorized into an upward or downward trajectory. To balance trajectory groups on baseline characteristics including age, sex, race, initial rhythm, location, and bystander CPR, we applied inverse probability of treatment weighting. We fit weighted pooled logistic regression models to estimate risk ratios (RRs) for ROSC comparing upward versus downward EtCO\n                      2\n                      trajectories. Within each stratum, we identified the earliest minute when CIs between upward versus downward EtCO\n                      2\n                      trajectories no longer overlapped.\n                    \n                  \n                  \n                    RESULTS:\n                    \n                      EtCO\n                      2\n                      data were available for 1168 patients: 452 (38.6%) witnessed and 716 (61.1%) unwitnessed. Patients were predominantly men (63.5%), with a median age of 65 years (Q1, Q3: 53\u201375), majority White race (51.3%), and presenting in a nonpublic setting (85.4%). Overall ROSC was 18.2%: 30.5% of witnessed and 10.5% of unwitnessed. Among witnessed arrests, 95% CI for upward versus downward EtCO\n                      2\n                      trajectories no longer overlapped at 8 minutes for low initial EtCO\n                      2\n                      (RR, 3.06; 95% CI, 1.49, 6.71), 12 minutes for moderate EtCO\n                      2\n                      (RR, 1.95; 95% CI, 1.23, 3.48), and 21 minutes for high EtCO\n                      2\n                      (RR, 2.12; 95% CI, 1.30, 3.73). Among unwitnessed arrests, nonoverlapping CIs were first observed at 7 minutes (RR, 3.56; 95% CI, 1.53, 10.37).\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    \n                      Depending on witness status and initial EtCO\n                      2\n                      , between 7 and 21 minutes of monitoring are needed to reliably differentiate upward from downward EtCO\n                      2\n                      trajectories during OHCA resuscitation. Dynamic EtCO\n                      2\n                      trajectory monitoring may provide early prognostic information to guide resuscitation.",
     "summary": "This secondary analysis of the cluster-randomized PART trial (n=1,168 OHCA patients) used group-based trajectory modeling to assess EtCO\u2082 monitoring duration needed to differentiate ROSC from non-ROSC outcomes, finding that 7-21 minutes of EtCO\u2082 trajectory observation\u2014depending on witness status and initial EtCO\u2082 level\u2014reliably discriminated upward from downward trajectories and predicted ROSC likelihood. Dynamic EtCO\u2082 trajectory monitoring may offer early prognostic guidance during resuscitation efforts."
+  },
+  {
+    "title": "Mechanical Circulatory Support During Ventricular Tachycardia Ablation: A Systematic Review and Meta\u2010Analysis of Procedural and Clinical Outcomes",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70373?af=R",
+    "doi": "10.1111/jce.70373",
+    "journal": "J Cardiovasc EP",
+    "date": "May 18, 2026",
+    "date_ts": 1779128774.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    \n                    Catheter ablation is an established therapy for ventricular tachycardia (VT); however, hemodynamic instability frequently limits procedural mapping and success. Temporary mechanical circulatory support (tMCS) devices are increasingly used to maintain end\u2010organ perfusion during VT ablation, yet their impact on clinical outcomes remains uncertain. We aimed to evaluate the impact of tMCS on clinical outcomes and periprocedural complications in patients undergoing VT ablation.\n                  \n                  \n                    \n                    A systematic search of PubMed/MEDLINE, Scopus, Web of Science, and Cochrane CENTRAL was conducted from database inception through December 2025. We included observational studies enrolling adult patients undergoing VT ablation with tMCS, compared with VT ablation performed without MCS. Primary outcomes were all\u2010cause mortality, in\u2010hospital mortality, procedural success, VT recurrence, and major adverse cardiovascular events (MACE).\n                  \n                  \n                    \n                    Ten observational studies comprising 16,838 patients were included, of whom 1402 received tMCS. There was no significant difference in all\u2010cause mortality between tMCS and no\u2010MCS groups (RR 1.71, 95% CI 0.68 to 4.26), procedural success (RR 1.05, 95% CI 0.92 to 1.21), VT recurrence (RR 0.99, 95% CI 0.80 to 1.22), or MACE (RR\u2009=\u20090.79, 95% CI: 0.62 to 1.01). However, tMCS use was associated with significantly higher in\u2010hospital mortality (RR 7.41, 95% CI 4.77 to 11.66). The tMCS group also demonstrated increased risks of stroke, pericardial effusion or tamponade, and periprocedural complications.\n                  \n                  \n                    \n                    In non\u2010randomized studies, tMCS during VT ablation was not associated with improved long\u2010term outcomes, while higher in\u2010hospital mortality and complications likely reflected patient selection and timing of support rather than adverse device effects.",
+    "summary": "This meta-analysis of 10 observational studies (16,838 patients, 1,402 receiving temporary mechanical circulatory support [tMCS]) found that tMCS use during ventricular tachycardia ablation was not associated with improved procedural success, VT recurrence, or long-term mortality, though it was associated with significantly higher in-hospital mortality and increased periprocedural complications (stroke, pericardial effusion/tamponade), likely reflecting patient selection bias rather than direct device harm. These findings suggest tMCS does not improve clinical outcomes despite enabling hemodynamic stability during ablation of unstable VT."
+  },
+  {
+    "title": "Implementation of a Standardized Nurse\u2010Guided Heparinization Protocol Improves Anticoagulation During Left Atrial Ablation Procedures",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70378?af=R",
+    "doi": "10.1111/jce.70378",
+    "journal": "J Cardiovasc EP",
+    "date": "May 18, 2026",
+    "date_ts": 1779128720.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background and Aims\n                    Effective intraprocedural anticoagulation is essential during catheter ablation of atrial fibrillation (AF) and left atrial tachycardia (AT) procedures. This study evaluated a novel, standardized, nurse\u2010led heparin protocol regarding anticoagulation performance and safety.\n                  \n                  \n                    Methods\n                    Consecutive patients undergoing AF or AT ablation between May 2022 and 2023 were treated using a standardized heparinization protocol managed by electrophysiology nursing staff (study group) and compared with consecutive patients undergoing ablation between May 2021 and April 2022, in whom heparin was administered at the operator's discretion (control group). Patients in the study cohort received an initial dose of 5000 IU heparin after venous access and a supplemental bolus (1000 IU/10\u2009kg above 50\u2009kg bodyweight) after transseptal puncture. ACT was then assessed every 20\u2009min using a point\u2010of\u2010care coagulation device in both groups. Repeat heparin administration was autonomously performed by nurses in the study group following a standardized protocol. The primary endpoint was the proportion of patients in whom at least one intraprocedural ACT measurement exceeded 300\u2009s at any time during the procedure.\n                  \n                  \n                    Results\n                    \n                      Each group included 655 patients with comparable baseline characteristics. The study group more frequently achieved the therapeutic target (ACT\u2009&gt;\u2009300\u2009s, 84.6% vs. 59.7%,\n                      p\n                      \u2009&lt;\u20090.0001), reached therapeutic ACT faster, and showed fewer exclusively subtherapeutic ACT values. Excessive anticoagulation was less common (ACT\u2009&gt;\u2009400\u2009s: 2.0% in the study group vs. 5.0% in the control group,\n                      p\n                      \u2009=\u20090.0027). Complication rates were low and similar in both groups.\n                    \n                  \n                  \n                    Conclusions\n                    A standardized, nurse\u2010led heparinization protocol improved the speed, consistency, and precision of intraprocedural anticoagulation during left atrial ablation without increasing procedural complications.",
+    "summary": "This prospective comparative study (655 patients per group) evaluated a standardized, nurse-led heparin protocol versus operator-discretionary anticoagulation during AF/AT ablation, demonstrating that the protocol-driven approach achieved therapeutic ACT targets more frequently (84.6% vs. 59.7%), with faster achievement and lower rates of excessive anticoagulation (ACT >400s: 2.0% vs. 5.0%), without increasing complications."
+  },
+  {
+    "title": "Issue Information",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70368?af=R",
+    "doi": "10.1111/jce.70368",
+    "journal": "J Cardiovasc EP",
+    "date": "May 18, 2026",
+    "date_ts": 1779103558.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
   },
   {
     "title": "Beyond the Sinus Node: Heterogeneous Atrial Substrate in Atrial Fibrillation With Sick Sinus Syndrome",
@@ -2047,6 +2149,277 @@
       "Other"
     ],
     "hot": false
+  },
+  {
+    "title": "Endocardial ablation of a suspected mid-myocardial or epicardial ventricular tachycardia using a lattice tip ablation catheter: A case report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.02.007",
+    "doi": "10.1016/j.hrcr.2026.02.007",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Erratum to \u2018Unifocal premature ventricular complex ablation for recurrent ventricular fibrillation in a post\u2013myocardial infarction patient with acquired long QT\u2019 [Heart Rhythm Case Reports 12_1 (2026) 135-142]",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.02.004",
+    "doi": "10.1016/j.hrcr.2026.02.004",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Supraventricular tachycardia owing to 2-for-1 atrioventricular nodal conduction in a patient with repaired tetralogy of Fallot",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.02.012",
+    "doi": "10.1016/j.hrcr.2026.02.012",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "VT",
+      "SVT"
+    ],
+    "hot": false,
+    "abstract": "2-for-1 atrio-ventricular (AV) nodal conduction, also known as Dual AV nodal Non-Reentrant Tachycardia (DAVNNT) or Double Ventricular Response Tachycardia (DVR), is an uncommon arrhythmia in which a single atrial impulse conducts simultaneously via both fast and slow AV nodal pathways, producing two ventricular activations [1]. Misdiagnosis is frequent because of its variable surface ECG appearance[2]. We report a case of 2-for-1 tachycardia in a patient with repaired TOF, highlighting diagnostic maneuvers and successful ablation.",
+    "summary": "This is a case report describing 2-for-1 AV nodal conduction (DAVNNT) in a patient with repaired tetralogy of Fallot, where a single atrial impulse conducts through both fast and slow AV nodal pathways resulting in dual ventricular responses, with successful radiofrequency ablation demonstrated. The authors emphasize diagnostic maneuvers to differentiate this uncommon arrhythmia from more common tachycardias given its variable ECG presentation and frequent misdiagnosis."
+  },
+  {
+    "title": "Brugada syndrome in a boy aged 15 months",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.01.029",
+    "doi": "10.1016/j.hrcr.2026.01.029",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "High-definition mapping of permanent junctional reciprocating tachycardia: Deeper insights into atrial activation and branching",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.01.024",
+    "doi": "10.1016/j.hrcr.2026.01.024",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Dislodgement of a subcutaneous shock lead owing to loop release in the device pocket in a pediatric patient with congenital long QT syndrome",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.02.006",
+    "doi": "10.1016/j.hrcr.2026.02.006",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "Implantable cardioverter-defibrillators (ICDs) are increasingly used in pediatric patients for both primary and secondary prevention of sudden cardiac death. In this population, ICD management requires consideration of small body size, growth-related changes, and disease-specific characteristics. In infants and young children, conventional transvenous lead placement for ICD implantation is often challenging because of the small vascular caliber, and alternative strategies\u2014such as positioning shock leads in subcutaneous or epicardial locations\u2014are employed on a case-by-case basis.",
+    "summary": "This retrospective review examines ICD implantation strategies in pediatric patients, highlighting the technical challenges of transvenous lead placement in infants and young children due to small vessel size, with alternative subcutaneous and epicardial approaches employed based on individual clinical circumstances."
+  },
+  {
+    "title": "A case report of pulsed field ablation directly through a large self-expanding atrial septal occluder device with a hubless left atrial disc",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.01.027",
+    "doi": "10.1016/j.hrcr.2026.01.027",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed field ablation of a persistent left superior vena cava triggering atrial fibrillation: A case report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.01.025",
+    "doi": "10.1016/j.hrcr.2026.01.025",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "We report the case of a 55-year-old Caucasian male undergoing a third catheter ablation procedure for atrial fibrillation (AF). During the intervention, a previously undiagnosed persistent left superior vena cava (LSVC) appeared to contribute to the maintenance of AF. Given its anatomical characteristics, electrical isolation of the LSVC was performed using pulsed field ablation (PFA) rather than conventional radiofrequency (RF) ablation. Pulsed field ablation seems to be a novel, effective, and safe tool, particularly for targeting larger anatomical structures.",
+    "summary": "This case report describes a 55-year-old male with recurrent atrial fibrillation in whom pulsed field ablation successfully isolated a persistent left superior vena cava, demonstrating PFA as an effective alternative to conventional radiofrequency ablation for larger anatomical structures."
+  },
+  {
+    "title": "Isolated extravascular implantable cardioverter-defibrillator infection without leadless pacemaker involvement: A unique dual-device case report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.01.028",
+    "doi": "10.1016/j.hrcr.2026.01.028",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Implantable cardioverter-defibrillators (ICDs) have been central in the prevention of sudden cardiac death (SCD) for over three decades (1\u20133). Despite their proven efficacy, traditional transvenous ICD (TV-ICD) systems carry substantial procedural and long-term risks, primarily due to the presence of intravascular leads (4,5). These complications mainly include lead malfunction, venous thrombosis, valvular injury and infection. Although relatively infrequent (0.6-1.3%), TV-ICD infections often require complete system removal and are associated with significant morbidity and mortality (6,7).",
+    "summary": "This review discusses the long-standing clinical role of ICDs in sudden cardiac death prevention and highlights significant complications associated with traditional transvenous ICD systems, particularly lead-related infections (0.6-1.3% incidence) that often necessitate complete device removal with substantial morbidity and mortality. The content appears to be an introductory section setting the rationale for alternative ICD technologies rather than a complete study with defined methodology and results."
+  },
+  {
+    "title": "Leadless pacing\u2013induced pacemaker syndrome managed with atrial leadless pacing device",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.01.021",
+    "doi": "10.1016/j.hrcr.2026.01.021",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Reply to the letter to the editor entitled \u201cBrugada syndrome in a 15-month-old boy\u201d",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.02.014",
+    "doi": "10.1016/j.hrcr.2026.02.014",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Utility of transesophageal echocardiography during implantation of leadless pacemaker in pediatric patients",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.02.011",
+    "doi": "10.1016/j.hrcr.2026.02.011",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Transcatheter leadless pacemakers (LP) eliminate pocket and lead-related complications associated with traditional transvenous pacing systems. The safety and efficacy of LP are well described in the adult population 1,2. Recently, pediatric studies have also found its use favorable in select patient populations 3. The LP is particularly useful in pediatric patients with transient or paroxysmal atrioventricular (AV) block and those with prolonged pauses leading to symptoms. Technical challenges unique to pediatric implantation include smaller patient size, smaller cardiac chamber size, proximity to the tricuspid (TV) and pulmonary valve (PV), and the need for adequate vein size of at least 9mm to safely accept the delivery system 4.",
+    "summary": "This is a narrative review discussing the safety and efficacy of transcatheter leadless pacemakers in pediatric populations, particularly for transient/paroxysmal atrioventricular block and symptomatic prolonged pauses, while highlighting unique technical challenges including small patient size, cardiac anatomy constraints, and vascular access requirements (minimum 9mm venous diameter)."
+  },
+  {
+    "title": "Rate-dependent transition from bradycardia-dependent atrioventricular block to inverse and conventional decremental conduction after transcatheter aortic valve replacement: A case report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.02.003",
+    "doi": "10.1016/j.hrcr.2026.02.003",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Atrioventricular (AV) block is one of the major complications following transcatheter aortic valve replacement (TAVR).1 In recent years, only a few reports have described bradycardia-dependent AV block after TAVR.2 Among patients who develop intermittent left bundle branch block following TAVR, approximately 79.4% show bradycardia dependence, and both the intermittent and bradycardia-dependent patterns are reported to be more frequent than in non-TAVR patients.3 Similarly, intermittent, bradycardia-dependent AV block after TAVR may also occur more commonly than previously recognized.",
+    "summary": "This is a retrospective observational review noting that bradycardia-dependent atrioventricular block occurs in approximately 79.4% of patients who develop intermittent left bundle branch block after TAVR, and such conduction abnormalities appear more frequent in TAVR patients than in non-TAVR populations, suggesting this complication may be underrecognized in clinical practice."
+  },
+  {
+    "title": "Peripheral endothelialization progression on fluoropolymer-coated left atrial appendage closure devices: Does device position influence healing?",
+    "link": "https://doi.org/10.1016/j.hrcr.2025.11.005",
+    "doi": "10.1016/j.hrcr.2025.11.005",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "The extent of endothelialization of left atrial appendage closure (LAAC) devices is a key determinant of thrombotic risk, particularly device-related thrombus (DRT) formation. Although animal models suggest that fluoropolymer (FP)-coated devices accelerate endothelial coverage and reduce thrombogenicity, clinical evidence remains limited. In particular, human data directly characterizing the extent, timing, and pattern of coverage are sparse, leaving the clinical relevance of FP-related acceleration unresolved.",
+    "summary": "This retrospective observational study examines endothelialization patterns of left atrial appendage closure devices in humans, noting that while animal models suggest fluoropolymer-coated devices accelerate endothelial coverage and reduce device-related thrombus formation, direct clinical evidence characterizing the extent, timing, and pattern of coverage in patients remains limited. The authors aim to clarify the clinical relevance of fluoropolymer coating in reducing thrombotic complications, though specific sample size and key results are not provided in this abstract excerpt."
+  },
+  {
+    "title": "Preparing for the long road: Insights from the first few steps!",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.04.001",
+    "doi": "10.1016/j.hrcr.2026.04.001",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Feasibility of the \u201chalf-ring\u201d technique of the circular array pulsed field ablation catheter to treat non-pulmonary vein foci in the vicinity of the conduction system",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.01.026",
+    "doi": "10.1016/j.hrcr.2026.01.026",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transient chronotropic incompetence owing to sinus node modification after superior vena cava isolation \u2013 A rare complication",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.02.008",
+    "doi": "10.1016/j.hrcr.2026.02.008",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Delayed coronary vasospasm after pulsed field ablation for pulmonary vein isolation despite avoidance of coronary-adjacent ablation sites",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.02.009",
+    "doi": "10.1016/j.hrcr.2026.02.009",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cardiac sarcoidosis presenting as sustained ventricular tachycardia mimicking arrhythmogenic right ventricular cardiomyopathy",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.02.005",
+    "doi": "10.1016/j.hrcr.2026.02.005",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A successful retrieval of a guidewire entrapped in the sigmoid sinus",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.01.022",
+    "doi": "10.1016/j.hrcr.2026.01.022",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left bundle branch pacing optimized right ventricular resynchronization in a patient with severe right ventricular dilatation",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.02.010",
+    "doi": "10.1016/j.hrcr.2026.02.010",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Cardiac resynchronization therapy (CRT) is an effective treatment for patients with left bundle branch block (LBBB) and left ventricular (LV) dyssynchrony. Left bundle branch area pacing (LBBAP) has recently emerged as a promising physiological alternative to conventional right ventricular pacing (RVP) and CRT [1,2], but may lead to significant right ventricular (RV) dyssynchrony, which might affect clinical outcomes in a specific group of patients [3]. Here, we present a case of successful right ventricular cardiac resynchronization therapy (RV-CRT) achieved by combining LBB pacing (LBBP) with RV lateral wall pacing to restore ventricular synchrony in a patient with intermittent atrioventricular (AV) conduction disease and severe RV dilatation due to an unrepaired atrial septal defect.",
+    "summary": "This case report describes successful biventricular resynchronization achieved by combining left bundle branch area pacing with right ventricular lateral wall pacing in a patient with intermittent atrioventricular conduction disease and severe RV dilatation from an unrepaired atrial septal defect, demonstrating that hybrid LBBAP-RV pacing may restore ventricular synchrony in select patients where conventional CRT strategies are suboptimal."
   },
   {
     "title": "Sensor detection and pacing for impending reflex syncope",
@@ -5872,361 +6245,6 @@
     "journal": "JACC: Clinical EP",
     "date": "Apr 18, 2026",
     "date_ts": 1776474973.13706,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Biophysical Characterization of a Novel <em>KCNJ</em>8 Rare Variant Linked With Inherited and Acquired J Wave Syndrome",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001350?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 18, 2026",
-    "date_ts": 1776474973.137028,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Effect of Heparinization Practices on the Incidence of Deep Vein Thrombosis in Pediatric Ablations",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002501?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 18, 2026",
-    "date_ts": 1776474973.136994,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Retained Wire Techniques in Lead Extraction: Leading the Way or Leading Astray?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002550?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 18, 2026",
-    "date_ts": 1776474973.136963,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Recurrent Malignant Ventricular Arrhythmias Due to Coronary Vasospasm: A Case for Secondary Prevention ICD Implantation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002495?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 18, 2026",
-    "date_ts": 1776474973.136926,
-    "tags": [
-      "VT",
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Keeping Score: Utility of Atrial Fibrillation Polygenic Risk Scores in Nonischemic Cardiomyopathy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002574?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 18, 2026",
-    "date_ts": 1776474973.136887,
-    "tags": [
-      "AFib",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Long-Term Outcomes of Left Atrial Appendage Occlusion vs Direct Oral Anticoagulants in Patients With Atrial Fibrillation and Prior Ischemic Stroke: A Propensity-Matched Analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002185?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 18, 2026",
-    "date_ts": 1776474973.136801,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Design and Rationale of the Pulse Field Ablation for Post-Infarction Ventricular Tachycardia: the ASCEND-VT Pilot Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600173X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 18, 2026",
-    "date_ts": 1776474972.991146,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Comparative analysis of hemolysis incidence across three different pulsed field ablation systems",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001741?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 18, 2026",
-    "date_ts": 1776474972.991085,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LB-525397-04 <strong>PROTON BEAM CARDIAC RADIOABLATION FOR REFRACTORY VENTRICULAR TACHYCARDIA: RESULTS FROM A FIRST-IN-HUMAN, PROSPECTIVE, NON-RANDOMIZED TRIAL</strong>",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021818?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 18, 2026",
-    "date_ts": 1776474972.830788,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LB-525395-01 <strong>A RANDOMIZED COMPARISON OF SUBCUTANEOUS IMPLANTABLE CARDIOVERTER-DEFIBRILLATOR IMPLANTATION WITH OR WITHOUT DEFIBRILLATION TESTING: THE PRIMARY RESULTS OF THE PRAETORIAN-DFT TRIAL</strong>",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021867?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 18, 2026",
-    "date_ts": 1776474972.83075,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LB-525395-02 <strong><em>LEAP2</em>: A FIRST-IN-HUMAN STUDY OF A CHRONICALLY-IMPLANTED NOVEL LEADLESS PACEMAKER FOR CONDUCTION SYSTEM PACING</strong>",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021879?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 18, 2026",
-    "date_ts": 1776474972.830716,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LB-525397-02 <strong>CATHETER ABLATION VERSUS ANTI-ARRHYTHMIC DRUGS FOR VENTRICULAR TACHYCARDIA IN ISCHAEMIC AND NON-ISCHAEMIC CARDIOMYOPATHY: RESULTS FROM THE CAAD-VT MULTI-CENTRE RANDOMIZED CONTROLLED TRIAL</strong>",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602179X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 18, 2026",
-    "date_ts": 1776474972.830673,
-    "tags": [
-      "VT",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LB-525395-03 <strong>SAFETY AND EFFICACY OF A NOVEL ICD LEAD FOR LEFT BUNDLE BRANCH AREA PACING: RESULTS FROM THE ASCEND CSP TRIAL</strong>",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021880?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 18, 2026",
-    "date_ts": 1776474972.830631,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LB-525395-04 <strong>REAL-WORLD EXPERIENCE WITH THE EXTRAVASCULAR ICD THROUGH ONE YEAR FROM THE ENLIGHTEN POST-APPROVAL REGISTRY STUDY</strong>",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021892?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 18, 2026",
-    "date_ts": 1776474972.830588,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LB-525397-01 <strong>EFFECTIVENESS AND SAFETY OF ULTRA-LOW TEMPERATURE ABLATION OF VENTRICULAR TACHYCARDIA IN PATIENTS WITH STRUCTURAL HEART DISEASE: OUTCOMES OF THE PIVOTAL FULCRUM-VT TRIAL</strong>",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021788?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 18, 2026",
-    "date_ts": 1776474972.83054,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LB-525397-03 <strong>EARLY U.S. EXPERIENCE WITH CATHETER ABLATION OF VENTRICULAR ARRHYTHMIAS WITH A DUAL-ENERGY LATTICE-TIP CATHETER</strong>",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021806?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 18, 2026",
-    "date_ts": 1776474972.830343,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sudden Cardiac Arrest in Athletes",
-    "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2602083?af=R&rss=currentIssue",
-    "doi": "10.1056/NEJMc2602083",
-    "journal": "NEJM",
-    "date": "Apr 17, 2026",
-    "date_ts": 1776388957.369128,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Resynchronization Effect in Left Bundle Branch Pacing Can be Evaluated Non\u2010Invasively With the Implementation of Lead V8",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70336?af=R",
-    "doi": "10.1111/jce.70336",
-    "journal": "J Cardiovasc EP",
-    "date": "Apr 17, 2026",
-    "date_ts": 1776402463.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Left bundle branch area pacing (LBBAP) is increasingly being used for cardiac resynchronization therapy (CRT); however an additional left ventricular (LV) lead is required when resynchronization remains incomplete. This study evaluates whether lead V8 can provide a simple, non\u2010invasive marker of persistent posterolateral LV delay during LBBAP.\n                  \n                  \n                    Methods\n                    Consecutive patients undergoing LOT\u2010CRT implantation were included. Standard 12\u2010lead ECGs were obtained with the V5 electrode repositioned to the V8 location. Local activation time was measured as the steepest negative downslope of the QRS (negative derivative activation time, NDAT) and compared with the LV electrical delay (LVED) determined from the LV lead during LBBAP.\n                  \n                  \n                    Results\n                    \n                      Thirty consecutive patients undergoing LOT\u2010CRT implantation were included with a total of 106 ECG recordings with corresponding LVED measurements. The NDAT\u2010V8 demonstrated a strong correlation with the LVED during intrinsic conduction (\n                      r\n                      \u2009=\u20090.95) and during all LBB pacing subtypes: combined\n                      r\n                      \u2009=\u20090.922; mean difference 2.5\u2009\u00b1\u20098\u2009ms; RV septal pacing,\n                      r\n                      \u2009=\u20090.89; LV septal pacing,\n                      r\n                      \u2009=\u20090.92; non\u2010selective LBBP,\n                      r\n                      \u2009=\u20090.91; and selective LBBP,\n                      r\n                      \u2009=\u20090.81. The correlation of LVED during intrinsic conduction and all LBBAP pacing subtypes was significantly weaker for NDAT\u2010V6 and the RWPT in V6 and V8 (\n                      r\n                      \u2009=\u20090.681, 0.626, and 0.726, respectively).\n                    \n                  \n                  \n                    Conclusion\n                    The NDAT\u2010V8 provides a reliable non\u2010invasive surrogate for the LV posterolateral wall delay during LBBAP, outperforming NDAT\u2010V6 and the RWPT in V6 and V8 and establishes the groundwork for future studies evaluating NDAT\u2010V8 as a tool to guide adequate resynchronization during LBBAP.",
-    "summary": "This prospective observational study of 30 patients (106 ECG recordings) demonstrates that negative derivative activation time measured at the V8 electrode position (NDAT-V8) strongly correlates with left ventricular electrical delay during left bundle branch area pacing (r=0.81-0.95 across pacing subtypes), providing a simple non-invasive ECG marker to assess posterolateral LV delay and guide the need for additional LV lead placement during cardiac resynchronization therapy."
-  },
-  {
-    "title": "Vein of Marshall Ethanol Infusion in Atrial Fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001428?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 17, 2026",
-    "date_ts": 1776388956.080069,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Peak frequency analysis to identify critical isthmus distribution for adenosine triphosphate-sensitive atrial tachycardia",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001716?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 17, 2026",
-    "date_ts": 1776388955.980041,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Contact-Force-Sensing-Based Radiofrequency Catheter Ablation in Paroxysmal Supraventricular Tachycardias (COBRA-PATH): a randomized controlled trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001728?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 17, 2026",
-    "date_ts": 1776388955.979979,
-    "tags": [
-      "VT",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LB-525396-03 <strong>SAFETY AND EFFECTIVENESS OF A DUAL-ENERGY FOCAL ABLATION CATHETER TO TREAT PAROXYSMAL ATRIAL FIBRILLATION: 6-MONTH RESULTS OF THE FLEXPULSE IDE STUDY</strong>",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021843?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 17, 2026",
-    "date_ts": 1776388955.692829,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LB-525393-03 <strong>RE-DEFINING A CORNERSTONE STRATEGY FOR PERSISTENT ATRIAL FIBRILLATION ABLATION: THREE-YEAR OUTCOMES FROM A MULTICENTER RANDOMIZED CONTROL STUDY (THE EXT STUDY)</strong>",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021764?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 17, 2026",
-    "date_ts": 1776388955.692794,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LB-525394-04 <strong>DISTRIBUTION OF ATRIAL FIBRILLATION BURDEN, RELATION TO OUTCOMES, AND EFFECTIVENESS AND SAFETY OF ANTICOAGULATION BASED ON DEVICE REPORTS: THE NOAH-AFNET 6 TRIAL</strong>",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021934?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 17, 2026",
-    "date_ts": 1776388955.692756,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Practice Patterns for Anticoagulation Monitoring Post Successful Typical Flutter Ablation and Related Outcomes: An ITHACA-Database Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022526?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 17, 2026",
-    "date_ts": 1776388955.692721,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LB-525396-01 <strong>A PROSPECTIVE RANDOMIZED MULTICENTER GLOBAL STUDY COMPARING PULSED FIELD ABLATION VERSUS ANTI-ARRHYTHMIC DRUG THERAPY AS A FIRST-LINE TREATMENT FOR PERSISTENT ATRIAL FIBRILLATION (AVANT GUARD)</strong>",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602182X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 17, 2026",
-    "date_ts": 1776388955.692682,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Predictive value of early recurrence after atrial fibrillation ablation: a propensity matched comparison between pulsed field ablation and radiofrequency ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022538?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 17, 2026",
-    "date_ts": 1776388955.692647,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LB-525394-02 <strong>COGNITIVE FUNCTION AND ANTICOAGULATION DISCONTINUATION IN PATIENTS WITHOUT LONG-TERM RECURRENCE AFTER CATHETER ABLATION FOR ATRIAL FIBRILLATION: A SUBSTUDY OF THE ALONE-AF TRIAL</strong>",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021910?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 17, 2026",
-    "date_ts": 1776388955.692607,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Trajectories of Coronary Sinus Pacing Cathode to Predict Cardiac Resynchronization Therapy Outcome: the TRAJECTORIES study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022605?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 17, 2026",
-    "date_ts": 1776388955.692549,
     "tags": [
       "Devices"
     ],
