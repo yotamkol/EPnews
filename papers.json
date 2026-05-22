@@ -1,5 +1,93 @@
 [
   {
+    "title": "Atrial Fibrillation and Rhythm Control: Another Win in Chronic Kidney Disease",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726062054?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 22, 2026",
+    "date_ts": 1779415560.085489,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Population-Based Analysis of Rare Genetic Variants in Sudden Cardiac Arrest",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002598?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 22, 2026",
+    "date_ts": 1779415559.10931,
+    "tags": [
+      "SCD",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "From Statistical Enrichment to Clinical Attribution in Sudden Cardiac Arrest",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003695?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 22, 2026",
+    "date_ts": 1779415559.109272,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Ventricular Pacing\u2013Triggered Echo Beats via a Decremental Concealed Fasciculoventricular Pathway: Diagnosed on Surface Electrocardiogram",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600366X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 22, 2026",
+    "date_ts": 1779415559.109226,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "SonR Signal Dynamics Reflect Heart Failure Status in Non\u2013LBBB After CRT-D",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003683?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 22, 2026",
+    "date_ts": 1779415559.109173,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Artificial intelligence for atrial fibrillation episode classification: concerns on interpretation and validation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002199?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "May 22, 2026",
+    "date_ts": 1779415559.010623,
+    "tags": [
+      "AFib",
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Adolescent Cardiorespiratory Fitness and the Trade-Off Between Atrial Fibrillation Risk and Cardiovascular Benefits: A Nationwide Sibling-Controlled Cohort Study",
+    "link": "https://doi.org/10.1161/circulationaha.125.078250",
+    "doi": "10.1161/circulationaha.125.078250",
+    "journal": "Circulation",
+    "date": "May 21, 2026",
+    "date_ts": 1779321600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    Young athletes and adolescents with high cardiorespiratory fitness appear to have a higher risk of atrial fibrillation (AF), but the extent to which this reflects causal effects or shared genetic, behavioral, and environmental factors remains uncertain.\n                  \n                  \n                    METHODS:\n                    This cohort study with sibling control analysis comprised Swedish men who participated in mandatory military conscription examinations from 1972 to 1995 and completed cardiorespiratory fitness testing. The outcomes were AF and non-AF cardiovascular disease (CVD; eg, stroke and ischemic heart disease), defined as a composite end point of diagnosis or death in the National Patient Register and the Cause of Death Register, until December 31, 2023. Flexible parametric regressions estimated standardized cumulative risk differences (RDs) by deciles of fitness.\n                  \n                  \n                    RESULTS:\n                    Among 1\u2009124 \u2009049 men (mean age, 18.3 years), 45\u2009179 (4.0%) experienced an AF event and 96\u2009404 (8.6%) had a non-AF CVD event at a median age of 54.8 and 54.4 years. In population-wide analysis controlling for measured confounders, compared with the lowest decile of fitness, the highest decile had a small excess in AF that exceeded the reduction in non-AF CVD during early adulthood, whereas the reduction in non-AF CVD became larger from 45 years of age onwards. In full-sibling comparisons controlling for shared familial factors, the age-dependent trade-off disappeared entirely, leaving no age window with a net cardiovascular disadvantage. Already from 35 years of age, the reduction in non-AF CVD was larger (RD, \u22120.11% [95% CI, \u22120.21% to \u22120.01%]) than the excess in AF (RD, 0.06% [95% CI, \u22120.01% to 0.12%]). By 65 years of age, the gap further widened, with an even larger reduction in non-AF CVD (RD, \u22123.91% [95% CI, \u22125.40% to \u22122.42%]) compared with the excess in AF (RD, 2.30% [95% CI, 1.15%\u20133.45%]).\n                  \n                  \n                    CONCLUSIONS:\n                    High adolescent cardiorespiratory fitness is associated with a small excess in AF risk during early adulthood that is outweighed by larger reductions in non-AF CVD after controlling for familial confounders. These findings support population-level efforts to improve youth cardiorespiratory fitness and provide reassurance about the safety and benefits of high fitness levels.",
+    "summary": "This cohort study of 1,124,049 Swedish men from military conscription (1972-1995) with sibling-control analysis examined whether high cardiorespiratory fitness in adolescence causally increases atrial fibrillation (AF) risk. While population-wide analysis showed a small excess AF risk in the highest fitness decile during early adulthood, sibling comparison controlling for shared familial factors eliminated this association, revealing that high fitness provides net cardiovascular benefit through substantially reduced non-AF CVD risk that increasingly outweighs modest AF excess with advancing age."
+  },
+  {
     "title": "A functional\u2013anatomic mapping protocol for cardioneuroablation: A mechanistic case series",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000668?dgcid=rss_sd_all",
     "doi": null,
@@ -313,6 +401,20 @@
     "hot": false,
     "abstract": "Importance\n                    Since 2018, the Resuscitation Quality Improvement (RQI) program to enhance cardiopulmonary resuscitation (CPR) training and skill retention has expanded to many US hospitals.\n                  \n                  \n                    Objective\n                    To evaluate whether adoption of the RQI program is associated with higher in-hospital cardiac arrest (IHCA) survival, compared with control (non-RQI) hospitals.\n                  \n                  \n                    Design, Setting, and Participants\n                    This cohort study included 237 US hospitals participating in Get With The Guidelines\u2013Resuscitation registry between 2017 and 2023. Control hospitals were uniquely matched to an RQI hospital if they had a 2-year risk-standardized survival rate (RSSR) to discharge for IHCA that was within 1% of the RQI hospital\u2019s RSSR during the 2-year preintervention period before RQI adoption, and if both had annual IHCA case volume within 50 cases of each other. Hierarchical models were used to conduct a difference-in-differences analysis to compare the 2-year postintervention vs 2-year preintervention IHCA survival rates at RQI vs control hospitals. Analyses were conducted from December 12, 2024, to October 6, 2025.\n                  \n                  \n                    Exposure\n                    Hospital adoption of RQI program.\n                  \n                  \n                    Main Outcomes and Measures\n                    RSSR to hospital discharge and return of spontaneous circulation (ROSC).\n                  \n                  \n                    Results\n                    \n                      Of 237 hospitals, 107 control hospitals were matched to 18 RQI hospitals (5 adopted RQI in 2019, 8 in 2020, and 5 in 2021), constituting a total of 49\u202f870 IHCAs. Mean (SD) RSSR to hospital discharge at RQI hospitals decreased from 25.3% (3.5%) in the preintervention period to 21.2% (3.8%) in the postintervention period, whereas mean (SD) RSSR at control hospitals decreased from 25.0% (2.9%) to 21.5%\u2009(4.4%). When postintervention vs preintervention survival rates were compared between the groups, RQI adoption was not associated with improvements in survival to discharge (difference-in-differences adjusted odds ratio [OR], 0.95 [95% CI, 0.81-1.10];\n                      P\n                      \u2009=\u2009.48). For ROSC, mean (SD) RSSR at RQI hospitals decreased from 73.4% (5.7%) in the preintervention period to 69.1% (5.1%) in the postintervention period, whereas it decreased from 70.9% (6.9%) to 69.1% (7.5%) at control hospitals. When postintervention vs preintervention ROSC rates were compared, RQI adoption was not associated with higher rates of ROSC (difference-in-differences adjusted OR, 0.98 [95% CI, 0.81-1.18];\n                      P\n                      \u2009=\u2009.85).\n                    \n                  \n                  \n                    Conclusions and Relevance\n                    In this cohort study using a national registry of IHCA data, compared with control hospitals, hospital adoption of the RQI program was not associated with improved rates of survival to discharge or ROSC in the 2 years after implementation. These findings suggest that a program focused solely on CPR delivery may not be sufficient to improve IHCA survival.",
     "summary": "This cohort study of 237 US hospitals (18 RQI-adopting and 107 matched controls) from the Get With The Guidelines\u2013Resuscitation registry (2017-2023) using difference-in-differences analysis found that adoption of the Resuscitation Quality Improvement program was not associated with improved survival to discharge (adjusted OR 0.95; P=0.48) or return of spontaneous circulation (adjusted OR 0.98; P=0.85) following in-hospital cardiac arrest in the 2-year postintervention period compared to control hospitals. The authors conclude that CPR training programs alone may be insufficient to improve IHCA outcomes without additional intervent"
+  },
+  {
+    "title": "Successful Use of Ranolazine in SCN5A p.R222Q\u2013Related Multifocal Ectopic Purkinje\u2010Related Premature Contractions",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70371?af=R",
+    "doi": "10.1111/jce.70371",
+    "journal": "J Cardiovasc EP",
+    "date": "May 20, 2026",
+    "date_ts": 1779302437.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Gain\u2010of\u2010function variants in SCN5A may cause multifocal ectopic Purkinje\u2010related premature contractions (MEPPC), with a high premature ventricular contraction burden that may lead to PVC\u2010induced cardiomyopathy. Pharmacological therapy is usually required, as catheter ablation is ineffective because of the multifocal origin of the ectopy.\n                  \n                  \n                    Methods and Results\n                    We report two siblings with the pathogenic SCN5A p.Arg222Gln variant. In both, ranolazine markedly suppressed ventricular ectopy, improved or preserved left ventricular function, and enabled amiodarone withdrawal.\n                  \n                  \n                    Conclusion\n                    Ranolazine may represent a useful mechanism\u2010guided option for SCN5A\u2010related MEPPC.",
+    "summary": "This case report describes two siblings with a pathogenic SCN5A gain-of-function variant causing multifocal ectopic Purkinje-related premature contractions, demonstrating that ranolazine effectively suppressed ventricular ectopy, improved left ventricular function, and allowed amiodarone discontinuation in both patients, suggesting ranolazine as a potential mechanism-guided therapy for this genetic arrhythmia substrate."
   },
   {
     "title": "Clinical Validation of an <em>In-Silico</em> Pace Mapping Approach to Localize both Focal and Reentrant Ventricular Arrhythmias in Patients with Structural Heart Disease",
@@ -6145,102 +6247,6 @@
     "tags": [
       "SCD",
       "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Obesity promotes atrial fat deposition independent of myocardial infarction in G\u00f6ttingen minipigs",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000346?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 21, 2026",
-    "date_ts": 1776734546.977445,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A framework for developing successful academic-industry partnerships for cardiovascular innovations",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501825005860?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 21, 2026",
-    "date_ts": 1776734546.977392,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical evaluation of a spot-check ECG for the diagnosis of atrial fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000188?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 21, 2026",
-    "date_ts": 1776734546.977363,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Self-supervised contrastive learning enables robust electrocardiogram-based cardiac classification",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000280?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 21, 2026",
-    "date_ts": 1776734546.97733,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Identifying hidden medical complexity in cardiovascular care: A large language model approach to evaluation and management coding and documentation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000292?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 21, 2026",
-    "date_ts": 1776734546.977295,
-    "tags": [
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "OPTIA-AF trial: A randomized study of rhythm-guided antithrombotic strategy after atrial fibrillation ablation in patients with prior drug-eluting stent implantation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000577?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 21, 2026",
-    "date_ts": 1776734546.977259,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Complex signal identification as a marker of left atrial remodeling and very early recurrence after atrial fibrillation ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000243?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 21, 2026",
-    "date_ts": 1776734546.977225,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Estimated longevity of contemporary subcutaneous implantable cardioverter-defibrillators: Multicenter real-world data",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000322?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 21, 2026",
-    "date_ts": 1776734546.977192,
-    "tags": [
-      "Devices"
     ],
     "hot": false
   }
