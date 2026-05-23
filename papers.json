@@ -1,5 +1,103 @@
 [
   {
+    "title": "Adapter Sink to Reduce Air Bubbles During Pulsed Field Ablation: An Ex Vivo Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004354?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 23, 2026",
+    "date_ts": 1779501296.202659,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "High-Voltage Pulsed Field Ablation: Novel Strategy for Redo Ventricular Tachycardia Ablation in Nonischemic Cardiomyopathy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003713?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 23, 2026",
+    "date_ts": 1779501296.202618,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed Field Ablation of an Electrically Active Left Superior Vena Cava Draining Into the Left Atrium",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004238?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "May 23, 2026",
+    "date_ts": 1779501296.202537,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Gut Microbiota\u2013Atrium Axis: Microbiota Metabolite-Mediated Regulation of the NLRP3 Inflammasome in Atrial Fibrillation\u2014Pathophysiological Roles and Therapeutic Perspectives",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002229?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "May 23, 2026",
+    "date_ts": 1779501296.116813,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Author's reply to Artificial intelligence for atrial fibrillation episode classification: concerns on interpretation and validation.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002205?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "May 23, 2026",
+    "date_ts": 1779501296.116776,
+    "tags": [
+      "AFib",
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A Practical Lead Exchange Technique Without Additional Venous Puncture in the Era of Conduction System Pacing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002217?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "May 23, 2026",
+    "date_ts": 1779501296.116736,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Refining Left Bundle Branch Block Criteria for Improved Left Bundle Branch Area Pacing Response in Heart Failure",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002011?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "May 23, 2026",
+    "date_ts": 1779501296.116666,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Progression of persistent atrial fibrillation and impact of ablation: A systematic review and meta-analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022617?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 23, 2026",
+    "date_ts": 1779501295.89505,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Atrial Fibrillation and Rhythm Control: Another Win in Chronic Kidney Disease",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726062054?dgcid=rss_sd_all",
     "doi": null,
@@ -86,6 +184,20 @@
     "hot": false,
     "abstract": "BACKGROUND:\n                    Young athletes and adolescents with high cardiorespiratory fitness appear to have a higher risk of atrial fibrillation (AF), but the extent to which this reflects causal effects or shared genetic, behavioral, and environmental factors remains uncertain.\n                  \n                  \n                    METHODS:\n                    This cohort study with sibling control analysis comprised Swedish men who participated in mandatory military conscription examinations from 1972 to 1995 and completed cardiorespiratory fitness testing. The outcomes were AF and non-AF cardiovascular disease (CVD; eg, stroke and ischemic heart disease), defined as a composite end point of diagnosis or death in the National Patient Register and the Cause of Death Register, until December 31, 2023. Flexible parametric regressions estimated standardized cumulative risk differences (RDs) by deciles of fitness.\n                  \n                  \n                    RESULTS:\n                    Among 1\u2009124 \u2009049 men (mean age, 18.3 years), 45\u2009179 (4.0%) experienced an AF event and 96\u2009404 (8.6%) had a non-AF CVD event at a median age of 54.8 and 54.4 years. In population-wide analysis controlling for measured confounders, compared with the lowest decile of fitness, the highest decile had a small excess in AF that exceeded the reduction in non-AF CVD during early adulthood, whereas the reduction in non-AF CVD became larger from 45 years of age onwards. In full-sibling comparisons controlling for shared familial factors, the age-dependent trade-off disappeared entirely, leaving no age window with a net cardiovascular disadvantage. Already from 35 years of age, the reduction in non-AF CVD was larger (RD, \u22120.11% [95% CI, \u22120.21% to \u22120.01%]) than the excess in AF (RD, 0.06% [95% CI, \u22120.01% to 0.12%]). By 65 years of age, the gap further widened, with an even larger reduction in non-AF CVD (RD, \u22123.91% [95% CI, \u22125.40% to \u22122.42%]) compared with the excess in AF (RD, 2.30% [95% CI, 1.15%\u20133.45%]).\n                  \n                  \n                    CONCLUSIONS:\n                    High adolescent cardiorespiratory fitness is associated with a small excess in AF risk during early adulthood that is outweighed by larger reductions in non-AF CVD after controlling for familial confounders. These findings support population-level efforts to improve youth cardiorespiratory fitness and provide reassurance about the safety and benefits of high fitness levels.",
     "summary": "This cohort study of 1,124,049 Swedish men from military conscription (1972-1995) with sibling-control analysis examined whether high cardiorespiratory fitness in adolescence causally increases atrial fibrillation (AF) risk. While population-wide analysis showed a small excess AF risk in the highest fitness decile during early adulthood, sibling comparison controlling for shared familial factors eliminated this association, revealing that high fitness provides net cardiovascular benefit through substantially reduced non-AF CVD risk that increasingly outweighs modest AF excess with advancing age."
+  },
+  {
+    "title": "Nifekalant\u2013Magnesium Cocktail for Chemical Cardioversion of Atrial Flutter: A Multicenter Pilot Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70301?af=R",
+    "doi": "10.1111/pace.70301",
+    "journal": "PACE",
+    "date": "May 21, 2026",
+    "date_ts": 1779354974.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Pharmacologic cardioversion of atrial flutter (AFL) remains challenging, particularly in older or frail patients who are not candidates for catheter ablation. Nifekalant is effective for AFL but is limited by QT prolongation and the risk of torsades de pointes (TdP). Magnesium sulfate may mitigate this risk.\n                  \n                  \n                    Methods\n                    In this multicenter, investigator\u2010initiated pilot study, 86 patients with symptomatic persistent AFL received intravenous magnesium sulfate followed by nifekalant. The primary outcome was AFL termination within 60 min. Time to termination and safety outcomes, including TdP, were assessed. Multivariable logistic regression analyses were performed to identify factors associated with AFL termination.\n                  \n                  \n                    Results\n                    AFL terminated in 42 patients (48.8%). Among patients with successful cardioversion, 80% achieved termination within 20 min. Larger left atrial diameter was associated with a lower likelihood of AFL termination. Adverse events occurred in 2 patients (2.3%), including sinus pauses requiring pacemaker implantation and transient hypotension requiring vasopressor support. No cases of TdP were observed.\n                  \n                  \n                    Conclusions\n                    These findings suggest that the nifekalant\u2013magnesium cocktail may be a feasible and potentially safe option for chemical cardioversion of AFL, warranting further investigation in larger studies.",
+    "summary": "This pilot study (n=86) evaluated intravenous magnesium sulfate followed by nifekalant for pharmacologic cardioversion of persistent atrial flutter, demonstrating AFL termination in 48.8% of patients with no cases of torsades de pointes, suggesting this combination may be a safer alternative to nifekalant monotherapy for patients ineligible for ablation, though larger RCTs are needed to confirm efficacy and safety."
   },
   {
     "title": "A functional\u2013anatomic mapping protocol for cardioneuroablation: A mechanistic case series",
@@ -6136,118 +6248,5 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Vascular closure devices, used for the percutaneous closure of the femoral venous access\u2010sites following electrophysiology (EP) procedures, are known to require shorter time to hemostasis compared to manual compression. The new VASCADE MVP_XL (Haemonetics Corp., USA) was designed for procedures utilizing large procedural sheaths, with a resorbable patch with 58% higher collagen content than the earlier VASCADE\u2010MVP system, for better efficacy.\n                  \n                  \n                    Objective\n                    We aimed to compare the safety and efficacy of VASCADE MVP\u2010XL and VASCADE MVP in consecutive patients with atrial fibrillation (AF) undergoing procedures utilizing large sheaths (i.e. Farapulse pulsed\u2010field ablation and left atrial appendage closure procedure).\n                  \n                  \n                    Methods\n                    \n                      Based on the device used to achieve access\u2010site hemostasis, AF patients undergoing EP procedures were classified into group 1: MVP\u2010XL (\n                      n\n                      \u2009=\u2009151) and group 2: MVP (\n                      n\n                      \u2009=\u2009423). The closure device was deployed under ultrasound guidance and included 2\u20134\u2009min of gentle compression followed by approximately 2\u2009h of bedrest. Fluoroscopy was used for proper positioning and accurate deployment of the collagen patch. All procedures were conducted under uninterrupted anticoagulation. The access\u2010sites were examined immediately after the procedure, after the 2\u2009h bed\u2010rest and before discharge.\n                    \n                  \n                  \n                    Results\n                    Baseline characteristics were similar between the groups except the procedure type (Watchman) and rivaroxaban use.\n                    \n                      Time to final sheath pull, time to ambulation and time to discharge were similar between the groups. Access\u2010site bleeding occurred in 13 patients (3.1%) in the MVP group versus none (0%) in the MVP\u2010XL group (\n                      p\n                      \u2009=\u20090.029). Time to hemostasis was significantly shorter in the MVP\u2010XL group.\n                    \n                  \n                  \n                    Conclusion\n                    VASCADE MVP\u2010XL has a better safety and efficacy profile compared to the VASCADE\u2010MVP system, especially in procedures involving large sheaths.",
     "summary": "This retrospective observational study (n=574; MVP-XL n=151, MVP n=423) compared two vascular closure devices in AF patients undergoing large-sheath EP procedures, finding that VASCADE MVP-XL demonstrated superior efficacy with significantly shorter time to hemostasis and reduced access-site bleeding (0% vs 3.1%, p=0.029) compared to VASCADE MVP. Clinical outcomes including time to ambulation and discharge were similar between groups."
-  },
-  {
-    "title": "Impact of Right Superior Pulmonary Vein Anatomy and 31\u2010mm Cryoballoon Use on the Risk of Phrenic Nerve Injury During Cryoablation for Atrial Fibrillation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70351?af=R",
-    "doi": "10.1111/jce.70351",
-    "journal": "J Cardiovasc EP",
-    "date": "Apr 21, 2026",
-    "date_ts": 1776748209.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Phrenic nerve injury (PNI) is a common complication of cryoballoon pulmonary vein isolation, especially during right superior pulmonary vein (RSPV) ablation. The impact of a newly introduced size\u2010adjustable 31\u2010mm cryoballoon on PNI and its anatomical predictors remain unclear.\n                  \n                  \n                    Methods and Results\n                    \n                      This retrospective study included 249 patients who underwent first\u2010time cryoballoon ablation with successful RSPV isolation: 153 with a conventional 28\u2010mm balloon and 96 with a size\u2010adjustable balloon in the 31\u2010mm configuration. Preprocedural computed tomography assessed RSPV anatomical features, including ostial diameters, cross\u2010sectional area, and the RSPV\u2013left atrium (LA) angle, defined as the angle between the RSPV and anterolateral LA wall on axial slices. The overall incidence of PNI did not differ between groups (28\u2010mm: 10%; 31\u2010mm: 15%;\n                      p\n                      \u2009=\u20090.330). However, persistent PNI, defined as dysfunction beyond the procedure, occurred only in the 28\u2010mm group (5%). Multivariate analysis showed that the RSPV\u2013LA angle independently predicted PNI in both groups (28\u2010mm: odds ratio 3.819, 95% confidence interval 1.825\u20137.926,\n                      p\n                      \u2009&lt;\u20090.001; 31\u2010mm: odds ratio 3.633, 95% confidence interval 1.538\u20138.594,\n                      p\n                      \u2009=\u20090.003). No other anatomical parameters showed consistent associations.\n                    \n                  \n                  \n                    Conclusion\n                    The RSPV\u2013LA angle is a robust anatomical predictor of PNI during RSPV cryoballoon ablation, regardless of balloon size. Use of the 31\u2010mm cryoballoon may help to reduce the risk of persistent PNI.",
-    "summary": "This retrospective study of 249 patients (153 with 28-mm and 96 with 31-mm size-adjustable cryoballoons) undergoing pulmonary vein isolation found that while overall phrenic nerve injury incidence was similar between groups (10% vs 15%), persistent PNI occurred only with the 28-mm balloon (5% vs 0%). The right superior pulmonary vein\u2013left atrium angle was an independent anatomical predictor of PNI in both groups, suggesting the 31-mm balloon may offer an advantage in preventing persistent nerve injury."
-  },
-  {
-    "title": "Single or multiple pulsed field applications: Intracardiac electrogram changes and implications for procedural end points",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000310?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 21, 2026",
-    "date_ts": 1776734546.977714,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Same day discharge can be performed safely after atrial fibrillation catheter ablation using a wide-footprint lattice-tip dual-energy system",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000279?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 21, 2026",
-    "date_ts": 1776734546.977681,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Zero- or minimal-fluoroscopy vs conventional fluoroscopy in catheter ablation of supraventricular tachycardias: An updated systematic review and meta-analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000206?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 21, 2026",
-    "date_ts": 1776734546.97765,
-    "tags": [
-      "VT",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sex-specific impact of body mass index on recurrence of atrial fibrillation after catheter ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600036X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 21, 2026",
-    "date_ts": 1776734546.977619,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Acute hemodynamic effects of a novel algorithm for cardiac resynchronization therapy optimization: Results from the BIO|Adapt study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600053X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 21, 2026",
-    "date_ts": 1776734546.977586,
-    "tags": [
-      "Devices",
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Safety, performance, and remote programming utilization of an insertable cardiac monitor: The LUX-Dx PERFORM study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000383?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 21, 2026",
-    "date_ts": 1776734546.977554,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "How to isolate the superior vena cava using balloon-in-basket pulsed field ablation system: Standardized workflow and initial results",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000267?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 21, 2026",
-    "date_ts": 1776734546.97752,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Spatiotemporal heterogeneity of activation alternans in cardiomyopathy: Implications for risk stratification with microvolt QRS alternans",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000231?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 21, 2026",
-    "date_ts": 1776734546.977483,
-    "tags": [
-      "SCD",
-      "Genetics"
-    ],
-    "hot": false
   }
 ]
