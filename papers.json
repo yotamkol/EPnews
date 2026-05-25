@@ -1,5 +1,19 @@
 [
   {
+    "title": "Endurance exercise remodels pulmonary vein sleeve myocytes and promotes a proarrhythmic atrial substrate",
+    "link": "https://doi.org/10.1093/eurheartj/ehag358",
+    "doi": "10.1093/eurheartj/ehag358",
+    "journal": "European Heart Journal",
+    "date": "May 25, 2026",
+    "date_ts": 1779667200.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    The risk of atrial fibrillation (AF) is higher in endurance athletes. Pulmonary vein isolation (PVI) is effective in this group, implicating pulmonary vein (PV) remodelling, but underlying mechanisms are unclear. This study investigated if endurance training remodels PV sleeves and the PV\u2013left atrial (LA) junction to promote PV triggers and a permissive peri-antral substrate for AF.\n                  \n                  \n                    Methods\n                    In canine and murine endurance-running models, in vivo PV\u2013LA mapping, ex vivo PV electrophysiology, intracellular action potential (AP) profiling with machine learning classification, histology, bulk RNA-seq, and subcellular-resolution spatial transcriptomics of PV\u2013LA tissue were performed. These findings were incorporated into biophysically detailed computer models of human PV cardiomyocytes and a 3D human LA.\n                  \n                  \n                    Results\n                    Training produced an athlete\u2019s heart phenotype and increased AF inducibility. In vivo, trained animals showed PV\u2013LA conduction slowing and increased rotational activity. Ex vivo, trained PVs showed enhanced \u03b2-adrenergically evoked firing, prolonged burst activity, and a higher proportion of pacemaker-like APs. Spatial transcriptomics revealed discrete PV myocyte subpopulations with training upregulated Hcn4, Cacna1d, and Cacna1g (enhancing automaticity), downregulated Scn5a and Gja1 (slowing conduction), and enriched profibrotic/inflammatory signalling (Tnf\u03b1, Il6) alongside fibroblast expansion and extracellular matrix deposition. In silico, these changes reproduced faster spontaneous PV firing and sustained re-entry.\n                  \n                  \n                    Conclusions\n                    Endurance training drives coupled electrical, structural, and inflammatory PV\u2013LA remodelling that provides both trigger and substrate for AF. These data support why PV-targeted strategies can be effective in athletic AF and nominate modifiable pathways including HCN4-linked automaticity and TNF\u03b1-associated signalling.",
+    "summary": "This mechanistic study using canine and murine endurance-running models with in vivo mapping, ex vivo electrophysiology, spatial transcriptomics, and computational modeling demonstrated that endurance training induces pulmonary vein\u2013left atrial remodeling characterized by upregulated automaticity genes (Hcn4, Cacna1d/g), downregulated conduction genes (Scn5a, Gja1), and enhanced profibrotic/inflammatory signaling, creating both ectopic triggers and permissive substrate for atrial fibrillation. These findings mechanistically explain the efficacy of pulmonary vein isolation in athletic AF and identify HC"
+  },
+  {
     "title": "Does Acute Response to Stellate Ganglion Block Predict Success of Cardiac Sympathetic Denervation? Preliminary Evidence",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002230?dgcid=rss_sd_all",
     "doi": null,
@@ -6237,18 +6251,6 @@
     "date_ts": 1776816000.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Letter by Luo et al Regarding Article, \u201cScreening-Detected Atrial Fibrillation and Cardiovascular Outcomes in Working-Age Adults\u201d",
-    "link": "https://doi.org/10.1161/circulationaha.125.077870",
-    "doi": "10.1161/circulationaha.125.077870",
-    "journal": "Circulation",
-    "date": "Apr 21, 2026",
-    "date_ts": 1776729600.0,
-    "tags": [
-      "AFib"
     ],
     "hot": false
   }
