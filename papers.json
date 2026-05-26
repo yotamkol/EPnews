@@ -2857,6 +2857,18 @@
     "hot": false
   },
   {
+    "title": "Electromagnetic interference safety margins of cardiac implantable electronic devices from electric vehicle charging stations",
+    "link": "https://doi.org/10.1093/europace/euag078",
+    "doi": "10.1093/europace/euag078",
+    "journal": "EP Europace",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Incidence and predictors of major arrhythmic events after myocarditis: a systematic review and meta-analysis",
     "link": "https://doi.org/10.1093/europace/euag102",
     "doi": "10.1093/europace/euag102",
@@ -6235,18 +6247,6 @@
     "link": "https://doi.org/10.1161/hae.0000000000000094",
     "doi": "10.1161/hae.0000000000000094",
     "journal": "Circ: Arrhythmia & EP",
-    "date": "Apr 22, 2026",
-    "date_ts": 1776816000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cardiac Implantable Electronic Device Malfunction after Pulsed Field Ablation \u2013 Insights from the MAUDE Database",
-    "link": "https://doi.org/10.1093/europace/euag092",
-    "doi": "10.1093/europace/euag092",
-    "journal": "EP Europace",
     "date": "Apr 22, 2026",
     "date_ts": 1776816000.0,
     "tags": [
