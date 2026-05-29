@@ -1,5 +1,67 @@
 [
   {
+    "title": "Arrhythmia Burden and Clinical Responses Under Continuous Monitoring in Heart Failure: Observations From the ALLEVIATE-HF Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726063473?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 29, 2026",
+    "date_ts": 1780020108.622124,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "What Is Looked for Is Found: Arrhythmia Detection in ALLEVIATE-HF",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726063588?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "May 29, 2026",
+    "date_ts": 1780020108.622028,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Improving Obstructive Sleep Apnea Screening in Patients with Atrial Fibrillation (SLEEP -AF Project)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002254?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "May 29, 2026",
+    "date_ts": 1780020107.458372,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Dual energy ablation for complex atrial flutter after heart transplantation",
+    "link": "https://doi.org/10.1093/eurheartj/ehag377",
+    "doi": "10.1093/eurheartj/ehag377",
+    "journal": "European Heart Journal",
+    "date": "May 28, 2026",
+    "date_ts": 1779926400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Tetralogy of Fallot: electrophysiology-guided surgical ablation during pulmonary valve replacement",
+    "link": "https://doi.org/10.1093/eurheartj/ehag329",
+    "doi": "10.1093/eurheartj/ehag329",
+    "journal": "European Heart Journal",
+    "date": "May 28, 2026",
+    "date_ts": 1779926400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Adults with repaired tetralogy of Fallot (TOF) face long-term risks of ventricular tachycardia (VT) and sudden cardiac death (SCD). There is no consensus on arrhythmia management during surgical pulmonary valve replacement (PVR). This study assessed whether pre-operative electrophysiological (EP) testing with targeted intraoperative cryoablation of identified anatomical isthmuses during PVR is associated with a reduction in post-operative VT inducibility and long-term risk of clinical VT/SCD.\n                  \n                  \n                    Methods\n                    In this prospective multicentre cohort study, consecutive adults with TOF undergoing surgical PVR (2005\u201322) underwent standardized pre-operative EP studies. Surgical ablation strategy (EP-guided vs empiric) was at the discretion of the treating team. Post-operative EP studies assessed residual inducibility; clinical VT/SCD were evaluated during follow-up.\n                  \n                  \n                    Results\n                    Among 204 patients (age 35.5 \u00b1 13.1 years, 43.1% female), 91 (45.1%) had inducible VT. Among those undergoing surgical ablation, post-operative VT was non-inducible in 74.1% with EP-guided vs 15.0% with empiric ablation [adjusted odds ratio 20.4, 95% confidence interval (CI) 4.5\u201391.8, P &amp;lt; .0001]. Persistent post-operative inducibility was associated with increased hazard of VT/SCD compared to patients without inducible VT pre-operatively [adjusted hazard ratio (HR) 5.3, 95% CI 1.8\u201316.0, P = .003], over a median 10.2-year follow-up. Compared to patients without inducible VT pre-operatively, empiric ablation was associated with a significantly higher hazard of VT/SCD (HR 5.2, 95% CI 1.6\u201316.5, P = .005), whereas EP-guided ablation was not (HR 2.8, 95% CI 0.8\u201310.3, P = .228).\n                  \n                  \n                    Conclusions\n                    In adults with repaired TOF undergoing PVR, inducible VT is common. An EP-guided surgical strategy is associated with greater post-operative non-inducibility and improved long-term arrhythmic outcomes compared with empiric ablation.",
+    "summary": "This prospective multicenter cohort study of 204 adults with repaired TOF undergoing pulmonary valve replacement found that EP-guided intraoperative cryoablation achieved post-operative VT non-inducibility in 74.1% of patients with pre-operative inducible VT compared to 15.0% with empiric ablation, and was associated with reduced long-term risk of clinical VT/SCD over 10 years of follow-up. EP-guided ablation strategy is superior to empiric ablation in eliminating post-operative arrhythmia inducibility and preventing long-term arrhythmic complications in this high-risk population."
+  },
+  {
     "title": "Editorial Board",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003737?dgcid=rss_sd_all",
     "doi": null,
@@ -989,6 +1051,21 @@
     "hot": false,
     "abstract": "Importance\n                    \n                      Calcium release deficiency syndrome (CRDS) is a recently described inherited arrhythmia caused by loss-of-function variants in the cardiac ryanodine receptor (\n                      RYR2\n                      ). Diagnosis currently requires in vitro functional testing and availability limits diagnosis; a recently proposed burst pacing provocation test offers a potential clinical diagnostic tool, but its performance remains to be validated.\n                    \n                  \n                  \n                    Objective\n                    To demonstrate how the novel CRDS provocation test can clinically establish the diagnosis in a family with unexplained sudden cardiac arrest and death.\n                  \n                  \n                    Design, Setting, and Participants\n                    This case series examines a 5-generation pedigree with clinical, genetic, and functional data conducted among a large French Canadian family with an extensive history of unexplained sudden cardiac arrest and death. The study was conducted at a multidisciplinary cardiac genetics clinic at a tertiary referral center in Canada. Data were gathered and analyzed from June 2024 through March 2025.\n                  \n                  \n                    Exposures\n                    Clinical provocation with burst pacing and/or spontaneous atrial or ventricular arrhythmia detected on ambulatory monitoring.\n                  \n                  \n                    Main Outcomes and Measures\n                    The primary outcome was diagnostic T-wave augmentation following burst pacing or spontaneous atrial or ventricular arrhythmia.\n                  \n                  \n                    Results\n                    \n                      In this case series, 5\n                      RYR2\n                      variant carriers (2 female [40%]; age range at first evaluation, 17-59 years) demonstrated diagnostic T-wave augmentation after pacing or spontaneous arrhythmia consistent with CRDS. Pause dependence was essential for diagnostic sensitivity. Functional studies of the novel RYR2-p.Glu336Gly variant confirmed that it results in loss of function. This appears to be the first such variant reported within a hot spot previously restricted to gain-of-function variants.\n                    \n                  \n                  \n                    Conclusions and Relevance\n                    This case series provides the first clinical application of the CRDS provocation test in a family with a history of unexplained sudden cardiac death. Findings underscore the diagnostic importance of pause dependence and highlight the need for improved risk stratification in CRDS.",
     "summary": "This case series of 5 RYR2 variant carriers from a French Canadian pedigree demonstrates that burst pacing provocation with assessment of pause-dependent T-wave augmentation can clinically diagnose calcium release deficiency syndrome (CRDS), a recently identified inherited arrhythmia syndrome causing sudden cardiac death. The study validates a novel diagnostic tool for CRDS and identifies a previously unreported loss-of-function RYR2 variant, emphasizing the importance of pause dependence in diagnostic sensitivity."
+  },
+  {
+    "title": "A Simplified Epicardial Ablation Strategy for Ventricular Tachycardia Integrating CT\u2010Derived Epicardial Adipose Tissue Into Three\u2010Dimensional Electroanatomic Mapping",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70382?af=R",
+    "doi": "10.1111/jce.70382",
+    "journal": "J Cardiovasc EP",
+    "date": "May 27, 2026",
+    "date_ts": 1779887246.0,
+    "tags": [
+      "VT",
+      "Imaging"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Epicardial adipose tissue (EAT) can attenuate electrograms and limit lesion formation during epicardial ventricular tachycardia (VT) ablation.\n                  \n                  \n                    Case Presentation\n                    We developed a simplified workflow using predefined CT attenuation values to integrate EAT into the CARTO 3 system. We applied this approach in three patients with dilated cardiomyopathy undergoing epicardial VT ablation, where EAT visualization guided target selection, avoided ineffective ablation, and informed alternative endocardial strategies.\n                  \n                  \n                    Discussion\n                    EAT\u2010integrated mapping improved the interpretation of epicardial substrates and influenced procedural decision\u2010making. This workflow may facilitate efficient assessment of epicardial ablation feasibility in complex VT cases.",
+    "summary": "This case series (n=3) describes a simplified CT-based workflow to visualize and integrate epicardial adipose tissue into electroanatomic mapping during epicardial ventricular tachycardia ablation in dilated cardiomyopathy patients, demonstrating improved substrate interpretation and procedural guidance. EAT visualization successfully identified regions refractory to epicardial ablation and informed alternative endocardial strategies, potentially enhancing procedural efficiency in complex cases."
   },
   {
     "title": "Single Antiplatelet Therapy vs Oral Anticoagulation Monotherapy in Patients With Atrial Fibrillation and Coronary Artery Disease After Successful Catheter Ablation: A Target Trial Emulation",
@@ -4209,6 +4286,30 @@
     "hot": false
   },
   {
+    "title": "Ablation of a persistent left superior vena cava using a balloon-in-basket PFA catheter",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.012",
+    "doi": "10.1016/j.hrcr.2026.05.012",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "An Unexpected Atypical Atriofascicular Pathway Presenting With Sudden Cardiac Arrest: Mechanistic Insights",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.013",
+    "doi": "10.1016/j.hrcr.2026.05.013",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
     "title": "Electromagnetic interference safety margins of cardiac implantable electronic devices from electric vehicle charging stations",
     "link": "https://doi.org/10.1093/europace/euag078",
     "doi": "10.1093/europace/euag078",
@@ -6138,107 +6239,5 @@
       "Devices"
     ],
     "hot": false
-  },
-  {
-    "title": "Stylet stabilization during left bundle branch area pacing",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712502538X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.121791,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Diaphragmatic hernia with a nonischemic electrocardiographic presentation of the spiked helmet sign",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125024622?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.121756,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "New-onset atrial fibrillation and history of ischemia-induced ventricular fibrillation indicate arrhythmic vulnerability during ST-elevation myocardial infarction",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030826?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.121716,
-    "tags": [
-      "AFib",
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reply\u2014 New-onset atrial fibrillation and history of ischemia-induced ventricular fibrillation indicate arrhythmic vulnerability during ST-elevation myocardial infarction",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030838?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.121663,
-    "tags": [
-      "AFib",
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Advances in autonomic neuromodulation for cardiac arrhythmias: Shifting paradigms in pathophysiology and therapeutics",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001554?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.121614,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Corrigendum to \u201cDevelopment and validation of a new disease-specific quality-of-life measure for atrial fibrillation derived from patient perspectives: The Atrial Fibrillation Patient-Reported Outcome Measures (AF-PROMs) Questionnaire,\u201d <em>Heart Rhythm</em>, Volume 22, Issue 8, P1922-1934, August 2025",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030929?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.121379,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Delayed CAVB After SP Ablation for AVNRT: Mechanistic Insights Into FP Injury and Pacing Decision\u2010Making",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70158?af=R",
-    "doi": "10.1111/pace.70158",
-    "journal": "PACE",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777426685.0,
-    "tags": [
-      "SVT"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  As standard therapy for atrioventricular nodal re\u2010entrant tachycardia (AVNRT), radiofrequency ablation of the antegrade slow pathway (SP) is associated with a low risk of AV block. Delayed complete AV block (CAVB), however, is a rare but clinically challenging complication, particularly concerning permanent pacemaker decision\u2010making. A 79\u2010year\u2010old man with pre\u2010existing first\u2010degree AV block developed delayed CAVB 1 day after successful SP ablation for typical AVNRT. Transient PR interval shortening immediately post\u2010ablation preceded progression to high\u2010grade AV block. Subsequently, AV conduction gradually recovered without permanent pacemaker implantation, as confirmed using serial electrocardiography, treadmill exercise testing, and repeat electrophysiological studies. Electrophysiological evaluation showed impaired antegrade fast pathway (FP) conduction with complete absence of retrograde ventriculoatrial conduction, suggesting differential involvement of FP fibers. Delayed AV block after SP ablation may be reversible, particularly when preceded by PR interval shortening and when AV conduction improves under exercise or pharmacological stress. Careful functional assessment of AV conduction is needed before committing to permanent pacemaker implantation, as delayed AV block may reflect indirect and potentially reversible FP injury.",
-    "summary": "This case report describes a 79-year-old patient with pre-existing first-degree AV block who developed delayed complete AV block one day after radiofrequency ablation of the slow pathway for typical AVNRT, which subsequently reversed without permanent pacemaker implantation after demonstration of improved conduction on stress testing and electrophysiological reassessment. The findings suggest that delayed AV block following slow pathway ablation may be reversible when preceded by transient PR shortening and when AV conduction recovers with stress, warranting careful functional assessment before pacemaker implantation."
-  },
-  {
-    "title": "Transjugular Leadless Pacemaker Implantation in an Adolescent With Central Hypoventilation Syndrome: A Case Report",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70146?af=R",
-    "doi": "10.1111/pace.70146",
-    "journal": "PACE",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777426685.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Permanent pacing in pediatric patients is complicated by small body size, vascular access limitations, and the need for durable long\u2010term management. Leadless pacemakers offer an emerging alternative that minimizes infection and lead\u2010related complications, yet vascular access remains a key challenge in young patients.\n                  \n                  \n                    Case presentation\n                    We report a 14\u2010year\u2010old male with congenital central hypoventilation syndrome (CCHS; PHOX2B polyalanine repeat mutation 20/26) who presented with recurrent nocturnal oxygen desaturation secondary to prolonged sinus pauses despite tracheostomy\u2010assisted mechanical ventilation. Continuous implantable loop recorder monitoring confirmed pauses of up to 10 s, temporally associated with desaturation events. Given the small caliber of the femoral veins and the need for long\u2010term pacing, a leadless pacemaker was implanted via the right internal jugular vein. Device positioning was optimized under fluoroscopic guidance to achieve stable septal fixation with excellent electrical parameters (sensing: 9\u00a0mV; threshold 0.5\u00a0V at 0.24\u00a0ms; impedance: 530 \u03a9). The procedure and recovery were uneventful.\n                  \n                  \n                    Follow\u2010up\n                    At 1\u2010year follow\u2010up, pacing burden was 1% with stable sensing and threshold parameters, and no recurrent desaturation episodes were observed.\n                  \n                  \n                    Conclusion\n                    This case highlights the complex interplay between arrhythmia and oxygen desaturation in CCHS, illustrating how permanent pacing can restore both rhythm and ventilatory stability. Transjugular leadless pacemaker implantation represents a safe and effective option for adolescents when femoral access is limited. In younger patients, careful anatomical assessment, awareness of long\u2010term device management, and individualized selection between retrievable and established systems are essential to optimize outcomes.",
-    "summary": "This case report describes successful transjugular leadless pacemaker implantation in a 14-year-old with congenital central hypoventilation syndrome and recurrent sinus pauses causing oxygen desaturation, demonstrating stable device function at 1-year follow-up with resolution of desaturation events and establishing transjugular access as a viable alternative when femoral vascular anatomy is limiting in pediatric patients."
   }
 ]
