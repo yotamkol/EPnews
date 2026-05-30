@@ -1,5 +1,29 @@
 [
   {
+    "title": "Pre-clinical Assessment of a Novel Ablation Catheter Specific to Robotic Magnetic Navigation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002266?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "May 30, 2026",
+    "date_ts": 1780106162.911138,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The present and the future of risk stratification for and prevention of sudden cardiac death: A Heart Rhythm Society think tank meeting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024070?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "May 30, 2026",
+    "date_ts": 1780106162.557288,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
     "title": "Arrhythmia Burden and Clinical Responses Under Continuous Monitoring in Heart Failure: Observations From the ALLEVIATE-HF Trial",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726063473?dgcid=rss_sd_all",
     "doi": null,
@@ -60,6 +84,76 @@
     "hot": false,
     "abstract": "Abstract\n                  \n                    Background and Aims\n                    Adults with repaired tetralogy of Fallot (TOF) face long-term risks of ventricular tachycardia (VT) and sudden cardiac death (SCD). There is no consensus on arrhythmia management during surgical pulmonary valve replacement (PVR). This study assessed whether pre-operative electrophysiological (EP) testing with targeted intraoperative cryoablation of identified anatomical isthmuses during PVR is associated with a reduction in post-operative VT inducibility and long-term risk of clinical VT/SCD.\n                  \n                  \n                    Methods\n                    In this prospective multicentre cohort study, consecutive adults with TOF undergoing surgical PVR (2005\u201322) underwent standardized pre-operative EP studies. Surgical ablation strategy (EP-guided vs empiric) was at the discretion of the treating team. Post-operative EP studies assessed residual inducibility; clinical VT/SCD were evaluated during follow-up.\n                  \n                  \n                    Results\n                    Among 204 patients (age 35.5 \u00b1 13.1 years, 43.1% female), 91 (45.1%) had inducible VT. Among those undergoing surgical ablation, post-operative VT was non-inducible in 74.1% with EP-guided vs 15.0% with empiric ablation [adjusted odds ratio 20.4, 95% confidence interval (CI) 4.5\u201391.8, P &amp;lt; .0001]. Persistent post-operative inducibility was associated with increased hazard of VT/SCD compared to patients without inducible VT pre-operatively [adjusted hazard ratio (HR) 5.3, 95% CI 1.8\u201316.0, P = .003], over a median 10.2-year follow-up. Compared to patients without inducible VT pre-operatively, empiric ablation was associated with a significantly higher hazard of VT/SCD (HR 5.2, 95% CI 1.6\u201316.5, P = .005), whereas EP-guided ablation was not (HR 2.8, 95% CI 0.8\u201310.3, P = .228).\n                  \n                  \n                    Conclusions\n                    In adults with repaired TOF undergoing PVR, inducible VT is common. An EP-guided surgical strategy is associated with greater post-operative non-inducibility and improved long-term arrhythmic outcomes compared with empiric ablation.",
     "summary": "This prospective multicenter cohort study of 204 adults with repaired TOF undergoing pulmonary valve replacement found that EP-guided intraoperative cryoablation achieved post-operative VT non-inducibility in 74.1% of patients with pre-operative inducible VT compared to 15.0% with empiric ablation, and was associated with reduced long-term risk of clinical VT/SCD over 10 years of follow-up. EP-guided ablation strategy is superior to empiric ablation in eliminating post-operative arrhythmia inducibility and preventing long-term arrhythmic complications in this high-risk population."
+  },
+  {
+    "title": "Electrocardiographic Characteristics Associated With Lead Position Variations in Left Bundle Branch Area Pacing",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70307?af=R",
+    "doi": "10.1111/pace.70307",
+    "journal": "PACE",
+    "date": "May 28, 2026",
+    "date_ts": 1779957352.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Physiology\u2010based electrocardiographic (ECG) criteria are used to assess left bundle branch area pacing (LBBAP), but the impact of lead implantation site on ECG parameters remains unclear.\n                  \n                  \n                    Methods\n                    \n                      We analyzed 212 patients who underwent successful LBBAP and classified them into high septum (HS, n = 49), mid septum (MS,\n                      n\n                      = 119), and low septum (LS,\n                      n\n                      = 44) groups according to the polarity of leads II and III. ECG parameters, including QRS morphology in lead V1, stimulus\u2010to\u2010R\u2010wave peak times in V6 and V1 (sV6RWPT, sV1RWPT), and the V6\u2013V1 interpeak interval, were compared. The proportions meeting proposed physiology\u2010based ECG criteria for left bundle branch (LBB) capture were also evaluated.\n                    \n                  \n                  \n                    Results\n                    \n                      The LS group demonstrated the highest prevalence of dominant R waves in V1 (qR: 38.6%, R: 4.5%,\n                      p\n                      &lt; 0.01). It had a shorter sV6RWPT than the MS group (59 \u00b1 9\u00a0ms,\n                      p\n                      = 0.011), with no significant difference compared with the HS group. It also demonstrated a longer sV1RWPT (105 \u00b1 11\u00a0ms,\n                      p\n                      = 0.023) and V6\u2013V1 interpeak interval (46 \u00b1 10\u00a0ms,\n                      p\n                      &lt; 0.01). Although no significant differences were observed among the three groups regarding output\u2010dependent QRS transition or LBB potential, the LS group more frequently met the V6\u2013V1 interpeak interval criterion (&gt;44\u00a0ms, 86%,\n                      p\n                      &lt; 0.01).\n                    \n                  \n                  \n                    Conclusions\n                    In LBBAP, low septal lead placement was associated with prominent R waves in V1, shorter sV6RWPT versus the MS group, and longer V6\u2013V1 interpeak intervals, highlighting the importance of implantation site when interpreting ECG findings.",
+    "summary": "This retrospective cohort study of 212 LBBAP patients stratified by lead implantation site (high, mid, or low septum) found that low septal placement was associated with distinctive ECG features including dominant R waves in V1, shorter stimulus-to-R-wave peak time in V6, and longer V6-V1 interpeak intervals, suggesting that implantation location significantly impacts ECG interpretation of LBB capture criteria."
+  },
+  {
+    "title": "Coronary Artery Proximity to Potential Ablation Sites in Children: The Case for Careful Consideration",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70306?af=R",
+    "doi": "10.1111/pace.70306",
+    "journal": "PACE",
+    "date": "May 28, 2026",
+    "date_ts": 1779957238.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Coronary artery (CA) injury from catheter ablation is an uncommon complication, but the risk is under\u2010recognized. The risk for CA injury significantly increases when a CA is within 3\u00a0mm of the site of ablation, but CA imaging to assess for CA proximity to ablation sites is not commonly performed in children prior to ablation.\n                  \n                  \n                    Objective\n                    The aim of the study was to assess CA proximity to potential ablation sites.\n                  \n                  \n                    Methods\n                    A retrospective review of all coronary computed tomography angiograms (CTAs) in pediatric patients &lt;18 years of age at Mayo Clinic from 2017 through 2023 was conducted. The proximity of CAs to potential ablation sites in the coronary sinus and the appendage bases were measured.\n                  \n                  \n                    Results\n                    Seventy\u2010two CTAs in 67 patients &gt;15\u00a0kg and &lt;18 years old were included. Median age was 12 years, and median weight was 41\u00a0kg. In right dominant CA circulation, 23/36 (64%) had a CA within 3\u00a0mm of the coronary sinus. In left and co\u2010dominant CA circulation, 26/26 (100%) had a CA within 3\u00a0mm of the coronary sinus. The right CA was within 3\u00a0mm of the appendage base in 49/69 (71%). The circumflex CA was within 3\u00a0mm of the appendage base in 50/68 (74%).\n                  \n                  \n                    Conclusion\n                    Most pediatric patients have a CA \u2264 3\u00a0mm from potential ablation sites in the coronary sinus and base of the appendages. Precautions should be taken to avoid CA damage before performing catheter ablation in these areas.",
+    "summary": "This retrospective review of 72 coronary CTAs in 67 pediatric patients (median age 12 years) found that the majority had coronary arteries within 3 mm of common catheter ablation sites: 64-100% near the coronary sinus depending on dominance pattern, and 71-74% near the appendage bases. The authors conclude that preprocedural coronary imaging should be considered routinely before ablation in children to mitigate the risk of coronary artery injury."
+  },
+  {
+    "title": "ICD Lead Implantation Into the Middle Cardiac Vein Using a Coronary Sinus Guiding Catheter After Tricuspid Valve Surgery",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70304?af=R",
+    "doi": "10.1111/pace.70304",
+    "journal": "PACE",
+    "date": "May 28, 2026",
+    "date_ts": 1779957000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  Implantation of transvenous leads across a surgically treated tricuspid valve can worsen valve function and should be avoided when possible. We report a case in which a coronary sinus (CS) guiding catheter enabled the successful implantation of an implantable cardioverter defibrillator (ICD) lead into the middle cardiac vein (MCV) in a patient with prior tricuspid valve surgery.",
+    "summary": "This case report describes successful implantation of an ICD lead into the middle cardiac vein using a coronary sinus guiding catheter in a patient with prior tricuspid valve surgery, thereby avoiding transvenous lead placement across the surgically repaired valve and preventing additional valve dysfunction."
+  },
+  {
+    "title": "A Standardized Zero\u2010Fluoroscopy, 3D\u2010Guided Workflow for AVNRT Ablation With Same\u2010Day Discharge: PICENO AVNRT Approach",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70308?af=R",
+    "doi": "10.1111/pace.70308",
+    "journal": "PACE",
+    "date": "May 28, 2026",
+    "date_ts": 1779956692.0,
+    "tags": [
+      "SVT"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Slow\u2010pathway ablation for atrioventricular nodal re\u2010entrant tachycardia (AVNRT) is highly effective but carries a small risk of atrioventricular block. A fully standardized, safety\u2010driven 3D\u2010guided workflow tailored to AVNRT ablation has not been clearly defined.\n                  \n                  \n                    Methods and Results\n                    We retrospectively analyzed 150 consecutive day\u2010hospital patients with invasive electrophysiological confirmation of AVNRT who underwent ablation using the standardized PICENO AVNRT approach between 2017 and 2025. The protocol integrates Koch's triangle pace mapping and voltage\u2010bridge mapping to guide slow\u2010pathway ablation. Acute success was achieved in 100% of patients. No transient or permanent AV block occurred. Fluoroscopy was not required in any case. Mean procedure time was 62 \u00b1 14\u00a0min. At 30.5 \u00b1 18.8 months of follow\u2010up, one recurrence (0.7%) was observed.\n                  \n                  \n                    Conclusion\n                    A standardized 3D\u2010guided safety\u2010driven workflow for AVNRT ablation is feasible and reproducible in a day\u2010hospital setting, achieving excellent outcomes while eliminating fluoroscopy because of procedural reliability.",
+    "summary": "This retrospective analysis of 150 consecutive AVNRT patients undergoing slow-pathway ablation with a standardized 3D-guided PICENO protocol demonstrated 100% acute success with zero cases of AV block, zero fluoroscopy use, and only 0.7% recurrence at mean 30.5-month follow-up. The standardized, safety-driven workflow utilizing Koch's triangle pace mapping and voltage-bridge mapping is feasible in a day-hospital setting with reproducible excellent outcomes and eliminated radiation exposure."
+  },
+  {
+    "title": "12\u2010Month Clinical Outcomes Using a Variable\u2010Loop Circular Catheter for PFA in a Chinese Atrial Fibrillation Population",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70294?af=R",
+    "doi": "10.1111/pace.70294",
+    "journal": "PACE",
+    "date": "May 28, 2026",
+    "date_ts": 1779956101.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    The variable\u2010loop circular catheter (VLCC) showed promising outcomes in European and US studies, but evidence is limited in Asian populations. afIRE trial assessed 12\u2010month safety and effectiveness of the VLCC in Chinese patients with symptomatic, drug\u2010refractory paroxysmal atrial fibrillation (AF).\n                  \n                  \n                    Methods\n                    AfIRE was a prospective, multicenter, single\u2010arm trial for adults undergoing first\u2010time pulmonary vein isolation (PVI) with the VLCC. Primary effectiveness was 12\u2010month freedom from atrial arrhythmia recurrence (systematically assessed by electrocardiogram and Holter monitoring at 3\u2010, 6\u2010, and 12\u2010months post\u2010ablation or when symptomatic), repeat ablation, procedural failure, or Class I/III antiarrhythmic drug use. Safety was defined by incidence of primary adverse events (PAEs).\n                  \n                  \n                    Results\n                    Of 142 patients enrolled, 123 (mean age 57.0 years, 45.5% female) comprised the main\u2010stage cohort (patients treated with the VLCC after roll in). Median procedure, pulsed field ablation (PFA), and fluoroscopy times were 115.0, 36.1, and 5.0 min, respectively. Acute PVI was achieved in all patients, with 89.4% without acute reconnection and 11.4% undergoing non\u2010PV ablation. Twelve\u2010month primary effectiveness success and freedom from symptomatic recurrence were 74.8% and 87.0%, respectively. Safety was favorable, with PAEs in 2 patients (1.6%; vascular complications; unlikely device\u2010related). Multivariable analysis of the primary endpoint showed that preserved left ventricular ejection fraction (\u2265 60%) was associated with 86% reduction in odds of 12\u2010month atrial arrhythmia recurrence; diabetes, \u2265 9 symptomatic AF episodes, and &lt; 48 valid PFA applications (16 ablations) numerically increased odds of recurrence.\n                  \n                  \n                    Conclusion\n                    The first Asian VLCC experience demonstrated favorable 12\u2010month effectiveness and excellent safety, reinforcing reproducibility across global AF populations.\n                  \n                  \n                    Clinical Trial Registration\n                    NCT05552963",
+    "summary": "This prospective, multicenter, single-arm trial (n=123 Chinese patients) evaluated the variable-loop circular catheter for pulmonary vein isolation in drug-refractory paroxysmal atrial fibrillation, demonstrating 74.8% primary effectiveness (freedom from arrhythmia recurrence at 12 months) and 87.0% freedom from symptomatic recurrence with excellent safety (1.6% primary adverse events). Preserved left ventricular ejection fraction \u226560% was independently associated with significantly reduced recurrence risk."
   },
   {
     "title": "Editorial Board",
@@ -4286,6 +4380,34 @@
     "hot": false
   },
   {
+    "title": "Outcomes of simplified left atrial appendage occlusion using the WATCHMAN FLX device: the ROSE-FLX study",
+    "link": "https://doi.org/10.1093/europace/euag045",
+    "doi": "10.1093/europace/euag045",
+    "journal": "EP Europace",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Conventional left atrial appendage occlusion (LAAO) procedures typically require transoesophageal echocardiography and general anaesthesia, which may limit feasibility in resource-limited settings. Simplified LAAO (sLAAO) guided exclusively by fluoroscopy offers a practical and efficient alternative. This study evaluated procedural safety, efficacy, and short-term outcomes of sLAAO using the WATCHMAN FLX device under exclusive fluoroscopic guidance in a real-world, multicentre setting.\n                  \n                  \n                    Methods and results\n                    The ROSE-FLX study was a prospective, multicentre, single-arm registry including 400 patients with non-valvular atrial fibrillation at high thromboembolic and bleeding risk. All underwent sLAAO under local anaesthesia and exclusive fluoroscopic guidance. Procedural data, peri-procedural complications, and follow-up outcomes were analysed. Predictors of adverse events were determined using Cox regression. Procedural success was 100%, with low major complication rates: pericardial effusion (0.5%), access-site complications (1.3%), and major bleeding (0.8%). Over median follow-up of 194.5 days [interquartile range (IQR) 129.0\u2013265.0], all-cause mortality occurred in three patients (0.8%), transient ischaemic attacks in 13 patients (3.3%), and device-related thrombosis in one patient (0.3%). In multivariable Cox regression, chronic obstructive pulmonary disease (HR 2.86, 95% CI 1.98\u20134.11, P &amp;lt; 0.001) and higher CHA2DS2-VASc scores (HR 4.69, 95% CI 1.90\u201311.57, P &amp;lt; 0.001) independently predicted adverse events.\n                  \n                  \n                    Conclusion\n                    Exclusive fluoroscopy-guided sLAAO with the WATCHMAN FLX device is feasible, safe, and resource efficient, achieving high procedural success and low complication rates, suggesting that this approach may be considered in selected centres lacking advanced echocardiographic or anaesthetic support, pending confirmation from comparative studies.",
+    "summary": "The ROSE-FLX prospective registry of 400 patients demonstrated that simplified left atrial appendage occlusion using the WATCHMAN FLX device under exclusive fluoroscopic guidance and local anesthesia achieved 100% procedural success with low major complication rates (pericardial effusion 0.5%, access-site complications 1.3%, major bleeding 0.8%) and favorable short-term outcomes (all-cause mortality 0.8%, transient ischemic attacks 3.3%, device-related thrombosis 0.3% at median 194.5 days follow-up). This fluoroscopy-only approach offers a resource-efficient alternative"
+  },
+  {
+    "title": "Transseptal puncture in cardiovascular interventions: a clinical consensus statement of the European Heart Rhythm Association, the Heart Failure Association, the European Association of Percutaneous Cardiovascular Interventions, the European Association of Cardiovascular Imaging of the ESC, and the Association for European Paediatric and Congenital Cardiology",
+    "link": "https://doi.org/10.1093/europace/euag021",
+    "doi": "10.1093/europace/euag021",
+    "journal": "EP Europace",
+    "date": "May 01, 2026",
+    "date_ts": 1777593600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  With the rapid increase in percutaneous left heart interventions, transseptal access to the left atrium has become a widely used procedure. This technique is crucial for electrophysiological procedures, particularly for atrial fibrillation ablation, which is estimated to be performed in more than 250 000 patients per year worldwide, as well as for various structural heart interventions, like percutaneous mitral valve repair. Although transseptal puncture (TSP) is generally considered a simple technique, it is associated with a small risk of potentially life-threatening complications. To ensure a successful and safe procedure, a thorough understanding of TSPs\u2019 clinical use, and the anatomy of the interatrial septum\u2014including the fossa ovalis and its anatomical variants\u2014is critical. Since the first fluoroscopy-guided TSP, advancements in echocardiographic imaging have enhanced the precision of the puncture, allowing targeting of specific regions of the fossa ovalis and facilitating difficult procedures. While most TSPs are performed using a Brockenbrough needle and a (steerable) sheath, wide variation in technique exists, and alternative methods have been developed initially aiming for complex cases but now routinely used. Understanding potential complications\u2014such as cardiac tamponade, aortic puncture, and embolism\u2014is essential for prevention, early recognition, and effective management, ultimately improving patients\u2019 outcomes. Finally, understanding how to approach specific complex scenarios is crucial for procedural success.",
+    "summary": "This is a narrative review examining transseptal puncture (TSP) techniques for left heart access, covering anatomical considerations, echocardiographic-guided approaches, procedural variations (including alternative methods beyond standard Brockenbrough technique), and management of potentially serious complications such as cardiac tamponade and aortic puncture. The review emphasizes that while TSP is fundamental for procedures like atrial fibrillation ablation (>250,000 cases annually) and structural interventions, mastery of anatomy, imaging guidance, and complication recognition is essential for procedural safety and efficacy."
+  },
+  {
     "title": "Ablation of a persistent left superior vena cava using a balloon-in-basket PFA catheter",
     "link": "https://doi.org/10.1016/j.hrcr.2026.05.012",
     "doi": "10.1016/j.hrcr.2026.05.012",
@@ -6128,115 +6250,6 @@
     "date_ts": 1777427503.122152,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A review of etripamil: A new paradigm for treating paroxysmal supraventricular tachycardia for an informed, shared decision",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000342?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.122119,
-    "tags": [
-      "VT",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Constant hazard for life-threatening ventricular arrhythmias following corticosteroid initiation in patients with cardiac sarcoidosis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712502781X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.122083,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Balloon occlusion for left atrial perforation: Tamponade to treat tamponade",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712502836X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.122051,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ZEBRA: Z Stitch and Early Bedrest Study, a multicenter randomized clinical trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030905?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.122018,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Ventricular pacing burden in patients undergoing pacemaker implantation after transcatheter aortic valve replacement: Correlation with cardiac damage staging",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030917?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.12198,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left atrial appendage occlusion vs direct oral anticoagulants in patients with atrial fibrillation: A propensity-matched cohort study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031339?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.121945,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Disparities in defibrillator implantations during COVID-19: Insights from the National Cardiovascular Data Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712503142X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.121893,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsed-field ablation demonstrates superior pulmonary vein isolation durability at 90 days: Pooled analysis of protocol-mandated remapping data",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031522?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.121854,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Bending the curve: Subcutaneous implantable cardioverter-defibrillator implant technique with pectus excavatum",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125032047?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.121821,
-    "tags": [
-      "Devices"
     ],
     "hot": false
   }
