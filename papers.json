@@ -1,5 +1,86 @@
 [
   {
+    "title": "Role of Atrial Pacing Support in Cardiac Resynchronization Therapy: A Noninferiority Randomized Trial",
+    "link": "https://doi.org/10.1161/circulationaha.126.079859",
+    "doi": "10.1161/circulationaha.126.079859",
+    "journal": "Circulation",
+    "date": "Jun 02, 2026",
+    "date_ts": 1780358400.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    The role of atrial pacing support is unclear in patients receiving cardiac resynchronization therapy\u2013defibrillator (CRT-D) without sinus node dysfunction.\n                  \n                  \n                    METHODS:\n                    We conducted a randomized, parallel-group, noninferiority trial to evaluate whether a 2-lead CRT-D capable of atrial sensing (but no pacing) by a floating dipole on the right ventricular lead (CRT-DX) is not inferior to a 3-lead CRT-D with a conventional atrial lead. Between October 17, 2018, and March 5, 2024, a total of 636 patients (68\u00b110 years old, 28.6% women) with standard CRT-D indication, optimized medical therapy, and resting sinus rate \u226545 beats/min were randomized 1:1 to CRT-DX (atrial tracking without atrial pacing mode 35 beats/min) or CRT-D (atrial tracking with atrial pacing mode 50 beats/min) at 23 Italian sites. A centralized block-randomization procedure stratified by site was used, with patients and primary outcome assessors blinded to treatment assignment. The primary end point was a 1-year composite of all-cause mortality, cardiovascular hospitalization, and lead-related complications (loss of functionality not correctable by device reprogramming). Secondary end points included each individual component of the primary end point separately, echocardiographic reverse remodeling, and 6-minute walk test distance at 12 months.\n                  \n                  \n                    RESULTS:\n                    \n                      The primary end point occurred in 41 (13.1%) patients in the CRT-DX group and 47 (15.6%) patients in the CRT-D group, corresponding to a hazard ratio of 0.82 (95% CI, 0.54\u20131.25). This confirmed noninferiority (prespecified relative margin of 1.20) in both the per-protocol (\n                      P\n                      =0.039) and intention-to-treat (\n                      P\n                      =0.044) analyses. Individual components showed no significant differences, except for lead complications related to right atrial functionality (4 [1.3%] patients in the CRT-DX group versus 13 [4.2%] patients in the CRT-D group;\n                      P\n                      =0.040). Reverse remodeling responders were 203 (77.5% of 262) patients receiving CRT-DX and 190 (76.3% of 249) patients receiving CRT-D (\n                      P\n                      =0.83). Walking distance did not differ between 2 study arms (404 versus 398 m;\n                      P\n                      =0.62). After a median follow-up of 2.4 years, only 1 patient receiving CRT-DX required implantation of a standard atrial lead.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    The 2-lead CRT-DX system without atrial pacing is noninferior to conventional 3-lead CRT-D, with fewer atrial lead\u2013related complications.\n                  \n                  \n                    REGISTRATION:\n                    \n                      URL:\n                      https://www.clinicaltrials.gov\n                      ; Unique identifier: NCT03587064.",
+    "summary": "This randomized, noninferiority trial of 636 patients compared a 2-lead CRT-D system with atrial sensing only (CRT-DX) versus conventional 3-lead CRT-D with atrial pacing in patients without sinus node dysfunction, demonstrating noninferiority of CRT-DX for the primary composite endpoint of mortality, cardiovascular hospitalization, and lead complications (13.1% vs 15.6%; HR 0.82), with significantly fewer atrial lead-related complications in the CRT-DX group. These findings suggest that atrial pacing support can be safely omitted in appropriately selected CRT-D patients with intact sinus"
+  },
+  {
+    "title": "Clinical, histological, and molecular associations of early and late recurrence after thoracoscopic ablation for atrial fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024124?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jun 02, 2026",
+    "date_ts": 1780367488.074486,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Safety and Feasibility of Pulsed Field Ablation With a Pentaspline Catheter in Patients With Extravascular ICD",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70312?af=R",
+    "doi": "10.1111/pace.70312",
+    "journal": "PACE",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780294773.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  Pulsed\u2010field ablation (PFA) in patients with an implanted extravascular implantable cardioverter\u2010defibrillator (EV\u2010ICD) poses theoretical risks of electromagnetic interference or lead displacement. We report two cases of atrial fibrillation (AF) ablation using the FARAPULSE pentaspline catheter after EV\u2010ICD implantation. In both patients, PFA was successfully performed without significant changes of the parameters/functions of the EV\u2010ICDs. No lead dislodgement was observed on a fluoroscopy examination. These cases suggest that AF ablation using PFA can be safely performed in patients with EV\u2010ICDs.",
+    "summary": "This case report describes two patients with extravascular ICDs who successfully underwent pulsed-field ablation for atrial fibrillation using the FARAPULSE catheter without device dysfunction, electromagnetic interference, or lead displacement, suggesting PFA may be safe in this patient population."
+  },
+  {
+    "title": "Antimicrobial Pocket Flush and Cardiac Implantable Electronic Device Infection: Meta\u2010Analysis of Real\u2010World Studies",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70264?af=R",
+    "doi": "10.1111/pace.70264",
+    "journal": "PACE",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780294417.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Clinical guidelines do not recommend the routine rinsing of cardiac implantable electronic devices (CIED) with antimicrobials before pocket closure(\u201cantimicrobial pocket flush.\u201d) However, despite current recommendations and a lack of evidence regarding the utility of this practice for reducing CIED infections, the antimicrobial pocket flush is still commonly employed. Clarifying the true value of this technique is important for supporting evidence\u2010based practice and avoiding unnecessary antimicrobial use. Therefore, we performed meta\u2010analysis of observational studies to determine the effectiveness of this practice in preventing CIED infections.\n                  \n                  \n                    Methods\n                    We performed a systematic literature search for observational human studies investigating the effectiveness of employing the antimicrobial pocket flush to prevent CIED infection. A random effects meta\u2010analysis was performed. Effectiveness was estimated with the study\u2010level definitions of CIED infection. We performed subgroup analysis by type of antimicrobial\u2010antiseptic or antibiotic.\n                  \n                  \n                    Results\n                    \n                      A total of seven studies including 12,283 patients were analyzed. Over half of the CIED implantation procedures (61.5%) included the antimicrobial pocket flush, and between 8.4% and 85% of the implantations were revision procedures. Studies used various antimicrobials for pocket flush, and definitions of CIED infection varied. Overall infection rates ranged from 0.5%\u20131.5%. CIED infection rates did not differ significantly between procedures performed with versus without antimicrobial pocket flush (0.8%\u00a0vs. 1.1%; relative risk 0.80; 95% confidence interval 0.39\u20131.63;\n                      p\u00a0\n                      =\u00a00.54). There was no difference in the subgroup analysis by antiseptic or antibiotic use.\n                    \n                  \n                  \n                    Conclusion\n                    Our results suggest that the antimicrobial pocket flush provides no benefit in preventing CIED infection, reinforcing the current guidelines that do not support its routine use.",
+    "summary": "This meta-analysis of seven observational studies (12,283 patients) found no significant difference in cardiac implantable electronic device infection rates between procedures performed with versus without antimicrobial pocket flush (0.8% vs. 1.1%; RR 0.80, 95% CI 0.39\u20131.63), supporting current guideline recommendations against routine use of this practice."
+  },
+  {
+    "title": "Percutaneous left atrial appendage closure following catheter ablation therapy of atrial fibrillation: outcomes stratified by bleeding risk \u2013 a sub-analysis of the OPTION study",
+    "link": "https://doi.org/10.1093/europace/euag093",
+    "doi": "10.1093/europace/euag093",
+    "journal": "EP Europace",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Concerns have been raised over the safety and necessity of continuing oral anticoagulation (OAC) in patients following catheter ablation for atrial fibrillation (AF). OPTION demonstrated the safety and efficacy of left atrial appendage closure (LAAC) in a post-ablation population. We sought to analyse the impact of baseline bleeding risk, per HAS-BLED scores, on the outcomes for patients in a pre-specified sub-analysis.\n                  \n                  \n                    Methods and results\n                    Patients with AF and high stroke risk undergoing catheter ablation were randomly assigned to LAAC vs. OAC in OPTION and were stratified by HAS-BLED score: 0, 1, 2, \u22653. OPTION enrolled 1600 patients (CHA2DS2-VASc score: 3.5 \u00b1 1.3; HAS-BLED score: 1.2 \u00b1 0.8); randomized 1:1 to ablation/LAAC or ablation/OAC. Primary effectiveness (all-cause death/stroke/systemic embolism) and safety (bleeding composite) endpoints were directionally similar in HAS-BLED subgroups; both thromboembolic and bleeding event rates were higher in patients with increasing HAS-BLED score. A significant reduction in primary safety bleeding events was noted in favour of LAAC across HAS-BLED subgroups, with more striking reductions noted for lower HAS-BLED scores of 0 (n = 265; hazard ratio: 0.25; 95% confidence interval: 0.20, 0.50) and 1 (n = 890; hazard ratio: 0.41, 95% confidence interval: 0.27\u20130.61).\n                  \n                  \n                    Conclusion\n                    Regardless of bleeding risk, LAAC is comparable to OAC in stroke protection while demonstrating greater freedom from bleeding in a post-ablation AF population, even in patients with low HAS-BLED scores. The OPTION study highlights an opportunity to mitigate future bleeding risk with a strategy of LAAC after ablation in patients deemed at high risk of stroke according to clinical guidelines.\n                  \n                  \n                    Trial registration number\n                    NCT03795298",
+    "summary": "This randomized controlled trial of 1,600 AF patients undergoing catheter ablation compared left atrial appendage closure (LAAC) versus oral anticoagulation (OAC) and found that LAAC provided comparable stroke protection to OAC while significantly reducing bleeding events across all HAS-BLED score subgroups, with the greatest bleeding risk reduction in patients with lower bleeding risk scores (HAS-BLED 0-1)."
+  },
+  {
+    "title": "Focal Monopolar Pulsed Field Ablation for Focal Right Atrial Tachycardia: Feasibility and Safety from a Single-Centre Experience",
+    "link": "https://doi.org/10.1093/europace/euag129",
+    "doi": "10.1093/europace/euag129",
+    "journal": "EP Europace",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "AFib",
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
     "title": "The Nearly Zero VA-Interval Trap: Prolonged Lower Common Pathway in Slow\u2013Slow AVNRT",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004445?dgcid=rss_sd_all",
     "doi": null,
@@ -6178,78 +6259,6 @@
     "journal": "Heart Rhythm",
     "date": "Apr 29, 2026",
     "date_ts": 1777427503.122918,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Simulation of peri-mitral ablation lines using photon-counting computed tomography-based mapping of atrial wall thickness and epicardial adipose tissue",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000160?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.12287,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intracardiac echocardiography inside left atrium detects wall-adherent thrombus before ablation and prevents potential major thromboembolic complication",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125025159?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.122835,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Endoepicardial transmural lesion formation utilizing multipolar radiofrequency ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125024440?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.122803,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Empirical cryoballoon-based left atrial appendage isolation followed by closure, including cases with LAA thrombosis, in patients with persistent atrial fibrillation and durable pulmonary vein isolation: Feasibility and long-term outcomes (CB LAAI + LAAC after durable PVI in persistent AF)",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031376?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.122758,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A new left atrial appendage isolation strategy for persistent atrial fibrillation requiring repeat ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031650?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.122726,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Zero-fluoroscopy left atrial appendage occlusion with the Watchman FLX device",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031662?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.122695,
     "tags": [
       "AFib"
     ],
