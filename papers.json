@@ -14,6 +14,75 @@
     "summary": "This randomized, noninferiority trial of 636 patients compared a 2-lead CRT-D system with atrial sensing only (CRT-DX) versus conventional 3-lead CRT-D with atrial pacing in patients without sinus node dysfunction, demonstrating noninferiority of CRT-DX for the primary composite endpoint of mortality, cardiovascular hospitalization, and lead complications (13.1% vs 15.6%; HR 0.82), with significantly fewer atrial lead-related complications in the CRT-DX group. These findings suggest that atrial pacing support can be safely omitted in appropriately selected CRT-D patients with intact sinus"
   },
   {
+    "title": "Combined Pulsed Field and Radiofrequency Ablation for Coexisting Atrial Tachycardia During or After Atrial Fibrillation Ablation. Interventional and Clinical Outcomes",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70389?af=R",
+    "doi": "10.1111/jce.70389",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 02, 2026",
+    "date_ts": 1780378736.0,
+    "tags": [
+      "AFib",
+      "SVT"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Patients with atrial fibrillation (AF) may develop atrial tachycardias (ATs) post\u2010ablation or intraprocedurally, especially those with persistent AF or fibrotic substrates. Managing these arrhythmias remains challenging in the pulsed field ablation (PFA) era.\n                  \n                  \n                    Methods\n                    This prospective study included 56 consecutive patients (mean age 71\u2009\u00b1\u20098.5 years, 42.9% prior AF ablation) with non\u2010paroxysmal AF or AT and history of AF, who exhibited \u2265\u20091 left\u2010sided AT during ablation. Targeted intervention of the AT mechanism was performed alongside a prespecified prophylactic lesion set (PPLS), comprising pulmonary vein isolation and posterior wall (PW) ablation via the pentaspline PFA catheter, mitral isthmus (MI) ablation using combined radiofrequency ablation (RFA) and PFA, and cavotricuspid isthmus (CTI) ablation with RFA.\n                  \n                  \n                    Results\n                    \n                      A mean of 1.9\u2009\u00b1\u20090.9 ATs was identified per patient (48.1% macro\u2010reentry, 20.2% localized reentry, 30.8% unmappable). Acute ablation success at all target sites was 100%. Over a mean follow\u2010up of 20.6\u2009\u00b1\u20096.6 months (minimum 12), sinus rhythm was maintained in 78.6% of patients after the index procedure and 87.5% after repeat. In nine patients undergoing reintervention, durability was 97.2% for pulmonary veins, 89% for MI linear lesions, and 100% for PW and CTI. Pre\u2010ablation clinical AT (35.7% of patients) significantly predicted non\u2010recurrence (\n                      p\n                      \u2009=\u20090.021). Interestingly, the inability to achieve successful AT mapping (37.5% of patients) did not negatively influence the clinical outcome.\n                    \n                  \n                  \n                    Conclusion\n                    In patients with an AF history and left\u2010sided ATs, a PPLS combined with targeted AT mapping and ablation demonstrates excellent outcomes. Integrating RFA and PFA for MI ablation ensures both acute success and high long\u2010term durability.",
+    "summary": "This prospective study of 56 patients with non-paroxysmal AF or AT undergoing pulsed field ablation with a prophylactic lesion set (PV isolation, posterior wall, mitral isthmus, and CTI ablation) plus targeted AT intervention demonstrated 78.6% sinus rhythm maintenance at mean 20.6-month follow-up with 100% acute success, with pre-ablation clinical AT predicting freedom from recurrence. Integration of radiofrequency and pulsed field ablation for mitral isthmus ablation achieved high durability (89%) despite 37.5% of ATs being unmappable."
+  },
+  {
+    "title": "Effect of Leadless Pacemaker Implantation on Tricuspid Regurgitation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70386?af=R",
+    "doi": "10.1111/jce.70386",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 02, 2026",
+    "date_ts": 1780378675.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Leadless pacemakers (LLPM) eliminate trans\u2010tricuspid leads and are presumed to reduce tricuspid regurgitation (TR), though longitudinal data are limited.\n                  \n                  \n                    Methods\n                    We retrospectively studied 356 patients with paired echocardiography before and after Micra implantation at a single tertiary care center. TR and MR severity were graded as none, mild, moderate, or severe. The primary analysis compared baseline with the most recent available echocardiogram. Secondary analyses examined TR severity at three mutually exclusive intervals: &lt;\u20091 year, 1\u20133 years, and &gt;\u20093 years postimplantation. Within\u2010patient changes were assessed using paired Wilcoxon signed\u2010rank tests.\n                  \n                  \n                    Results\n                    \n                      Over a median follow\u2010up of 540 days (IQR 67\u20131136 days), TR worsened in 155 patients (43.5%), improved in 89 (25.0%), and was unchanged in 112 (31.5%) at most recent available follow\u2010up (\n                      p\n                      \u2009&lt;\u20090.001). TR severity increased significantly at 1\u20133 years (\n                      p\n                      \u2009=\u20090.003) and beyond 3 years (\n                      p\n                      \u2009=\u20090.006), but not within the first year (\n                      p\n                      \u2009=\u20090.12). The proportion with severe TR increased from 6.2% at baseline to 11.2% at most recent follow\u2010up, while none or mild TR declined from 75.5% to 65.2%. MR remained stable (\n                      p\n                      \u2009=\u20090.14). Within\u2010patient comparisons showed greater TR than MR at all timepoints (all\n                      p\n                      \u2009&lt;\u20090.001). Left ventricular ejection fraction declined modestly at all follow\u2010up intervals (\n                      p\n                      \u2009&lt;\u20090.001).\n                    \n                  \n                  \n                    Conclusions\n                    LLPM implantation was associated with progressive TR despite the absence of a trans\u2010tricuspid lead, with worsening emerging beyond the first year, supporting a remodeling\u2010based mechanism. The stability of MR argues against generalized valvular deterioration. Further studies are needed to define the clinical impact of LLPM\u2010associated TR progression.",
+    "summary": "This retrospective study of 356 patients with paired echocardiograms before and after Micra leadless pacemaker implantation found that tricuspid regurgitation progressively worsened in 43.5% of patients over median follow-up of 540 days, with significant deterioration emerging after 1 year post-implantation, despite the absence of a trans-tricuspid lead. The proportion with severe TR increased from 6.2% to 11.2%, suggesting a remodeling-based mechanism rather than mechanical lead-related injury, though the clinical significance of this progression remains to be determined."
+  },
+  {
+    "title": "Response to the Letter to the Editor: Biological Interpretation of Differential Biomarker Responses After Pulsed Field and Cryoballoon Ablation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70385?af=R",
+    "doi": "10.1111/jce.70385",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 02, 2026",
+    "date_ts": 1780378618.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Association Between Contact Force and Acute Lesion Effectiveness in Focal Pulsed Field Ablation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70391?af=R",
+    "doi": "10.1111/jce.70391",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 02, 2026",
+    "date_ts": 1780378389.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Pulsed field ablation (PFA), based on irreversible electroporation, is a non\u2010thermal modality designed to create myocardial lesions while minimizing collateral injury. The determinants of acute lesion effectiveness in humans remain incompletely understood. We evaluated the association of contact force (CF) and impedance drop (ID) with acute lesion effectiveness during focal PFA index\u2010guided pulmonary vein isolation (PVI).\n                  \n                  \n                    Methods and Results\n                    \n                      Twenty\u2010four patients undergoing PFA\u2010guided PVI for atrial fibrillation (AF) ablation were included. Electroanatomical mapping was performed in sinus rhythm using high\u2010density catheters. Ablation was delivered using a CF catheter in a point\u2010by\u2010point workflow guided by a PFA index. Lesion effectiveness was defined by acute electrophysiological criteria. CF, ID, and PFA index achievement were analyzed at each ablation point. A total of 1460 ablation points were analyzed (1407 successful, 53 unsuccessful). Median CF was significantly higher in successful compared with unsuccessful lesions (15 vs. 11.3\u2009g,\n                      p\n                      \u2009&lt;\u20090.001). A CF value of 8\u2009g yielded high sensitivity (90.3%) but low specificity (38.9%) for lesion effectiveness. ID did not differ between groups (\n                      p\n                      \u2009=\u20090.58). Target PFA index achievement was more frequent in successful lesions (67% vs. 9.4%,\n                      p\n                      \u2009&lt;\u20090.01).\n                    \n                  \n                  \n                    Conclusions\n                    CF is a significant but imperfect predictor of acute lesion effectiveness in PFA, since averaged CF values may inadequately reflect the instantaneous catheter\u2013tissue interaction at the moment of pulse delivery. These findings support a paradigm in which maintaining sufficient real\u2010time CF, rather than achieving a fixed average threshold, is critical for effective lesion formation.",
+    "summary": "This prospective observational study of 24 AF patients undergoing pulsed field ablation for pulmonary vein isolation analyzed 1,460 ablation points and found that contact force (median 15g vs 11.3g, p<0.001) and PFA index achievement (67% vs 9.4%, p<0.01) were significantly associated with acute lesion effectiveness, though contact force alone was an imperfect predictor, suggesting that real-time catheter-tissue contact maintenance rather than fixed force thresholds is critical for successful lesion formation."
+  },
+  {
+    "title": "Artificial Intelligence\u2010Enhanced Implantable Loop Recorders in Pediatric Patients: Effects on Device Performance and Clinical Workflow in a Single\u2010Center Experience",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70379?af=R",
+    "doi": "10.1111/jce.70379",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 02, 2026",
+    "date_ts": 1780377537.0,
+    "tags": [
+      "AI"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Artificial intelligence (AI)\u2010based algorithms have been developed to reduce alert burden in patients with implantable loop recorders (ILRs), but their performance in pediatric populations has not been previously evaluated.\n                  \n                  \n                    Methods\n                    We retrospectively analyzed pediatric patients implanted with an AI\u2010enhanced ILR (Linq2, Medtronic) incorporating AI\u2010based filtering (AccuRhythm algorithms). The impact of AI on nonactionable alerts (NAAs) and estimated clinical workflow was assessed using previously published time\u2010and\u2010motion models.\n                  \n                  \n                    Results\n                    Forty\u2010five patients (10.8\u2009\u00b1\u20094.7 years) were included. AI\u2010based filtering significantly reduced NAAs (43.7%), driven predominantly by a marked reduction in pause\u2010related alerts (75%), corresponding to an estimated saving of 14 clinic hours over 3 months (58 projected hours annually).\n                  \n                  \n                    Conclusions\n                    In this exploratory pediatric experience, AI\u2010enhanced ILR monitoring substantially reduced the burden of NAAs, particularly for pause alerts. These findings highlight the importance of population\u2010specific AI algorithms and suggest that AI\u2010based filtering may improve the efficiency and sustainability of monitoring in pediatric electrophysiology.",
+    "summary": "This retrospective analysis of 45 pediatric patients (mean age 10.8 years) with AI-enhanced implantable loop recorders demonstrated that AccuRhythm AI-based filtering algorithms significantly reduced nonactionable alerts by 43.7%, particularly pause-related alerts (75% reduction), translating to an estimated 58 hours of annual clinical workflow savings. The findings suggest AI-based filtering improves monitoring efficiency in pediatric electrophysiology, though larger prospective studies are needed to validate these results."
+  },
+  {
     "title": "Clinical, histological, and molecular associations of early and late recurrence after thoracoscopic ablation for atrial fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024124?dgcid=rss_sd_all",
     "doi": null,
@@ -22,6 +91,18 @@
     "date_ts": 1780367488.074486,
     "tags": [
       "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "CT-guided lead placement prevents P-wave oversensing in Extravascular ICD",
+    "link": "https://doi.org/10.1093/europace/euag134",
+    "doi": "10.1093/europace/euag134",
+    "journal": "EP Europace",
+    "date": "Jun 02, 2026",
+    "date_ts": 1780358400.0,
+    "tags": [
+      "Devices"
     ],
     "hot": false
   },
@@ -52,6 +133,54 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Clinical guidelines do not recommend the routine rinsing of cardiac implantable electronic devices (CIED) with antimicrobials before pocket closure(\u201cantimicrobial pocket flush.\u201d) However, despite current recommendations and a lack of evidence regarding the utility of this practice for reducing CIED infections, the antimicrobial pocket flush is still commonly employed. Clarifying the true value of this technique is important for supporting evidence\u2010based practice and avoiding unnecessary antimicrobial use. Therefore, we performed meta\u2010analysis of observational studies to determine the effectiveness of this practice in preventing CIED infections.\n                  \n                  \n                    Methods\n                    We performed a systematic literature search for observational human studies investigating the effectiveness of employing the antimicrobial pocket flush to prevent CIED infection. A random effects meta\u2010analysis was performed. Effectiveness was estimated with the study\u2010level definitions of CIED infection. We performed subgroup analysis by type of antimicrobial\u2010antiseptic or antibiotic.\n                  \n                  \n                    Results\n                    \n                      A total of seven studies including 12,283 patients were analyzed. Over half of the CIED implantation procedures (61.5%) included the antimicrobial pocket flush, and between 8.4% and 85% of the implantations were revision procedures. Studies used various antimicrobials for pocket flush, and definitions of CIED infection varied. Overall infection rates ranged from 0.5%\u20131.5%. CIED infection rates did not differ significantly between procedures performed with versus without antimicrobial pocket flush (0.8%\u00a0vs. 1.1%; relative risk 0.80; 95% confidence interval 0.39\u20131.63;\n                      p\u00a0\n                      =\u00a00.54). There was no difference in the subgroup analysis by antiseptic or antibiotic use.\n                    \n                  \n                  \n                    Conclusion\n                    Our results suggest that the antimicrobial pocket flush provides no benefit in preventing CIED infection, reinforcing the current guidelines that do not support its routine use.",
     "summary": "This meta-analysis of seven observational studies (12,283 patients) found no significant difference in cardiac implantable electronic device infection rates between procedures performed with versus without antimicrobial pocket flush (0.8% vs. 1.1%; RR 0.80, 95% CI 0.39\u20131.63), supporting current guideline recommendations against routine use of this practice."
+  },
+  {
+    "title": "Zero-fluoroscopy cardioneuroablation in a pregnant woman with cardioinhibitory neurally mediated syncope",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.014",
+    "doi": "10.1016/j.hrcr.2026.05.014",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Bidirectional Ventricular Tachycardia in a patient with Pheochromocytoma: a Case Report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.015",
+    "doi": "10.1016/j.hrcr.2026.05.015",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "First-in-Human Application of a Technique to Enhance the Safety and Efficacy of Radiofrequency Ablation Close to Coronary Artery",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.017",
+    "doi": "10.1016/j.hrcr.2026.05.017",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Leadless pacemaker implantation guided by transthoracic echocardiography with no iodinated contrast administration and minimal fluoroscopy in a 13-week pregnant woman",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.016",
+    "doi": "10.1016/j.hrcr.2026.05.016",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
   },
   {
     "title": "Percutaneous left atrial appendage closure following catheter ablation therapy of atrial fibrillation: outcomes stratified by bleeding risk \u2013 a sub-analysis of the OPTION study",
@@ -6141,126 +6270,6 @@
     "tags": [
       "VT",
       "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsed field ablation and arcing phenomenon near left atrial appendage occlusion devices: An in vitro study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001256?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.123226,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Adverse events during catheter ablation in patients with cardiac implantable electronic devices",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001268?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.123192,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clonal hematopoiesis of indeterminate potential and atrial fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125024348?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.123162,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cannabis use and atrial arrhythmias: A systematic review and meta-analysis of large populational studies",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125025238?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.123128,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cardiac deceleration/acceleration capacity demonstrates autonomic modulation in patients with paroxysmal atrial fibrillation undergoing pulsed-field ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000093?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.123091,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Racial, ethnic, socioeconomic, and geographic inequities in catheter ablation for atrial fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000494?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.123057,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Timing and characteristics of carotid microembolic signals during pentaspline pulsed field ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712600055X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.123024,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reablation of atrial fibrillation targeting electrogram dispersion in patients with isolated veins: The RESTART trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001050?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.122987,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Adjunctive superior vena cava isolation to pulmonary vein isolation in atrial fibrillation ablation: A systematic review and meta-analysis of randomized trials",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031467?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.122951,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Peak frequency analysis distinguishes nearfield from farfield signals during pulmonary vein isolation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125025354?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.122918,
-    "tags": [
-      "AFib"
     ],
     "hot": false
   }
