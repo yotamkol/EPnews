@@ -1,5 +1,106 @@
 [
   {
+    "title": "ECG Characteristics and Stellate Ganglion Blockade for Electrical Storm",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002448?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jun 05, 2026",
+    "date_ts": 1780625296.774644,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "When modifier genes shape arrhythmic risk: gene-dependent effects in long QT syndrome",
+    "link": "https://doi.org/10.1093/eurheartj/ehag390",
+    "doi": "10.1093/eurheartj/ehag390",
+    "journal": "European Heart Journal",
+    "date": "Jun 04, 2026",
+    "date_ts": 1780531200.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Precision electrophysiology meets surgery: a new paradigm in repaired tetralogy of Fallot?",
+    "link": "https://doi.org/10.1093/eurheartj/ehag408",
+    "doi": "10.1093/eurheartj/ehag408",
+    "journal": "European Heart Journal",
+    "date": "Jun 04, 2026",
+    "date_ts": 1780531200.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Non-neural cholinergic modulation of cardiac electrophysiology: fact or hypothesis?",
+    "link": "https://doi.org/10.1093/eurheartj/ehag425",
+    "doi": "10.1093/eurheartj/ehag425",
+    "journal": "European Heart Journal",
+    "date": "Jun 04, 2026",
+    "date_ts": 1780531200.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Standard-dose direct oral anticoagulants for Asian patients with atrial fibrillation: the definitive case from COMBINE AF",
+    "link": "https://doi.org/10.1093/eurheartj/ehag354",
+    "doi": "10.1093/eurheartj/ehag354",
+    "journal": "European Heart Journal",
+    "date": "Jun 04, 2026",
+    "date_ts": 1780531200.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cardiac resynchronization therapy in atrial fibrillation: do all patients need atrioventricular node ablation?",
+    "link": "https://doi.org/10.1093/eurheartj/ehag355",
+    "doi": "10.1093/eurheartj/ehag355",
+    "journal": "European Heart Journal",
+    "date": "Jun 04, 2026",
+    "date_ts": 1780531200.0,
+    "tags": [
+      "AFib",
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clavipectoral Fascial Plane Block for Analgesia in Cardiac Implantable Electronic Device Implantation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70316?af=R",
+    "doi": "10.1111/pace.70316",
+    "journal": "PACE",
+    "date": "Jun 04, 2026",
+    "date_ts": 1780547847.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Aim\n                    This study aimed to evaluate the intraoperative and postoperative analgesic effectiveness of ultrasound\u2010guided clavipectoral fascial plane block in patients undergoing cardiac implantable electronic device (CIED) implantation.\n                  \n                  \n                    Methods\n                    In this prospective observational study, 35 adult patients scheduled for CIED implantation received an ultrasound\u2010guided clavipectoral fascial plane block. Intraoperative analgesic adequacy was assessed by the requirement for supplemental local anesthetic. Additional intraoperative fentanyl use, block performance time, and surgical duration were recorded. Postoperative pain was evaluated using the numerical rating scale (NRS) at 1, 6, 12, and 24\u00a0h. Postoperative analgesic consumption and patient satisfaction, assessed using a 5\u2010point Likert scale, were also documented.\n                  \n                  \n                    Results\n                    Supplemental local anesthetic was required in 16 patients (45.7%), while 19 patients (54.3%) completed the procedure without additional local anesthetic. Among patients requiring supplementation, the median volume of local anesthetic administered was 6\u00a0mL (IQR 6\u201310). Intraoperative fentanyl was administered in seven patients (20.0%). Median block performance time was 6\u00a0min (IQR 5\u20138), and median surgical duration was 39\u00a0min (IQR 33\u201343). Postoperative pain scores remained low over 24\u00a0h. Rescue tramadol was required in 11 patients (31.4%), with a median consumption of 0\u00a0mg (IQR 0\u201350). Patient satisfaction was high, with 71.4% of patients reporting satisfaction or high satisfaction.\n                  \n                  \n                    Conclusion\n                    Clavipectoral fascial plane block appears to provide clinically relevant intraoperative and postoperative analgesia in patients undergoing CIED implantation, with low opioid requirements and high patient satisfaction. This technique may represent a practical component of multimodal analgesia for CIED procedures. Further randomized studies are needed to confirm these findings.",
+    "summary": "This prospective observational study of 35 patients found that ultrasound-guided clavipectoral fascial plane block provided adequate intraoperative analgesia (requiring supplemental local anesthetic in 45.7% of cases), low postoperative pain scores over 24 hours, minimal opioid requirements (20% needing intraoperative fentanyl, 31.4% requiring rescue tramadol), and high patient satisfaction (71.4%) in patients undergoing CIED implantation. The authors conclude this technique is a practical component of multimodal analgesia for CIED procedures, though randomized controlled trials are needed for confirmation."
+  },
+  {
+    "title": "Reflex Syncope With Complete Heart Block Triggered by Swallowing in a Patient on Immune Checkpoint Inhibitor Therapy",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70315?af=R",
+    "doi": "10.1111/pace.70315",
+    "journal": "PACE",
+    "date": "Jun 04, 2026",
+    "date_ts": 1780547475.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  Immune checkpoint inhibitors (ICIs) are now standard of care for most advanced solid tumors. While effective, they are associated with immune\u2010related adverse events (irAEs), including rare autonomic complications. We present a patient with metastatic lung adenocarcinoma receiving nivolumab and ipilimumab who developed reflex syncope with reproducible complete heart block (CHB) triggered by swallowing and food proximity. Barium esophagram revealed esophageal dysmotility, a small hiatal hernia, and distal esophageal narrowing. ICI therapy was held, and a dual\u2010chamber pacemaker resolved the syncopal episodes. The overlap between structural esophageal pathology, possible ICI\u2010associated autonomic dysregulation, and situational syncope complicates diagnosis and management. Clinicians should maintain vigilance for autonomic manifestations, especially new\u2010onset bradyarrhythmias or syncope, in patients on immunotherapy.",
+    "summary": "This is a case report describing a patient with metastatic lung adenocarcinoma on combination nivolumab and ipilimumab who developed swallow-triggered syncope with complete heart block, attributed to ICI-associated autonomic dysregulation complicated by concurrent esophageal dysmotility, successfully managed with pacemaker implantation and ICI discontinuation. The report highlights the need for clinician vigilance regarding rare autonomic irAEs, particularly bradyarrhythmias and syncope, in immunotherapy-treated patients."
+  },
+  {
     "title": "Cost-Effectiveness of a Novel Antitachycardia Pacing Algorithm for the Termination of Ventricular Tachyarrhythmias in the United States",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002278?dgcid=rss_sd_all",
     "doi": null,
@@ -304,6 +405,18 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Clinical guidelines do not recommend the routine rinsing of cardiac implantable electronic devices (CIED) with antimicrobials before pocket closure(\u201cantimicrobial pocket flush.\u201d) However, despite current recommendations and a lack of evidence regarding the utility of this practice for reducing CIED infections, the antimicrobial pocket flush is still commonly employed. Clarifying the true value of this technique is important for supporting evidence\u2010based practice and avoiding unnecessary antimicrobial use. Therefore, we performed meta\u2010analysis of observational studies to determine the effectiveness of this practice in preventing CIED infections.\n                  \n                  \n                    Methods\n                    We performed a systematic literature search for observational human studies investigating the effectiveness of employing the antimicrobial pocket flush to prevent CIED infection. A random effects meta\u2010analysis was performed. Effectiveness was estimated with the study\u2010level definitions of CIED infection. We performed subgroup analysis by type of antimicrobial\u2010antiseptic or antibiotic.\n                  \n                  \n                    Results\n                    \n                      A total of seven studies including 12,283 patients were analyzed. Over half of the CIED implantation procedures (61.5%) included the antimicrobial pocket flush, and between 8.4% and 85% of the implantations were revision procedures. Studies used various antimicrobials for pocket flush, and definitions of CIED infection varied. Overall infection rates ranged from 0.5%\u20131.5%. CIED infection rates did not differ significantly between procedures performed with versus without antimicrobial pocket flush (0.8%\u00a0vs. 1.1%; relative risk 0.80; 95% confidence interval 0.39\u20131.63;\n                      p\u00a0\n                      =\u00a00.54). There was no difference in the subgroup analysis by antiseptic or antibiotic use.\n                    \n                  \n                  \n                    Conclusion\n                    Our results suggest that the antimicrobial pocket flush provides no benefit in preventing CIED infection, reinforcing the current guidelines that do not support its routine use.",
     "summary": "This meta-analysis of seven observational studies (12,283 patients) found no significant difference in cardiac implantable electronic device infection rates between procedures performed with versus without antimicrobial pocket flush (0.8% vs. 1.1%; RR 0.80, 95% CI 0.39\u20131.63), supporting current guideline recommendations against routine use of this practice."
+  },
+  {
+    "title": "Focal Pulsed-Field Ablation at the Coronary Sinus Ostium in the Presence of a Left Ventricular Lead: A Case Report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.001",
+    "doi": "10.1016/j.hrcr.2026.06.001",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
   },
   {
     "title": "Left Bundle Branch Optimized Cardiac Resynchronization Therapy with Leadless LV endocardial pacing (LOT-endo CRT)",
@@ -6172,114 +6285,6 @@
     "date_ts": 1777427503.472513,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Carbon Dioxide\u2013Guided Epicardial Access via the Jugular Vein Using an Inner-Lumen Coronary Sinus Catheter",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010060?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.472471,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Venous Flow Impairment Caused by Inadvertent Deployment of Collagen Into the Femoral Vein After Attempted Venous Closure",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010254?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.472435,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Accessory Pathway Ablation Via Vein of Marshall Ethanol Infusion: A Case Report of Successful Treatment for Refractory Orthodromic Atrioventricular Re-Entrant Tachycardia",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010308?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.472395,
-    "tags": [
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Focus on the Fascicles: A Collection of Challenging Cases",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010345?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.472364,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Coronary Occlusion During Radiofrequency Ablation for Pediatric Ebstein's Anomaly",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25011016?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.472331,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "<em>JACC: Clinical Electrophysiology</em> 2025 Young Author Achievement Award Winner",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002677?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.472294,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Full Issue PDF",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003397?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.472236,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Long-Term Continuous Rhythm Monitoring in Patients with Mitral Annular Disjunction",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001819?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.347794,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Initial Experience of Atrial Helix-Fixation Leadless Pacemakers with Extended Battery Longevity",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023003?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.123734,
-    "tags": [
-      "Devices"
     ],
     "hot": false
   }
