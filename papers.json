@@ -1,5 +1,174 @@
 [
   {
+    "title": "CA in AF With LVSD With and Without LV Fibrosis: Results From the CAMERA-MRI II Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600441X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jun 06, 2026",
+    "date_ts": 1780711186.543559,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "When the LBBB Does Not Prolong the Tachycardia Cycle Length in Left-Sided AVRT",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002744?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jun 06, 2026",
+    "date_ts": 1780711186.543527,
+    "tags": [
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Chasing Sparks or Rewiring the Circuit?: Ablation Strategies for Ventricular Fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004640?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jun 06, 2026",
+    "date_ts": 1780711186.543492,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Nanosecond Pulsed-Field Ablation Reduces Neuromuscular Stimulation and Widens the Safety Window",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004366?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jun 06, 2026",
+    "date_ts": 1780711186.543451,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A Rare Occurence of Simultaneous Dual Tachycardias: Simultaneous Fascicular VT With AVNRT",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004342?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jun 06, 2026",
+    "date_ts": 1780711186.543378,
+    "tags": [
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "3D Mapping-Guided Cardioneuroablation as a Pacemaker-Sparing Strategy in Refractory Cardioinhibitory Vasovagal Syncope: A Brief Report",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002461?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jun 06, 2026",
+    "date_ts": 1780711186.375014,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Near Real-Time Interactive N-body Model of the Left Atrium for Exploratory Arrhythmia Induction and Ablation Simulation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002485?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jun 06, 2026",
+    "date_ts": 1780711186.374974,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Dronedarone vs Class Ic Agents for Early AF : Protocol for the DRIVE-AF Randomized Clinical Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002473?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jun 06, 2026",
+    "date_ts": 1780711186.374936,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Individualized Dose\u2013Response Algorithm Versus Weight-Based Heparin Dosing for Intraprocedural Anticoagulation During Atrial Fibrillation Ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002497?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jun 06, 2026",
+    "date_ts": 1780711186.374871,
+    "tags": [
+      "AFib",
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Para-His periaortic VT ablation with focal pulsed-field energy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024525?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jun 06, 2026",
+    "date_ts": 1780711186.260335,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Focal monopolar pulsed field ablation of postero-medial papillary muscle premature ventricular contractions with early cardiac MRI assessment: Case Report.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024550?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jun 06, 2026",
+    "date_ts": 1780711186.260294,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of Adjunctive Posterior Left Atrial Ablation using Pulsed Field Ablation on Healthcare Utilization in Patients Undergoing First-time Catheter Ablation for Atrial Fibrillation: Results from the Multicentre SENTINEL Registry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024574?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jun 06, 2026",
+    "date_ts": 1780711186.260244,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of Anxiety and Depression in Patients with Atrial Fibrillation: Insights from Two International Prospective Registries",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024537?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jun 06, 2026",
+    "date_ts": 1780711186.260199,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Antisense-Mediated Gene Therapy Targeting <em>DMPK</em> Restores Cardiac Ion Channel Function and Electrical Stability in Myotonic Dystrophy Type 1",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024562?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jun 06, 2026",
+    "date_ts": 1780711186.260038,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "ECG Characteristics and Stellate Ganglion Blockade for Electrical Storm",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002448?dgcid=rss_sd_all",
     "doi": null,
@@ -405,6 +574,20 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Clinical guidelines do not recommend the routine rinsing of cardiac implantable electronic devices (CIED) with antimicrobials before pocket closure(\u201cantimicrobial pocket flush.\u201d) However, despite current recommendations and a lack of evidence regarding the utility of this practice for reducing CIED infections, the antimicrobial pocket flush is still commonly employed. Clarifying the true value of this technique is important for supporting evidence\u2010based practice and avoiding unnecessary antimicrobial use. Therefore, we performed meta\u2010analysis of observational studies to determine the effectiveness of this practice in preventing CIED infections.\n                  \n                  \n                    Methods\n                    We performed a systematic literature search for observational human studies investigating the effectiveness of employing the antimicrobial pocket flush to prevent CIED infection. A random effects meta\u2010analysis was performed. Effectiveness was estimated with the study\u2010level definitions of CIED infection. We performed subgroup analysis by type of antimicrobial\u2010antiseptic or antibiotic.\n                  \n                  \n                    Results\n                    \n                      A total of seven studies including 12,283 patients were analyzed. Over half of the CIED implantation procedures (61.5%) included the antimicrobial pocket flush, and between 8.4% and 85% of the implantations were revision procedures. Studies used various antimicrobials for pocket flush, and definitions of CIED infection varied. Overall infection rates ranged from 0.5%\u20131.5%. CIED infection rates did not differ significantly between procedures performed with versus without antimicrobial pocket flush (0.8%\u00a0vs. 1.1%; relative risk 0.80; 95% confidence interval 0.39\u20131.63;\n                      p\u00a0\n                      =\u00a00.54). There was no difference in the subgroup analysis by antiseptic or antibiotic use.\n                    \n                  \n                  \n                    Conclusion\n                    Our results suggest that the antimicrobial pocket flush provides no benefit in preventing CIED infection, reinforcing the current guidelines that do not support its routine use.",
     "summary": "This meta-analysis of seven observational studies (12,283 patients) found no significant difference in cardiac implantable electronic device infection rates between procedures performed with versus without antimicrobial pocket flush (0.8% vs. 1.1%; RR 0.80, 95% CI 0.39\u20131.63), supporting current guideline recommendations against routine use of this practice."
+  },
+  {
+    "title": "Atrial resynchronization: an overlooked concept in heart failure and conduction system pacing: review of selected literature with emphasis on atrial anatomy",
+    "link": "https://doi.org/10.1093/europace/euag088",
+    "doi": "10.1093/europace/euag088",
+    "journal": "EP Europace",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Unlike ventricular electrical disease, the impact of similar atrial disease on cardiac function has received insufficient importance. We aimed to examine data on atrial anatomy, electrical disease, and pacing to ameliorate abnormalities, offering pointers towards future practice.\n                  \n                  \n                    Methods and results\n                    We used PubMed to explore atrial anatomy, activation, and pacing aiming to improve function. From inception of pacing, causes of deterioration in ventricular systolic function went unrecognized. Their eventual recognition led to fresh pacing strategies, termed conduction system pacing, which have yielded improved and preserved long-term ventricular function: now standard practice. Study of atrial anatomy/conduction implies that similar approaches may improve atrial function and also reduce incidence of atrial fibrillation. Impact of atrial electrical disease on diastolic and subsequent ventricular systolic function has been ignored, despite data showing how pacing alternative atrial sites can abbreviate atrial activation and improve ventricular filling: methods that have not been widely adopted. Comprehension of atrial anatomy/conduction underpins abandonment of right atrial appendage pacing paralleling the move away from right ventricular apical pacing on similar principles.\n                  \n                  \n                    Conclusion\n                    When treating heart failure, atrial resynchronization should be considered along with ventricular resynchronization. Crucially, convenient pacing sites have been outmoded by active-fixation leads that can be placed at stimulation sites approximating normal conduction, including the atria; achievement hinges on understanding atrial anatomy and activation. Atrial resynchronization may significantly improve cardiac function where dyssynchrony relates to atrial disease/conduction delay, but more evidence of benefits must be collected. As resynchronization therapy moves forward, there should be parallel focus on evaluating coordination of atrial activation and timing with respect to the ventricles.",
+    "summary": "This narrative review synthesizes literature on atrial anatomy and electrical conduction to propose that atrial resynchronization pacing\u2014analogous to successful conduction system pacing strategies for ventricular dysfunction\u2014may improve cardiac function and reduce atrial fibrillation incidence by optimizing atrial activation and ventricular filling. The authors argue that current pacing practices underutilize atrial site selection and recommend systematic evaluation of atrial-ventricular coordination as resynchronization therapy advances."
   },
   {
     "title": "Focal Pulsed-Field Ablation at the Coronary Sinus Ostium in the Presence of a Left Ventricular Lead: A Case Report",
@@ -6102,187 +6285,6 @@
     "journal": "JACC: Clinical EP",
     "date": "Apr 29, 2026",
     "date_ts": 1777427503.473017,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Lead-Related SVC Syndrome: A Truly Rare Occurrence or an Accident Waiting to Happen?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25011168?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.472986,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Gastroparesis After Atrial Fibrillation Ablation: Incidence and Clinical Determinants",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009934?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.472955,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intraoperative Sino-Atrial Node Mapping in Left Atrial Isomerism: A Proof-of-Concept Study to Avoid Surgical Injury",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009946?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.472922,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsed-Field Ablation on Mitral Isthmus With the Pentaspline Catheter: Long Term Efficacy and Durability",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010199?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.472876,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Comparison of Coronary Artery Spasm and Acute Cavotricuspid Isthmus Reconnection Between 2 Pulsed Field Ablation Systems",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010187?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.472842,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Early vs Very Late Recurrence of Ventricular Tachycardia in Dilated Cardiomyopathy: Results From a Single-Center Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010217?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.47281,
-    "tags": [
-      "VT",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reduced Regional Brain Metabolism in Stroke-Free Atrial Fibrillation Patients: Insights From a Pilot FDG-PET Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010369?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.472778,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transhepatic Access (and Re-Access) for Electrophysiology Procedures in Adult Patients With Interrupted Inferior Vena Cava",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2501117X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.472744,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "T-Sign: A Novel CMR Scar Pattern With Favorable Outcomes During Ventricular Tachycardia Ablation in Cardiac Sarcoidosis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26000186?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.47271,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Irrigation Flow and Cerebral Magnetic Resonance Imaging Lesions During Variable-Loop Pulsed Field Ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002471?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.472677,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "REPLY: Irrigation Flow and Cerebral Magnetic Resonance Imaging Lesions During Variable-Loop Pulsed Field Ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600246X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.472639,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Jailed CIED Leads After TTVR: More Caution Is Warranted",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002434?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.47261,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "REPLY: Jailed CIED Leads After TTVR: More Caution Is Warranted",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002458?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.472575,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "PVC Location on a Single ECG: Marker of Burden or Substrate?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002446?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.472546,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Defining Success in Ablation: Challenges in Trial Design and Comparative Outcomes in the Era of PFA",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25011004?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.472513,
     "tags": [
       "Other"
     ],
