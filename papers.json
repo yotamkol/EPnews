@@ -1,5 +1,29 @@
 [
   {
+    "title": "Prognostic value of the baseline CAVIAR response score after cardiac resynchronization therapy: ten-year outcomes from the Markers and Response to CRT (MARC) study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602463X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jun 08, 2026",
+    "date_ts": 1780885922.926632,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Outcomes of left atrial appendage closure versus oral anticoagulation after catheter ablation among patients with higher and lower stroke risk: A sub-analysis of the OPTION clinical trial.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024628?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jun 08, 2026",
+    "date_ts": 1780885922.926464,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Early Arrhythmia Recurrence during the Blanking Period after Pulsed-field Ablation for Atrial Fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002242?dgcid=rss_sd_all",
     "doi": null,
@@ -6282,30 +6306,6 @@
     "journal": "JACC: Clinical EP",
     "date": "Apr 29, 2026",
     "date_ts": 1777427503.473681,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Catheter Ablation of Ventricular Arrhythmias in Patients With Congenital Heart Diseases: A Nationwide Prospective Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25009223?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.473648,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Predicting Survival in Ventricular Tachycardia Storm: The CHAMPS Risk Score and Implications for Ablation Timing",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25010291?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.473616,
     "tags": [
       "VT"
     ],
