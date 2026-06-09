@@ -1,5 +1,33 @@
 [
   {
+    "title": "Electrophysiological Characteristics of the Right Middle Pulmonary Vein and the Impact of Additional Carina Ablation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70309?af=R",
+    "doi": "10.1111/pace.70309",
+    "journal": "PACE",
+    "date": "Jun 08, 2026",
+    "date_ts": 1780889946.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Previous studies have demonstrated electrical connections between ipsilateral pulmonary veins (PVs). This study aimed to characterize the electrophysiological features of right middle pulmonary vein (RMPV) originating from right superior pulmonary vein (RSPV).\n                  \n                  \n                    Methods\n                    We prospectively enrolled patients with atrial fibrillation (AF) with an identifiable RMPV on pre\u2010procedural cardiac computed tomography angiography (CTA) and in whom a multipolar mapping catheter could be advanced into the RMPV. Cardiac CTA was used to assess left atrial and PV anatomy, including ostial diameter, area and ovality index. The RMPV was defined as an inferiorly directed branch arising from the ostium\u2010proximal segment of the RSPV, within 1\u00a0cm from the ostium\n                  \n                  \n                    Results\n                    \n                      A total of 118 patients were included (mean age 63.9 years, 63.6% male). The mean RMPV ostial area was 0.69\u00a0\u00b1\u00a00.41 cm\n                      2\n                      , with maximum and minimum diameters of 0.83\u00a0\u00b1\u00a00.21\u00a0cm and 0.63\u00a0\u00b1\u00a00.17\u00a0cm, respectively. The mean ovality index was 1.35\u00a0\u00b1\u00a00.27 for RMPV. AF triggers originating from the RMPV were identified in 3 patients (2.5%). During circumferential pulmonary vein isolation (CPVI), RMPV potentials were eliminated in 99 patients (83.9%), concurrently with disappearance of RSPV potentials. In the remaining 19 patients, RMPV potentials persisted after CPVI and required additional carina ablation to achieve isolation. After a mean follow\u2010up of 41 months, 96 patients remained free from atrial tachyarrhythmia recurrence after the index procedure.\n                    \n                  \n                  \n                    Conclusions\n                    RMPV potentials predominantly originate from the RSPV and can usually be eliminated during CPVI. However, additional carina ablation is required in a subset of patients to achieve RMPV isolation.",
+    "summary": "This prospective study of 118 AF patients characterized the electrophysiological features of anatomic right middle pulmonary veins (RMPV) originating from the right superior pulmonary vein, finding that standard circumferential pulmonary vein isolation eliminated RMPV potentials in 83.9% of cases, though additional carina ablation was necessary in 16.1% of patients to achieve complete isolation. At 41-month follow-up, 81.4% of patients remained free from atrial tachyarrhythmia recurrence after the index procedure."
+  },
+  {
+    "title": "Is Coffee Consumption Associated With Increased Risk of Atrial Fibrillation: A Systematic Review and a Meta\u2010Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70320?af=R",
+    "doi": "10.1111/pace.70320",
+    "journal": "PACE",
+    "date": "Jun 08, 2026",
+    "date_ts": 1780889778.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Objective\n                    Although coffee consumption is often reported as a trigger for atrial fibrillation (AF), prospective studies on the association between coffee consumption and AF risk have been inconsistent. Hence, we sought to assess the association between coffee consumption and risk of AF.\n                  \n                  \n                    Methods\n                    We searched PubMed, Embase, and Cochrane Library up to November 30, 2025, without language restriction. We included cohort or nested case\u2010control studies that enrolled participants with no AF history who did not drink coffee or had daily coffee consumption. The outcome was the risk of new\u2010onset AF in participants with coffee consumption.\n                  \n                  \n                    Results\n                    Overall, 9 observational cohorts were selected for this meta\u2010analysis, comprising 704,121 individuals and 35,253 new\u2010onset AF cases. The subgroup analysis showed a reduced new\u2010onset AF risk among participants who drank coffee for less than or equal to 1 cup daily (RR: 0.96; 95%CI: 0.93\u20130.99), but no significant association with new\u2010onset AF risk among those who drank 1\u20133 cups/d (RR: 0.95; 95%CI: 0.85\u20101.06), 3\u20135 cups/d (RR: 0.96; 95%CI: 0.91\u20131.02), \u22654 cups/d (RR: 0.89; 95%CI: 0.78\u20131.02), or \u22655 cups/d (RR: 0.93; 95%CI: 0.86\u20131.02). Compared with the lowest level of coffee intake, the overall estimate of the highest coffee consumption in the included studies also showed that \u22654 cups/d were not significantly associated with reduced risk of new\u2010onset AF (RR: 0.95; 95% CI: 0.89\u20131.02). In addition, this result was consistent across men (RR: 1.05; 95% CI: 0.97\u20131.14) and women (RR: 0.91; 95% CI: 0.80\u20131.04).\n                  \n                  \n                    Conclusion\n                    Daily coffee consumption of 1 cup or less can reduce the risk of new\u2010onset AF. However, higher coffee consumption is not associated with the risk of new\u2010onset AF.",
+    "summary": "This meta-analysis of 9 observational cohort studies (704,121 participants, 35,253 AF cases) found that coffee consumption \u22641 cup daily was associated with a modest reduction in new-onset atrial fibrillation risk (RR 0.96), while higher consumption (1-5+ cups daily) showed no significant association with AF risk. The findings suggest coffee is not a clinically important AF trigger, contrary to common patient concerns."
+  },
+  {
     "title": "Prognostic value of the baseline CAVIAR response score after cardiac resynchronization therapy: ten-year outcomes from the Markers and Response to CRT (MARC) study",
     "link": "https://www.sciencedirect.com/science/article/pii/S154752712602463X?dgcid=rss_sd_all",
     "doi": null,
@@ -22,6 +50,47 @@
       "AFib"
     ],
     "hot": false
+  },
+  {
+    "title": "Screening for Atrial Fibrillation using an ECG Monitoring Patch among the Elderly Population in Rural China: A Single-Arm Study",
+    "link": "https://doi.org/10.1093/europace/euag135",
+    "doi": "10.1093/europace/euag135",
+    "journal": "EP Europace",
+    "date": "Jun 08, 2026",
+    "date_ts": 1780876800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "In Vitro Assessment of 3T MRI Effects on Non\u20133T\u2010Compatible Cardiac Implantable Electronic Devices",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70397?af=R",
+    "doi": "10.1111/jce.70397",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 07, 2026",
+    "date_ts": 1780857641.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    The safety of cardiac implantable electronic devices (CIEDs) during 3\u2010Tesla (3T) MRI remains uncertain, particularly for devices not designed for 3T use. We experimentally evaluated 3T MRI effects on 3T\u2010compatible and non\u20133T\u2010compatible CIEDs.\n                  \n                  \n                    Methods\n                    \n                      Fifty\u2010eight CIEDs (37 pacemakers, 21 ICDs; 3T MRI\u2010conditional\n                      n\n                      \u2009=\u200931, 1.5\u2010T MRI\u2010conditional\n                      n\n                      \u2009=\u200914, and non\u2013MRI\u2010conditional\n                      n\n                      \u2009=\u200913) were tested in a 3T scanner. Each device was immersed in saline with connected leads and programmed to asynchronous or demand pacing with MRI mode ON or OFF. Device interrogation before and after scanning assessed telemetry integrity, parameter retention, and pacing\u2010mode changes.\n                    \n                  \n                  \n                    Results\n                    \n                      Most CIEDs completed MRI without malfunction and remained telemetric. However, among pacemakers, telemetry failure or parameter reset occurred in 6 non\u2013MRI\u2010conditional and 3 1.5\u2010T MRI\u2010conditional devices, including some devices with MRI mode ON. Reset or telemetry failure was more frequent in devices with low battery status (\u2264\u200930% to ERI) than in those with higher status (6/11 [55%] vs. 3/22 [14%],\n                      p\n                      =\u20090.013). With MRI mode OFF, magnet mode was activated in 11 3T and 7 non\u2013MRI\u2010conditional pacemakers; activation frequency did not differ between asynchronous and demand pacing (16/31 [52%] vs. 18/31 [58%],\n                      p\n                      =\u20090.610). In some pacemakers and ICDs, demand pacing led to atrial mode switch or pacing inhibition, but no reset or telemetry failure occurred in ICDs.\n                    \n                  \n                  \n                    Conclusions\n                    In direct in vitro 3T MRI exposure experiments involving non\u20133T MRI CIEDs, some pacemakers approaching ERI demonstrated an increased risk of telemetry failure or reset, and those with MRI mode turned off showed non\u2010negligible mode switching. However, the majority of devices did not exhibit severe electrical malfunctions necessitating replacement in a clinical setting, and no instances of device reset or telemetry failure were observed in ICDs.",
+    "summary": "This in vitro experimental study tested 58 CIEDs (37 pacemakers, 21 ICDs) during 3T MRI exposure and found that while most devices functioned without malfunction, non-3T-compatible and 1.5T-conditional pacemakers with low battery status (\u226430% to ERI) had increased risk of telemetry failure or parameter reset (55% vs. 14%, p=0.013), whereas ICDs demonstrated no reset or telemetry failures. The findings suggest cautious consideration of 3T MRI in patients with pacemakers near end-of-life battery status, though severe malfunctions requiring device replacement were uncom"
+  },
+  {
+    "title": "Post Pacing Interval Following Failed Anti\u2010Tachycardia Pacing Predicts Epicardial Ventricular Tachycardia Circuits in Patients With Non\u2010Ischemic Cardiomyopathy",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70388?af=R",
+    "doi": "10.1111/jce.70388",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 07, 2026",
+    "date_ts": 1780857248.0,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Anti\u2010tachycardia pacing (ATP) that entrains but fails to terminate ventricular tachycardia (VT) provides an opportunity to use post\u2010pacing interval minus tachycardia cycle length (PPI\u2009\u2212\u2009TCL) as a diagnostic tool. We evaluated whether PPI\u2009\u2212\u2009TCL from failed ATP could predict the presence of epicardial re\u2010entrant VT circuits in patients with ischemic cardiomyopathies (ICM) vs. non\u2010ischemic cardiomyopathies (NICM).\n                  \n                  \n                    Methods\n                    A retrospective analysis was conducted of 51 patients who underwent VT ablation at Beth Israel Deaconess Medical Center from January 2020 to March 2025 and had failed ATP episodes recorded by their implantable cardioverter\u2010defibrillators (ICDs). PPI\u2009\u2212\u2009TCL measurements and critical VT circuit locations (apex, septum, free wall, epicardial) were independently adjudicated. PPI\u2009\u2212\u2009TCL was stratified by VT location and cardiomyopathy type, with sensitivity analyses for normalized PPI\u2009\u2212\u2009TCL [(PPI\u2009\u2212\u2009TCL)/TCL].\n                  \n                  \n                    Results\n                    \n                      Included patients had a median age of 70 years, a median LVEF of 31%, 31 (61%) were infarct cardiomyopathy (ICM) and 20 (39%) were non\u2010infarct cardiomyopathies (NICM). ATP\u2010PPI was significantly longer at locations further from the ICD pacing electrode (i.e: free wall, epicardial) as compared to locations that were closer (i.e: apex, septum) (\n                      p\n                      \u2009=\u20090.023). This relationship held true for NICM (\n                      p\n                      \u2009=\u20090.026) but not for ICM (\n                      p\n                      \u2009=\u20090.085). For patients with non\u2010infarct cardiomyopathies, an optimal ATP\u2010PPI cutoff of 165\u2009ms provided an 86% sensitivity and 77% specificity for predicting epicardial circuits.\n                    \n                  \n                  \n                    Conclusion\n                    PPI\u2009\u2212\u2009TCL following failed ATP reliably predicts epicardial VT circuits in NICM with a 165\u2009ms cutoff offering high sensitivity and specificity. This non\u2010invasive tool may guide epicardial access planning in NICM VT ablation, though prospective validation is needed.",
+    "summary": "This retrospective analysis of 51 patients (31 ICM, 20 NICM) undergoing VT ablation found that post-pacing interval minus tachycardia cycle length (PPI-TCL) from failed ATP episodes reliably predicts epicardial VT circuits in non-ischemic cardiomyopathies, with a 165 ms cutoff demonstrating 86% sensitivity and 77% specificity, though this relationship did not hold for ischemic cardiomyopathies. The findings suggest PPI-TCL could serve as a non-invasive tool to guide epicardial access planning in NICM VT ablation pending"
   },
   {
     "title": "Early Arrhythmia Recurrence during the Blanking Period after Pulsed-field Ablation for Atrial Fibrillation",
@@ -835,6 +904,42 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Clinical guidelines do not recommend the routine rinsing of cardiac implantable electronic devices (CIED) with antimicrobials before pocket closure(\u201cantimicrobial pocket flush.\u201d) However, despite current recommendations and a lack of evidence regarding the utility of this practice for reducing CIED infections, the antimicrobial pocket flush is still commonly employed. Clarifying the true value of this technique is important for supporting evidence\u2010based practice and avoiding unnecessary antimicrobial use. Therefore, we performed meta\u2010analysis of observational studies to determine the effectiveness of this practice in preventing CIED infections.\n                  \n                  \n                    Methods\n                    We performed a systematic literature search for observational human studies investigating the effectiveness of employing the antimicrobial pocket flush to prevent CIED infection. A random effects meta\u2010analysis was performed. Effectiveness was estimated with the study\u2010level definitions of CIED infection. We performed subgroup analysis by type of antimicrobial\u2010antiseptic or antibiotic.\n                  \n                  \n                    Results\n                    \n                      A total of seven studies including 12,283 patients were analyzed. Over half of the CIED implantation procedures (61.5%) included the antimicrobial pocket flush, and between 8.4% and 85% of the implantations were revision procedures. Studies used various antimicrobials for pocket flush, and definitions of CIED infection varied. Overall infection rates ranged from 0.5%\u20131.5%. CIED infection rates did not differ significantly between procedures performed with versus without antimicrobial pocket flush (0.8%\u00a0vs. 1.1%; relative risk 0.80; 95% confidence interval 0.39\u20131.63;\n                      p\u00a0\n                      =\u00a00.54). There was no difference in the subgroup analysis by antiseptic or antibiotic use.\n                    \n                  \n                  \n                    Conclusion\n                    Our results suggest that the antimicrobial pocket flush provides no benefit in preventing CIED infection, reinforcing the current guidelines that do not support its routine use.",
     "summary": "This meta-analysis of seven observational studies (12,283 patients) found no significant difference in cardiac implantable electronic device infection rates between procedures performed with versus without antimicrobial pocket flush (0.8% vs. 1.1%; RR 0.80, 95% CI 0.39\u20131.63), supporting current guideline recommendations against routine use of this practice."
+  },
+  {
+    "title": "Erdheim-Chester Disease Presenting as Complete Heart Block: A Case Report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.009",
+    "doi": "10.1016/j.hrcr.2026.05.009",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "From Bradyarrhythmia to Embolism: A Rare Case of Acute Pulmonary Embolism Immediately Following Pacemaker Implantation",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.019",
+    "doi": "10.1016/j.hrcr.2026.05.019",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transient Reset of a Ventricular Leadless Pacemaker Following Monopolar Pulsed Field Ablation: A Case Report with Ex Vivo Validation",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.018",
+    "doi": "10.1016/j.hrcr.2026.05.018",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
   },
   {
     "title": "Atrial resynchronization: an overlooked concept in heart failure and conduction system pacing: review of selected literature with emphasis on atrial anatomy",
@@ -6209,106 +6314,5 @@
     "hot": false,
     "abstract": "BACKGROUND: Fluoroscopy reduction has become a priority in electrophysiology to mitigate radiation exposure and the musculoskeletal burden of lead apron use. Pulsed field ablation (PFA) offers a favorable safety profile and efficient pulmonary vein isolation (PVI), making it an attractive platform for fluoroscopy-free workflows. Our aim is to evaluate the feasibility, procedural characteristics, and safety of fluoroscopy-free PFA for atrial fibrillation (AF). METHODS: We searched PubMed/MEDLINE, Embase, and Web of Science from inception through November 2025 for studies evaluating zero- or near-zero-fluoroscopy PFA in adults with paroxysmal or persistent AF. Eligible studies reported at least one feasibility or safety outcome (fluoroscopy time, acute PVI success, procedure duration, complications, or arrhythmia-free survival). Case reports, non-PFA energy sources, and pediatric studies were excluded. Data was extracted on study design, patient characteristics, procedural strategy, and outcomes. The protocol was registered in PROSPERO (CRD420251245538). RESULTS: Five observational studies published in 2025, comprising 260 patients, met inclusion criteria. Mean or median age ranged from 60 to 68 years, and most patients had paroxysmal AF. All procedures used contemporary PFA systems (Farawave, VARIPULSE, or PulseSelect) integrated with EnSite X or CARTO 3 mapping and ICE and/or TEE guidance. Four studies reported fluoroscopy times of 0 min; in the AdmIRE subgroup, fluoroscopy was 0 min in the zero-fluoroscopy group versus a median 2.7 min in the low-fluoroscopy group. Acute PVI was achieved in 100% of cases in all studies reporting this endpoint. Among cohorts with follow-up, freedom from AF ranged from 72.1% to 80%. Major complications were rare: no cardiac tamponade was reported in any fluoroscopy-free cohort, isolated cerebrovascular events occurred only in the larger registry without excess risk in the zero-fluoroscopy group. CONCLUSIONS: Fluoroscopy-free PFA for AF appears highly feasible, with uniform acute PVI success and low complication rates. Integration of echocardiographic guidance enables effective catheter navigation and lesion delivery without radiation. Larger, prospective multicenter studies with longer follow-up are needed to confirm long-term efficacy and safety.",
     "summary": "This systematic review of five observational studies (260 patients with paroxysmal or persistent AF) demonstrates that fluoroscopy-free pulsed field ablation achieves 100% acute pulmonary vein isolation with rare major complications and freedom from AF of 72.1-80% at follow-up, establishing the feasibility of radiation-free ablation using ICE/TEE guidance integrated with contemporary mapping systems. However, the authors acknowledge that larger prospective multicenter trials with extended follow-up are necessary to validate long-term efficacy and safety."
-  },
-  {
-    "title": "Electrocardiographic Correlates of Myocardial Remodeling After Cardiac Resynchronization Therapy",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70258?af=R",
-    "doi": "10.1111/pace.70258",
-    "journal": "PACE",
-    "date": "Apr 30, 2026",
-    "date_ts": 1777545703.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Ethanol Infusion in the Vein of Marshall as an Adjunct to Catheter Ablation in Persistent Atrial Fibrillation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70275?af=R",
-    "doi": "10.1111/pace.70275",
-    "journal": "PACE",
-    "date": "Apr 30, 2026",
-    "date_ts": 1777544980.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left Internal Mammary Artery Injury After Pacemaker Lead Implant\u2014Case Report and Review of Literature",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70271?af=R",
-    "doi": "10.1111/pace.70271",
-    "journal": "PACE",
-    "date": "Apr 30, 2026",
-    "date_ts": 1777544684.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "We hereby report a case of a 75-year-old patient who developed a large left-sided hemopneumothorax after a routine dual-chamber pacemaker insertion. The rare complication was caused by the pacing lead injuring the left internal mammary artery (LIMA) after perforating the right ventricle.",
-    "summary": "This case report describes a 75-year-old patient who sustained a rare complication of hemopneumothorax following routine dual-chamber pacemaker insertion, caused by the pacing lead perforating the right ventricle and injuring the left internal mammary artery. The case highlights an uncommon but serious iatrogenic vascular injury associated with transvenous lead placement."
-  },
-  {
-    "title": "Antibody\u2013siRNA conjugates enable macrophage-specific osteopontin inhibition to suppress atrial fibrillation",
-    "link": "https://www.nature.com/articles/s44161-026-00808-4",
-    "doi": "10.1038/s44161-026-00808-4",
-    "journal": "Nature Cardiovasc Res",
-    "date": "Apr 30, 2026",
-    "date_ts": 1777513842.182078,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Phantom Crosstalk Masking True Ventricular Tachycardia in LMNA Cardiomyopathy: A Diagnostic Pitfall in CRT\u2010D Systems",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70274?af=R",
-    "doi": "10.1111/pace.70274",
-    "journal": "PACE",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777439683.0,
-    "tags": [
-      "VT",
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "Unexpected atrial-like signals appearing after ICD shock in a patient without an atrial lead raise a diagnostic dilemma. In this case, a CRT-D delivered appropriate therapy for ventricular tachycardia, yet post-shock electrograms suggested an alternative mechanism. Careful analysis revealed phantom crosstalk as the source of this misleading pattern, highlighting a subtle but important pitfall in device interpretation.",
-    "summary": "This case report describes a CRT-D patient in whom post-shock electrograms mimicked atrial signals due to phantom crosstalk, a device artifact that can create diagnostic confusion despite appropriate ventricular tachycardia therapy delivery. The finding underscores the importance of careful electrogram analysis to distinguish device-related artifacts from true atrial activity in ICD interpretation."
-  },
-  {
-    "title": "Editorial Board",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600277X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.473743,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Anatomy of the Isthmus: Unraveling the Tissue Composition of the Ventricular Tachycardia Diastolic Pathway",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2500893X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.473712,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Decoding the Histological Blueprint of the Re-Entrant Ventricular Tachycardia Isthmus",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X25011065?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Apr 29, 2026",
-    "date_ts": 1777427503.473681,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
   }
 ]
