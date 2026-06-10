@@ -1,5 +1,55 @@
 [
   {
+    "title": "Top Developments in Clinical Cardiac Electrophysiology-2025",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002539?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781057318.575167,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Leadless Pacemaker Implantation During Pregnancy: Quantitative Assessment of Fetal Radiation Exposure",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002552?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781057318.574978,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "AF-B-STEP: a global collaboration to reduce the burden of atrial fibrillation and advance its quantification and treatment",
+    "link": "https://doi.org/10.1093/eurheartj/ehag304",
+    "doi": "10.1093/eurheartj/ehag304",
+    "journal": "European Heart Journal",
+    "date": "Jun 09, 2026",
+    "date_ts": 1780963200.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Zero\u2010Contrast Versus Contrast\u2010Guided Left Atrial Appendage Occlusion: A Comparative Analysis of Procedural and Long\u2010Term Outcomes",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70362?af=R",
+    "doi": "10.1111/jce.70362",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 08, 2026",
+    "date_ts": 1780924778.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Contrast injection is standard in left atrial appendage occlusion (LAAO) procedures but may be forgone given advances in imaging and device technology. The contrast\u2010free approach remains underexplored.\n                  \n                  \n                    Objectives\n                    To compare the safety and efficacy of zero\u2010contrast versus contrast\u2010guided LAAO.\n                  \n                  \n                    Methods\n                    All consecutive patients who underwent LAAO at our center between September 2018 and October 2022 using Watchman FLX\u2122 devices were enrolled in a prospectively maintained registry. A total of 621 patients were divided between zero\u2010contrast (326) and contrast\u2010guided (295) LAAO. Baseline, procedural, and follow\u2010up outcomes were compared. Periprocedural adverse events included major complications within 7 days. LAA closure success was defined as peri\u2010device leak \u2264\u20095\u2009mm on follow\u2010up imaging.\n                  \n                  \n                    Results\n                    \n                      Procedural success was 100% in zero\u2010contrast and 99.3% in contrast\u2010guided cases (\n                      p\n                      \u2009=\u20090.2). Periprocedural adverse events occurred in six (1.8%) zero\u2010contrast and two (0.7%) contrast\u2010guided patients (\n                      p\n                      \u2009=\u20090.3). At 45 days, 297 zero\u2010contrast versus 271 contrast\u2010guided patients had evaluable follow\u2010up imaging. LAA closure success was 99.3% (295) and 99.6% (270), respectively (\n                      p\n                      \u2009&gt;\u20090.99), while device\u2010related thrombus (DRT) was observed in three patients in each group (1.0% vs. 1.1%,\n                      p\n                      \u2009&gt;\u20090.99). At 1 year, 68 zero\u2010contrast and 79 contrast\u2010guided patients had TEEs. LAA closure success remained high at 100% in both groups and DRT was observed in three patients from each (4.4% vs. 3.8%,\n                      p\n                      \u2009&gt;\u20090.99). Ischemic stroke or systemic embolism occurred in 1.9% of zero\u2010contrast patients versus 2.1% in the contrast group within 1 year (\n                      p\n                      \u2009=\u20090.8).\n                    \n                  \n                  \n                    Conclusions\n                    Zero\u2010contrast LAAO is a safe, effective, and efficient alternative to contrast\u2010guided implantation, with comparable procedural and clinical outcomes.",
+    "summary": "This prospective registry study of 621 patients (326 zero-contrast, 295 contrast-guided) undergoing Watchman FLX left atrial appendage occlusion found that zero-contrast LAAO achieved equivalent procedural success (100% vs 99.3%), periprocedural safety (1.8% vs 0.7% adverse events), and clinical efficacy including LAA closure success (99.3-100% at 45 days and 1 year) and device-related thrombus rates (1.0-1.1% at 45 days, 3.8-4.4% at 1 year) compared to contrast"
+  },
+  {
     "title": "Electrophysiological Characteristics of the Right Middle Pulmonary Vein and the Impact of Additional Carina Ablation",
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70309?af=R",
     "doi": "10.1111/pace.70309",
@@ -6262,57 +6312,5 @@
       "SCD"
     ],
     "hot": false
-  },
-  {
-    "title": "Long-Term Lessons From the COACT Trial: Coronary Angiography After Out-of-Hospital Cardiac Arrest Revisited",
-    "link": "https://www.sciencedirect.com/science/article/pii/S073510972600224X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 30, 2026",
-    "date_ts": 1777513841.336116,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Immediate Coronary Angiography for STEMI and Out-of-Hospital Cardiac Arrest: Hospital Variation in the NCDR Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725105962?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 30, 2026",
-    "date_ts": 1777513841.335903,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Direct oral anticoagulants vs warfarin in Asian vs non-Asian patients with atrial fibrillation: a patient-level meta-analysis from COMBINE AF",
-    "link": "https://doi.org/10.1093/eurheartj/ehag246",
-    "doi": "10.1093/eurheartj/ehag246",
-    "journal": "European Heart Journal",
-    "date": "Apr 30, 2026",
-    "date_ts": 1777507200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Large-scale randomized data comparing clinical outcomes of atrial fibrillation patients of Asian vs non-Asian races are limited.\n                  \n                  \n                    Methods\n                    Data from A Collaboration Between Multiple Institutions to Better Investigate Non-Vitamin K Antagonist Oral Anticoagulant Use in Atrial Fibrillation, which pooled patient-level data from the four pivotal randomized trials of direct oral anticoagulants (DOACs) vs warfarin in patients with atrial fibrillation, were analysed. Baseline characteristics and clinical outcomes in patients of Asian race (Asians) vs non-Asian race were compared. The relative efficacy and safety of DOACs compared with warfarin in Asians vs non-Asians, assessing for interactions between race and treatment effect, were investigated. Outcomes across the range of body weight and creatinine clearance in Asians were also explored.\n                  \n                  \n                    Results\n                    A total of 10 212 Asian patients and 61 471 non-Asians were identified. Compared with non-Asians, Asians were on average 3.2 years younger and 20\u2005kg lighter, had worse renal function (mean creatinine clearance 64.9 vs 77.3\u2005mL/min), and had higher rates of prior stroke/transient ischaemic attack (37.2% vs 26.6%) (P &amp;lt; .001 for each). In the warfarin arm (median time in therapeutic range 57.7% for Asians vs 66.2% for non-Asians, P &amp;lt; .001), Asians had a higher adjusted risk of stroke/systemic embolic events (SEEs), major bleeding, intracranial haemorrhage, gastrointestinal bleeding, and primary net clinical outcome (stroke/SEE, major bleeding, or death). Compared with warfarin, standard-dose (SD) DOACs significantly reduced the risks in Asians to a greater degree than non-Asians for stroke/SEE (hazard ratio [HR] .65, 95% confidence interval .53\u2013.80 vs HR .86, 95% confidence interval .78\u2013.95), major bleeding (HR .62 [.52\u2013.75] vs HR .91 [.84\u2013.98]), and primary net clinical outcome (HR .76 [.68\u2013.85] vs HR .94 [.90\u2013.98]; Pint &amp;lt; .02 for each). Standard-dose DOACs increased gastrointestinal bleeding only in non-Asians (Asians HR .92 [.69\u20131.23] vs non-Asians HR 1.41 [1.25\u20131.58], Pint = .009). In Asians, SD DOACs reduced the risks of clinical events across the wide range of body weight and creatinine clearance. Compared with SD DOACs, lower-dose DOACs significantly increased the risk of stroke/SEE (HR 1.57 [1.15\u20132.13]) and secondary net clinical outcome (stroke/SEE, intracranial haemorrhage, or death; HR 1.23 [1.03\u20131.48]) in Asians.\n                  \n                  \n                    Conclusions\n                    Clinical outcomes with SD DOACs vs warfarin in patients with atrial fibrillation were generally even more favourable in patients of Asian than non-Asian race. Compared with warfarin, SD DOACs did not increase the risk of gastrointestinal bleeding in Asians. Standard-dose DOACs are preferred over warfarin or lower-dose DOACs in patients of Asian race.",
-    "summary": "This pooled analysis of four pivotal RCTs (n=71,683; 10,212 Asian, 61,471 non-Asian patients) demonstrated that standard-dose DOACs provided greater risk reduction compared with warfarin for stroke/SEE, major bleeding, and net clinical outcome in Asian versus non-Asian AF patients, with no increased gastrointestinal bleeding risk in Asians, supporting standard-dose DOAC preference over warfarin or reduced-dose DOACs in this population."
-  },
-  {
-    "title": "Fluoroscopy\u2010Free Pulsed Field Ablation for Atrial Fibrillation: A Systematic Review of Procedural Feasibility and Safety",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70273?af=R",
-    "doi": "10.1111/pace.70273",
-    "journal": "PACE",
-    "date": "Apr 30, 2026",
-    "date_ts": 1777545905.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND: Fluoroscopy reduction has become a priority in electrophysiology to mitigate radiation exposure and the musculoskeletal burden of lead apron use. Pulsed field ablation (PFA) offers a favorable safety profile and efficient pulmonary vein isolation (PVI), making it an attractive platform for fluoroscopy-free workflows. Our aim is to evaluate the feasibility, procedural characteristics, and safety of fluoroscopy-free PFA for atrial fibrillation (AF). METHODS: We searched PubMed/MEDLINE, Embase, and Web of Science from inception through November 2025 for studies evaluating zero- or near-zero-fluoroscopy PFA in adults with paroxysmal or persistent AF. Eligible studies reported at least one feasibility or safety outcome (fluoroscopy time, acute PVI success, procedure duration, complications, or arrhythmia-free survival). Case reports, non-PFA energy sources, and pediatric studies were excluded. Data was extracted on study design, patient characteristics, procedural strategy, and outcomes. The protocol was registered in PROSPERO (CRD420251245538). RESULTS: Five observational studies published in 2025, comprising 260 patients, met inclusion criteria. Mean or median age ranged from 60 to 68 years, and most patients had paroxysmal AF. All procedures used contemporary PFA systems (Farawave, VARIPULSE, or PulseSelect) integrated with EnSite X or CARTO 3 mapping and ICE and/or TEE guidance. Four studies reported fluoroscopy times of 0 min; in the AdmIRE subgroup, fluoroscopy was 0 min in the zero-fluoroscopy group versus a median 2.7 min in the low-fluoroscopy group. Acute PVI was achieved in 100% of cases in all studies reporting this endpoint. Among cohorts with follow-up, freedom from AF ranged from 72.1% to 80%. Major complications were rare: no cardiac tamponade was reported in any fluoroscopy-free cohort, isolated cerebrovascular events occurred only in the larger registry without excess risk in the zero-fluoroscopy group. CONCLUSIONS: Fluoroscopy-free PFA for AF appears highly feasible, with uniform acute PVI success and low complication rates. Integration of echocardiographic guidance enables effective catheter navigation and lesion delivery without radiation. Larger, prospective multicenter studies with longer follow-up are needed to confirm long-term efficacy and safety.",
-    "summary": "This systematic review of five observational studies (260 patients with paroxysmal or persistent AF) demonstrates that fluoroscopy-free pulsed field ablation achieves 100% acute pulmonary vein isolation with rare major complications and freedom from AF of 72.1-80% at follow-up, establishing the feasibility of radiation-free ablation using ICE/TEE guidance integrated with contemporary mapping systems. However, the authors acknowledge that larger prospective multicenter trials with extended follow-up are necessary to validate long-term efficacy and safety."
   }
 ]
