@@ -1,5 +1,56 @@
 [
   {
+    "title": "Complex Atrial Substrate in Hypertrophic Cardiomyopathy Presenting as Right Pulmonary Vein\u2013Related Atypical Atrial Flutter",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002503?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jun 11, 2026",
+    "date_ts": 1781145125.155264,
+    "tags": [
+      "AFib",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Nurse Practitioner Led CIED Monitoring during MRI in Pediatric and Adult Congenital Heart Disease Patients",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002540?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jun 11, 2026",
+    "date_ts": 1781145125.155221,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left Bundle Branch Area Pacing Outcomes from an African Registry: Short-term Findings from the MACOP Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002564?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jun 11, 2026",
+    "date_ts": 1781145125.155007,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Validation of Automated Low Voltage Area Measurement Using CARTONET in Atrial Fibrillation Patients",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70313?af=R",
+    "doi": "10.1111/pace.70313",
+    "journal": "PACE",
+    "date": "Jun 10, 2026",
+    "date_ts": 1781068056.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Low\u2010voltage areas (LVAs) detected via electroanatomic mapping (EAM) are key indicators of atrial remodeling and predictors of atrial fibrillation (AF) recurrence following pulmonary vein isolation (PVI). However, manual LVA quantification is time\u2010intensive, operator\u2010dependent, and prone to variability.\n                  \n                  \n                    Objective\n                    To validate the accuracy, consistency, and efficiency of automatic LVA quantification function of CARTONET\u2014a cloud\u2010based automated platform for LVA quantification\u2014by comparing it with conventional manual analysis in AF patients.\n                  \n                  \n                    Methods\n                    This retrospective study included 100 patients who underwent PVI for AF at a single center between January 2022 and December 2023. Manual LVA measurements were performed by experts using CARTO3. LVA quantification and anatomical segmentation were performed using CARTONET. LVA was stratified into four categories: low (&lt;5%), mild (5%\u201320%), moderate (20%\u201335%), and severe (&gt;35%). Statistical analyses included Spearman's rank correlation (\u03c1), Bland\u2013Altman agreement, and confusion matrices for categorical classification, with subgroup analysis based on segmentation errors and map point density. The number and the locations of segmentation errors were quantified.\n                  \n                  \n                    Results\n                    \n                      CARTONET demonstrated strong correlation with manual measurements across all LA regions (\n                      \u03c1\n                      \u00a0=\u00a00.928\u20130.983,\n                      p\n                      \u00a0&lt;\u00a00.01). Significant differences were observed in anterior and posterior walls (\n                      p\n                      \u00a0&lt;\u00a00.01), especially in low\u2010density maps. In high\u2010density maps, no significant differences were observed (\n                      p\n                      \u00a0\u2265\u00a00.07). Bland\u2013Altman analysis showed minimal bias (mean difference: \u22120.8%), and 96% of values fell within limits of agreement. The confusion matrix showed that categorical agreement for LVA stratification exceeded 90%. Segmentation errors were most common at the LSPV but did not significantly impact LVA quantification.\n                    \n                  \n                  \n                    Conclusion\n                    CARTONET offers reliable, efficient LVA quantification with high concordance to manual methods. Its performance in high\u2010quality maps supports its use in clinical and research settings, reducing operator workload and promoting standardized substrate evaluation.",
+    "summary": "This retrospective study of 100 AF patients validated CARTONET, a cloud-based automated platform, for quantifying low-voltage areas on electroanatomic mapping, demonstrating strong correlation with manual analysis (\u03c1 = 0.928\u20130.983) and >90% categorical agreement for LVA stratification, with reliable performance particularly in high-density maps. The automated approach offers efficient, standardized substrate assessment while reducing operator-dependent variability compared to conventional manual quantification."
+  },
+  {
     "title": "Top Developments in Clinical Cardiac Electrophysiology-2025",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002539?dgcid=rss_sd_all",
     "doi": null,
@@ -32,6 +83,74 @@
     "date_ts": 1780963200.0,
     "tags": [
       "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Invasive Assessment of Right Ventricular Dysfunction Predicts Periprocedural Outcomes in Patients Undergoing Unplanned Ventricular Tachycardia Ablation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70393?af=R",
+    "doi": "10.1111/jce.70393",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 09, 2026",
+    "date_ts": 1781026868.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Risk stratification in patients undergoing urgent ventricular tachycardia (VT) ablation is limited, particularly regarding right ventricular dysfunction, which is often underrecognized in this setting.\n                  \n                  \n                    Objectives\n                    We investigated whether the right atrial pressure (RAP) to pulmonary capillary wedge pressure (PCWP) ratio or pulmonary artery pulsatility index (PAPi) predicts short\u2010term outcomes following urgent VT ablation.\n                  \n                  \n                    Methods\n                    \n                      We retrospectively analyzed 102 consecutive patients who underwent unplanned inpatient VT ablation and had right heart catheterization (RHC) within the preceding 12 months. All were admitted with recurrent VT; 67 (66%) had VT storm. Hemodynamic stratification was performed using two established indices of right\u2010sided function: RAP:PCWP\u2009&gt;\u20090.6 versus \u2264\u20090.6 and pulmonary artery pulsatility index (PAPi)\u2009&lt;\u20092 versus \u2265\u20092, calculated as\n                      (pulmonary artery systolic pressure \u2212 pulmonary artery diastolic pressure)/right atrial pressure\n                      . Outcomes included acute kidney injury (AKI), intraprocedural hemodynamic instability, 30\u2010day VT recurrence, 30\u2010day mortality/LVAD/transplant, delayed extubation, postoperative length of stay &gt;\u20097 days, and same\u2010day complications. Multivariable logistic regression adjusted for age, sex, LVEF, NYHA class, ischemic cardiomyopathy, RHC type, and moderate\u2010to\u2010severe MR/TR.\n                    \n                  \n                  \n                    Results\n                    \n                      The cohort was 88% male, mean age 64\u2009\u00b1\u200911.9 years; 47% had LVEF\u2009&lt;\u200925%, and 58% NYHA III\u2013IV symptoms. RAP:PCWP\u2009&gt;\u20090.6 was independently associated with higher risk of AKI (OR 10.4, 95% CI 2.4\u201314.1,\n                      p\n                      \u2009=\u20090.002) and intraprocedural hemodynamic instability (OR 6.1, 95% CI 1.5\u201316.3,\n                      p\n                      \u2009=\u20090.050). Age &gt;\u200960 also predicted AKI (OR 12.8, 95% CI 1.3\u201321.3). PAPi &lt;\u20092 and LVEF\u2009&lt;\u200925% were not associated with adverse outcomes.\n                    \n                  \n                  \n                    Conclusion\n                    Among urgent VT ablation patients, elevated RAP:PCWP, but not PAPi, identifies those at increased risk for AKI and intraprocedural hemodynamic instability. Incorporating RAP:PCWP into preprocedural assessment may enhance risk stratification.",
+    "summary": "This retrospective study of 102 consecutive patients undergoing urgent VT ablation found that an elevated right atrial pressure to pulmonary capillary wedge pressure ratio (RAP:PCWP > 0.6) independently predicted acute kidney injury (OR 10.4) and intraprocedural hemodynamic instability (OR 6.1), whereas pulmonary artery pulsatility index did not predict adverse outcomes. The authors conclude that RAP:PCWP may improve preprocedural risk stratification in this high-risk population."
+  },
+  {
+    "title": "Impacts of Hemodynamic Support on Ventricular Arrhythmia Ablation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70396?af=R",
+    "doi": "10.1111/jce.70396",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 09, 2026",
+    "date_ts": 1781026742.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Data on the efficacy of hemodynamic support (HS) for protecting ventricular arrhythmia (VA) ablation in high\u2010risk heart failure (HF) patients with an impaired left ventricular function and its impact on mortality is limited.\n                  \n                  \n                    Objectives\n                    This study aimed to assess procedural efficacy, related complications, VA\u2010free survival, and mortality of HF patients who underwent protected VA ablation with HS.\n                  \n                  \n                    Methods\n                    Data from consecutive HF patients undergoing VA ablation at our center between 2018 and 2024 were analyzed. HS included the treatment with an Impella, an extracorporeal membrane oxygenation (ECMO) or a left ventricular assist device (LVAD). Patients were classified based on their HF status according to current guidelines.\n                  \n                  \n                    Results\n                    \n                      A total of 187 patients (61.5\u2009\u00b1\u200910.9 years) were included. 124/187 patients were in advanced HF (66%, 63.5\u2009\u00b1\u20098.9 years). In 68/187 patients (36%, 60.8\u2009\u00b1\u20099.8 years), HS was required. Procedural parameter did not differ between the groups except for fluoroscopy times (\n                      p\n                      \u2009&lt;\u20090.001). Acute procedural success (\n                      p\n                      \u2009=\u20090.670) and major procedure\u2010related complications (\n                      p\n                      \u2009=\u20090.726) were comparable. In\u2010hospital mortality was higher in patients with HS (\n                      p\n                      \u2009&lt;\u20090.001). In advanced HF patients, freedom from VA\u2010recurrence was lower (\n                      p\n                      \u2009=\u20090.016) and mortality higher (\n                      p\n                      \u2009=\u20090.009). HS with an ECMO and LVAD, but not with an Impella, was associated with increased VA\u2010recurrence (hazard ratio [HR] 3.66, confidence Interval [CI] 1.732\u20137.715,\n                      p\n                      \u2009&lt;\u20090.001) and mortality (HR 3.95, CI 1.091\u201314.280,\n                      p\n                      \u2009=\u20090.036).\n                    \n                  \n                  \n                    Conclusion\n                    In high\u2010risk HF patients, VA ablation was feasible with comparable acute success and procedural complication rates. Patients with ECMO or LVAD showed higher in\u2010hospital mortality and higher VA recurrence compared to Impella\u2010supported procedures, likely reflecting more advanced disease severity rather than differences in procedural efficacy.",
+    "summary": "This retrospective cohort study of 187 heart failure patients (68 requiring hemodynamic support) undergoing ventricular arrhythmia ablation found comparable acute procedural success and major complication rates across support modalities, but patients supported with ECMO or LVAD experienced significantly higher in-hospital mortality and VA recurrence compared to Impella-supported patients, likely reflecting underlying disease severity rather than procedural differences. Impella support appeared safer than ECMO or LVAD for protected VA ablation in advanced heart failure patients."
+  },
+  {
+    "title": "Patient\u2010Reported Outcome Measures Following Pulsed\u2010Field Ablation Versus Thermal Ablation of Atrial Fibrillation: The PROMs\u2010PFA Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70392?af=R",
+    "doi": "10.1111/jce.70392",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 09, 2026",
+    "date_ts": 1781014267.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Pulsed\u2010field ablation (PFA) has transformed atrial fibrillation (AF) ablation, but how the early patient experience compares with thermal techniques remains unclear. This study aimed to assess patient\u2010reported outcome measures (PROMs) in the first 3 months after PFA or thermal AF ablation, using a novel smartphone\u2010based application.\n                  \n                  \n                    Methods\n                    Patients undergoing first\u2010time pulmonary vein isolation prospectively completed the Cardiac Ablation Recovery Evaluation (CARE) symptom questionnaire at five timepoints: baseline, day 1, day 7, day 30, and day 90. Symptoms were rated on a 7\u2010point Likert scale (0\u2009=\u2009not at all; 6\u2009=\u2009extremely). Patients also completed the Atrial Fibrillation Effect on QualiTy\u2010of\u2010life (AFEQT) questionnaire at baseline and day 90.\n                  \n                  \n                    Results\n                    \n                      Two hundred and two patients were included (pentaspline PFA: 66; radiofrequency: 64; cryoballoon: 72), with similar baseline demographics between groups, except for a lower prevalence of paroxysmal AF in the PFA group. Engagement with the smartphone\u2010based platform was high, with a 94.7% completion rate. Median AFEQT scores improved from 64 (47\u201382) at baseline to 86 (72\u201395) at day 90 (\n                      p\n                      \u2009&lt;\u20090.001), with no significant differences between modalities (\n                      p\n                      \u2009=\u20090.841). However, CARE detected differences in early symptom experience: chest pain was lowest with PFA at day 1 (median: PFA, 1 [0\u20132]; radiofrequency, 2 [1\u20132]; cryoballoon, 2 [1\u20132];\n                      p\n                      \u2009&lt;\u20090.001), and remained lower than cryoballoon at day 7 (\n                      p\n                      \u2009=\u20090.019), with differences resolving by day 30. Moderate\u2010to\u2010severe chest pain (score \u2265\u20093) occurred in only 12.3% of PFA patients at day 1, compared with 21.2% cryoballoon and 26.2% radiofrequency patients (\n                      p\n                      \u2009&lt;\u20090.001). Palpitations at day 1 were less frequent with PFA than radiofrequency (\n                      p\n                      \u2009=\u20090.040). Groin discomfort was lower with radiofrequency than PFA or cryoballoon at day 1 (\n                      p\n                      \u2009=\u20090.006) and day 7 (\n                      p\n                      \u2009&lt;\u20090.001), likely reflecting a smaller sheath size.\n                    \n                  \n                  \n                    Conclusions\n                    PFA was associated with a modest and transient reduction in early post\u2010procedural chest pain compared with thermal ablation. Smartphone application\u2010based PROMs collection using the CARE questionnaire was feasible, enabling structured assessment of symptom burden across multiple recovery timepoints.",
+    "summary": "This prospective comparative study of 202 patients undergoing first-time pulmonary vein isolation demonstrated that pulsed-field ablation (PFA) resulted in significantly lower chest pain in the immediate post-procedural period (day 1-7) compared with radiofrequency and cryoballoon ablation, though this difference resolved by day 30 and overall quality-of-life improvements at 90 days were equivalent across all three modalities. Smartphone-based patient-reported outcome measures proved feasible for capturing early symptom differences between ablation techniques."
+  },
+  {
+    "title": "Impact of GLP\u20101 Receptor Agonist on Atrial Fibrillation Recurrence After Catheter Ablation in Non\u2010Obese Patients",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70317?af=R",
+    "doi": "10.1111/pace.70317",
+    "journal": "PACE",
+    "date": "Jun 09, 2026",
+    "date_ts": 1781000139.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Glucagon\u2010like peptide\u20101 receptor agonists (GLP\u20101 RAs) have been associated with reduced atrial fibrillation (AF) recurrence after catheter ablation in obese and diabetic populations, largely attributed to weight reduction. Whether these agents provide weight\u2010independent antiarrhythmic benefits remains unclear. We evaluated the association between GLP\u20101 RA therapy and long\u2010term clinical outcomes following AF ablation in non\u2010obese patients.\n                  \n                  \n                    Methods\n                    \n                      We conducted a retrospective cohort study using the TriNetX U.S. Collaborative Network. Adults (\u226518 years) with body mass index (BMI) \u226429.9\u00a0kg/m\n                      2\n                      who underwent AF ablation between 2010 and 2025 were identified. Patients receiving GLP\u20101 RAs within 6 months of ablation were compared with non\u2010users. Propensity score matching (1:1) balanced demographics, comorbidities, medications, and laboratory variables. Outcomes were assessed at 1 and 3 years following a 3\u2010month blanking period. Primary endpoints included atrial flutter, cardioversion, repeat ablation, and antiarrhythmic drug (AAD) use. Secondary outcomes included heart failure exacerbation, all\u2010cause hospitalization, stroke, and mortality.\n                    \n                  \n                  \n                    Results\n                    After matching, 1749 patients were included in each group (mean age 68 years; 38% female). At 1 year, GLP\u20101 RA use was associated with lower cardioversion (hazard ratio [HR] 0.61; 95% confidence interval [CI] 0.40\u20130.91), reduced AAD use (HR 0.68; 95% CI 0.61\u20130.77), decreased heart failure exacerbation (HR 0.53; 95% CI 0.32\u20130.85), and fewer hospitalizations (HR 0.69; 95% CI 0.51\u20130.94). Repeat ablation, stroke, and mortality were similar. At 3 years, reductions in cardioversion, AAD use, and heart failure exacerbation persisted.\n                  \n                  \n                    Conclusions\n                    In non\u2010obese patients undergoing AF ablation, GLP\u20101 RA therapy was associated with reduced arrhythmia\u2010related interventions and heart failure exacerbation, supporting potential weight\u2010independent antiarrhythmic effects. Prospective trials are warranted.",
+    "summary": "This retrospective cohort study of 3,498 non-obese patients (1,749 per group) using propensity score matching found that GLP-1 receptor agonist use within 6 months of AF ablation was associated with reduced cardioversion, antiarrhythmic drug use, heart failure exacerbation, and hospitalizations at 1 year, with benefits persisting at 3 years, suggesting weight-independent antiarrhythmic mechanisms. Repeat ablation, stroke, and mortality were comparable between groups."
+  },
+  {
+    "title": "Recovered Ejection Fraction After Cardiac Resynchronization Therapy: Cure or Remission?",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70321?af=R",
+    "doi": "10.1111/pace.70321",
+    "journal": "PACE",
+    "date": "Jun 09, 2026",
+    "date_ts": 1780999725.0,
+    "tags": [
+      "Devices"
     ],
     "hot": false
   },
@@ -954,6 +1073,67 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Clinical guidelines do not recommend the routine rinsing of cardiac implantable electronic devices (CIED) with antimicrobials before pocket closure(\u201cantimicrobial pocket flush.\u201d) However, despite current recommendations and a lack of evidence regarding the utility of this practice for reducing CIED infections, the antimicrobial pocket flush is still commonly employed. Clarifying the true value of this technique is important for supporting evidence\u2010based practice and avoiding unnecessary antimicrobial use. Therefore, we performed meta\u2010analysis of observational studies to determine the effectiveness of this practice in preventing CIED infections.\n                  \n                  \n                    Methods\n                    We performed a systematic literature search for observational human studies investigating the effectiveness of employing the antimicrobial pocket flush to prevent CIED infection. A random effects meta\u2010analysis was performed. Effectiveness was estimated with the study\u2010level definitions of CIED infection. We performed subgroup analysis by type of antimicrobial\u2010antiseptic or antibiotic.\n                  \n                  \n                    Results\n                    \n                      A total of seven studies including 12,283 patients were analyzed. Over half of the CIED implantation procedures (61.5%) included the antimicrobial pocket flush, and between 8.4% and 85% of the implantations were revision procedures. Studies used various antimicrobials for pocket flush, and definitions of CIED infection varied. Overall infection rates ranged from 0.5%\u20131.5%. CIED infection rates did not differ significantly between procedures performed with versus without antimicrobial pocket flush (0.8%\u00a0vs. 1.1%; relative risk 0.80; 95% confidence interval 0.39\u20131.63;\n                      p\u00a0\n                      =\u00a00.54). There was no difference in the subgroup analysis by antiseptic or antibiotic use.\n                    \n                  \n                  \n                    Conclusion\n                    Our results suggest that the antimicrobial pocket flush provides no benefit in preventing CIED infection, reinforcing the current guidelines that do not support its routine use.",
     "summary": "This meta-analysis of seven observational studies (12,283 patients) found no significant difference in cardiac implantable electronic device infection rates between procedures performed with versus without antimicrobial pocket flush (0.8% vs. 1.1%; RR 0.80, 95% CI 0.39\u20131.63), supporting current guideline recommendations against routine use of this practice."
+  },
+  {
+    "title": "Contemporary trends and outcomes in European ICD recipients: a 15-year analysis",
+    "link": "https://doi.org/10.1093/europace/euag110",
+    "doi": "10.1093/europace/euag110",
+    "journal": "EP Europace",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Bradycardia-dependent atrial capture failure after implantation of an atrial leadless pacemaker: contrasting clinical courses in two patients",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.020",
+    "doi": "10.1016/j.hrcr.2026.05.020",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Surgical extravascular ICD lead implant when transvenous therapy is undesirable",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.003",
+    "doi": "10.1016/j.hrcr.2026.06.003",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Selective pulsed field ablation of macroreentrant biatrial tachycardia guided by high-density mapping using a balloon-in-basket catheter",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.002",
+    "doi": "10.1016/j.hrcr.2026.06.002",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "AFib",
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Idiopathic ventricular fibrillation triggered by premature ventricular complexes originating from a false cord attachment from the tricuspid annulus to the right ventricle free wall.",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.021",
+    "doi": "10.1016/j.hrcr.2026.05.021",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
   },
   {
     "title": "Erdheim-Chester Disease Presenting as Complete Heart Block: A Case Report",
@@ -6141,176 +6321,5 @@
     "hot": false,
     "abstract": "Abstract\n                  \n                    Background\n                    Despite being the most effective option for maintaining sinus rhythm, atrial fibrillation (AF) catheter ablation reaches few patients. For this reason, identifying candidates with the highest likelihood of success or individualizing counselling to a specific patient to improve procedural outcome could enhance clinical benefits and cost-effectiveness.\n                  \n                  \n                    Objective\n                    To integrate machine learning (ML) into an outcome prediction model based on a large cohort of AF patients undergoing pulsed field ablation (PFA).\n                  \n                  \n                    Methods\n                    Consecutive AF patients undergoing transcatheter PFA between June 2022 and December 2024 were prospectively enrolled in the ATHENA registry. All procedures were performed with a penta-splines 12F over-the-wire PFA catheter (FARAWAVE\u2122, Boston Scientific). Clinical and procedural variables were collected to train five predictive models estimating 1 year arrhythmic recurrence; model interpretability was assessed using SHAP (SHapley Additive exPlanations) analysis.\n                  \n                  \n                    Results\n                    The study included 1688 AF patients with a median follow-up of 365 days (interquartile range 202-393), arrhythmic recurrence occurred in 314 patients (18.6%). The Boruta algorithm identified diagnosis-to-ablation time (DAT), CHA\u2082DS\u2082-VASc score, age, and body mass index (BMI) as most significant predictors. Among the five ML models developed to predict 1 year arrhythmic recurrence probability, Random Forest achieved the best performance (AUC = 0.75, 95% CI 0.69-0.82). SHAP analysis confirmed DAT, BMI, and indexed left atrial volume as major contributors to recurrence.\n                  \n                  \n                    Conclusion\n                    This is the first ML model exclusively trained and validated on AF patients undergoing PFA providing actionable insights for personalized treatment planning. Routine use of the model holds the potential to optimize patient selection and improve procedural outcome, supporting individualized counselling and outcome-driven care pathways, moving from static to interactive risk prediction.\n                  \n                  \n                    Clinical Trial Registration\n                    Advanced TecHnologies For SuccEssful AblatioN of AF in Clinical Practice (ATHENA). URL: http://clinicaltrials.gov/ Identifier: NCT05617456",
     "summary": "This prospective cohort study of 1,688 AF patients undergoing pulsed field ablation developed a machine learning prediction model (Random Forest, AUC 0.75) identifying diagnosis-to-ablation time, BMI, and indexed left atrial volume as major predictors of 1-year arrhythmic recurrence (18.6%), with potential to personalize patient selection and counseling for improved procedural outcomes."
-  },
-  {
-    "title": "Sudden cardiac arrest during endurance races: beyond final acceleration?",
-    "link": "https://doi.org/10.1093/europace/euag064",
-    "doi": "10.1093/europace/euag064",
-    "journal": "EP Europace",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Bailout Left Atrial Appendage Occlusion as a Salvage Strategy for Acute Cardiac Tamponade",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.05.004",
-    "doi": "10.1016/j.hrcr.2026.05.004",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LEAD-mediated ventricular tachycardia and LEAD-mediated radiofrequency energy delivery - innovative LEAD2ER approach for hybrid ablation with transvenous lead extraction",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.05.006",
-    "doi": "10.1016/j.hrcr.2026.05.006",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "VT",
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "High-Density Mapping of Adenosine-sensitive Atrial Tachycardia: Visualization of a Slow Conduction Zone",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.05.003",
-    "doi": "10.1016/j.hrcr.2026.05.003",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Successful Atrial Fibrillation Ablation Using Bivalirudin in a Patient with Congenital Factor XII Deficiency and Uninterpretable ACT",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.05.005",
-    "doi": "10.1016/j.hrcr.2026.05.005",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Non-Idiopathic Papillary Muscle Ventricular Arrhythmia Ablation Using the Lattice-Tip Catheter: A Case Series",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.05.002",
-    "doi": "10.1016/j.hrcr.2026.05.002",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Optimization of Left Bundle Area Pacing Using a Novel ECG Device",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.05.001",
-    "doi": "10.1016/j.hrcr.2026.05.001",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Correction to: Clinical profile and prognosis of brugada syndrome SCN5A variant carriers with negative sodium channel blocker challenge",
-    "link": "https://doi.org/10.1093/europace/euag098",
-    "doi": "10.1093/europace/euag098",
-    "journal": "EP Europace",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulmonary vein perforation causing life-threatening pulmonary hemorrhage during pulsed field ablation for atrial fibrillation using a J-shaped radiofrequency transseptal puncture wire",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.04.027",
-    "doi": "10.1016/j.hrcr.2026.04.027",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Novel NKX2-5 Mutation Associated with Familial Atrial Septal Defect and Atrial and Ventricular Arrhythmias",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.04.025",
-    "doi": "10.1016/j.hrcr.2026.04.025",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "VT",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Successful Ablation of Incessant Narrow-QRS Ventricular Tachycardia Involving the His\u2013Purkinje System: Insights from Manifest Entrainment",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.04.026",
-    "doi": "10.1016/j.hrcr.2026.04.026",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Screening Smarter: A Quantitative Approach to Reduce Inappropriate Shocks From Subcutaneous ICDs",
-    "link": "https://doi.org/10.1161/circep.126.015114",
-    "doi": "10.1161/circep.126.015114",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pace and Ablate or Pace Then Ablate: Defining the Risk of Concomitant AV Node Ablation and Pacemaker Implantation Using a Probability Based Approach",
-    "link": "https://doi.org/10.1161/circep.125.014790",
-    "doi": "10.1161/circep.125.014790",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Immediate vs Delayed Coronary Angiography After Cardiac Arrest Without ST-Segment Elevation: 5-Year Outcomes From the COACT Randomized Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109725104348?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Apr 30, 2026",
-    "date_ts": 1777513841.336157,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false
   }
 ]
