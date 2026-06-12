@@ -1,5 +1,53 @@
 [
   {
+    "title": "Double ventricular response with concomitant atrioventricular nodal reentrant tachycardia",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002527?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jun 12, 2026",
+    "date_ts": 1781230515.555544,
+    "tags": [
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Phase-dependent modulation of Brugada ECG phenotype during general anesthesia: influence of anesthetic transitions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024677?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jun 12, 2026",
+    "date_ts": 1781230515.298328,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Trends in Antidepressant and Anti-anxiety Medication Use in Patients Evaluated for Postural Orthostatic Tachycardia Syndrome",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024689?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jun 12, 2026",
+    "date_ts": 1781230515.298283,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Bipolar Radiofrequency- Assisted Lead Extraction Using a Novel Pacemaker Lead-Catheter Electrical Configuration",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024690?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jun 12, 2026",
+    "date_ts": 1781230515.298127,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
     "title": "Complex Atrial Substrate in Hypertrophic Cardiomyopathy Presenting as Right Pulmonary Vein\u2013Related Atypical Atrial Flutter",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002503?dgcid=rss_sd_all",
     "doi": null,
@@ -35,6 +83,34 @@
       "Other"
     ],
     "hot": false
+  },
+  {
+    "title": "Comparison of Procedural Outcomes Across Different Septal Accessory Pathway Locations Using Contact Force",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70322?af=R",
+    "doi": "10.1111/pace.70322",
+    "journal": "PACE",
+    "date": "Jun 11, 2026",
+    "date_ts": 1781142562.0,
+    "tags": [
+      "SVT"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    The ablation of septal accessory pathways (APs) in pediatric patients presents significant challenges owing to the close proximity of the atrioventricular (AV) node. Our objective was to assess the influence of contact force (CF)\u2013sensing technology combined with a \u201cconservative force\u201d strategy on procedural efficiency and safety within this high\u2010risk demographic.\n                  \n                  \n                    Methods\n                    \n                      We retrospectively analyzed 157 pediatric patients who underwent radiofrequency (RF) ablation for septal APs (anteroseptal, midseptal, or posteroseptal). Patients were divided into two groups: the CF group (\n                      n\n                      = 77), utilizing a target force of 5\u201312 g, and the non\u2010CF group (\n                      n\n                      = 80), using conventional irrigated catheters.\n                    \n                  \n                  \n                    Results\n                    \n                      The CF group achieved significantly shorter total procedure times (65.0\u00a0vs. 80.0\u00a0min;\n                      p\n                      = 0.029) and reduced total RF application times (78.0\u00a0vs. 105.0 s;\u00a0\n                      p\n                      = 0.047) compared to the non\u2010CF group.\u00a0In the CF group, the median CF was 10.0\u00a0g, and the median RF power was significantly lower than in the non\u2010CF group (25\u00a0W vs. 30\u00a0W;\u00a0\n                      p\n                      = 0.003).\u00a0Subgroup analysis revealed a significant gain in efficiency for posteroseptal (PS) pathways\u00a0, whereas anteroseptal (AS) pathways required longer procedure times in the CF era due to safety\u2010driven force titration (105.0\u00a0vs. 70.0\u00a0min;\u00a0\n                      p\n                      = 0.012).\u00a0Acute success rates (98.7%\u00a0vs. 93.8%;\u00a0\n                      p\n                      = 0.210) and recurrence rates (5.2%\u00a0vs. 11.3%;\u00a0\n                      p\n                      = 0.277) were comparable between the groups.\u00a0No permanent AV block or major complications occurred in either cohort.\n                    \n                  \n                  \n                    Conclusion\n                    Integrating CF technology with a conservative force strategy (5\u201312\u00a0g) enhances procedural efficiency in pediatric septal AP ablation without compromising safety. While it streamlines the workflow for most septal locations, the AS region requires more meticulous titration, and the midseptal (MS) region remains the most prone to recurrence.",
+    "summary": "This retrospective study of 157 pediatric patients (77 with contact force [CF] sensing, 80 conventional) found that CF-guided radiofrequency ablation of septal accessory pathways using a conservative 5\u201312 g force strategy reduced procedure time (65 vs. 80 minutes) and RF application time (78 vs. 105 seconds) compared to conventional ablation, with equivalent acute success (98.7% vs. 93.8%) and recurrence rates (5.2% vs. 11.3%), while maintaining safety without AV block complications. CF technology improved efficiency particularly for posteroseptal pathways but required longer procedure times for anteros"
+  },
+  {
+    "title": "Diversity, equity and inclusion in arrhythmia care: A European Heart Rhythm Association survey",
+    "link": "https://doi.org/10.1093/europace/euag144",
+    "doi": "10.1093/europace/euag144",
+    "journal": "EP Europace",
+    "date": "Jun 11, 2026",
+    "date_ts": 1781136000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background\n                    Disparities in arrhythmia care are increasingly recognised, yet remain incompletely characterised across the patient pathway. This European Heart Rhythm Association (EHRA) survey explored clinician-reported perceptions of inequity across diagnosis, pharmacological management, procedural referral and follow-up.\n                  \n                  \n                    Methods\n                    A 30-question survey was disseminated via the EHRA between November 2025 and January 2026, with 212 responses from professionals across 35 countries.\n                  \n                  \n                    Results\n                    Respondents were predominantly consultant electrophysiologists (67.5%), with 39.6% identifying as female. Most (68.4%) reported no prior training in equity or inclusive care. Across the arrhythmia care pathway, disparities were most frequently attributed to patient vulnerability, particularly cognitive impairment (72.5%), age &amp;gt;80 years (63.8%) and mental health disease (61.3%). Differences related to socioeconomic status, language and other social factors were also commonly reported. Female sex and minority ethnic background were each reported to influence care in 24.1% of responses. Age &amp;gt;80 years was consistently identified as the strongest determinant of disparities in referral, diagnosis and outcomes, influencing referral for arrhythmia evaluation (65.8%), catheter ablation (77.9%) and outcomes following ablation (68.1%). Socioeconomic and ethnic factors showed more modest but consistent effects, while sex-based differences were less frequently reported. However, female respondents were more likely than male respondents to report delayed referral (female respondents: 41.8%; male respondents: 19.8%) and late or incorrect diagnosis (49.4% vs 15.8%) in female patients, as well as delayed referral for catheter ablation (36.5% vs 10.3%) and device implantation (23.0% vs 7.0%). Only one-third of respondents (33.3%) felt that current international guidelines adequately address diversity, equity and inclusion in arrhythmia care.\n                  \n                  \n                    Conclusions\n                    Clinicians perceive disparities in arrhythmia care across multiple patient and social factors. Whilst age and vulnerability were most frequently perceived to influence care, sex and ethnicity were also recognised by a substantial proportion of respondents. Perceptions varied according to respondent characteristics, with female clinicians more likely to report disparities amongst female patients. Limited training and institutional frameworks highlight opportunities for targeted interventions.",
+    "summary": "This cross-sectional survey of 212 arrhythmia specialists across 35 countries found that clinicians perceive significant disparities in arrhythmia care pathways, with age >80 years and cognitive impairment most frequently cited as barriers to referral and ablation (65.8-77.9%), followed by socioeconomic status and ethnicity, though female clinicians reported substantially higher rates of sex-based disparities in female patients than male clinicians. Only one-third felt current guidelines adequately address diversity and equity, and 68.4% lacked formal training in inclusive care."
   },
   {
     "title": "Validation of Automated Low Voltage Area Measurement Using CARTONET in Atrial Fibrillation Patients",
@@ -1073,6 +1149,68 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Clinical guidelines do not recommend the routine rinsing of cardiac implantable electronic devices (CIED) with antimicrobials before pocket closure(\u201cantimicrobial pocket flush.\u201d) However, despite current recommendations and a lack of evidence regarding the utility of this practice for reducing CIED infections, the antimicrobial pocket flush is still commonly employed. Clarifying the true value of this technique is important for supporting evidence\u2010based practice and avoiding unnecessary antimicrobial use. Therefore, we performed meta\u2010analysis of observational studies to determine the effectiveness of this practice in preventing CIED infections.\n                  \n                  \n                    Methods\n                    We performed a systematic literature search for observational human studies investigating the effectiveness of employing the antimicrobial pocket flush to prevent CIED infection. A random effects meta\u2010analysis was performed. Effectiveness was estimated with the study\u2010level definitions of CIED infection. We performed subgroup analysis by type of antimicrobial\u2010antiseptic or antibiotic.\n                  \n                  \n                    Results\n                    \n                      A total of seven studies including 12,283 patients were analyzed. Over half of the CIED implantation procedures (61.5%) included the antimicrobial pocket flush, and between 8.4% and 85% of the implantations were revision procedures. Studies used various antimicrobials for pocket flush, and definitions of CIED infection varied. Overall infection rates ranged from 0.5%\u20131.5%. CIED infection rates did not differ significantly between procedures performed with versus without antimicrobial pocket flush (0.8%\u00a0vs. 1.1%; relative risk 0.80; 95% confidence interval 0.39\u20131.63;\n                      p\u00a0\n                      =\u00a00.54). There was no difference in the subgroup analysis by antiseptic or antibiotic use.\n                    \n                  \n                  \n                    Conclusion\n                    Our results suggest that the antimicrobial pocket flush provides no benefit in preventing CIED infection, reinforcing the current guidelines that do not support its routine use.",
     "summary": "This meta-analysis of seven observational studies (12,283 patients) found no significant difference in cardiac implantable electronic device infection rates between procedures performed with versus without antimicrobial pocket flush (0.8% vs. 1.1%; RR 0.80, 95% CI 0.39\u20131.63), supporting current guideline recommendations against routine use of this practice."
+  },
+  {
+    "title": "Correction to: Accuracy of non-invasive electrocardiographic imaging in scar-dependent ventricular tachycardia: relationship to arrhythmogenic substrate and imaging defined scar",
+    "link": "https://doi.org/10.1093/europace/euag137",
+    "doi": "10.1093/europace/euag137",
+    "journal": "EP Europace",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Analgosedation for catheter ablation in deep sedation: comparison between cryoballoon and pulsed field ablation",
+    "link": "https://doi.org/10.1093/europace/euag126",
+    "doi": "10.1093/europace/euag126",
+    "journal": "EP Europace",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Combined Epicardial Substrate Ablation and Pulsed Field Pulmonary Vein Isolation in Brugada Syndrome",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.022",
+    "doi": "10.1016/j.hrcr.2026.05.022",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "AFib",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Phenotypic manifestation of Brugada syndrome after living donor liver transplantation accompanied by normalization of sex hormone levels",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.004",
+    "doi": "10.1016/j.hrcr.2026.06.004",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Compound Heterozygous TECRL Variants in an Adolescent: Early ECG Abnormalities and Sudden Cardiac Arrest",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.05.023",
+    "doi": "10.1016/j.hrcr.2026.05.023",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
   },
   {
     "title": "Contemporary trends and outcomes in European ICD recipients: a 15-year analysis",
@@ -6181,145 +6319,5 @@
       "AFib"
     ],
     "hot": false
-  },
-  {
-    "title": "Cardiac sarcoidosis presenting as sustained ventricular tachycardia mimicking arrhythmogenic right ventricular cardiomyopathy",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.02.005",
-    "doi": "10.1016/j.hrcr.2026.02.005",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "VT",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A successful retrieval of a guidewire entrapped in the sigmoid sinus",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.01.022",
-    "doi": "10.1016/j.hrcr.2026.01.022",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left bundle branch pacing optimized right ventricular resynchronization in a patient with severe right ventricular dilatation",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.02.010",
-    "doi": "10.1016/j.hrcr.2026.02.010",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "Cardiac resynchronization therapy (CRT) is an effective treatment for patients with left bundle branch block (LBBB) and left ventricular (LV) dyssynchrony. Left bundle branch area pacing (LBBAP) has recently emerged as a promising physiological alternative to conventional right ventricular pacing (RVP) and CRT [1,2], but may lead to significant right ventricular (RV) dyssynchrony, which might affect clinical outcomes in a specific group of patients [3]. Here, we present a case of successful right ventricular cardiac resynchronization therapy (RV-CRT) achieved by combining LBB pacing (LBBP) with RV lateral wall pacing to restore ventricular synchrony in a patient with intermittent atrioventricular (AV) conduction disease and severe RV dilatation due to an unrepaired atrial septal defect.",
-    "summary": "This case report describes successful biventricular resynchronization achieved by combining left bundle branch area pacing with right ventricular lateral wall pacing in a patient with intermittent atrioventricular conduction disease and severe RV dilatation from an unrepaired atrial septal defect, demonstrating that hybrid LBBAP-RV pacing may restore ventricular synchrony in select patients where conventional CRT strategies are suboptimal."
-  },
-  {
-    "title": "Sensor detection and pacing for impending reflex syncope",
-    "link": "https://doi.org/10.1093/europace/euag070",
-    "doi": "10.1093/europace/euag070",
-    "journal": "EP Europace",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Aims\n                    Reflex syncope occurs infrequently but may benefit from pacing intervention. However, reflex syncope poses special problems for successful cardiac pacing. Between episodes, monitoring by the implanted device is required to provide warning of an impending syncope and initiate pacing therapy if appropriate. This article aims to review available devices and their function in different forms of reflex syncope.\n                  \n                  \n                    Methods and results\n                    The first device dedicated to address detection of VVS was the Rate Drop Response (RDR) (Medtronic Inc., MN, USA). It used a modified rate hysteresis approach to detect falls in heart rate that are faster than physiological but slower than those in cardiac conduction tissue disease. Since the introduction of RDR more has been learnt about the development of vasodepression and cardiac inhibition in vasovagal syncope (VVS). Detection of vasodepression, which occurs substantially earlier than cardioinhibition, assumes great importance. Currently, such detection is only offered by the Closed Loop System (CLS) (Biotronik GmbH, Berlin, Germany). Carotid sinus syndrome (CSS) shows different haemodynamic features from VVS with early vasodepression absent which demands rethinking of device selection and programming. RDR yielded improved management of both VVS and CSS. CLS has demonstrated clear benefits in two important recent randomized controlled VVS pacing trials. So far, no comparative trial between RDR and CLS has been undertaken.\n                  \n                  \n                    Conclusion\n                    Pacing the bradycardia of reflex syncope requires a full appreciation of its haemodynamic events, including timing of vasodepression and cardioinhibition requiring sophisticated detection and therapy delivery.",
-    "summary": "This is a narrative review examining pacemaker devices and their detection algorithms for managing reflex syncope, comparing the Rate Drop Response (RDR) and Closed Loop System (CLS) technologies across vasovagal syncope and carotid sinus syndrome. The CLS demonstrated superior benefits in recent randomized controlled trials for vasovagal syncope through earlier detection of vasodepression, though no direct comparative trial between RDR and CLS has been conducted."
-  },
-  {
-    "title": "Keeping it Hot: Radiofrequency Ablation of Atrial Fibrillation in a Patient with Cold Agglutinin Disease",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.05.010",
-    "doi": "10.1016/j.hrcr.2026.05.010",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Premature Ventricular Contractions Originating from the Right Ventricular Outflow Tract Induced by Adenosine Triphosphate Administration",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.05.008",
-    "doi": "10.1016/j.hrcr.2026.05.008",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Leadless atrial pacemakers at Bachmann\u2019s bundle region: Early experience and procedural challenges",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.05.007",
-    "doi": "10.1016/j.hrcr.2026.05.007",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Correction to: Post-pacing interval after failed anti-tachycardia pacing for scar-related ventricular tachycardia: implications for the location of the critical substrate",
-    "link": "https://doi.org/10.1093/europace/euag106",
-    "doi": "10.1093/europace/euag106",
-    "journal": "EP Europace",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Artificial intelligence for patient selection in pulsed-field ablation: promise, pragmatism, and the need for standards",
-    "link": "https://doi.org/10.1093/europace/euag066",
-    "doi": "10.1093/europace/euag066",
-    "journal": "EP Europace",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Feasibility of hypnosis for analgosedation during atrial fibrillation ablation, including pulsed field and radiofrequency techniques: a pilot study",
-    "link": "https://doi.org/10.1093/europace/euag087",
-    "doi": "10.1093/europace/euag087",
-    "journal": "EP Europace",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Machine learning prediction of outcome following pulsed-field atrial fibrillation ablation: patient selection and risk factors",
-    "link": "https://doi.org/10.1093/europace/euag053",
-    "doi": "10.1093/europace/euag053",
-    "journal": "EP Europace",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "AFib",
-      "AI"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background\n                    Despite being the most effective option for maintaining sinus rhythm, atrial fibrillation (AF) catheter ablation reaches few patients. For this reason, identifying candidates with the highest likelihood of success or individualizing counselling to a specific patient to improve procedural outcome could enhance clinical benefits and cost-effectiveness.\n                  \n                  \n                    Objective\n                    To integrate machine learning (ML) into an outcome prediction model based on a large cohort of AF patients undergoing pulsed field ablation (PFA).\n                  \n                  \n                    Methods\n                    Consecutive AF patients undergoing transcatheter PFA between June 2022 and December 2024 were prospectively enrolled in the ATHENA registry. All procedures were performed with a penta-splines 12F over-the-wire PFA catheter (FARAWAVE\u2122, Boston Scientific). Clinical and procedural variables were collected to train five predictive models estimating 1 year arrhythmic recurrence; model interpretability was assessed using SHAP (SHapley Additive exPlanations) analysis.\n                  \n                  \n                    Results\n                    The study included 1688 AF patients with a median follow-up of 365 days (interquartile range 202-393), arrhythmic recurrence occurred in 314 patients (18.6%). The Boruta algorithm identified diagnosis-to-ablation time (DAT), CHA\u2082DS\u2082-VASc score, age, and body mass index (BMI) as most significant predictors. Among the five ML models developed to predict 1 year arrhythmic recurrence probability, Random Forest achieved the best performance (AUC = 0.75, 95% CI 0.69-0.82). SHAP analysis confirmed DAT, BMI, and indexed left atrial volume as major contributors to recurrence.\n                  \n                  \n                    Conclusion\n                    This is the first ML model exclusively trained and validated on AF patients undergoing PFA providing actionable insights for personalized treatment planning. Routine use of the model holds the potential to optimize patient selection and improve procedural outcome, supporting individualized counselling and outcome-driven care pathways, moving from static to interactive risk prediction.\n                  \n                  \n                    Clinical Trial Registration\n                    Advanced TecHnologies For SuccEssful AblatioN of AF in Clinical Practice (ATHENA). URL: http://clinicaltrials.gov/ Identifier: NCT05617456",
-    "summary": "This prospective cohort study of 1,688 AF patients undergoing pulsed field ablation developed a machine learning prediction model (Random Forest, AUC 0.75) identifying diagnosis-to-ablation time, BMI, and indexed left atrial volume as major predictors of 1-year arrhythmic recurrence (18.6%), with potential to personalize patient selection and counseling for improved procedural outcomes."
   }
 ]
