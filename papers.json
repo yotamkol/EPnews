@@ -1,5 +1,125 @@
 [
   {
+    "title": "The Predictive Value of Impedance for Defibrillation Success After S-ICD Implantation: A Reliable Indicator?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004512?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jun 13, 2026",
+    "date_ts": 1781316475.854939,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pathogenic <em>HFE</em> Variants and Evaluation for Hemochromatosis in Patients With Early-Onset Atrial Fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004457?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jun 13, 2026",
+    "date_ts": 1781316475.854902,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Young-Onset Atrial Fibrillation: Prevalence and Predictors of Adverse Long-Term Outcomes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004251?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jun 13, 2026",
+    "date_ts": 1781316475.854871,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Purkinje-Triggered VF Storm Localized to CT-Derived Wall Thinning After Myocardial Infarction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004706?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jun 13, 2026",
+    "date_ts": 1781316475.854836,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Validation of Smartwatches Integrated With Photoplethysmography for Continuous Evaluation of Atrial Fibrillation Burden",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003440?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jun 13, 2026",
+    "date_ts": 1781316475.854798,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Life-Threatening Delayed Myocardial Ischemia, Ventricular Arrhythmias, and SCD After PFA of AF: An Extended Case Series",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004494?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jun 13, 2026",
+    "date_ts": 1781316475.854758,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "P1 Potential Unmasking Technique: A Novel Approach to Ablation of Idiopathic Left Ventricular Tachycardia",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004500?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jun 13, 2026",
+    "date_ts": 1781316475.854684,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left Ventricular Wall Thickness on Systolic-Phase Pulmonary Vein CT as a Marker for Cardiac Amyloidosis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002576?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jun 13, 2026",
+    "date_ts": 1781316475.700114,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Reticular telangiectatic erythema: an underrecognized complication of cardiovascular implantable electronic devices",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024720?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jun 13, 2026",
+    "date_ts": 1781316475.468675,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Correction to: Long-term outcomes of subcutaneous implantable cardioverter defibrillators: the French nationwide HONEST study",
+    "link": "https://doi.org/10.1093/eurheartj/ehag461",
+    "doi": "10.1093/eurheartj/ehag461",
+    "journal": "European Heart Journal",
+    "date": "Jun 12, 2026",
+    "date_ts": 1781222400.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
     "title": "Double ventricular response with concomitant atrioventricular nodal reentrant tachycardia",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002527?dgcid=rss_sd_all",
     "doi": null,
@@ -46,6 +166,20 @@
       "Devices"
     ],
     "hot": false
+  },
+  {
+    "title": "Early complications and long-term outcome of patients treated with a Subcutaneous Cardioverter-Defibrillator: temporal trends and clinical implications of the anesthetic strategies adopted at implant",
+    "link": "https://doi.org/10.1093/europace/euag148",
+    "doi": "10.1093/europace/euag148",
+    "journal": "EP Europace",
+    "date": "Jun 12, 2026",
+    "date_ts": 1781222400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Subcutaneous implantable cardioverter defibrillator (S-ICD) therapy is well-established therapy for the prevention of sudden cardiac death. Although general anesthesia (GA) was initially advocated for implantation, non-GA has emerged as a feasible alternative in clinical practice. This study evaluated the early and long-term outcomes associated with anesthetic modality during S-ICD implantation procedures.\n                  \n                  \n                    Methods\n                    The HONEST study nationwide, single-arm, observational cohort included all patients implanted with an S-ICD (EMBLEM\u2122, Boston Scientific) in France between 2012 and 2019. GA was characterized by controlled unconsciousness with airway management, while non-GA included all alternative techniques.\n                  \n                  \n                    Results\n                    Among 4,924 patients, 1,041 (21.1%) underwent non-GA. The proportion of non-GA use increased from 2.5% to 26.9% between 2012 and 2019 (p&amp;lt;0.001). Patients implanted with non-GA modality tended to be older (51 \u00b1 14 vs. 50 \u00b1 15 years), had lower left ventricular ejection fraction (41\u00b116 vs. 43\u00b117%), and fewer secondary prevention indications (33 vs. 38%) (all p&amp;lt;0.01). Thirty-day complication rate was 3.4% in the non-GA group (vs 3.7% in the GA group; p=0.85). At follow-up, the incidence of overall complications (4.29 events per 100 person-years for non-GA versus 4.73 for GA; p=0.937), reintervention (1.21 versus 1.62; p=0.963), inappropriate shocks (2.88 versus 2.78; p=0.782), and all-death (2.93 versus 2.56; p=0.938) were similar between groups. Multivariate analysis confirmed that there were no differences across outcomes (all p values&amp;gt;0.1).\n                  \n                  \n                    Conclusion\n                    Anesthesia strategy used for S-ICD implantation was not associated with poorer short- or long-term clinical outcomes, supporting non\u2013general anesthesia as a feasible alternative in appropriately selected patients.",
+    "summary": "This nationwide observational cohort study of 4,924 S-ICD implant patients (21.1% receiving non-GA) found that non-general anesthesia was associated with similar 30-day complication rates (3.4% vs 3.7%), long-term complication rates, reintervention rates, inappropriate shocks, and mortality compared to general anesthesia, supporting non-GA as a safe alternative in selected patients."
   },
   {
     "title": "Complex Atrial Substrate in Hypertrophic Cardiomyopathy Presenting as Right Pulmonary Vein\u2013Related Atypical Atrial Flutter",
@@ -1149,6 +1283,30 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Clinical guidelines do not recommend the routine rinsing of cardiac implantable electronic devices (CIED) with antimicrobials before pocket closure(\u201cantimicrobial pocket flush.\u201d) However, despite current recommendations and a lack of evidence regarding the utility of this practice for reducing CIED infections, the antimicrobial pocket flush is still commonly employed. Clarifying the true value of this technique is important for supporting evidence\u2010based practice and avoiding unnecessary antimicrobial use. Therefore, we performed meta\u2010analysis of observational studies to determine the effectiveness of this practice in preventing CIED infections.\n                  \n                  \n                    Methods\n                    We performed a systematic literature search for observational human studies investigating the effectiveness of employing the antimicrobial pocket flush to prevent CIED infection. A random effects meta\u2010analysis was performed. Effectiveness was estimated with the study\u2010level definitions of CIED infection. We performed subgroup analysis by type of antimicrobial\u2010antiseptic or antibiotic.\n                  \n                  \n                    Results\n                    \n                      A total of seven studies including 12,283 patients were analyzed. Over half of the CIED implantation procedures (61.5%) included the antimicrobial pocket flush, and between 8.4% and 85% of the implantations were revision procedures. Studies used various antimicrobials for pocket flush, and definitions of CIED infection varied. Overall infection rates ranged from 0.5%\u20131.5%. CIED infection rates did not differ significantly between procedures performed with versus without antimicrobial pocket flush (0.8%\u00a0vs. 1.1%; relative risk 0.80; 95% confidence interval 0.39\u20131.63;\n                      p\u00a0\n                      =\u00a00.54). There was no difference in the subgroup analysis by antiseptic or antibiotic use.\n                    \n                  \n                  \n                    Conclusion\n                    Our results suggest that the antimicrobial pocket flush provides no benefit in preventing CIED infection, reinforcing the current guidelines that do not support its routine use.",
     "summary": "This meta-analysis of seven observational studies (12,283 patients) found no significant difference in cardiac implantable electronic device infection rates between procedures performed with versus without antimicrobial pocket flush (0.8% vs. 1.1%; RR 0.80, 95% CI 0.39\u20131.63), supporting current guideline recommendations against routine use of this practice."
+  },
+  {
+    "title": "Lumen-Based En Bloc Extraction of a Bound Lead Pair Using a Rotational Mechanical Sheath",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.005",
+    "doi": "10.1016/j.hrcr.2026.06.005",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Successful Isolation of Arrhythmogenic Superior Vena Cava via Balloon-in-Basket Pulsed Field Ablation: Overcoming Phrenic Nerve Proximity",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.007",
+    "doi": "10.1016/j.hrcr.2026.06.007",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
   },
   {
     "title": "Correction to: Accuracy of non-invasive electrocardiographic imaging in scar-dependent ventricular tachycardia: relationship to arrhythmogenic substrate and imaging defined scar",
@@ -6149,174 +6307,6 @@
     "date_ts": 1777593600.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Dislodgement of a subcutaneous shock lead owing to loop release in the device pocket in a pediatric patient with congenital long QT syndrome",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.02.006",
-    "doi": "10.1016/j.hrcr.2026.02.006",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "Implantable cardioverter-defibrillators (ICDs) are increasingly used in pediatric patients for both primary and secondary prevention of sudden cardiac death. In this population, ICD management requires consideration of small body size, growth-related changes, and disease-specific characteristics. In infants and young children, conventional transvenous lead placement for ICD implantation is often challenging because of the small vascular caliber, and alternative strategies\u2014such as positioning shock leads in subcutaneous or epicardial locations\u2014are employed on a case-by-case basis.",
-    "summary": "This retrospective review examines ICD implantation strategies in pediatric patients, highlighting the technical challenges of transvenous lead placement in infants and young children due to small vessel size, with alternative subcutaneous and epicardial approaches employed based on individual clinical circumstances."
-  },
-  {
-    "title": "A case report of pulsed field ablation directly through a large self-expanding atrial septal occluder device with a hubless left atrial disc",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.01.027",
-    "doi": "10.1016/j.hrcr.2026.01.027",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsed field ablation of a persistent left superior vena cava triggering atrial fibrillation: A case report",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.01.025",
-    "doi": "10.1016/j.hrcr.2026.01.025",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "We report the case of a 55-year-old Caucasian male undergoing a third catheter ablation procedure for atrial fibrillation (AF). During the intervention, a previously undiagnosed persistent left superior vena cava (LSVC) appeared to contribute to the maintenance of AF. Given its anatomical characteristics, electrical isolation of the LSVC was performed using pulsed field ablation (PFA) rather than conventional radiofrequency (RF) ablation. Pulsed field ablation seems to be a novel, effective, and safe tool, particularly for targeting larger anatomical structures.",
-    "summary": "This case report describes a 55-year-old male with recurrent atrial fibrillation in whom pulsed field ablation successfully isolated a persistent left superior vena cava, demonstrating PFA as an effective alternative to conventional radiofrequency ablation for larger anatomical structures."
-  },
-  {
-    "title": "Isolated extravascular implantable cardioverter-defibrillator infection without leadless pacemaker involvement: A unique dual-device case report",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.01.028",
-    "doi": "10.1016/j.hrcr.2026.01.028",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "Implantable cardioverter-defibrillators (ICDs) have been central in the prevention of sudden cardiac death (SCD) for over three decades (1\u20133). Despite their proven efficacy, traditional transvenous ICD (TV-ICD) systems carry substantial procedural and long-term risks, primarily due to the presence of intravascular leads (4,5). These complications mainly include lead malfunction, venous thrombosis, valvular injury and infection. Although relatively infrequent (0.6-1.3%), TV-ICD infections often require complete system removal and are associated with significant morbidity and mortality (6,7).",
-    "summary": "This review discusses the long-standing clinical role of ICDs in sudden cardiac death prevention and highlights significant complications associated with traditional transvenous ICD systems, particularly lead-related infections (0.6-1.3% incidence) that often necessitate complete device removal with substantial morbidity and mortality. The content appears to be an introductory section setting the rationale for alternative ICD technologies rather than a complete study with defined methodology and results."
-  },
-  {
-    "title": "Leadless pacing\u2013induced pacemaker syndrome managed with atrial leadless pacing device",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.01.021",
-    "doi": "10.1016/j.hrcr.2026.01.021",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reply to the letter to the editor entitled \u201cBrugada syndrome in a 15-month-old boy\u201d",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.02.014",
-    "doi": "10.1016/j.hrcr.2026.02.014",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Utility of transesophageal echocardiography during implantation of leadless pacemaker in pediatric patients",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.02.011",
-    "doi": "10.1016/j.hrcr.2026.02.011",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "Transcatheter leadless pacemakers (LP) eliminate pocket and lead-related complications associated with traditional transvenous pacing systems. The safety and efficacy of LP are well described in the adult population 1,2. Recently, pediatric studies have also found its use favorable in select patient populations 3. The LP is particularly useful in pediatric patients with transient or paroxysmal atrioventricular (AV) block and those with prolonged pauses leading to symptoms. Technical challenges unique to pediatric implantation include smaller patient size, smaller cardiac chamber size, proximity to the tricuspid (TV) and pulmonary valve (PV), and the need for adequate vein size of at least 9mm to safely accept the delivery system 4.",
-    "summary": "This is a narrative review discussing the safety and efficacy of transcatheter leadless pacemakers in pediatric populations, particularly for transient/paroxysmal atrioventricular block and symptomatic prolonged pauses, while highlighting unique technical challenges including small patient size, cardiac anatomy constraints, and vascular access requirements (minimum 9mm venous diameter)."
-  },
-  {
-    "title": "Rate-dependent transition from bradycardia-dependent atrioventricular block to inverse and conventional decremental conduction after transcatheter aortic valve replacement: A case report",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.02.003",
-    "doi": "10.1016/j.hrcr.2026.02.003",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Atrioventricular (AV) block is one of the major complications following transcatheter aortic valve replacement (TAVR).1 In recent years, only a few reports have described bradycardia-dependent AV block after TAVR.2 Among patients who develop intermittent left bundle branch block following TAVR, approximately 79.4% show bradycardia dependence, and both the intermittent and bradycardia-dependent patterns are reported to be more frequent than in non-TAVR patients.3 Similarly, intermittent, bradycardia-dependent AV block after TAVR may also occur more commonly than previously recognized.",
-    "summary": "This is a retrospective observational review noting that bradycardia-dependent atrioventricular block occurs in approximately 79.4% of patients who develop intermittent left bundle branch block after TAVR, and such conduction abnormalities appear more frequent in TAVR patients than in non-TAVR populations, suggesting this complication may be underrecognized in clinical practice."
-  },
-  {
-    "title": "Peripheral endothelialization progression on fluoropolymer-coated left atrial appendage closure devices: Does device position influence healing?",
-    "link": "https://doi.org/10.1016/j.hrcr.2025.11.005",
-    "doi": "10.1016/j.hrcr.2025.11.005",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "The extent of endothelialization of left atrial appendage closure (LAAC) devices is a key determinant of thrombotic risk, particularly device-related thrombus (DRT) formation. Although animal models suggest that fluoropolymer (FP)-coated devices accelerate endothelial coverage and reduce thrombogenicity, clinical evidence remains limited. In particular, human data directly characterizing the extent, timing, and pattern of coverage are sparse, leaving the clinical relevance of FP-related acceleration unresolved.",
-    "summary": "This retrospective observational study examines endothelialization patterns of left atrial appendage closure devices in humans, noting that while animal models suggest fluoropolymer-coated devices accelerate endothelial coverage and reduce device-related thrombus formation, direct clinical evidence characterizing the extent, timing, and pattern of coverage in patients remains limited. The authors aim to clarify the clinical relevance of fluoropolymer coating in reducing thrombotic complications, though specific sample size and key results are not provided in this abstract excerpt."
-  },
-  {
-    "title": "Preparing for the long road: Insights from the first few steps!",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.04.001",
-    "doi": "10.1016/j.hrcr.2026.04.001",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Feasibility of the \u201chalf-ring\u201d technique of the circular array pulsed field ablation catheter to treat non-pulmonary vein foci in the vicinity of the conduction system",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.01.026",
-    "doi": "10.1016/j.hrcr.2026.01.026",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transient chronotropic incompetence owing to sinus node modification after superior vena cava isolation \u2013 A rare complication",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.02.008",
-    "doi": "10.1016/j.hrcr.2026.02.008",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Delayed coronary vasospasm after pulsed field ablation for pulmonary vein isolation despite avoidance of coronary-adjacent ablation sites",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.02.009",
-    "doi": "10.1016/j.hrcr.2026.02.009",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "AFib"
     ],
     "hot": false
   }
