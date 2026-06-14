@@ -1,5 +1,53 @@
 [
   {
+    "title": "Assessment of the Relevant Field of View of Unipolar Electrodes Using In Vivo Imaging",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600455X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jun 14, 2026",
+    "date_ts": 1781404230.765476,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Epidemiological shift and future projections of atrial fibrillation and flutter in North Africa and the Middle East region: a comprehensive Global Burden of Disease analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002588?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jun 14, 2026",
+    "date_ts": 1781404230.680328,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of End-Stage Renal Disease on Stroke Risk in Patients with Atrial Fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002606?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jun 14, 2026",
+    "date_ts": 1781404230.680288,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Atrial electrogram amplitude-guided Bachmann bundle pacing implantation: a single-center experience",
+    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600259X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jun 14, 2026",
+    "date_ts": 1781404230.680075,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "The Predictive Value of Impedance for Defibrillation Success After S-ICD Implantation: A Reliable Indicator?",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004512?dgcid=rss_sd_all",
     "doi": null,
@@ -6255,58 +6303,6 @@
     "date_ts": 1777593600.0,
     "tags": [
       "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Erratum to \u2018Unifocal premature ventricular complex ablation for recurrent ventricular fibrillation in a post\u2013myocardial infarction patient with acquired long QT\u2019 [Heart Rhythm Case Reports 12_1 (2026) 135-142]",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.02.004",
-    "doi": "10.1016/j.hrcr.2026.02.004",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "VT",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Supraventricular tachycardia owing to 2-for-1 atrioventricular nodal conduction in a patient with repaired tetralogy of Fallot",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.02.012",
-    "doi": "10.1016/j.hrcr.2026.02.012",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "VT",
-      "SVT"
-    ],
-    "hot": false,
-    "abstract": "2-for-1 atrio-ventricular (AV) nodal conduction, also known as Dual AV nodal Non-Reentrant Tachycardia (DAVNNT) or Double Ventricular Response Tachycardia (DVR), is an uncommon arrhythmia in which a single atrial impulse conducts simultaneously via both fast and slow AV nodal pathways, producing two ventricular activations [1]. Misdiagnosis is frequent because of its variable surface ECG appearance[2]. We report a case of 2-for-1 tachycardia in a patient with repaired TOF, highlighting diagnostic maneuvers and successful ablation.",
-    "summary": "This is a case report describing 2-for-1 AV nodal conduction (DAVNNT) in a patient with repaired tetralogy of Fallot, where a single atrial impulse conducts through both fast and slow AV nodal pathways resulting in dual ventricular responses, with successful radiofrequency ablation demonstrated. The authors emphasize diagnostic maneuvers to differentiate this uncommon arrhythmia from more common tachycardias given its variable ECG presentation and frequent misdiagnosis."
-  },
-  {
-    "title": "Brugada syndrome in a boy aged 15 months",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.01.029",
-    "doi": "10.1016/j.hrcr.2026.01.029",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "High-definition mapping of permanent junctional reciprocating tachycardia: Deeper insights into atrial activation and branching",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.01.024",
-    "doi": "10.1016/j.hrcr.2026.01.024",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "May 01, 2026",
-    "date_ts": 1777593600.0,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
