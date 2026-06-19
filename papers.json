@@ -1,5 +1,44 @@
 [
   {
+    "title": "Artificial Intelligence and Biomarker-Driven Prediction of Post-CABG Atrial Fibrillation: Integrating Clinical, Genomic, and Metabolic Insights",
+    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600262X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jun 19, 2026",
+    "date_ts": 1781837306.762722,
+    "tags": [
+      "AFib",
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Electrocardiographic Imaging of Repolarization Abnormalities in Structural Heart Disease for Characterisation of Arrhythmogenic Phenotypes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024781?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jun 19, 2026",
+    "date_ts": 1781837306.482017,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Mechanical CPR Device Use and Cardiac Arrest Survival in EMS Agencies",
+    "link": "https://doi.org/10.1161/circulationaha.126.079272",
+    "doi": "10.1161/circulationaha.126.079272",
+    "journal": "Circulation",
+    "date": "Jun 18, 2026",
+    "date_ts": 1781740800.0,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    Cardiopulmonary resuscitation (CPR) by health care responders is often suboptimal during out-of-hospital cardiac arrest (OHCA). Mechanical CPR devices have been promoted as a strategy to improve CPR quality. Whether their use in routine care is associated with improved OHCA survival at emergency medical service (EMS) agencies is unclear.\n                  \n                  \n                    METHODS:\n                    Within the Cardiac Arrest Registry to Enhance Survival, we assessed agency-level rates of OHCA survival at EMS agencies with \u22652 years of OHCA data before and after their first documented use of a mechanical CPR device from 2013 to 2019 using an observational cohort study design. Temporal trends in favorable neurological survival (without severe neurological disability) and survival to discharge were first assessed in EMS agencies that did not initiate mechanical CPR device use (control agencies) using multivariable hierarchical logistic regression. Then an interrupted time series analysis evaluated whether introduction of mechanical CPR devices at EMS agencies was associated with higher OHCA survival.\n                  \n                  \n                    RESULTS:\n                    \n                      Among 51\u2009994 patients with OHCA at 73 control agencies, there were no temporal trends in risk-adjusted rates of favorable neurological survival (annual rates ranged between 9.6% and 10.6%;\n                      P\n                      trend\n                      =0.23) or survival to discharge (annual rates ranged between 11.1% and 12.0%;\n                      P\n                      trend\n                      =0.31). At 49 EMS agencies that introduced mechanical CPR devices (14\u2009110 OHCAs before and 17\u2009804 OHCAs after), the mean EMS agency risk-adjusted rate of favorable neurological survival was 8.9%\u00b12.2% before mechanical CPR device introduction and 8.3%\u00b11.3% after, with no change in model intercept (adjusted odds ratio, 0.94 [95% CI, 0.80\u20131.11];\n                      P\n                      =0.48) or slope after introduction of mechanical CPR devices (adjusted odds ratio per year, 1.03 [95% CI, 0.96\u20131.12];\n                      P\n                      =0.41). Similarly, the mean EMS agency risk-adjusted rate of survival to discharge was 11.0%\u00b12.2% before and 10.0%\u00b11.0% after device introduction, with no significant change in model intercept or slope after device introduction.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    In a large US registry of OHCA, EMS agency rates of favorable neurological survival and survival to discharge were not higher after the initiation of mechanical CPR device use.",
+    "summary": "This observational cohort study using interrupted time series analysis examined 31,914 OHCA patients across 49 EMS agencies that introduced mechanical CPR devices (2013-2019) compared to 51,994 patients at 73 control agencies, finding no improvement in risk-adjusted favorable neurological survival (8.9% vs 8.3%, aOR 0.94) or survival to discharge (11.0% vs 10.0%) following mechanical CPR device implementation. The results suggest that routine adoption of mechanical CPR devices in EMS practice was not associated with improved OHCA outcomes in real-world settings."
+  },
+  {
     "title": "Automatic Measurement of Short-Term Variability of Repolarization on Human Intracardiac Electrograms Predicts VT/VF Events",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002618?dgcid=rss_sd_all",
     "doi": null,
@@ -32,6 +71,32 @@
     "date_ts": 1781749975.813146,
     "tags": [
       "AFib",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "C-terminal long-QT type 1 R562S-Kv7.1 variant, the first variant in helix C impairing \u03b2-adrenergic response of the slow delayed rectifier K+ channel",
+    "link": "https://doi.org/10.1093/europace/euag156",
+    "doi": "10.1093/europace/euag156",
+    "journal": "EP Europace",
+    "date": "Jun 18, 2026",
+    "date_ts": 1781740800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Kv7.1 variants, associated with long-QT syndrome type 1 (LQT1) and altering the function of the slow delayed rectifier K+ (IKs) channel, may result in arrhythmias, especially during exercise. This study focused on complex analysis of the R562S-Kv7.1 variant located in helix C of the Kv7.1 C-terminus, which was identified in four putatively unrelated families in the Czech Republic.\n                  \n                  \n                    Methods\n                    The clinical and genetic investigation was followed by functional analysis (whole-cell patch clamp, confocal microscopy, computational simulations) and structural modelling.\n                  \n                  \n                    Results\n                    The genetic analysis suggested that R562S-Kv7.1 might be a founder LQT1 variant in Central Europe. R562S carriers showed a significantly prolonged QTc interval at rest and a significantly higher QTc prolongation after exercise vs. healthy relatives. The functional analysis of R562S channels demonstrated their preserved membrane localization, a significant decrease in IKs with a rightward shift of the voltage dependence of activation, and, importantly, a lack of responsiveness to \u03b2-adrenergic stimulation. The latter seems to be related to a modified interaction of the modulatory KCNE1 subunit with Kv7.1. The proarrhythmic potential of R562S dysfunction, mediated by delayed afterdepolarizations during \u03b2-adrenergic stimulation, could be effectively prevented by mild (5%) inhibition of L-type Ca2+ current (ICa).\n                  \n                  \n                    Conclusion\n                    R562S-Kv7.1 is the first variant in helix C causing an impaired response of IKs channel to \u03b2-adrenergic stimulation, likely due to altered interactions between channel subunits, namely Kv7.1 and KCNE1. Mild ICa inhibition was suggested as a new treatment option.",
+    "summary": "This retrospective genetic and functional analysis of four unrelated families identified R562S-Kv7.1 as a likely Central European founder variant for LQT1, characterized by preserved membrane localization but significantly reduced IKs with loss of \u03b2-adrenergic responsiveness due to impaired Kv7.1-KCNE1 interaction, with mild L-type calcium channel inhibition demonstrated as a potentially effective therapeutic strategy to prevent exercise-induced arrhythmias."
+  },
+  {
+    "title": "Interpretable Multimodal AI to Predict the Presence of Late Gadolinium Enhancement on Cardiac Magnetic Resonance Imaging in Cardiac Sarcoidosis Patients",
+    "link": "https://doi.org/10.1161/circep.125.014627",
+    "doi": "10.1161/circep.125.014627",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Jun 18, 2026",
+    "date_ts": 1781740800.0,
+    "tags": [
       "Imaging"
     ],
     "hot": false
@@ -6256,67 +6321,6 @@
     "journal": "Heart Rhythm",
     "date": "May 10, 2026",
     "date_ts": 1778377771.228319,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Polymorphic ventricular tachycardia deteriorating into ventricular fibrillation during radiofrequency-facilitated left bundle branch pacing lead implantation in complete atrioventricular block",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023544?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "May 10, 2026",
-    "date_ts": 1778377771.228268,
-    "tags": [
-      "VT",
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The time has come for a prospective randomized trial to evaluate the safety of Class Ic drugs in patients with coronary artery disease",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602357X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "May 10, 2026",
-    "date_ts": 1778377771.228091,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Safety and Midterm Outcome of Focal Pulsed Field Ablation for Outflow Tract Premature Ventricular Contractions: A Prospective Multicenter Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002768?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "May 09, 2026",
-    "date_ts": 1778291340.000081,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Percutaneous Retrieval of an Epicardial ICD Lead Fragment",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003464?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "May 09, 2026",
-    "date_ts": 1778291340.00005,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "J-Wave Syndromes: Reconciling the Complexity",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003452?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "May 09, 2026",
-    "date_ts": 1778291340.000019,
     "tags": [
       "Other"
     ],
