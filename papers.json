@@ -1,5 +1,66 @@
 [
   {
+    "title": "The Impact of Remote Monitoring on Clinical Outcomes in Defibrillator Patients During the COVID-19 Pandemic: An Interrupted Time Series Analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002643?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jun 21, 2026",
+    "date_ts": 1782009166.565614,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left Ventricular Wall Thickness and Functional Recovery after Atrial Fibrillation Ablation in Patients with Systolic Dysfunction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002655?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jun 21, 2026",
+    "date_ts": 1782009166.56556,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Feasibility of Mapping and Ablation of Scar-Related Atrial Flutter Using a Novel High-Density 3-Dimensional Electroanatomic Mapping System",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024823?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jun 21, 2026",
+    "date_ts": 1782009166.445927,
+    "tags": [
+      "AFib",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Influence of Maternal and Fetal Factors on Fetal Magnetocardiography Measurements Using Optically Pumped Magnetometers",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602480X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jun 21, 2026",
+    "date_ts": 1782009166.445883,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left Ventricular Fibrosis in Atrial Fibrillation and Heart Failure with Reduced Ejection Fraction: A Comprehensive Review of Mechanisms, Clinical Implications, and Therapeutic Perspectives",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024847?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jun 21, 2026",
+    "date_ts": 1782009166.44572,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "UHF-ECG Outperforms QRS Duration and Morphology in Predicting Responders to Biventricular Cardiac Resynchronization Therapy",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004755?dgcid=rss_sd_all",
     "doi": null,
@@ -6247,72 +6308,6 @@
     "journal": "JAMA Cardiology",
     "date": "May 13, 2026",
     "date_ts": 1778630400.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Simultaneous Tricuspid Valve Replacement and Left Bundle Branch Area Pacing With Surgical Lead Refixation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70292?af=R",
-    "doi": "10.1111/pace.70292",
-    "journal": "PACE",
-    "date": "May 13, 2026",
-    "date_ts": 1778668171.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    The importance of managing tricuspid regurgitation (TR) has been increasingly recognized, and tricuspid valve replacement (TVR) is now performed more frequently. Conduction system pacing (CSP), including left bundle branch area pacing (LBBAP), offers substantial benefits by improving left ventricular (LV) electrical synchrony. However, combining these two strategies is challenging.\n                  \n                  \n                    Case\n                    A 58\u2010year\u2010old man underwent dual\u2010chamber pacemaker implantation for complete atrioventricular block. Five years later, he developed severe LV dysfunction due to right ventricular (RV) apical pacing\u2013induced cardiomyopathy. Upgrade to conventional cardiac resynchronization therapy resulted in a persistently prolonged QRS duration (150 msec) and modest improvement in LV ejection fraction (LVEF, 35%). RV lead\u2013related TR progressively worsened, leading to biventricular heart failure. Although tricuspid valve repair was performed, severe TR recurred. Following heart team discussion, both CSP upgrade and TVR were deemed necessary without delay. An LBBAP lead was implanted the day before surgery as an \u201celectrophysiological anchor.\u201d During TVR, the lead was dislodged; however, the surgeon identified the insertion (\u201canchor\u201d) site, reinserted the lead, and secured it by jailing it outside the prosthetic valve in a protective position. Postoperatively, the pacing threshold improved (1.5 V@0.4\u00a0ms to 0.75V@0.4\u00a0ms) with QRS narrowing (135 to 125\u00a0ms). At three months, heart failure symptoms were markedly relieved, LVEF improved to 50%, and lead parameters remained stable.\n                  \n                  \n                    Conclusion\n                    Although jailing a lead with a prosthetic valve requires great caution to ensure long\u2010term lead survival, we successfully combined LBBAP and surgical TVR with intraoperative refixation.",
-    "summary": "This case report describes successful combined left bundle branch area pacing (LBBAP) upgrade and tricuspid valve replacement (TVR) in a 58-year-old man with RV apical pacing\u2013induced cardiomyopathy and recurrent severe tricuspid regurgitation, where intraoperative lead reinsertion and jailing outside the prosthetic valve improved QRS duration and LVEF to 50% at three-month follow-up. The technique of using an LBBAP lead as an \"electrophysiological anchor\" prior to TVR, with careful intraoperative refixation, demonstrated feasibility for simultaneously addressing both conduction system dysfunction and structural"
-  },
-  {
-    "title": "Left Atrial Appendage Thrombus/Sludge and Flow Velocity in Patients With Atrial Fibrillation and Low CHA2DS2\u2010VASc Scores",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70285?af=R",
-    "doi": "10.1111/pace.70285",
-    "journal": "PACE",
-    "date": "May 13, 2026",
-    "date_ts": 1778667607.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Nonvalvular atrial fibrillation (NVAF) patients with low CHA2DS2\u2010VASc scores still have a risk of atrial thrombus formation. This study aims to identify these patients' risk factors for intracardiac thrombus or sludge.\n                  \n                  \n                    Methods\n                    We conducted a retrospective study of 919 consecutive hospitalized NVAF or atrial flutter patients with a CHA2DS2\u2010Vas score \u2264 1 (male) and \u2264 2 (female) who underwent transesophageal echocardiogram (TEE) before catheter ablation at Beijing An Zhen Hospital from November 2016 to December 2017. We collected the clinical and echocardiographic characteristics of the patients.\n                  \n                  \n                    Results\n                    \n                      Excluding seven patients with hypertrophic cardiomyopathy, 919 patients, including 17 identified left atrial appendage (LAA) thrombus/sludge and 902 without LAA thrombus/sludge, were included. Among 17 patients with LAA thrombus/sludge, 16 (94.1%) had non\u2010paroxysmal AF. A subgroup analysis was conducted in 403 non\u2010paroxysmal atrial fibrillation (AF) patients. 87.8% had spontaneous echo contrast (SEC), 59.3% had severe or more severe SEC, and 4.0% had thrombus/sludge. In the multivariable model, female (odds ratio [OR] 4.612, 95% [CI] 1.454\u201314.627,\n                      p\n                      = 0.009) and LA diameter \u2265 45\u00a0mm (OR 13.340, [CI] 3.601, 49.415,\n                      p\n                      &lt; 0.001) remained significantly independently associated with LAA thrombus/sludge.\n                    \n                  \n                  \n                    Conclusion\n                    Among patients with NVAF and CHA2DS2\u2010VASc scores \u2264 1 (male) and \u2264 2 (female), those non\u2010paroxysmal AF patients who were female and had an LA \u2265 45\u00a0mm still had a risk of LAA thrombus/sludge formation.",
-    "summary": "This retrospective study of 919 low-risk NVAF patients (CHA2DS2-VASc \u22641 males, \u22642 females) undergoing TEE before ablation identified female sex (OR 4.612) and left atrial diameter \u226545 mm (OR 13.340) as independent risk factors for LAA thrombus/sludge formation, particularly in non-paroxysmal AF patients. The findings suggest that conventionally low-risk NVAF patients with these characteristics warrant closer monitoring despite their low stroke risk scores."
-  },
-  {
-    "title": "Zero Fluoroscopy Catheter Ablation of Accessory Pathways and AV Nodal Re\u2010Entry Tachycardia: A Single Institution Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70281?af=R",
-    "doi": "10.1111/pace.70281",
-    "journal": "PACE",
-    "date": "May 13, 2026",
-    "date_ts": 1778667441.0,
-    "tags": [
-      "SVT"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Minimizing radiation exposure during electrophysiological studies remains an important priority in the catheterization laboratory. With the advancement of imaging and electroanatomic mapping systems, eliminating fluoroscopy from catheter ablation of arrhythmias is becoming more feasible, even for left side procedures requiring transseptal puncture. Nevertheless, there remain concern over the safety and efficacy of a zero\u2010fluoroscopy approach.\n                  \n                  \n                    Objectives\n                    The aim of this report was to evaluate the safety and efficacy of a zero\u2010fluoroscopy catheter ablation approach for accessory pathways and atrioventricular nodal\u2010reentrant tachycardia (AVNRT) in a diverse, consecutive patient cohort.\n                  \n                  \n                    Methods\n                    This was a retrospective analysis of all patients who underwent radiofrequency ablation or cryoablation of accessory pathways or AVNRT between January 2019 and June 2022 at a single institution. Patient demographics, arrhythmia substrates, ablation energy modalities, and procedural outcomes were evaluated.\n                  \n                  \n                    Results\n                    There were 166 total ablation procedures performed on 164 unique patients. Fluoroscopy was not used in any of the cases. The mean age was 14.8 years (range 3.1\u201335.7), of whom 84% were under 18 years of age. Among the 166 procedures performed, 58 involved only typical AVNRT, 1 atypical AVNRT, 99 were accessory pathways, and 8 involved multiple arrhythmia substrates. In all, there were 112 instances of accessory pathways (78 manifest, 34 concealed). Acute procedure success was 99.4%. There were five (5/164, 3%) recurrences after a year of follow\u2010up. There were no complications identified.\n                  \n                  \n                    Conclusion\n                    Zero\u2010fluoroscopy approach to catheter ablation of AVNRT and accessory pathways is safe and effective, further supporting the general adoption of radiation\u2010free techniques in such cases.",
-    "summary": "This retrospective analysis of 166 zero-fluoroscopy ablation procedures in 164 patients (mean age 14.8 years) for accessory pathways and AVNRT demonstrated 99.4% acute success with only 3% recurrence at one year and no procedural complications, supporting the safety and efficacy of eliminating fluoroscopy in these straightforward arrhythmia ablations."
-  },
-  {
-    "title": "Class IC Antiarrhythmic Therapy in Myocarditis With Non-Severe LV Dysfunction",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023611?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "May 13, 2026",
-    "date_ts": 1778637474.044479,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Long-Term Effects of Catheter Ablation vs Medical Therapy in Patients with Atrial Fibrillation and Heart Failure: A Reconstructed Individual Patient Data Meta-Analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602360X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "May 13, 2026",
-    "date_ts": 1778637474.044431,
     "tags": [
       "AFib"
     ],
