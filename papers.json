@@ -1,5 +1,18 @@
 [
   {
+    "title": "Ventricular Tachycardia Ablation Using a Lattice-Tip Ablation Catheter and Intracardiac Echocardiography in the Presence of a Left Ventricular Assist Device",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024859?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jun 22, 2026",
+    "date_ts": 1782095823.501043,
+    "tags": [
+      "VT",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
     "title": "The Impact of Remote Monitoring on Clinical Outcomes in Defibrillator Patients During the COVID-19 Pandemic: An Interrupted Time Series Analysis",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002643?dgcid=rss_sd_all",
     "doi": null,
@@ -59,6 +72,48 @@
       "AFib"
     ],
     "hot": false
+  },
+  {
+    "title": "Subcutaneous Versus Transvenous Implantable Cardioverter\u2010Defibrillators in End\u2010Stage Renal Disease: A Real\u2010World Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70330?af=R",
+    "doi": "10.1111/pace.70330",
+    "journal": "PACE",
+    "date": "Jun 20, 2026",
+    "date_ts": 1781941179.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Patients with end\u2010stage renal disease (ESRD) on dialysis face a high risk of sudden cardiac death, but traditional transvenous implantable cardioverter\u2010defibrillators (TV\u2010ICD) carry risks of central venous stenosis and infection. Subcutaneous implantable cardioverter\u2010defibrillators (S\u2010ICD) provide an extravascular alternative, though comparative outcomes in dialysis patients remain limited.\n                  \n                  \n                    Methods\n                    This study evaluated ESRD patients on hemodialysis who underwent S\u2010ICD or TV\u2010ICD implantation between January 2000 and March 2026 using the TriNetX global health network. A 1:1 propensity score matching (PSM) was utilized across 81 clinical covariates. Kaplan\u2010Meier survival analysis and Cox proportional hazards regression were used to assess long\u2010term outcomes, including infectious complications, dialysis access revisions, and mortality.\n                  \n                  \n                    Results\n                    \n                      Following PSM, 456 matched pairs (\n                      N\n                      \u00a0=\u00a0912) of ESRD patients on dialysis were identified. There were no significant differences between the S\u2010ICD and TV\u2010ICD cohorts regarding the composite outcome of sepsis, bacteremia, or transvenous lead extraction (53.5% vs. 55.1%;\n                      p\n                      \u00a0=\u00a00.268). All\u2010cause mortality (58.7% vs. 60.4%;\n                      p\n                      \u00a0=\u00a00.747) and hospitalization rates (87.9% vs. 85.4%;\n                      p\n                      \u00a0=\u00a00.874) were also similar between the groups. However, S\u2010ICD was associated with higher rates of composite open and endovascular dialysis access revision (39.1% vs. 25.8%;\n                      p\n                      \u00a0=\u00a00.001), percutaneous dialysis access intervention (p\u00a0=\u00a00.002), and dialysis access surgery (\n                      p\n                      \u00a0=\u00a00.021).\n                    \n                  \n                  \n                    Conclusion\n                    S\u2010ICD and TV\u2010ICD demonstrated similar rates of infectious complications, hospitalization, and all\u2010cause mortality in ESRD patients. S\u2010ICD implantation was associated with higher rates of dialysis access revisions and interventions. Device selection should remain individualized, guided by anatomy, access planning, and clinical context.",
+    "summary": "This retrospective cohort study using propensity score matching compared 456 matched pairs (N=912) of hemodialysis patients who received either subcutaneous or transvenous ICDs and found similar rates of infection, hospitalization, and mortality between groups, though S-ICD was associated with significantly higher rates of dialysis access revision and intervention. Device selection should be individualized based on vascular anatomy and access considerations rather than cardiac or infectious outcome differences."
+  },
+  {
+    "title": "Focal Activations Detected by an Automated Mapping System: Insights From Contralateral Atrial Burst Pacing",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70332?af=R",
+    "doi": "10.1111/pace.70332",
+    "journal": "PACE",
+    "date": "Jun 20, 2026",
+    "date_ts": 1781941012.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    The diagnostic performance of CARTO FINDER system for repetitive focal activations (FAs) that may sustain atrial fibrillation (AF) remains under debate.\n                  \n                  \n                    Methods\n                    In this prospective singlecenter study, we evaluated FAs detected by the mapping system during contralateral atrial burst pacing (CLABP) in sinus rhythm (SR) and during AF to characterize their features and potential underlying mechanisms. Protocol 1: The left atrium (LA) and right atrium (RA) were sequentially mapped during CLABP, delivered from the right atrial appendage (RAA) during LA mapping and from the left atrial appendage (LAA) during RA mapping. Protocol 2: Both atria were mapped in AF, and FA sites were partially remapped during CLABP after SR restoration to assess overlap. Mean cycle length (mCL) and its standard deviation (CL\u2010Std) during AF were compared between overlapping and non\u2010overlapping sites.\n                  \n                  \n                    Results\n                    \n                      In Protocol 1, FAs were detected in LA roof/LA septum/LAA/RAA (100%), anterior LA/RA septum (92%), and posterior LA/lateral RA (83%). In Protocol 2, detection sites included lateral LA/LAA/lateral RA/posterior RA/RA septum/RAA (100%), inferior LA (89%), and posterior LA (78%). During CLABP and AF, FAs were frequently and similarly detected in LAA/RAA, septal regions, posterior LA/inferior LA, and lateral RA. Although overlapping sites showed longer mCL (169.8 \u00b1 15.1\u00a0vs. 161.8 \u00b1 12.7\u00a0ms;\n                      p\n                      = 0.002) and higher CL\u2010Std (20.1 \u00b1 7.8\u00a0vs. 17.1 \u00b1 5.0\u00a0ms;\n                      p\n                      = 0.02), neither predicted overlap.\n                    \n                  \n                  \n                    Conclusions\n                    A substantial portion of FAs detected by the mapping system may arise from complex activation pathways rather than focal sources, delineating interpretive gaps and outlining targets for subsequent refinement.",
+    "summary": "This prospective single-center study evaluated 112 patients undergoing atrial mapping with the CARTO FINDER system to detect repetitive focal activations (FAs) during contralateral atrial burst pacing in sinus rhythm and during atrial fibrillation, finding that FAs were frequently detected in multiple atrial locations with substantial overlap between SR and AF mapping, though longer mean cycle length and higher cycle length variability at overlapping sites did not reliably predict true focal sources, suggesting many detected FAs may represent complex activation patterns rather than true focal mechanisms."
+  },
+  {
+    "title": "First Experience With Extravascular Implantable Cardioverter\u2010Defibrillator Under Deep Sedation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70323?af=R",
+    "doi": "10.1111/pace.70323",
+    "journal": "PACE",
+    "date": "Jun 20, 2026",
+    "date_ts": 1781938800.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    The Extravascular Implantable Cardioverter\u2010Defibrillator (EV\u2010ICD) utilizes a substernal lead to provide defibrillation and anti\u2010tachycardia pacing (ATP) while avoiding transvenous complications. General anesthesia (GA) was applied for implantation procedures in the EV\u2010ICD pivotal trial and is currently recommended by the manufacturer. However, GA carries specific risks and consumes significant resources. This study evaluates the feasibility, safety, and procedural efficiency of EV\u2010ICD implantation performed under cardiologist\u2010administered deep sedation with noninvasive ventilation (DS\u2010NIV) compared to standard GA.\n                  \n                  \n                    Methods\n                    \n                      We retrospectively analyzed 24 consecutive patients undergoing EV\u2010ICD implantation in our center. Patients received either GA (\n                      n\n                      = 14) or DS\u2010NIV (\n                      n\n                      = 10) using a propofol\u2010ketamine protocol delivered by cardiologists. Analyses focused on peri\u2010procedural feasibility and safety, procedural workflow and anesthesia characteristics, and early device electrical performance.\n                    \n                  \n                  \n                    Results\n                    \n                      No anesthesia\u2010related complications occurred in either group. The DS\u2010NIV group demonstrated significantly shorter wheels\u2010to\u2010incision times (median: 45\u00a0vs. 70\u00a0min,\n                      p\n                      = 0.022), whereas the procedural duration did not differ significantly from the GA group. Patients receiving DS\u2010NIV required fewer vasopressors (60%\u00a0vs. 100%,\n                      p\n                      = 0.024) despite higher propofol infusion rates (800\u00a0vs. 350\u00a0mg/h,\n                      P\n                      &lt;0.001). Defibrillation testing success and electrical parameters were comparable. In a median follow\u2010up of 182 days two patients received appropriate EV\u2010ICD therapies and no inappropriate ATP or shocks were delivered.\n                    \n                  \n                  \n                    Conclusion\n                    EV\u2010ICD implantation under cardiologist\u2010administered DS\u2010NIV appears to be feasible and safe, offering improved workflow efficiency compared to GA. These findings support deep sedation as a practical alternative in experienced centers, potentially expanding access to EV\u2010ICD therapy.",
+    "summary": "This retrospective study of 24 patients (14 GA, 10 deep sedation with noninvasive ventilation) demonstrates that cardiologist-administered deep sedation with noninvasive ventilation for EV-ICD implantation is feasible and safe, with shorter time-to-incision (45 vs. 70 minutes), reduced vasopressor requirements, and comparable device performance and outcomes to general anesthesia. These findings suggest deep sedation may be a practical alternative to GA in experienced centers, potentially improving procedural efficiency and resource utilization."
   },
   {
     "title": "UHF-ECG Outperforms QRS Duration and Morphology in Predicting Responders to Biventricular Cardiac Resynchronization Therapy",
@@ -6256,56 +6311,6 @@
     "link": "https://doi.org/10.1093/eurheartj/ehag298",
     "doi": "10.1093/eurheartj/ehag298",
     "journal": "European Heart Journal",
-    "date": "May 13, 2026",
-    "date_ts": 1778630400.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The dual face of lamin A/C cardiomyopathy: risk prediction of heart failure and arrhythmias",
-    "link": "https://doi.org/10.1093/eurheartj/ehag215",
-    "doi": "10.1093/eurheartj/ehag215",
-    "journal": "European Heart Journal",
-    "date": "May 13, 2026",
-    "date_ts": 1778630400.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "<i>MTMR4</i>\n                    variants have opposite gene-specific impact on life-threatening arrhythmic risk in type 1 and 2 long QT syndrome",
-    "link": "https://doi.org/10.1093/eurheartj/ehag294",
-    "doi": "10.1093/eurheartj/ehag294",
-    "journal": "European Heart Journal",
-    "date": "May 13, 2026",
-    "date_ts": 1778630400.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Modifier genes may cause different clinical phenotypes in patients with long QT syndrome (LQTS) carrying the same pathogenic variant. Variants in the MTMR4 gene have been previously associated, via patient-specific cardiomyocytes derived from induced pluripotent stem cells, with variable arrhythmic risk in a family with the p.Y111C-LQT1 mutation. This study aimed to evaluate the broader clinical impact of MTMR4 variants in patients with LQT1 and LQT2.\n                  \n                  \n                    Methods\n                    A total of 1192 LQTS patients were analysed: 638 with LQT1, 432 with LQT2, and 122 Swedish carriers of the p.Y111C-LQT1 variant. The association between MTMR4 variants and clinical severity was assessed by comparing patients with severe symptoms (cardiac arrest or syncope on beta-blockers) vs asymptomatic or mildly symptomatic individuals. ECG parameters, including Tpeak-Tend and T-wave heterogeneity, were also evaluated.\n                  \n                  \n                    Results\n                    In the LQT1 cohort, there was a significant decreasing pattern for cardiac events across MTMR4 genotypes (AA:15.9%, Aa:11.6%, aa:6.3%), while an opposite trend was apparent in the LQT2 cohort (AA:16.5%, Aa:18.2%, aa:27.6%). No pattern was apparent in the Swedish cohort. In the combined LQT1 cohort, the aa genotype was found in 15% of 702 mild/asymptomatic vs 1.7% of 58 with severe symptoms (P = .002). Vice versa, in LQT2, aa was more frequent in severe cases (24.1% vs 11.9%, P = .014). QTc was not associated with MTMR4, but the repolarization markers supported a gene-specific directionality of arrhythmic risk.\n                  \n                  \n                    Conclusions\n                    The MTMR4 minor allele in homozygosis exerts a gene-specific and opposite impact on arrhythmic risk in LQTS. This finding should influence risk stratification in clinical practice.",
-    "summary": "This retrospective cohort study of 1,192 LQTS patients (638 LQT1, 432 LQT2, 122 p.Y111C-LQT1 carriers) found that MTMR4 homozygous minor alleles have opposite gene-specific effects on arrhythmic risk: protective in LQT1 (6.3% vs 15.9% cardiac events in AA genotype, P=0.002) but deleterious in LQT2 (27.6% vs 16.5%, P=0.014), suggesting MTMR4 genotyping should inform LQ"
-  },
-  {
-    "title": "Evidence-Based Imaging Pathway for Atrial Fibrillation Ablation",
-    "link": "https://doi.org/10.1001/jamacardio.2026.0977",
-    "doi": "10.1001/jamacardio.2026.0977",
-    "journal": "JAMA Cardiology",
-    "date": "May 13, 2026",
-    "date_ts": 1778630400.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Evidence-Based Imaging Pathway for Atrial Fibrillation Ablation\u2014Reply",
-    "link": "https://doi.org/10.1001/jamacardio.2026.0980",
-    "doi": "10.1001/jamacardio.2026.0980",
-    "journal": "JAMA Cardiology",
     "date": "May 13, 2026",
     "date_ts": 1778630400.0,
     "tags": [
