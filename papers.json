@@ -1,5 +1,17 @@
 [
   {
+    "title": "Tirzepatide Regulates Pacemaker Function by Modulating cAMP and Calcium Dynamics in Human Sinoatrial Node Cells",
+    "link": "https://doi.org/10.1161/circulationaha.125.076669",
+    "doi": "10.1161/circulationaha.125.076669",
+    "journal": "Circulation",
+    "date": "Jun 23, 2026",
+    "date_ts": 1782172800.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
     "title": "Ventricular Tachycardia Ablation Using a Lattice-Tip Ablation Catheter and Intracardiac Echocardiography in the Presence of a Left Ventricular Assist Device",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024859?dgcid=rss_sd_all",
     "doi": null,
@@ -2313,6 +2325,54 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Clinical guidelines do not recommend the routine rinsing of cardiac implantable electronic devices (CIED) with antimicrobials before pocket closure(\u201cantimicrobial pocket flush.\u201d) However, despite current recommendations and a lack of evidence regarding the utility of this practice for reducing CIED infections, the antimicrobial pocket flush is still commonly employed. Clarifying the true value of this technique is important for supporting evidence\u2010based practice and avoiding unnecessary antimicrobial use. Therefore, we performed meta\u2010analysis of observational studies to determine the effectiveness of this practice in preventing CIED infections.\n                  \n                  \n                    Methods\n                    We performed a systematic literature search for observational human studies investigating the effectiveness of employing the antimicrobial pocket flush to prevent CIED infection. A random effects meta\u2010analysis was performed. Effectiveness was estimated with the study\u2010level definitions of CIED infection. We performed subgroup analysis by type of antimicrobial\u2010antiseptic or antibiotic.\n                  \n                  \n                    Results\n                    \n                      A total of seven studies including 12,283 patients were analyzed. Over half of the CIED implantation procedures (61.5%) included the antimicrobial pocket flush, and between 8.4% and 85% of the implantations were revision procedures. Studies used various antimicrobials for pocket flush, and definitions of CIED infection varied. Overall infection rates ranged from 0.5%\u20131.5%. CIED infection rates did not differ significantly between procedures performed with versus without antimicrobial pocket flush (0.8%\u00a0vs. 1.1%; relative risk 0.80; 95% confidence interval 0.39\u20131.63;\n                      p\u00a0\n                      =\u00a00.54). There was no difference in the subgroup analysis by antiseptic or antibiotic use.\n                    \n                  \n                  \n                    Conclusion\n                    Our results suggest that the antimicrobial pocket flush provides no benefit in preventing CIED infection, reinforcing the current guidelines that do not support its routine use.",
     "summary": "This meta-analysis of seven observational studies (12,283 patients) found no significant difference in cardiac implantable electronic device infection rates between procedures performed with versus without antimicrobial pocket flush (0.8% vs. 1.1%; RR 0.80, 95% CI 0.39\u20131.63), supporting current guideline recommendations against routine use of this practice."
+  },
+  {
+    "title": "Focal Pulsed-Field Ablation for Recurrent Para-Hisian Premature Ventricular Contractions After Failed Radiofrequency Ablation: A Case Report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.017",
+    "doi": "10.1016/j.hrcr.2026.06.017",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "When Automatic Gain Control Fails: Ventricular Fibrillation Undersensing in the Setting of High-Amplitude Ventricular Signals",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.019",
+    "doi": "10.1016/j.hrcr.2026.06.019",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The SAIL Technique: Snare-Assisted Intravascular Lead-to-Wire Conversion for Venous Access Preservation During Transvenous Lead Extraction in Venous Occlusion",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.018",
+    "doi": "10.1016/j.hrcr.2026.06.018",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Genome Sequencing Identifies an Attenuated, Cardiac-Predominant Form of Mucolipidosis Type III\u03b1/\u03b2 as the Potential Cause of a Genetically-Elusive, Ring-Like Arrhythmogenic Non-Dilated Left Ventricular Cardiomyopathy",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.016",
+    "doi": "10.1016/j.hrcr.2026.06.016",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
   },
   {
     "title": "When the Helix Unwinds: Lead Entrapment During Left Bundle Branch Area Pacing",
@@ -6251,71 +6311,5 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Introduction\n                    The femoral and internal jugular veins are the most commonly used access routes for TTVPM placement. Femoral access is associated with higher rates of infection and bleeding due to groin proximity, whereas jugular access may increase the risk of vascular injury or pneumothorax when performed without imaging guidance. Despite numerous observational studies comparing these access sites, the evidence remains inconclusive due to heterogeneous methodologies, small sample sizes, and varying definitions of complications. To address these limitations, we conducted a meta\u2010analysis to compare the relative safety and effectiveness of jugular versus femoral access for TTVPM placement.\n                  \n                  \n                    Methods\n                    A comprehensive search of PubMed, Embase, and Cochrane was performed from June 28, 2025, without language restrictions. Eligible studies included adult patients (\u226518 years) undergoing TTVPM placement and directly comparing femoral and jugular venous access. Trials were considered if they reported at least one of the following outcomes: bleeding, infection, lead repositioning, cardiac perforation, or other major procedural complications.\n                  \n                  \n                    Results and Discussion\n                    \n                      Six observational studies published between 2013 and 2024 met the inclusion criteria and encompassed 2,267 patients from diverse clinical settings. Bleeding complications were reported in five studies (\n                      n\n                      = 1,457), showing no statistically significant difference between access sites (RR 0.54; 95% CI 0.18\u20131.60;\n                      p\n                      = 0.27). Four studies (\n                      n\n                      = 528) reported catheter\u2010related infections, demonstrating a significantly lower risk with jugular access (RR 0.25; 95% CI 0.11\u20130.53;\n                      p\n                      = 0.0003). Lead repositioning (RR 0.73;\n                      p\n                      = 0.46) and cardiac perforation (RR 0.50;\n                      p\n                      = 0.33) showed no significant differences.\n                    \n                  \n                  \n                    Conclusion\n                    Jugular venous access for TTVPM placement is associated with a significantly lower risk of catheter\u2010related infections compared with femoral access, while rates of bleeding, lead repositioning, and cardiac perforation do not significantly differ between approaches. Jugular access may be preferred for patients expected to require prolonged pacing or those at high infection risk, whereas femoral access remains reasonable for short\u2010term or emergent indications.",
     "summary": "This meta-analysis of 6 observational studies (2,267 patients) comparing jugular versus femoral venous access for TTVPM placement found that jugular access significantly reduced catheter-related infections (RR 0.25, p=0.0003) without differences in bleeding, lead repositioning, or cardiac perforation rates. Jugular access may be preferred for prolonged pacing or high-infection-risk patients, while femoral access remains acceptable for emergent short-term use."
-  },
-  {
-    "title": "Recurrent Takotsubo Syndrome After Pacemaker Implantation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70257?af=R",
-    "doi": "10.1111/pace.70257",
-    "journal": "PACE",
-    "date": "May 14, 2026",
-    "date_ts": 1778769121.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Takotsubo syndrome (stress cardiomyopathy) is a reversible ventricular systolic dysfunction presenting as acute heart failure, typically precipitated by emotional or physical stress. It features transient apical ballooning or regional wall\u2010motion abnormalities and often requires distinction from acute coronary syndrome. Although episodes soon after pacemaker implantation are described, recurrence within three months of apparent recovery is rare.\n                  \n                  \n                    Case Summary\n                    We report a case of a patient who underwent dual\u2010chamber pacemaker implantation for atrioventricular block. One day after discharge, the patient developed acute heart failure and was subsequently diagnosed with previously undiagnosed stress cardiomyopathy. After recovery from the initial episode, the patient experienced a recurrence of stress cardiomyopathy three months later.\n                  \n                  \n                    Discussion\n                    This case illustrates very early, procedure\u2010associated Takotsubo syndrome with short\u2010interval recurrence. Recognition in the peri\u2010implant setting is crucial, as management is supportive and outcomes hinge on timely echocardiography, exclusion of acute coronary syndrome, and structured follow\u2010up.\n                  \n                  \n                    Take\u2010Home Messages\n                    \n                      \n                        \n                          Consider Takotsubo syndrome in peri\u2010implant decompensation after pacemaker implantation; obtain early bedside echocardiography and selective coronary evaluation.\n                        \n                        \n                          Manage with obstruction\u2010aware supportive care; continue RAS blockade after discharge and ensure structured follow\u2010up, as recurrence can occur despite guideline\u2010concordant therapy.",
-    "summary": "This is a case report describing a patient who developed stress cardiomyopathy (Takotsubo syndrome) one day after dual-chamber pacemaker implantation for atrioventricular block, with an unusual recurrence three months after initial recovery. The authors emphasize the importance of recognizing procedure-associated Takotsubo syndrome in the peri-implant setting through early echocardiography and coronary evaluation, with supportive management and close follow-up, as recurrence can occur despite appropriate medical therapy."
-  },
-  {
-    "title": "Tied up in the Lab: An Unexpected Catheter Knot in the Arterial System",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70287?af=R",
-    "doi": "10.1111/pace.70287",
-    "journal": "PACE",
-    "date": "May 14, 2026",
-    "date_ts": 1778756973.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  Catheter knotting is a rare but potentially serious complication encountered during electrophysiological procedures. We report an unusual case of catheter ablation for premature ventricular complexes (PVCs) arising from anterolateral papillary muscle, where a ThermoCool SmartTouch (ST) catheter (Biosense Webster, Irvine, CA) developed a knot within the arterial system during transaortic mapping. The knot formed after the catheter was inadvertently withdrawn into the ascending aorta and re\u2010advanced, leading to looping and tip entrapment. Standard maneuvers to untie the knot were unsuccessful. As a novel bailout strategy, the external portion of the catheter was cut near the handle and a large\u2010bore 8.5 SL0 sheath (Swartz Braided SL Transseptal Guiding Introducer Sheath; length 63\u00a0cm) was advanced over it. The knotted catheter was then maneuvered against the aortic valve, and controlled mechanical contact led to successful loosening of knot and sheath retrieval. This case underscores the importance of early recognition, careful manipulation, and innovative problem\u2010solving in managing rare mechanical complications in the cardiac electrophysiology lab.",
-    "summary": "This is a case report describing an unusual complication of catheter ablation for anterolateral papillary muscle PVCs, where a ThermoCool SmartTouch catheter developed an intravascular knot that was successfully managed using a novel technique involving catheter transection and mechanical manipulation against the aortic valve. The case illustrates the importance of careful catheter handling and innovative bailout strategies for rare mechanical complications during electrophysiological procedures."
-  },
-  {
-    "title": "Short\u2010Term, Weight\u2010Adjusted Colchicine to Prevent Post\u2010CABG Arrhythmias: A Randomized, Double\u2010Blind, Controlled Trial",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70278?af=R",
-    "doi": "10.1111/pace.70278",
-    "journal": "PACE",
-    "date": "May 14, 2026",
-    "date_ts": 1778756701.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Postoperative arrhythmias are common after coronary artery bypass graft (CABG) surgery and are linked to adverse outcomes. Colchicine, an anti\u2010inflammatory agent, has shown inconsistent results in prior studies, possibly due to dosing and timing variations.\n                  \n                  \n                    Objectives\n                    To evaluate the efficacy and safety of short\u2010term, weight\u2010adjusted colchicine initiated preoperatively for preventing postoperative arrhythmias after CABG.\n                  \n                  \n                    Methods\n                    In this randomized, double\u2010blind, placebo\u2010controlled trial, 172 adults scheduled for on\u2010pump CABG received colchicine or placebo. The regimen included a preoperative loading dose (1\u00a0mg twice daily) followed by a weight\u2010based maintenance dose (0.5\u00a0mg daily if &lt;70\u00a0kg; 1\u00a0mg daily if \u226570\u00a0kg) for 14 days. The primary outcome was incidence of postoperative atrial fibrillation (POAF). Secondary outcomes included early (\u226448\u00a0h) and late (&gt;48\u00a0h) POAF, other arrhythmias, inflammatory markers (CRP, ESR), length of stay, and adverse events.\n                  \n                  \n                    Results\n                    \n                      Of 163 analyzed patients (81 colchicine, 82 placebo), POAF incidence was significantly lower in the colchicine group (17.3%\u00a0vs. 46.3%; RR 0.37, 95% CI 0.21\u20130.66;\n                      p\n                      &lt; 0.001), with an absolute risk reduction of 29.0% and number needed to treat (NNT) of 4. Colchicine reduced both early and late POAF (\n                      p\n                      &lt; 0.001 and\n                      p\n                      = 0.002). No significant reduction was seen in other arrhythmias. Gastrointestinal events, primarily diarrhea, were more common with colchicine (25.9%\u00a0vs. 8.5%,\n                      p\n                      = 0.003), but were manageable and without serious adverse events.\n                    \n                  \n                  \n                    Conclusion\n                    Short\u2010term perioperative weight\u2010adjusted colchicine is effective and safe for preventing POAF after CABG, with a low NNT and manageable side effects, though it did not significantly affect other arrhythmias.\n                  \n                  \n                    Trial Registration\n                    Iranian Registry of Clinical Trials, IRCT20200328046886N6",
-    "summary": "This randomized, double-blind, placebo-controlled trial (n=163) evaluated perioperative weight-adjusted colchicine versus placebo in patients undergoing on-pump CABG and found that colchicine significantly reduced postoperative atrial fibrillation incidence (17.3% vs. 46.3%; RR 0.37, p<0.001, NNT=4), with increased but manageable gastrointestinal adverse events (25.9% vs. 8.5%)."
-  },
-  {
-    "title": "Efficacy and Safety of Pulsed Field Ablation for Cavotricuspid Isthmus-Dependent Atrial Flutter: A Meta-Analysis Based on Real-World Evidence",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002138?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 14, 2026",
-    "date_ts": 1778724029.069484,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Quantifying atrial fibrillation to improve risk estimation: the growing role of AF burden and a new density kid on the block",
-    "link": "https://doi.org/10.1093/eurheartj/ehag298",
-    "doi": "10.1093/eurheartj/ehag298",
-    "journal": "European Heart Journal",
-    "date": "May 13, 2026",
-    "date_ts": 1778630400.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
   }
 ]
