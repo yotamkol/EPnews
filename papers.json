@@ -280,6 +280,20 @@
     "hot": false
   },
   {
+    "title": "Feasibility of Two-Dimensional Speckle-Tracking Echocardiography for Assessing Ablation Complexity in Left Ventricular Outflow Tract Premature Ventricular Contractions",
+    "link": "https://doi.org/10.1161/circep.126.014913",
+    "doi": "10.1161/circep.126.014913",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Jun 24, 2026",
+    "date_ts": 1782259200.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    The origins of left ventricular outflow tract premature ventricular contractions (PVCs) differ in depth and may involve preferential pathways, potentially requiring complex ablation. However, a noninvasive method to preprocedurally estimate ablation complexity has not been established.\n                  \n                  \n                    METHODS:\n                    Sixteen patients with idiopathic left ventricular outflow tract PVCs (V2 transition ratio \u22650.6) underwent 2-dimensional speckle-tracking echocardiography during monomorphic PVCs. Endocardial peak systolic strain timing in 18 left ventricular segments was displayed on a bull\u2019s-eye map using 8 color-coded intervals (0\u2013800 ms). Patients were classified as localized (n=6) when the earliest interval appeared in 1 segment and nonlocalized (n=10) when it involved \u22652 segments. Ablation outcomes were compared according to whether a simple ablation approach (PVC elimination within 30 s at a single site) was achieved.\n                  \n                  \n                    RESULTS:\n                    \n                      Baseline electrocardiographic characteristics were comparable between the groups. Ablation-related parameters, including contact force, power output, and impedance drop at the initial ablation site, were also similar. However, the nonlocalized group required statistically significantly greater total radiofrequency energy to eliminate the targeted PVCs (median, 22\u2009206 versus 10\u2009409 J;\n                      P\n                      =0.031) and demonstrated a statistically significantly lower rate of successful simple ablation approach compared with the localized group (20.0% versus 83.3%;\n                      P\n                      =0.035). Nonlocalized patterns may reflect conduction from deeper origins with preferential pathways, thereby requiring more complex ablation strategies.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    A localized earliest-strain pattern was associated with successful PVC elimination using a simple ablation approach, whereas a nonlocalized pattern indicated the need for more complex ablation. This simple, noninvasive metric may aid preprocedural planning for left ventricular outflow tract PVC ablation.",
+    "summary": "This prospective observational study (n=16) used speckle-tracking echocardiography to classify left ventricular outflow tract PVCs as localized versus nonlocalized based on endocardial strain timing patterns, finding that nonlocalized patterns required significantly more radiofrequency energy (22,206 vs 10,409 J; P=0.031) and had lower rates of simple single-site ablation success (20% vs 83.3%; P=0.035), suggesting this noninvasive metric can help predict ablation complexity preprocedurally."
+  },
+  {
     "title": "Tirzepatide Regulates Pacemaker Function by Modulating cAMP and Calcium Dynamics in Human Sinoatrial Node Cells",
     "link": "https://doi.org/10.1161/circulationaha.125.076669",
     "doi": "10.1161/circulationaha.125.076669",
@@ -290,6 +304,76 @@
       "Devices"
     ],
     "hot": false
+  },
+  {
+    "title": "Different Effects of Defibrillator Shocks on the Myocardial Damage Between Subcutaneous and Transvenous Implantable Cardioverter\u2010Defibrillators",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70419?af=R",
+    "doi": "10.1111/jce.70419",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 23, 2026",
+    "date_ts": 1782240349.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Although the implantable cardioverter defibrillators (ICD) are the only established treatment to prevent sudden cardiac death, previous studies reported that those who receive shock therapies, whether appropriate or inappropriate, have a higher risk of death. However, the difference in the influence of shock therapies between via Transvenous\u2010ICD (TV\u2010ICD) and Subcutaneous\u2010ICD (S\u2010ICD) has not been adequately examined. We aimed to investigate the influence of shocks on myocardium in patients with TV\u2010ICD and S\u2010ICD.\n                  \n                  \n                    Methods\n                    We enrolled consecutive patients who received a defibrillator or transvenous pacemaker (TV\u2010PM) implantation between November 2020 and March 2024. A total of 74 patients were included in this study and divided into three groups: patients with TV\u2010ICD with defibrillation testing (DFT) (TV\u2010DFT, 27 patients), those with transvenous devices implanted without DFT (TV\u2010no DFT, 25 patients) and those with S\u2010ICD (22 patients).\n                  \n                  \n                    Results\n                    Delta log troponin\u2010I (the difference of serum troponin\u2010I levels between baseline and after implantation) was significantly increased in TV\u2010DFT group. In patients with TV\u2010ICD (46 patients), Delta log troponin\u2010I was significantly correlated with total shock joules. In the multivariable linear regression analysis, a value of total shock joules was independently associated with delta troponin\u2010I.\n                  \n                  \n                    Conclusion\n                    Elevation of serum troponin\u2010I was associated with the TV\u2010ICD shocks and correlated with the total shock energy, but not with S\u2010ICD shocks. Our results suggest that TV\u2010ICD shocks are associated with greater myocardial injury compared to S\u2010ICD shocks, and that total shock energy is an important determinant of the extent of myocardial damage.",
+    "summary": "This prospective observational study of 74 patients compared myocardial injury markers between transvenous-ICD (TV-ICD) recipients with defibrillation testing, TV-ICD without testing, and subcutaneous-ICD (S-ICD) recipients, finding that troponin-I elevation correlated with total shock joules in TV-ICD patients but not S-ICD patients, suggesting TV-ICD shocks cause greater myocardial injury than S-ICD shocks. The study demonstrates that shock energy is an independent predictor of myocardial damage in transvenous systems, with implications for device selection and shock minimization strategies."
+  },
+  {
+    "title": "Intravascular Lithotripsy in Complex Transvenous Lead Extraction: Insights and Unanswered Questions",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70411?af=R",
+    "doi": "10.1111/jce.70411",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 23, 2026",
+    "date_ts": 1782240187.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Intravascular Lithotripsy (IVL) in Complex Lead Extraction: Feasibility and Challenges.",
+    "summary": "This retrospective case series describes the use of intravascular lithotripsy as an adjunctive tool in complex transvenous lead extractions, demonstrating technical feasibility for disrupting fibrotic sheaths around pacemaker and ICD leads. The study highlights both the potential benefits and procedural challenges of IVL integration into lead extraction protocols, though specific sample size and quantitative outcomes were not detailed in the abstract provided."
+  },
+  {
+    "title": "Chylothorax Following Pulmonary Vein Isolation: A Case Report and Management Considerations",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70414?af=R",
+    "doi": "10.1111/jce.70414",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 23, 2026",
+    "date_ts": 1782240128.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Chylothorax is a rare complication of thoracic procedures caused by leakage of chyle into the pleural space secondary to thoracic duct injury or obstruction. Although uncommon, it can lead to significant respiratory compromise and requires prompt recognition and management.\n                  \n                  \n                    Methods and Results\n                    We report the case of a patient who developed progressive respiratory distress 2 days after undergoing pulmonary vein isolation with radiofrequency ablation. Imaging demonstrated large bilateral pleural effusions, which were identified as bilateral chylothoraces. The patient was managed conservatively with placement of bilateral thoracostomy tubes and initiation of a low\u2010fat diet, resulting in successful resolution of symptoms and chyle leakage.\n                  \n                  \n                    Conclusion\n                    This case represents an unprecedented presentation of bilateral chylothoraces following pulmonary vein isolation with radiofrequency ablation. Clinicians should maintain awareness of this rare but potentially serious complication in patients presenting with respiratory symptoms after ablation procedures, as early diagnosis and conservative management may result in favorable outcomes.",
+    "summary": "This is a case report describing a patient who developed bilateral chylothoraces (an unprecedented complication) two days after pulmonary vein isolation with radiofrequency ablation, successfully managed conservatively with thoracostomy tubes and low-fat diet. The authors highlight the importance of recognizing this rare but serious complication in post-ablation patients presenting with respiratory distress."
+  },
+  {
+    "title": "Both Electrical Isolation and Lesion Homogeneity Should be Focused: Evidence From Repeat Atrial Fibrillation Ablation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70395?af=R",
+    "doi": "10.1111/jce.70395",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 23, 2026",
+    "date_ts": 1782239950.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Recurrent atrial tachyarrhythmia (AT) remains a major challenge following catheter ablation for atrial fibrillation (AF). While pulmonary vein (PV) reconnection is a well\u2010recognized mechanism, the contribution of lesion heterogeneity to iatrogenic AT is not clearly defined.\n                  \n                  \n                    Objective\n                    To analyze the clinical characteristics of recurrent AT caused by ablation\u2010induced focal potentials.\n                  \n                  \n                    Methods\n                    We retrospectively analyzed 113 patients who underwent repeat ablation for recurrent AT. Mechanisms of AT recurrence were identified using high\u2010resolution electroanatomic mapping and categorized into five types. Nonuniform ablation\u2013related AT\u2014considered iatrogenic\u2014was defined as focal or localized reentrant ATs arising from regions of prior ablation.\n                  \n                  \n                    Results\n                    Gap conduction was the most common mechanism of recurrence (51.3%), followed by other mechanisms (27.4%) and nonuniform ablation\u2013related AT (14.2%). The number of reconnected PVs was not significantly associated with the timing of all\u2010mechanism recurrence. Nonuniform ablation\u2013related ATs frequently presented as a combination of AF and atrial flutter (AFL), whereas gap\u2010related recurrence typically manifested as AF.\n                  \n                  \n                    Conclusion\n                    Lesion homogeneity plays a critical role in minimizing iatrogenic ATs, highlighting the importance of ablation strategies that optimize both electrical isolation and lesion quality. These findings offer insights for the refinement of ablation techniques and the development of improved catheter technologies.",
+    "summary": "This retrospective study of 113 patients undergoing repeat ablation for recurrent atrial tachyarrhythmia identified gap conduction as the predominant recurrence mechanism (51.3%), while nonuniform ablation-related AT from lesion heterogeneity accounted for 14.2% of cases, suggesting that optimizing lesion homogeneity and quality is critical to reducing iatrogenic arrhythmias following AF ablation."
+  },
+  {
+    "title": "Cardiac Implantable Electronic Devices in Oncology Patients: Challenges and Management",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70409?af=R",
+    "doi": "10.1111/jce.70409",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 23, 2026",
+    "date_ts": 1782239730.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  The use of cardiac implantable electronic devices (CIEDs) in patients with cancer is rising, given the increasing prevalence and incidence of cardiovascular disease in this population, such as arrhythmias and heart failure. Device therapy in oncology patients presents unique clinical, procedural, and ethical challenges, not completely addressed by current guidelines. This review summarizes current evidence regarding the indications, implantation challenges, long\u2010term management, prognostic considerations and emerging technologies related to CIED therapy in oncology patients. Cancer\u2010specific factors, such as thrombocytopenia, immunosuppression, prior surgery, and radiation\u2010induced anatomical changes, complicate device implantation and follow\u2010up. Increased infection risk, venous thromboembolism, and altered pacing thresholds, particularly in conditions like cardiac amyloidosis, require individualized approaches. The integration of leadless pacemakers, subcutaneous implantable cardioverter defibrillators (ICDs), wearable defibrillators, and remote monitoring offers promising alternatives for high\u2010risk patients. Prognostic considerations and ethical dilemmas, including ICD implantation in patients with limited life expectancy and device deactivation at end\u2010of\u2010life, necessitate multidisciplinary decision\u2010making. Future research and collaborative efforts are essential to address cancer\u2010specific complexities and bridge existing gaps to optimize care for this growing patient population.",
+    "summary": "This narrative review synthesizes evidence on cardiac implantable electronic device (CIED) therapy in cancer patients, addressing implantation challenges (thrombocytopenia, radiation-induced anatomical changes, infection risk) and long-term management considerations unique to this population. Emerging technologies including leadless pacemakers, subcutaneous ICDs, and remote monitoring offer potential benefits, though individualized approaches and multidisciplinary decision-making are essential given ethical complexities and prognostic uncertainties in this growing cohort."
   },
   {
     "title": "Interactions of blood biomolecules with early rhythm control in atrial fibrillation patients: Exploratory analysis of the EAST-AFNET 4 Biomolecule Study",
@@ -2631,6 +2715,18 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Clinical guidelines do not recommend the routine rinsing of cardiac implantable electronic devices (CIED) with antimicrobials before pocket closure(\u201cantimicrobial pocket flush.\u201d) However, despite current recommendations and a lack of evidence regarding the utility of this practice for reducing CIED infections, the antimicrobial pocket flush is still commonly employed. Clarifying the true value of this technique is important for supporting evidence\u2010based practice and avoiding unnecessary antimicrobial use. Therefore, we performed meta\u2010analysis of observational studies to determine the effectiveness of this practice in preventing CIED infections.\n                  \n                  \n                    Methods\n                    We performed a systematic literature search for observational human studies investigating the effectiveness of employing the antimicrobial pocket flush to prevent CIED infection. A random effects meta\u2010analysis was performed. Effectiveness was estimated with the study\u2010level definitions of CIED infection. We performed subgroup analysis by type of antimicrobial\u2010antiseptic or antibiotic.\n                  \n                  \n                    Results\n                    \n                      A total of seven studies including 12,283 patients were analyzed. Over half of the CIED implantation procedures (61.5%) included the antimicrobial pocket flush, and between 8.4% and 85% of the implantations were revision procedures. Studies used various antimicrobials for pocket flush, and definitions of CIED infection varied. Overall infection rates ranged from 0.5%\u20131.5%. CIED infection rates did not differ significantly between procedures performed with versus without antimicrobial pocket flush (0.8%\u00a0vs. 1.1%; relative risk 0.80; 95% confidence interval 0.39\u20131.63;\n                      p\u00a0\n                      =\u00a00.54). There was no difference in the subgroup analysis by antiseptic or antibiotic use.\n                    \n                  \n                  \n                    Conclusion\n                    Our results suggest that the antimicrobial pocket flush provides no benefit in preventing CIED infection, reinforcing the current guidelines that do not support its routine use.",
     "summary": "This meta-analysis of seven observational studies (12,283 patients) found no significant difference in cardiac implantable electronic device infection rates between procedures performed with versus without antimicrobial pocket flush (0.8% vs. 1.1%; RR 0.80, 95% CI 0.39\u20131.63), supporting current guideline recommendations against routine use of this practice."
+  },
+  {
+    "title": "Helix fracture during atrial leadless pacemaker explantation",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.020",
+    "doi": "10.1016/j.hrcr.2026.06.020",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
   },
   {
     "title": "Focal Pulsed-Field Ablation for Recurrent Para-Hisian Premature Ventricular Contractions After Failed Radiofrequency Ablation: A Case Report",
@@ -6200,91 +6296,6 @@
     "date_ts": 1778896316.411272,
     "tags": [
       "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "How Many CPVT Patients Need an ICD?: The Impact of Left Cardiac Sympathetic Denervation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002719?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "May 16, 2026",
-    "date_ts": 1778896316.411238,
-    "tags": [
-      "Devices",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Epinephrine Challenge: Long-Term Evaluation of Test Performance for the Evaluation of Unexplained Cardiac Arrest and Familial Sudden Death",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600318X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "May 16, 2026",
-    "date_ts": 1778896316.411197,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sex-Based Differences in the Etiology of Sudden Cardiac Arrest and Death Among Young Competitive Athletes From the United States",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003555?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "May 16, 2026",
-    "date_ts": 1778896316.411127,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Feasibility and Outcomes of Repeat Epicardial Access in Arrhythmogenic Right Ventricular Cardiomyopathy.",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023684?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "May 16, 2026",
-    "date_ts": 1778896316.057174,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Long-Term Performance of Conduction System Pacing in Patients With Congenital Heart Disease",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023659?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "May 16, 2026",
-    "date_ts": 1778896316.057139,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Lattice-tip catheter for septal ventricular tachycardia ablation guided by preprocedural imaging",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023623?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "May 16, 2026",
-    "date_ts": 1778896316.057107,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Spatial Dissociation Between Atrial Exit and the Putative Slow Pathway Substrate in Atypical AVNRT",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023635?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "May 16, 2026",
-    "date_ts": 1778896316.057074,
-    "tags": [
-      "SVT"
     ],
     "hot": false
   }
