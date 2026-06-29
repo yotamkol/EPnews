@@ -1,5 +1,58 @@
 [
   {
+    "title": "Unheralded Syncope from Ventricular Arrhythmia",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMicm2600597?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMicm2600597",
+    "journal": "NEJM",
+    "date": "Jun 29, 2026",
+    "date_ts": 1782699139.168905,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Catheter Ablation for Persistent Atrial Fibrillation",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMe2606012?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMe2606012",
+    "journal": "NEJM",
+    "date": "Jun 29, 2026",
+    "date_ts": 1782699139.168873,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Temporal Changes in Left Ventricular Strain in Typical and Atypical Left Bundle Branch Block Patients: A Follow\u2010up Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70334?af=R",
+    "doi": "10.1111/pace.70334",
+    "journal": "PACE",
+    "date": "Jun 27, 2026",
+    "date_ts": 1782573615.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Left bundle branch block (LBBB) is a conduction abnormality that alters the pattern of left ventricular (LV) activation and contraction, leading to ventricular remodeling, typically manifesting as LV hypertrophy and dilatation. This remodeling is often associated with progressive cardiac dysfunction and a poor prognosis.\n                  \n                  \n                    Aim\n                    To compare temporal changes in left ventricular strain patterns in patients with typical and atypical LBBB over a period of two years.\n                  \n                  \n                    Methods\n                    Electrocardiographic, echocardiographic, and strain parameters were obtained at two\u2010year follow\u2010up from previously enrolled patients.\n                  \n                  \n                    Results\n                    Of the 181 patients initially enrolled, 152 were contacted telephonically. Among them, 23 patients underwent follow\u2010up evaluation, 4 patients received cardiac resynchronization therapy (CRT), and 21 deaths were recorded. Significant changes between baseline and follow\u2010up were observed in left ventricular end\u2010diastolic dimension (LVEDD), left ventricular filling time (LVFT), LVFT/R\u2010R interval, three\u2010dimensional systolic dyssynchrony index (SDI), and left ventricular ejection fraction (EF). Compared with survivors, non\u2010survivors had significantly lower baseline EF, and global longitudinal strain (GLS). An ALEF \u226440% was identified as a significant predictor of mortality. Multivariable regression analysis demonstrated that ALEF, GLS, and age were independent predictors of mortality.\n                  \n                  \n                    Conclusion\n                    The all\u2010cause mortality rate over two years among patients with LBBB was 13.8%. Age, ALEF, and GLS were significant predictors of mortality. Improvements in left ventricular function and ventricular dyssynchrony were observed during follow\u2010up; however, the factors contributing to these changes could not be determined from the present study.\n                  \n                  \n                    Trial Registration\n                    Clinical Trials Registry\u2014India on 02/05/2023 under the reference number CTRI/2023/05/052206.",
+    "summary": "This prospective observational study followed 152 patients with LBBB over two years, finding that reduced ejection fraction (ALEF \u226440%), global longitudinal strain, and age were independent predictors of mortality (13.8% all-cause mortality rate), while improvements in LV function and dyssynchrony were noted during follow-up despite high loss-to-follow-up (only 23 patients completed echocardiography). The study demonstrates that strain parameters and ejection fraction provide prognostic value in LBBB populations, though the mechanisms underlying observed functional improvements remain unclear."
+  },
+  {
+    "title": "Transcatheter Ethanol Ablation of Recurrent Right Atrial Appendage Diverticulum\u2010Related Atrial Tachycardia in a Child",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70331?af=R",
+    "doi": "10.1111/pace.70331",
+    "journal": "PACE",
+    "date": "Jun 27, 2026",
+    "date_ts": 1782552982.0,
+    "tags": [
+      "AFib",
+      "SVT"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Focal atrial tachycardia (AT) originating from a right atrial appendage (RAA) diverticulum is rare in children and often poses significant challenges for conventional radiofrequency catheter ablation (RFCA) due to limited catheter access and poor tissue contact. We report the successful use of transcatheter 95% ethanol chemical ablation as a bailout strategy in a child with recurrent AT and suspected arrhythmia\u2010induced cardiomyopathy (AIC).\n                  \n                  \n                    Case Presentation\n                    A 10\u2010year\u20105\u2010month\u2010old boy with a history of incessant AT and severe left ventricular dysfunction (LVEF 23%) was diagnosed with suspected AIC. Although initial RFCA successfully terminated the tachycardia, AT recurred 2.5\u00a0months later. Repeat electrophysiological study with high\u2010density mapping localized the earliest activation to the RAA roof. Intraprocedural right atrial angiography revealed a transversely oriented diverticulum\u2010like sac arising from the RAA roof, communicating with the prior ablation site and preventing stable catheter engagement. Transcatheter chemical ablation was performed using an ST Blue ablation catheter positioned at the ostium of the diverticulum\u2010like structure. After confirmation of selective contrast opacification without extravasation, a test bolus of 1\u00a0mL 95% ethanol was infused, resulting in immediate termination of the AT. A total of approximately 10\u00a0mL ethanol was delivered incrementally. Consolidation radiofrequency applications were then performed at the ostium to electrically isolate the ablated region. The procedure was uneventful, with no complications. Post\u2010procedural monitoring confirmed non\u2010inducibility of AT, and the patient remained arrhythmia\u2010free at short\u2010term follow\u2010up with stable left ventricular function.\n                  \n                  \n                    Conclusion\n                    This case demonstrates the feasibility and efficacy of bailout transcatheter ethanol ablation for recurrent AT arising from an inaccessible RAA diverticulum\u2010like structure in a pediatric patient with AIC. Intraprocedural angiography was crucial for identifying the anatomical substrate. Ethanol chemical ablation may serve as a safe and effective alternative when conventional catheter ablation fails due to complex anatomy.",
+    "summary": "This case report describes successful transcatheter 95% ethanol chemical ablation as a bailout strategy in a 10-year-old boy with recurrent focal atrial tachycardia from a right atrial appendage diverticulum that was inaccessible to conventional radiofrequency catheter ablation, resulting in arrhythmia termination and restoration of left ventricular function. The case demonstrates that ethanol ablation may be a viable alternative for anatomically challenging atrial tachycardia when standard ablation techniques fail."
+  },
+  {
     "title": "ERC consolidator grant: topology for understanding cardiac arrhythmia",
     "link": "https://doi.org/10.1093/eurheartj/ehag463",
     "doi": "10.1093/eurheartj/ehag463",
@@ -2864,6 +2917,21 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Clinical guidelines do not recommend the routine rinsing of cardiac implantable electronic devices (CIED) with antimicrobials before pocket closure(\u201cantimicrobial pocket flush.\u201d) However, despite current recommendations and a lack of evidence regarding the utility of this practice for reducing CIED infections, the antimicrobial pocket flush is still commonly employed. Clarifying the true value of this technique is important for supporting evidence\u2010based practice and avoiding unnecessary antimicrobial use. Therefore, we performed meta\u2010analysis of observational studies to determine the effectiveness of this practice in preventing CIED infections.\n                  \n                  \n                    Methods\n                    We performed a systematic literature search for observational human studies investigating the effectiveness of employing the antimicrobial pocket flush to prevent CIED infection. A random effects meta\u2010analysis was performed. Effectiveness was estimated with the study\u2010level definitions of CIED infection. We performed subgroup analysis by type of antimicrobial\u2010antiseptic or antibiotic.\n                  \n                  \n                    Results\n                    \n                      A total of seven studies including 12,283 patients were analyzed. Over half of the CIED implantation procedures (61.5%) included the antimicrobial pocket flush, and between 8.4% and 85% of the implantations were revision procedures. Studies used various antimicrobials for pocket flush, and definitions of CIED infection varied. Overall infection rates ranged from 0.5%\u20131.5%. CIED infection rates did not differ significantly between procedures performed with versus without antimicrobial pocket flush (0.8%\u00a0vs. 1.1%; relative risk 0.80; 95% confidence interval 0.39\u20131.63;\n                      p\u00a0\n                      =\u00a00.54). There was no difference in the subgroup analysis by antiseptic or antibiotic use.\n                    \n                  \n                  \n                    Conclusion\n                    Our results suggest that the antimicrobial pocket flush provides no benefit in preventing CIED infection, reinforcing the current guidelines that do not support its routine use.",
     "summary": "This meta-analysis of seven observational studies (12,283 patients) found no significant difference in cardiac implantable electronic device infection rates between procedures performed with versus without antimicrobial pocket flush (0.8% vs. 1.1%; RR 0.80, 95% CI 0.39\u20131.63), supporting current guideline recommendations against routine use of this practice."
+  },
+  {
+    "title": "Diagnosis and Treatment of Reentrant Atrial Tachycardia at the Superior Vena Cava-right Atrium Junction using a Dual-Energy Lattice-tip Catheter",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.024",
+    "doi": "10.1016/j.hrcr.2026.06.024",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "AFib",
+      "SVT"
+    ],
+    "hot": false,
+    "abstract": "The Affera dual-energy lattice-tip platform has demonstrated efficacy for atrial fibrillation (AF) ablation and for creation of linear lesions, integrating high-density mapping and focal pulsed-field ablation (PFA) within a single catheter.1,2 In contrast, published experience with the Affera platform for reentrant atrial arrhythmias remains limited, and its role in treatment within the superior vena cava (SVC) has yet to be established.",
+    "summary": "This appears to be an introductory passage from a research article rather than a complete abstract. Based on the content provided, the Affera dual-energy lattice-tip platform combines high-density mapping with focal pulsed-field ablation for AF treatment and linear lesion creation, but clinical experience with this platform for reentrant atrial arrhythmias and SVC ablation remains limited and requires further investigation."
   },
   {
     "title": "Obstructive sleep apnea assessment using a wearable medical device in patients post-catheter ablation for atrial fibrillation: Validation and predictive value",
@@ -6291,66 +6359,6 @@
     "date_ts": 1779329019.902695,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Fetal heart rate and the neonatal QT interval: Results from a large general population study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000735?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 21, 2026",
-    "date_ts": 1779329019.902663,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Computational analysis of intracardiac collision risk and optimal site for right ventricular leadless left bundle branch area pacing: A simulation study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001030?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 21, 2026",
-    "date_ts": 1779329019.902627,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical manifestations and outcomes of idiopathic ventricular fibrillation and early repolarization syndrome in adolescents: A multicenter cohort study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000723?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 21, 2026",
-    "date_ts": 1779329019.90259,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "In-hospital mortality in a large seven-year single-center retrospective cohort of patients admitted for ventricular arrhythmia",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600067X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 21, 2026",
-    "date_ts": 1779329019.902556,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Electrophysiological and electrocardiographic characteristics of ventricular arrhythmias successfully treated by coronary venous ethanol ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001066?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 21, 2026",
-    "date_ts": 1779329019.902521,
-    "tags": [
-      "VT"
     ],
     "hot": false
   }
