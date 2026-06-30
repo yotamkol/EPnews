@@ -24,6 +24,48 @@
     "hot": false
   },
   {
+    "title": "Decreasing Microtubule Detyrosination Improves Cardiac Mechanics and Sodium Channel Function in Arrhythmogenic Cardiomyopathy",
+    "link": "https://doi.org/10.1161/circep.125.014354",
+    "doi": "10.1161/circep.125.014354",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Jun 29, 2026",
+    "date_ts": 1782691200.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    Alterations in microtubule dynamics have been shown to affect cardiomyocyte membrane stiffness and modulate ion channels, including the cardiac sodium channel. While conditions, such as heart failure and Duchenne muscular dystrophy, are associated with increased detyrosination of microtubules and reduced sodium current, a potential role for microtubule detyrosination in arrhythmogenic cardiomyopathy has not been explored. We here investigated the impact of microtubule detyrosination on membrane stiffness, cardiac sodium channel distribution, and function in mouse and human models of arrhythmogenic cardiomyopathy.\n                  \n                  \n                    METHODS:\n                    \n                      Isolated ventricular cardiomyocytes from mice with cardiomyocyte-specific, tamoxifen-activated knockout of PKP2 (plakophilin-2), as well as\n                      PKP2\n                      -c.2013delC, and isogenic control human-induced pluripotent stem cell\u2013derived-cardiomyocytes were incubated for 2 to 4 hours with compounds known to decrease microtubule detyrosination (parthenolide, 10 \u00b5mol/L; EpoY, 20 \u00b5mol/L) or vehicle (dimethyl sulfoxide). Immunocytochemistry, mechano-scanning ion conductance microscopy, patch-clamp analysis, and stochastic optical reconstruction microscopy were performed.\n                    \n                  \n                  \n                    RESULTS:\n                    \n                      Cardiomyocyte-specific, tamoxifen-activated knockout of PKP2 cardiomyocytes displayed increased microtubule detyrosination and membrane stiffness, which were both attenuated by parthenolide treatment. Parthenolide significantly increased whole-cell sodium current density in cardiomyocyte-specific, tamoxifen-activated knockout of PKP2 mouse cardiomyocytes, with macropatch measurements demonstrating that this increase occurred both at the intercalated disc and lateral membrane. Stochastic optical reconstruction microscopy analysis revealed that parthenolide increased cardiac sodium channel cluster density at the intercalated disc of cardiomyocyte-specific, tamoxifen-activated knockout of PKP2 mouse cardiomyocytes. In contrast, parthenolide had no effect on sodium current, cardiac sodium channel cluster size, or density in cardiomyocytes from control mice.\n                      PKP2\n                      -c.2013delC human-induced pluripotent stem cell\u2013derived-cardiomyocytes displayed increased microtubule detyrosination and reduced sodium current compared with isogenic control human-induced pluripotent stem cell\u2013derived-cardiomyocytes, which were both prevented by parthenolide and EpoY.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    Increased microtubule detyrosination secondary to loss of PKP2 impacts cardiomyocyte (dys)function beyond the desmosome, contributing to both electrical and mechanical alterations in the setting of arrhythmogenic cardiomyopathy. Our findings identify microtubule detyrosination as a novel therapeutic target in pathophysiological conditions, such as arrhythmogenic cardiomyopathy, aimed at improving both contractile and electrical function.",
+    "summary": "This preclinical study (mouse knockout and human iPSC-derived cardiomyocytes) demonstrates that increased microtubule detyrosination in PKP2-deficient cardiomyocytes impairs sodium channel function and increases membrane stiffness, effects that are reversed by parthenolide and EpoY treatment. These findings identify microtubule detyrosination as a potential therapeutic target to restore electrical and mechanical dysfunction in arrhythmogenic cardiomyopathy."
+  },
+  {
+    "title": "Multicatheter Comparison of Very High\u2010Power Short\u2010Duration Radiofrequency Ablation Lesions",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70421?af=R",
+    "doi": "10.1111/jce.70421",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 28, 2026",
+    "date_ts": 1782671818.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Very high\u2010power short\u2010duration (vHPSD) radiofrequency ablation (RFA) is an alternative strategy for pulmonary vein isolation. However, rapid temperature rises may cause complications. The QDOT Micro is designed to detect temperature rises for automatic power and irrigation flow adjustments. We compared how differences in ablation electrode design between three RFA catheters impact vHPSD lesions.\n                  \n                  \n                    Methods\n                    vHPSD RFA was performed within a validated gel tank model. Four\u2010second ablations were delivered with stable contact force using the QDOT, SmartTouch, and TactiFlex SE at 60, 70, 80, and 90 watts, positioned perpendicular (90\u00b0), oblique (45\u00b0), and parallel (0\u00b0) to the ablation target, utilizing 0.9% and 0.45% \u201chalf\u2010normal\u201d saline (HNS) irrigation. The SmartTouch and TactiFlex were operated in power\u2010controlled mode, and each configuration was repeated three times, with images captured every second to characterize lesions.\n                  \n                  \n                    Results\n                    \n                      In total, 216 vHPSD lesions were delivered. At 90\u2009W, 90\u00b0, and 0.9% saline, the QDOT produced lesions with a mean depth of 1.93\u2009mm. The TactiFlex produced shallower lesions, with a mean depth of 1.88\u2009mm (\n                      p\n                      \u2009=\u20090.02), and the SmartTouch produced the deepest, with a mean depth of 2.37\u2009mm (\n                      p\n                      \u2009&lt;\u20090.001). The mean diameter of QDOT lesions, at 4.63\u2009mm, was comparable to TactiFlex lesions (4.58\u2009mm,\n                      p\u2009\n                      =\u20090.8), whilst the SmartTouch lesions were significantly wider than both the QDOT and TactiFlex (6.04\u2009mm,\n                      p\n                      \u2009&lt;\u20090.001). Steam\u2010pop risk, based on lesion temperature, was lowest for the TactiFlex.\n                    \n                  \n                  \n                    Conclusion\n                    vHPSD lesions produced with the QDOT achieved greater dimensions and temperatures than those with the TactiFlex under controlled conditions, suggesting a difference in the cooling profile of the ablation electrodes. vHPSD with the SmartTouch or 0.45% HNS are likely to increase the risk of steam pops.",
+    "summary": "This in vitro study compared lesion characteristics produced by three radiofrequency ablation catheters (QDOT Micro, SmartTouch, and TactiFlex SE) during very high-power short-duration ablation across 216 lesions, finding that the SmartTouch produced significantly deeper and wider lesions with higher temperatures, while the TactiFlex demonstrated the lowest steam-pop risk, suggesting important differences in electrode cooling profiles that may influence safety and efficacy profiles during pulmonary vein isolation."
+  },
+  {
+    "title": "Comparison of Spatio\u2010Temporal Dispersion Electrogram Ablation and Low Voltage Zone Ablation in Patients With Persistent Atrial Fibrillation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70413?af=R",
+    "doi": "10.1111/jce.70413",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 28, 2026",
+    "date_ts": 1782671362.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Pulmonary vein isolation (PVI) alone was less effective for patients with persistent atrial fibrillation (AF) compared to those with paroxysmal AF. Although the TAILORED AF trial demonstrated the efficacy of spatio\u2010temporal dispersion electrogram (STDE) ablation as additional treatment for PVI, comparisons between STDE and low\u2010voltage zone (LVZ) remain unclear. We compared the efficacy of two different methods beyond PVI: the STDE and the LVZ ablation.\n                  \n                  \n                    Methods\n                    \n                      This retrospective observational study included 107 consecutive patients (median age, 71 years; 79 male) who underwent initial catheter ablation for persistent AF at our institution. STDE evaluation and STDE\u2010guided substrate modification were performed in the STDE ablation group (\n                      n\n                      \u2009=\u200953). The historical control group (\n                      n\n                      \u2009=\u200954) did not undergo STDE evaluation and received additional ablation based on the LVZ. The primary endpoint was the recurrence of atrial arrhythmias after the ablation up to 24 months, with a 3\u2010month blanking period applied.\n                    \n                  \n                  \n                    Results\n                    \n                      The number of additional ablations, including linear ablation, posterior wall isolation, and focal ablation, was significantly higher in the STDE group. The AF\u2010free survival rate at 24 months follow\u2010up after ablation was higher in the STDE group (76.3% vs. 58.4%;\n                      p\n                      \u2009=\u20090.027). In the multivariate Cox proportional regression analysis, prolonged AF duration (hazard ratio [HR] 1.37, 95% confidence interval [CI] 1.16\u20131.61;\n                      p\n                      \u2009&lt;\u20090.001) and larger left atrial size (HR: 1.11, 95% CI: 1.02\u20131.20;\n                      p\n                      \u2009=\u20090.012) were independent predictors of AF recurrence. Conversely, STDE ablation was independently associated with a significantly lower risk of recurrence (HR: 0.29, 95% CI: 0.12\u20130.66;\n                      p\n                      \u2009=\u20090.004).\n                    \n                  \n                  \n                    Conclusion\n                    STDE was associated with a lower risk of AF recurrence than PVI with LVZ ablation.",
+    "summary": "This retrospective observational study of 107 patients with persistent AF found that pulmonary vein isolation combined with spatio-temporal dispersion electrogram (STDE)-guided substrate ablation achieved superior 24-month arrhythmia-free survival compared to PVI with low-voltage zone ablation (76.3% vs. 58.4%, p=0.027), with STDE ablation independently reducing recurrence risk by 71% on multivariate analysis."
+  },
+  {
     "title": "Temporal Changes in Left Ventricular Strain in Typical and Atypical Left Bundle Branch Block Patients: A Follow\u2010up Study",
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70334?af=R",
     "doi": "10.1111/pace.70334",
@@ -6321,42 +6363,6 @@
     "journal": "Heart Rhythm O2",
     "date": "May 21, 2026",
     "date_ts": 1779329019.902795,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Safety and efficacy of ultralow-dose fluoroscopy in left atrial appendage occlusion",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000760?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 21, 2026",
-    "date_ts": 1779329019.902765,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Lean body mass is the independent and predominant anthropometric variable associated with atrioventricular block",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001054?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 21, 2026",
-    "date_ts": 1779329019.902732,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Peak QRS/T ratio and the spatial ventricular gradient differentiate acute vs chronic left bundle branch block after transcatheter aortic valve replacement",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000358?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 21, 2026",
-    "date_ts": 1779329019.902695,
     "tags": [
       "Other"
     ],
