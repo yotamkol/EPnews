@@ -1,5 +1,145 @@
 [
   {
+    "title": "Angioplasty for Pulmonary Vein Stenosis after Atrial Fibrillation Ablation",
+    "link": "https://doi.org/10.1093/europace/euag164",
+    "doi": "10.1093/europace/euag164",
+    "journal": "EP Europace",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed Field Ablation Is Associated With Fewer Post\u2010Procedural Pericardial Inflammatory Symptoms Compared With Radiofrequency Ablation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70424?af=R",
+    "doi": "10.1111/jce.70424",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 30, 2026",
+    "date_ts": 1782847053.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Acute pericarditis is an uncommon complication of thermal atrial fibrillation (AF) ablation, whereas milder pericardial inflammatory symptoms, typically pleuritic or positional chest pain, are more common and negatively affect post\u2010procedural recovery. Pulsed field ablation (PFA), a non\u2010thermal modality with tissue\u2010selective properties, may reduce collateral pericardial injury. We compared post\u2010procedural pericardial inflammatory symptoms and recovery after AF ablation using PFA vs. radiofrequency ablation (RFA).\n                  \n                  \n                    Methods\n                    \n                      This single\u2010center observational study with prospective data collection included 150 patients undergoing catheter ablation for paroxysmal or persistent AF using focal PFA (\n                      n\n                      \u2009=\u200975) or RFA (\n                      n\n                      \u2009=\u200975). Patients were identified from the procedural workflow during the study period. Post\u2010procedural pericardial inflammatory symptoms, chest pain severity (5\u2010point scale), anti\u2010inflammatory therapy use, length of hospital stay, and biomarkers of inflammation (CRP) and myocardial injury (hs\u2010TnT) were assessed during hospitalization and structured post\u2010discharge follow\u2010up.\n                    \n                  \n                  \n                    Results\n                    \n                      Baseline characteristics were similar between groups. Post\u2010procedural chest pain occurred more frequently after RFA than PFA (32% vs. 5.3%,\n                      p\n                      \u2009&lt;\u20090.001), despite a significantly greater proportion of patients in the PFA group receiving lesion sets beyond pulmonary vein isolation (94.7% vs. 73.3%,\n                      p\n                      \u2009&lt;\u20090.001). Anti\u2010inflammatory therapy was prescribed more frequently after RFA (20% vs. 2.7%,\n                      p\n                      \u2009=\u20090.001), and hospital length of stay was longer [2 (1\u20132) vs. 1(1\u20131) days,\n                      p\n                      \u2009=\u20090.03). Procedure duration was shorter with PFA (86\u2009\u00b1\u200936 vs. 122\u2009\u00b1\u200955\u2009min,\n                      p\n                      \u2009&lt;\u20090.001). Median hs\u2010TnT levels were higher after PFA [1288 (865\u20132137) vs. 1001 (652\u20131368] ng/L,\n                      p\n                      \u2009=\u20090.01), whereas CRP levels were similar [10.4 (4.9\u201323.3) vs. 10.5 (6.9\u201327.3) mg/L;\n                      p\n                      \u2009=\u20090.38].\n                    \n                  \n                  \n                    Conclusions\n                    PFA was associated with fewer post\u2010procedural pericardial inflammatory symptoms, reduced need for anti\u2010inflammatory therapy, and faster recovery compared with RFA. These findings suggest reduced pericardial irritation and improved patient\u2010centered recovery after AF ablation.",
+    "summary": "This single-center prospective observational study of 150 patients (75 PFA vs. 75 RFA) found that pulsed field ablation for atrial fibrillation resulted in significantly lower post-procedural chest pain (5.3% vs. 32%), reduced anti-inflammatory therapy use (2.7% vs. 20%), and shorter hospital stay compared to radiofrequency ablation, suggesting superior pericardial safety and faster recovery with PFA despite similar inflammatory biomarkers."
+  },
+  {
+    "title": "Single\u2010Cell Transcriptomics and Mendelian Randomization Analysis Reveal Key Genes in Atrial Fibrillation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70432?af=R",
+    "doi": "10.1111/jce.70432",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 30, 2026",
+    "date_ts": 1782846820.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Atrial fibrillation (AF) is one of the most common cardiac arrhythmias. It reduces quality of life and increases the risk of complications such as stroke. Although progress has been made in understanding its pathogenesis, the key cellular subtypes and therapeutic targets remain unclear.\n                  \n                  \n                    Methods\n                    We applied single\u2010cell transcriptomics to identify critical cellular subtypes in AF. High\u2010dimensional weighted gene co\u2010expression network analysis (hdWGCNA) and machine learning were used to screen AF\u2010related genes. Mendelian randomization (MR) and colocalization analyses were performed to assess causal relationships between these genes and AF.\n                  \n                  \n                    Results\n                    Single\u2010cell analysis showed a significant increase in macrophages in AF, especially SPP1\u2010expressing macrophages, which may drive AF onset and progression. HdWGCNA identified AF\u2010related gene modules. Three genes, LRCH1, RSRC2 and VAMP2, were found to be causally associated with AF. MR analysis confirmed their significant causal effects.\n                  \n                  \n                    Conclusions\n                    The accumulation of SPP1\u2010expressing macrophages may drive the onset and progression of AF. Furthermore, LRCH1, RSRC2, and VAMP2 were identified as key causal genes for AF, providing novel insights into its molecular mechanisms and potential therapeutic targets.",
+    "summary": "This integrative study combined single-cell transcriptomics, weighted gene co-expression network analysis, and Mendelian randomization to identify critical cellular and genetic drivers of atrial fibrillation, revealing that SPP1-expressing macrophage accumulation and three causal genes (LRCH1, RSRC2, and VAMP2) represent novel mechanistic insights and potential therapeutic targets. The study design was primarily observational/computational rather than an RCT, utilizing human tissue or cell data with bioinformatic and statistical causal inference approaches."
+  },
+  {
+    "title": "Relationship Between Nonuniform Isochrone\u2010Area in Late Activation Mapping and Arrhythmogenic Substrates Related to Atrial Fibrillation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70417?af=R",
+    "doi": "10.1111/jce.70417",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 30, 2026",
+    "date_ts": 1782846277.0,
+    "tags": [
+      "AFib",
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Arrhythmogenic substrates within the atrial myocardium may contribute to the initiation of atrial fibrillation (AF). The relationship between nonuniform isochrone\u2010areas in late activation mapping and arrhythmogenic substrates remains undetermined.\n                  \n                  \n                    Methods\n                    \n                      Sixty\u2010two patients (66\u2009\u00b1\u200910 years, 47 males, non\u2010paroxysmal AF [\n                      n\n                      \u2009=\u200930], second ablation procedure [\n                      n\n                      \u2009=\u20098]) who undergoing catheter ablation for AF were enrolled. High\u2010density left atrial (LA) activation mapping was performed during atrial pacing after pulmonary vein (PV) isolation. Late activation mapping was retrospectively reconstructed. Nonuniform isochrone\u2010areas were defined as regions of nonuniform and mottled conduction\u2010zones characterized by the crowding of \u2265\u20093 color\u2010isochrones within a 1\u2010cm radius in late activation mapping. The relationship between nonuniform isochrone\u2010areas and arrhythmogenic substrates associated with AF was evaluated.\n                    \n                  \n                  \n                    Results\n                    \n                      Non\u2010PV triggers were identified in 11 patients (AF\u2010triggers:12; short runs of premature atrial complexes:4), located in the LA wall (posterior:7; anterior:6; septum:2; roof:1). Patients with non\u2010PV triggers had significantly more nonuniform isochrone\u2010areas than those without (median [interquartile range] 5.0 [3.0\u20136.0] vs. 2.0 [1.0\u20134.0],\n                      p\n                      \u2009&lt;\u20090.001). In multivariate logistic analysis for the presence of non\u2010PV triggers, after adjusting for confounders such as non\u2010paroxysmal AF, heart failure\u2010history, and presence of low\u2010voltage areas, the presence of nonuniform isochrone\u2010areas on the LA low\u2010posterior wall was an independent indicator for the presence of non\u2010PV triggers (odds ratio: 6.9 [95% CI:1.1\u201344.1],\n                      p\n                      \u2009=\u20090.040). Of the 52 nonuniform isochrone\u2010areas observed in the 11 patients with non\u2010PV triggers, 20 areas corresponded to non\u2010PV trigger sites.\n                    \n                  \n                  \n                    Conclusion\n                    Identification of nonuniform isochrone\u2010areas located on LA low\u2010posterior wall in late activation mapping may indicate the potential source for non\u2010PV triggers.",
+    "summary": "This prospective observational study of 62 AF patients undergoing catheter ablation demonstrates that nonuniform isochrone-areas identified on high-density left atrial activation mapping\u2014particularly in the low-posterior wall\u2014are independently associated with non-pulmonary vein triggers, with nonuniform isochrone-areas significantly more prevalent in patients harboring non-PV triggers (median 5.0 vs. 2.0 areas, p<0.001). Late activation mapping of nonuniform isochrone-zones may serve as a noninvasive tool to identify arrhythmogenic substrates and predict non-PV trigger locations during AF ablation procedures."
+  },
+  {
+    "title": "Impact of Carina Width on Re\u2010Ablation Rate of Atrial Fibrillation After Primary Cryoballoon\u2010Ablation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70430?af=R",
+    "doi": "10.1111/jce.70430",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 30, 2026",
+    "date_ts": 1782845766.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Reconnection of the pulmonary veins (PVs) is the primary cause of atrial fibrillation (AF) episodes after pulmonary vein isolation (PVI). Cryoballoon ablation does not always include the isolation of the carina due to anatomic variants and carina width has been associated with increased re\u2010ablation rate in previous radiofrequency ablation studies. Aim of our study was to assess the impact of carina width on the re\u2010ablation rate after cryoballoon\u2010PVI.\n                  \n                  \n                    Methods\n                    We included 518 patients who underwent cryoballoon ablation for AF between 2015 and 2022. Each patient underwent contrast enhanced chest computed tomography (CT) scan prior to ablation. We measured the shortest distance between the superior and inferior PV (carina width) and the size of the left atrium in CT images. In patients referred to re\u2010ablation due to recurring symptomatic and ECG documented AF we defined the reconnected veins. The minimum follow up after prior PVI was 1 year.\n                  \n                  \n                    Results\n                    \n                      In all patients the right carina was wider than the left (8.04\u2009\u00b1\u20094.49\u2009mm vs. 5.25\u2009\u00b1\u20093.03\u2009mm,\n                      p\n                      \u2009&lt;\u20090.059). One fifth (\n                      n\n                      \u2009=\u2009102) of the patients underwent re\u2010ablation for AF. Left carina width was significantly associated with re\u2010ablation rate (in re\u2010ablation group 6.4\u2009\u00b1\u20092.7\u2009mm vs. in no re\u2010ablation group 4.9\u2009\u00b1\u20093.0\u2009mm,\n                      p\n                      \u2009&lt;\u20090.001) whereas right carina width was not (8.3\u2009\u00b1\u20093.0\u2009mm vs. 7.9\u2009\u00b1\u20093.6\u2009mm,\n                      p\n                      \u2009=\u20090.421, respectively). Left atrium (LA) was larger in the re\u2010ablation group, but the size of the LA did not correlate with the left carina width (\n                      r\n                      \u2009=\u20090.075;\n                      p\n                      \u2009=\u20090.111). However, there was a significant correlation between the size of the LA and the width of the right carina (\n                      r\n                      \u2009=\u20090.251,\n                      p\n                      \u2009&lt;\u20090.001). Also, in the re\u2010ablation group a significant correlation between right carina width and reconnection of the right PV's (RPV) was detected, which was not seen in the left PV's (LPV) (\n                      p\n                      \u2009=\u20090.015;\n                      p\n                      \u2009=\u20090.360, respectively).\n                    \n                  \n                  \n                    Conclusion\n                    The left carina width and LA size are associated with the success rate of primary cryoballoon\u2010PVI. However, there was a correlation between the right carina width and the reconnection of the RPV's leading to re\u2010ablation. It seems that recognition of anatomical variants could be useful in the decision of ablation technique, but further studies are needed.",
+    "summary": "This retrospective observational study of 518 AF patients undergoing cryoballoon ablation found that wider left carina width was significantly associated with increased re-ablation rates (6.4 \u00b1 2.7 mm vs. 4.9 \u00b1 3.0 mm, p < 0.001), while right carina width correlated with right pulmonary vein reconnection specifically. The findings suggest that preprocedural assessment of carina anatomy on CT imaging may help identify patients at higher risk for ablation failure and guide procedural technique selection."
+  },
+  {
+    "title": "Clinical Utility of Tissue Proximity Indication With a Variable\u2010Loop Circular Catheter for Pulmonary Vein Isolation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70376?af=R",
+    "doi": "10.1111/jce.70376",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 30, 2026",
+    "date_ts": 1782845669.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    \n                      The variable\u2010loop circular catheter (VLCC, VARIPULSE) is a pulsed\u2010field ablation (PFA) catheter equipped with a Tissue Proximity Indication (TPI) function, which monitors catheter\u2010tissue contact. Although TPI\u2010negative sites have been reported to contribute to gap formation, no studies have evaluated the utility of real\u2010time function. This study assessed the success rate of pulmonary vein isolation (PVI) using the VLCC, incorporating the activated TPI function as the primary setting from the start of the procedure, representing an\n                      activated TPI function\u2010guided ablation\n                      approach.\n                    \n                  \n                  \n                    Methods\n                    Between February 1 and September 3, 2025, 60 consecutive patients underwent PFA using the VLCC. After creating the 3D geometry using CARTOSOUND FAM before ablation, PVI using the VLCC was performed with the activated TPI function. After an initial two\u2010by\u2010two PFA set, the catheter orientation was adjusted to target areas without visible TPI\u2010positive tags. After applying an additional PFA application to ensure a circumferential TPI function\u2010on tags, a voltage map was created using a multielectrode catheter, and the rate of residual potentials was compared.\n                  \n                  \n                    Results\n                    Using an activated TPI function\u2010guided PFA strategy, a first pass isolation was successfully achieved in 90% of patients (54/60) and in 97.1% of pulmonary veins (231/238). Multielectrode catheter mapping revealed residual antrum potentials in some cases, necessitating additional PFA applications in 3.8% of the pulmonary vein antrum (9/238).\n                  \n                  \n                    Conclusion\n                    Activated TPI function\u2010guided PFA was associated with a low incidence of residual PV potentials, suggesting its potential utility to improve lesion continuity and procedural efficacy.",
+    "summary": "This prospective observational study (n=60) evaluated pulmonary vein isolation using a variable-loop circular pulsed-field ablation catheter with real-time Tissue Proximity Indication guidance, demonstrating 90% first-pass isolation success and only 3.8% residual potential rates in the PV antrum. The TPI-guided approach appears to improve lesion continuity and reduce the need for additional ablation applications."
+  },
+  {
+    "title": "Mediastinal Air Entrapment During Extravascular ICD Implantation: A Preventable Cause of Elevated Shock Impedance",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70426?af=R",
+    "doi": "10.1111/jce.70426",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 30, 2026",
+    "date_ts": 1782845158.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Elevated shock impedance during extravascular implantable cardioverter\u2010defibrillator (EV\u2010ICD) implantation may preclude defibrillation threshold (DFT) testing despite appropriate retrosternal lead position. We describe suspected mediastinal air entrapment as a reversible mechanism and a simple preventive strategy.\n                  \n                  \n                    Methods and Results\n                    \n                      During early EV\u2010ICD implantation experience, two patients developed shock impedance &gt;\u2009200 \u03a9 immediately after retrosternal lead placement, with associated sensing abnormalities. Lead repositioning did not normalize impedance, no pneumothorax was identified, and DFT testing was deferred. Shock impedance normalized spontaneously within 1\u20132 days, permitting successful DFT testing without lead revision. Transient mediastinal air entrapment along the defibrillation vector was suspected. A procedural modification was adopted in which 5\u201310\u2009cm H\n                      2\n                      O positive end\u2010expiratory pressure was applied immediately before retrosternal introducer removal, followed by prompt EV\u2010ICD lead advancement. Among five consecutive subsequent implantations using this approach, initial shock impedance remained within the expected range, permitting immediate DFT testing without lead repositioning or delay.\n                    \n                  \n                  \n                    Conclusion\n                    Transient mediastinal air entrapment may cause elevated shock impedance during EV\u2010ICD implantation. Positive end\u2010expiratory pressure during introducer removal may mitigate this complication and facilitate reliable intraoperative DFT testing.",
+    "summary": "This case series of 7 EV-ICD implantations describes transient mediastinal air entrapment as a reversible cause of elevated shock impedance that prevented intraoperative defibrillation threshold testing, which was successfully prevented using positive end-expiratory pressure applied during retrosternal introducer removal. The preventive strategy normalized initial shock impedance in 5 consecutive subsequent procedures, permitting immediate defibrillation threshold testing without lead revision or delay."
+  },
+  {
+    "title": "Influence of High\u2010Frequency Low\u2010Tidal Volume Versus Jet Ventilation on Acute and Long\u2010Term Outcomes Following Pulmonary Vein Isolation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70422?af=R",
+    "doi": "10.1111/jce.70422",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 30, 2026",
+    "date_ts": 1782845100.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Use of high\u2010frequency low\u2010tidal volume (HFLTV) and high\u2010frequency jet ventilation (HFJV) during pulmonary vein isolation (PVI) improves acute procedural success and long\u2010term outcomes compared to conventional ventilation. However, the impact of HFLTV compared to HFJV on acute and long\u2010term outcomes is unknown.\n                  \n                  \n                    Methods\n                    We prospectively identified 1039 patients who underwent first\u2010time PVI or PVI with posterior wall isolation (PWI) at our institution between 2022 and 2024 with HFLTV or HFJV. Acute procedural and safety outcomes were analyzed. Twelve\u2010month arrhythmia\u2010free survival was evaluated using the Kaplan\u2010Meier and Cox proportional hazards method.\n                  \n                  \n                    Results\n                    \n                      After excluding 44 patients who required discontinuation of HFJV, 860 patients receiving HFJV were compared with 179 receiving HFLTV ventilation. Mean age was 65 years, 93% were White, 30% female and 53% had paroxysmal AF. First\u2010pass isolation (FPI) rates were similar between ventilation strategies. HFLTV was associated with a higher rate of intraprocedural hypotension (31% vs 23%,\n                      p\n                      \u2009=\u20090.02). Complications were generally minor and comparable between groups. Arrhythmia recurrence rates at 12 months were similar (HR: 0.89,\n                      p\n                      \u2009=\u20090.55). There was a trend toward improved outcomes when FPI was achieved for both pulmonary veins in either group.\n                    \n                  \n                  \n                    Conclusion\n                    In this observational cohort, no significant differences in acute procedural outcomes, safety outcomes, or long\u2010term arrhythmia recurrence were observed between HFLTV and HFJV. Given the specialized equipment and operator training required for HFJV and its non\u2010negligible rate of discontinuation, HFLTV may offer a modest practical advantage in routine clinical practice.",
+    "summary": "This prospective observational study of 1,039 patients undergoing pulmonary vein isolation compared high-frequency low-tidal volume (HFLTV) versus high-frequency jet ventilation (HFJV) and found no significant differences in acute procedural success, safety outcomes, or 12-month arrhythmia recurrence rates, though HFLTV was associated with higher intraprocedural hypotension and may offer practical advantages given HFJV's equipment requirements and discontinuation rate."
+  },
+  {
+    "title": "Long\u2010Term Serial Exercise Stress Testing in Catecholaminergic Polymorphic Ventricular Tachycardia on Beta\u2010Blocker and Flecainide Therapy",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70429?af=R",
+    "doi": "10.1111/jce.70429",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 30, 2026",
+    "date_ts": 1782844915.0,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Catecholaminergic polymorphic ventricular tachycardia (CPVT) is a potentially life\u2010threatening arrhythmic disorder typically treated with beta\u2010blockers and, occasionally, with flecainide.\n                  \n                  \n                    Methods\n                    All patients underwent genetic testing, electrocardiogram, echocardiogram, and exercise testing. Ventricular arrhythmias were assessed using qualitative and quantitative scoring systems. Flecainide dosing was progressively titrated, and follow\u2010up extended from 2007 to 2024.\n                  \n                  \n                    Results\n                    \n                      Among 235 genetically confirmed carriers of the RyR2 (ryanodine receptor 2) p.Gly357Ser mutation, 32 required combination therapy with beta\u2010blockers and flecainide (age at diagnosis 18 [1\u201355] years; age at flecainide initiation 32 [15\u201366] years; 50% male). Forty\u2010seven percent had an implantable cardioverter defibrillator (ICD). Flecainide was indicated for exercise\u2010induced ventricular arrhythmias despite beta\u2010blocker therapy, and the median treatment duration was 7.3 years. All patients received propranolol (median dose 65\u2009mg/day). Flecainide (median dose 100\u2009mg/day) was well tolerated, with no syncope or stress\u2010induced symptoms. Before flecainide, five patients (16%) experienced ventricular arrhythmic events recorded by the ICD, including two requiring appropriate shocks; no events occurred after treatment initiation. Both qualitative (2.07\u2009\u00b1\u20090.77 vs. 1.22\u2009\u00b1\u20091.08,\n                      p\n                      \u2009&lt;\u20090.001) and quantitative (69.78\u2009\u00b1\u200983.17 vs. 15.29\u2009\u00b1\u20095.53,\n                      p\n                      \u2009&lt;\u20090.001) arrhythmic scores improved significantly. Additionally, maximum heart rate and the percentage of age\u2010predicted maximum heart rate were significantly reduced, while metabolic equivalents increased significantly (12.3\u2009\u00b1\u20093.8 vs. 14.7\u2009\u00b1\u20097.5;\n                      p\n                      \u2009=\u20090.010).\n                    \n                  \n                  \n                    Conclusion\n                    In CPVT patients, the addition of flecainide to beta\u2010blocker therapy was associated with a significant reduction in arrhythmic burden and improvement in exercise\u2010related parameters during long\u2010term follow\u2010up.",
+    "summary": "This retrospective cohort study of 32 RyR2 p.Gly357Ser mutation carriers with CPVT demonstrated that flecainide added to propranolol therapy significantly reduced exercise-induced ventricular arrhythmias (qualitative score 2.07 vs. 1.22, p<0.001; quantitative score 69.78 vs. 15.29, p<0.001) with no syncope or arrhythmic events during median 7.3-year follow-up. The combination regimen was well-tolerated and improved exercise capacity while reducing heart rate response to stress."
+  },
+  {
+    "title": "Temporal Trends in Post\u2010LAAO Surveillance Imaging: Increasing Adoption of CT\u2010Based Follow\u2010Up in Contemporary Practice",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70418?af=R",
+    "doi": "10.1111/jce.70418",
+    "journal": "J Cardiovasc EP",
+    "date": "Jun 30, 2026",
+    "date_ts": 1782844814.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Surveillance imaging after left atrial appendage occlusion (LAAO) is recommended to evaluate for peri\u2010device leak and device\u2010related thrombus, with both transesophageal echocardiography (TEE) and cardiac computed tomography (CT) considered appropriate modalities. Longitudinal trends in surveillance imaging utilization and modality selection have not been well characterized in large, real\u2010world populations.\n                  \n                  \n                    Methods\n                    \n                      We conducted a retrospective observational study using the TriNetX Research Network, a federated, de\u2010identified electronic health record database. Adult patients (\u2265\u200918 years) undergoing percutaneous transcatheter LAAO between January 2017 and December 2024 with available imaging data were included. Surveillance imaging was defined as TEE or cardiac CT performed between 45 and 365 days post\u2010implantation. Annual rates of TEE\u2010only, CT\u2010only, and any surveillance imaging were calculated relative to total LAAO volume per year. Temporal trends were assessed using linear regression (\n                      p\n                      \u2009&lt;\u20090.05).\n                    \n                  \n                  \n                    Results\n                    \n                      Among 33\u2009267 patients, the proportion undergoing any surveillance imaging increased from 47.2% in 2017 to 66.6% in 2024 (slope +3.1%/year,\n                      p\n                      \u2009&lt;\u20090.001). TEE utilization remained stable (slope +0.11%/year,\n                      p\n                      \u2009=\u20090.68), while CT utilization increased from 2.6% to 22.1% (slope +2.7%/year,\n                      p\n                      \u2009&lt;\u20090.001). The overall increase in surveillance imaging was driven primarily by CT adoption. Approximately one\u2010third of patients did not undergo any surveillance imaging within 1 year.\n                    \n                  \n                  \n                    Conclusion\n                    Between 2017 and 2024, CT utilization following LAAO increased nearly eightfold while TEE rates remained stable; however, approximately one\u2010third of patients did not undergo any surveillance imaging within 1 year, revealing a substantial gap in adherence to FDA\u2010mandated surveillance protocols.",
+    "summary": "This retrospective observational study of 33,267 LAAO patients in the TriNetX database from 2017\u20132024 found that surveillance imaging utilization increased from 47.2% to 66.6%, driven primarily by cardiac CT adoption (2.6% to 22.1%), while TEE remained stable; notably, approximately one-third of patients lacked any surveillance imaging within one year, indicating significant non-adherence to recommended post-implantation surveillance protocols."
+  },
+  {
     "title": "Unheralded Syncope from Ventricular Arrhythmia",
     "link": "https://www.nejm.org/doi/full/10.1056/NEJMicm2600597?af=R&rss=currentIssue",
     "doi": "10.1056/NEJMicm2600597",
@@ -2959,6 +3099,77 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Clinical guidelines do not recommend the routine rinsing of cardiac implantable electronic devices (CIED) with antimicrobials before pocket closure(\u201cantimicrobial pocket flush.\u201d) However, despite current recommendations and a lack of evidence regarding the utility of this practice for reducing CIED infections, the antimicrobial pocket flush is still commonly employed. Clarifying the true value of this technique is important for supporting evidence\u2010based practice and avoiding unnecessary antimicrobial use. Therefore, we performed meta\u2010analysis of observational studies to determine the effectiveness of this practice in preventing CIED infections.\n                  \n                  \n                    Methods\n                    We performed a systematic literature search for observational human studies investigating the effectiveness of employing the antimicrobial pocket flush to prevent CIED infection. A random effects meta\u2010analysis was performed. Effectiveness was estimated with the study\u2010level definitions of CIED infection. We performed subgroup analysis by type of antimicrobial\u2010antiseptic or antibiotic.\n                  \n                  \n                    Results\n                    \n                      A total of seven studies including 12,283 patients were analyzed. Over half of the CIED implantation procedures (61.5%) included the antimicrobial pocket flush, and between 8.4% and 85% of the implantations were revision procedures. Studies used various antimicrobials for pocket flush, and definitions of CIED infection varied. Overall infection rates ranged from 0.5%\u20131.5%. CIED infection rates did not differ significantly between procedures performed with versus without antimicrobial pocket flush (0.8%\u00a0vs. 1.1%; relative risk 0.80; 95% confidence interval 0.39\u20131.63;\n                      p\u00a0\n                      =\u00a00.54). There was no difference in the subgroup analysis by antiseptic or antibiotic use.\n                    \n                  \n                  \n                    Conclusion\n                    Our results suggest that the antimicrobial pocket flush provides no benefit in preventing CIED infection, reinforcing the current guidelines that do not support its routine use.",
     "summary": "This meta-analysis of seven observational studies (12,283 patients) found no significant difference in cardiac implantable electronic device infection rates between procedures performed with versus without antimicrobial pocket flush (0.8% vs. 1.1%; RR 0.80, 95% CI 0.39\u20131.63), supporting current guideline recommendations against routine use of this practice."
+  },
+  {
+    "title": "Quality of life and psychological distress in patients with implantable cardioverter-defibrillators: the PSY-ICD study",
+    "link": "https://doi.org/10.1093/europace/euag105.915",
+    "doi": "10.1093/europace/euag105.915",
+    "journal": "EP Europace",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background\n                    The implantable cardioverter-defibrillator (ICD) is a well-established therapy for preventing sudden cardiac death. However, living with an ICD may be associated with psychological distress, depression, anxiety, and reduced quality of life (QoL). The PSY-ICD study assessed the prevalence of these conditions and their determinants in a contemporary ICD cohort.\n                  \n                  \n                    Purpose\n                    To evaluate psychological adjustment, distress, and device acceptance in ICD patients, and identify predictors of poorer outcomes.\n                  \n                  \n                    Methods\n                    A prospective observational study was conducted at our University Division of Cardiology. Between February and October 2025, patients eligible for or already carrying an ICD (single- or dual-chamber transvenous, cardiac resynchronization, subcutaneous, or extravascular systems) were enrolled. Exclusion criteria were severe cognitive impairment (Mini Mental State Examination) and major psychiatric disorders. Participants completed eight validated instruments: PsychoSocial Index (PSI), DASS-21, Euthymia Scale, Florida Patient Acceptance Scale (FPAS), WHO-5, Demoralization Scale-6 (DS-6), Mental Pain Questionnaire (MPQ), and Implanted Device Adjustment Scale (IDAS).\n                  \n                  \n                    Results\n                    A total of 227 patients were included (median age 62 years [IQR 53\u201370]; 73% male; mean time from implantation 6.6 \u00b1 6.5 years; 77% primary prevention). Psychological distress affected about one quarter of participants, with clinical-level presentations in roughly one in ten. Women and patients who experienced ICD shocks in the past year showed significantly higher stress scores (p &amp;lt; 0.05) (Figure). MPQ findings were consistent, revealing greater mental pain in these subgroups. Clinically relevant anxiety and depression (DASS-21) were observed in 12.8% and 14.9% of patients, respectively, while subclinical symptoms were frequent. FPAS indicated good device acceptance in most participants, although about half reported meaningful device-related distress.\n                  \n                  \n                    Conclusions\n                    Although most ICD patients demonstrate adequate psychological adaptation and device acceptance, a substantial subgroup\u2014particularly women and those with recent shocks\u2014experience significant distress or subclinical anxiety/depression. These findings highlight the need for integrated psychological assessment and multidisciplinary support to identify at-risk patients early and improve emotional well-being, QoL, and device acceptance.",
+    "summary": "This prospective observational study of 227 ICD patients (median age 62 years, 73% male) found that while most demonstrated adequate psychological adaptation and device acceptance, approximately 25% experienced psychological distress with 10% at clinical levels, with women and patients experiencing recent ICD shocks showing significantly elevated stress, anxiety (12.8%), and depression (14.9%) scores. The findings support integrated psychological screening and multidisciplinary support to optimize outcomes in at-risk ICD populations."
+  },
+  {
+    "title": "Prognosis of asymptomatic patients who underwent a sodium channel blocker challenge",
+    "link": "https://doi.org/10.1093/europace/euag105.1038",
+    "doi": "10.1093/europace/euag105.1038",
+    "journal": "EP Europace",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background\n                    Brugada syndrome (BrS) is an inherited arrhythmia syndrome with an increased risk of of syncope and SCD. To rule out the diagnosis, sodium channel blocker (SCB) is used in routine practice, but its value is matter to debate due to an uncertain risk-benefit balance. The aim of this study is to specify the prognosis of asymptomatic patients who underwent a SCB challenge.\n                  \n                  \n                    Methods\n                    Consecutive patients from families affected with BrS and who underwent a SCB challenge were recruited in a multicentric prospective registry in France (15 centers) between 1994 and 2025.\n                  \n                  \n                    Results\n                    A total of 2456 patients (1324 males (54%), mean age 41 [28-54] years) were enrolled including 2132 (87%) after ajmaline challenge and 324 (13%) after flecainide challenge. Two hundred and fifty patients (16%) were carriers of a pathogenic/likely pathogenic variant in SCN5A gene.\n                    SCB challenge was positive in 1170 patients (SCBC+ group) and negative in 1286 (SCBC- group). Patients of SCBC+ group were older (45 [33 - 56] years vs 38 [24 \u2013 53], p&amp;lt;0,001) and presented ECG with longer PR (120 vs 110 ms, p&amp;lt;0,001), longer QRS (120 vs 110 ms, p&amp;lt;0,001) and longer QTc interval (400 vs 390 ms) at baseline.\n                    Mean follow-up were 7,4 [3,3-12,4] years (6,5 [2,9-11,9] in SCBC+ group vs 8,9 [4,5-13,1] in SCBC- group, p&amp;lt;0,001). During the follow-up, 85 patients (3,5%) died without significative difference between the two groups (47 (4%) for SCBC+ group vs 38 (3%) for SCBC- group, p=0,2). Age at death were similar (68 [60-79] for SCBC+ group vs 63 [52-84] SCBC- group).\n                    In patients with a minimal follow-up of 1 year (1241 patients, 858 SCBC+, 383 SCBC-) 16 (1,3%) lethal arrhythmic events were identified. A SCD was reported for 9 (1,05%) patients and appropriate ICD therapy for 7 (0,8%) patients. The annual rate of event was 0,22%/year for SCBC+ group. No arrhythmic events was identified after a negative SCBC.\n                  \n                  \n                    Conclusion\n                    Asymptomatic Brs patients have a good prognosis with an annual event rate of 0,22%/year. No lethal arrhythmic event was reported after a negative SCBC suggesting a potential role in arrhythmic risk stratification.",
+    "summary": "This prospective multicenter registry (2,456 patients, mean follow-up 7.4 years) evaluated sodium channel blocker (SCB) challenge outcomes in asymptomatic Brugada syndrome patients, finding a low annual arrhythmic event rate of 0.22% in SCB-positive patients and notably zero arrhythmic events in SCB-negative patients, suggesting SCB challenge may have utility for risk stratification in this population."
+  },
+  {
+    "title": "Performance of a cloud-based AI solution for reducing false positive alerts in implantable cardiac monitors detected episodes",
+    "link": "https://doi.org/10.1093/europace/euag105.043",
+    "doi": "10.1093/europace/euag105.043",
+    "journal": "EP Europace",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Introduction\n                    Implantable Cardiac Monitors (ICM) provide long-term arrhythmia diagnostics but generate high False Positive (FP) event rates, despite incorporating manufacturer proprietary Artificial Intelligence (AI) algorithms.\n                  \n                  \n                    Purpose\n                    A new cloud-based AI solution was developed to mitigate FP burden while maintaining patient safety. Clinical performance was tested across a set of compatible ICMs, stratified by the presence (AI models) or absence (Non-AI models) of a manufacturer-proprietary AI pre-filtering algorithm.\n                  \n                  \n                    Methods\n                    A retrospective clinical evaluation was conducted on 2,659 ICM detected episodes (excluding patient-activated episodes) from 1,710 patients (age 67.5 \u00b1 15.0 y, male 27%, 62.2% from US) implanted with ICMs from Medtronic (43.6%), Biotronik (22.4%), Abbott (18.0%), and Boston Scientific (15.9%), followed at 11 US and 19 EU centers via an universal monitoring platform. To ensure a diverse dataset, the selection method included at least one episode per device for each ICM-detected event type (bradycardia, pause, atrial and ventricular arrhythmias). Coprimary endpoints were defined for safety (sensitivity) and performance (specificity). PPV was a secondary endpoint. 95% confidence intervals (CI) were computed with a bootstrap estimation. All episodes were reviewed by an independent adjudication committee.\n                  \n                  \n                    Results\n                    Among 2,659 episodes, 2,073 (78.0%) were considered interpretable (excluding \"Uninterpretable\" and \"Uncertain SVT\") by the Adjudication Committee. The AI algorithm demonstrated a high sensitivity of 98.3% in AI models and 94.3% in Non-AI models. A disparity in specificity of 61.6% for AI-models vs 75.6% for Non-AI models was observed, balanced by a consistent Positive Predictive Value (PPV) across both groups of 73.9% and 74.4%, respectively.\n                  \n                  \n                    Conclusion\n                    This new cloud-based AI solution demonstrates the capacity to significantly improve clinical efficiency through reducing false positive burden while maintaining a high safety profile.",
+    "summary": "This retrospective clinical evaluation of 2,659 ICM-detected episodes from 1,710 patients across multiple manufacturers assessed a cloud-based AI solution for reducing false positives while maintaining safety, demonstrating high sensitivity (98.3% in AI-model devices, 94.3% in non-AI devices) and consistent positive predictive value (~74%) across device types. The solution effectively balances the reduction of false positive burden with maintained patient safety across compatible ICM platforms."
+  },
+  {
+    "title": "Postmortem interrogation of cardiac implantable electronic devices - results from a large prospective registry",
+    "link": "https://doi.org/10.1093/europace/euag105.005",
+    "doi": "10.1093/europace/euag105.005",
+    "journal": "EP Europace",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background\n                    Postmortem interrogation of cardiac implantable electronic devices (CIEDs) can provide valuable insights into device function, battery status, and terminal rhythm prior to death. Despite its clinical and forensic relevance, large-scale systematic analyses remain scarce, and postmortem CIED interrogation is still not routinely implemented in most centers.\n                  \n                  \n                    Aims\n                    This prospective registry aimed to assess the feasibility of postmortem CIED interrogation and investigate the incidence of CIED defects and arrhythmia-related causes and the time of death.\n                  \n                  \n                    Methods\n                    Between 2016 and 2025, all CIEDs explanted during medicolegal autopsy at the Institute of Legal Medicine, were interrogated in the Department of Electrophysiology and systematically analyzed regarding battery condition, functional integrity and Holter data.\n                  \n                  \n                    Results\n                    A total of 285 CIEDs were analyzed. The majority were pacemakers (dual chamber: n=138, 48%; single-chamber: n=64, 22%; CRT-P: n=3, 1.1%; leadless pacer: n= 3, 1%), followed by implantable cardiac defibrillators (ICDs; single-chamber: n=31, 11%; CRT-D: n=29, 10%; dual-chamber: n=10, 3.5%; subcutaneous ICD: n=1, 0.4%). Implantable loop recorders (ILRs) were interrogated in 6 (2%) cases.\n                    Patients were found dead at an average age of 77 (\u00b1 13) years and 93 (33%) were female. The median time from last device interrogation to death was 103 days [IQR 35\u2013180]. At time of death, 273 devices (96%) showed normal battery status. In cases displaying ERI (n=10, 3.5%) or EOS (n=3, 1%) prior to death, battery depletion did not cause relevant device dysfunction in any case. Overall, 267 devices (94%) showed a normal device function during time of death, in 17 (6%) cases, signs of device malfunctions could be observed . In one case, premortem device integrity could not be determined. A device dysfunction possibly leading to death was found in 6 cases (2%).\n                    Holter data were retrievable in 261 devices (92%), showing premortem events in 171 cases (66%). In 50 cases (28%) a sustained ventricular tachycardia (VT) or ventricular fibrillation (VF) was identified, timely related to patient death, while in 6 cases (3%), a bradycardic event was identified. Overall, in 61 cases (21%), postmortem interrogation enabled an estimation or determination of the time of death.\n                  \n                  \n                    Conclusion\n                    With 285 cases, this represents the largest systematically analyzed postmortem CIED registry worldwide. Postmortem device interrogation is generally feasible and Holter readouts are possible in most interrogations. Overall, CIED dysfunction is rare and even in cases showing ERI or EOS premortem, battery depletion did not cause meaningful device dysfunction. Interrogations can frequently provide meaningful insights into terminal rhythm and time of death. This highlights its clinical and forensic relevance and underscores the need to establish local structures to routinely perform postmortem CIED interrogations.",
+    "summary": "This prospective registry of 285 postmortem cardiac implantable electronic device (CIED) interrogations performed during medicolegal autopsies between 2016-2025 found that interrogation is feasible in most cases, with 94% of devices showing normal function at time of death and only 2% of cases where device dysfunction possibly contributed to death; Holter data were retrievable in 92% of cases and identified terminal arrhythmias in 28% and facilitated time-of-death determination in 21% of cases. The findings support routine implementation of postmortem CIED interrogation for clinical and forensic purposes."
+  },
+  {
+    "title": "Electrocardiographic repolarization changes following conduction system pacing in pacemaker-induced cardiomyopathy",
+    "link": "https://doi.org/10.1093/europace/euag105.016",
+    "doi": "10.1093/europace/euag105.016",
+    "journal": "EP Europace",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Devices",
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background\n                    Pacemaker-induced cardiomyopathy (PICM) occurs in a subset of patients exposed to chronic right ventricular pacing (RVP) and results in left ventricular dysfunction due to pacing-related dyssynchrony. Left bundle branch area pacing (LBBAP) has emerged as a physiologic pacing strategy capable of restoring conduction system activation and reversing PICM. However, the acute effects of LBBAP on ventricular repolarization in PICM remain unclear. This study evaluated immediate repolarization changes after LBBAP in PICM compared with a control cohort of non-ischemic dilated cardiomyopathy (DCM) patients undergoing LBBAP.\n                  \n                  \n                    Methods\n                    We retrospectively analyzed clinical, electrocardiographic, and pacing data from patients receiving successful LBBAP. Baseline and post-implant ECG intervals (QT, QTc, Tp\u2013Te) were manually measured; T-wave memory (TWM) was qualitatively assessed. Procedure parameters (RWPT, V6\u2013V1 interpeak interval, output-dependent QRS transition), procedural success, and complications were recorded.\n                  \n                  \n                    Results\n                    Sixty patients were included (28 PICM vs. 32 DCM). Baseline LVEF was higher in patients with PICM compared to DCM (35\u00b18% vs. 29\u00b17%; p=0.003). LBBAP success was similar (93% vs. 96%). PICM patients had wider paced QRS (149 ms vs. 128 ms; p=0.02) and longer V6\u2013V1 interval (46\u00b112 vs. 38\u00b110 ms; p=0.02), but repolarization metrics showed no adverse changes and remained comparable between groups. QT shortened similarly (PICM: 476\u2192437 ms; DCM: 466\u2192432 ms), QTc minimally increased without group interaction, Tp\u2013Te decreased, and TWM was frequent in both cohorts (63% vs. 64%). Complications rate was also comparable.\n                  \n                  \n                    Conclusion\n                    LBBAP does not induce unfavorable acute repolarization changes in PICM and yields repolarization responses comparable to DCM controls, supporting its safety and physiologic benefit in PICM upgrades.Figure 1Figure 2",
+    "summary": "This retrospective study of 60 patients (28 with pacemaker-induced cardiomyopathy, 32 with dilated cardiomyopathy) demonstrated that left bundle branch area pacing successfully restored physiologic conduction without adverse acute repolarization changes in either group, with comparable QT shortening, minimal QTc prolongation, and similar complication rates between cohorts. These findings support LBBAP as a safe strategy for reversing pacemaker-induced cardiomyopathy."
   },
   {
     "title": "Diagnosis and Treatment of Reentrant Atrial Tachycardia at the Superior Vena Cava-right Atrium Junction using a Dual-Energy Lattice-tip Catheter",
@@ -6180,192 +6391,5 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Background\n                    Leadless pacemakers have been developed to reduce complications associated with transvenous systems; however, their impact on pacing\u2010induced cardiomyopathy (PICM) remains uncertain. This study aimed to evaluate the prevalence of PICM following leadless pacing, compared PICM risk with transvenous pacing, and assessed cardiac resynchronization therapy (CRT) upgrade.\n                  \n                  \n                    Methods\n                    This systematic review and meta\u2010analysis followed PRISMA guidelines. PubMed, Scopus, and ScienceDirect were searched up to January 2026. Studies reporting PICM following leadless pacing or comparing leadless and transvenous systems were included. Random\u2010effects models estimated pooled prevalence and risk ratios (RRs), and meta\u2010regression explored potential modifiers.\n                  \n                  \n                    Results\n                    \n                      Eight studies comprising 3224 patients with leadless pacing were included. The pooled prevalence of PICM following leadless pacing was 13% (95%CI: 4%\u201323%;\n                      I\n                      2\n                      = 92%). In comparative analysis (5 studies;\n                      n\n                      = 6025), the risk of PICM was similar between leadless and transvenous pacing (RR 1.00; 95%CI: 0.77\u20131.29;\n                      I\n                      2\n                      = 52%). Leadless pacing was associated with a lower observed rate of CRT upgrade (RR 0.56; 95%CI: 0.48\u20130.66;\n                      I\n                      2\n                      = 42%), although this finding should be interpreted cautiously because it may reflect patient selection, procedural factors, and differing thresholds for CRT upgrade. Meta\u2010regression identified baseline heart failure (HF) as a significant predictor of PICM (\n                      p\n                      &lt; 0.0001).\n                    \n                  \n                  \n                    Conclusion\n                    Leadless pacemakers demonstrate a non\u2010inferior risk of PICM and similar safety profiles to transvenous systems, while a lower observed rate of CRT upgrade. Future studies should standardize PICM definitions and improve reporting of pacing burden, ventricular function, and patient\u2010level outcomes.",
     "summary": "This meta-analysis of 8 studies (3,224 patients with leadless pacing; 6,025 in comparative analyses) found that leadless pacemakers carry similar risk of pacing-induced cardiomyopathy compared to transvenous systems (RR 1.00; 95% CI: 0.77\u20131.29), with a pooled PICM prevalence of 13%, though leadless systems showed lower CRT upgrade rates that may reflect selection bias rather than true clinical benefit."
-  },
-  {
-    "title": "Population-Based Analysis of Rare Genetic Variants in Sudden Cardiac Arrest",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002598?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "May 22, 2026",
-    "date_ts": 1779415559.10931,
-    "tags": [
-      "SCD",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "From Statistical Enrichment to Clinical Attribution in Sudden Cardiac Arrest",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003695?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "May 22, 2026",
-    "date_ts": 1779415559.109272,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Ventricular Pacing\u2013Triggered Echo Beats via a Decremental Concealed Fasciculoventricular Pathway: Diagnosed on Surface Electrocardiogram",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600366X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "May 22, 2026",
-    "date_ts": 1779415559.109226,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "SonR Signal Dynamics Reflect Heart Failure Status in Non\u2013LBBB After CRT-D",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003683?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "May 22, 2026",
-    "date_ts": 1779415559.109173,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Artificial intelligence for atrial fibrillation episode classification: concerns on interpretation and validation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002199?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 22, 2026",
-    "date_ts": 1779415559.010623,
-    "tags": [
-      "AFib",
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Adolescent Cardiorespiratory Fitness and the Trade-Off Between Atrial Fibrillation Risk and Cardiovascular Benefits: A Nationwide Sibling-Controlled Cohort Study",
-    "link": "https://doi.org/10.1161/circulationaha.125.078250",
-    "doi": "10.1161/circulationaha.125.078250",
-    "journal": "Circulation",
-    "date": "May 21, 2026",
-    "date_ts": 1779321600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Young athletes and adolescents with high cardiorespiratory fitness appear to have a higher risk of atrial fibrillation (AF), but the extent to which this reflects causal effects or shared genetic, behavioral, and environmental factors remains uncertain.\n                  \n                  \n                    METHODS:\n                    This cohort study with sibling control analysis comprised Swedish men who participated in mandatory military conscription examinations from 1972 to 1995 and completed cardiorespiratory fitness testing. The outcomes were AF and non-AF cardiovascular disease (CVD; eg, stroke and ischemic heart disease), defined as a composite end point of diagnosis or death in the National Patient Register and the Cause of Death Register, until December 31, 2023. Flexible parametric regressions estimated standardized cumulative risk differences (RDs) by deciles of fitness.\n                  \n                  \n                    RESULTS:\n                    Among 1\u2009124 \u2009049 men (mean age, 18.3 years), 45\u2009179 (4.0%) experienced an AF event and 96\u2009404 (8.6%) had a non-AF CVD event at a median age of 54.8 and 54.4 years. In population-wide analysis controlling for measured confounders, compared with the lowest decile of fitness, the highest decile had a small excess in AF that exceeded the reduction in non-AF CVD during early adulthood, whereas the reduction in non-AF CVD became larger from 45 years of age onwards. In full-sibling comparisons controlling for shared familial factors, the age-dependent trade-off disappeared entirely, leaving no age window with a net cardiovascular disadvantage. Already from 35 years of age, the reduction in non-AF CVD was larger (RD, \u22120.11% [95% CI, \u22120.21% to \u22120.01%]) than the excess in AF (RD, 0.06% [95% CI, \u22120.01% to 0.12%]). By 65 years of age, the gap further widened, with an even larger reduction in non-AF CVD (RD, \u22123.91% [95% CI, \u22125.40% to \u22122.42%]) compared with the excess in AF (RD, 2.30% [95% CI, 1.15%\u20133.45%]).\n                  \n                  \n                    CONCLUSIONS:\n                    High adolescent cardiorespiratory fitness is associated with a small excess in AF risk during early adulthood that is outweighed by larger reductions in non-AF CVD after controlling for familial confounders. These findings support population-level efforts to improve youth cardiorespiratory fitness and provide reassurance about the safety and benefits of high fitness levels.",
-    "summary": "This cohort study of 1,124,049 Swedish men from military conscription (1972-1995) with sibling-control analysis examined whether high cardiorespiratory fitness in adolescence causally increases atrial fibrillation (AF) risk. While population-wide analysis showed a small excess AF risk in the highest fitness decile during early adulthood, sibling comparison controlling for shared familial factors eliminated this association, revealing that high fitness provides net cardiovascular benefit through substantially reduced non-AF CVD risk that increasingly outweighs modest AF excess with advancing age."
-  },
-  {
-    "title": "Nifekalant\u2013Magnesium Cocktail for Chemical Cardioversion of Atrial Flutter: A Multicenter Pilot Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70301?af=R",
-    "doi": "10.1111/pace.70301",
-    "journal": "PACE",
-    "date": "May 21, 2026",
-    "date_ts": 1779354974.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Pharmacologic cardioversion of atrial flutter (AFL) remains challenging, particularly in older or frail patients who are not candidates for catheter ablation. Nifekalant is effective for AFL but is limited by QT prolongation and the risk of torsades de pointes (TdP). Magnesium sulfate may mitigate this risk.\n                  \n                  \n                    Methods\n                    In this multicenter, investigator\u2010initiated pilot study, 86 patients with symptomatic persistent AFL received intravenous magnesium sulfate followed by nifekalant. The primary outcome was AFL termination within 60 min. Time to termination and safety outcomes, including TdP, were assessed. Multivariable logistic regression analyses were performed to identify factors associated with AFL termination.\n                  \n                  \n                    Results\n                    AFL terminated in 42 patients (48.8%). Among patients with successful cardioversion, 80% achieved termination within 20 min. Larger left atrial diameter was associated with a lower likelihood of AFL termination. Adverse events occurred in 2 patients (2.3%), including sinus pauses requiring pacemaker implantation and transient hypotension requiring vasopressor support. No cases of TdP were observed.\n                  \n                  \n                    Conclusions\n                    These findings suggest that the nifekalant\u2013magnesium cocktail may be a feasible and potentially safe option for chemical cardioversion of AFL, warranting further investigation in larger studies.",
-    "summary": "This pilot study (n=86) evaluated intravenous magnesium sulfate followed by nifekalant for pharmacologic cardioversion of persistent atrial flutter, demonstrating AFL termination in 48.8% of patients with no cases of torsades de pointes, suggesting this combination may be a safer alternative to nifekalant monotherapy for patients ineligible for ablation, though larger RCTs are needed to confirm efficacy and safety."
-  },
-  {
-    "title": "A functional\u2013anatomic mapping protocol for cardioneuroablation: A mechanistic case series",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000668?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 21, 2026",
-    "date_ts": 1779329019.903038,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Relationship between coughing and bispectral index\u2013guided sedation during pulsed field ablation for atrial fibrillation and its impact on mid-term outcomes",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000607?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 21, 2026",
-    "date_ts": 1779329019.902996,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "High-power, very-high-power, and low-power radiofrequency ablation for atrial fibrillation: A Bayesian network meta-analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000747?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 21, 2026",
-    "date_ts": 1779329019.902964,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Induction indices during ventricular pacing as an alternative diagnostic tool in supraventricular tachycardias",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001078?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 21, 2026",
-    "date_ts": 1779329019.902921,
-    "tags": [
-      "VT",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Simplified propofol-based deep sedation by electrophysiologists: Safe and versatile for pulsed field and thermal ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000759?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 21, 2026",
-    "date_ts": 1779329019.902889,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Infections after high-voltage cardiac implantable electronic device replacements",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000693?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 21, 2026",
-    "date_ts": 1779329019.902859,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Conduction system pacing vs right ventricular pacing after TAVR: A systematic review and meta-analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600070X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 21, 2026",
-    "date_ts": 1779329019.902828,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Recommendations for sharing cardiovascular implantable electronic device data with patients based on clinician interviews",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000711?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 21, 2026",
-    "date_ts": 1779329019.902795,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
   }
 ]
