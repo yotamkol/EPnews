@@ -1,5 +1,125 @@
 [
   {
+    "title": "Pulmonary vein reconnection patterns after pentaspline pulsed field ablation for atrial fibrillation",
+    "link": "https://doi.org/10.1093/europace/euag172",
+    "doi": "10.1093/europace/euag172",
+    "journal": "EP Europace",
+    "date": "Jul 02, 2026",
+    "date_ts": 1782950400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Yield of Family Screening in Arrhythmogenic Right Ventricular Cardiomyopathy Without a Validated Genetic Cause",
+    "link": "https://doi.org/10.1161/circep.125.014420",
+    "doi": "10.1161/circep.125.014420",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Jul 02, 2026",
+    "date_ts": 1782950400.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    Current guidelines recommend regular screening for first-degree relatives of gene-elusive arrhythmogenic right ventricular cardiomyopathy (ARVC) patients using a similar regimen as for genotype-positive/phenotype-negative relatives. However, the multifactorial nature of gene-elusive ARVC may necessitate a different approach. This study aimed to determine the yield of cardiac screening in first-degree relatives of ARVC probands without a validated genetic cause.\n                  \n                  \n                    METHODS:\n                    We included all first-degree relatives of probands who (1) met the 2010 Task Force Criteria, (2) underwent next-generation sequencing that included all genes with at least moderate evidence for ARVC causation per Clinical Genome Resource appraisal (validated ARVC genes), and (3) had no pathogenic/likely pathogenic (P/LP) variants identified in these genes. The primary and secondary end points were definite ARVC by the 2010 Task Force Criteria and ventricular arrhythmia, respectively.\n                  \n                  \n                    RESULTS:\n                    \n                      We included 44 relatives (39.0 [22.3\u201345.8] years; 36% male) from 24 families. In 4 (17%) families, a P/LP variant was identified in a different cardiomyopathy/arrhythmia gene (\n                      SCN5A\n                      ,\n                      LMNA\n                      ,\n                      CDH2\n                      ,\n                      FLNC\n                      ). Overall, 10 (23%) relatives had definite ARVC at baseline evaluation. Of the 20 relatives without definite ARVC who had follow-up available, 8/20 (40%) relatives progressed to definite ARVC during 9.0 (5.8\u201314.4) years of follow-up. No statistical difference in the yield of baseline screening or serial evaluation between relatives from families with a P/LP variant and relatives from families without a P/LP variant was observed. Of the 27 relatives who had follow-up available, ventricular arrhythmia was observed in 2/27 (7%) relatives and occurred 6.3 and 13.8 years after definite ARVC diagnosis. Both of those relatives were from families without a P/LP variant.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    These findings highlight the importance of managing first-degree relatives of ARVC probands without a validated genetic cause similarly to genotype-positive ARVC relatives. Furthermore, using a broad cardiomyopathy and arrhythmia gene panel in ARVC probands, rather than limiting testing to validated ARVC genes alone, is warranted.",
+    "summary": "This retrospective cohort study of 44 first-degree relatives from 24 families with gene-elusive ARVC found that 23% had definite ARVC at baseline and 40% of those without baseline ARVC progressed to definite ARVC over 9 years of follow-up, supporting continued regular screening of relatives regardless of genetic findings and broader gene panel testing in probands. Ventricular arrhythmias occurred in 7% of relatives with extended follow-up, all from families without identified pathogenic variants."
+  },
+  {
+    "title": "Tau20-RETROmapping System Identifies Driver-Like Activation Patterns in Real-Time During Persistent Atrial Fibrillation",
+    "link": "https://doi.org/10.1161/circep.126.015039",
+    "doi": "10.1161/circep.126.015039",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Jul 02, 2026",
+    "date_ts": 1782950400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    Conventional activation mapping of atrial fibrillation (AF) during clinical procedures is limited by low-amplitude, fractionated electrograms and cycle length variability. The Tau20-RETROmapping stimulator-recorder system (TauRhythm Therapies, United Kingdom) is an investigational device used to identify nonpulmonary vein AF drivers by real-time, high-density activation mapping of uniform wavefronts during AF. We validated the accuracy of the system and applied it to left atrial mapping for evidence of AF drivers.\n                  \n                  \n                    METHODS:\n                    Left atrial geometry was acquired using a 3-dimensional electroanatomic mapping system with high-density mapping catheters (CARTO 3 with Optrell, or EnSite X with HD Grid). Electrograms were recorded for 30 seconds at multiple left atrial sites. The Tau20-RETROmapping system generates activation maps of organized wavefronts. System performance was manually validated against randomly sampled local electrograms using a grid sweep of thresholds to identify Pareto-optimal parameters in sinus rhythm, atrial pacing, atrial tachycardia (AT), and AF. The system was then applied to identify putative driver activation patterns during persistent AF.\n                  \n                  \n                    RESULTS:\n                    We studied 24 patients undergoing pulmonary vein isolation for AF. Six patients presented in sinus rhythm or AT, in whom the system demonstrated a sensitivity of 100.0% (95% CI, 80.5%\u2013100.0%) and a specificity of 100.0% (85.2%\u2013100.0%). Eighteen patients were mapped in AF: the system had a sensitivity of 94.4% (86.2%\u201398.4%) and a specificity of 97.1% (89.9%\u201399.6%) when identifying organized AF wavefronts, and accurately identified the earliest activation in 89.6% (79.7%\u201395.7%) of waves. Stable propagation originating from the left atrial appendage (LAA) was observed in 3/18 patients, while 8/18 demonstrated competing propagation toward and away from the LAA. Conduction away from the LAA was detected along the anterior (8/18 patients), lateral (8/18 patients), and posterior (7/18 patients) walls. No propagation near the LAA was observed in 6/18 patients.\n                  \n                  \n                    CONCLUSIONS:\n                    The Tau20-RETROmapping system enables real-time activation mapping of AF, with the most convincing driver-like areas being identified around the LAA.",
+    "summary": "This prospective validation study (n=24 patients) evaluated the Tau20-RETROmapping system for real-time, high-density activation mapping to identify atrial fibrillation drivers, demonstrating 94.4% sensitivity and 97.1% specificity for detecting organized AF wavefronts with the left atrial appendage identified as the most prominent driver location in 61% of patients with persistent AF."
+  },
+  {
+    "title": "Effect of Exercise Training on Myocardial and Residual Scar Electrophysiology in Post-MI Rats",
+    "link": "https://doi.org/10.1161/circep.125.014248",
+    "doi": "10.1161/circep.125.014248",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Jul 02, 2026",
+    "date_ts": 1782950400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    Exercise training improves contractile function and can reduce arrhythmia burden after a myocardial infarction (MI). How exercise modifies the proarrhythmic status is uncertain.\n                  \n                  \n                    METHODS:\n                    In this study, rats 6 weeks post-MI were randomized to an 8-week high-intensity exercise program (MI-EX) or to a sedentary control group (MI-SED) and compared with a sedentary sham group (Sham-SED). After the exercise program, in vivo and ex vivo programmed electrical stimulation was performed on the rat hearts. Subsequently, optical mapping was conducted to electrophysiologically characterize the MI hearts.\n                  \n                  \n                    RESULTS:\n                    \n                      Exercise significantly improved maximal oxygen uptake (\n                      V\n                      O\n                      2max\n                      ; MI-EX, 67 mL\u00b7min\n                      \u22121\n                      \u00b7kg\n                      \u2212\n                      0.75\n                      versus MI-SED, 47 mL\u00b7min\n                      \u2212\n                      1\n                      \u00b7kg\n                      \u2212\n                      0.75\n                      ). In vivo cardiac stimulation protocols indicated reduced inducibility of ventricular arrhythmias in MI-EX compared with MI-SED. This anti-arrhythmic effect was retained ex vivo in Langendorff-perfused hearts. Optical mapping of the noninfarcted left ventricle indicated a prolonged average action potential (AP) duration at 4.5 Hz pacing frequency in both MI groups compared with Sham-SED. As pacing frequency increased (6.5 Hz and \u22488 Hz), AP duration remained significantly longer in the MI-SED group but decreased in the MI-EX group, demonstrating a negative frequency dependency. Spatial heterogeneity of AP duration in the noninfarcted left ventricle area was increased post-MI but was significantly reduced following exercise. Optical AP recorded from the remnant myocardium within the scar showed similar AP duration characteristics at low stimulation frequencies, but AP upstroke time was shorter in the MI-EX group compared with MI-SED.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    Post-MI exercise was associated with electrophysiological changes in both the noninfarcted region and the remnant myocardium within the scar. These changes suggest a mechanism for the anti-arrhythmic effects of exercise following MI.",
+    "summary": "This randomized controlled animal study (n=rats across 3 groups: MI-EX, MI-SED, Sham-SED) demonstrated that 8 weeks of high-intensity exercise training post-MI reduced ventricular arrhythmia inducibility and normalized electrophysiological heterogeneity by restoring normal action potential frequency-dependence and reducing spatial AP duration dispersion in both the noninfarcted myocardium and scar tissue. These findings elucidate the antiarrhythmic mechanism underlying exercise's beneficial effects after myocardial infarction."
+  },
+  {
+    "title": "Sex Differences in the Burden of Atrial Fibrillation/Flutter and Associated Heart Failure Stratified by Age at Onset",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70341?af=R",
+    "doi": "10.1111/pace.70341",
+    "journal": "PACE",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782898948.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Early\u2010onset atrial fibrillation/flutter (AF/AFL), defined as AF/AFL onset before age 45 years, can lead to adverse outcomes including heart failure (HF). The sex\u2010specific patterns of early\u2010onset AF/AFL and associated HF remain poorly understood, particularly in comparison with late\u2010onset AF/AFL.\n                  \n                  \n                    Methods\n                    Using data from Global Burden of Disease (GBD) 2021, we report the age\u2010standardized rates (ASRs) per 100,000 population and changes from 1990 to 2021 based on sexes, regions and 204 countries. The contributions of risk factors, decomposition methodology, slope index of inequality and Bayesian age\u2010period\u2010cohort models were utilized to assess epidemiological trends, sex disparities, and projected burdens to 2050. All the analyses were performed in both early\u2010onset and late\u2010onset AF/AFL.\n                  \n                  \n                    Results\n                    Globally, the total number of early\u2010onset AF/AFL incident cases was 204 thousand in 2021, accounting for 4.5% of all cases. The male\u2010to\u2010female ratio in global prevalence ASR was 1.62, which suggested greater sex disparities than late\u2010onset AF/AFL. Sex\u2010specific risk factors included smoking and high alcohol use in males and high BMI in females. The global prevalence ASR of associated HF showed a sustained increase through 2050, with a female predominance.\n                  \n                  \n                    Conclusion\n                    The epidemiological patterns in early\u2010onset AF/AFL exhibited significant sex\u2010specific variations and differed from those observed in late\u2010onset AF/AFL. Future efforts should prioritize early detection, risk stratification, and tailored interventions to curb complications, particularly HF progression.",
+    "summary": "This retrospective epidemiological analysis using Global Burden of Disease 2021 data examined sex-specific patterns of early-onset AF/AFL (before age 45) versus late-onset disease across 204 countries from 1990-2021, finding that early-onset AF/AFL represented 4.5% of all cases with a 1.62 male-to-female prevalence ratio and distinct sex-specific risk factors (smoking/alcohol in males, elevated BMI in females), with projected increases in associated heart failure through 2050 showing female predominance. The findings suggest sex-tailored preventive strategies are needed for early-onset AF/AFL to mitigate heart failure complications."
+  },
+  {
+    "title": "Syncope due to Pacing Inhibition During VT Detection in a Conduction System Pacing ICD Programmed in AAI(R) Mode",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70337?af=R",
+    "doi": "10.1111/pace.70337",
+    "journal": "PACE",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782898399.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  The lack of dedicated generators for conduction system pacing can force the use of unconventional device configurations in selected patients. We report the case of a 74\u2010year\u2010old pacing\u2010dependent man with non\u2010ischemic cardiomyopathy who underwent an upgrade to LBBAP\u2010ICD, programmed in AAI(R) mode. Syncope occurred after a nonsustained ventricular tachycardia episode due to activation of the Ventricular Tachycardia Response algorithm in a Boston Scientific ICD. This case highlights a potential interaction between device algorithms and pacing configuration that may result in clinically significant pauses in pacing\u2010dependent patients.",
+    "summary": "This case report describes a pacing-dependent patient who experienced syncope after device algorithm misinterpretation of conduction system pacing (LBBAP-ICD programmed in AAI mode), revealing a potential safety concern when unconventional pacing configurations interact with ventricular tachycardia response algorithms in implantable cardioverter-defibrillators."
+  },
+  {
+    "title": "When Less Is Too Little: Low Atrioventricular Synchrony by VDD Leadless Pacemaker in a Patient With Glenn Circulation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70339?af=R",
+    "doi": "10.1111/pace.70339",
+    "journal": "PACE",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782898331.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Mateusz Tajstra reports conference fees and proctoring honoraria from Abbott, Biotronik and Boston Scientific. Maciej Dyrbu\u015b reports conference fees from Abbott, and speaker fees from Biotronik. All other authors declare no conflicts of interest relevant to the creation of this manuscript. The data supporting the findings of this study are available from the corresponding author upon reasonable request.",
+    "summary": "I don't have an abstract to summarize\u2014the text provided only contains a conflict of interest disclosure statement. Please provide the actual research abstract (objectives, methods, results, and conclusions sections) for me to create the requested summary."
+  },
+  {
+    "title": "Dynamic Electrophysiological Changes after Ethanol Ablation for Ventricular Septum: Insights from a Septal Pacing Lead",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.031",
+    "doi": "10.1016/j.hrcr.2026.06.031",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Biventricular Perimitral Macroreentrant Ventricular Tachycardia After David\u2013Komeda Repair for Ventricular Septal Perforation: An Interplay Between Surgical and Ischemic Substrates",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.033",
+    "doi": "10.1016/j.hrcr.2026.06.033",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
     "title": "Angioplasty for Pulmonary Vein Stenosis after Atrial Fibrillation Ablation",
     "link": "https://doi.org/10.1093/europace/euag164",
     "doi": "10.1093/europace/euag164",
@@ -3101,6 +3221,90 @@
     "summary": "This meta-analysis of seven observational studies (12,283 patients) found no significant difference in cardiac implantable electronic device infection rates between procedures performed with versus without antimicrobial pocket flush (0.8% vs. 1.1%; RR 0.80, 95% CI 0.39\u20131.63), supporting current guideline recommendations against routine use of this practice."
   },
   {
+    "title": "Ambulatory Electrocardiogram-Detected ST-Segment Elevation and Ventricular Tachycardia in Coronary Vasospasm",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.028",
+    "doi": "10.1016/j.hrcr.2026.06.028",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false,
+    "abstract": "Vasospastic angina is an underrecognized cause of myocardial ischemia characterized by transient coronary artery spasm and a wide spectrum of clinical presentations.1 Symptoms may be atypical, intermittent, or nocturnal, often mimicking noncardiac conditions or other arrhythmogenic syndromes, which can delay diagnosis. When unrecognized, coronary vasospasm may precipitate myocardial infarction, malignant ventricular arrhythmias, syncope, or sudden cardiac arrest.1 Diagnosis can be challenging and may require provocative testing or demonstration of dynamic ischemic changes, while management focuses on trigger avoidance, risk factor modification, and vasodilator therapy.",
+    "summary": "This narrative review discusses vasospastic angina as an underrecognized cause of myocardial ischemia presenting with variable symptoms that often delays diagnosis and carries risk for myocardial infarction, arrhythmias, and sudden cardiac death, with management centered on trigger avoidance, risk factor modification, and vasodilator therapy. Provocative testing may be required for diagnosis when clinical presentation is atypical or mimics other conditions."
+  },
+  {
+    "title": "Preprocedural Virtual Reality Simulation Predicts Residual Conduction in Pulsed Field Ablation: A Case Report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.026",
+    "doi": "10.1016/j.hrcr.2026.06.026",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Preprocedural virtual reality (VR) simulation may improve lesion predictability in pulsed field ablation (PFA) by enabling intuitive three-dimensional assessment of patient-specific left atrial and pulmonary vein anatomy.Anatomically challenging regions such as the pulmonary vein carina may be pre-identified as areas at risk for incomplete lesion formation, particularly in patients with a wide pulmonary vein carina region.Residual potentials may persist despite apparent acute electrical isolation in PFA, highlighting the limitation of conventional mapping alone in assessing lesion completeness.",
+    "summary": "This retrospective/observational analysis suggests that preprocedural VR simulation enhances anatomic assessment and lesion predictability in PFA by enabling three-dimensional visualization of individual LA/PV anatomy, with particular utility in identifying high-risk regions like the PV carina for incomplete lesion formation and residual electrical activity despite acute isolation on conventional mapping."
+  },
+  {
+    "title": "Double trouble in device infection: Concomitant transvenous and leadless pacemaker infection",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.029",
+    "doi": "10.1016/j.hrcr.2026.06.029",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Leadless pacemakers (LPMs) are an increasingly used form of cardiac implantable electronic device (CIED) in patients requiring permanent pacing, as they offer a minimally invasive option, and eliminate lead-related and generator-related complications associated with transvenous pacemakers. One significant advantage of LPMs is the lower risk of device infection compared to transvenous devices. Garweg et al1 found no cases of infection in patients implanted with the Micra (Medtronic, Minneapolis Minnesota) LPM even in patients with active bacteremia.",
+    "summary": "This is a narrative review highlighting the advantages of leadless pacemakers (LPMs), particularly regarding reduced infection risk compared to transvenous devices, with reference to a study by Garweg et al demonstrating zero infection cases in Micra LPM recipients, including those with active bacteremia. The summary emphasizes that LPMs offer a minimally invasive alternative that eliminates lead- and generator-related complications associated with traditional transvenous pacemakers."
+  },
+  {
+    "title": "NKX 2-5 Mutation in a Family with Ventricular Tachycardia and Aborted Sudden Cardiac Death",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.025",
+    "doi": "10.1016/j.hrcr.2026.06.025",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "VT",
+      "SCD",
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "1)Progressive AVCD is a characteristic manifestation of patients with CHD and/or cardiomyopathies associated with NKX 2.5 mutations. However, there are reports of SCD in patients with this mutation with a pacemaker implanted for high degree or complete AV block. 2)This report describes a family with a novel NKX 2.5 mutation, in whom the mother was subsequently demonstrated to have polymorphic VT/VF following a resuscitated cardiac arrest years distant from an uncomplicated surgical repair of a secundum ASD. 3)A pacemaker may be inadequate for some patients with an NKX 2.5 mutation in association with CHD and/or a cardiomyopathy. 4)Since the arrhythmia manifestations often occur years after repair of CHD, even patients with simple, uncomplicated ASDs should undergo routine ECGs to monitor for progressive AVCD, and when present, should trigger genetic testing for NKX 2.5 mutations. 5)For patients with a known NKX 2.5 mutation long-term follow-up should include monitoring for ventricular arrhythmias as well as high degree or complete heart block.",
+    "summary": "This is a case report describing a family with a novel NKX2.5 mutation presenting with progressive atrioventricular conduction disease and polymorphic ventricular tachycardia/fibrillation, demonstrating that pacemaker therapy alone may be inadequate and highlighting the need for genetic screening and long-term arrhythmia surveillance in patients with NKX2.5 mutations, even those with simple congenital heart defects like secundum ASD."
+  },
+  {
+    "title": "Transcatheter epicardial pacing of the human Bachmann\u2019s bundle via the transverse sinus: Novel technique to expand transcatheter cardiac intervention",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.027",
+    "doi": "10.1016/j.hrcr.2026.06.027",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "As atrial lead implantation in the right atrial appendage is technically straightforward, the right atrial appendage remains one of the common sites for atrial pacing. However, it induces interatrial conduction delay, resulting in interruption of the left atrial wave by the mitral valve closure, which prevents effective left ventricular filling.1-4 Interatrial dyssynchrony can be appreciated by the prolongation of the mean P wave duration during right atrial appendage pacing (132 ms) compared with that during sinus rhythm (108 ms).",
+    "summary": "This observational study demonstrates that right atrial appendage pacing induces interatrial conduction delay (P wave prolongation from 108 ms to 132 ms during sinus rhythm), causing dyssynchrony that impairs left ventricular filling by interrupting left atrial contraction at mitral valve closure."
+  },
+  {
+    "title": "Delayed Rupture of a Right Ventricular Pseudoaneurysm Following Transvenous Lead Extraction",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.030",
+    "doi": "10.1016/j.hrcr.2026.06.030",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jun 01, 2026",
+    "date_ts": 1780272000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
     "title": "Quality of life and psychological distress in patients with implantable cardioverter-defibrillators: the PSY-ICD study",
     "link": "https://doi.org/10.1093/europace/euag105.915",
     "doi": "10.1093/europace/euag105.915",
@@ -6200,196 +6404,5 @@
       "Imaging"
     ],
     "hot": false
-  },
-  {
-    "title": "Endurance exercise remodels pulmonary vein sleeve myocytes and promotes a proarrhythmic atrial substrate",
-    "link": "https://doi.org/10.1093/eurheartj/ehag358",
-    "doi": "10.1093/eurheartj/ehag358",
-    "journal": "European Heart Journal",
-    "date": "May 25, 2026",
-    "date_ts": 1779667200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    The risk of atrial fibrillation (AF) is higher in endurance athletes. Pulmonary vein isolation (PVI) is effective in this group, implicating pulmonary vein (PV) remodelling, but underlying mechanisms are unclear. This study investigated if endurance training remodels PV sleeves and the PV\u2013left atrial (LA) junction to promote PV triggers and a permissive peri-antral substrate for AF.\n                  \n                  \n                    Methods\n                    In canine and murine endurance-running models, in vivo PV\u2013LA mapping, ex vivo PV electrophysiology, intracellular action potential (AP) profiling with machine learning classification, histology, bulk RNA-seq, and subcellular-resolution spatial transcriptomics of PV\u2013LA tissue were performed. These findings were incorporated into biophysically detailed computer models of human PV cardiomyocytes and a 3D human LA.\n                  \n                  \n                    Results\n                    Training produced an athlete\u2019s heart phenotype and increased AF inducibility. In vivo, trained animals showed PV\u2013LA conduction slowing and increased rotational activity. Ex vivo, trained PVs showed enhanced \u03b2-adrenergically evoked firing, prolonged burst activity, and a higher proportion of pacemaker-like APs. Spatial transcriptomics revealed discrete PV myocyte subpopulations with training upregulated Hcn4, Cacna1d, and Cacna1g (enhancing automaticity), downregulated Scn5a and Gja1 (slowing conduction), and enriched profibrotic/inflammatory signalling (Tnf\u03b1, Il6) alongside fibroblast expansion and extracellular matrix deposition. In silico, these changes reproduced faster spontaneous PV firing and sustained re-entry.\n                  \n                  \n                    Conclusions\n                    Endurance training drives coupled electrical, structural, and inflammatory PV\u2013LA remodelling that provides both trigger and substrate for AF. These data support why PV-targeted strategies can be effective in athletic AF and nominate modifiable pathways including HCN4-linked automaticity and TNF\u03b1-associated signalling.",
-    "summary": "This mechanistic study using canine and murine endurance-running models with in vivo mapping, ex vivo electrophysiology, spatial transcriptomics, and computational modeling demonstrated that endurance training induces pulmonary vein\u2013left atrial remodeling characterized by upregulated automaticity genes (Hcn4, Cacna1d/g), downregulated conduction genes (Scn5a, Gja1), and enhanced profibrotic/inflammatory signaling, creating both ectopic triggers and permissive substrate for atrial fibrillation. These findings mechanistically explain the efficacy of pulmonary vein isolation in athletic AF and identify HC"
-  },
-  {
-    "title": "Does Acute Response to Stellate Ganglion Block Predict Success of Cardiac Sympathetic Denervation? Preliminary Evidence",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002230?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 24, 2026",
-    "date_ts": 1779588144.797379,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Healthcare Utilization and Use of Implantable Cardiac Monitors in Syncope of Unknown Origin",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70276?af=R",
-    "doi": "10.1111/pace.70276",
-    "journal": "PACE",
-    "date": "May 23, 2026",
-    "date_ts": 1779503164.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Syncope of unknown origin (\u2018SUO\u2019) is a challenge for clinicians. Investigation and admission rates vary despite attempts at standardization. Implantable cardiac monitors (ICMs) are valuable in streamlining work\u2010up for SUO.\n                  \n                  \n                    Objectives\n                    Compare admission rates in SUO in our ED to European Society of Cardiology (\u2018ESC\u2019) 2018 guidelines and Canadian Syncope Risk Score (\u2018CSRS\u2019) recommendations. Secondary outcomes included assessing clinician adherence to ESC and CSRS, differences between admission rates and syncope recurrence across age and gender, and healthcare utilization and outcomes over 24\u2010months including ICM insertion when indicated.\n                  \n                  \n                    Methods\n                    Retrospective review of 50 patients with SUO in 2020. Admission rates were compared to the ESC and CSRS recommendations for significance. ICM was indicated for recurrent SUO &gt; 30 days apart.\n                  \n                  \n                    Results\n                    Admission rates (64%) weren't significantly higher than ESC (60%) or CSRS (54%). Adherence was 83%\u201089% for admissions and 65% for discharges. Admitted patients were older with no difference in recurrence. Gender differences for admission rates or recurrence weren't significant. Admissions were diagnostic for 25%. Rates of most investigations were reduced compared to prior studies. 26% suffered recurrence and 10% injuries. \u223c20% of patients met indications for ICM, and 89% meeting criteria received one.\n                  \n                  \n                    Conclusions\n                    Our study shows no difference in admission rates in SUO compared to ESC or CSRS with 83%\u201389% adherence for admissions, and 65% for discharge, high diagnostic yield (25%) for admissions and reduced low\u2010yield investigations with appropriate use of ICMs as an early investigation for recurrent SUO.",
-    "summary": "This retrospective study of 50 patients with syncope of unknown origin found that ED admission rates (64%) aligned with ESC 2018 guidelines (60%) and Canadian Syncope Risk Score (54%) recommendations, with good clinician adherence (83-89% for admissions, 65% for discharges), a diagnostic yield of 25% for admitted patients, and appropriate ICM utilization in ~89% of patients meeting criteria for recurrent syncope."
-  },
-  {
-    "title": "Adapter Sink to Reduce Air Bubbles During Pulsed Field Ablation: An Ex Vivo Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004354?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "May 23, 2026",
-    "date_ts": 1779501296.202659,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "High-Voltage Pulsed Field Ablation: Novel Strategy for Redo Ventricular Tachycardia Ablation in Nonischemic Cardiomyopathy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003713?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "May 23, 2026",
-    "date_ts": 1779501296.202618,
-    "tags": [
-      "VT",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsed Field Ablation of an Electrically Active Left Superior Vena Cava Draining Into the Left Atrium",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004238?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "May 23, 2026",
-    "date_ts": 1779501296.202537,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Gut Microbiota\u2013Atrium Axis: Microbiota Metabolite-Mediated Regulation of the NLRP3 Inflammasome in Atrial Fibrillation\u2014Pathophysiological Roles and Therapeutic Perspectives",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002229?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 23, 2026",
-    "date_ts": 1779501296.116813,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Author's reply to Artificial intelligence for atrial fibrillation episode classification: concerns on interpretation and validation.",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002205?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 23, 2026",
-    "date_ts": 1779501296.116776,
-    "tags": [
-      "AFib",
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Practical Lead Exchange Technique Without Additional Venous Puncture in the Era of Conduction System Pacing",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002217?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 23, 2026",
-    "date_ts": 1779501296.116736,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Refining Left Bundle Branch Block Criteria for Improved Left Bundle Branch Area Pacing Response in Heart Failure",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002011?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "May 23, 2026",
-    "date_ts": 1779501296.116666,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Progression of persistent atrial fibrillation and impact of ablation: A systematic review and meta-analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022617?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "May 23, 2026",
-    "date_ts": 1779501295.89505,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "More Than an OPTION: Left Atrial Appendage Closure Beyond High Bleeding Risk in the post-ablation setting",
-    "link": "https://doi.org/10.1093/europace/euag119",
-    "doi": "10.1093/europace/euag119",
-    "journal": "EP Europace",
-    "date": "May 23, 2026",
-    "date_ts": 1779494400.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Atrial Fibrillation and Rhythm Control: Another Win in Chronic Kidney Disease",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726062054?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "May 22, 2026",
-    "date_ts": 1779415560.085489,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Magnetic Resonance Imaging Safety in Patients With Conditional Mixed\u2010Manufacturer Devices",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70297?af=R",
-    "doi": "10.1111/pace.70297",
-    "journal": "PACE",
-    "date": "May 22, 2026",
-    "date_ts": 1779452529.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Magnetic resonance imaging (MRI) is a critical diagnostic tool known for its non\u2010invasive nature and high\u2010resolution imaging capabilities. However, its safety in patients with cardiac implantable electronic devices (CIEDs), particularly those with mixed\u2010lead systems, remains a significant clinical concern. This report investigates the safety and efficacy of MRI in such patients, where generators and leads originate from different manufacturers and are not officially deemed MRI\u2010conditional.\n                  \n                  \n                    Methods\n                    A retrospective, non\u2010randomized single center study was conducted involving 16 patients with mixed company lead CIEDs that obtained 23 MRIs. All patients underwent clinically indicated 1.5 Tesla MRI scans between July 2021 and August 2025.\n                  \n                  \n                    Results\n                    Pre\u2010 and post\u2010scan measurements included lead impedance, sensing thresholds, and battery voltage, along with monitoring for clinical complications such as arrhythmias, syncope, or cardiac arrest. No adverse effects or device malfunctions were observed, and all key parameters remained stable post\u2010scan.\n                  \n                  \n                    Conclusion\n                    This study shows the safe use of MRIs for patients with mixed\u2010lead CIEDs.",
-    "summary": "This retrospective, single-center study of 16 patients undergoing 23 clinically indicated 1.5 Tesla MRI scans demonstrated that MRI imaging was safe in patients with mixed-manufacturer cardiac implantable electronic devices, with no device malfunctions, arrhythmias, or changes in lead impedance, sensing thresholds, or battery voltage observed. These findings suggest MRI may be feasible in select CIED patients with mixed-lead systems despite lack of official MRI-conditional designation, though larger prospective studies are needed to establish broader safety protocols."
-  },
-  {
-    "title": "Pacing\u2010Induced Cardiomyopathy in Leadless and Transvenous Pacemakers: A Meta\u2010Analysis and Meta\u2010Regression",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70299?af=R",
-    "doi": "10.1111/pace.70299",
-    "journal": "PACE",
-    "date": "May 22, 2026",
-    "date_ts": 1779451820.0,
-    "tags": [
-      "Devices",
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Leadless pacemakers have been developed to reduce complications associated with transvenous systems; however, their impact on pacing\u2010induced cardiomyopathy (PICM) remains uncertain. This study aimed to evaluate the prevalence of PICM following leadless pacing, compared PICM risk with transvenous pacing, and assessed cardiac resynchronization therapy (CRT) upgrade.\n                  \n                  \n                    Methods\n                    This systematic review and meta\u2010analysis followed PRISMA guidelines. PubMed, Scopus, and ScienceDirect were searched up to January 2026. Studies reporting PICM following leadless pacing or comparing leadless and transvenous systems were included. Random\u2010effects models estimated pooled prevalence and risk ratios (RRs), and meta\u2010regression explored potential modifiers.\n                  \n                  \n                    Results\n                    \n                      Eight studies comprising 3224 patients with leadless pacing were included. The pooled prevalence of PICM following leadless pacing was 13% (95%CI: 4%\u201323%;\n                      I\n                      2\n                      = 92%). In comparative analysis (5 studies;\n                      n\n                      = 6025), the risk of PICM was similar between leadless and transvenous pacing (RR 1.00; 95%CI: 0.77\u20131.29;\n                      I\n                      2\n                      = 52%). Leadless pacing was associated with a lower observed rate of CRT upgrade (RR 0.56; 95%CI: 0.48\u20130.66;\n                      I\n                      2\n                      = 42%), although this finding should be interpreted cautiously because it may reflect patient selection, procedural factors, and differing thresholds for CRT upgrade. Meta\u2010regression identified baseline heart failure (HF) as a significant predictor of PICM (\n                      p\n                      &lt; 0.0001).\n                    \n                  \n                  \n                    Conclusion\n                    Leadless pacemakers demonstrate a non\u2010inferior risk of PICM and similar safety profiles to transvenous systems, while a lower observed rate of CRT upgrade. Future studies should standardize PICM definitions and improve reporting of pacing burden, ventricular function, and patient\u2010level outcomes.",
-    "summary": "This meta-analysis of 8 studies (3,224 patients with leadless pacing; 6,025 in comparative analyses) found that leadless pacemakers carry similar risk of pacing-induced cardiomyopathy compared to transvenous systems (RR 1.00; 95% CI: 0.77\u20131.29), with a pooled PICM prevalence of 13%, though leadless systems showed lower CRT upgrade rates that may reflect selection bias rather than true clinical benefit."
   }
 ]
