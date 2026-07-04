@@ -1,5 +1,31 @@
 [
   {
+    "title": "Pulsed Field or Cryoballoon Ablation for Paroxysmal Atrial Fibrillation \u2013 insights from acute and chronic electroanatomic remapping in the randomized SINGLE-SHOT CHAMPION trial",
+    "link": "https://doi.org/10.1093/europace/euag167",
+    "doi": "10.1093/europace/euag167",
+    "journal": "EP Europace",
+    "date": "Jul 03, 2026",
+    "date_ts": 1783036800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    The SINGLE SHOT CHAMPION multicenter trial compared the effectiveness of pulsed-field ablation (PFA) and cryoballoon ablation (CBA) for pulmonary vein isolation (PVI) in patients with paroxysmal atrial fibrillation (AF). In a prespecified sub-study, post-ablation three-dimensional electroanatomic mapping (3D-EAM) was performed, and repeat-procedure mapping data were analyzed.\n                  \n                  \n                    Methods\n                    Patients were randomized 1:1 to fluoroscopy-guided PVI with PFA or CBA. The first 25 patients in each group underwent high-density 3D-EAM immediately after ablation. Acute PV isolation and lesion geometry were assessed using bipolar voltage thresholds of 0.1\u2005mV, 0.2\u2005mV, and 0.5\u2005mV. Lesion durability was evaluated at clinically indicated repeat ablation.\n                  \n                  \n                    Results\n                    In acute post-ablation mapping, residual PV conduction was seen in 4/25 (16%) CBA patients and 0/25 PFA patients (P=0.11). Inadvertent posterior wall conduction block occurred after PFA in 3 (12%) patients with small atria (mean LA volume 30.7\u2005ml). PFA created larger left-sided lesions (antral area &amp;lt;0.5\u2005mV: 5.7\u2005mm2 [IQR 4.6\u20136.5] vs 4.4\u2005mm2 [IQR 2.5\u20135.5], P=0.026) and narrower posterior wall channels (14.0\u2005mm [IQR 10.5\u201320.6] vs. 24.0\u2005mm [IQR 19.1\u201326.9], P&amp;lt;0.001), indicating wide-antral isolation. At redo (n=48), durable PVI was seen in 4/26 (15%) PFA and 3/22 (14%) CBA patients and in 63/102 (62%) veins after PFA and 52/82 (63%) after CBA (P=0.88).\n                  \n                  \n                    Conclusion\n                    Fluoroscopy- and electrocardiogram-guided PVI can result in incomplete PV isolation after CBA or unintentional posterior wall block after PFA. In the acute mapping cohort, PFA yielded broader left-sided lesions than CBA; in a separate redo cohort, chronic PV durability was similar for both modalities.",
+    "summary": "This randomized controlled trial (n=50 in acute mapping sub-study) compared pulsed-field ablation (PFA) versus cryoballoon ablation (CBA) for pulmonary vein isolation in paroxysmal atrial fibrillation, finding that while PFA created larger acute left-sided lesions and better initial isolation than CBA (0% vs 16% residual conduction), chronic pulmonary vein durability at repeat procedures was similar between modalities (~62-63%), though PFA carried risk of unintentional posterior wall block in small left atria."
+  },
+  {
+    "title": "Incidence and Clinical Predictors of Cognitive Decline in Anticoagulated Patients with Atrial Fibrillation. The Strat-AF Study",
+    "link": "https://doi.org/10.1093/europace/euag168",
+    "doi": "10.1093/europace/euag168",
+    "journal": "EP Europace",
+    "date": "Jul 03, 2026",
+    "date_ts": 1783036800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Pulmonary vein reconnection patterns after pentaspline pulsed field ablation for atrial fibrillation",
     "link": "https://doi.org/10.1093/europace/euag172",
     "doi": "10.1093/europace/euag172",
@@ -94,6 +120,90 @@
     "hot": false,
     "abstract": "Mateusz Tajstra reports conference fees and proctoring honoraria from Abbott, Biotronik and Boston Scientific. Maciej Dyrbu\u015b reports conference fees from Abbott, and speaker fees from Biotronik. All other authors declare no conflicts of interest relevant to the creation of this manuscript. The data supporting the findings of this study are available from the corresponding author upon reasonable request.",
     "summary": "I don't have an abstract to summarize\u2014the text provided only contains a conflict of interest disclosure statement. Please provide the actual research abstract (objectives, methods, results, and conclusions sections) for me to create the requested summary."
+  },
+  {
+    "title": "Insulin-treated type 2 diabetes is associated with increased mortality after transvenous lead extraction for device infection: the IN2DEEP study",
+    "link": "https://doi.org/10.1093/europace/euag147",
+    "doi": "10.1093/europace/euag147",
+    "journal": "EP Europace",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Implantation of an Extravascular ICD in a Patient with Retrosternal Adhesions from Epicardial Leads Implanted via a Subxiphoid Approach",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.037",
+    "doi": "10.1016/j.hrcr.2026.06.037",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Arrhythmogenic Right Ventricular Cardiomyopathy With Left Ventricular Noncompaction: A Phenotypic Overlap With High Arrhythmic Risk",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.034",
+    "doi": "10.1016/j.hrcr.2026.06.034",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Epicardial PFA at VT Isthmus over Coronary Artery with a Novel Dual Energy Focal Catheter",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.038",
+    "doi": "10.1016/j.hrcr.2026.06.038",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Delayed reconnection of the posterior wall inferior line after biatrial Cox-Maze IV despite previously confirmed bidirectional block",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.036",
+    "doi": "10.1016/j.hrcr.2026.06.036",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Rocky Mountain Spotted Fever Presenting with Complete Heart Block: A Rare Manifestation of Rickettsial Disease",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.035",
+    "doi": "10.1016/j.hrcr.2026.06.035",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Experience from Extraction of Transvenous Leads Applied for Retained Port-A-Catheters Removal",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.032",
+    "doi": "10.1016/j.hrcr.2026.06.032",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
   },
   {
     "title": "Dynamic Electrophysiological Changes after Ethanol Ablation for Ventricular Septum: Insights from a Septal Pacing Lead",
@@ -6282,127 +6392,5 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Background\n                    Pulsed field ablation (PFA) is a breakthrough therapeutic modality for atrial fibrillation that employs nonthermal irreversible electroporation to selectively ablate cardiomyocytes. This preclinical study evaluated the safety and efficacy of a novel PFA system for pulmonary vein isolation (PVI).\n                  \n                  \n                    Objectives\n                    This study aimed to assess the safety and efficacy of a preclinical used PFA system in achieving acute and durable PVI.\n                  \n                  \n                    Methods\n                    The PFA system\u2014comprising two flexible circular catheters, a three\u2010dimensional mapping system (3DMS), and a pulsed field generator\u2014was utilized for PVI. Bipolar, biphasic waveforms were delivered in six swine using a 7\u2010electrode circular catheter at the right superior pulmonary vein (RSPV) and a 14\u2010electrode catheter at the common inferior pulmonary vein (CIPV). All animals underwent repeat electrophysiological mapping immediately post\u2010procedure and at 3\u2010month follow\u2010up to assess lesion durability and procedural safety, followed by gross necropsy and histology.\n                  \n                  \n                    Results\n                    \n                      All targeted pulmonary veins were successfully isolated. A total of 22.7 \u00b1 5.3 applications were delivered per animal, comprising 11.0 \u00b1 1.9 applications using the 7\u2010electrode catheter and 11.7 \u00b1 4.7 applications using the 14\u2010electrode catheter. Acute and durable PVI at 3\u2010month follow\u2010up was achieved in all swine. Histopathology assessment revealed 100% of transmural fibrotic lesions with a mean depth of 2.7 \u00b1 0.6\u00a0mm at RSPV and 3.3 \u00b1 1.4\u00a0mm at CIPV (\n                      p\n                      = 0.372) with no evidence of inflammation, or thrombus formation. No ventricular arrhythmias occurred during PFA delivery, and no periprocedural adverse events were observed. Furthermore, no collateral damage\u2014including esophageal injury or phrenic nerve paralysis\u2014was detected at the 3\u2010month evaluation.\n                    \n                  \n                  \n                    Conclusions\n                    The 3DMS integrated PFA system demonstrated excellent acute and chronic efficacy in achieving PVI, with durable lesion formation and a favorable safety profile free from collateral tissue injury.",
     "summary": "This preclinical study in six swine evaluated a novel pulsed field ablation (PFA) system for pulmonary vein isolation, demonstrating 100% acute and durable PVI at 3-month follow-up with transmural fibrotic lesions (mean depth 2.7-3.3 mm) and no procedural adverse events, collateral damage, or arrhythmias. The findings support the safety and efficacy of this nonthermal electroporation approach as a potential breakthrough modality for atrial fibrillation ablation."
-  },
-  {
-    "title": "Differential HFpEF Response After Catheter Ablation in Persistent AF Patients With Small Low Voltage Areas",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70300?af=R",
-    "doi": "10.1111/pace.70300",
-    "journal": "PACE",
-    "date": "May 26, 2026",
-    "date_ts": 1779811410.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    \n                      Low voltage areas (LVAs) in the left atrium (LA) is associated with atrial fibrillation (AF) recurrence and heart failure with preserved ejection fraction (HFpEF). The clinical significance of small LVAs (&lt; 5.0 cm\n                      2\n                      ) in patients with persistent atrial fibrillation (PerAF) remains unclear. This study evaluated the impact of catheter ablation (CA) on HFpEF status in PerAF patients with small LVAs.\n                    \n                  \n                  \n                    Methods\n                    \n                      We included 62 consecutive PerAF patients with total LA LVAs &lt; 5.0 cm\n                      2\n                      undergoing initial CA between June 2019 and March 2023. Patients were divided by the median LVA into the sLVA\u2010Low (0.0\u20131.6 cm\n                      2\n                      ) and sLVA\u2010High (1.7\u20134.9 cm\n                      2\n                      ). HFA\u2010PEFF scores were assessed at baseline and 12 months. Changes in HFA\u2010PEFF scores (\u0394HFA\u2010PEFF), arrhythmia recurrence, and adverse clinical events were compared.\n                    \n                  \n                  \n                    Results\n                    \n                      Baseline HFA\u2010PEFF scores were higher in sLVA\u2010High than in sLVA\u2010Low (4 [3\u20134] vs. 2 [2\u20133],\n                      p\n                      = 0.013). At 12 months, HFA\u2010PEFF scores remained elevated in sLVA\u2010High (3.5 [2\u20135] vs. 2 [2\u20134],\n                      p\n                      = 0.037), with a greater prevalence of HFA\u2010PEFF scores 5\u20136 (30%\u00a0vs. 8%,\n                      p\n                      = 0.043). However, \u0394HFA\u2010PEFF scores, AF recurrence rates, the incidence of adverse events did not differ significantly between the two groups.\n                    \n                  \n                  \n                    Conclusion\n                    \n                      Among PerAF patients with small LVAs (&lt;5\u00a0cm\n                      2\n                      ), relatively larger LVAs within the small range were associated with worse HFpEF profiles despite similar rhythm outcomes. Even small LVAs may indicate substrate prone to HFpEF progression, warranting careful follow\u2010up.",
-    "summary": "This retrospective cohort study of 62 persistent AF patients with small left atrial low voltage areas (<5 cm\u00b2) undergoing catheter ablation found that larger LVAs within the small range were associated with higher HFA-PEFF scores (indicating worse HFpEF profiles) at baseline and 12-month follow-up, despite similar AF recurrence rates and adverse event incidence between groups. The findings suggest that even small LVAs may indicate substrate predisposed to HFpEF progression and warrant closer monitoring post-ablation."
-  },
-  {
-    "title": "The Utility of Higher Pulsed Field Ablation Applications for Atrial Fibrillation Ablation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70381?af=R",
-    "doi": "10.1111/jce.70381",
-    "journal": "J Cardiovasc EP",
-    "date": "May 26, 2026",
-    "date_ts": 1779805997.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    The optimal number of pulsed field ablation (PFA) applications during atrial fibrillation (AF) ablation is unclear. We hypothesized that the number of PFA applications would predict atrial tachyarrhythmia (ATA) recurrence rates.\n                  \n                  \n                    Objective\n                    To determine whether higher numbers of PFA applications would decrease ATA recurrence rates.\n                  \n                  \n                    Methods\n                    We studied cases of patients with AF undergoing first\u2010time ablation with PFA between 5/6/24 and 10/7/24. All patients underwent pulmonary vein and posterior wall isolation. The primary outcome was ATA recurrence. Additional outcomes included stroke, post\u2010procedural acute kidney injury (AKI), total procedure time, and major periprocedural complications. Univariable and multivariable analyses were performed to determine if the number of PFA applications predicted ATA recurrence.\n                  \n                  \n                    Results\n                    \n                      In a cohort consisting of 177 patients, univariable and multivariable analysis showed that the number of PFA applications split at the smallest quartile (&lt;\u200957 applications) versus the largest three quartiles (\u2265\u200957 applications) was the strongest predictor of ATA recurrence (\n                      p\n                      \u2009=\u20090.03). ATA recurrence at 1 year (29% vs. 8%;\n                      p\n                      \u2009&lt;\u20090.01) and AF burden on continuous monitor (4% vs. 0%;\n                      p\n                      \u2009&lt;\u20090.01) was higher with the standard (&lt;\u200957 applications) vs higher (\u2265\u200957 applications) PFA dose groups. When comparing the standard versus higher PFA dose groups, there was no difference in total procedure time (106 vs. 107\u2009min;\n                      p\n                      \u2009=\u20090.77), major periprocedural complications (0% vs. 2%;\n                      p\n                      \u2009=\u20090.33), or post\u2010procedural AKI (2% vs. 2%;\n                      p\n                      \u2009=\u20090.69).\n                    \n                  \n                  \n                    Conclusion\n                    Increasing number of PFA applications is associated with reduced ATA recurrence. A higher number of PFA applications may decrease ATA recurrence without affecting procedure times or complication rate.",
-    "summary": "This retrospective cohort study of 177 patients undergoing first-time pulmonary vein and posterior wall isolation with pulsed field ablation found that \u226557 applications (versus <57) significantly reduced 1-year atrial tachyarrhythmia recurrence (8% vs 29%, p<0.01) without increasing procedure time, major complications, or acute kidney injury. Higher numbers of PFA applications were the strongest independent predictor of freedom from atrial tachyarrhythmia recurrence."
-  },
-  {
-    "title": "Intracardiac Echocardiography and Coronary Angiography During Ventricular Ablation From the Aortic Cusps and Commissures: Marked Inter\u2010Center Variability Without an Observed Coronary Injury Signal",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70383?af=R",
-    "doi": "10.1111/jce.70383",
-    "journal": "J Cardiovasc EP",
-    "date": "May 26, 2026",
-    "date_ts": 1779805800.0,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Catheter ablation of premature ventricular complexes (PVCs) and ventricular tachycardia (VT) arising from the aortic cusps and commissures is effective but performed near the coronary ostia, raising concern for coronary injury. Adjunct imaging with intracardiac echocardiography (ICE) and coronary angiography is variably used, and its incremental benefit remains uncertain.\n                  \n                  \n                    Methods\n                    We analyzed 311 ablation procedures performed in 290 patients across four high\u2010volume centers in the United States and Switzerland. Imaging strategies were categorized as no adjunct imaging, ICE only, angiography only, or combined ICE plus angiography.\n                  \n                  \n                    Results\n                    \n                      Marked inter\u2010center variability in imaging use was observed. Procedure duration and fluoroscopy exposure differed significantly by imaging strategy and were greatest when both ICE and angiography were used (\n                      p\n                      \u2009&lt;\u20090.001). Acute elimination of targeted PVCs occurred in 87% of procedures. No coronary artery injury was observed.\n                    \n                  \n                  \n                    Conclusion\n                    Adjunct imaging strategies for aortic cusp and commissure PVC/VT ablation vary widely across centers and substantially influence procedural efficiency. Despite frequent ablation near the coronary ostia, no coronary injury events were observed.",
-    "summary": "This retrospective analysis of 311 ablation procedures across four centers found that adjunct imaging strategies (intracardiac echocardiography and/or coronary angiography) for aortic cusp and commissure PVC/VT ablation varied widely and significantly increased procedure duration and fluoroscopy exposure, though acute PVC elimination was achieved in 87% of cases with no observed coronary artery injuries."
-  },
-  {
-    "title": "Short Sleep Duration Measured by Smartwatch Is Associated With Elevated Resting Heart Rate and Reduced Nocturnal Oxygen Saturation: Insights From Heartbeat",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70358?af=R",
-    "doi": "10.1111/jce.70358",
-    "journal": "J Cardiovasc EP",
-    "date": "May 26, 2026",
-    "date_ts": 1779805772.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Sleep duration has been shown to impact cardiovascular outcomes; however, the impact on wearable\u2010derived metrics such as oxygen saturation and resting heart rate remains underinvestigated. This study aims to determine whether average sleep duration of \u2264\u20096\u2009h per night impacts resting heart rate (RHR) and maximum nocturnal oxygen saturation (MaxSpO\u2082).\n                  \n                  \n                    Methods\n                    Using data from the HEARTBEAT study, sleep duration and maximum oxygen saturation during sleep were collected via the Samsung Galaxy Watch. Participants were stratified into two groups based on average sleep duration (\u2264\u20096\u2009h vs &gt;\u20096\u2009h per night) and propensity\u2010matched for baseline characteristics. The primary outcomes were RHR and MaxSpO\u2082. Statistical analysis was performed using R, version 4.5.1.\n                  \n                  \n                    Results\n                    \n                      After propensity score matching, there were 168 patients in each group with well\u2010balanced baseline characteristics and comorbidities. Participants with average sleep duration \u2264\u20096\u2009h demonstrated higher RHR compared to those with average sleep duration &gt;\u20096\u2009h (61.0\u2009\u00b1\u20095.8 bpm vs 57.7\u2009\u00b1\u20096.8 bpm;\n                      p\n                      \u2009&lt;\u20090.001). Additionally, MaxSpO\u2082 was lower in the group with shorter sleep duration (95.1\u2009\u00b1\u20092.4% vs 96.2\u2009\u00b1\u20091.5%;\n                      p\n                      \u2009&lt;\u20090.001).\n                    \n                  \n                  \n                    Conclusion\n                    Sleeping \u2264\u20096\u2009h per night is associated with higher resting heart rate and lower maximum nocturnal oxygen saturation.",
-    "summary": "This propensity-matched observational study of 336 participants (168 per group) from the HEARTBEAT study found that sleep duration \u22646 hours per night was associated with significantly elevated resting heart rate (61.0 vs 57.7 bpm; p<0.001) and reduced maximum nocturnal oxygen saturation (95.1% vs 96.2%; p<0.001) compared to longer sleep duration. These findings suggest short sleep duration may adversely impact wearable-derived cardiovascular metrics and oxygenation."
-  },
-  {
-    "title": "Safety and Feasibility of Dual\u2010Energy Lattice\u2010Tip Catheter for Cavotricuspid Isthmus Ablation in Patients With Cardiac Implantable Electronic Devices: A Single\u2010Center Experience",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70333?af=R",
-    "doi": "10.1111/jce.70333",
-    "journal": "J Cardiovasc EP",
-    "date": "May 26, 2026",
-    "date_ts": 1779805143.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Cavotricuspid isthmus (CTI) ablation is a standard therapy for typical atrial flutter. In patients with cardiac implantable electronic devices (CIEDs), ablation near intracardiac leads may present risks, including lead dislodgement, thermal injury, or electromagnetic interference. The dual\u2010energy lattice\u2010tip catheter, capable of delivering both pulsed field ablation (PFA) and radiofrequency (RF) energy, is a novel device designed for CTI ablation and pulmonary vein isolation (PVI). However, data on its safety in patients with CIEDs remain limited.\n                  \n                  \n                    Objectives\n                    This study aimed to evaluate procedural safety and short\u2010term device performance of CTI ablation using the dual\u2010energy lattice\u2010tip catheter in patients with CIEDs.\n                  \n                  \n                    Methods\n                    We conducted a retrospective, single\u2010center analysis of 67 consecutive patients with CIEDs who underwent CTI ablation during atrial fibrillation or atypical flutter ablation procedures, with the dual\u2010energy lattice\u2010tip catheter between January and October 2025. Baseline demographics, procedural details, and device interrogation data were collected. The primary outcome was procedural safety, including lead dislodgement, device malfunction, and major complications. Secondary outcomes included changes in lead sensing, pacing thresholds, and impedance from baseline to follow\u2010up.\n                  \n                  \n                    Results\n                    CTI ablation was acutely successful in all 67 patients. Combined RF and PF energy was used in 88% of cases. A total of 75 PFA applications and 158 RF lesions were delivered across the cohort. Patients received an average of 4.7 PFA applications and 9.9 RF lesions. No lead dislodgement or device malfunction occurred. Mean procedure time was 78.2\u2009\u00b1\u200910.8\u2009min; mean fluoroscopy time was 2.75\u2009\u00b1\u20091.47\u2009min. Three patients exhibited atrial sensing changes postablation, but all remained stable at follow\u2010up without the need for device reprogramming.\n                  \n                  \n                    Conclusions\n                    CTI ablation using a dual\u2010energy lattice\u2010tip catheter appears safe and feasible in patients with CIEDs. Larger prospective studies are needed to validate these findings.",
-    "summary": "This retrospective single-center analysis of 67 consecutive patients with cardiac implantable electronic devices undergoing CTI ablation with a dual-energy lattice-tip catheter demonstrated 100% acute procedural success with no lead dislodgement, device malfunction, or major complications, though three patients experienced transient atrial sensing changes that resolved without intervention. The findings support the safety and feasibility of this novel ablation approach in CIED patients, though larger prospective studies are warranted for validation."
-  },
-  {
-    "title": "Long\u2010Term Outcomes of Leadless Pacemaker vs. Transvenous Pacemaker in End\u2010Stage Renal Disease",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70364?af=R",
-    "doi": "10.1111/jce.70364",
-    "journal": "J Cardiovasc EP",
-    "date": "May 26, 2026",
-    "date_ts": 1779804616.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Patients with end\u2010stage renal disease (ESRD) undergoing dialysis have an increased risk of pacemaker\u2010related complications due to limited vascular access and increased susceptibility to infection. Leadless pacemakers (LPMs) may mitigate these risks compared with conventional transvenous pacemakers (TPMs), but long\u2010term comparative data in this population remain limited.\n                  \n                  \n                    Methods\n                    We conducted a retrospective cohort study using the TriNetX Research Network, including adults (\u2265\u200918 years) with ESRD on dialysis who underwent LPM or TPM implantation between May 2016 and December 2020. Propensity score matching (1:1) was performed using demographics and comorbidities. Outcomes assessed over up to 5 years included all\u2010cause hospitalization, heart failure hospitalization, device re\u2010intervention, device\u2010related complications, infection\u2010related hospitalization, pacemaker\u2010induced cardiomyopathy, and all\u2010cause mortality.\n                  \n                  \n                    Results\n                    \n                      After matching, 901 patients were included in each group with well\u2010balanced baseline characteristics. LPM implantation was associated with a significantly lower risk of device re\u2010intervention compared with TPM (4.1% vs. 9.3%; hazard ratio [HR] 0.44; 95% confidence interval [CI] 0.28\u20130.69;\n                      p\n                      \u2009&lt;\u20090.01). There were no significant differences between groups in all\u2010cause hospitalization (65.5% vs. 68.3%;\n                      p\n                      \u2009=\u20090.22), heart failure hospitalization (26.9% vs. 30.2%;\n                      p\n                      \u2009=\u20090.13), all\u2010cause mortality (37.5% vs. 35.3%;\n                      p\n                      \u2009=\u20090.34), device\u2010related complications (14.5% vs. 14.3%;\n                      p\n                      \u2009=\u20090.94), infection\u2010related hospitalization (1.6% vs. 2.1%;\n                      p\n                      \u2009=\u20090.35), or pacemaker\u2010induced cardiomyopathy (9.0% vs. 8.6%;\n                      p\n                      \u2009=\u20090.66).\n                    \n                  \n                  \n                    Conclusion\n                    In a large, propensity\u2010matched cohort of patients with ESRD on dialysis, LPMs were associated with fewer device re\u2010interventions and comparable long\u2010term clinical outcomes compared with TPMs.",
-    "summary": "This retrospective cohort study (n=901 per group after propensity matching) compared leadless pacemakers (LPMs) versus transvenous pacemakers (TPMs) in ESRD patients on dialysis and found that LPMs were associated with significantly lower device re-intervention rates (4.1% vs 9.3%; HR 0.44) with comparable outcomes for hospitalization, mortality, device-related complications, and infection risk over 5 years. The findings suggest LPMs may offer a safer alternative in this high-risk population, though clinical outcomes were otherwise similar between devices."
-  },
-  {
-    "title": "Leadless Pacing and Dialysis Patients: A Match Made in Heaven",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70380?af=R",
-    "doi": "10.1111/jce.70380",
-    "journal": "J Cardiovasc EP",
-    "date": "May 26, 2026",
-    "date_ts": 1779804536.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Comparison of Two Pulsed Field Ablation Systems for Atrial Fibrillation: One\u2010Year Outcomes From a Multicenter Registry",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70375?af=R",
-    "doi": "10.1111/jce.70375",
-    "journal": "J Cardiovasc EP",
-    "date": "May 26, 2026",
-    "date_ts": 1779778800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    While various pulsed field ablation (PFA) systems for atrial fibrillation (AF) ablation have become available in recent years, data comparing long\u2010term efficacy outcomes remain limited.\n                  \n                  \n                    Purpose\n                    To compare long\u2010term efficacy outcomes of two commercially available PFA systems to perform pulmonary vein isolation (PVI) for AF in a multicenter clinical setting.\n                  \n                  \n                    Methods\n                    We conducted an international, multicenter, registry study of patients with AF undergoing a first ablation between January 29, 2024, and September 1, 2024. Patients were treated with either the pentaspline catheter or the circular over\u2010the\u2010wire catheter in all centers. Endpoints included time to recurrence of atrial arrhythmias following a 2\u2010month blanking period and repeat ablation outcomes. Factors associated with recurrence were assessed.\n                  \n                  \n                    Results\n                    \n                      A total of 428 patients were included, of whom 231 (54.0%) were treated with the pentaspline catheter. Most patients (84.6%) underwent a PVI\u2010only procedure, with significantly longer procedure and LA dwell times observed in the circular catheter group (\n                      p\n                      \u2009&lt;\u20090.001). Acute procedural success was achieved in all patients. At 12 months, AF\u2010recurrence was observed in 33.5% of patients overall, with similar rates between groups (pentaspline catheter 34.1% vs. circular catheter 32.8% [log\u2010rank\n                      p\n                      \u2009=\u20090.93]). A longer time since AF diagnosis and persistent AF were associated with recurrence of AF. Repeat ablation was performed in 14.9% of patients.\n                    \n                  \n                  \n                    Conclusion\n                    In this study, we compared two commercially available PFA systems for primary PVI in AF patients. Both achieved high acute success and similar 12\u2010month AF recurrence rates, indicating comparable efficacy.",
-    "summary": "This international multicenter registry study (n=428) compared two pulsed field ablation (PFA) systems\u2014pentaspline versus circular over-the-wire catheters\u2014for pulmonary vein isolation in atrial fibrillation patients, finding comparable 12-month AF recurrence rates of approximately 33-34% between groups despite longer procedure times with the circular catheter. Both systems achieved 100% acute procedural success, with persistent AF and longer disease duration associated with higher recurrence risk."
-  },
-  {
-    "title": "Distribution of Peri-Device Leaks on TEE and Cardiac CT After WATCHMAN Implantation: A Multicenter Core-Lab Analysis",
-    "link": "https://doi.org/10.1093/europace/euag128",
-    "doi": "10.1093/europace/euag128",
-    "journal": "EP Europace",
-    "date": "May 26, 2026",
-    "date_ts": 1779753600.0,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
   }
 ]
