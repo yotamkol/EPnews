@@ -1,5 +1,57 @@
 [
   {
+    "title": "Clinical flaws in the breast cancer ADAM10 and atrial fibrillation study",
+    "link": "https://doi.org/10.1093/eurheartj/ehag491",
+    "doi": "10.1093/eurheartj/ehag491",
+    "journal": "European Heart Journal",
+    "date": "Jul 08, 2026",
+    "date_ts": 1783468800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Early recurrence of atrial tachyarrhythmia after catheter ablation and its associations with clinical outcomes, atrial fibrillation burden, and blanking period duration: A post hoc analysis of the CABANA trial",
+    "link": "https://doi.org/10.1093/europace/euag173",
+    "doi": "10.1093/europace/euag173",
+    "journal": "EP Europace",
+    "date": "Jul 07, 2026",
+    "date_ts": 1783382400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aim\n                    Early recurrence of atrial tachyarrhythmia (ERAT) after catheter ablation for atrial fibrillation (AF) is common, yet its prognostic significance and implications for the duration of the blanking period remain uncertain. We aimed to evaluate the association between ERAT and post-ablation clinical outcomes, late arrhythmia recurrence, and AF burden, and to explore the optimal duration of the blanking period.\n                  \n                  \n                    Methods\n                    This post hoc analysis included 811 patients from the CABANA trial who underwent catheter ablation and had trial-specific electrocardiographic monitoring data available. ERAT was defined as any episode of AF, atrial flutter, or atrial tachycardia lasting &amp;gt;30\u2005seconds within the 90-day blanking period. The primary outcome was a composite of all-cause mortality, disabling stroke, serious bleeding, or cardiac arrest. Secondary outcomes included cardiovascular hospitalisation and late atrial tachyarrhythmia recurrence.\n                  \n                  \n                    Results\n                    During a median 4 years (IQR 2.5-5.2) follow-up, ERAT occurred in 567 patients (69.9%). Patients with ERAT had higher risks of cardiovascular hospitalisation [adjusted hazard ratio (aHR) 1.35, 95% confidence interval (CI) 1.07-1.71] and of the composite outcome of all-cause mortality or cardiovascular hospitalisation (aHR 1.33, 95% CI 1.07-1.66), but no increased risk of the primary composite outcome. ERAT was independently associated with late atrial tachyarrhythmia recurrence (aHR 1.35, 95% CI 1.07-1.71). Prognostic relevance varied by timing, with the strongest association observed for ERAT occurring between 60 and 90 days after ablation (aHR 1.80, 95% CI 1.16\u20132.79).Receiver operating characteristic analysis identified 58 days as the optimal threshold for predicting late arrhythmia recurrence (AUC 0.727).\n                  \n                  \n                    Conclusions\n                    ERAT was associated with higher risks of cardiovascular hospitalisation and late atrial tachyarrhythmia recurrence in a time-dependent manner, supporting a shorter blanking period to better identify patients at risk of adverse rhythm outcomes.",
+    "summary": "This post hoc analysis of 811 CABANA trial patients found that early recurrent atrial tachyarrhythmia (ERAT) within 90 days of AF ablation occurred in 70% of patients and was independently associated with increased cardiovascular hospitalization risk and late arrhythmia recurrence in a time-dependent manner, with ERAT occurring 60-90 days post-ablation showing the strongest prognostic association, suggesting an optimal blanking period of 58 days for risk stratification."
+  },
+  {
+    "title": "Epicardial tissue heating during pulsed field ablation assessed using a novel experimental model: Implications for collateral damage",
+    "link": "https://doi.org/10.1093/europace/euag166",
+    "doi": "10.1093/europace/euag166",
+    "journal": "EP Europace",
+    "date": "Jul 07, 2026",
+    "date_ts": 1783382400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Identifying the Presence and Characteristics of Mid-Myocardial and Epicardial Fibrosis From Intracardiac Electrograms in Patients Undergoing Ventricular Arrhythmia Ablation Using a Transformer-Based Self-Supervised Classifier",
+    "link": "https://doi.org/10.1161/circep.125.014765",
+    "doi": "10.1161/circep.125.014765",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Jul 07, 2026",
+    "date_ts": 1783382400.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    Catheter ablation is an essential tool for ventricular arrhythmia management, yet sustained procedural success is hindered by the limited ability to identify nonendocardial arrhythmogenic substrates during the procedure. Although delayed enhancement cardiac magnetic resonance imaging is the reference standard for detecting myocardial fibrosis, barriers including cost, workflow complexity, and artifacts in patients with implantable devices limit its preprocedural use. We hypothesized that intracardiac electrograms provide sufficient information to infer scar beyond the endocardial surface and that this information can be harnessed by machine learning techniques.\n                  \n                  \n                    METHODS:\n                    This retrospective study included a total of 131\u2009584 cardiac contact electrogram (EGM) signals collected from 46 patients undergoing ventricular arrhythmia ablation. A stratified patient-wise split was used to create the training/validation set (N=37) and the testing set (N=9), while ensuring a similar distribution of scar types. We developed a novel image-processing workflow to create scar labels using coregistered cardiac magnetic resonance imaging and electroanatomic mapping surface meshes. We developed a transformer-based self-supervised model, EGM2Scar-AI, alongside basic convolutional neural network models using either EGM waveforms or EGM-derived short-time Fourier transform spectrograms.\n                  \n                  \n                    RESULTS:\n                    The average task-specific area under the receiver operating characteristic curve of both the basic and short-time Fourier transform-based convolutional neural networks was 0.729 (0.725\u20130.732) and 0.729 (0.726\u20130.733), respectively, while EGM2Scar-AI performed significantly better with an average area under the receiver operating characteristic curve of 0.822 (0.819\u20130.825) across all 3 scar types. All models performed better on endocardial and mid-myocardial fibrosis identification, with a modest reduction in performance for epicardial fibrosis. Sensitivity improved significantly with the transformer-based architecture without appreciable changes in specificity.\n                  \n                  \n                    CONCLUSIONS:\n                    Our study demonstrates that routine intracardiac electrograms enable the identification of endocardial, mid-myocardial, and epicardial scar using a transformer-based self-supervised deep learning model. Ultimately, our model has the potential to provide magnetic resonance imaging-like fibrosis maps during EP procedures without the need for external imaging and to increase the data set size for patient-specific models in ventricular arrhythmia research.",
+    "summary": "This retrospective study of 131,584 intracardiac electrograms from 46 patients developed a transformer-based deep learning model (EGM2Scar-AI) that identifies endocardial, mid-myocardial, and epicardial myocardial scar during ventricular arrhythmia ablation procedures, achieving an area under the receiver operating characteristic curve of 0.822 compared to 0.729 for conventional convolutional neural network approaches. The model enables real-time scar detection from routine electrograms without requiring preprocedural cardiac magnetic resonance imaging, potentially improving ablation success by identifying nonendocardial arrhyt"
+  },
+  {
     "title": "Removal of tine-based leadless pacemakers \u2013 Insights from a large multicenter experience",
     "link": "https://doi.org/10.1093/europace/euag157",
     "doi": "10.1093/europace/euag157",
@@ -134,6 +186,56 @@
     "hot": false,
     "abstract": "Mateusz Tajstra reports conference fees and proctoring honoraria from Abbott, Biotronik and Boston Scientific. Maciej Dyrbu\u015b reports conference fees from Abbott, and speaker fees from Biotronik. All other authors declare no conflicts of interest relevant to the creation of this manuscript. The data supporting the findings of this study are available from the corresponding author upon reasonable request.",
     "summary": "I don't have an abstract to summarize\u2014the text provided only contains a conflict of interest disclosure statement. Please provide the actual research abstract (objectives, methods, results, and conclusions sections) for me to create the requested summary."
+  },
+  {
+    "title": "Risks of discontinuation of anticoagulation after atrial fibrillation ablation in high-risk patients",
+    "link": "https://doi.org/10.1093/europace/euag154",
+    "doi": "10.1093/europace/euag154",
+    "journal": "EP Europace",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Monitoring of ventricular rate in atrial fibrillation patients through an app based on pulse-plethysmography",
+    "link": "https://doi.org/10.1093/europace/euag161",
+    "doi": "10.1093/europace/euag161",
+    "journal": "EP Europace",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical outcomes of continuing vs. discontinuing oral anticoagulation after atrial fibrillation ablation: an updated systematic review and meta-analysis of observational studies and randomized controlled trials",
+    "link": "https://doi.org/10.1093/europace/euag104",
+    "doi": "10.1093/europace/euag104",
+    "journal": "EP Europace",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Continuation of oral anticoagulation (OAC) after successful atrial fibrillation (AF) ablation remains debated. With recent randomized controlled trials addressing this question, an updated meta-analysis is needed to inform clinical decision-making.\n                  \n                  \n                    Methods and results\n                    A comprehensive search of PubMed/MEDLINE, Embase, Web of Science, and Scopus was performed through 24 November 2025, to identify studies comparing clinical outcomes in patients who continued vs. discontinued OAC after AF catheter ablation. Overall, continuing OAC was not significantly associated with the risk of stroke/TIA (OR: 1.48, 95% CI: 0.84\u20132.60; P = 0.16). However, when stratified by CHA2DS2-VASc score, patients with scores \u22652 had a significantly lower risk of stroke/TIA with OAC continuation (OR: 0.42, 95% CI: 0.18\u20130.95; P = 0.04). This protective effect was further supported in studies with well-balanced baseline risk between groups, where OAC continuation was associated with a significantly lower risk of stroke/TIA (OR: 0.50, 95% CI: 0.34\u20130.72; P &amp;lt; 0.01). Conversely, OAC continuation significantly increased the risk of major bleeding. No significant association was observed for major adverse cardiac events or all-cause mortality.\n                  \n                  \n                    Conclusion\n                    In patients with CHA2DS2-VASc scores \u22652, particularly when baseline risk is well-balanced between groups, continuation of OAC after AF ablation is associated with a significantly lower risk of stroke/TIA. These findings support continuing OAC in higher-risk patients (CHA2DS2-VASc \u22652). However, given the significantly increased risk of major bleeding associated with OAC continuation, the decision to continue anticoagulation in lower-risk patients requires careful consideration, as no clear thromboembolic benefit was observed in this population.",
+    "summary": "This meta-analysis of randomized controlled trials comparing OAC continuation versus discontinuation after AF ablation found that while overall stroke/TIA risk was not significantly reduced with continuation, patients with CHA2DS2-VASc scores \u22652 demonstrated significantly lower stroke/TIA risk with continued OAC (OR 0.42), though this was offset by increased major bleeding risk. The findings support OAC continuation in higher-risk patients but suggest discontinuation may be appropriate in lower-risk populations given the bleeding-benefit tradeoff."
+  },
+  {
+    "title": "Transcatheter Suture Embolization for Ventricular Premature Beats Originating from the Distal Great Cardiac Vein: A Case Report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.001",
+    "doi": "10.1016/j.hrcr.2026.07.001",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
   },
   {
     "title": "Insulin-treated type 2 diabetes is associated with increased mortality after transvenous lead extraction for device infection: the IN2DEEP study",
@@ -6289,108 +6391,5 @@
       "Other"
     ],
     "hot": false
-  },
-  {
-    "title": "Diagnostic Dilemma in the Leadless Era: Pacemaker Failure or Effective Communication?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023969?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "May 27, 2026",
-    "date_ts": 1779847781.134423,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Lower Risk of Dementia with Early Rhythm Control Therapy and a Healthy Lifestyle in Patients with New-Onset Atrial Fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024069?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "May 27, 2026",
-    "date_ts": 1779847781.134383,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Standardized Parallel Pace-Capture Testing as a Functional Endpoint for Lesion Validation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023957?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "May 27, 2026",
-    "date_ts": 1779847781.134242,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Bradyarrhythmias and Brugada Syndrome: Clinical features, long-term outcome and prognostic implications\n                    <i>- the BruBra Study \u2013</i>",
-    "link": "https://doi.org/10.1093/europace/euag131",
-    "doi": "10.1093/europace/euag131",
-    "journal": "EP Europace",
-    "date": "May 27, 2026",
-    "date_ts": 1779840000.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsed Field Ablation Versus Sham to Treat Atrial Fibrillation: The PFA-SHAM Randomized Clinical Trial",
-    "link": "https://doi.org/10.1161/circulationaha.126.079484",
-    "doi": "10.1161/circulationaha.126.079484",
-    "journal": "Circulation",
-    "date": "May 26, 2026",
-    "date_ts": 1779753600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Catheter ablation for atrial fibrillation (AF) is one of the most common cardiovascular procedures being performed worldwide. Despite the large body of evidence of its effectiveness, with a single exception, prior ablation studies were largely unblinded trials. Accordingly, residual concerns remained about placebo effects, both for AF recurrence and, in particular, on subjective outcomes such as quality of life or anxiety. Here, we compared pulsed field ablation (PFA) with a sham procedure to treat patients with symptomatic AF.\n                  \n                  \n                    METHODS:\n                    This prospective, sham-controlled, single-blind, randomized clinical trial with blinded end-point assessment enrolled patients with AF that was highly symptomatic (Atrial Fibrillation Effect on Quality-of-Life score &lt;50). Patients were assigned 1:1 to PFA or a sham procedure. All participants received implantable cardiac monitors for continuous rhythm monitoring during follow-up. The 6-month co\u2013primary outcomes were (1) time to first recurrence of atrial tachyarrhythmia and (2) changes from baseline in Atrial Fibrillation Effect on Quality-of-Life scores compared between groups. Secondary outcomes were AF burden and psychological distress (assessed by the Hospital Anxiety and Depression Scale [HADS]).\n                  \n                  \n                    RESULTS:\n                    Patients (n=60) were randomized to PFA or sham. At 6 months, the first co\u2013primary end point of AF recurrence was met in 2 patients (6.7%) who underwent PFA and 25 patients (83.3%) who underwent sham (posterior hazard ratio, 19.6 [95% bayesian credible intervals, 6.7\u201376.9]; posterior probability of superiority &gt;0.99). For the second co\u2013primary end point, Atrial Fibrillation Effect on Quality-of-Life scores showed greater improvement from baseline with PFA than sham (improved by 43.9+18.1 points versus 11.3+27.9 points; posterior median difference, 32.6 [95% bayesian credible interval, 20.2\u201344.9]; posterior probability of superiority &gt;0.99). AF burden at 6 months was significantly lower in the PFA than the sham group (0 [0\u20130] versus 0.43 [0.04\u20133.47]; between group median difference, \u22120.39 [95% credible interval, \u22122.5 to \u22120.1], posterior probability of superiority &gt;0.99). The Hospital Anxiety and Depression Scale score changed by \u22124 points (\u22127.8 to \u22122.0) with PFA and by \u22120.5 (\u22124.5 to 1.0) with sham (group median difference, \u22123.5 [95% credible interval, \u22126.0 to \u22121.0]; posterior probability of superiority &gt;0.99).\n                  \n                  \n                    CONCLUSIONS:\n                    In patients with AF, PFA was superior to sham in reducing arrhythmia recurrences and burden and improving quality of life and AF-associated psychological distress.",
-    "summary": "This prospective, sham-controlled, single-blind randomized clinical trial (n=60) compared pulsed field ablation (PFA) versus sham procedure for symptomatic atrial fibrillation and found PFA significantly superior to sham at 6 months for reducing arrhythmia recurrence (6.7% vs 83.3%), improving quality of life scores (+43.9 vs +11.3 points), reducing AF burden, and decreasing anxiety/depression symptoms. These results demonstrate genuine therapeutic benefit of PFA beyond placebo effects on both objective rhythm outcomes and subjective patient-reported outcomes."
-  },
-  {
-    "title": "Early Intervention for Early Recurrence After Atrial Fibrillation Ablation: Is Atrial Remodeling the True Mechanism?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70305?af=R",
-    "doi": "10.1111/pace.70305",
-    "journal": "PACE",
-    "date": "May 26, 2026",
-    "date_ts": 1779813207.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Compound Heterozygous SLC12A3 Variants in Gitelman Syndrome Presenting With Ventricular Fibrillation and Cardiac Arrest",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70302?af=R",
-    "doi": "10.1111/pace.70302",
-    "journal": "PACE",
-    "date": "May 26, 2026",
-    "date_ts": 1779812968.0,
-    "tags": [
-      "VT",
-      "SCD"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Gitelman syndrome (GS) is an autosomal recessive salt\u2010losing tubulopathy characterized by hypokalemia, hypomagnesemia, and metabolic alkalosis. Although often considered benign, GS may predispose to malignant ventricular arrhythmias.\n                  \n                  \n                    Case presentation\n                    \n                      A 41\u2010year\u2010old male presented with cardiac arrest due to ventricular fibrillation (VF). Severe hypokalemia (1.6 mmol/L) and hypomagnesemia were identified, with no structural heart disease on imaging. Recurrent VF persisted despite antiarrhythmic therapy and resolved only after electrolyte correction. Genetic testing revealed pathogenic\u00a0\n                      SLC12A3\n                      \u00a0variants.\n                    \n                  \n                  \n                    Conclusion\n                    GS can cause an electrical storm in structurally normal hearts; prompt recognition and electrolyte management are essential.",
-    "summary": "This case report describes a 41-year-old male with Gitelman syndrome (SLC12A3 mutations) who presented with cardiac arrest due to ventricular fibrillation triggered by severe hypokalemia (1.6 mmol/L) and hypomagnesemia, which resolved only after electrolyte correction despite antiarrhythmic therapy and absence of structural heart disease. The case highlights that Gitelman syndrome can precipitate life-threatening arrhythmias in structurally normal hearts, requiring urgent electrolyte repletion."
-  },
-  {
-    "title": "Clinical Superiority of Active Fixation Quadripolar Leads in Cardiac Resynchronization Therapy",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70303?af=R",
-    "doi": "10.1111/pace.70303",
-    "journal": "PACE",
-    "date": "May 26, 2026",
-    "date_ts": 1779812007.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    The effectiveness of cardiac resynchronization therapy (CRT) depends on stable and optimal left ventricular (LV) lead placement. The Attain Stability Quadripolar (ASQ) lead uses active fixation to improve performance. We aimed to assess the clinical superiority of ASQ leads over conventional quadripolar leads.\n                  \n                  \n                    Methods\n                    This single\u2010center retrospective cohort study included 65 CRT recipients (31 ASQ, 34 non\u2010ASQ). Primary endpoints were lead stability and CRT response at 6 months (relative LVESV reduction and absolute LVEF increase); secondary endpoints included pacing thresholds, QRS changes, and LV functional parameters.\n                  \n                  \n                    Results\n                    \n                      No intraoperative dislodgement occurred with ASQ leads, versus six cases (17.6%) in the non\u2010ASQ group (\n                      p\n                      = 0.014). At 6 months, pacing thresholds were lower with ASQ (1.35 \u00b1 0.81\u00a0V vs. 1.80 \u00b1 0.77\u00a0V,\n                      p\n                      = 0.047). In patients with left bundle branch block, reverse remodeling as assessed by LVESV reduction was more frequent with ASQ (\u226515%: 82%\u00a0vs. 29%,\n                      p\n                      = 0.008; \u226530%: 64%\u00a0vs. 21%,\n                      p\n                      = 0.032), and this was accompanied by greater improvement in LVEF (\u226510 percentage points: 73%\u00a0vs. 21%,\n                      p\n                      = 0.01; \u226520 points: 64%\u00a0vs. 21%,\n                      p\n                      = 0.032). ASQ leads provided stable fixation across vessel diameters from 1.9\u20135.4\u00a0mm, including large veins &gt;4.0\u00a0mm.\n                    \n                  \n                  \n                    Conclusions\n                    ASQ leads offer superior stability, lower pacing thresholds, and higher CRT response, supporting wider use of active fixation technology in CRT.",
-    "summary": "This single-center retrospective cohort study (n=65; 31 ASQ vs. 34 conventional quadripolar leads) demonstrated that Attain Stability Quadripolar leads with active fixation significantly reduced intraoperative dislodgement (0% vs. 17.6%), achieved lower pacing thresholds at 6 months, and produced superior reverse remodeling in LBBB patients (82% with \u226515% LVESV reduction vs. 29%). ASQ leads appear clinically superior for CRT delivery through improved mechanical stability and electrical performance."
   }
 ]
