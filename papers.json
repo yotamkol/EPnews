@@ -1260,6 +1260,18 @@
     "hot": false
   },
   {
+    "title": "Is there an effect of gender on phenotypical expression of genetically mediated sinus node dysfunction?",
+    "link": "https://doi.org/10.1093/europace/euag177",
+    "doi": "10.1093/europace/euag177",
+    "journal": "EP Europace",
+    "date": "Jul 09, 2026",
+    "date_ts": 1783555200.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
     "title": "Clinical flaws in the breast cancer ADAM10 and atrial fibrillation study",
     "link": "https://doi.org/10.1093/eurheartj/ehag491",
     "doi": "10.1093/eurheartj/ehag491",
@@ -1488,6 +1500,43 @@
     "hot": false,
     "abstract": "Mateusz Tajstra reports conference fees and proctoring honoraria from Abbott, Biotronik and Boston Scientific. Maciej Dyrbu\u015b reports conference fees from Abbott, and speaker fees from Biotronik. All other authors declare no conflicts of interest relevant to the creation of this manuscript. The data supporting the findings of this study are available from the corresponding author upon reasonable request.",
     "summary": "I don't have an abstract to summarize\u2014the text provided only contains a conflict of interest disclosure statement. Please provide the actual research abstract (objectives, methods, results, and conclusions sections) for me to create the requested summary."
+  },
+  {
+    "title": "Radiofrequency ablation with a conventional solid tip catheter in contact with an ICD coil causing inadvertent ventricular fibrillation",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.041",
+    "doi": "10.1016/j.hrcr.2026.06.041",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "VT",
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Timely transmission of alert events and prompt management of ventricular arrhythmias using app-based remote monitoring in a patient with cardiac implantable electronic devices",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.039",
+    "doi": "10.1016/j.hrcr.2026.06.039",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Diffuse involvement of the cardiac electrical system in hereditary hemochromatosis: insights from high-density atrial mapping",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.002",
+    "doi": "10.1016/j.hrcr.2026.07.002",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
   },
   {
     "title": "TRANSATRIAL AIR\u2013ASSISTED EPICARDIAL VT ABLATION FOR HYPERTROPHIC CARDIOMYOPATHY AND MANAGEMENT OF POST-PROCEDURAL RIGHT ATRIAL THROMBUS",
@@ -6322,54 +6371,6 @@
     "tags": [
       "SCD",
       "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Determinants and Outcomes of Late Electrical Storm in Patients Supported by Left Ventricular Assist Device",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024136?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "May 31, 2026",
-    "date_ts": 1780193459.544749,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Dual-Chamber Leadless Pacemakers versus Transvenous Pacemakers: A One-Year Retrospective Analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024161?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "May 31, 2026",
-    "date_ts": 1780193459.544715,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pacing at the posterosuperior bundle area preserves interatrial synchrony compared with right atrial appendage pacing: an echocardiographic study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024112?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "May 31, 2026",
-    "date_ts": 1780193459.544676,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "High Voltage-per-Second Signals Within Low-Voltage Areas Localize Residual Conduction Channels in Atrial Scar on the Affera Mapping System",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024082?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "May 31, 2026",
-    "date_ts": 1780193459.544637,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
