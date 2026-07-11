@@ -1,5 +1,150 @@
 [
   {
+    "title": "MAGNETOcardiography Parameters to Predict Sudden Cardiac Death (MAGNETO-SCD) or Ventricular Events From Implantable Cardioverter Defibrillators",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005335?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 11, 2026",
+    "date_ts": 1783733133.386426,
+    "tags": [
+      "SCD",
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Comparison of Pacing Lead Design on Left Bundle Branch Pacing Outcomes: LEAD-LBBP Randomized Clinical Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005566?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 11, 2026",
+    "date_ts": 1783733133.386391,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Beta-Blockers and Exercise Performance in Children with Long QT Syndrome",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600558X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 11, 2026",
+    "date_ts": 1783733133.386359,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Epinephrine Challenge Test: For Whom?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005529?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 11, 2026",
+    "date_ts": 1783733133.386327,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Beyond the Surface: Redefining the \"Field of View\" for Unipolar Voltage Mapping",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005542?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 11, 2026",
+    "date_ts": 1783733133.386266,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Preclinical and Benchtop Evaluation of a Dedicated Tool for Insertable Cardiac Monitor Explantation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003053?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 11, 2026",
+    "date_ts": 1783733133.212235,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Infection experience and management in the extravascular implantable cardioverter- defibrillator: Retrospective analysis from the Pivotal Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003041?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 11, 2026",
+    "date_ts": 1783733133.212199,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Optimization of Nonresponders to Left Bundle Branch Area Pacing Using Electrical Dyssynchrony Mapping",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003016?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 11, 2026",
+    "date_ts": 1783733133.212163,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Single-chamber retrievable leadless pacemaker in adult congenital heart disease: a single-center experience",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003065?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 11, 2026",
+    "date_ts": 1783733133.212124,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Prevalence and Key Drivers of Transvenous Lead Extraction for Nonfunctional Leads: A 5-Year Multicenter Real-World Analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003028?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 11, 2026",
+    "date_ts": 1783733133.212052,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Latent Class Analysis to Identify Phenotype-Specific Treatment Effects of Catheter Ablation Versus Drug Therapy in Patients with Atrial Fibrillation: A Secondary Analysis of the CABANA Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025403?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 11, 2026",
+    "date_ts": 1783733133.017951,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Myocardial Edema After Pulsed Field Ablation: Underrecognized Tissue Effects with Implications for concomitant LAA occlusion",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025439?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 11, 2026",
+    "date_ts": 1783733133.017762,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Demystifying Arrhythmia Surveillance in Cardiac Amyloidosis With EXCALIBUR",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726065770?dgcid=rss_sd_all",
     "doi": null,
@@ -6222,155 +6367,6 @@
     "date_ts": 1780272000.0,
     "tags": [
       "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "First-in-Human Application of a Technique to Enhance the Safety and Efficacy of Radiofrequency Ablation Close to Coronary Artery",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.05.017",
-    "doi": "10.1016/j.hrcr.2026.05.017",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Leadless pacemaker implantation guided by transthoracic echocardiography with no iodinated contrast administration and minimal fluoroscopy in a 13-week pregnant woman",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.05.016",
-    "doi": "10.1016/j.hrcr.2026.05.016",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Percutaneous left atrial appendage closure following catheter ablation therapy of atrial fibrillation: outcomes stratified by bleeding risk \u2013 a sub-analysis of the OPTION study",
-    "link": "https://doi.org/10.1093/europace/euag093",
-    "doi": "10.1093/europace/euag093",
-    "journal": "EP Europace",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Aims\n                    Concerns have been raised over the safety and necessity of continuing oral anticoagulation (OAC) in patients following catheter ablation for atrial fibrillation (AF). OPTION demonstrated the safety and efficacy of left atrial appendage closure (LAAC) in a post-ablation population. We sought to analyse the impact of baseline bleeding risk, per HAS-BLED scores, on the outcomes for patients in a pre-specified sub-analysis.\n                  \n                  \n                    Methods and results\n                    Patients with AF and high stroke risk undergoing catheter ablation were randomly assigned to LAAC vs. OAC in OPTION and were stratified by HAS-BLED score: 0, 1, 2, \u22653. OPTION enrolled 1600 patients (CHA2DS2-VASc score: 3.5 \u00b1 1.3; HAS-BLED score: 1.2 \u00b1 0.8); randomized 1:1 to ablation/LAAC or ablation/OAC. Primary effectiveness (all-cause death/stroke/systemic embolism) and safety (bleeding composite) endpoints were directionally similar in HAS-BLED subgroups; both thromboembolic and bleeding event rates were higher in patients with increasing HAS-BLED score. A significant reduction in primary safety bleeding events was noted in favour of LAAC across HAS-BLED subgroups, with more striking reductions noted for lower HAS-BLED scores of 0 (n = 265; hazard ratio: 0.25; 95% confidence interval: 0.20, 0.50) and 1 (n = 890; hazard ratio: 0.41, 95% confidence interval: 0.27\u20130.61).\n                  \n                  \n                    Conclusion\n                    Regardless of bleeding risk, LAAC is comparable to OAC in stroke protection while demonstrating greater freedom from bleeding in a post-ablation AF population, even in patients with low HAS-BLED scores. The OPTION study highlights an opportunity to mitigate future bleeding risk with a strategy of LAAC after ablation in patients deemed at high risk of stroke according to clinical guidelines.\n                  \n                  \n                    Trial registration number\n                    NCT03795298",
-    "summary": "This randomized controlled trial of 1,600 AF patients undergoing catheter ablation compared left atrial appendage closure (LAAC) versus oral anticoagulation (OAC) and found that LAAC provided comparable stroke protection to OAC while significantly reducing bleeding events across all HAS-BLED score subgroups, with the greatest bleeding risk reduction in patients with lower bleeding risk scores (HAS-BLED 0-1)."
-  },
-  {
-    "title": "Focal Monopolar Pulsed Field Ablation for Focal Right Atrial Tachycardia: Feasibility and Safety from a Single-Centre Experience",
-    "link": "https://doi.org/10.1093/europace/euag129",
-    "doi": "10.1093/europace/euag129",
-    "journal": "EP Europace",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Nearly Zero VA-Interval Trap: Prolonged Lower Common Pathway in Slow\u2013Slow AVNRT",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004445?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "May 31, 2026",
-    "date_ts": 1780193459.824348,
-    "tags": [
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Significant Tricuspid Regurgitation in Patients With Arrhythmogenic Right Ventricular Cardiomyopathy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003610?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "May 31, 2026",
-    "date_ts": 1780193459.824316,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Who Truly Benefits?: Competing Risks and the Ongoing Challenge of Patient Selection for Primary Prevention ICD Therapy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003701?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "May 31, 2026",
-    "date_ts": 1780193459.824282,
-    "tags": [
-      "SCD",
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Outcomes of Patients With Reduced Left Ventricular Function Undergoing Left Atrial Appendage Occlusion",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003543?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "May 31, 2026",
-    "date_ts": 1780193459.824247,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Beyond a Marker: The Long and Short of the PR Interval in Atrial Remodeling",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003725?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "May 31, 2026",
-    "date_ts": 1780193459.824213,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Left Atrial Dilatation on Catheter Ablation Outcomes for Persistent Atrial Fibrillation: Does Size Matter?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004263?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "May 31, 2026",
-    "date_ts": 1780193459.824173,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Frequency-Based Inference of Ventricular Tachycardia Circuit Dimensionality and Isthmus Depth in Post-Myocarditis Substrate",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003609?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "May 31, 2026",
-    "date_ts": 1780193459.824098,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Risk Stratification in Short QT Syndrome",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024094?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "May 31, 2026",
-    "date_ts": 1780193459.544783,
-    "tags": [
-      "SCD",
-      "Genetics"
     ],
     "hot": false
   }
