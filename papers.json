@@ -1,5 +1,31 @@
 [
   {
+    "title": "Real-World Experience with a New Vascular Closure Device in Patients Undergoing Electrophysiology Procedures with Large Bore Sheaths",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003077?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 12, 2026",
+    "date_ts": 1783819641.156122,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Influenza vaccination, incident atrial fibrillation, and cardiovascular outcomes",
+    "link": "https://doi.org/10.1093/eurheartj/ehag543",
+    "doi": "10.1093/eurheartj/ehag543",
+    "journal": "European Heart Journal",
+    "date": "Jul 11, 2026",
+    "date_ts": 1783728000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Influenza infection triggers cardiovascular events, and vaccination confers cardiovascular benefit in high-risk populations. Its role in preventing incident atrial fibrillation (AF) and cardiovascular outcomes in clinical practice remains uncertain. These associations were evaluated using a real-world target-trial emulation framework.\n                  \n                  \n                    Methods\n                    A retrospective cohort study was conducted using the TriNetX Global Collaborative Federated Research Data Network including adults with a routine healthcare visit in 2022. Influenza vaccination within the preceding year defined exposure; comparators had no recorded vaccination. A 1:1 propensity score matching across 65 baseline variables was applied. Outcomes included incident AF, cardiovascular events, and mortality, with subgroup analyses by age and baseline cardiovascular disease.\n                  \n                  \n                    Results\n                    After matching, 276 888 patients (138 444 per group) were included with excellent covariate balance. During a mean follow-up of 2.7 \u00b1 0.7 years, influenza vaccination was associated with a significantly lower risk of incident AF [hazard ratio (HR) 0.80, 95% confidence interval (CI) 0.76\u20130.84; P &amp;lt; .0001]. The absolute annualized incidence of AF was 0.9% in vaccinated patients vs 1.1% in non-vaccinated patients. Vaccinated patients also had lower risks of all-cause mortality (HR 0.85, 95% CI 0.82\u20130.89), myocardial infarction (HR 0.91, 95% CI 0.86\u20130.97), incident heart failure (HR 0.92, 95% CI 0.88\u20130.96), and cardiovascular-related hospitalization (HR 0.97, 95% CI 0.95\u20130.99). Associations were directionally consistent across age and cardiovascular disease subgroups, without significant effect modification.\n                  \n                  \n                    Conclusions\n                    In a large retrospective observational real-world cohort, influenza vaccination was associated with lower risks of incident AF and multiple cardiovascular outcomes. These findings support vaccination as a potential upstream strategy for AF prevention and highlight the need for randomized trials specifically designed to address AF-related outcomes.",
+    "summary": "This retrospective cohort study of 276,888 propensity-matched adults using the TriNetX database found that influenza vaccination within the preceding year was associated with significantly reduced risks of incident atrial fibrillation (HR 0.80), all-cause mortality (HR 0.85), myocardial infarction (HR 0.91), and heart failure (HR 0.92) over mean follow-up of 2.7 years. The findings suggest influenza vaccination may serve as a preventive strategy for atrial fibrillation and other cardiovascular outcomes, though the authors acknowledge the observational design and recommend randomized trials to confirm causality."
+  },
+  {
     "title": "MAGNETOcardiography Parameters to Predict Sudden Cardiac Death (MAGNETO-SCD) or Ventricular Events From Implantable Cardioverter Defibrillators",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005335?dgcid=rss_sd_all",
     "doi": null,
@@ -141,6 +167,30 @@
     "date_ts": 1783733133.017762,
     "tags": [
       "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed Field Energy: A Superior Approach for Ablation of Paroxysmal Atrial Fibrillation?",
+    "link": "https://doi.org/10.1093/europace/euag171",
+    "doi": "10.1093/europace/euag171",
+    "journal": "EP Europace",
+    "date": "Jul 11, 2026",
+    "date_ts": 1783728000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A Coronary Anatomy\u2013Guided Myocardial Infarction Strategy for Optimizing Survival and Ventricular Tachycardia Inducibility in a Porcine Model",
+    "link": "https://doi.org/10.1093/europace/euag176",
+    "doi": "10.1093/europace/euag176",
+    "journal": "EP Europace",
+    "date": "Jul 11, 2026",
+    "date_ts": 1783728000.0,
+    "tags": [
+      "VT"
     ],
     "hot": false
   },
@@ -1645,6 +1695,18 @@
     "hot": false,
     "abstract": "Mateusz Tajstra reports conference fees and proctoring honoraria from Abbott, Biotronik and Boston Scientific. Maciej Dyrbu\u015b reports conference fees from Abbott, and speaker fees from Biotronik. All other authors declare no conflicts of interest relevant to the creation of this manuscript. The data supporting the findings of this study are available from the corresponding author upon reasonable request.",
     "summary": "I don't have an abstract to summarize\u2014the text provided only contains a conflict of interest disclosure statement. Please provide the actual research abstract (objectives, methods, results, and conclusions sections) for me to create the requested summary."
+  },
+  {
+    "title": "Mechanical septal debulking to enable left bundle branch pacing through dense septal scar: a bailout technique.",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.003",
+    "doi": "10.1016/j.hrcr.2026.07.003",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
   },
   {
     "title": "Radiofrequency ablation with a conventional solid tip catheter in contact with an ICD coil causing inadvertent ventricular fibrillation",
@@ -6305,68 +6367,6 @@
     "date_ts": 1780272000.0,
     "tags": [
       "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Atrial resynchronization: an overlooked concept in heart failure and conduction system pacing: review of selected literature with emphasis on atrial anatomy",
-    "link": "https://doi.org/10.1093/europace/euag088",
-    "doi": "10.1093/europace/euag088",
-    "journal": "EP Europace",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Aims\n                    Unlike ventricular electrical disease, the impact of similar atrial disease on cardiac function has received insufficient importance. We aimed to examine data on atrial anatomy, electrical disease, and pacing to ameliorate abnormalities, offering pointers towards future practice.\n                  \n                  \n                    Methods and results\n                    We used PubMed to explore atrial anatomy, activation, and pacing aiming to improve function. From inception of pacing, causes of deterioration in ventricular systolic function went unrecognized. Their eventual recognition led to fresh pacing strategies, termed conduction system pacing, which have yielded improved and preserved long-term ventricular function: now standard practice. Study of atrial anatomy/conduction implies that similar approaches may improve atrial function and also reduce incidence of atrial fibrillation. Impact of atrial electrical disease on diastolic and subsequent ventricular systolic function has been ignored, despite data showing how pacing alternative atrial sites can abbreviate atrial activation and improve ventricular filling: methods that have not been widely adopted. Comprehension of atrial anatomy/conduction underpins abandonment of right atrial appendage pacing paralleling the move away from right ventricular apical pacing on similar principles.\n                  \n                  \n                    Conclusion\n                    When treating heart failure, atrial resynchronization should be considered along with ventricular resynchronization. Crucially, convenient pacing sites have been outmoded by active-fixation leads that can be placed at stimulation sites approximating normal conduction, including the atria; achievement hinges on understanding atrial anatomy and activation. Atrial resynchronization may significantly improve cardiac function where dyssynchrony relates to atrial disease/conduction delay, but more evidence of benefits must be collected. As resynchronization therapy moves forward, there should be parallel focus on evaluating coordination of atrial activation and timing with respect to the ventricles.",
-    "summary": "This narrative review synthesizes literature on atrial anatomy and electrical conduction to propose that atrial resynchronization pacing\u2014analogous to successful conduction system pacing strategies for ventricular dysfunction\u2014may improve cardiac function and reduce atrial fibrillation incidence by optimizing atrial activation and ventricular filling. The authors argue that current pacing practices underutilize atrial site selection and recommend systematic evaluation of atrial-ventricular coordination as resynchronization therapy advances."
-  },
-  {
-    "title": "Focal Pulsed-Field Ablation at the Coronary Sinus Ostium in the Presence of a Left Ventricular Lead: A Case Report",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.001",
-    "doi": "10.1016/j.hrcr.2026.06.001",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left Bundle Branch Optimized Cardiac Resynchronization Therapy with Leadless LV endocardial pacing (LOT-endo CRT)",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.04.028",
-    "doi": "10.1016/j.hrcr.2026.04.028",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Zero-fluoroscopy cardioneuroablation in a pregnant woman with cardioinhibitory neurally mediated syncope",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.05.014",
-    "doi": "10.1016/j.hrcr.2026.05.014",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Bidirectional Ventricular Tachycardia in a patient with Pheochromocytoma: a Case Report",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.05.015",
-    "doi": "10.1016/j.hrcr.2026.05.015",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "VT"
     ],
     "hot": false
   }
