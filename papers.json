@@ -1,5 +1,18 @@
 [
   {
+    "title": "Transvenous and Subcutaneous Implantable Cardioverter Defibrillator in Arrhythmogenic Cardiomyopathy: Insights from a single-center experience",
+    "link": "https://doi.org/10.1093/europace/euag179",
+    "doi": "10.1093/europace/euag179",
+    "journal": "EP Europace",
+    "date": "Jul 13, 2026",
+    "date_ts": 1783900800.0,
+    "tags": [
+      "Devices",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
     "title": "Real-World Experience with a New Vascular Closure Device in Patients Undergoing Electrophysiology Procedures with Large Bore Sheaths",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003077?dgcid=rss_sd_all",
     "doi": null,
@@ -1695,6 +1708,19 @@
     "hot": false,
     "abstract": "Mateusz Tajstra reports conference fees and proctoring honoraria from Abbott, Biotronik and Boston Scientific. Maciej Dyrbu\u015b reports conference fees from Abbott, and speaker fees from Biotronik. All other authors declare no conflicts of interest relevant to the creation of this manuscript. The data supporting the findings of this study are available from the corresponding author upon reasonable request.",
     "summary": "I don't have an abstract to summarize\u2014the text provided only contains a conflict of interest disclosure statement. Please provide the actual research abstract (objectives, methods, results, and conclusions sections) for me to create the requested summary."
+  },
+  {
+    "title": "Ventricular Fibrillation Treated by an Implantable Cardioverter-Defibrillator in Anti-Mitochondrial M2 Antibody-Positive Myocarditis",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.004",
+    "doi": "10.1016/j.hrcr.2026.07.004",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "VT",
+      "Devices"
+    ],
+    "hot": false
   },
   {
     "title": "Mechanical septal debulking to enable left bundle branch pacing through dense septal scar: a bailout technique.",
@@ -6343,30 +6369,6 @@
     "date_ts": 1780272000.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "From Bradyarrhythmia to Embolism: A Rare Case of Acute Pulmonary Embolism Immediately Following Pacemaker Implantation",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.05.019",
-    "doi": "10.1016/j.hrcr.2026.05.019",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transient Reset of a Ventricular Leadless Pacemaker Following Monopolar Pulsed Field Ablation: A Case Report with Ex Vivo Validation",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.05.018",
-    "doi": "10.1016/j.hrcr.2026.05.018",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Devices"
     ],
     "hot": false
   }
