@@ -1,5 +1,77 @@
 [
   {
+    "title": "Vascular Closure Strategies in Pulmonary Vein Isolation to Reduce Vascular Complications and Facilitate Same Day Discharge",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003090?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 15, 2026",
+    "date_ts": 1784078086.728121,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Accelerated Pacing Rates to Improve Exercise Tolerance, Quality of Life and Arrhythmia Burden in Patients with Evidence of Heart Failure with Preserved Ejection Fraction: The PACE-UP Rationale and Design",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003107?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 15, 2026",
+    "date_ts": 1784078086.728018,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Prognostic Value of ECG-derived f-wave Indices from Implantable Loop Recorder: Analysis from the LOOP Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025373?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 15, 2026",
+    "date_ts": 1784078086.616471,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cardiac implantable electronic device trends and infection risk in cardiac sarcoidosis: a 30-year perspective from southern and western Sweden",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025828?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 15, 2026",
+    "date_ts": 1784078086.616244,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Spotlight on EHRA 2026: illuminating arrhythmia management",
+    "link": "https://doi.org/10.1093/eurheartj/ehag428",
+    "doi": "10.1093/eurheartj/ehag428",
+    "journal": "European Heart Journal",
+    "date": "Jul 14, 2026",
+    "date_ts": 1783987200.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "How Early Should We Ablate Ventricular Tachycardia? From Rescue to Prevention in Ischemic VT",
+    "link": "https://doi.org/10.1093/europace/euag180",
+    "doi": "10.1093/europace/euag180",
+    "journal": "EP Europace",
+    "date": "Jul 14, 2026",
+    "date_ts": 1783987200.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
     "title": "Transvenous and Subcutaneous Implantable Cardioverter Defibrillator in Arrhythmogenic Cardiomyopathy: Insights from a single-center experience",
     "link": "https://doi.org/10.1093/europace/euag179",
     "doi": "10.1093/europace/euag179",
@@ -1708,6 +1780,18 @@
     "hot": false,
     "abstract": "Mateusz Tajstra reports conference fees and proctoring honoraria from Abbott, Biotronik and Boston Scientific. Maciej Dyrbu\u015b reports conference fees from Abbott, and speaker fees from Biotronik. All other authors declare no conflicts of interest relevant to the creation of this manuscript. The data supporting the findings of this study are available from the corresponding author upon reasonable request.",
     "summary": "I don't have an abstract to summarize\u2014the text provided only contains a conflict of interest disclosure statement. Please provide the actual research abstract (objectives, methods, results, and conclusions sections) for me to create the requested summary."
+  },
+  {
+    "title": "Transient Low-Voltage Area Regression After Pulsed-Field Ablation Using a Lattice-tip Catheter",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.006",
+    "doi": "10.1016/j.hrcr.2026.07.006",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
   },
   {
     "title": "Ventricular Fibrillation Treated by an Implantable Cardioverter-Defibrillator in Anti-Mitochondrial M2 Antibody-Positive Myocarditis",
@@ -6284,91 +6368,6 @@
     "date_ts": 1780272000.0,
     "tags": [
       "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Compound Heterozygous TECRL Variants in an Adolescent: Early ECG Abnormalities and Sudden Cardiac Arrest",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.05.023",
-    "doi": "10.1016/j.hrcr.2026.05.023",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Contemporary trends and outcomes in European ICD recipients: a 15-year analysis",
-    "link": "https://doi.org/10.1093/europace/euag110",
-    "doi": "10.1093/europace/euag110",
-    "journal": "EP Europace",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Bradycardia-dependent atrial capture failure after implantation of an atrial leadless pacemaker: contrasting clinical courses in two patients",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.05.020",
-    "doi": "10.1016/j.hrcr.2026.05.020",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Surgical extravascular ICD lead implant when transvenous therapy is undesirable",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.003",
-    "doi": "10.1016/j.hrcr.2026.06.003",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Selective pulsed field ablation of macroreentrant biatrial tachycardia guided by high-density mapping using a balloon-in-basket catheter",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.002",
-    "doi": "10.1016/j.hrcr.2026.06.002",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Idiopathic ventricular fibrillation triggered by premature ventricular complexes originating from a false cord attachment from the tricuspid annulus to the right ventricle free wall.",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.05.021",
-    "doi": "10.1016/j.hrcr.2026.05.021",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Erdheim-Chester Disease Presenting as Complete Heart Block: A Case Report",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.05.009",
-    "doi": "10.1016/j.hrcr.2026.05.009",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
