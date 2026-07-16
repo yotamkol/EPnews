@@ -1,5 +1,92 @@
 [
   {
+    "title": "Pharmacologic Management of Ventricular Arrhythmias: Targeting Nicotinic Signaling Mechanisms",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726052344?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Jul 16, 2026",
+    "date_ts": 1784165042.765328,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left Bundle Branch Area Pacing in Patients with Myotonic Dystrophy Type 1",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003119?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 16, 2026",
+    "date_ts": 1784165042.200329,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Durability and reconnection patterns at time of repeat ablation after first-time pulmonary vein isolation by monopolar focal pulsed field ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003120?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 16, 2026",
+    "date_ts": 1784165042.200261,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Improvement in Lead-Related Tricuspid Regurgitation Following Transvenous Lead Extraction: A Prospective Multicenter Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025841?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 16, 2026",
+    "date_ts": 1784165042.078697,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The CAMERA-MRI Score to Predict LVEF Normalization Post Ablation for Primary Atrial Fibrillation Mediated Cardiomyopathy: a Pooled Analysis of Two Randomized Clinical Trials",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602583X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 16, 2026",
+    "date_ts": 1784165042.078521,
+    "tags": [
+      "AFib",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Device-Assisted and Modified Valsalva Maneuvers for Supraventricular Tachycardia\u2014Reply",
+    "link": "https://doi.org/10.1001/jamacardio.2026.2059",
+    "doi": "10.1001/jamacardio.2026.2059",
+    "journal": "JAMA Cardiology",
+    "date": "Jul 15, 2026",
+    "date_ts": 1784073600.0,
+    "tags": [
+      "VT",
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Device-Assisted and Modified Valsalva Maneuvers for Supraventricular Tachycardia",
+    "link": "https://doi.org/10.1001/jamacardio.2026.1380",
+    "doi": "10.1001/jamacardio.2026.1380",
+    "journal": "JAMA Cardiology",
+    "date": "Jul 15, 2026",
+    "date_ts": 1784073600.0,
+    "tags": [
+      "VT",
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
     "title": "Vascular Closure Strategies in Pulmonary Vein Isolation to Reduce Vascular Complications and Facilitate Same Day Discharge",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003090?dgcid=rss_sd_all",
     "doi": null,
@@ -1780,6 +1867,107 @@
     "hot": false,
     "abstract": "Mateusz Tajstra reports conference fees and proctoring honoraria from Abbott, Biotronik and Boston Scientific. Maciej Dyrbu\u015b reports conference fees from Abbott, and speaker fees from Biotronik. All other authors declare no conflicts of interest relevant to the creation of this manuscript. The data supporting the findings of this study are available from the corresponding author upon reasonable request.",
     "summary": "I don't have an abstract to summarize\u2014the text provided only contains a conflict of interest disclosure statement. Please provide the actual research abstract (objectives, methods, results, and conclusions sections) for me to create the requested summary."
+  },
+  {
+    "title": "Challenging case of leadless pacemaker implantation for a patient with left-sided inferior vena cava",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.005",
+    "doi": "10.1016/j.hrcr.2026.07.005",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "KCNQ1 D673N variant causes loss of adrenergic-induced cardiac action potential shortening",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.03.020",
+    "doi": "10.1016/j.hrcr.2026.03.020",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Takotsubo syndrome complicated by dynamic left ventricular outflow tract obstruction after left bundle branch area pacing",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.03.017",
+    "doi": "10.1016/j.hrcr.2026.03.017",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Left bundle branch area pacing (LBBAP) has emerged as a physiologic pacing strategy that better preserves ventricular synchrony compared with traditional right ventricular pacing (RVP).1,2 By engaging the native conduction system, LBBAP is associated with narrower QRS duration and improved hemodynamic performance.3,4 Although generally safe, the transseptal lead approach carries procedure-specific risks,5-7 including septal injury, coronary trauma, and rare stress-related cardiomyopathy. Takotsubo syndrome (TTS) has been reported after pacemaker implantation,8 including LBBAP.",
+    "summary": "This retrospective case series describes the rare complication of Takotsubo syndrome following left bundle branch area pacing (LBBAP), a physiologic pacing modality that preserves ventricular synchrony better than traditional right ventricular pacing through engagement of the native conduction system. While LBBAP offers hemodynamic advantages with narrower QRS duration, clinicians should be aware of stress-related cardiomyopathy as a potential procedure-specific complication associated with the transseptal lead approach."
+  },
+  {
+    "title": "Endothelial disruption: A new complication during pulsed field ablation using a pentaspline catheter",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.01.019",
+    "doi": "10.1016/j.hrcr.2026.01.019",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A case of superior vena cava reentrant atrial tachycardia after pulmonary vein isolation with pentaspline pulsed field ablation",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.03.016",
+    "doi": "10.1016/j.hrcr.2026.03.016",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "AFib",
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Vagally mediated syncope leading to disabling of high-pass filter and inappropriate therapy from an S-ICD: A case report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.03.018",
+    "doi": "10.1016/j.hrcr.2026.03.018",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Subcutaneous ICD (S-ICD) has several advantages in younger patient populations due to the absence of intracardiac and transvenous hardware. It is therefore critical for the modern-day physician to understand clinical factors which may lead to inappropriate device function in these ICD technologies.",
+    "summary": "This narrative review examines clinical factors affecting S-ICD performance in younger patients, highlighting the device's advantages of avoiding intracardiac and transvenous hardware while identifying key considerations for appropriate device function in this population."
+  },
+  {
+    "title": "Low defibrillation threshold in pediatric patients with subcutaneous implantable cardioverter defibrillator: Implications for a smaller generator?",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.03.021",
+    "doi": "10.1016/j.hrcr.2026.03.021",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A tailored, left ventricular\u2013only pacing cardiac resynchronization programming strategy for transient left bundle branch block facilitated by Bachmann bundle atrial pacing",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.04.023",
+    "doi": "10.1016/j.hrcr.2026.04.023",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
   },
   {
     "title": "Transient Low-Voltage Area Regression After Pulsed-Field Ablation Using a Lattice-tip Catheter",
@@ -6183,192 +6371,5 @@
     ],
     "hot": false,
     "abstract": "PRKAG2 syndrome (PS) is a rare autosomal dominant disorder characterized by ventricular preexcitation, hypertrophic remodeling of the ventricles, and progressive conduction system disease 1,2. This condition stems from pathogenic mutations in the PRKAG2 gene, which disrupt the function of the \u03b32 regulatory subunit of AMP-activated protein kinase (AMPK) 3. Such perturbations lead to aberrant AMPK signaling and subsequent intracellular glycogen accumulation within cardiomyocytes 4."
-  },
-  {
-    "title": "Combined catheter ablation and left atrial appendage occlusion for persistent atrial fibrillation with left atrial appendage thrombus",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.03.002",
-    "doi": "10.1016/j.hrcr.2026.03.002",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "In a patient with persistent AF, oral anticoagulants"
-  },
-  {
-    "title": "Radiofrequency-assisted removal of an entrapped retractable active-fixation helix during left bundle branch area pacing implantation",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.03.013",
-    "doi": "10.1016/j.hrcr.2026.03.013",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Posterior mitral isthmus ablation using a balloon-in-basket pulsed-field multielectrode catheter",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.02.015",
-    "doi": "10.1016/j.hrcr.2026.02.015",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Preservation of an extravascular implantable cardioverter-defibrillator during sternotomy and surgical myectomy",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.02.021",
-    "doi": "10.1016/j.hrcr.2026.02.021",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "Key Teaching Points Extravascular cardioverter defibrillator (EV-ICD) leads sit underneath the sternum in the sub-sternal space.To the authors knowledge we are the first to describe the successful preservation of an EV-ICD during a sternotomy, with proven successful defibrillator therapy following the surgical recovery period. We contrast the strengths and limitations of the EV-ICDs novel system against transvenous and subcutaneous alternatives, particularly in younger patients who are at higher risk of cumulative transvenous complications. These findings suggest that EV-ICDs may be a suitable option in arrhythmic patients who may require future cardiac surgery."
-  },
-  {
-    "title": "Ventricular fibrillation cardiac arrest, the left posterior fascicle in children and the additive value of sprint/burst exercise stress testing",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.03.012",
-    "doi": "10.1016/j.hrcr.2026.03.012",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "VT",
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pacing-lead sheath method\u2013directed right atrial septal endomyocardial biopsy in identifying arrhythmogenic right ventricular cardiomyopathy: A case report",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.01.004",
-    "doi": "10.1016/j.hrcr.2026.01.004",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left bundle branch area pacing in a patient with dextrocardia during torsades de pointes owing to Takotsubo syndrome",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.03.014",
-    "doi": "10.1016/j.hrcr.2026.03.014",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Identification of the critical isthmus in reentrant AVN-AT using PPI\u2013TCL-guided manifest entrainment and pre-systolic potential mapping",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.02.018",
-    "doi": "10.1016/j.hrcr.2026.02.018",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Localization of the Reentrant Circuit: Integrating the PPI-TCL relationship obtained through manifest entrainment enables accurate localization of the reentry circuit entrance and assessment of proximity to the critical isthmus, guiding precise identification of the therapeutic target in reentrant AVN-AT. Electrogram Marker for Safe and Effective Ablation: The low-amplitude presystolic fractionated potential recorded at the successful ablation site serves as a critical electrogram marker of the circuit's isthmus, allowing targeted and safe ablation while minimizing the risk of AV block. Stepwise Strategy and Clinical Implication: A stepwise approach-macro-localization using PPI-TCL analysis followed by micro-localization of the low-amplitude presystolic fractionated potential-provides a systematic and effective framework for achieving durable tachycardia elimination, highlighting the clinical value of PPI-TCL-guided mapping in complex atrial reentrant tachycardias."
-  },
-  {
-    "title": "Apparent premature battery depletion in a third-generation subcutaneous implantable cardioverter-defibrillator caused by charge count\u2013based longevity estimation failure: A previously unreported mechanism",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.02.023",
-    "doi": "10.1016/j.hrcr.2026.02.023",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "S-ICD generator longevity typically ranges from 5 to 7 years, substantially shorter than the 10\u201315 years observed with contemporary transvenous ICDs.1 Premature battery depletion (PBD) has emerged as an important device-related issue in first- and second-generation S-ICDs, with incidences of 3% \u201310% at 5 years.1\u20134 This phenomenon has been far less frequently described with newer third-generation devices incorporating improved technology, with an estimated incidence of \u223c2% by 3 years.5,6 Known mechanisms include true battery failure due to hydrogen-induced low-voltage capacitor compromise, false indicators from incorrect time-stamp-related display errors."
-  },
-  {
-    "title": "Lumen-Based En Bloc Extraction of a Bound Lead Pair Using a Rotational Mechanical Sheath",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.005",
-    "doi": "10.1016/j.hrcr.2026.06.005",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Successful Isolation of Arrhythmogenic Superior Vena Cava via Balloon-in-Basket Pulsed Field Ablation: Overcoming Phrenic Nerve Proximity",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.007",
-    "doi": "10.1016/j.hrcr.2026.06.007",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Correction to: Accuracy of non-invasive electrocardiographic imaging in scar-dependent ventricular tachycardia: relationship to arrhythmogenic substrate and imaging defined scar",
-    "link": "https://doi.org/10.1093/europace/euag137",
-    "doi": "10.1093/europace/euag137",
-    "journal": "EP Europace",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "VT",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Analgosedation for catheter ablation in deep sedation: comparison between cryoballoon and pulsed field ablation",
-    "link": "https://doi.org/10.1093/europace/euag126",
-    "doi": "10.1093/europace/euag126",
-    "journal": "EP Europace",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Combined Epicardial Substrate Ablation and Pulsed Field Pulmonary Vein Isolation in Brugada Syndrome",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.05.022",
-    "doi": "10.1016/j.hrcr.2026.05.022",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "AFib",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Phenotypic manifestation of Brugada syndrome after living donor liver transplantation accompanied by normalization of sex hormone levels",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.004",
-    "doi": "10.1016/j.hrcr.2026.06.004",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
   }
 ]
