@@ -1,5 +1,53 @@
 [
   {
+    "title": "Old Catheters, New Tricks: Pulsed Field Ablation of Outflow Tract Tachycardia Using the Centauri System",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004330?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 19, 2026",
+    "date_ts": 1784424297.632905,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A diagnostic detour: Myocarditis-associated junctional ectopic tachycardia in an infant",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003132?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 19, 2026",
+    "date_ts": 1784424297.527103,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Unravelling the enigmatic morphology of the atrioventricular conduction axis using Hierarchical Phase-Contrast Tomography (HiP-CT)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025865?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 19, 2026",
+    "date_ts": 1784424297.379539,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Bidirectional Temporal Association of Device-Detected Atrial Fibrillation and Sleep Apnea",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025944?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 19, 2026",
+    "date_ts": 1784424297.379353,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "\u201cMethodological Considerations in Comparing Left Bundle Branch Pacing and Right Ventricular Pacing for Atrial Fibrillation Outcomes\u201d",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003089?dgcid=rss_sd_all",
     "doi": null,
@@ -2801,6 +2849,31 @@
     "hot": false,
     "abstract": "Mateusz Tajstra reports conference fees and proctoring honoraria from Abbott, Biotronik and Boston Scientific. Maciej Dyrbu\u015b reports conference fees from Abbott, and speaker fees from Biotronik. All other authors declare no conflicts of interest relevant to the creation of this manuscript. The data supporting the findings of this study are available from the corresponding author upon reasonable request.",
     "summary": "I don't have an abstract to summarize\u2014the text provided only contains a conflict of interest disclosure statement. Please provide the actual research abstract (objectives, methods, results, and conclusions sections) for me to create the requested summary."
+  },
+  {
+    "title": "Pseudo-right atrial earliest activation suggesting a functionally inferred left-sided slow conduction zone in adenosine-sensitive atrial tachycardia",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.010",
+    "doi": "10.1016/j.hrcr.2026.07.010",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "AFib",
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Intraoperative Preservation of an Extravascular Implantable Cardioverter-Defibrillator Lead During Coronary Artery Bypass Grafting",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.009",
+    "doi": "10.1016/j.hrcr.2026.07.009",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
   },
   {
     "title": "Dual-site atrial lead configuration restores intra-atrial synchrony in sinus node isolation due to intra-atrial conduction block after extensive atrial ablation",
@@ -6318,87 +6391,5 @@
     "hot": false,
     "abstract": "1)Progressive AVCD is a characteristic manifestation of patients with CHD and/or cardiomyopathies associated with NKX 2.5 mutations. However, there are reports of SCD in patients with this mutation with a pacemaker implanted for high degree or complete AV block. 2)This report describes a family with a novel NKX 2.5 mutation, in whom the mother was subsequently demonstrated to have polymorphic VT/VF following a resuscitated cardiac arrest years distant from an uncomplicated surgical repair of a secundum ASD. 3)A pacemaker may be inadequate for some patients with an NKX 2.5 mutation in association with CHD and/or a cardiomyopathy. 4)Since the arrhythmia manifestations often occur years after repair of CHD, even patients with simple, uncomplicated ASDs should undergo routine ECGs to monitor for progressive AVCD, and when present, should trigger genetic testing for NKX 2.5 mutations. 5)For patients with a known NKX 2.5 mutation long-term follow-up should include monitoring for ventricular arrhythmias as well as high degree or complete heart block.",
     "summary": "This is a case report describing a family with a novel NKX2.5 mutation presenting with progressive atrioventricular conduction disease and polymorphic ventricular tachycardia/fibrillation, demonstrating that pacemaker therapy alone may be inadequate and highlighting the need for genetic screening and long-term arrhythmia surveillance in patients with NKX2.5 mutations, even those with simple congenital heart defects like secundum ASD."
-  },
-  {
-    "title": "Transcatheter epicardial pacing of the human Bachmann\u2019s bundle via the transverse sinus: Novel technique to expand transcatheter cardiac intervention",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.027",
-    "doi": "10.1016/j.hrcr.2026.06.027",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "As atrial lead implantation in the right atrial appendage is technically straightforward, the right atrial appendage remains one of the common sites for atrial pacing. However, it induces interatrial conduction delay, resulting in interruption of the left atrial wave by the mitral valve closure, which prevents effective left ventricular filling.1-4 Interatrial dyssynchrony can be appreciated by the prolongation of the mean P wave duration during right atrial appendage pacing (132 ms) compared with that during sinus rhythm (108 ms).",
-    "summary": "This observational study demonstrates that right atrial appendage pacing induces interatrial conduction delay (P wave prolongation from 108 ms to 132 ms during sinus rhythm), causing dyssynchrony that impairs left ventricular filling by interrupting left atrial contraction at mitral valve closure."
-  },
-  {
-    "title": "Delayed Rupture of a Right Ventricular Pseudoaneurysm Following Transvenous Lead Extraction",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.030",
-    "doi": "10.1016/j.hrcr.2026.06.030",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Quality of life and psychological distress in patients with implantable cardioverter-defibrillators: the PSY-ICD study",
-    "link": "https://doi.org/10.1093/europace/euag105.915",
-    "doi": "10.1093/europace/euag105.915",
-    "journal": "EP Europace",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background\n                    The implantable cardioverter-defibrillator (ICD) is a well-established therapy for preventing sudden cardiac death. However, living with an ICD may be associated with psychological distress, depression, anxiety, and reduced quality of life (QoL). The PSY-ICD study assessed the prevalence of these conditions and their determinants in a contemporary ICD cohort.\n                  \n                  \n                    Purpose\n                    To evaluate psychological adjustment, distress, and device acceptance in ICD patients, and identify predictors of poorer outcomes.\n                  \n                  \n                    Methods\n                    A prospective observational study was conducted at our University Division of Cardiology. Between February and October 2025, patients eligible for or already carrying an ICD (single- or dual-chamber transvenous, cardiac resynchronization, subcutaneous, or extravascular systems) were enrolled. Exclusion criteria were severe cognitive impairment (Mini Mental State Examination) and major psychiatric disorders. Participants completed eight validated instruments: PsychoSocial Index (PSI), DASS-21, Euthymia Scale, Florida Patient Acceptance Scale (FPAS), WHO-5, Demoralization Scale-6 (DS-6), Mental Pain Questionnaire (MPQ), and Implanted Device Adjustment Scale (IDAS).\n                  \n                  \n                    Results\n                    A total of 227 patients were included (median age 62 years [IQR 53\u201370]; 73% male; mean time from implantation 6.6 \u00b1 6.5 years; 77% primary prevention). Psychological distress affected about one quarter of participants, with clinical-level presentations in roughly one in ten. Women and patients who experienced ICD shocks in the past year showed significantly higher stress scores (p &amp;lt; 0.05) (Figure). MPQ findings were consistent, revealing greater mental pain in these subgroups. Clinically relevant anxiety and depression (DASS-21) were observed in 12.8% and 14.9% of patients, respectively, while subclinical symptoms were frequent. FPAS indicated good device acceptance in most participants, although about half reported meaningful device-related distress.\n                  \n                  \n                    Conclusions\n                    Although most ICD patients demonstrate adequate psychological adaptation and device acceptance, a substantial subgroup\u2014particularly women and those with recent shocks\u2014experience significant distress or subclinical anxiety/depression. These findings highlight the need for integrated psychological assessment and multidisciplinary support to identify at-risk patients early and improve emotional well-being, QoL, and device acceptance.",
-    "summary": "This prospective observational study of 227 ICD patients (median age 62 years, 73% male) found that while most demonstrated adequate psychological adaptation and device acceptance, approximately 25% experienced psychological distress with 10% at clinical levels, with women and patients experiencing recent ICD shocks showing significantly elevated stress, anxiety (12.8%), and depression (14.9%) scores. The findings support integrated psychological screening and multidisciplinary support to optimize outcomes in at-risk ICD populations."
-  },
-  {
-    "title": "Prognosis of asymptomatic patients who underwent a sodium channel blocker challenge",
-    "link": "https://doi.org/10.1093/europace/euag105.1038",
-    "doi": "10.1093/europace/euag105.1038",
-    "journal": "EP Europace",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background\n                    Brugada syndrome (BrS) is an inherited arrhythmia syndrome with an increased risk of of syncope and SCD. To rule out the diagnosis, sodium channel blocker (SCB) is used in routine practice, but its value is matter to debate due to an uncertain risk-benefit balance. The aim of this study is to specify the prognosis of asymptomatic patients who underwent a SCB challenge.\n                  \n                  \n                    Methods\n                    Consecutive patients from families affected with BrS and who underwent a SCB challenge were recruited in a multicentric prospective registry in France (15 centers) between 1994 and 2025.\n                  \n                  \n                    Results\n                    A total of 2456 patients (1324 males (54%), mean age 41 [28-54] years) were enrolled including 2132 (87%) after ajmaline challenge and 324 (13%) after flecainide challenge. Two hundred and fifty patients (16%) were carriers of a pathogenic/likely pathogenic variant in SCN5A gene.\n                    SCB challenge was positive in 1170 patients (SCBC+ group) and negative in 1286 (SCBC- group). Patients of SCBC+ group were older (45 [33 - 56] years vs 38 [24 \u2013 53], p&amp;lt;0,001) and presented ECG with longer PR (120 vs 110 ms, p&amp;lt;0,001), longer QRS (120 vs 110 ms, p&amp;lt;0,001) and longer QTc interval (400 vs 390 ms) at baseline.\n                    Mean follow-up were 7,4 [3,3-12,4] years (6,5 [2,9-11,9] in SCBC+ group vs 8,9 [4,5-13,1] in SCBC- group, p&amp;lt;0,001). During the follow-up, 85 patients (3,5%) died without significative difference between the two groups (47 (4%) for SCBC+ group vs 38 (3%) for SCBC- group, p=0,2). Age at death were similar (68 [60-79] for SCBC+ group vs 63 [52-84] SCBC- group).\n                    In patients with a minimal follow-up of 1 year (1241 patients, 858 SCBC+, 383 SCBC-) 16 (1,3%) lethal arrhythmic events were identified. A SCD was reported for 9 (1,05%) patients and appropriate ICD therapy for 7 (0,8%) patients. The annual rate of event was 0,22%/year for SCBC+ group. No arrhythmic events was identified after a negative SCBC.\n                  \n                  \n                    Conclusion\n                    Asymptomatic Brs patients have a good prognosis with an annual event rate of 0,22%/year. No lethal arrhythmic event was reported after a negative SCBC suggesting a potential role in arrhythmic risk stratification.",
-    "summary": "This prospective multicenter registry (2,456 patients, mean follow-up 7.4 years) evaluated sodium channel blocker (SCB) challenge outcomes in asymptomatic Brugada syndrome patients, finding a low annual arrhythmic event rate of 0.22% in SCB-positive patients and notably zero arrhythmic events in SCB-negative patients, suggesting SCB challenge may have utility for risk stratification in this population."
-  },
-  {
-    "title": "Performance of a cloud-based AI solution for reducing false positive alerts in implantable cardiac monitors detected episodes",
-    "link": "https://doi.org/10.1093/europace/euag105.043",
-    "doi": "10.1093/europace/euag105.043",
-    "journal": "EP Europace",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Introduction\n                    Implantable Cardiac Monitors (ICM) provide long-term arrhythmia diagnostics but generate high False Positive (FP) event rates, despite incorporating manufacturer proprietary Artificial Intelligence (AI) algorithms.\n                  \n                  \n                    Purpose\n                    A new cloud-based AI solution was developed to mitigate FP burden while maintaining patient safety. Clinical performance was tested across a set of compatible ICMs, stratified by the presence (AI models) or absence (Non-AI models) of a manufacturer-proprietary AI pre-filtering algorithm.\n                  \n                  \n                    Methods\n                    A retrospective clinical evaluation was conducted on 2,659 ICM detected episodes (excluding patient-activated episodes) from 1,710 patients (age 67.5 \u00b1 15.0 y, male 27%, 62.2% from US) implanted with ICMs from Medtronic (43.6%), Biotronik (22.4%), Abbott (18.0%), and Boston Scientific (15.9%), followed at 11 US and 19 EU centers via an universal monitoring platform. To ensure a diverse dataset, the selection method included at least one episode per device for each ICM-detected event type (bradycardia, pause, atrial and ventricular arrhythmias). Coprimary endpoints were defined for safety (sensitivity) and performance (specificity). PPV was a secondary endpoint. 95% confidence intervals (CI) were computed with a bootstrap estimation. All episodes were reviewed by an independent adjudication committee.\n                  \n                  \n                    Results\n                    Among 2,659 episodes, 2,073 (78.0%) were considered interpretable (excluding \"Uninterpretable\" and \"Uncertain SVT\") by the Adjudication Committee. The AI algorithm demonstrated a high sensitivity of 98.3% in AI models and 94.3% in Non-AI models. A disparity in specificity of 61.6% for AI-models vs 75.6% for Non-AI models was observed, balanced by a consistent Positive Predictive Value (PPV) across both groups of 73.9% and 74.4%, respectively.\n                  \n                  \n                    Conclusion\n                    This new cloud-based AI solution demonstrates the capacity to significantly improve clinical efficiency through reducing false positive burden while maintaining a high safety profile.",
-    "summary": "This retrospective clinical evaluation of 2,659 ICM-detected episodes from 1,710 patients across multiple manufacturers assessed a cloud-based AI solution for reducing false positives while maintaining safety, demonstrating high sensitivity (98.3% in AI-model devices, 94.3% in non-AI devices) and consistent positive predictive value (~74%) across device types. The solution effectively balances the reduction of false positive burden with maintained patient safety across compatible ICM platforms."
-  },
-  {
-    "title": "Postmortem interrogation of cardiac implantable electronic devices - results from a large prospective registry",
-    "link": "https://doi.org/10.1093/europace/euag105.005",
-    "doi": "10.1093/europace/euag105.005",
-    "journal": "EP Europace",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background\n                    Postmortem interrogation of cardiac implantable electronic devices (CIEDs) can provide valuable insights into device function, battery status, and terminal rhythm prior to death. Despite its clinical and forensic relevance, large-scale systematic analyses remain scarce, and postmortem CIED interrogation is still not routinely implemented in most centers.\n                  \n                  \n                    Aims\n                    This prospective registry aimed to assess the feasibility of postmortem CIED interrogation and investigate the incidence of CIED defects and arrhythmia-related causes and the time of death.\n                  \n                  \n                    Methods\n                    Between 2016 and 2025, all CIEDs explanted during medicolegal autopsy at the Institute of Legal Medicine, were interrogated in the Department of Electrophysiology and systematically analyzed regarding battery condition, functional integrity and Holter data.\n                  \n                  \n                    Results\n                    A total of 285 CIEDs were analyzed. The majority were pacemakers (dual chamber: n=138, 48%; single-chamber: n=64, 22%; CRT-P: n=3, 1.1%; leadless pacer: n= 3, 1%), followed by implantable cardiac defibrillators (ICDs; single-chamber: n=31, 11%; CRT-D: n=29, 10%; dual-chamber: n=10, 3.5%; subcutaneous ICD: n=1, 0.4%). Implantable loop recorders (ILRs) were interrogated in 6 (2%) cases.\n                    Patients were found dead at an average age of 77 (\u00b1 13) years and 93 (33%) were female. The median time from last device interrogation to death was 103 days [IQR 35\u2013180]. At time of death, 273 devices (96%) showed normal battery status. In cases displaying ERI (n=10, 3.5%) or EOS (n=3, 1%) prior to death, battery depletion did not cause relevant device dysfunction in any case. Overall, 267 devices (94%) showed a normal device function during time of death, in 17 (6%) cases, signs of device malfunctions could be observed . In one case, premortem device integrity could not be determined. A device dysfunction possibly leading to death was found in 6 cases (2%).\n                    Holter data were retrievable in 261 devices (92%), showing premortem events in 171 cases (66%). In 50 cases (28%) a sustained ventricular tachycardia (VT) or ventricular fibrillation (VF) was identified, timely related to patient death, while in 6 cases (3%), a bradycardic event was identified. Overall, in 61 cases (21%), postmortem interrogation enabled an estimation or determination of the time of death.\n                  \n                  \n                    Conclusion\n                    With 285 cases, this represents the largest systematically analyzed postmortem CIED registry worldwide. Postmortem device interrogation is generally feasible and Holter readouts are possible in most interrogations. Overall, CIED dysfunction is rare and even in cases showing ERI or EOS premortem, battery depletion did not cause meaningful device dysfunction. Interrogations can frequently provide meaningful insights into terminal rhythm and time of death. This highlights its clinical and forensic relevance and underscores the need to establish local structures to routinely perform postmortem CIED interrogations.",
-    "summary": "This prospective registry of 285 postmortem cardiac implantable electronic device (CIED) interrogations performed during medicolegal autopsies between 2016-2025 found that interrogation is feasible in most cases, with 94% of devices showing normal function at time of death and only 2% of cases where device dysfunction possibly contributed to death; Holter data were retrievable in 92% of cases and identified terminal arrhythmias in 28% and facilitated time-of-death determination in 21% of cases. The findings support routine implementation of postmortem CIED interrogation for clinical and forensic purposes."
   }
 ]
