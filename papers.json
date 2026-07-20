@@ -1,5 +1,65 @@
 [
   {
+    "title": "Incarceration and Electrophysiology Care: A Review of Clinical, Ethical, and Systems-Level Challenges",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025889?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 20, 2026",
+    "date_ts": 1784512282.548994,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Accumulation of chronic conditions in patients &#60;65 years of age diagnosed with atrial fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025968?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 20, 2026",
+    "date_ts": 1784512282.548965,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impaired extracellular DNA clearance is associated with post-operative atrial fibrillation and mortality after cardiac surgery",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025956?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 20, 2026",
+    "date_ts": 1784512282.548928,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Reducing Inconsistencies of Post-Stroke Cardiac Monitoring with Standardized, Guideline-Oriented Neuro-Cardiac Pathways",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025890?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 20, 2026",
+    "date_ts": 1784512282.548892,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Percutaneous Retrieval of Embolized Atrial Leadless Pacemakers: Early Multicenter Experience",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025932?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 20, 2026",
+    "date_ts": 1784512282.548739,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
     "title": "Old Catheters, New Tricks: Pulsed Field Ablation of Outflow Tract Tachycardia Using the Centauri System",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004330?dgcid=rss_sd_all",
     "doi": null,
@@ -6319,77 +6379,5 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  Pulsed\u2010field ablation (PFA) in patients with an implanted extravascular implantable cardioverter\u2010defibrillator (EV\u2010ICD) poses theoretical risks of electromagnetic interference or lead displacement. We report two cases of atrial fibrillation (AF) ablation using the FARAPULSE pentaspline catheter after EV\u2010ICD implantation. In both patients, PFA was successfully performed without significant changes of the parameters/functions of the EV\u2010ICDs. No lead dislodgement was observed on a fluoroscopy examination. These cases suggest that AF ablation using PFA can be safely performed in patients with EV\u2010ICDs.",
     "summary": "This case report describes two patients with extravascular ICDs who successfully underwent pulsed-field ablation for atrial fibrillation using the FARAPULSE catheter without device dysfunction, electromagnetic interference, or lead displacement, suggesting PFA may be safe in this patient population."
-  },
-  {
-    "title": "Antimicrobial Pocket Flush and Cardiac Implantable Electronic Device Infection: Meta\u2010Analysis of Real\u2010World Studies",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70264?af=R",
-    "doi": "10.1111/pace.70264",
-    "journal": "PACE",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780294417.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Clinical guidelines do not recommend the routine rinsing of cardiac implantable electronic devices (CIED) with antimicrobials before pocket closure(\u201cantimicrobial pocket flush.\u201d) However, despite current recommendations and a lack of evidence regarding the utility of this practice for reducing CIED infections, the antimicrobial pocket flush is still commonly employed. Clarifying the true value of this technique is important for supporting evidence\u2010based practice and avoiding unnecessary antimicrobial use. Therefore, we performed meta\u2010analysis of observational studies to determine the effectiveness of this practice in preventing CIED infections.\n                  \n                  \n                    Methods\n                    We performed a systematic literature search for observational human studies investigating the effectiveness of employing the antimicrobial pocket flush to prevent CIED infection. A random effects meta\u2010analysis was performed. Effectiveness was estimated with the study\u2010level definitions of CIED infection. We performed subgroup analysis by type of antimicrobial\u2010antiseptic or antibiotic.\n                  \n                  \n                    Results\n                    \n                      A total of seven studies including 12,283 patients were analyzed. Over half of the CIED implantation procedures (61.5%) included the antimicrobial pocket flush, and between 8.4% and 85% of the implantations were revision procedures. Studies used various antimicrobials for pocket flush, and definitions of CIED infection varied. Overall infection rates ranged from 0.5%\u20131.5%. CIED infection rates did not differ significantly between procedures performed with versus without antimicrobial pocket flush (0.8%\u00a0vs. 1.1%; relative risk 0.80; 95% confidence interval 0.39\u20131.63;\n                      p\u00a0\n                      =\u00a00.54). There was no difference in the subgroup analysis by antiseptic or antibiotic use.\n                    \n                  \n                  \n                    Conclusion\n                    Our results suggest that the antimicrobial pocket flush provides no benefit in preventing CIED infection, reinforcing the current guidelines that do not support its routine use.",
-    "summary": "This meta-analysis of seven observational studies (12,283 patients) found no significant difference in cardiac implantable electronic device infection rates between procedures performed with versus without antimicrobial pocket flush (0.8% vs. 1.1%; RR 0.80, 95% CI 0.39\u20131.63), supporting current guideline recommendations against routine use of this practice."
-  },
-  {
-    "title": "Ambulatory Electrocardiogram-Detected ST-Segment Elevation and Ventricular Tachycardia in Coronary Vasospasm",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.028",
-    "doi": "10.1016/j.hrcr.2026.06.028",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false,
-    "abstract": "Vasospastic angina is an underrecognized cause of myocardial ischemia characterized by transient coronary artery spasm and a wide spectrum of clinical presentations.1 Symptoms may be atypical, intermittent, or nocturnal, often mimicking noncardiac conditions or other arrhythmogenic syndromes, which can delay diagnosis. When unrecognized, coronary vasospasm may precipitate myocardial infarction, malignant ventricular arrhythmias, syncope, or sudden cardiac arrest.1 Diagnosis can be challenging and may require provocative testing or demonstration of dynamic ischemic changes, while management focuses on trigger avoidance, risk factor modification, and vasodilator therapy.",
-    "summary": "This narrative review discusses vasospastic angina as an underrecognized cause of myocardial ischemia presenting with variable symptoms that often delays diagnosis and carries risk for myocardial infarction, arrhythmias, and sudden cardiac death, with management centered on trigger avoidance, risk factor modification, and vasodilator therapy. Provocative testing may be required for diagnosis when clinical presentation is atypical or mimics other conditions."
-  },
-  {
-    "title": "Preprocedural Virtual Reality Simulation Predicts Residual Conduction in Pulsed Field Ablation: A Case Report",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.026",
-    "doi": "10.1016/j.hrcr.2026.06.026",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Preprocedural virtual reality (VR) simulation may improve lesion predictability in pulsed field ablation (PFA) by enabling intuitive three-dimensional assessment of patient-specific left atrial and pulmonary vein anatomy.Anatomically challenging regions such as the pulmonary vein carina may be pre-identified as areas at risk for incomplete lesion formation, particularly in patients with a wide pulmonary vein carina region.Residual potentials may persist despite apparent acute electrical isolation in PFA, highlighting the limitation of conventional mapping alone in assessing lesion completeness.",
-    "summary": "This retrospective/observational analysis suggests that preprocedural VR simulation enhances anatomic assessment and lesion predictability in PFA by enabling three-dimensional visualization of individual LA/PV anatomy, with particular utility in identifying high-risk regions like the PV carina for incomplete lesion formation and residual electrical activity despite acute isolation on conventional mapping."
-  },
-  {
-    "title": "Double trouble in device infection: Concomitant transvenous and leadless pacemaker infection",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.029",
-    "doi": "10.1016/j.hrcr.2026.06.029",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "Leadless pacemakers (LPMs) are an increasingly used form of cardiac implantable electronic device (CIED) in patients requiring permanent pacing, as they offer a minimally invasive option, and eliminate lead-related and generator-related complications associated with transvenous pacemakers. One significant advantage of LPMs is the lower risk of device infection compared to transvenous devices. Garweg et al1 found no cases of infection in patients implanted with the Micra (Medtronic, Minneapolis Minnesota) LPM even in patients with active bacteremia.",
-    "summary": "This is a narrative review highlighting the advantages of leadless pacemakers (LPMs), particularly regarding reduced infection risk compared to transvenous devices, with reference to a study by Garweg et al demonstrating zero infection cases in Micra LPM recipients, including those with active bacteremia. The summary emphasizes that LPMs offer a minimally invasive alternative that eliminates lead- and generator-related complications associated with traditional transvenous pacemakers."
-  },
-  {
-    "title": "NKX 2-5 Mutation in a Family with Ventricular Tachycardia and Aborted Sudden Cardiac Death",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.025",
-    "doi": "10.1016/j.hrcr.2026.06.025",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jun 01, 2026",
-    "date_ts": 1780272000.0,
-    "tags": [
-      "VT",
-      "SCD",
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "1)Progressive AVCD is a characteristic manifestation of patients with CHD and/or cardiomyopathies associated with NKX 2.5 mutations. However, there are reports of SCD in patients with this mutation with a pacemaker implanted for high degree or complete AV block. 2)This report describes a family with a novel NKX 2.5 mutation, in whom the mother was subsequently demonstrated to have polymorphic VT/VF following a resuscitated cardiac arrest years distant from an uncomplicated surgical repair of a secundum ASD. 3)A pacemaker may be inadequate for some patients with an NKX 2.5 mutation in association with CHD and/or a cardiomyopathy. 4)Since the arrhythmia manifestations often occur years after repair of CHD, even patients with simple, uncomplicated ASDs should undergo routine ECGs to monitor for progressive AVCD, and when present, should trigger genetic testing for NKX 2.5 mutations. 5)For patients with a known NKX 2.5 mutation long-term follow-up should include monitoring for ventricular arrhythmias as well as high degree or complete heart block.",
-    "summary": "This is a case report describing a family with a novel NKX2.5 mutation presenting with progressive atrioventricular conduction disease and polymorphic ventricular tachycardia/fibrillation, demonstrating that pacemaker therapy alone may be inadequate and highlighting the need for genetic screening and long-term arrhythmia surveillance in patients with NKX2.5 mutations, even those with simple congenital heart defects like secundum ASD."
   }
 ]
