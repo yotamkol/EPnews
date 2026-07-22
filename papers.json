@@ -1,5 +1,103 @@
 [
   {
+    "title": "P-Wave Characteristics in Bay\u00e9s Syndrome Predict Feasibility of Anterior Mitral Line Ablation: The LA-BLOC Score",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003156?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 22, 2026",
+    "date_ts": 1784683409.290858,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A multicenter, randomized, controlled study to evaluate the efficacy of an artificial intelligence-based electrocardiography for the detection of atrial fibrillation in patients with suspected symptoms (DEEP-AF)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003144?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 22, 2026",
+    "date_ts": 1784683409.290813,
+    "tags": [
+      "AFib",
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Relationship between Site Procedural Volumes and Outcomes of Left Bundle Branch Area Pacing Using Stylet-Driven Leads from the INSIGHT-LBBA Registry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003168?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 22, 2026",
+    "date_ts": 1784683409.290746,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Thermal Behavior During Pulsed Field Ablation with the Pentaspline Catheter: An <em>in vivo</em> and <em>in vitro</em> Evaluation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025919?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 22, 2026",
+    "date_ts": 1784683409.17584,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Genome-Wide Identification of a <em>MINK1</em> Variant Associated with Asymptomatic Paroxysmal Atrial Fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025907?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 22, 2026",
+    "date_ts": 1784683409.175798,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Interventional Cardiac Magnetic Resonance-Guided Flutter Ablation: Technical Evolution and Procedural Insights from Early Clinical Use",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025920?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 22, 2026",
+    "date_ts": 1784683409.175609,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Interatrial electrical dissociation resulting in pseudo-ventricular tachycardia on remote monitoring",
+    "link": "https://doi.org/10.1093/eurheartj/ehag552",
+    "doi": "10.1093/eurheartj/ehag552",
+    "journal": "European Heart Journal",
+    "date": "Jul 21, 2026",
+    "date_ts": 1784592000.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Hypertension with defective IGF1R-PI3K signalling may trigger atrial cardiomyopathy, atrial fibrillation, and stroke",
+    "link": "https://doi.org/10.1093/eurheartj/ehag546",
+    "doi": "10.1093/eurheartj/ehag546",
+    "journal": "European Heart Journal",
+    "date": "Jul 21, 2026",
+    "date_ts": 1784592000.0,
+    "tags": [
+      "AFib",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
     "title": "Intravenous vernakalant for acute termination of recent-onset atrial fibrillation in the emergency department",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001042?dgcid=rss_sd_all",
     "doi": null,
@@ -3098,6 +3196,82 @@
     "summary": "I don't have an abstract to summarize\u2014the text provided only contains a conflict of interest disclosure statement. Please provide the actual research abstract (objectives, methods, results, and conclusions sections) for me to create the requested summary."
   },
   {
+    "title": "The blanking interval after atrial fibrillation ablation: time for reassessment with pulsed field energy\u2014Authors\u2019 reply",
+    "link": "https://doi.org/10.1093/europace/euag165",
+    "doi": "10.1093/europace/euag165",
+    "journal": "EP Europace",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Early recurrence after pulsed field ablation: a prognostic signal that challenges, but does not eliminate, the blanking period",
+    "link": "https://doi.org/10.1093/europace/euag100",
+    "doi": "10.1093/europace/euag100",
+    "journal": "EP Europace",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Histological evaluation of clinically defined atrial cardiomyopathy stages and their association with atrial fibrillation burden under continuous monitoring for a 2.5-year follow-up",
+    "link": "https://doi.org/10.1093/europace/euag146",
+    "doi": "10.1093/europace/euag146",
+    "journal": "EP Europace",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "AFib",
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Atrial cardiomyopathy (AtCM) is associated with atrial fibrillation (AF). While histological studies describe underlying mechanisms of AtCM, these insights remain disconnected from clinical AtCM. This study determines the histological basis of non-invasive AtCM markers and assess their prognostic value in patients undergoing cardiac surgery.\n                  \n                  \n                    Methods and results\n                    Left and right (LA/RA) atrial tissue samples were obtained in patients undergoing cardiac surgery (n = 136) in the RACE V Tissue Bank study. Pre-operative rhythm history, digital ECG, transthoracic echocardiography (TTE) and biomarker levels were used to group patients in AtCM stages: AF: history of paroxysmal, persistent or permanent AF, Severe (LAVi&amp;gt;50 mL/m2 or LAEF&amp;lt;35%), Moderate (LAVi 34\u201350 mL/m2, or LAEF 35\u201350% AND NT-proBNP &amp;gt;250 pg/mL), Mild (no AF, LAVi\u226434 mL/m2 AND P-terminal Force V1 &amp;gt; 5 mV*ms OR P wave duration &amp;gt; 120 ms), and no AtCM. Tissue was stained (WGA/CD31/Vimentin) to quantify fibrosis, fibroblast density, myocyte diameter and vascularization. Post-operative rhythm was monitored continuously (2.5 years) using implantable loop recorders. Patients with severe AtCM had extended endomysial fibrosis (LA: +0.82\u00b5m, pFDR,LA &amp;lt; 0.001; RA: +0.64\u00b5m, pFDR,RA = 0.010) and larger left atrial cardiomyocytes (LA: +0.92\u00b5m, pFDR,LA = 0.026). Moderate AtCM patients showed LA myocyte hypertrophy (LA: +1.35\u00b5m, pFDR,LA = 0.007). Mild AtCM patients had similar histological features to patients without AtCM. Moderate (\u03b2 = 3.56, pFDR = 0.045) and severe (\u03b2 = 3.74, pFDR = 0.034) AtCM patients had a higher AF burden late after cardiac surgery.\n                  \n                  \n                    Conclusion\n                    Clinical AtCM markers reflect pro-fibrotic and pro-hypertrophic remodelling in the moderate to severe AtCM stages and are associated with a higher AF burden late after surgery.",
+    "summary": "This prospective observational study (n=136) from the RACE V Tissue Bank examined the histological basis of non-invasive atrial cardiomyopathy (AtCM) markers by correlating atrial tissue samples obtained during cardiac surgery with pre-operative clinical staging and post-operative AF burden tracked over 2.5 years. Moderate and severe AtCM stages demonstrated significant endomysial fibrosis and myocyte hypertrophy, which were independently associated with higher AF burden after surgery, validating clinical AtCM markers as reflections of underlying structural remodeling."
+  },
+  {
+    "title": "The Hidden Pause: Filtering of True Prolonged Asystole in Implantable Loop Recorder Monitoring Platform by Artificial Intelligence",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.012",
+    "doi": "10.1016/j.hrcr.2026.07.012",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "P Waves Marching Through QRS during Supraventricular Tachycardia: What is the mechanism?",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.013",
+    "doi": "10.1016/j.hrcr.2026.07.013",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "VT",
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Direct-Visualization Implantation of an Atrial Leadless Pacemaker at Tricuspid Valve Surgery",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.014",
+    "doi": "10.1016/j.hrcr.2026.07.014",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
     "title": "Is Late Congenital Autoimmune Complete Heart Block Possible? A Case Report",
     "link": "https://doi.org/10.1016/j.hrcr.2026.07.011",
     "doi": "10.1016/j.hrcr.2026.07.011",
@@ -6193,182 +6367,6 @@
     "journal": "Heart Rhythm O2",
     "date": "Jun 05, 2026",
     "date_ts": 1780625296.774644,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "When modifier genes shape arrhythmic risk: gene-dependent effects in long QT syndrome",
-    "link": "https://doi.org/10.1093/eurheartj/ehag390",
-    "doi": "10.1093/eurheartj/ehag390",
-    "journal": "European Heart Journal",
-    "date": "Jun 04, 2026",
-    "date_ts": 1780531200.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Precision electrophysiology meets surgery: a new paradigm in repaired tetralogy of Fallot?",
-    "link": "https://doi.org/10.1093/eurheartj/ehag408",
-    "doi": "10.1093/eurheartj/ehag408",
-    "journal": "European Heart Journal",
-    "date": "Jun 04, 2026",
-    "date_ts": 1780531200.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Non-neural cholinergic modulation of cardiac electrophysiology: fact or hypothesis?",
-    "link": "https://doi.org/10.1093/eurheartj/ehag425",
-    "doi": "10.1093/eurheartj/ehag425",
-    "journal": "European Heart Journal",
-    "date": "Jun 04, 2026",
-    "date_ts": 1780531200.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Standard-dose direct oral anticoagulants for Asian patients with atrial fibrillation: the definitive case from COMBINE AF",
-    "link": "https://doi.org/10.1093/eurheartj/ehag354",
-    "doi": "10.1093/eurheartj/ehag354",
-    "journal": "European Heart Journal",
-    "date": "Jun 04, 2026",
-    "date_ts": 1780531200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cardiac resynchronization therapy in atrial fibrillation: do all patients need atrioventricular node ablation?",
-    "link": "https://doi.org/10.1093/eurheartj/ehag355",
-    "doi": "10.1093/eurheartj/ehag355",
-    "journal": "European Heart Journal",
-    "date": "Jun 04, 2026",
-    "date_ts": 1780531200.0,
-    "tags": [
-      "AFib",
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clavipectoral Fascial Plane Block for Analgesia in Cardiac Implantable Electronic Device Implantation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70316?af=R",
-    "doi": "10.1111/pace.70316",
-    "journal": "PACE",
-    "date": "Jun 04, 2026",
-    "date_ts": 1780547847.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Aim\n                    This study aimed to evaluate the intraoperative and postoperative analgesic effectiveness of ultrasound\u2010guided clavipectoral fascial plane block in patients undergoing cardiac implantable electronic device (CIED) implantation.\n                  \n                  \n                    Methods\n                    In this prospective observational study, 35 adult patients scheduled for CIED implantation received an ultrasound\u2010guided clavipectoral fascial plane block. Intraoperative analgesic adequacy was assessed by the requirement for supplemental local anesthetic. Additional intraoperative fentanyl use, block performance time, and surgical duration were recorded. Postoperative pain was evaluated using the numerical rating scale (NRS) at 1, 6, 12, and 24\u00a0h. Postoperative analgesic consumption and patient satisfaction, assessed using a 5\u2010point Likert scale, were also documented.\n                  \n                  \n                    Results\n                    Supplemental local anesthetic was required in 16 patients (45.7%), while 19 patients (54.3%) completed the procedure without additional local anesthetic. Among patients requiring supplementation, the median volume of local anesthetic administered was 6\u00a0mL (IQR 6\u201310). Intraoperative fentanyl was administered in seven patients (20.0%). Median block performance time was 6\u00a0min (IQR 5\u20138), and median surgical duration was 39\u00a0min (IQR 33\u201343). Postoperative pain scores remained low over 24\u00a0h. Rescue tramadol was required in 11 patients (31.4%), with a median consumption of 0\u00a0mg (IQR 0\u201350). Patient satisfaction was high, with 71.4% of patients reporting satisfaction or high satisfaction.\n                  \n                  \n                    Conclusion\n                    Clavipectoral fascial plane block appears to provide clinically relevant intraoperative and postoperative analgesia in patients undergoing CIED implantation, with low opioid requirements and high patient satisfaction. This technique may represent a practical component of multimodal analgesia for CIED procedures. Further randomized studies are needed to confirm these findings.",
-    "summary": "This prospective observational study of 35 patients found that ultrasound-guided clavipectoral fascial plane block provided adequate intraoperative analgesia (requiring supplemental local anesthetic in 45.7% of cases), low postoperative pain scores over 24 hours, minimal opioid requirements (20% needing intraoperative fentanyl, 31.4% requiring rescue tramadol), and high patient satisfaction (71.4%) in patients undergoing CIED implantation. The authors conclude this technique is a practical component of multimodal analgesia for CIED procedures, though randomized controlled trials are needed for confirmation."
-  },
-  {
-    "title": "Reflex Syncope With Complete Heart Block Triggered by Swallowing in a Patient on Immune Checkpoint Inhibitor Therapy",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70315?af=R",
-    "doi": "10.1111/pace.70315",
-    "journal": "PACE",
-    "date": "Jun 04, 2026",
-    "date_ts": 1780547475.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  Immune checkpoint inhibitors (ICIs) are now standard of care for most advanced solid tumors. While effective, they are associated with immune\u2010related adverse events (irAEs), including rare autonomic complications. We present a patient with metastatic lung adenocarcinoma receiving nivolumab and ipilimumab who developed reflex syncope with reproducible complete heart block (CHB) triggered by swallowing and food proximity. Barium esophagram revealed esophageal dysmotility, a small hiatal hernia, and distal esophageal narrowing. ICI therapy was held, and a dual\u2010chamber pacemaker resolved the syncopal episodes. The overlap between structural esophageal pathology, possible ICI\u2010associated autonomic dysregulation, and situational syncope complicates diagnosis and management. Clinicians should maintain vigilance for autonomic manifestations, especially new\u2010onset bradyarrhythmias or syncope, in patients on immunotherapy.",
-    "summary": "This is a case report describing a patient with metastatic lung adenocarcinoma on combination nivolumab and ipilimumab who developed swallow-triggered syncope with complete heart block, attributed to ICI-associated autonomic dysregulation complicated by concurrent esophageal dysmotility, successfully managed with pacemaker implantation and ICI discontinuation. The report highlights the need for clinician vigilance regarding rare autonomic irAEs, particularly bradyarrhythmias and syncope, in immunotherapy-treated patients."
-  },
-  {
-    "title": "Cost-Effectiveness of a Novel Antitachycardia Pacing Algorithm for the Termination of Ventricular Tachyarrhythmias in the United States",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002278?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 04, 2026",
-    "date_ts": 1780540442.811805,
-    "tags": [
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Time to Rethink Transvenous Systems in Younger Patients?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002163?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 04, 2026",
-    "date_ts": 1780540442.81177,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Premapping Commanded Electrogram Parameters and 3-Month Atrial Pacing Threshold After Atrial Leadless Pacemaker Implantation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600245X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 04, 2026",
-    "date_ts": 1780540442.811695,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Haptoglobin, Hemolysis, and Renal Vulnerability After Pulsed Field Ablation: The Hemoglobin-Binding Reserve.",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024173?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 04, 2026",
-    "date_ts": 1780540442.634275,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A masquerader of atrial fibrillation: dual AV nodal non-reentrant tachycardia causing reversible cardiomyopathy",
-    "link": "https://doi.org/10.1093/eurheartj/ehag438",
-    "doi": "10.1093/eurheartj/ehag438",
-    "journal": "European Heart Journal",
-    "date": "Jun 03, 2026",
-    "date_ts": 1780444800.0,
-    "tags": [
-      "AFib",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Precardioversion Heart Rhythm Monitoring Using Smartphone Photoplethysmography",
-    "link": "https://doi.org/10.1001/jamacardio.2026.1269",
-    "doi": "10.1001/jamacardio.2026.1269",
-    "journal": "JAMA Cardiology",
-    "date": "Jun 03, 2026",
-    "date_ts": 1780444800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Importance\n                    Scheduled cardioversion is a common and resource-intensive procedure in rhythm treatment of atrial fibrillation and atrial flutter. Cancellations of cardioversion procedures are common due to spontaneous conversion to sinus rhythm.\n                  \n                  \n                    Objective\n                    To study the efficacy and feasibility of precardioversion rhythm monitoring using smartphone photoplethysmography compared to standard of care in scheduled cardioversion of atrial fibrillation.\n                  \n                  \n                    Design, Setting, and Participants\n                    This randomized, single-blinded study took place at a tertiary hospital in Sweden. Adult patients (\u226518 years) with persistent atrial fibrillation or flutter scheduled for cardioversion were included. Exclusion criteria were having a cardiac implantable electronic device or inability to consent or comply with study procedures. The study took place from September 2022 to February 2025.\n                  \n                  \n                    Interventions\n                    Precardioversion ambulatory heart rhythm monitoring using smartphone photoplethysmography and reminders to support adherence to anticoagulation in the intervention group compared to standard of care (no intervention). Heart rhythm recordings were automatically transferred following recording and overread daily. A single-lead electrocardiogram recording was made simultaneous to each photoplethysmography recording for validation purposes. In case of spontaneous conversion to sinus rhythm in the intervention group, participants were contacted and cardioversion was canceled. In the control group, no further action was taken in case of rhythm conversion.\n                  \n                  \n                    Main Outcome and Measures\n                    The primary efficacy outcome was proportion of same-day cancellations of scheduled atrial fibrillation or flutter cardioversions.\n                  \n                  \n                    Results\n                    \n                      In total, 206 patients were randomized, with 105 participants assigned to intervention and 101 assigned to control (standard care). Three participants were excluded after randomization due to having a cardiac implantable device, leaving 104 and 99 participants for final analysis in the intervention and control group, respectively. The median (IQR) age was 69.7 (61.6-75.6) years and 149 (72.3%) were male. The participants performed 5226 heart rhythm recordings precardioversion, and the median (IQR) number of daily recordings per participant precardioversion was 2.1 (2.0-2.3). There were 4.8% (5/104) same-day cancellations of scheduled cardioversions in the intervention group compared to 23.2% (23/99) in the control group (\n                      P\n                      \u2009&amp;amp;lt;\u2009.001). For same-day cancellations due to spontaneous sinus rhythm conversion, the corresponding results were 1.0% (1/104) vs 18.2% (18/99) (\n                      P\n                      \u2009&amp;amp;lt;\u2009.001).\n                    \n                  \n                  \n                    Conclusions and Relevance\n                    The results of this study suggest that precardioversion monitoring using smartphone photoplethysmography represents a highly scalable digital intervention that significantly reduced same-day cancellations.\n                  \n                  \n                    Trial Registration\n                    \n                      ClinicalTrials.gov Identifier:\n                      NCT04300270",
-    "summary": "This randomized controlled trial (n=203) compared precardioversion smartphone photoplethysmography-based rhythm monitoring with daily overreading versus standard care in patients scheduled for atrial fibrillation/flutter cardioversion, demonstrating that the intervention group had significantly lower same-day cancellation rates (4.8% vs 23.2%, P<.001), primarily driven by reduced cancellations due to spontaneous sinus rhythm conversion (1.0% vs 18.2%, P<.001)."
-  },
-  {
-    "title": "Catheter ablation of premature ventricular contractions using an alternative vascular access and remote magnetic navigation (ARM) approach",
-    "link": "https://doi.org/10.1093/europace/euag136",
-    "doi": "10.1093/europace/euag136",
-    "journal": "EP Europace",
-    "date": "Jun 03, 2026",
-    "date_ts": 1780444800.0,
     "tags": [
       "Other"
     ],
