@@ -1,5 +1,106 @@
 [
   {
+    "title": "Combined Impact of Paced QRS Duration and RV Pacing Burden on Heart Failure Admission: Identifying Clinical Progression to Stage C/D in Pacemaker Recipients:",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003181?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 23, 2026",
+    "date_ts": 1784771011.09242,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Supraventricular Arrhythmia Prematurity, and Risk of Incident Atrial Fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025981?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 23, 2026",
+    "date_ts": 1784771010.832411,
+    "tags": [
+      "AFib",
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Risk Factors of Acute Complications Related to Cardiac Implantable Electrical Devices: Analysis of the Japan Cardiac Device Treatment Registry Database",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602597X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 23, 2026",
+    "date_ts": 1784771010.83236,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Incidence and Predictors of Tricuspid Regurgitation After Left Bundle Branch Area Pacing: A Korean Multicenter Registry Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026019?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 23, 2026",
+    "date_ts": 1784771010.832144,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Neurofilament Light Chain in Atrial Fibrillation",
+    "link": "https://doi.org/10.1001/jamacardio.2026.2149",
+    "doi": "10.1001/jamacardio.2026.2149",
+    "journal": "JAMA Cardiology",
+    "date": "Jul 22, 2026",
+    "date_ts": 1784678400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Neurofilament Light Chain in Atrial Fibrillation\u2014Reply",
+    "link": "https://doi.org/10.1001/jamacardio.2026.2152",
+    "doi": "10.1001/jamacardio.2026.2152",
+    "journal": "JAMA Cardiology",
+    "date": "Jul 22, 2026",
+    "date_ts": 1784678400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Atrial Fibrillation in Patients With Myocardial Infarction: Global Burden, Predictors, and Prognostic Impact",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70355?af=R",
+    "doi": "10.1111/pace.70355",
+    "journal": "PACE",
+    "date": "Jul 22, 2026",
+    "date_ts": 1784698808.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  Atrial fibrillation (AF) is the most prevalent sustained arrhythmia worldwide. Acute myocardial infarction (AMI) is closely intertwined with AF through a bidirectional relationship: pre\u2010existing AF is associated with increased risk of AMI, while AMI predisposes to new\u2010onset atrial fibrillation (NOAF). This narrative review synthesizes evidence on the global burden of AF in the setting of AMI: pre\u2010existing AF, NOAF following AMI, and the prognostic implications of AF in AMI, encompassing the \u2018past, present and future\u2019 of AF in AMI. Pre\u2010existing AF is present in 3%\u20134% of patients with AMI and has demonstrated an independent association with acute coronary syndromes, mediated by systemic inflammation, prothrombotic states, demand ischemia, and coronary thromboembolism. NOAF complicates 5%\u201320% of AMI cases, with peak onset within the first six months. Predictive factors include age, comorbidities such as chronic kidney disease, markers of inflammation (including systemic immune\u2010inflammation index and hs\u2010CRP), neurohormonal activation (NT\u2010proBNP), echocardiographic parameters of diastolic dysfunction and left atrial strain, and electrocardiographic features such as QRS fragmentation. Multiple predictive models for NOAF have been developed with varying discriminatory performance. Emerging research suggests that machine learning may provide superior risk stratification, though further study is needed. AF in the context of AMI confers substantially increased risk of mortality, stroke, bleeding, and heart failure, with NOAF showing particularly strong prognostic significance. Improved recognition of predictive markers, alongside development of tailored prognostic models, is essential to guide antithrombotic therapy and optimize outcomes in this high\u2010risk population.",
+    "summary": "This narrative review synthesizes evidence on the bidirectional relationship between atrial fibrillation and acute myocardial infarction, finding that pre-existing AF occurs in 3-4% of AMI patients with increased thrombotic risk, while new-onset AF complicates 5-20% of cases with peak onset within six months and is predicted by age, inflammation markers, neurohormonal activation, and echocardiographic parameters of diastolic dysfunction. AF in the setting of AMI substantially increases risk of mortality, stroke, bleeding, and heart failure, with emerging evidence suggesting machine learning may improve risk stratification beyond current predictive models."
+  },
+  {
+    "title": "Valve\u2010Sparing Pacing Strategies After Tricuspid TEER: An Imaging\u2010Guided Case Series",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70373?af=R",
+    "doi": "10.1111/pace.70373",
+    "journal": "PACE",
+    "date": "Jul 22, 2026",
+    "date_ts": 1784698229.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background\n                    Permanent pacing after tricuspid transcatheter edge\u2010to\u2010edge repair (TEER) may be technically challenging due to the risk of interaction between pacing systems and repair devices. Evidence guiding optimal pacing strategies in this setting remains limited.\n                  \n                  \n                    Methods\n                    We report a single\u2010center case series of three patients with previous tricuspid TEER who required permanent pacing. Device selection and procedural planning were guided by multimodality imaging, including transesophageal echocardiography (TEE) and intracardiac echocardiography (ICE). Valve\u2010sparing pacing strategies were selected according to individual clinical characteristics.\n                  \n                  \n                    Results\n                    Two elderly patients underwent implantation of a leadless pacemaker, while a third patient with dilated cardiomyopathy underwent left bundle branch area pacing (LBBAP) during cardiac resynchronization therapy upgrade. Imaging guidance allowed safe traversal of the repaired tricuspid valve while avoiding mechanical interaction with the TEER devices. All procedures were successful, with stable pacing parameters and no procedural complications. Tricuspid regurgitation remained unchanged in all patients during follow\u2010up. In the patient undergoing LBBAP, left ventricular ejection fraction improved from 30% to 57% at 6 months.\n                  \n                  \n                    Conclusions\n                    Valve\u2010sparing pacing strategies guided by multimodality imaging appear feasible and safe in patients with prior tricuspid TEER. Leadless pacemakers and conduction system pacing represent complementary options that can be tailored to individual clinical profiles.",
+    "summary": "This single-center case series of three patients with prior tricuspid TEER requiring permanent pacing demonstrates that valve-sparing pacing strategies (leadless pacemakers and left bundle branch area pacing) guided by multimodality imaging are feasible and safe, with successful procedures, stable pacing parameters, and no device-valve interactions at follow-up."
+  },
+  {
     "title": "P-Wave Characteristics in Bay\u00e9s Syndrome Predict Feasibility of Anterior Mitral Line Ablation: The LA-BLOC Score",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003156?dgcid=rss_sd_all",
     "doi": null,
@@ -98,6 +199,20 @@
     "hot": false
   },
   {
+    "title": "Refining Residual Ischemic Stroke Risk in Anticoagulated Atrial Fibrillation Using Index Outpatient LA Diameter: The CHA2DS2\u2010VALa Score",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70431?af=R",
+    "doi": "10.1111/jce.70431",
+    "journal": "J Cardiovasc EP",
+    "date": "Jul 21, 2026",
+    "date_ts": 1784631680.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    \n                      Atrial fibrillation (AF) increases ischemic stroke risk nearly fivefold. Although the CHA\n                      2\n                      DS\n                      2\n                      \u2010VA score is widely used for risk stratification, its predictive performance is limited, particularly in intermediate\u2010risk patients. Left atrial (LA) enlargement, a marker of structural remodeling, may improve risk prediction.\n                    \n                  \n                  \n                    Aims\n                    \n                      To evaluate whether adding LA diameter to CHA\n                      2\n                      DS\n                      2\n                      \u2010VA (creating CHA\n                      2\n                      DS\n                      2\n                      \u2010VALa) enhances ischemic stroke prediction in AF patients. We additionally derived a multivariable \u03b2\u2010weighted model and benchmarked its performance against CHA\n                      2\n                      DS\n                      2\n                      \u2010VA (and the simplified +1 LA rule).\n                    \n                  \n                  \n                    Methods\n                    \n                      This retrospective study included 1648 AF patients. LA diameter was measured by standardized echocardiography. A ROC\u2010derived cut\u2010off (&gt;\u20094.7\u2009cm) defined enlargement. Patients were followed for a mean of 4.18\u2009\u00b1\u20090.35 years. Imaging\u2010confirmed ischemic stroke events were identified through institutional hospital records and the electronic health registry, and were validated using hospitalization documentation, neurology consultation notes, discharge summaries, and available brain CT/MRI findings. Predictors were assessed using multivariable logistic regression, and Kaplan\u2013Meier/log\u2010rank analyses compared CHA\n                      2\n                      DS\n                      2\n                      \u2010VALa versus CHA\n                      2\n                      DS\n                      2\n                      \u2010VA.\n                    \n                  \n                  \n                    Results\n                    \n                      Imaging\u2010confirmed ischemic stroke events occurred more frequently in patients with LA\u2009&gt;\u20094.7\u2009cm (25 [3.8%] vs. 21 [2.1%],\n                      p\n                      \u2009&lt;\u20090.001). Elevated CRP, NT\u2010proBNP, diabetes, hypertension, CAD, and heart failure were also associated with stroke. LA\u2009&gt;\u20094.7\u2009cm independently predicted events (OR 1.97, 95% CI 1.36\u20132.86,\n                      p\n                      \u2009&lt;\u20090.001). ROC analysis showed strong discrimination for LA diameter (AUC 0.872; sensitivity 82%, specificity 85%). Kaplan\u2013Meier analysis demonstrated superior prediction with CHA\n                      2\n                      DS\n                      2\n                      \u2010VALa compared to CHA\n                      2\n                      DS\n                      2\n                      \u2010VA (log\u2010rank\n                      p\n                      \u2009&lt;\u20090.001).\n                    \n                  \n                  \n                    Conclusion\n                    \n                      The CHA\n                      2\n                      DS\n                      2\n                      \u2010VALa score significantly improves stroke risk stratification in AF by integrating LA diameter into conventional scoring. As echocardiographic measurement is widely available and reproducible, this modification offers a simple, pragmatic approach to refine residual stroke\u2010risk stratification and support closer evaluation and follow\u2010up in anticoagulated AF patients. Prospective validation in diverse populations is warranted.",
+    "summary": "This retrospective study of 1,648 AF patients over 4.18 years found that adding left atrial diameter >4.7 cm to the CHA\u2082DS\u2082-VA score (creating CHA\u2082DS\u2082-VALa) significantly improves ischemic stroke prediction, with LA enlargement independently predicting stroke (OR 1.97, p<0.001) and superior Kaplan-Meier discrimination compared to CHA\u2082DS\u2082-VA alone (p<0.001). The modification offers a simple, reproducible echocardiographic refinement to conventional risk stratification for anticoagulated AF patients, though prospective validation in"
+  },
+  {
     "title": "Intravenous vernakalant for acute termination of recent-onset atrial fibrillation in the emergency department",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001042?dgcid=rss_sd_all",
     "doi": null,
@@ -144,6 +259,34 @@
       "Devices"
     ],
     "hot": false
+  },
+  {
+    "title": "Inpatient Cardiac Resynchronization Therapy During Heart Failure Hospitalization: A Distinct High\u2010Risk Phenotype",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70366?af=R",
+    "doi": "10.1111/pace.70366",
+    "journal": "PACE",
+    "date": "Jul 20, 2026",
+    "date_ts": 1784537753.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    The role of cardiac resynchronization therapy (CRT) during hospitalization for heart failure (HFH) is uncertain, because hospitalized patients were routinely excluded from landmark CRT trials. Despite this, CRT implantation during HFH is common. This study aimed to compare the clinical profiles and post\u2010implantation outcomes of patients undergoing inpatient CRT during HFH with those receiving deferred outpatient CRT after HFH.\n                  \n                  \n                    Methods\n                    Institutional CRT data were linked with the National Heart Failure Audit from January 2014 to December 2024. Patients were stratified by inpatient or outpatient CRT implantation setting. Baseline characteristics, HFH within one year of CRT and long\u2010term survival were compared. Multivariable Cox proportional hazards modelling assessed the association between implantation setting and mortality.\n                  \n                  \n                    Results\n                    \n                      130 patients underwent inpatient CRT during HFH and 90 received deferred outpatient CRT. Inpatients had lower estimated glomerular filtration rates (46.26\u00b119.0 vs. 55.19\u00b118.4\u00a0mL/min/1.73m\n                      2\n                      ,\n                      p\n                      = 0.01), more ischemic cardiomyopathy (40.8% vs. 18.9%,\n                      p\n                      = 0.01), less left bundle branch block (36.9% vs. 51.1%,\n                      p\n                      = 0.04), and more HF hospitalizations in the year before CRT (1.12\u00b10.87 vs. 0.84\u00b10.86,\n                      p\n                      = 0.01). The risk of \u22651 HF re\u2010hospitalization within one year of CRT was higher (23.1% vs. 7.8%;\n                      p\n                      = 0.004) in the inpatient group. Median survival after CRT was 2.9 years shorter for the inpatient group (1192 vs. 2262 days,\n                      p\n                      = 0.003). After adjustment, deferred outpatient CRT remained associated with lower all\u2010cause mortality (HR 0.56, 95% CI 0.35\u20130.88,\n                      p\n                      = 0.01).\n                    \n                  \n                  \n                    Conclusion\n                    Patients selected for inpatient CRT during HFH represent a clinically distinct, higher\u2010risk subgroup with worse post\u2010implant outcomes. Prospective studies are needed to optimize patient selection for inpatient CRT.",
+    "summary": "This retrospective cohort study linked institutional CRT data with a national heart failure audit from 2014-2024 (130 inpatient vs. 90 outpatient CRT recipients) and found that inpatient CRT during acute heart failure hospitalization was associated with higher HF re-hospitalization rates (23.1% vs. 7.8% at one year) and significantly worse long-term survival (median 2.9 years shorter) compared to deferred outpatient CRT, with deferred implantation remaining independently protective after multivariable adjustment (HR 0.56). The inpatient cohort represented a higher-risk population with more ischemic"
+  },
+  {
+    "title": "Ventricular Pacing Inhibition After Dual\u2010Chamber Leadless Pacing Associated With a Retained Right Ventricular Lead",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70369?af=R",
+    "doi": "10.1111/pace.70369",
+    "journal": "PACE",
+    "date": "Jul 20, 2026",
+    "date_ts": 1784537512.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  An 88\u2010year\u2010old pacemaker\u2010dependent man with a retained low\u2010impedance, noise\u2010producing right ventricular lead underwent implantation of a dual\u2010chamber leadless pacemaker. On postoperative day 1, he developed recurrent syncope with pauses up to 13\u00a0s. Although stored electrograms from the index events were unavailable, post\u2010event interrogation showed atrial pacing followed by ventricular safety pacing, and provocative testing supported persistent electrical coupling involving the retained lead. After reduction of temporary high\u2010output settings and reprogramming to VDD, syncope did not recur during 12 months. Retained malfunctioning leads may mediate timing\u2010dependent ventricular inhibition after dual\u2010chamber leadless pacing.",
+    "summary": "This is a case report of an 88-year-old pacemaker-dependent patient who experienced recurrent syncope with prolonged pauses after implantation of a dual-chamber leadless pacemaker in the setting of a retained malfunctioning right ventricular lead; the arrhythmia was successfully managed through reprogramming to VDD mode, suggesting that retained leads can cause timing-dependent ventricular inhibition with leadless pacemaker systems."
   },
   {
     "title": "Incarceration and Electrophysiology Care: A Review of Clinical, Ethical, and Systems-Level Challenges",
@@ -3196,6 +3339,58 @@
     "summary": "I don't have an abstract to summarize\u2014the text provided only contains a conflict of interest disclosure statement. Please provide the actual research abstract (objectives, methods, results, and conclusions sections) for me to create the requested summary."
   },
   {
+    "title": "Comparative evaluation of left atrial appendage occlusion and oral anticoagulation: a Bayesian meta-analysis of randomized controlled trials",
+    "link": "https://doi.org/10.1093/europace/euag163",
+    "doi": "10.1093/europace/euag163",
+    "journal": "EP Europace",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Randomized trials comparing percutaneous left atrial appendage occlusion (LAAO) with oral anticoagulation (OAC) for stroke prevention in patients with atrial fibrillation have yielded conflicting results across device generations and anticoagulant eras. This Bayesian meta-analysis of randomized trials aimed to compare LAAO vs. OAC for stroke or systemic embolism (SSE) and non-procedural clinically relevant bleeding (CRB).\n                  \n                  \n                    Methods and results\n                    We conducted a systematic search across five databases (PubMed, Embase, Scopus, Web of Science, and Cochrane CENTRAL) to identify randomized trials of LAAO vs. OAC. Primary outcomes of stroke or systemic embolism, non-procedural CRB and clinical benefit composite were estimated using a Bayesian hierarchical random effects model and findings confirmed across robust sensitivity and subgroup analyses. Posterior probabilities for superiority, non-inferiority and equivalence were estimated using clinically meaningful margins. Six randomized trials including 7004 participants in the intention-to-treat groups, were analysed. LAAO was not associated with lower SSE vs. OAC (pooled RR, 1.11; 95% CrI, 0.80\u20131.49), with a 74.6% posterior probability of favouring OAC. The posterior probability of crossing non-inferiority was P(HR &amp;lt; 1.4) of 89%. In contrast, LAAO reduced non-procedural CRB (pooled RR, 0.59; 95% CrI, 0.45\u20130.78). The net clinical benefit composite, pooling contemporary trials, demonstrated a pooled RR of 0.90 (95% CrI 0.51\u20131.50), with P(RR &amp;lt; 1) of 76%, with substantial heterogeneity for this outcome.\n                  \n                  \n                    Conclusion\n                    This Bayesian meta-analysis found no clear evidence supporting clinically meaningful non-inferiority of LAAO over OAC for stroke prevention. Despite reduced non-procedural bleeding, LAAO did not demonstrate a similar reduction in major bleeding.",
+    "summary": "This Bayesian meta-analysis of 6 randomized trials (7,004 participants) found that percutaneous left atrial appendage occlusion (LAAO) was not non-inferior to oral anticoagulation for stroke or systemic embolism prevention in atrial fibrillation patients, though LAAO did reduce non-procedural clinically relevant bleeding. The net clinical benefit favored oral anticoagulation despite the bleeding advantage with LAAO."
+  },
+  {
+    "title": "Long-term efficacy and safety of left atrial appendage closure vs. oral anticoagulation in atrial fibrillation: a meta-analysis of randomized controlled trials",
+    "link": "https://doi.org/10.1093/europace/euag159",
+    "doi": "10.1093/europace/euag159",
+    "journal": "EP Europace",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Left atrial appendage closure (LAAC) has emerged as an alternative to oral anticoagulation (OAC) for stroke prevention in atrial fibrillation (AF), but its long-term comparative efficacy remains uncertain. This systematic review and meta-analysis evaluated randomized controlled trials (RCTs) comparing LAAC with OAC in AF.\n                  \n                  \n                    Methods and results\n                    MEDLINE, Embase, Scopus, and the Cochrane Database of Systematic Reviews were searched through 8 April 2026. Risk ratios (RR) with 95% confidence intervals (CI) were pooled using random-effects models. Certainty of evidence (CoE) was assessed using GRADE. Six RCTs involving 7004 participants were included (3681 assigned to LAAC and 3323 to OAC). Compared with OAC, LAAC resulted in a significantly higher risk of ischaemic stroke or systemic embolism (134 vs. 80 events; RR 1.41, 95% CI 1.07\u20131.86; moderate CoE). No significant differences were observed for any stroke or systemic embolism (RR 1.10, 95% CI 0.87\u20131.39; moderate CoE), all-cause mortality (RR 0.92, 95% CI 0.77\u20131.10; high CoE), cardiovascular mortality (RR 0.90, 95% CI 0.67\u20131.21; moderate CoE), non-cardiovascular mortality (RR 0.92, 95% CI 0.75\u20131.12; moderate CoE), major bleeding (RR 0.91, 95% CI 0.77\u20131.08; high CoE), or haemorrhagic stroke (RR 0.58, 95% CI 0.28\u20131.17; moderate CoE). LAAC reduced the risk of nonprocedural clinically relevant bleeding compared with OAC (RR 0.50, 95% CI 0.43\u20130.59; high CoE).\n                  \n                  \n                    Conclusion\n                    In patients with AF, LAAC results in a higher risk of ischaemic stroke or systemic embolism than an OAC-based strategy. Compared with OAC, LAAC has no effect on major bleeding or mortality and does not reduce haemorrhagic stroke.",
+    "summary": "This meta-analysis of 6 RCTs (n=7004) comparing left atrial appendage closure (LAAC) with oral anticoagulation (OAC) for stroke prevention in atrial fibrillation found that LAAC was associated with significantly higher risk of ischemic stroke or systemic embolism (RR 1.41) with no differences in mortality, major bleeding, or hemorrhagic stroke between strategies. LAAC did reduce nonprocedural clinically relevant bleeding compared to OAC."
+  },
+  {
+    "title": "Left atrial appendage closure in patients with atrial fibrillation: grey zones involving trials, meta-analysis, and decision-making",
+    "link": "https://doi.org/10.1093/europace/euag182",
+    "doi": "10.1093/europace/euag182",
+    "journal": "EP Europace",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transseptal Access Complication: Fractured and Trapped Wire Segment",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.042",
+    "doi": "10.1016/j.hrcr.2026.06.042",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "The blanking interval after atrial fibrillation ablation: time for reassessment with pulsed field energy\u2014Authors\u2019 reply",
     "link": "https://doi.org/10.1093/europace/euag165",
     "doi": "10.1093/europace/euag165",
@@ -6168,207 +6363,6 @@
     "date_ts": 1780711186.260294,
     "tags": [
       "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Adjunctive Posterior Left Atrial Ablation using Pulsed Field Ablation on Healthcare Utilization in Patients Undergoing First-time Catheter Ablation for Atrial Fibrillation: Results from the Multicentre SENTINEL Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024574?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 06, 2026",
-    "date_ts": 1780711186.260244,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Anxiety and Depression in Patients with Atrial Fibrillation: Insights from Two International Prospective Registries",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024537?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 06, 2026",
-    "date_ts": 1780711186.260199,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Antisense-Mediated Gene Therapy Targeting <em>DMPK</em> Restores Cardiac Ion Channel Function and Electrical Stability in Myotonic Dystrophy Type 1",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024562?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 06, 2026",
-    "date_ts": 1780711186.260038,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Epicardial Sinus Node Modification Using 5% Dextrose Insulation to Prevent Phrenic Nerve Injury: A Case Report",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70162?af=R",
-    "doi": "10.1111/pace.70162",
-    "journal": "PACE",
-    "date": "Jun 05, 2026",
-    "date_ts": 1780657256.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Sinus node modification for drug\u2010refractory inappropriate sinus tachycardia (IST) is limited by the risk of phrenic nerve injury, particularly when the target substrate is located along the high right atrium and superior vena cava region. Various mechanical and electrical strategies have been proposed to mitigate this risk; however, effective insulation of the phrenic nerve during epicardial ablation remains challenging.\n                  \n                  \n                    Case Summary\n                    We report a patient with highly symptomatic, drug\u2010refractory IST who underwent sinus node modification after failure of conventional endocardial ablation. Due to persistent phrenic nerve capture at the intended ablation sites, a percutaneous epicardial approach was undertaken. Injection of 5% dextrose in water (D5W) into the pericardial space was used as an electrically insulating medium to displace and protect the phrenic nerve, allowing effective epicardial radiofrequency delivery without phrenic nerve injury. Acute procedural success was achieved, with a significant reduction in sinus rate and symptomatic improvement during follow\u2010up.\n                  \n                  \n                    Complications\n                    The post\u2010procedural course was complicated by a localized pericardial effusion and dense pericardial adhesions observed during re\u2010intervention. These findings were managed conservatively and are discussed as potentially related to procedural factors, including extensive epicardial ablation and local inflammatory response, rather than attributed to a single causative mechanism.\n                  \n                  \n                    Conclusion\n                    This case illustrates the feasibility of using D5W as an epicardial insulating medium to facilitate sinus node modification in close proximity to the phrenic nerve. While effective phrenic nerve protection was achieved, the occurrence of pericardial complications underscores the need for cautious patient selection, meticulous procedural technique, and further evaluation of safety strategies when employing non\u2010physiologic insulating solutions in the epicardial space.",
-    "summary": "This case report describes a patient with drug-refractory inappropriate sinus tachycardia who underwent percutaneous epicardial sinus node modification using 5% dextrose injection as an electrically insulating medium to protect the phrenic nerve, achieving acute procedural success with symptom improvement but complicated by pericardial effusion and adhesions requiring further investigation of safety profiles for this technique."
-  },
-  {
-    "title": "Successful CRT Reimplantation After Coronary Sinus Total Occlusion Using CTO Wire Escalation Techniques: A Case Report",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70163?af=R",
-    "doi": "10.1111/pace.70163",
-    "journal": "PACE",
-    "date": "Jun 05, 2026",
-    "date_ts": 1780657256.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  Coronary sinus (CS) abnormalities represent a major technical challenge during cardiac resynchronization therapy (CRT) reimplantation following transvenous lead extraction. Complete CS occlusion may preclude left ventricular (LV) lead delivery and often necessitates alternative pacing strategies or surgical epicardial lead placement. We report a case of successful CRT reimplantation in a patient with complete CS occlusion encountered during a right\u2010sided approach. The occlusion was crossed using a stepwise guidewire escalation strategy adapted from chronic total occlusion (CTO) percutaneous coronary intervention techniques, followed by sequential balloon venoplasty. Despite the occurrence of a long\u2010segment CS dissection, the LV lead was successfully advanced and implanted with stable electrical parameters. This case illustrates that selected CS occlusions during CRT procedures may be managed percutaneously using contemporary interventional tools and techniques.",
-    "summary": "This is a case report describing successful percutaneous management of complete coronary sinus occlusion during CRT reimplantation using stepwise guidewire escalation and balloon venoplasty techniques adapted from chronic total occlusion interventions, resulting in stable LV lead placement despite iatrogenic dissection."
-  },
-  {
-    "title": "Zero\u2010Fluoroscopy Left Bundle Branch Pacing in Pregnancy Using Electroanatomic Mapping",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70169?af=R",
-    "doi": "10.1111/pace.70169",
-    "journal": "PACE",
-    "date": "Jun 05, 2026",
-    "date_ts": 1780657256.0,
-    "tags": [
-      "Devices",
-      "Imaging"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Left bundle branch pacing (LBBP) offers physiological ventricular activation and has been proposed as an effective pacing strategy in young patients, particularly to prevent pacing\u2010induced cardiomyopathy. In vulnerable populations, such as pregnant women, eliminating fluoroscopy is paramount to avoid fetal radiation exposure.\n                  \n                  \n                    Case Summary\n                    We describe a 23\u2010year\u2010old pregnant woman (20 weeks gestation) presenting with symptomatic complete atrioventricular (AV) block. A dual\u2010chamber pacemaker with LBBP was implanted using a three\u2010dimensional (3D) electroanatomic mapping (EAM) system, with complete fluoroscopy avoidance. The procedure was successful and safe, with stable pacing parameters and a favorable maternal\u2010fetal outcome.\n                  \n                  \n                    Conclusion\n                    This case highlights the feasibility and safety of zero\u2010fluoroscopy LBBP guided by 3D EAM in pregnant patients, offering a radiation\u2010free alternative in high\u2010risk scenarios.",
-    "summary": "This case report describes successful implantation of a dual-chamber pacemaker with left bundle branch pacing in a 23-year-old pregnant woman (20 weeks gestation) with complete atrioventricular block using three-dimensional electroanatomic mapping guidance with zero fluoroscopy exposure, demonstrating the feasibility and safety of this technique in pregnant patients to avoid fetal radiation."
-  },
-  {
-    "title": "Issue Information",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70245?af=R",
-    "doi": "10.1111/pace.70245",
-    "journal": "PACE",
-    "date": "Jun 05, 2026",
-    "date_ts": 1780657256.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pacing Ratio Changes of an Implanted Permanent Pacemaker After Transcatheter Aortic Valve Implantation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70138?af=R",
-    "doi": "10.1111/pace.70138",
-    "journal": "PACE",
-    "date": "Jun 05, 2026",
-    "date_ts": 1780657256.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    In some patients, transcatheter aortic valve implantation (TAVI) is associated with conduction disturbances, necessitating permanent pacemaker implantation (PMI). The clinical course of conduction disturbances after PMI, based on the type of TAVI valve, remains unclear. Therefore, the present study aimed to evaluate the effects of different types of TAVI valves on the clinical course of conduction disturbances.\n                  \n                  \n                    Methods\n                    In total, 480 patients, including 230 with self\u2010expandable (SE) valves and 250 with balloon\u2010expandable (BE) valves, who underwent TAVI between January 2016 and December 2024, were enrolled in this study. The characteristics of patients who required PMI and the changes in the ventricular pacing ratio were compared.\n                  \n                  \n                    Results\n                    \n                      There was no significant difference in PMI factors depending on the type of valve. Computed tomography (CT) images showed that the length of the membranous septum (MS) in the PMI group did not differ from the length of the MS in the non\u2010PMI group. There was a significant difference in improvement in autologous AV conduction between the SE and BE groups at PMI time (SE group vs. BE group; 11/15 [66.7%] vs. 3/11 [27.3%],\n                      p\n                      \u00a0=\u00a00.047). At 1 month follow\u2010up, the SE group improved significantly compared to the BE group (SE vs. BE; 14/15 [93.3%] vs. 4/11 [33.3%],\n                      p\n                      \u00a0=\u00a00.002).\n                    \n                  \n                  \n                    Conclusion\n                    Restoration of autologous AV conduction and subsequent decrease in ventricular pacing ratio were more likely in the SE group and less variable in the BE group. This result indicates that PM dependency can be reduced by using an extended AVD setting or AVH.",
-    "summary": "This retrospective study of 480 TAVI patients (230 self-expandable, 250 balloon-expandable valves) compared permanent pacemaker implantation rates and conduction recovery between valve types, finding significantly greater restoration of atrioventricular conduction in the self-expandable group at implantation (66.7% vs 27.3%, p=0.047) and 1-month follow-up (93.3% vs 33.3%, p=0.002), suggesting self-expandable valves may result in reduced pacemaker dependency through optimized atrioventricular delay programming."
-  },
-  {
-    "title": "Safety and Efficacy of MA01\u2010100: A Prospective Multicenter Trial of China's First Domestic Implantable Cardiac Monitor",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70141?af=R",
-    "doi": "10.1111/pace.70141",
-    "journal": "PACE",
-    "date": "Jun 05, 2026",
-    "date_ts": 1780657256.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Unexplained syncope and palpitations are common chief complaints in the outpatient department of cardiology. Their sporadic and unpredictable poses significant diagnostic challenges. Implantable cardiac monitors (ICMs) can monitor arrhythmia events efficiently, and can overcome the shortcomings of traditional electrocardiogram (ECG) detection tools such as Holter. However, the high cost of imported ICM devices limits accessibility for patients in China. The MA01\u2010100 (Singular Medical, Suzhou, China), the first domestically developed ICM, may offer a cost\u2010effective alternative. This study aimed to evaluate the safety and efficacy of the MA01\u2010100 compared with standard surface electrocardiography (ECG) for arrhythmia monitoring in Chinese patients.\n                  \n                  \n                    Methods\n                    A prospective, paired design trial was conducted across six hospitals in China. Sixty\u2010four participants underwent implantation of the MA01\u2010100 ICM device. As the self\u2010control group, patients were also assessed using a surface ECG at implantation, and 30\u2010 and 90\u2010day follow\u2010ups. The primary efficacy endpoints were the sensitivity and positive predictive value (PPV) of R wave detection at 30 days post\u2010implantation. Secondary endpoints included R wave amplitude stability, QRS complex morphology consistency, arrhythmia event detection rate, arrhythmia event identification accuracy, clinical performance evaluation of the programmer, and remote transmission function assessment. Safety was evaluated by the incidence rates of major adverse events (MAEs), serious adverse events (SAEs), and device defects within 3 months of follow\u2010up.\n                  \n                  \n                    Results\n                    All 64 patients who met the inclusion criteria were enrolled in the trial. They underwent successful cardiac monitor implantation with acceptable sensitivity and PPV of R wave detection. The mean sensitivity was 99.98 \u00b1 0.10%, with a minimum of 99.34%. The two\u2010sided 95% confidence interval (CI) for the compliance rate was (94.40%\u2013100.00%). The mean PPV was 99.94 \u00b1 0.35%, with a minimum of 97.35%. The two\u2010sided 95% CI for the compliance rate was (94.40%\u2013100.00%). Two patients (3.1%) experienced mild implantation site infections; no device defects or SAEs were observed. All pre\u2010defined efficacy and safety benchmarks were met.\n                  \n                  \n                    Conclusion\n                    This study provides the first prospective, multicenter clinical evaluation of the safety and efficacy of an intracardiac monitor (ICM) independently developed in China. It systematically validated the device's clinical performance, thereby filling the gap in China's ICM field across the entire chain of \u201cindependent development\u2013clinical validation\u2013translational application.\u201d The results demonstrate that the ICM meets the requirements for clinical use, providing new support for improving the accessibility of arrhythmia diagnostic services in China and offering a reference for formulating globally cost\u2010effective cardiac monitoring strategies.",
-    "summary": "This prospective, paired-design trial of 64 Chinese patients evaluated the MA01-100 domestically developed implantable cardiac monitor (ICM) versus standard surface ECG for arrhythmia detection, demonstrating excellent R wave detection sensitivity (99.98%) and positive predictive value (99.94%) with minimal adverse events (3.1% mild infections, no serious complications), supporting its safety and efficacy as a cost-effective alternative to imported ICM devices."
-  },
-  {
-    "title": "Jugular Journeys: A Novel Approach for AVEIR Leadless Pacemaker Implantation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70147?af=R",
-    "doi": "10.1111/pace.70147",
-    "journal": "PACE",
-    "date": "Jun 05, 2026",
-    "date_ts": 1780657256.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    The jugular approach for Micra leadless pacemaker (LP) implantation offers potential advantages over the femoral route, however data on safety and feasibility for the relatively larger AVEIR LP implantation through the jugular vein is limited. This study evaluated the procedural safety and short\u2010term clinical outcomes of AVEIR ventricular LP implantation via the internal jugular vein (IJV).\n                  \n                  \n                    Methods\n                    All consecutive patients undergoing AVEIR LP implantation via the IJV at our center between November 2023 and July 2025 were included. Procedural details, device electrical parameters and complications were collected from patient electronic records.\n                  \n                  \n                    Results\n                    Eighteen patients (median age 76 years, 33% female) had an AVEIR LP implantation via the IJV. Implantation was successful in 17/18 patients (94%). The median duration of the procedures was 65.5\u00a0min (45.0\u2013134.0) with a median fluoroscopy time of 11.2\u00a0min (7.4\u201342.3). Median follow\u2010up time was 9.9 months (0.6\u201319.5). During follow up the device electrical parameters remained stable with, mean R\u2010wave amplitude 8.83\u00a0mV \u00b1 3.6, pacing threshold 0.75\u00a0V. \u00b1 0.4\u00a0V and impedance 730 \u00b1 338 \u03a9; with an average estimated battery longevity of 16.0 \u00b1 4.5 years. Two minor procedural complications occurred: one requiring conversion to femoral access, and one requiring an additional transvenous pacemaker lead due to elevated pacing thresholds. No vascular complications were observed.\n                  \n                  \n                    Conclusion\n                    AVEIR ventricular LP implantation via the IJV is safe and feasible, with stable electrical performance, during short\u2010term follow\u2010up. While the larger device size may challenge AVEIR implantations in smaller hearts, using the delivery sheath as a support to create a sharper curve facilitates the procedure.",
-    "summary": "This retrospective case series of 18 patients demonstrates that AVEIR leadless pacemaker implantation via the internal jugular vein is safe and feasible, with 94% procedural success, stable electrical parameters at median 9.9-month follow-up, and only two minor complications (one requiring femoral conversion, one requiring additional lead placement) with no vascular complications observed."
-  },
-  {
-    "title": "Antibacterial Envelope Use in Cardiac Implantable Electronic Devices: A Systematic Review and Meta\u2010Analysis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70153?af=R",
-    "doi": "10.1111/pace.70153",
-    "journal": "PACE",
-    "date": "Jun 05, 2026",
-    "date_ts": 1780657256.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Antimicrobial envelopes are increasingly used to prevent cardiac implantable electronic device (CIED) infections, but prior meta\u2010analyses\u2014performed largely before the accumulation of contemporary cohorts\u2014reported heterogeneous effects and limited exploration of effect\u2010modifiers.\n                  \n                  \n                    Objective\n                    To update the evidence on antibacterial envelope effectiveness using contemporary studies and standardized infection definitions, and to quantify absolute and relative risk reductions across clinically relevant subgroups (device power, de novo vs. reintervention) with rigorous bias and robustness analyses.\n                  \n                  \n                    Methods\n                    We conducted a systematic review and meta\u2010analysis adhering to PRISMA. We included randomized and observational studies comparing absorbable antibiotic\u2010eluting or antibacterial envelopes versus standard care at CIED implantation or revision. \u201cMajor CIED infection\u201d was prespecified per international consensus criteria. We used Mantel\u2013Haenszel random\u2010effects models, prespecified subgroup analyses, leave\u2010one\u2010out sensitivity analyses, and GRADE. Risk of bias was assessed with RoB2/ROBINS\u2010I.\n                  \n                  \n                    Results\n                    \n                      Seven studies (13,306 patients; one randomized trial, six observational cohorts) met inclusion criteria. Antibacterial envelope use significantly reduced overall CIED infection (OR 0.55, 95% CI 0.33\u20130.92;\n                      p\n                      = 0.02), driven by a marked reduction in pocket infections (OR 0.32, 95% CI 0.19\u20130.52;\n                      p\n                      &lt; 0.01). Systemic infection (OR 1.33, 95% CI 0.46\u20133.81;\n                      p\n                      = 0.60) and all\u2010cause mortality (OR 0.83, 95% CI 0.59\u20131.19;\n                      p\n                      = 0.32) were not significantly affected. Benefits were most pronounced in high\u2010risk subgroups.\n                    \n                  \n                  \n                    Conclusion\n                    Antibacterial envelopes substantially reduce pocket\u2010related CIED infections without altering systemic infection or mortality. These findings support their selective use in patients at elevated risk, particularly those undergoing generator replacement, pocket revision, or CRT implantation.",
-    "summary": "This meta-analysis of 7 studies (13,306 patients; 1 RCT, 6 observational cohorts) found that antibacterial envelopes at CIED implantation/revision significantly reduced overall infection risk (OR 0.55) and pocket infections specifically (OR 0.32), but did not affect systemic infections or mortality. The authors recommend selective use in high-risk patients, particularly those undergoing device replacement or CRT implantation."
-  },
-  {
-    "title": "Impact of Pulmonary Vein Anatomy on Outcomes in Patients Undergoing Cryoballoon Ablation for Atrial Fibrillation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70154?af=R",
-    "doi": "10.1111/pace.70154",
-    "journal": "PACE",
-    "date": "Jun 05, 2026",
-    "date_ts": 1780657256.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Effective pulmonary vein isolation (PVI) using cryoballoon (CB) ablation relies on adequate pulmonary vein (PV) occlusion, which may be influenced by PV and left atrial (LA) anatomy.\n                  \n                  \n                    Objectives\n                    To evaluate the impact of PV and LA anatomy, assessed by cardiac computed tomography (CT), on long\u2010term outcomes and complications following CB ablation for AF.\n                  \n                  \n                    Methods\n                    This retrospective study included 416 patients (54.8% female, mean age 57.5 \u00b1 12.4 years) who underwent CB ablation for symptomatic AF. Paroxysmal AF was present in 87% and persistent AF in 13% of patients. Arctic Front Advance or Arctic Front Advance PRO catheters were used. All patients had preprocedural cardiac CT. AF recurrence and procedural complications were evaluated over a median follow\u2010up of 46.5 months (range: 6\u2013116).\n                  \n                  \n                    Results\n                    \n                      Freedom from AF was observed in 73.1% of patients during follow\u2010up. Multivariable Cox regression analysis revealed that the maximum diameter of right superior PV (RSPV) (HR: 1.076, 95% CI: 1.003\u20131.154,\n                      p\n                      = 0.040) and the frontal angle of the left superior PV (LSPV) (HR:0.984, 95% CI: 0.968\u20130.999,\n                      p\n                      = 0.048) were independent predictors of recurrence. Independent predictors of phrenic nerve injury included the frontal angle of the RSPV (OR: 1.072, 95% CI: 1.020\u20131.126,\n                      p\n                      = 0.006) and the distance between the RSPV and the right phrenic nerve bundle (OR: 0.327, 95% CI: 0.188\u20130.579,\n                      p\n                      &lt; 0.001).\n                    \n                  \n                  \n                    Conclusion\n                    Specific PV anatomical features influence AF recurrence and PNI after CB ablation. Preprocedural cardiac CT may help tailor ablation strategies and optimize patient outcomes.",
-    "summary": "This retrospective study of 416 patients undergoing cryoballoon ablation for atrial fibrillation found that specific pulmonary vein anatomical features on preprocedural cardiac CT independently predicted outcomes: larger right superior pulmonary vein diameter and more acute left superior pulmonary vein angles were associated with increased AF recurrence (73.1% freedom from AF at median 46.5-month follow-up), while wider right superior pulmonary vein angles and closer proximity to the phrenic nerve predicted phrenic nerve injury. Individualized ablation strategies based on anatomical assessment may improve clinical outcomes."
-  },
-  {
-    "title": "Exercise Capacity and the Force Frequency Relationship in Multi\u2010Point Versus Single\u2010Point Pacing: A Randomized Trial",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70164?af=R",
-    "doi": "10.1111/pace.70164",
-    "journal": "PACE",
-    "date": "Jun 05, 2026",
-    "date_ts": 1780657256.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Quadripolar left ventricular (LV) epicardial leads capable of multipoint pacing (MPP) may have an advantage over conventional bipolar leads for delivering cardiac resynchronization therapy (CRT) by stimulating the lateral LV wall from two distinct locations simultaneously.\n                  \n                  \n                    Aim\n                    We aimed to determine the acute and longer\u2010term effects of MPP compared with single\u2010point pacing (SPP) on LV contractility and exercise capacity in individuals with heart failure with reduced ejection fraction receiving CRT.\n                  \n                  \n                    Methods\n                    Participants were enrolled into a randomized crossover study with echocardiographic assessment of the comparative effects of acute MPP and SPP on LV contractility and cardiopulmonary exercise testing at 6\u2010weeks and 6\u2010months following device implantation. Participants were then randomized in a parallel\u2010group study to either MPP or SPP for further 6\u2010months.\n                  \n                  \n                    Results\n                    \n                      Twenty\u2010three participants (mean age 73 years [95% confidence interval: 69, 78], 91% male, 91% New York Heart Association [NYHA] class II, LV ejection fraction 31.3% [27.4, 35.1]) were included. At resting heart rates, LV contractility was significantly higher with MPP compared to SPP (2.29 mmHg/mL/m\n                      2\n                      [1.74, 2.84] vs. 2.03 [1.58, 2.47];\n                      p\n                      = 0.019). However, it was not different between MPP and SPP at higher heart rates or at 6\u2010months, and there were no differences in exercise performance between MPP and SPP at any point including following 6 months of chronic treatment.\n                    \n                  \n                  \n                    Conclusion\n                    Although CRT with MPP resulted in improved LV contractility at resting heart rates acutely post implantation, it did not translate into consistent mechanistic or patient\u2010orientated benefits in the short or longer\u2010term.",
-    "summary": "This randomized crossover and parallel-group study of 23 heart failure patients compared multipoint pacing (MPP) versus single-point pacing (SPP) using quadripolar LV epicardial leads for CRT, finding that while MPP improved LV contractility at rest acutely post-implantation, this advantage did not persist at higher heart rates, at 6 months, or translate into improved exercise capacity or functional benefits."
-  },
-  {
-    "title": "Psychological Effects and Perspectives in Patients With ICD Implantation: A Deep Insight From Resource\u2010Limited Setting",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70167?af=R",
-    "doi": "10.1111/pace.70167",
-    "journal": "PACE",
-    "date": "Jun 05, 2026",
-    "date_ts": 1780657256.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    The implantable cardioverter\u2010defibrillator (ICD) is an intervention for patients with cardiac abnormalities, serving as both a primary and secondary prevention of sudden cardiac death. However, reduced quality of life and adverse psychological effects have been reported. This qualitative study aims to gain further insights into the perspectives and psychological impacts of living with an ICD.\n                  \n                  \n                    Findings and Conclusion\n                    A comprehensive interview was conducted with 15 participants who were selected from a follow\u2010up clinic. The interviews were subjected to qualitative descriptive analysis, and verbatim transcripts were coded and analyzed using a thematic analysis approach. Through this process, five main themes emerged from the data: (i) Shock experiences and concerns regarding receiving shock, (ii) lack of concern about receiving shock, (iii) changes in health and quality of life after implantation, (iv) expectations from implantation, and (v) follow\u2010up program as a concern reliever. Overall, this qualitative study provided valuable insights into the experiences, perspectives, and psychological effects of living with an ICD. Remarkably, the majority of participants demonstrate a lack of concern about getting shocked from an ICD. The investigation revealed additional concerns associated with the device, highlighting that these concerns can vary among individuals. Additionally, the follow\u2010up program for individuals with ICDs should prioritize enhancing quality of life and supporting mental well\u2010being, rather than focusing solely on the function of the device. General questions to screen for anxiety and depression triggered by device implantation should be conducted in every setting.",
-    "summary": "This qualitative descriptive study of 15 ICD patients used thematic analysis of semi-structured interviews to explore psychological impacts and quality of life after implantation, identifying five major themes including shock experiences, changes in health-related quality of life, and the role of follow-up programs in relieving psychological burden. The findings suggest that most patients had minimal concerns about device-related shocks, but highlighted the need for integrated mental health screening and psychosocial support alongside routine device surveillance."
-  },
-  {
-    "title": "ECG Characteristics and Stellate Ganglion Blockade for Electrical Storm",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002448?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 05, 2026",
-    "date_ts": 1780625296.774644,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
