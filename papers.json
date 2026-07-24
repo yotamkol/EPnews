@@ -1,5 +1,77 @@
 [
   {
+    "title": "Late-Onset Initial Ventricular Tachyarrhythmias in Older Patients With Brugada Syndrome Not Having Coronary Artery Disease",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006535?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 24, 2026",
+    "date_ts": 1784856459.674085,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Incremental Innovation With Unanswered Questions: The Evolution of Left Atrial Appendage Closure Devices",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005426?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 24, 2026",
+    "date_ts": 1784856459.674047,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Beta-Blockers and Exercise in Young Patients With Long QT Syndrome: Rigor Brings Fresh Insights",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006523?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 24, 2026",
+    "date_ts": 1784856459.67398,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Long-Term Outcomes of Low Anterior Axillary Implantation for Cardiac Implantable Electronic Devices in Patients with Limited Pectoral Access: A Single-Center Experience",
+    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600320X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 24, 2026",
+    "date_ts": 1784856459.559294,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "When lightning strikes? An interdisciplinary educational opportunity between cardiology and forensic pathology.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025993?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 24, 2026",
+    "date_ts": 1784856459.414036,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Author's reply to Letter to the Editor: When lightning strikes? An interdisciplinary educational opportunity between cardiology and forensic pathology",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026007?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 24, 2026",
+    "date_ts": 1784856459.413863,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Combined Impact of Paced QRS Duration and RV Pacing Burden on Heart Failure Admission: Identifying Clinical Progression to Stage C/D in Pacemaker Recipients:",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003181?dgcid=rss_sd_all",
     "doi": null,
@@ -3339,6 +3411,18 @@
     "summary": "I don't have an abstract to summarize\u2014the text provided only contains a conflict of interest disclosure statement. Please provide the actual research abstract (objectives, methods, results, and conclusions sections) for me to create the requested summary."
   },
   {
+    "title": "Correction to: Haemolysis and myocardial and neural injury after monopolar pulsed field ablation using a novel lattice-tip catheter to treat atrial fibrillation",
+    "link": "https://doi.org/10.1093/europace/euag187",
+    "doi": "10.1093/europace/euag187",
+    "journal": "EP Europace",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Comparative evaluation of left atrial appendage occlusion and oral anticoagulation: a Bayesian meta-analysis of randomized controlled trials",
     "link": "https://doi.org/10.1093/europace/euag163",
     "doi": "10.1093/europace/euag163",
@@ -6278,91 +6362,6 @@
     "date_ts": 1780711186.543451,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Rare Occurence of Simultaneous Dual Tachycardias: Simultaneous Fascicular VT With AVNRT",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004342?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 06, 2026",
-    "date_ts": 1780711186.543378,
-    "tags": [
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "3D Mapping-Guided Cardioneuroablation as a Pacemaker-Sparing Strategy in Refractory Cardioinhibitory Vasovagal Syncope: A Brief Report",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002461?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 06, 2026",
-    "date_ts": 1780711186.375014,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Near Real-Time Interactive N-body Model of the Left Atrium for Exploratory Arrhythmia Induction and Ablation Simulation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002485?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 06, 2026",
-    "date_ts": 1780711186.374974,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Dronedarone vs Class Ic Agents for Early AF : Protocol for the DRIVE-AF Randomized Clinical Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002473?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 06, 2026",
-    "date_ts": 1780711186.374936,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Individualized Dose\u2013Response Algorithm Versus Weight-Based Heparin Dosing for Intraprocedural Anticoagulation During Atrial Fibrillation Ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002497?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 06, 2026",
-    "date_ts": 1780711186.374871,
-    "tags": [
-      "AFib",
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Para-His periaortic VT ablation with focal pulsed-field energy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024525?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 06, 2026",
-    "date_ts": 1780711186.260335,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Focal monopolar pulsed field ablation of postero-medial papillary muscle premature ventricular contractions with early cardiac MRI assessment: Case Report.",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024550?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 06, 2026",
-    "date_ts": 1780711186.260294,
-    "tags": [
-      "Imaging"
     ],
     "hot": false
   }
