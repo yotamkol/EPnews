@@ -1,5 +1,89 @@
 [
   {
+    "title": "Optimizing Pulsed Field Ablation: Results From a 1,000-Patient Cohort",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005591?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 25, 2026",
+    "date_ts": 1784942868.222921,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Effects of Pulsed Field Ablation for Pulmonary Vein Isolation on Vein of Marshall Electrograms",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005682?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 25, 2026",
+    "date_ts": 1784942868.222842,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Author's reply to: Methodological considerations in evaluating socioeconomic outcomes after atrial fibrillation ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003259?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 25, 2026",
+    "date_ts": 1784942868.082786,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Bachmann's Bundle Area Pacing in Korea: High Procedural Success and Stable Mid-Term Lead Performance in a Two-Center Cohort",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003193?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 25, 2026",
+    "date_ts": 1784942868.082746,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Combined Epicardial and Endocardial Ablation for Atrial Fibrillation: An Updated Best Practices Guide to Hybrid Convergent Procedures",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003211?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 25, 2026",
+    "date_ts": 1784942868.082705,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Long-Term Progression of Tricuspid Regurgitation After Transvenous Lead Extraction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003272?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 25, 2026",
+    "date_ts": 1784942868.082636,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Concussion-AF Trial: Longitudinal Assessment of Brain Injury Biomarkers and Cognitive Decline in Elderly Patients with Atrial Fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025877?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 25, 2026",
+    "date_ts": 1784942867.964866,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Late-Onset Initial Ventricular Tachyarrhythmias in Older Patients With Brugada Syndrome Not Having Coronary Artery Disease",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006535?dgcid=rss_sd_all",
     "doi": null,
@@ -68,6 +152,60 @@
     "date_ts": 1784856459.413863,
     "tags": [
       "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Electrophysiological Mechanisms of Typical Atrial Flutter After Atrial Switch Operation: Critical Role of the Septal Corridor",
+    "link": "https://doi.org/10.1161/circep.125.014777",
+    "doi": "10.1161/circep.125.014777",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Jul 24, 2026",
+    "date_ts": 1784851200.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    Peritricuspid, or cavotricuspid isthmus\u2013dependent, atrial flutter is the most common arrhythmia in patients with dextro-transposition of the great arteries treated with atrial switch surgery, but its underlying mechanisms remain poorly understood.\n                  \n                  \n                    METHODS:\n                    Twenty consecutive patients with prior atrial switch surgery referred for atrial flutter ablation were included. All underwent transbaffle puncture and high-density mapping. Anatomic barriers, activation patterns, conduction velocities, and low-voltage areas were assessed.\n                  \n                  \n                    RESULTS:\n                    In all cases of peritricuspid atrial flutter, surgical incisions defined the posterior boundary of the circuit. The narrowest segment of the reentry was consistently located within a septal corridor bounded posteriorly by the baffle incision and anteriorly by the tricuspid annulus. Slow conduction (&lt;30 cm/s) was identified in this septal corridor in 92% of peritricuspid flutters and in 85% of patients during sinus or paced rhythm. Low-voltage areas were limited and frequently colocalized with regions of slow conduction. No patient exhibited slow conduction or low voltage at the cavotricuspid isthmus. The septal corridor was also involved in 60% of nonperitricuspid reentrant atrial tachycardias. Programmed atrial stimulation with S2 mapping accentuated conduction delay in this region, with demonstration of functional block and induction of atrial flutter.\n                  \n                  \n                    CONCLUSIONS:\n                    In patients with dextro-transposition of the great arteries corrected by atrial switch, surgical incisions define posterior boundaries and create a narrow septal corridor, or baffle-tricuspid isthmus, characterized by slow conduction and a propensity for functional block. These anatomic and electrophysiological features likely underlie the high prevalence of peritricuspid reentry in this population, representing a ubiquitous critical substrate for arrhythmia initiation and maintenance. Systematic cavotricuspid isthmus ablation should, therefore, be considered in these patients.",
+    "summary": "This prospective observational study of 20 patients with prior atrial switch surgery for dextro-transposition of the great arteries undergoing high-density mapping demonstrated that surgical incisions create a narrow septal corridor (baffle-tricuspid isthmus) with slow conduction (<30 cm/s) that serves as the critical reentry substrate in 92% of peritricuspid atrial flutter cases, distinct from the cavotricuspid isthmus. These findings suggest that systematic ablation targeting this baffle-tricuspid isthmus, rather than the traditional cavotricuspid isthmus, may be the appropriate therapeutic approach for atrial flutter in this population."
+  },
+  {
+    "title": "Efficacy and Safety of Pulsed Field Ablation During Repeat Procedures for Treatment of Recurrent Atrial Arrhythmias After Pulmonary Vein Isolation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70458?af=R",
+    "doi": "10.1111/jce.70458",
+    "journal": "J Cardiovasc EP",
+    "date": "Jul 23, 2026",
+    "date_ts": 1784807886.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Little is known about the efficacy and safety of pulsed field ablation (PFA) for repeat ablation procedures for patients with recurrent atrial fibrillation (AF) after pulmonary vein (PV) isolation.\n                  \n                  \n                    Objective\n                    The purpose of this study was to evaluate and compare the efficacy and safety of PFA using a pentaspline ablation catheter with radiofrequency ablation (RFA) in repeat ablation procedures for atrial arrhythmia.\n                  \n                  \n                    Methods\n                    We compared 320 patients (mean age 71\u2009\u00b1\u200911 years, 61% male) who underwent repeat ablation procedures with PFA and RFA. Procedural data, including lesion set\u2010specific acute success, safety endpoints, and recurrence of atrial arrhythmia were compared between groups.\n                  \n                  \n                    Results\n                    \n                      Overall, 200 and 120 patients were treated with PFA and RFA during repeat ablation, respectively. Although the rate of baseline PV reconnection was comparable between groups, PV, posterior wall, and superior vena cava ablation were targeted in significantly more patients in the PFA group compared to the RFA group. In the PFA group, PV, posterior wall, and superior vena cava isolation were successfully achieved by PFA alone in 100% cases. Adjunctive RFA was required in 31% of anterior wall and 50% of lateral mitral isthmus PFA cases to achieve line of block. Procedure times were significantly shorter in the PFA group. Major complication rates were comparable between the groups (PFA vs. RFA, 0% vs. 1.7%,\n                      p\n                      \u2009=\u20090.067). Freedom from atrial arrhythmia recurrence at 1 year was similar between PFA and RFA groups (59% vs. 56%; log\u2010rank\n                      p\n                      \u2009=\u20090.71).\n                    \n                  \n                  \n                    Conclusion\n                    Use of PFA with a pentaspline catheter for repeat AF ablation was associated with more extensive ablation compared to RFA with low complication rates but did not result in increased freedom from AF recurrence.",
+    "summary": "This retrospective comparative study of 320 patients (200 PFA, 120 RFA) evaluated pulsed field ablation versus radiofrequency ablation for repeat atrial fibrillation ablation procedures, finding that PFA achieved shorter procedure times and more extensive lesion sets with comparable safety, but similar 1-year arrhythmia recurrence rates (59% vs. 56%)."
+  },
+  {
+    "title": "Unraveling Sex Disparities of Atrial Fibrillation/Flutter in Asia: Contributions of Lifestyle Factors (Smoking, Excessive Alcohol Intake) and Life Expectancy",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70462?af=R",
+    "doi": "10.1111/jce.70462",
+    "journal": "J Cardiovasc EP",
+    "date": "Jul 23, 2026",
+    "date_ts": 1784806823.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    The burden of atrial fibrillation/atrial flutter (AF/AFL) continues to increase globally, particularly in rapidly ageing regions such as Asia. However, the contributions of population aging, life expectancy, and lifestyle\u2010related risk factors to sex\u2010specific disparities in AF/AFL burden remain poorly understood.\n                  \n                  \n                    Objectives\n                    To investigate sex\u2010specific differences in AF/AFL burden across Asia and evaluate the contributions of population ageing, life expectancy, and modifiable risk factors using Global Burden of Disease (GBD) data.\n                  \n                  \n                    Methods and Results\n                    GBD data were used to assess AF/AFL prevalence, incidence, disability\u2010adjusted life years (DALYs), mortality, and attributable risk factors across 34 Asian countries and regions, stratified by sex and age. In 2023, AF/AFL affected 59.10 million individuals worldwide, with Asia accounting for nearly half of the global burden. Prevalence and incidence were consistently higher in males, whereas females, particularly at older ages, experienced a greater burden of DALYs and mortality. Marked heterogeneity was observed across Asian countries. Population ageing emerged as a major driver of AF/AFL burden, with most Asian countries classified as aging or aged societies. Hypertension was the leading attributable risk factor overall, while smoking and excessive alcohol consumption contributed disproportionately to the male burden. Forecasting analyzes projected a continued increase in AF/AFL burden through 2036.\n                  \n                  \n                    Conclusion\n                    AF/AFL remains a growing public health challenge across Asia. Although prevalence is higher in males, elderly females bear a disproportionately greater burden of disability and mortality. Population ageing, together with smoking and excessive alcohol consumption in men, may contribute substantially to these sex disparities. Sex\u2010 and age\u2010specific prevention and management strategies are needed to reduce the future burden of AF/AFL in Asia.",
+    "summary": "This retrospective analysis of Global Burden of Disease data across 34 Asian countries and regions found that while AF/AFL prevalence and incidence are higher in males, elderly females experience greater disability-adjusted life years and mortality burden, with population aging and modifiable risk factors (hypertension, smoking, alcohol) identified as major contributors to these sex-specific disparities. The study projects continued increase in AF/AFL burden through 2036, supporting the need for sex- and age-targeted prevention strategies."
+  },
+  {
+    "title": "Listening to the Right Ventricle: Invasive Hemodynamics to Refine Risk Before Ventricular Tachycardia Ablation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70442?af=R",
+    "doi": "10.1111/jce.70442",
+    "journal": "J Cardiovasc EP",
+    "date": "Jul 23, 2026",
+    "date_ts": 1784805328.0,
+    "tags": [
+      "VT"
     ],
     "hot": false
   },
@@ -6232,137 +6370,5 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Background\n                    Anti\u2010tachycardia pacing (ATP) that entrains but fails to terminate ventricular tachycardia (VT) provides an opportunity to use post\u2010pacing interval minus tachycardia cycle length (PPI\u2009\u2212\u2009TCL) as a diagnostic tool. We evaluated whether PPI\u2009\u2212\u2009TCL from failed ATP could predict the presence of epicardial re\u2010entrant VT circuits in patients with ischemic cardiomyopathies (ICM) vs. non\u2010ischemic cardiomyopathies (NICM).\n                  \n                  \n                    Methods\n                    A retrospective analysis was conducted of 51 patients who underwent VT ablation at Beth Israel Deaconess Medical Center from January 2020 to March 2025 and had failed ATP episodes recorded by their implantable cardioverter\u2010defibrillators (ICDs). PPI\u2009\u2212\u2009TCL measurements and critical VT circuit locations (apex, septum, free wall, epicardial) were independently adjudicated. PPI\u2009\u2212\u2009TCL was stratified by VT location and cardiomyopathy type, with sensitivity analyses for normalized PPI\u2009\u2212\u2009TCL [(PPI\u2009\u2212\u2009TCL)/TCL].\n                  \n                  \n                    Results\n                    \n                      Included patients had a median age of 70 years, a median LVEF of 31%, 31 (61%) were infarct cardiomyopathy (ICM) and 20 (39%) were non\u2010infarct cardiomyopathies (NICM). ATP\u2010PPI was significantly longer at locations further from the ICD pacing electrode (i.e: free wall, epicardial) as compared to locations that were closer (i.e: apex, septum) (\n                      p\n                      \u2009=\u20090.023). This relationship held true for NICM (\n                      p\n                      \u2009=\u20090.026) but not for ICM (\n                      p\n                      \u2009=\u20090.085). For patients with non\u2010infarct cardiomyopathies, an optimal ATP\u2010PPI cutoff of 165\u2009ms provided an 86% sensitivity and 77% specificity for predicting epicardial circuits.\n                    \n                  \n                  \n                    Conclusion\n                    PPI\u2009\u2212\u2009TCL following failed ATP reliably predicts epicardial VT circuits in NICM with a 165\u2009ms cutoff offering high sensitivity and specificity. This non\u2010invasive tool may guide epicardial access planning in NICM VT ablation, though prospective validation is needed.",
     "summary": "This retrospective analysis of 51 patients (31 ICM, 20 NICM) undergoing VT ablation found that post-pacing interval minus tachycardia cycle length (PPI-TCL) from failed ATP episodes reliably predicts epicardial VT circuits in non-ischemic cardiomyopathies, with a 165 ms cutoff demonstrating 86% sensitivity and 77% specificity, though this relationship did not hold for ischemic cardiomyopathies. The findings suggest PPI-TCL could serve as a non-invasive tool to guide epicardial access planning in NICM VT ablation pending"
-  },
-  {
-    "title": "Early Arrhythmia Recurrence during the Blanking Period after Pulsed-field Ablation for Atrial Fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002242?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 07, 2026",
-    "date_ts": 1780798547.232005,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Dynamic changes in cardiac autonomic function persist in the post-acute phase after SARS-CoV-2 infection in a hamster model of COVID-19",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002515?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 07, 2026",
-    "date_ts": 1780798547.231936,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Prophylactic Surgical Left Atrial Appendage Exclusion in Sinus Rhythm: An Emerging Strategy With Unresolved Rhythm, Hemodynamic, and Management Questions",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024604?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 07, 2026",
-    "date_ts": 1780798547.104208,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Electrical Storm After Pulsed Field Ablation of Atrial Fibrillation in Patients with Impaired Left Ventricular Function",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024586?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 07, 2026",
-    "date_ts": 1780798547.104171,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Revisiting the development of the atrioventricular conduction axis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024598?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 07, 2026",
-    "date_ts": 1780798547.104129,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulmonary Vein and Posterior Wall Isolation Using the Circular Multielectrode Catheter for Treatment of Atrial Fibrillation: Acute and Long-Term Outcomes from <u>P</u>ulsed Fi<u>E</u>ld Ablation fo<u>R</u> PVI Using Pul<u>SESE</u>lect with Adjunct <u>PO</u>sterior Wal<u>L IS</u>olation (PERSEPOLIS) Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024549?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 07, 2026",
-    "date_ts": 1780798547.104076,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Damaged Myocardium Facilitates Arrhythmogenesis in a Canine Model of the Brugada Syndrome",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024616?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 07, 2026",
-    "date_ts": 1780798547.103883,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "CA in AF With LVSD With and Without LV Fibrosis: Results From the CAMERA-MRI II Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600441X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 06, 2026",
-    "date_ts": 1780711186.543559,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "When the LBBB Does Not Prolong the Tachycardia Cycle Length in Left-Sided AVRT",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002744?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 06, 2026",
-    "date_ts": 1780711186.543527,
-    "tags": [
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Chasing Sparks or Rewiring the Circuit?: Ablation Strategies for Ventricular Fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004640?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 06, 2026",
-    "date_ts": 1780711186.543492,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Nanosecond Pulsed-Field Ablation Reduces Neuromuscular Stimulation and Widens the Safety Window",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004366?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 06, 2026",
-    "date_ts": 1780711186.543451,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
   }
 ]
