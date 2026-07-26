@@ -1,5 +1,103 @@
 [
   {
+    "title": "Left Atrial Appendage Closure in Atrial Fibrillation",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2606055?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMc2606055",
+    "journal": "NEJM",
+    "date": "Jul 26, 2026",
+    "date_ts": 1785029429.420299,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "More on Digital Twin\u2013Guided Ablation for Ventricular Tachycardia",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2605923?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMc2605923",
+    "journal": "NEJM",
+    "date": "Jul 26, 2026",
+    "date_ts": 1785029429.420249,
+    "tags": [
+      "VT",
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "\u201cHybrid\u201d Voltage-Guided Endomyocardial Biopsy Performed Concurrently With Electrophysiology Procedures",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005797?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 26, 2026",
+    "date_ts": 1785029428.707122,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Catheter Ablation\u2013Related Severe Coronary Spasm Requiring Intracoronary Adrenaline",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005748?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 26, 2026",
+    "date_ts": 1785029428.707085,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Investigating the Association Between Atrial Fibrillation and Out-of-Hospital Cardiac Arrest: A Danish Nationwide Matched Cohort Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005578?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 26, 2026",
+    "date_ts": 1785029428.707031,
+    "tags": [
+      "AFib",
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Anticoagulation Decision Based on Atrial Fibrillation Ablation Outcomes and Long-Term Impact on Stroke. An ITHACA Database Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003235?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 26, 2026",
+    "date_ts": 1785029428.619337,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Awareness of the knowing\u2013doing gap in arrhythmia management: a clerkship-embedded multicomponent simulation package",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003223?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 26, 2026",
+    "date_ts": 1785029428.619298,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Epicardial Adipose Tissue as a Potential Modulator of Atrial and Ventricular Arrhythmogenesis: Mechanistic Insights and Clinical Implications",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003260?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 26, 2026",
+    "date_ts": 1785029428.619125,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Optimizing Pulsed Field Ablation: Results From a 1,000-Patient Cohort",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005591?dgcid=rss_sd_all",
     "doi": null,
@@ -82,6 +180,35 @@
       "AFib"
     ],
     "hot": false
+  },
+  {
+    "title": "Intracardiac Echocardiography\u2013Guided Left Atrial Appendage Occlusion: A Comprehensive Narrative Review",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70319?af=R",
+    "doi": "10.1111/pace.70319",
+    "journal": "PACE",
+    "date": "Jul 24, 2026",
+    "date_ts": 1784896549.0,
+    "tags": [
+      "AFib",
+      "Imaging"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  Intracardiac echocardiography (ICE) is an alternative to transesophageal echocardiography for imaging guidance during left atrial appendage occlusion (LAAO) in patients with atrial fibrillation with intolerance to long\u2010term oral anticoagulation. This narrative review synthesizes contemporary evidence on ICE\u2010guided LAAO. Across observational studies, ICE provides real\u2010time high\u2010resolution imaging enabling accurate trans\u2010septal puncture, device sizing, and deployment under conscious sedation. Procedural success, peri\u2010device leak, and device\u2010related thrombus rates appear comparable between ICE\u2010 and TEE\u2010guided LAAO, while ICE may also shorten fluoroscopy time and avoid general anesthesia. Challenges with ICE include operator learning curve, need for additional venous access and intracardiac catheter manipulation, that may add to risks like pericardial effusions, vascular complications and higher costs. Emerging 3D/4D ICE and artificial\u2010intelligence\u2013integrated computed tomographic planning may improve efficiency and allow for combined ablation and LAAO procedures. Further randomized controlled trials and cost\u2010effectiveness studies are needed to define the role of ICE\u2010first approach.",
+    "summary": "This narrative review of observational studies demonstrates that intracardiac echocardiography provides comparable procedural success and safety outcomes to transesophageal echocardiography for left atrial appendage occlusion in anticoagulation-intolerant atrial fibrillation patients, with potential advantages of reduced fluoroscopy time and avoidance of general anesthesia, though limited by operator learning curve and increased costs. Randomized controlled trials are needed to establish the optimal role of ICE-guided LAAO."
+  },
+  {
+    "title": "More Disease, Fewer Arrhythmic Events: A Competing\u2010Risk Signal for SGLT2 Inhibitors in ICD Recipients",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70371?af=R",
+    "doi": "10.1111/pace.70371",
+    "journal": "PACE",
+    "date": "Jul 24, 2026",
+    "date_ts": 1784895845.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    SGLT2 inhibitors (SGLT2i) reduce heart failure events across the ejection fraction spectrum, but their association with device\u2010adjudicated ventricular arrhythmias in real\u2010world primary\u2010prevention ICD recipients remains poorly characterized.\n                  \n                  \n                    Methods and Results\n                    \n                      In a prospectively maintained primary\u2010prevention ICD registry (\n                      n\n                      = 62; January 2021 onward), 36 patients (58%) were receiving SGLT2i at implantation. The primary endpoint was first appropriate ICD shock for sustained ventricular tachyarrhythmia; death without prior shock was the pre\u2010specified competing event. Cumulative incidence functions were estimated by the Aalen\u2010Johansen method. Over a median follow\u2010up of 752 days, 22 first appropriate shocks occurred. SGLT2i\u2010treated patients had more advanced structural disease (median LVEF 31%\u00a0vs. 51%) and lower baseline arrhythmic burden (NSVT 36%\u00a0vs. 69%) than untreated patients. Cumulative incidence of appropriate shock differed significantly between groups (Gray test\n                      p\n                      = 0.008). In a cause\u2010specific Cox model adjusted for LVEF and amiodarone use, SGLT2i was associated with a lower hazard of appropriate shock (HR 0.34; 95% CI 0.13\u20100.91;\n                      p\n                      = 0.031), confirmed by Fine\u2010Gray subdistribution analysis (sHR 0.36; 95% CI 0.13\u20100.99;\n                      p\n                      = 0.047). Results were consistent in an HFrEF sub\u2010cohort (LVEF 35% or less; HR 0.24; 95% CI 0.06\u20100.92;\n                      p\n                      = 0.037). Adjustment for baseline NSVT attenuated the association to non\u2010significance (HR 0.43;\n                      p\n                      = 0.12), reflecting confounding by arrhythmic substrate.\n                    \n                  \n                  \n                    Conclusion\n                    In this single\u2010center competing\u2010risk analysis, SGLT2i use at ICD implantation was associated with fewer device\u2010adjudicated arrhythmic events. Whether this reflects direct electrophysiological modification or favorable patient selection requires confirmation in larger cohorts.",
+    "summary": "This single-center prospective ICD registry (n=62, 36 SGLT2i-treated) found that SGLT2 inhibitor use at implantation was associated with a significantly lower hazard of appropriate ICD shocks for sustained ventricular tachyarrhythmia over median 752-day follow-up (HR 0.34, p=0.031), though this association was attenuated when adjusting for baseline arrhythmic burden, suggesting confounding by underlying arrhythmic substrate rather than direct drug effect."
   },
   {
     "title": "Late-Onset Initial Ventricular Tachyarrhythmias in Older Patients With Brugada Syndrome Not Having Coronary Artery Disease",
@@ -6237,138 +6364,5 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Background\n                    Pulsed\u2010field ablation (PFA) has transformed atrial fibrillation (AF) ablation, but how the early patient experience compares with thermal techniques remains unclear. This study aimed to assess patient\u2010reported outcome measures (PROMs) in the first 3 months after PFA or thermal AF ablation, using a novel smartphone\u2010based application.\n                  \n                  \n                    Methods\n                    Patients undergoing first\u2010time pulmonary vein isolation prospectively completed the Cardiac Ablation Recovery Evaluation (CARE) symptom questionnaire at five timepoints: baseline, day 1, day 7, day 30, and day 90. Symptoms were rated on a 7\u2010point Likert scale (0\u2009=\u2009not at all; 6\u2009=\u2009extremely). Patients also completed the Atrial Fibrillation Effect on QualiTy\u2010of\u2010life (AFEQT) questionnaire at baseline and day 90.\n                  \n                  \n                    Results\n                    \n                      Two hundred and two patients were included (pentaspline PFA: 66; radiofrequency: 64; cryoballoon: 72), with similar baseline demographics between groups, except for a lower prevalence of paroxysmal AF in the PFA group. Engagement with the smartphone\u2010based platform was high, with a 94.7% completion rate. Median AFEQT scores improved from 64 (47\u201382) at baseline to 86 (72\u201395) at day 90 (\n                      p\n                      \u2009&lt;\u20090.001), with no significant differences between modalities (\n                      p\n                      \u2009=\u20090.841). However, CARE detected differences in early symptom experience: chest pain was lowest with PFA at day 1 (median: PFA, 1 [0\u20132]; radiofrequency, 2 [1\u20132]; cryoballoon, 2 [1\u20132];\n                      p\n                      \u2009&lt;\u20090.001), and remained lower than cryoballoon at day 7 (\n                      p\n                      \u2009=\u20090.019), with differences resolving by day 30. Moderate\u2010to\u2010severe chest pain (score \u2265\u20093) occurred in only 12.3% of PFA patients at day 1, compared with 21.2% cryoballoon and 26.2% radiofrequency patients (\n                      p\n                      \u2009&lt;\u20090.001). Palpitations at day 1 were less frequent with PFA than radiofrequency (\n                      p\n                      \u2009=\u20090.040). Groin discomfort was lower with radiofrequency than PFA or cryoballoon at day 1 (\n                      p\n                      \u2009=\u20090.006) and day 7 (\n                      p\n                      \u2009&lt;\u20090.001), likely reflecting a smaller sheath size.\n                    \n                  \n                  \n                    Conclusions\n                    PFA was associated with a modest and transient reduction in early post\u2010procedural chest pain compared with thermal ablation. Smartphone application\u2010based PROMs collection using the CARE questionnaire was feasible, enabling structured assessment of symptom burden across multiple recovery timepoints.",
     "summary": "This prospective comparative study of 202 patients undergoing first-time pulmonary vein isolation demonstrated that pulsed-field ablation (PFA) resulted in significantly lower chest pain in the immediate post-procedural period (day 1-7) compared with radiofrequency and cryoballoon ablation, though this difference resolved by day 30 and overall quality-of-life improvements at 90 days were equivalent across all three modalities. Smartphone-based patient-reported outcome measures proved feasible for capturing early symptom differences between ablation techniques."
-  },
-  {
-    "title": "Impact of GLP\u20101 Receptor Agonist on Atrial Fibrillation Recurrence After Catheter Ablation in Non\u2010Obese Patients",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70317?af=R",
-    "doi": "10.1111/pace.70317",
-    "journal": "PACE",
-    "date": "Jun 09, 2026",
-    "date_ts": 1781000139.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Glucagon\u2010like peptide\u20101 receptor agonists (GLP\u20101 RAs) have been associated with reduced atrial fibrillation (AF) recurrence after catheter ablation in obese and diabetic populations, largely attributed to weight reduction. Whether these agents provide weight\u2010independent antiarrhythmic benefits remains unclear. We evaluated the association between GLP\u20101 RA therapy and long\u2010term clinical outcomes following AF ablation in non\u2010obese patients.\n                  \n                  \n                    Methods\n                    \n                      We conducted a retrospective cohort study using the TriNetX U.S. Collaborative Network. Adults (\u226518 years) with body mass index (BMI) \u226429.9\u00a0kg/m\n                      2\n                      who underwent AF ablation between 2010 and 2025 were identified. Patients receiving GLP\u20101 RAs within 6 months of ablation were compared with non\u2010users. Propensity score matching (1:1) balanced demographics, comorbidities, medications, and laboratory variables. Outcomes were assessed at 1 and 3 years following a 3\u2010month blanking period. Primary endpoints included atrial flutter, cardioversion, repeat ablation, and antiarrhythmic drug (AAD) use. Secondary outcomes included heart failure exacerbation, all\u2010cause hospitalization, stroke, and mortality.\n                    \n                  \n                  \n                    Results\n                    After matching, 1749 patients were included in each group (mean age 68 years; 38% female). At 1 year, GLP\u20101 RA use was associated with lower cardioversion (hazard ratio [HR] 0.61; 95% confidence interval [CI] 0.40\u20130.91), reduced AAD use (HR 0.68; 95% CI 0.61\u20130.77), decreased heart failure exacerbation (HR 0.53; 95% CI 0.32\u20130.85), and fewer hospitalizations (HR 0.69; 95% CI 0.51\u20130.94). Repeat ablation, stroke, and mortality were similar. At 3 years, reductions in cardioversion, AAD use, and heart failure exacerbation persisted.\n                  \n                  \n                    Conclusions\n                    In non\u2010obese patients undergoing AF ablation, GLP\u20101 RA therapy was associated with reduced arrhythmia\u2010related interventions and heart failure exacerbation, supporting potential weight\u2010independent antiarrhythmic effects. Prospective trials are warranted.",
-    "summary": "This retrospective cohort study of 3,498 non-obese patients (1,749 per group) using propensity score matching found that GLP-1 receptor agonist use within 6 months of AF ablation was associated with reduced cardioversion, antiarrhythmic drug use, heart failure exacerbation, and hospitalizations at 1 year, with benefits persisting at 3 years, suggesting weight-independent antiarrhythmic mechanisms. Repeat ablation, stroke, and mortality were comparable between groups."
-  },
-  {
-    "title": "Recovered Ejection Fraction After Cardiac Resynchronization Therapy: Cure or Remission?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70321?af=R",
-    "doi": "10.1111/pace.70321",
-    "journal": "PACE",
-    "date": "Jun 09, 2026",
-    "date_ts": 1780999725.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Zero\u2010Contrast Versus Contrast\u2010Guided Left Atrial Appendage Occlusion: A Comparative Analysis of Procedural and Long\u2010Term Outcomes",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70362?af=R",
-    "doi": "10.1111/jce.70362",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 08, 2026",
-    "date_ts": 1780924778.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Contrast injection is standard in left atrial appendage occlusion (LAAO) procedures but may be forgone given advances in imaging and device technology. The contrast\u2010free approach remains underexplored.\n                  \n                  \n                    Objectives\n                    To compare the safety and efficacy of zero\u2010contrast versus contrast\u2010guided LAAO.\n                  \n                  \n                    Methods\n                    All consecutive patients who underwent LAAO at our center between September 2018 and October 2022 using Watchman FLX\u2122 devices were enrolled in a prospectively maintained registry. A total of 621 patients were divided between zero\u2010contrast (326) and contrast\u2010guided (295) LAAO. Baseline, procedural, and follow\u2010up outcomes were compared. Periprocedural adverse events included major complications within 7 days. LAA closure success was defined as peri\u2010device leak \u2264\u20095\u2009mm on follow\u2010up imaging.\n                  \n                  \n                    Results\n                    \n                      Procedural success was 100% in zero\u2010contrast and 99.3% in contrast\u2010guided cases (\n                      p\n                      \u2009=\u20090.2). Periprocedural adverse events occurred in six (1.8%) zero\u2010contrast and two (0.7%) contrast\u2010guided patients (\n                      p\n                      \u2009=\u20090.3). At 45 days, 297 zero\u2010contrast versus 271 contrast\u2010guided patients had evaluable follow\u2010up imaging. LAA closure success was 99.3% (295) and 99.6% (270), respectively (\n                      p\n                      \u2009&gt;\u20090.99), while device\u2010related thrombus (DRT) was observed in three patients in each group (1.0% vs. 1.1%,\n                      p\n                      \u2009&gt;\u20090.99). At 1 year, 68 zero\u2010contrast and 79 contrast\u2010guided patients had TEEs. LAA closure success remained high at 100% in both groups and DRT was observed in three patients from each (4.4% vs. 3.8%,\n                      p\n                      \u2009&gt;\u20090.99). Ischemic stroke or systemic embolism occurred in 1.9% of zero\u2010contrast patients versus 2.1% in the contrast group within 1 year (\n                      p\n                      \u2009=\u20090.8).\n                    \n                  \n                  \n                    Conclusions\n                    Zero\u2010contrast LAAO is a safe, effective, and efficient alternative to contrast\u2010guided implantation, with comparable procedural and clinical outcomes.",
-    "summary": "This prospective registry study of 621 patients (326 zero-contrast, 295 contrast-guided) undergoing Watchman FLX left atrial appendage occlusion found that zero-contrast LAAO achieved equivalent procedural success (100% vs 99.3%), periprocedural safety (1.8% vs 0.7% adverse events), and clinical efficacy including LAA closure success (99.3-100% at 45 days and 1 year) and device-related thrombus rates (1.0-1.1% at 45 days, 3.8-4.4% at 1 year) compared to contrast"
-  },
-  {
-    "title": "Electrophysiological Characteristics of the Right Middle Pulmonary Vein and the Impact of Additional Carina Ablation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70309?af=R",
-    "doi": "10.1111/pace.70309",
-    "journal": "PACE",
-    "date": "Jun 08, 2026",
-    "date_ts": 1780889946.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Previous studies have demonstrated electrical connections between ipsilateral pulmonary veins (PVs). This study aimed to characterize the electrophysiological features of right middle pulmonary vein (RMPV) originating from right superior pulmonary vein (RSPV).\n                  \n                  \n                    Methods\n                    We prospectively enrolled patients with atrial fibrillation (AF) with an identifiable RMPV on pre\u2010procedural cardiac computed tomography angiography (CTA) and in whom a multipolar mapping catheter could be advanced into the RMPV. Cardiac CTA was used to assess left atrial and PV anatomy, including ostial diameter, area and ovality index. The RMPV was defined as an inferiorly directed branch arising from the ostium\u2010proximal segment of the RSPV, within 1\u00a0cm from the ostium\n                  \n                  \n                    Results\n                    \n                      A total of 118 patients were included (mean age 63.9 years, 63.6% male). The mean RMPV ostial area was 0.69\u00a0\u00b1\u00a00.41 cm\n                      2\n                      , with maximum and minimum diameters of 0.83\u00a0\u00b1\u00a00.21\u00a0cm and 0.63\u00a0\u00b1\u00a00.17\u00a0cm, respectively. The mean ovality index was 1.35\u00a0\u00b1\u00a00.27 for RMPV. AF triggers originating from the RMPV were identified in 3 patients (2.5%). During circumferential pulmonary vein isolation (CPVI), RMPV potentials were eliminated in 99 patients (83.9%), concurrently with disappearance of RSPV potentials. In the remaining 19 patients, RMPV potentials persisted after CPVI and required additional carina ablation to achieve isolation. After a mean follow\u2010up of 41 months, 96 patients remained free from atrial tachyarrhythmia recurrence after the index procedure.\n                    \n                  \n                  \n                    Conclusions\n                    RMPV potentials predominantly originate from the RSPV and can usually be eliminated during CPVI. However, additional carina ablation is required in a subset of patients to achieve RMPV isolation.",
-    "summary": "This prospective study of 118 AF patients characterized the electrophysiological features of anatomic right middle pulmonary veins (RMPV) originating from the right superior pulmonary vein, finding that standard circumferential pulmonary vein isolation eliminated RMPV potentials in 83.9% of cases, though additional carina ablation was necessary in 16.1% of patients to achieve complete isolation. At 41-month follow-up, 81.4% of patients remained free from atrial tachyarrhythmia recurrence after the index procedure."
-  },
-  {
-    "title": "Is Coffee Consumption Associated With Increased Risk of Atrial Fibrillation: A Systematic Review and a Meta\u2010Analysis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70320?af=R",
-    "doi": "10.1111/pace.70320",
-    "journal": "PACE",
-    "date": "Jun 08, 2026",
-    "date_ts": 1780889778.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Objective\n                    Although coffee consumption is often reported as a trigger for atrial fibrillation (AF), prospective studies on the association between coffee consumption and AF risk have been inconsistent. Hence, we sought to assess the association between coffee consumption and risk of AF.\n                  \n                  \n                    Methods\n                    We searched PubMed, Embase, and Cochrane Library up to November 30, 2025, without language restriction. We included cohort or nested case\u2010control studies that enrolled participants with no AF history who did not drink coffee or had daily coffee consumption. The outcome was the risk of new\u2010onset AF in participants with coffee consumption.\n                  \n                  \n                    Results\n                    Overall, 9 observational cohorts were selected for this meta\u2010analysis, comprising 704,121 individuals and 35,253 new\u2010onset AF cases. The subgroup analysis showed a reduced new\u2010onset AF risk among participants who drank coffee for less than or equal to 1 cup daily (RR: 0.96; 95%CI: 0.93\u20130.99), but no significant association with new\u2010onset AF risk among those who drank 1\u20133 cups/d (RR: 0.95; 95%CI: 0.85\u20101.06), 3\u20135 cups/d (RR: 0.96; 95%CI: 0.91\u20131.02), \u22654 cups/d (RR: 0.89; 95%CI: 0.78\u20131.02), or \u22655 cups/d (RR: 0.93; 95%CI: 0.86\u20131.02). Compared with the lowest level of coffee intake, the overall estimate of the highest coffee consumption in the included studies also showed that \u22654 cups/d were not significantly associated with reduced risk of new\u2010onset AF (RR: 0.95; 95% CI: 0.89\u20131.02). In addition, this result was consistent across men (RR: 1.05; 95% CI: 0.97\u20131.14) and women (RR: 0.91; 95% CI: 0.80\u20131.04).\n                  \n                  \n                    Conclusion\n                    Daily coffee consumption of 1 cup or less can reduce the risk of new\u2010onset AF. However, higher coffee consumption is not associated with the risk of new\u2010onset AF.",
-    "summary": "This meta-analysis of 9 observational cohort studies (704,121 participants, 35,253 AF cases) found that coffee consumption \u22641 cup daily was associated with a modest reduction in new-onset atrial fibrillation risk (RR 0.96), while higher consumption (1-5+ cups daily) showed no significant association with AF risk. The findings suggest coffee is not a clinically important AF trigger, contrary to common patient concerns."
-  },
-  {
-    "title": "Prognostic value of the baseline CAVIAR response score after cardiac resynchronization therapy: ten-year outcomes from the Markers and Response to CRT (MARC) study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602463X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 08, 2026",
-    "date_ts": 1780885922.926632,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Outcomes of left atrial appendage closure versus oral anticoagulation after catheter ablation among patients with higher and lower stroke risk: A sub-analysis of the OPTION clinical trial.",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024628?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 08, 2026",
-    "date_ts": 1780885922.926464,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Screening for Atrial Fibrillation using an ECG Monitoring Patch among the Elderly Population in Rural China: A Single-Arm Study",
-    "link": "https://doi.org/10.1093/europace/euag135",
-    "doi": "10.1093/europace/euag135",
-    "journal": "EP Europace",
-    "date": "Jun 08, 2026",
-    "date_ts": 1780876800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "In Vitro Assessment of 3T MRI Effects on Non\u20133T\u2010Compatible Cardiac Implantable Electronic Devices",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70397?af=R",
-    "doi": "10.1111/jce.70397",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 07, 2026",
-    "date_ts": 1780857641.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    The safety of cardiac implantable electronic devices (CIEDs) during 3\u2010Tesla (3T) MRI remains uncertain, particularly for devices not designed for 3T use. We experimentally evaluated 3T MRI effects on 3T\u2010compatible and non\u20133T\u2010compatible CIEDs.\n                  \n                  \n                    Methods\n                    \n                      Fifty\u2010eight CIEDs (37 pacemakers, 21 ICDs; 3T MRI\u2010conditional\n                      n\n                      \u2009=\u200931, 1.5\u2010T MRI\u2010conditional\n                      n\n                      \u2009=\u200914, and non\u2013MRI\u2010conditional\n                      n\n                      \u2009=\u200913) were tested in a 3T scanner. Each device was immersed in saline with connected leads and programmed to asynchronous or demand pacing with MRI mode ON or OFF. Device interrogation before and after scanning assessed telemetry integrity, parameter retention, and pacing\u2010mode changes.\n                    \n                  \n                  \n                    Results\n                    \n                      Most CIEDs completed MRI without malfunction and remained telemetric. However, among pacemakers, telemetry failure or parameter reset occurred in 6 non\u2013MRI\u2010conditional and 3 1.5\u2010T MRI\u2010conditional devices, including some devices with MRI mode ON. Reset or telemetry failure was more frequent in devices with low battery status (\u2264\u200930% to ERI) than in those with higher status (6/11 [55%] vs. 3/22 [14%],\n                      p\n                      =\u20090.013). With MRI mode OFF, magnet mode was activated in 11 3T and 7 non\u2013MRI\u2010conditional pacemakers; activation frequency did not differ between asynchronous and demand pacing (16/31 [52%] vs. 18/31 [58%],\n                      p\n                      =\u20090.610). In some pacemakers and ICDs, demand pacing led to atrial mode switch or pacing inhibition, but no reset or telemetry failure occurred in ICDs.\n                    \n                  \n                  \n                    Conclusions\n                    In direct in vitro 3T MRI exposure experiments involving non\u20133T MRI CIEDs, some pacemakers approaching ERI demonstrated an increased risk of telemetry failure or reset, and those with MRI mode turned off showed non\u2010negligible mode switching. However, the majority of devices did not exhibit severe electrical malfunctions necessitating replacement in a clinical setting, and no instances of device reset or telemetry failure were observed in ICDs.",
-    "summary": "This in vitro experimental study tested 58 CIEDs (37 pacemakers, 21 ICDs) during 3T MRI exposure and found that while most devices functioned without malfunction, non-3T-compatible and 1.5T-conditional pacemakers with low battery status (\u226430% to ERI) had increased risk of telemetry failure or parameter reset (55% vs. 14%, p=0.013), whereas ICDs demonstrated no reset or telemetry failures. The findings suggest cautious consideration of 3T MRI in patients with pacemakers near end-of-life battery status, though severe malfunctions requiring device replacement were uncom"
-  },
-  {
-    "title": "Post Pacing Interval Following Failed Anti\u2010Tachycardia Pacing Predicts Epicardial Ventricular Tachycardia Circuits in Patients With Non\u2010Ischemic Cardiomyopathy",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70388?af=R",
-    "doi": "10.1111/jce.70388",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 07, 2026",
-    "date_ts": 1780857248.0,
-    "tags": [
-      "VT",
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Anti\u2010tachycardia pacing (ATP) that entrains but fails to terminate ventricular tachycardia (VT) provides an opportunity to use post\u2010pacing interval minus tachycardia cycle length (PPI\u2009\u2212\u2009TCL) as a diagnostic tool. We evaluated whether PPI\u2009\u2212\u2009TCL from failed ATP could predict the presence of epicardial re\u2010entrant VT circuits in patients with ischemic cardiomyopathies (ICM) vs. non\u2010ischemic cardiomyopathies (NICM).\n                  \n                  \n                    Methods\n                    A retrospective analysis was conducted of 51 patients who underwent VT ablation at Beth Israel Deaconess Medical Center from January 2020 to March 2025 and had failed ATP episodes recorded by their implantable cardioverter\u2010defibrillators (ICDs). PPI\u2009\u2212\u2009TCL measurements and critical VT circuit locations (apex, septum, free wall, epicardial) were independently adjudicated. PPI\u2009\u2212\u2009TCL was stratified by VT location and cardiomyopathy type, with sensitivity analyses for normalized PPI\u2009\u2212\u2009TCL [(PPI\u2009\u2212\u2009TCL)/TCL].\n                  \n                  \n                    Results\n                    \n                      Included patients had a median age of 70 years, a median LVEF of 31%, 31 (61%) were infarct cardiomyopathy (ICM) and 20 (39%) were non\u2010infarct cardiomyopathies (NICM). ATP\u2010PPI was significantly longer at locations further from the ICD pacing electrode (i.e: free wall, epicardial) as compared to locations that were closer (i.e: apex, septum) (\n                      p\n                      \u2009=\u20090.023). This relationship held true for NICM (\n                      p\n                      \u2009=\u20090.026) but not for ICM (\n                      p\n                      \u2009=\u20090.085). For patients with non\u2010infarct cardiomyopathies, an optimal ATP\u2010PPI cutoff of 165\u2009ms provided an 86% sensitivity and 77% specificity for predicting epicardial circuits.\n                    \n                  \n                  \n                    Conclusion\n                    PPI\u2009\u2212\u2009TCL following failed ATP reliably predicts epicardial VT circuits in NICM with a 165\u2009ms cutoff offering high sensitivity and specificity. This non\u2010invasive tool may guide epicardial access planning in NICM VT ablation, though prospective validation is needed.",
-    "summary": "This retrospective analysis of 51 patients (31 ICM, 20 NICM) undergoing VT ablation found that post-pacing interval minus tachycardia cycle length (PPI-TCL) from failed ATP episodes reliably predicts epicardial VT circuits in non-ischemic cardiomyopathies, with a 165 ms cutoff demonstrating 86% sensitivity and 77% specificity, though this relationship did not hold for ischemic cardiomyopathies. The findings suggest PPI-TCL could serve as a non-invasive tool to guide epicardial access planning in NICM VT ablation pending"
   }
 ]
