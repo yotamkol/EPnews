@@ -1,5 +1,53 @@
 [
   {
+    "title": "Distinct Electrophysiological Recurrence Phenotypes During Repeat Procedures After Balloon-in-Basket Pulsed Field Ablation Versus Cryoballoon Ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003302?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 27, 2026",
+    "date_ts": 1785116918.037842,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Doppler-derived cardiac performance and sequential electrocardiographic activation in patients with atrio-ventricular conduction disturbance and with normal conduction (DEEPER-PR study)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003296?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 27, 2026",
+    "date_ts": 1785116918.037808,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Methodological considerations in evaluating socioeconomic outcomes after atrial fibrillation ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003247?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 27, 2026",
+    "date_ts": 1785116918.037775,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Purkinje De-Networking for Ventricular Arrhythmias: Mechanisms, Clinical Evidence, and Future Directions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003284?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 27, 2026",
+    "date_ts": 1785116918.037562,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
     "title": "Left Atrial Appendage Closure in Atrial Fibrillation",
     "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2606055?af=R&rss=currentIssue",
     "doi": "10.1056/NEJMc2606055",
@@ -96,6 +144,32 @@
       "Other"
     ],
     "hot": false
+  },
+  {
+    "title": "Efficacy, Safety, and Procedural Outcomes of Pulsed\u2010Field Ablation for Paroxysmal Atrial Fibrillation: A Meta\u2010Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70375?af=R",
+    "doi": "10.1111/pace.70375",
+    "journal": "PACE",
+    "date": "Jul 25, 2026",
+    "date_ts": 1784991625.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Pulsed\u2010field ablation (PFA) is a novel, nonthermal modality for the treatment of atrial fibrillation (AF) that may reduce procedural complications compared with conventional thermal ablation methods.\n                  \n                  \n                    Methods and Results\n                    \n                      A systematic literature review was conducted to identify studies comparing PFA with second\u2010generation cryoballoon ablation (2G\u2010CBA) and contact force\u2010sensing radiofrequency ablation (CF\u2010RFA) for paroxysmal AF (pAF) from the inception of PFA to January 2026. A single\u2010arm meta\u2010analysis was performed using random\u2010effects models, reporting the arcsine of the square root transformation (PAS) or mean (95% CI) for each intervention. Overall, 29 studies (9 randomized controlled trials and 20 observational studies) were included. Arrhythmia recurrence rates were comparable across all three interventions [PFA: 23.90% (PAS 0.24, 95% CI 0.19\u20130.29,\n                      p\n                      \u00a0&lt;\u00a00.0001); CF\u2010RFA: 23.72% (PAS 0.24, 95% CI 0.19\u20130.29,\n                      p\n                      \u00a0&lt;\u00a00.0001); 2G\u2010CBA: 25.56% (PAS 0.26, 95% CI 0.20\u20130.31,\n                      p\n                      \u00a0&lt;\u00a00.001)]. Overall procedure time was significantly shorter with PFA than with CF\u2010RFA and comparable to 2G\u2010CBA [PFA: mean 87.66\u00a0min (95% CI 74.29\u2013101.04,\n                      p\n                      \u00a0&lt;\u00a00.001); CF\u2010RFA: mean 137.54\u00a0min (95% CI 123.65\u2013151.43,\n                      p\n                      \u00a0&lt;\u00a00.001); 2G\u2010CBA: mean 105.56\u00a0min (95% CI 89.93\u2013121.18,\n                      p\n                      \u00a0&lt;\u00a00.001)]. Fluoroscopy time was shorter with PFA than with 2G\u2010CBA but comparable to CF\u2010RFA [PFA: mean 16.12\u00a0min (95% CI 12.36\u201319.88); CF\u2010RFA: mean 17.28\u00a0min (95% CI 13.59\u201320.98); 2G\u2010CBA: mean 22.08\u00a0min (95% CI 18.23\u201325.94)]. Overall complication rates did not differ significantly among the three interventions [PFA: 2.93% (95% CI 1.87\u20134.22%); CF\u2010RFA: 3.66% (95% CI 1.84\u20136.07%); 2G\u2010CBA: 6.52% (95% CI 4.41\u20139.00%)]. The incidence of phrenic nerve palsy was significantly higher with 2G\u2010CBA than with PFA or CF\u2010RFA.\n                    \n                  \n                  \n                    Conclusion\n                    PFA demonstrated comparable efficacy and safety to CF\u2010RFA and 2G\u2010CBA, with a numerically shorter procedure time than CF\u2010RFA and a lower incidence of phrenic nerve palsy than 2G\u2010CBA, supporting PFA as a viable alternative to established ablation techniques for pAF."
+  },
+  {
+    "title": "Cardiometabolic and Endocrine Correlates of Left Atrial Scar in Patients Undergoing Atrial Fibrillation Ablation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70374?af=R",
+    "doi": "10.1111/pace.70374",
+    "journal": "PACE",
+    "date": "Jul 25, 2026",
+    "date_ts": 1784991538.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Atrial fibrillation (AF) is increasingly conceptualized as a manifestation of atrial cardiomyopathy characterized by progressive fibrosis and structural remodeling. Systemic inflammation may contribute to AF progression and pathogenesis. Elevated inflammatory biomarkers may represent a pro\u2010inflammatory state, playing a possible role in AF. Left atrial (LA) scar burden serves as a surrogate for atrial fibrosis; however, its association with inflammatory markers is less well established.\n                  \n                  \n                    Objectives\n                    The objectives of the study are as follows:\n                    To evaluate a possible association between LA scar burden and inflammatory markers.\n                    To identify additional markers correlated with higher scar burden.\n                  \n                  \n                    Methods\n                    \n                      We retrospectively analyzed patients undergoing first\u2010time AF ablation to explore the association between systemic inflammatory markers and LA scar burden. Biomarkers included high\u2010sensitivity C\u2010reactive protein (hsCRP), neutrophil\u2010to\u2010lymphocyte ratio (NLR), and N\u2010terminal pro\u2010brain natriuretic peptide (NT\u2010proBNP). Demographics, comorbidities, and CHA\n                      2\n                      DS\n                      2\n                      \u2010VASc score were recorded. LA scar was quantified during electroanatomic voltage mapping using the BioSense Webster Oct array catheter D1609.\n                    \n                  \n                  \n                    Results\n                    \n                      A total of 229 patients with AF were included;107 (46.7%) demonstrated significant atrial scar, while 122 (53.3%) did not have significant scar burden. Of these, 147 patients with complete biomarker data were included in the final analysis. Scar\u2010present patients had significantly higher NT\u2010proBNP, hsCRP, and BMI, along with a higher prevalence of dyslipidemia, obstructive sleep apnoea, and hypothyroidism, and a significantly different AF type distribution (all\n                      p\n                      \u00a0&lt;\u00a00.05). On univariable logistic regression, significant predictors of atrial scar included NT\u2010proBNP, BMI, hypothyroidism, Longstanding persistent Atrial Fibrillation (AF LS\u2010persistent), dyslipidemia, obstructive sleep apnea, and CHA\n                      2\n                      DS\n                      2\n                      \u2010VASc score, with hsCRP demonstrating a borderline association (\n                      p\n                      = 0.076). On multivariable logistic regression, LS\u2010persistent AF was the only independent predictor of significant atrial scar (\n                      p\n                      = 0.026), while BMI and hypothyroidism showed borderline independent associations (\n                      p\n                      \u00a0&lt;\u00a00.10).\n                    \n                  \n                  \n                    Conclusions\n                    Our findings suggest a possible correlation of inflammatory markers and Left Atrial scar burden. The association of other comorbidities, like higher BMI, hypothyroidism, dyslipidemia, and sleep apnea, with a higher atrial scar burden may be related to myocardial stress. This suggests an interplay of inflammatory markers and comorbidities, which result in a significant scar burden either directly or indirectly"
   },
   {
     "title": "Optimizing Pulsed Field Ablation: Results From a 1,000-Patient Cohort",
@@ -6286,83 +6360,5 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Background\n                    Low\u2010voltage areas (LVAs) detected via electroanatomic mapping (EAM) are key indicators of atrial remodeling and predictors of atrial fibrillation (AF) recurrence following pulmonary vein isolation (PVI). However, manual LVA quantification is time\u2010intensive, operator\u2010dependent, and prone to variability.\n                  \n                  \n                    Objective\n                    To validate the accuracy, consistency, and efficiency of automatic LVA quantification function of CARTONET\u2014a cloud\u2010based automated platform for LVA quantification\u2014by comparing it with conventional manual analysis in AF patients.\n                  \n                  \n                    Methods\n                    This retrospective study included 100 patients who underwent PVI for AF at a single center between January 2022 and December 2023. Manual LVA measurements were performed by experts using CARTO3. LVA quantification and anatomical segmentation were performed using CARTONET. LVA was stratified into four categories: low (&lt;5%), mild (5%\u201320%), moderate (20%\u201335%), and severe (&gt;35%). Statistical analyses included Spearman's rank correlation (\u03c1), Bland\u2013Altman agreement, and confusion matrices for categorical classification, with subgroup analysis based on segmentation errors and map point density. The number and the locations of segmentation errors were quantified.\n                  \n                  \n                    Results\n                    \n                      CARTONET demonstrated strong correlation with manual measurements across all LA regions (\n                      \u03c1\n                      \u00a0=\u00a00.928\u20130.983,\n                      p\n                      \u00a0&lt;\u00a00.01). Significant differences were observed in anterior and posterior walls (\n                      p\n                      \u00a0&lt;\u00a00.01), especially in low\u2010density maps. In high\u2010density maps, no significant differences were observed (\n                      p\n                      \u00a0\u2265\u00a00.07). Bland\u2013Altman analysis showed minimal bias (mean difference: \u22120.8%), and 96% of values fell within limits of agreement. The confusion matrix showed that categorical agreement for LVA stratification exceeded 90%. Segmentation errors were most common at the LSPV but did not significantly impact LVA quantification.\n                    \n                  \n                  \n                    Conclusion\n                    CARTONET offers reliable, efficient LVA quantification with high concordance to manual methods. Its performance in high\u2010quality maps supports its use in clinical and research settings, reducing operator workload and promoting standardized substrate evaluation.",
     "summary": "This retrospective study of 100 AF patients validated CARTONET, a cloud-based automated platform, for quantifying low-voltage areas on electroanatomic mapping, demonstrating strong correlation with manual analysis (\u03c1 = 0.928\u20130.983) and >90% categorical agreement for LVA stratification, with reliable performance particularly in high-density maps. The automated approach offers efficient, standardized substrate assessment while reducing operator-dependent variability compared to conventional manual quantification."
-  },
-  {
-    "title": "Top Developments in Clinical Cardiac Electrophysiology-2025",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002539?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781057318.575167,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Leadless Pacemaker Implantation During Pregnancy: Quantitative Assessment of Fetal Radiation Exposure",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002552?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781057318.574978,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "AF-B-STEP: a global collaboration to reduce the burden of atrial fibrillation and advance its quantification and treatment",
-    "link": "https://doi.org/10.1093/eurheartj/ehag304",
-    "doi": "10.1093/eurheartj/ehag304",
-    "journal": "European Heart Journal",
-    "date": "Jun 09, 2026",
-    "date_ts": 1780963200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Invasive Assessment of Right Ventricular Dysfunction Predicts Periprocedural Outcomes in Patients Undergoing Unplanned Ventricular Tachycardia Ablation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70393?af=R",
-    "doi": "10.1111/jce.70393",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 09, 2026",
-    "date_ts": 1781026868.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Risk stratification in patients undergoing urgent ventricular tachycardia (VT) ablation is limited, particularly regarding right ventricular dysfunction, which is often underrecognized in this setting.\n                  \n                  \n                    Objectives\n                    We investigated whether the right atrial pressure (RAP) to pulmonary capillary wedge pressure (PCWP) ratio or pulmonary artery pulsatility index (PAPi) predicts short\u2010term outcomes following urgent VT ablation.\n                  \n                  \n                    Methods\n                    \n                      We retrospectively analyzed 102 consecutive patients who underwent unplanned inpatient VT ablation and had right heart catheterization (RHC) within the preceding 12 months. All were admitted with recurrent VT; 67 (66%) had VT storm. Hemodynamic stratification was performed using two established indices of right\u2010sided function: RAP:PCWP\u2009&gt;\u20090.6 versus \u2264\u20090.6 and pulmonary artery pulsatility index (PAPi)\u2009&lt;\u20092 versus \u2265\u20092, calculated as\n                      (pulmonary artery systolic pressure \u2212 pulmonary artery diastolic pressure)/right atrial pressure\n                      . Outcomes included acute kidney injury (AKI), intraprocedural hemodynamic instability, 30\u2010day VT recurrence, 30\u2010day mortality/LVAD/transplant, delayed extubation, postoperative length of stay &gt;\u20097 days, and same\u2010day complications. Multivariable logistic regression adjusted for age, sex, LVEF, NYHA class, ischemic cardiomyopathy, RHC type, and moderate\u2010to\u2010severe MR/TR.\n                    \n                  \n                  \n                    Results\n                    \n                      The cohort was 88% male, mean age 64\u2009\u00b1\u200911.9 years; 47% had LVEF\u2009&lt;\u200925%, and 58% NYHA III\u2013IV symptoms. RAP:PCWP\u2009&gt;\u20090.6 was independently associated with higher risk of AKI (OR 10.4, 95% CI 2.4\u201314.1,\n                      p\n                      \u2009=\u20090.002) and intraprocedural hemodynamic instability (OR 6.1, 95% CI 1.5\u201316.3,\n                      p\n                      \u2009=\u20090.050). Age &gt;\u200960 also predicted AKI (OR 12.8, 95% CI 1.3\u201321.3). PAPi &lt;\u20092 and LVEF\u2009&lt;\u200925% were not associated with adverse outcomes.\n                    \n                  \n                  \n                    Conclusion\n                    Among urgent VT ablation patients, elevated RAP:PCWP, but not PAPi, identifies those at increased risk for AKI and intraprocedural hemodynamic instability. Incorporating RAP:PCWP into preprocedural assessment may enhance risk stratification.",
-    "summary": "This retrospective study of 102 consecutive patients undergoing urgent VT ablation found that an elevated right atrial pressure to pulmonary capillary wedge pressure ratio (RAP:PCWP > 0.6) independently predicted acute kidney injury (OR 10.4) and intraprocedural hemodynamic instability (OR 6.1), whereas pulmonary artery pulsatility index did not predict adverse outcomes. The authors conclude that RAP:PCWP may improve preprocedural risk stratification in this high-risk population."
-  },
-  {
-    "title": "Impacts of Hemodynamic Support on Ventricular Arrhythmia Ablation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70396?af=R",
-    "doi": "10.1111/jce.70396",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 09, 2026",
-    "date_ts": 1781026742.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Data on the efficacy of hemodynamic support (HS) for protecting ventricular arrhythmia (VA) ablation in high\u2010risk heart failure (HF) patients with an impaired left ventricular function and its impact on mortality is limited.\n                  \n                  \n                    Objectives\n                    This study aimed to assess procedural efficacy, related complications, VA\u2010free survival, and mortality of HF patients who underwent protected VA ablation with HS.\n                  \n                  \n                    Methods\n                    Data from consecutive HF patients undergoing VA ablation at our center between 2018 and 2024 were analyzed. HS included the treatment with an Impella, an extracorporeal membrane oxygenation (ECMO) or a left ventricular assist device (LVAD). Patients were classified based on their HF status according to current guidelines.\n                  \n                  \n                    Results\n                    \n                      A total of 187 patients (61.5\u2009\u00b1\u200910.9 years) were included. 124/187 patients were in advanced HF (66%, 63.5\u2009\u00b1\u20098.9 years). In 68/187 patients (36%, 60.8\u2009\u00b1\u20099.8 years), HS was required. Procedural parameter did not differ between the groups except for fluoroscopy times (\n                      p\n                      \u2009&lt;\u20090.001). Acute procedural success (\n                      p\n                      \u2009=\u20090.670) and major procedure\u2010related complications (\n                      p\n                      \u2009=\u20090.726) were comparable. In\u2010hospital mortality was higher in patients with HS (\n                      p\n                      \u2009&lt;\u20090.001). In advanced HF patients, freedom from VA\u2010recurrence was lower (\n                      p\n                      \u2009=\u20090.016) and mortality higher (\n                      p\n                      \u2009=\u20090.009). HS with an ECMO and LVAD, but not with an Impella, was associated with increased VA\u2010recurrence (hazard ratio [HR] 3.66, confidence Interval [CI] 1.732\u20137.715,\n                      p\n                      \u2009&lt;\u20090.001) and mortality (HR 3.95, CI 1.091\u201314.280,\n                      p\n                      \u2009=\u20090.036).\n                    \n                  \n                  \n                    Conclusion\n                    In high\u2010risk HF patients, VA ablation was feasible with comparable acute success and procedural complication rates. Patients with ECMO or LVAD showed higher in\u2010hospital mortality and higher VA recurrence compared to Impella\u2010supported procedures, likely reflecting more advanced disease severity rather than differences in procedural efficacy.",
-    "summary": "This retrospective cohort study of 187 heart failure patients (68 requiring hemodynamic support) undergoing ventricular arrhythmia ablation found comparable acute procedural success and major complication rates across support modalities, but patients supported with ECMO or LVAD experienced significantly higher in-hospital mortality and VA recurrence compared to Impella-supported patients, likely reflecting underlying disease severity rather than procedural differences. Impella support appeared safer than ECMO or LVAD for protected VA ablation in advanced heart failure patients."
-  },
-  {
-    "title": "Patient\u2010Reported Outcome Measures Following Pulsed\u2010Field Ablation Versus Thermal Ablation of Atrial Fibrillation: The PROMs\u2010PFA Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70392?af=R",
-    "doi": "10.1111/jce.70392",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 09, 2026",
-    "date_ts": 1781014267.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Pulsed\u2010field ablation (PFA) has transformed atrial fibrillation (AF) ablation, but how the early patient experience compares with thermal techniques remains unclear. This study aimed to assess patient\u2010reported outcome measures (PROMs) in the first 3 months after PFA or thermal AF ablation, using a novel smartphone\u2010based application.\n                  \n                  \n                    Methods\n                    Patients undergoing first\u2010time pulmonary vein isolation prospectively completed the Cardiac Ablation Recovery Evaluation (CARE) symptom questionnaire at five timepoints: baseline, day 1, day 7, day 30, and day 90. Symptoms were rated on a 7\u2010point Likert scale (0\u2009=\u2009not at all; 6\u2009=\u2009extremely). Patients also completed the Atrial Fibrillation Effect on QualiTy\u2010of\u2010life (AFEQT) questionnaire at baseline and day 90.\n                  \n                  \n                    Results\n                    \n                      Two hundred and two patients were included (pentaspline PFA: 66; radiofrequency: 64; cryoballoon: 72), with similar baseline demographics between groups, except for a lower prevalence of paroxysmal AF in the PFA group. Engagement with the smartphone\u2010based platform was high, with a 94.7% completion rate. Median AFEQT scores improved from 64 (47\u201382) at baseline to 86 (72\u201395) at day 90 (\n                      p\n                      \u2009&lt;\u20090.001), with no significant differences between modalities (\n                      p\n                      \u2009=\u20090.841). However, CARE detected differences in early symptom experience: chest pain was lowest with PFA at day 1 (median: PFA, 1 [0\u20132]; radiofrequency, 2 [1\u20132]; cryoballoon, 2 [1\u20132];\n                      p\n                      \u2009&lt;\u20090.001), and remained lower than cryoballoon at day 7 (\n                      p\n                      \u2009=\u20090.019), with differences resolving by day 30. Moderate\u2010to\u2010severe chest pain (score \u2265\u20093) occurred in only 12.3% of PFA patients at day 1, compared with 21.2% cryoballoon and 26.2% radiofrequency patients (\n                      p\n                      \u2009&lt;\u20090.001). Palpitations at day 1 were less frequent with PFA than radiofrequency (\n                      p\n                      \u2009=\u20090.040). Groin discomfort was lower with radiofrequency than PFA or cryoballoon at day 1 (\n                      p\n                      \u2009=\u20090.006) and day 7 (\n                      p\n                      \u2009&lt;\u20090.001), likely reflecting a smaller sheath size.\n                    \n                  \n                  \n                    Conclusions\n                    PFA was associated with a modest and transient reduction in early post\u2010procedural chest pain compared with thermal ablation. Smartphone application\u2010based PROMs collection using the CARE questionnaire was feasible, enabling structured assessment of symptom burden across multiple recovery timepoints.",
-    "summary": "This prospective comparative study of 202 patients undergoing first-time pulmonary vein isolation demonstrated that pulsed-field ablation (PFA) resulted in significantly lower chest pain in the immediate post-procedural period (day 1-7) compared with radiofrequency and cryoballoon ablation, though this difference resolved by day 30 and overall quality-of-life improvements at 90 days were equivalent across all three modalities. Smartphone-based patient-reported outcome measures proved feasible for capturing early symptom differences between ablation techniques."
   }
 ]
