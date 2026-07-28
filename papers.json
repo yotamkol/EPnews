@@ -1,5 +1,31 @@
 [
   {
+    "title": "Letter by Nayyar Regarding Article, \u201cGeometric Features of Ventricular Tachycardia Corridors in Patients With Ischemic Cardiomyopathy\u201d",
+    "link": "https://doi.org/10.1161/circulationaha.125.078896",
+    "doi": "10.1161/circulationaha.125.078896",
+    "journal": "Circulation",
+    "date": "Jul 28, 2026",
+    "date_ts": 1785196800.0,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Response by Xu et al to Letter Regarding Article, \u201cGeometric Features of Ventricular Tachycardia Corridors in Patients with Ischemic Cardiomyopathy\u201d",
+    "link": "https://doi.org/10.1161/circulationaha.126.080170",
+    "doi": "10.1161/circulationaha.126.080170",
+    "journal": "Circulation",
+    "date": "Jul 28, 2026",
+    "date_ts": 1785196800.0,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
     "title": "Distinct Electrophysiological Recurrence Phenotypes During Repeat Procedures After Balloon-in-Basket Pulsed Field Ablation Versus Cryoballoon Ablation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003302?dgcid=rss_sd_all",
     "doi": null,
@@ -71,6 +97,83 @@
       "AI"
     ],
     "hot": false
+  },
+  {
+    "title": "Phenomapping in Atrioventricular Nodal Reentrant Tachycardia: Mechanistic Insights and Therapeutic Implications",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70439?af=R",
+    "doi": "10.1111/jce.70439",
+    "journal": "J Cardiovasc EP",
+    "date": "Jul 26, 2026",
+    "date_ts": 1785072402.0,
+    "tags": [
+      "SVT"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Traditional classifications of atrioventricular nodal reentrant tachycardia (AVNRT) based on cardiac symptomatology, electrocardiographic findings, and reentrant circuits do not capture the full heterogeneity of AVNRT.\n                  \n                  \n                    Objective\n                    This study sought to identify distinct phenotypes among patients with AVNRT by using two\u2010step cluster analysis and to determine differential effects of phenotypes on clinical and procedural outcomes.\n                  \n                  \n                    Methods\n                    \n                      All patients (\n                      n\n                      \u2009=\u2009305) underwent catheter ablation and ajmaline challenge testing. A two\u2010step cluster analysis was conducted using 17 demographic/clinical, anthropometric, electrocardiographic, echocardiographic, and anatomic variables.\n                    \n                  \n                  \n                    Results\n                    \n                      Three distinct clinically and mechanistically relevant clusters were identified. Cluster 1 (Metabolic/Structural Phenotype,\n                      n\n                      \u2009=\u200944) patients were characterized by older age of onset of AVNRT (53.5\u2009\u00b1\u20098.5, 43.5\u2009\u00b1\u200915, and 24.7\u2009\u00b1\u200910.5 years,\n                      p\n                      \u2009=\u20094.9\u2009\u00d7\u200910\n                      \u221231\n                      ), shorter distance between coronary sinus floor and His bundle potential (22.7\u2009\u00b1\u20096.1, 24.7\u2009\u00b1\u20096.8, and 29\u2009\u00b1\u20097.5\u2009mm,\n                      p\n                      \u2009=\u20091.3\u2009\u00d7\u200910\n                      \u22127\n                      ), higher prevalence of \u201ccorrelated\u201d (diagnosed \u2265\u20094 years before AVNRT onset) type 2 diabetes (100%, 0%, and 0%,\n                      p\n                      \u2009=\u20095.9\u2009\u00d7\u200910\n                      \u221267\n                      ) and \u201ccorrelated\u201d (diagnosed \u2265\u20096 years before AVNRT onset) structural heart disease (86.4%, 100%, 0%,\n                      p\n                      \u2009=\u20093.5\u2009\u00d7\u200910\n                      \u221262\n                      ) compared to Cluster 2 (Structural Phenotype,\n                      n\n                      \u2009=\u200978) and Cluster 3 (Anatomic/Genetic Phenotype,\n                      n\n                      \u2009=\u2009183) patients, respectively. Cluster 1 patients had higher prevalence of \u201cpro\u2010arrhythmia\u201d (new\u2010onset and/or symptom worsening/intolerance) with anti\u2010arrhythmic therapy and/or non\u2010cardiac drugs (74.2%, 46.5%, and 31.6%,\n                      p\n                      \u2009=\u20091.5\u2009\u00d7\u200910\n                      \u22124\n                      ), AH prolongation/AV\u2010VA block (20.5%, 7.7%, and 2.2%,\n                      p\n                      \u2009=\u20098.9\u2009\u00d7\u200910\n                      \u22125\n                      ) and aborted ablation (11.4%, 1.3%, and 0%,\n                      p\n                      \u2009=\u20098.6\u2009\u00d7\u200910\n                      \u22125\n                      ) during EP study compared to Clusters 2 and 3 patients, respectively.\n                    \n                  \n                  \n                    Conclusion\n                    Phenomapping identified three clinically and mechanistically relevant phenotypes of AVNRT associated with clinical and procedural outcomes, underscoring the considerable heterogeneity of AVNRT and the importance of comorbidities and substrates."
+  },
+  {
+    "title": "Between Evidence and Experience: CIED Management in Cancer Patients",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70465?af=R",
+    "doi": "10.1111/jce.70465",
+    "journal": "J Cardiovasc EP",
+    "date": "Jul 26, 2026",
+    "date_ts": 1785072270.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Variability in Pacemaker Battery Estimates and Performance",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70370?af=R",
+    "doi": "10.1111/pace.70370",
+    "journal": "PACE",
+    "date": "Jul 26, 2026",
+    "date_ts": 1785053718.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Permanent pacemaker (PPM) battery longevity impacts downstream procedures, patient outcomes, and healthcare costs.\n                  \n                  \n                    Objectives\n                    To measure and predict PPM battery longevity in routine, clinical practice.\n                  \n                  \n                    Methods\n                    We analyzed a nationwide, multicenter, remote monitoring dataset (PaceMate) to evaluate PPM battery longevity from 2007 to 2023. Multivariable models identified factors associated with replacement interval (RI) across device types and manufacturers. We also compared observed versus expected battery longevity and assessed differences between newer and older generation pacemakers.\n                  \n                  \n                    Results\n                    \n                      We included 58,395 devices from 47 sites: 5803 single\u2010chamber transvenous, 1637 single\u2010chamber leadless, 45,293 dual\u2010chamber transvenous, 1759 RV/LV\u2010only CRT pacemakers, and 3903 full CRT\u2010P systems (1888 reaching RI). Median observed battery longevity for the 1493 dual chamber transvenous pacemakers that reached RI ranged from (103 months for BSX to 125 months for MDT and BIO), with similar trends after adjustment (\n                      p\n                      &lt;0.001). There was variability in median battery longevity across manufacturers for other device types: 105\u2013122 months for single\u2010chamber transvenous, 61\u201396 months for RV/LV\u2010only CRT pacemakers, and 77\u201393 months for full CRT\u2010P systems. Compared with older generators, those implanted in 2022\u201323 demonstrated improved estimated battery longevity for Medtronic devices but decreased for Abbott (no significant change for Boston Scientific).\n                    \n                  \n                  \n                    Conclusions\n                    Observed pacemaker battery longevity, based on nearly 2000 devices reaching ERI, varies substantially by manufacturer and device type, without consistent improvement for newer devices. Device\u2010based estimates of remaining longevity show manufacturer\u2010specific variability and are influenced by programming and utilization, highlighting the need for individualized expectations in clinical practice.\n                  \n                  \n                    Condensed Abstract\n                    Permanent pacemaker (PPM) battery longevity is clinically impactful and not well described in routine, clinical practice. We quantified pacemaker battery performance in a nationwide, multicenter, remote monitoring dataset, including 58,395 devices. Pacemaker battery longevity varies by manufacturer and device type, without consistent improvement for newer devices. Manufacturer\u2010specific accuracy of battery longevity estimates and differences in device programming and utilization highlight the need for individualized expectations in clinical practice."
+  },
+  {
+    "title": "The Forgotten History of Semi\u2010Implanted Radiofrequency\u2010 and Inductive\u2010Powered Cardiac Pacing Systems",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70377?af=R",
+    "doi": "10.1111/pace.70377",
+    "journal": "PACE",
+    "date": "Jul 26, 2026",
+    "date_ts": 1785053312.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  Radiofrequency\u2010powered and inductively coupled semi\u2010implanted pacemakers offered an early alternative to battery\u2010powered implantable pulse generators by transferring energy across intact skin to a small, implanted receiver. This review summarizes key clinical and engineering developments from the first reported radiofrequency\u2010powered pacing in 1959 through subsequent refinements and commercial implementations, including the Cutler\u2010Hammer and Cordis Transicor RF systems, and it places these efforts alongside the Abrams/Lightwood inductively coupled device commercialized by Joseph Lucas Ltd. These systems reduced implanted size and allowed external servicing, but they imposed major human factors and safety constraints because pacing depended on correct placement and continuous operation of external hardware. As implantable\u2010grade batteries, hermetic packaging, and lead technology improved, fully implantable pacemakers became clinically dominant. The historical experience nonetheless established durable principles of transcutaneous energy transfer that continue to inform modern externally powered implantable therapies where brief interruptions are clinically tolerable."
+  },
+  {
+    "title": "Anterior Versus Lateral/Posterolateral Left Ventricular Lead Position in CRT: A Systematic Review and Meta\u2010Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70368?af=R",
+    "doi": "10.1111/pace.70368",
+    "journal": "PACE",
+    "date": "Jul 26, 2026",
+    "date_ts": 1785053312.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Objective\n                    To evaluate the impact of anterior versus lateral/posterolateral left ventricular (LV) lead positioning on clinical and echocardiographic outcomes in patients undergoing cardiac resynchronization therapy (CRT).\n                  \n                  \n                    Methods\n                    A systematic review and meta\u2010analysis were conducted in accordance with PRISMA guidelines. Electronic databases, including PubMed, Embase, Web of Science, and Cochrane Library, were searched for studies assessing LV lead position and CRT outcomes. Studies comparing anterior with lateral or posterolateral LV lead placement were included. Data were extracted on mortality, CRT response, and left ventricular ejection fraction (LVEF). Pooled effect estimates were calculated using a random\u2010effects model.\n                  \n                  \n                    Results\n                    A total of six studies were included in the qualitative synthesis, with five studies eligible for quantitative meta\u2010analysis. Lateral or posterolateral LV lead positioning was associated with significantly reduced mortality compared to anterior positioning (pooled HR 0.74, 95% CI 0.63\u20130.86). CRT response rates were significantly higher with lateral/posterolateral positioning (pooled OR 1.40, 95% CI 1.17\u20131.67). Additionally, patients with optimal lead placement demonstrated greater improvement in LVEF (mean difference 4.0%, 95% CI 1.84\u20136.16). Heterogeneity across studies was low.\n                  \n                  \n                    Conclusion\n                    Lateral or posterolateral LV lead positioning is associated with improved survival, higher CRT response rates, and enhanced reverse remodeling compared to anterior lead placement. Optimizing LV lead position may enhance clinical outcomes in patients undergoing CRT."
+  },
+  {
+    "title": "Contact Index for PulseSelect Catheter Apposition: Validation by Transesophageal Echocardiography",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70376?af=R",
+    "doi": "10.1111/pace.70376",
+    "journal": "PACE",
+    "date": "Jul 26, 2026",
+    "date_ts": 1785053229.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Reliable catheter\u2013tissue apposition is important for effective pulmonary vein isolation using pulsed field ablation. The contact index, derived from real\u2010time impedance rise on the EnSite X mapping system, may provide an objective surrogate for catheter contact; however, its utility with the PulseSelect catheter remains insufficiently defined.\n                  \n                  \n                    Methods\n                    In this single\u2010center pilot study, patients with paroxysmal atrial fibrillation undergoing pulmonary vein isolation with the PulseSelect catheter under general anesthesia were evaluated. High\u2010resolution transesophageal echocardiography was used as the reference standard to classify electrode\u2010level catheter apposition as contact or non\u2010contact. Contact index values from electrodes 3\u20137 were paired with transesophageal echocardiography findings, and receiver operating characteristic curve analysis was performed.\n                  \n                  \n                    Results\n                    \n                      A total of 316 paired imaging\u2013electrical data points were analyzed. Interobserver agreement for transesophageal echocardiography\u2010based contact assessment was excellent (Cohen's\n                      \u03ba\n                      = 0.86). Contact index values were higher at contact than non\u2010contact segments. A contact index cutoff of 10% yielded an area under the curve of 0.864, with 76.1% sensitivity and 82.9% specificity. In the central electrodes 4\u20136, the area under the curve was 0.871, with 80.1% sensitivity and 81.2% specificity.\n                    \n                  \n                  \n                    Conclusions\n                    Contact index was associated with transesophageal echocardiography\u2010confirmed catheter\u2013tissue apposition during pulsed field ablation using the PulseSelect catheter. A 10% threshold may be a useful candidate reference for real\u2010time apposition assessment, requiring validation in larger studies."
   },
   {
     "title": "\u201cHybrid\u201d Voltage-Guided Endomyocardial Biopsy Performed Concurrently With Electrophysiology Procedures",
@@ -6255,110 +6358,5 @@
       "Other"
     ],
     "hot": false
-  },
-  {
-    "title": "Bipolar Radiofrequency- Assisted Lead Extraction Using a Novel Pacemaker Lead-Catheter Electrical Configuration",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024690?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 12, 2026",
-    "date_ts": 1781230515.298127,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Early complications and long-term outcome of patients treated with a Subcutaneous Cardioverter-Defibrillator: temporal trends and clinical implications of the anesthetic strategies adopted at implant",
-    "link": "https://doi.org/10.1093/europace/euag148",
-    "doi": "10.1093/europace/euag148",
-    "journal": "EP Europace",
-    "date": "Jun 12, 2026",
-    "date_ts": 1781222400.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Subcutaneous implantable cardioverter defibrillator (S-ICD) therapy is well-established therapy for the prevention of sudden cardiac death. Although general anesthesia (GA) was initially advocated for implantation, non-GA has emerged as a feasible alternative in clinical practice. This study evaluated the early and long-term outcomes associated with anesthetic modality during S-ICD implantation procedures.\n                  \n                  \n                    Methods\n                    The HONEST study nationwide, single-arm, observational cohort included all patients implanted with an S-ICD (EMBLEM\u2122, Boston Scientific) in France between 2012 and 2019. GA was characterized by controlled unconsciousness with airway management, while non-GA included all alternative techniques.\n                  \n                  \n                    Results\n                    Among 4,924 patients, 1,041 (21.1%) underwent non-GA. The proportion of non-GA use increased from 2.5% to 26.9% between 2012 and 2019 (p&amp;lt;0.001). Patients implanted with non-GA modality tended to be older (51 \u00b1 14 vs. 50 \u00b1 15 years), had lower left ventricular ejection fraction (41\u00b116 vs. 43\u00b117%), and fewer secondary prevention indications (33 vs. 38%) (all p&amp;lt;0.01). Thirty-day complication rate was 3.4% in the non-GA group (vs 3.7% in the GA group; p=0.85). At follow-up, the incidence of overall complications (4.29 events per 100 person-years for non-GA versus 4.73 for GA; p=0.937), reintervention (1.21 versus 1.62; p=0.963), inappropriate shocks (2.88 versus 2.78; p=0.782), and all-death (2.93 versus 2.56; p=0.938) were similar between groups. Multivariate analysis confirmed that there were no differences across outcomes (all p values&amp;gt;0.1).\n                  \n                  \n                    Conclusion\n                    Anesthesia strategy used for S-ICD implantation was not associated with poorer short- or long-term clinical outcomes, supporting non\u2013general anesthesia as a feasible alternative in appropriately selected patients.",
-    "summary": "This nationwide observational cohort study of 4,924 S-ICD implant patients (21.1% receiving non-GA) found that non-general anesthesia was associated with similar 30-day complication rates (3.4% vs 3.7%), long-term complication rates, reintervention rates, inappropriate shocks, and mortality compared to general anesthesia, supporting non-GA as a safe alternative in selected patients."
-  },
-  {
-    "title": "Complex Atrial Substrate in Hypertrophic Cardiomyopathy Presenting as Right Pulmonary Vein\u2013Related Atypical Atrial Flutter",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002503?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 11, 2026",
-    "date_ts": 1781145125.155264,
-    "tags": [
-      "AFib",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Nurse Practitioner Led CIED Monitoring during MRI in Pediatric and Adult Congenital Heart Disease Patients",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002540?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 11, 2026",
-    "date_ts": 1781145125.155221,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left Bundle Branch Area Pacing Outcomes from an African Registry: Short-term Findings from the MACOP Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002564?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 11, 2026",
-    "date_ts": 1781145125.155007,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Comparison of Procedural Outcomes Across Different Septal Accessory Pathway Locations Using Contact Force",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70322?af=R",
-    "doi": "10.1111/pace.70322",
-    "journal": "PACE",
-    "date": "Jun 11, 2026",
-    "date_ts": 1781142562.0,
-    "tags": [
-      "SVT"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    The ablation of septal accessory pathways (APs) in pediatric patients presents significant challenges owing to the close proximity of the atrioventricular (AV) node. Our objective was to assess the influence of contact force (CF)\u2013sensing technology combined with a \u201cconservative force\u201d strategy on procedural efficiency and safety within this high\u2010risk demographic.\n                  \n                  \n                    Methods\n                    \n                      We retrospectively analyzed 157 pediatric patients who underwent radiofrequency (RF) ablation for septal APs (anteroseptal, midseptal, or posteroseptal). Patients were divided into two groups: the CF group (\n                      n\n                      = 77), utilizing a target force of 5\u201312 g, and the non\u2010CF group (\n                      n\n                      = 80), using conventional irrigated catheters.\n                    \n                  \n                  \n                    Results\n                    \n                      The CF group achieved significantly shorter total procedure times (65.0\u00a0vs. 80.0\u00a0min;\n                      p\n                      = 0.029) and reduced total RF application times (78.0\u00a0vs. 105.0 s;\u00a0\n                      p\n                      = 0.047) compared to the non\u2010CF group.\u00a0In the CF group, the median CF was 10.0\u00a0g, and the median RF power was significantly lower than in the non\u2010CF group (25\u00a0W vs. 30\u00a0W;\u00a0\n                      p\n                      = 0.003).\u00a0Subgroup analysis revealed a significant gain in efficiency for posteroseptal (PS) pathways\u00a0, whereas anteroseptal (AS) pathways required longer procedure times in the CF era due to safety\u2010driven force titration (105.0\u00a0vs. 70.0\u00a0min;\u00a0\n                      p\n                      = 0.012).\u00a0Acute success rates (98.7%\u00a0vs. 93.8%;\u00a0\n                      p\n                      = 0.210) and recurrence rates (5.2%\u00a0vs. 11.3%;\u00a0\n                      p\n                      = 0.277) were comparable between the groups.\u00a0No permanent AV block or major complications occurred in either cohort.\n                    \n                  \n                  \n                    Conclusion\n                    Integrating CF technology with a conservative force strategy (5\u201312\u00a0g) enhances procedural efficiency in pediatric septal AP ablation without compromising safety. While it streamlines the workflow for most septal locations, the AS region requires more meticulous titration, and the midseptal (MS) region remains the most prone to recurrence.",
-    "summary": "This retrospective study of 157 pediatric patients (77 with contact force [CF] sensing, 80 conventional) found that CF-guided radiofrequency ablation of septal accessory pathways using a conservative 5\u201312 g force strategy reduced procedure time (65 vs. 80 minutes) and RF application time (78 vs. 105 seconds) compared to conventional ablation, with equivalent acute success (98.7% vs. 93.8%) and recurrence rates (5.2% vs. 11.3%), while maintaining safety without AV block complications. CF technology improved efficiency particularly for posteroseptal pathways but required longer procedure times for anteros"
-  },
-  {
-    "title": "Diversity, equity and inclusion in arrhythmia care: A European Heart Rhythm Association survey",
-    "link": "https://doi.org/10.1093/europace/euag144",
-    "doi": "10.1093/europace/euag144",
-    "journal": "EP Europace",
-    "date": "Jun 11, 2026",
-    "date_ts": 1781136000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background\n                    Disparities in arrhythmia care are increasingly recognised, yet remain incompletely characterised across the patient pathway. This European Heart Rhythm Association (EHRA) survey explored clinician-reported perceptions of inequity across diagnosis, pharmacological management, procedural referral and follow-up.\n                  \n                  \n                    Methods\n                    A 30-question survey was disseminated via the EHRA between November 2025 and January 2026, with 212 responses from professionals across 35 countries.\n                  \n                  \n                    Results\n                    Respondents were predominantly consultant electrophysiologists (67.5%), with 39.6% identifying as female. Most (68.4%) reported no prior training in equity or inclusive care. Across the arrhythmia care pathway, disparities were most frequently attributed to patient vulnerability, particularly cognitive impairment (72.5%), age &amp;gt;80 years (63.8%) and mental health disease (61.3%). Differences related to socioeconomic status, language and other social factors were also commonly reported. Female sex and minority ethnic background were each reported to influence care in 24.1% of responses. Age &amp;gt;80 years was consistently identified as the strongest determinant of disparities in referral, diagnosis and outcomes, influencing referral for arrhythmia evaluation (65.8%), catheter ablation (77.9%) and outcomes following ablation (68.1%). Socioeconomic and ethnic factors showed more modest but consistent effects, while sex-based differences were less frequently reported. However, female respondents were more likely than male respondents to report delayed referral (female respondents: 41.8%; male respondents: 19.8%) and late or incorrect diagnosis (49.4% vs 15.8%) in female patients, as well as delayed referral for catheter ablation (36.5% vs 10.3%) and device implantation (23.0% vs 7.0%). Only one-third of respondents (33.3%) felt that current international guidelines adequately address diversity, equity and inclusion in arrhythmia care.\n                  \n                  \n                    Conclusions\n                    Clinicians perceive disparities in arrhythmia care across multiple patient and social factors. Whilst age and vulnerability were most frequently perceived to influence care, sex and ethnicity were also recognised by a substantial proportion of respondents. Perceptions varied according to respondent characteristics, with female clinicians more likely to report disparities amongst female patients. Limited training and institutional frameworks highlight opportunities for targeted interventions.",
-    "summary": "This cross-sectional survey of 212 arrhythmia specialists across 35 countries found that clinicians perceive significant disparities in arrhythmia care pathways, with age >80 years and cognitive impairment most frequently cited as barriers to referral and ablation (65.8-77.9%), followed by socioeconomic status and ethnicity, though female clinicians reported substantially higher rates of sex-based disparities in female patients than male clinicians. Only one-third felt current guidelines adequately address diversity and equity, and 68.4% lacked formal training in inclusive care."
-  },
-  {
-    "title": "Validation of Automated Low Voltage Area Measurement Using CARTONET in Atrial Fibrillation Patients",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70313?af=R",
-    "doi": "10.1111/pace.70313",
-    "journal": "PACE",
-    "date": "Jun 10, 2026",
-    "date_ts": 1781068056.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Low\u2010voltage areas (LVAs) detected via electroanatomic mapping (EAM) are key indicators of atrial remodeling and predictors of atrial fibrillation (AF) recurrence following pulmonary vein isolation (PVI). However, manual LVA quantification is time\u2010intensive, operator\u2010dependent, and prone to variability.\n                  \n                  \n                    Objective\n                    To validate the accuracy, consistency, and efficiency of automatic LVA quantification function of CARTONET\u2014a cloud\u2010based automated platform for LVA quantification\u2014by comparing it with conventional manual analysis in AF patients.\n                  \n                  \n                    Methods\n                    This retrospective study included 100 patients who underwent PVI for AF at a single center between January 2022 and December 2023. Manual LVA measurements were performed by experts using CARTO3. LVA quantification and anatomical segmentation were performed using CARTONET. LVA was stratified into four categories: low (&lt;5%), mild (5%\u201320%), moderate (20%\u201335%), and severe (&gt;35%). Statistical analyses included Spearman's rank correlation (\u03c1), Bland\u2013Altman agreement, and confusion matrices for categorical classification, with subgroup analysis based on segmentation errors and map point density. The number and the locations of segmentation errors were quantified.\n                  \n                  \n                    Results\n                    \n                      CARTONET demonstrated strong correlation with manual measurements across all LA regions (\n                      \u03c1\n                      \u00a0=\u00a00.928\u20130.983,\n                      p\n                      \u00a0&lt;\u00a00.01). Significant differences were observed in anterior and posterior walls (\n                      p\n                      \u00a0&lt;\u00a00.01), especially in low\u2010density maps. In high\u2010density maps, no significant differences were observed (\n                      p\n                      \u00a0\u2265\u00a00.07). Bland\u2013Altman analysis showed minimal bias (mean difference: \u22120.8%), and 96% of values fell within limits of agreement. The confusion matrix showed that categorical agreement for LVA stratification exceeded 90%. Segmentation errors were most common at the LSPV but did not significantly impact LVA quantification.\n                    \n                  \n                  \n                    Conclusion\n                    CARTONET offers reliable, efficient LVA quantification with high concordance to manual methods. Its performance in high\u2010quality maps supports its use in clinical and research settings, reducing operator workload and promoting standardized substrate evaluation.",
-    "summary": "This retrospective study of 100 AF patients validated CARTONET, a cloud-based automated platform, for quantifying low-voltage areas on electroanatomic mapping, demonstrating strong correlation with manual analysis (\u03c1 = 0.928\u20130.983) and >90% categorical agreement for LVA stratification, with reliable performance particularly in high-density maps. The automated approach offers efficient, standardized substrate assessment while reducing operator-dependent variability compared to conventional manual quantification."
   }
 ]
