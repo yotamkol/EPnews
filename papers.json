@@ -1,5 +1,1084 @@
 [
   {
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005864?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.446303,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Comparing High-Density Electroanatomic Mapping and MRI: A Step Forward in Myocardial Characterization in Nonischemic Cardiomyopathy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001295?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.446269,
+    "tags": [
+      "Genetics",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical Impact and Prediction of Early Electrical Storm in Patients With Left Ventricular Assist Device",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001258?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.446233,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed-Field vs Thermal Ablation of Atrial Fibrillation in Patients From the Marshall Islands: A Study of Generalized Coronary Spasm",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26000307?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.446198,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A Shock to the System: Risk of Sudden Cardiac Death After Pulsed Field Ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005645?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.446166,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of Lesion Delivery and Irrigation Rates on Neurovascular Events With PFA for Atrial Fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26000976?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.446133,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Performance and Safety of the Extravascular Implantable Cardioverter-Defibrillator in Patients With Hypertrophic Cardiomyopathy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001271?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.446098,
+    "tags": [
+      "Devices",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Combined Analysis of Cardiac Repolarization Entropy and Magnetic Resonance Imaging Enhances Risk Stratification of Patients Receiving a Primary-Prevention ICD",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600126X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.446061,
+    "tags": [
+      "SCD",
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Procedural Characteristics and Outcomes of Transvenous Lead Extraction in Patients With Prior Sternotomy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001131?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.446027,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Assessing Differences in Accuracy Across Implantable Loop Recorders: Comparing Apples to Oranges",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005384?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.445986,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Quantified Heritability of Supraventricular Tachycardias: A Milestone for Justification for Universal Ajmaline Challenge Testing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005396?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.44595,
+    "tags": [
+      "VT",
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Filter-Sensitive Morphology and the Reference Problem in Strauss-LBBB Classification",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005669?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.445917,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Reply: Filter-Sensitive Morphology and the Reference Problem in Strauss-LBBB Classification",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005670?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.445883,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Full Issue PDF",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006213?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.445849,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "In Memoriam: Eugene Braunwald, MD",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004639?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.445783,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "POlysaccharide haemostat for WounD haEmatomas Reduction in Cardiac Implantable Electronic Devices procedures: Rationale and Design of the POWDER-CIED trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003314?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.361505,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "First 1000 Cases of Dual-Energy Lattice-Tip Ablation for Atrial Fibrillation: Procedural Experience, Clinical Practice Impact, And Cost Analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026172?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.260236,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left Ventricular Lateral Wall Activation Differs Between Various Conduction Patterns and Septal Capture Types: Insights from Coronary Sinus Lead Measurements.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026160?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.260197,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025476?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.260172,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Table Of Content",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025488?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.260147,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "When the pericardial space became accessible for electrophysiologists: The figure that changed ventricular tachycardia ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024793?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.260112,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Can oral anticoagulants be safely discontinued after atrial fibrillation ablation? A systematic review and meta-analysis of reconstructed time-to-event data",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000032?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.260075,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Reassessing stroke prevention after atrial fibrillation ablation: Lessons from OCEAN, ALONE-AF, and OPTION trials",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001451?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.260042,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Interatrial block in hypertrophic cardiomyopathy: Associations with left atrial remodeling and adverse atrial outcomes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001037?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.260009,
+    "tags": [
+      "AFib",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Predictive value of notched P wave for life-threatening arrhythmias in patients with Brugada syndrome: Insights from a multicenter prospective study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126002183?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259975,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Class Ic antiarrhythmic therapy after PCI in new-onset atrial fibrillation: Safety and clinical outcomes from a nationwide cohort",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001657?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.25994,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Flecainide use before and after the Cardiac Arrhythmia Suppression Trial: A systematic review",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001281?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259908,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Class Ic antiarrhythmic drugs and structural heart disease\u2014Time for a randomized controlled study?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001669?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.25987,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Flecainide in structural heart diseases: A contemporary reappraisal beyond the CAST",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027882?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259838,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Expanding the indications for flecainide: Good idea or CAST reprise?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125029236?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259807,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Association between amiodarone and thyrotoxicosis in patients with atrial fibrillation and hypothyroidism",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027444?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259773,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Risk of syncope and permanent pacing with rate vs rhythm control of atrial fibrillation: A systematic review and meta-analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027559?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259739,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of sodium-glucose cotransporter 2 inhibitors on recurrence and cardiovascular outcomes after catheter ablation for atrial fibrillation in patients with chronic kidney disease",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027560?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259698,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Concomitant cryoballoon pulmonary vein and posterior wall isolation in persistent atrial fibrillation: Results from the Left Atrial Posterior Wall Isolation in Conjunction With Pulmonary Vein Isolation Using the Cryoballoon for Treatment of Persistent Atrial Fibrillation (PIVoTAL) IDE trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027602?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259653,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Catheter ablation vs antiarrhythmic drug therapy for first-line treatment of atrial fibrillation in United States clinical practice",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027584?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259619,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of wait times for atrial fibrillation ablation on cumulative health care costs",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001542?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259588,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Prophylactic pulmonary vein isolation in patients with typical atrial flutter and heart failure",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712502764X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259556,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Unipolar voltage mapping to predict lesion durability during pulsed field ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000445?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259525,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Association between early and late atrial tachyarrhythmia recurrences after pulsed field ablation for atrial fibrillation: A systematic review and meta-analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000536?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259485,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sex differences in recurrence after linear ablation for persistent atrial fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001475?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259455,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A novel predictive model for left atrial low-voltage areas in paroxysmal atrial fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001098?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259424,
+    "tags": [
+      "AFib",
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of atrial fibrillation ablation on biatrial strain: Differences between left and right atrial function",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001177?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259378,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed field vs thermal ablation for atrial fibrillation: A Bayesian meta-analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001505?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259347,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Hemolysis and renal safety of pulsed-field vs thermal ablation for atrial fibrillation: A systematic review and meta-analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000457?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259314,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Secondhand tobacco smoke and risk of atrial fibrillation: An observational epidemiologic and gene-environment interaction analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027638?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.25928,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Blood pressure and the risk of stroke in young patients with atrial fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001074?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259248,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A novel electrocardiographic risk score for sudden cardiac arrest in patients with atrial fibrillation: The SCAAF-ERS",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712600127X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259214,
+    "tags": [
+      "AFib",
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Frailty in patients undergoing percutaneous left atrial appendage closure: The Frail-LAAC study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001049?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.25918,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Incidence, predictors, and outcomes of atrial fibrillation and stroke after heart transplantation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001438?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259147,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The role of His-Purkinje system activation in preventing malignant reentrant ventricular arrhythmias during left bundle branch area pacing: Reverse electrical remodeling or restored left ventricular activation?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021430?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259104,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Multipolar radiofrequency ablation: Early experience with a novel approach to target intramural ventricular arrhythmias",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027468?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259069,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Rate-dependent abrupt QRS changes during pace mapping caused by unidirectional block in scar-related ventricular tachycardia",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000548?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.259035,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Identifying the optimal site for intentional right atrial appendage perforation for pericardial CO<sub>2</sub> insufflation: A cardiac CT anatomic evaluation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001487?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258993,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A novel technique for accessing the pericardial space",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712502747X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258965,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "EpiCO<sub>2</sub> epicardial access: Effective, safe, and\u2026 fast?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001086?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258931,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Line of block: A simple pacing maneuver to distinguish AV nodal from accessory pathway ventriculoatrial conduction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000469?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258898,
+    "tags": [
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "High-frequency areas as an electrophysiological clue for accessory pathway ablation: Characterizing spatial dissociation with peak frequency mapping",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001104?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258863,
+    "tags": [
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Is left bundle branch area pacing the optimal pacing strategy for bradyarrhythmia with preserved ejection fraction? A network meta-analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027596?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258828,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left bundle branch area pacing preserves left ventricular ejection fraction in patients with preserved systolic function: A comparison with right ventricular pacing and the influence of left bundle branch capture",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027961?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258787,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Implantation of standard defibrillator leads in the left bundle branch area: Experience from an international cohort",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021582?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258753,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Persistent right ventricular conduction delay and low injury current during left bundle branch pacing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001402?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258719,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A population-based study of trends in cardiac arrest and sudden death owing to long QT syndrome",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001566?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258689,
+    "tags": [
+      "SCD",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "National detection strategies and long QT syndrome: How do we measure success in rare cardiogenetic disorders?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022319?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258657,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Proteomic signatures for sudden cardiac death and related intermediate phenotypes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001621?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258625,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Disease penetrance and phenotypic spectrum of desmoplakin variant carriers in the population",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030243?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258593,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Gene-elusive arrhythmogenic cardiomyopathy: Roles of sports, inflammation, and beyond",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125029649?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258563,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Variable disease expression in arrhythmogenic cardiomyopathy: The quest for genotype-specific risk factors",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030395?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258531,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical features and outcome of arrhythmogenic cardiomyopathy because of a desmoglein-2 founder variant: A multicenter study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001207?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258498,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Fibroblast growth factor 21 prevents catecholaminergic arrhythmias in a mouse model of PKP2 arrhythmogenic cardiomyopathy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001530?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258465,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "VERSA: Omnipolar vector mapping from arbitrarily positioned electrodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000512?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258431,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Association between remnant cholesterol and cardiac conduction block: A prospective cohort study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000378?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258366,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Brain tissue changes, network dysfunction, and cerebral hemodynamic deficits in postural orthostatic tachycardia syndrome",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001414?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258326,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Skin sympathetic nerve activity complexity predicts sudden and nonsudden cardiac mortality in heart failure",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001517?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.25829,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sex hormones and arrhythmia risk in women with long QT syndrome",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001633?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258257,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Exercise-induced bundle branch block in patients with heart failure: Tracking dynamic electrical dyssynchrony for on-demand cardiac resynchronization therapy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027547?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.25822,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Mavacamten-like myosin inhibitor MYK-581 reduces the risk of atrial fibrillation induction in a murine model of hypertrophic cardiomyopathy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712600130X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258183,
+    "tags": [
+      "AFib",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Electro-tomographic method to determine true north: Novel transmural mapping strategy for inappropriate sinus tachycardia ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712502750X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258145,
+    "tags": [
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Enhanced contact of the PulseSelect catheter using the contact index during pulmonary vein isolation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027948?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258113,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Histopathology of the atrial tissue after pulsed-field ablation: A subacute-phase lesion in an autopsy heart",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001372?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258079,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Detection of a retroaortic left circumflex artery with intracardiac echocardiography before ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001499?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258044,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Ultrasound-guided S-ICD implantation: A proof-of-concept study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001013?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.258012,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Association between epicardial adipose tissue characteristics and ventricular fibrillation in Brugada syndrome",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001025?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.257979,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Trends in ventricular arrhythmia-related mortality in the United States from 1979 to 2024: A CDC WONDER analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001062?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.257942,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed field ablation for atrial fibrillation with a balloon-in-basket system under conscious sedation: A retrospective feasibility and safety analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001293?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.257903,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Integrated mapping-guided superior vena cava isolation with single-shot pulsed field ablation systems: Feasibility, workflow, and safety in a real-world patient cohort",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001384?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.257863,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Stylet-in-sheath: A new solution to an old problem?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001141?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.257828,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Response to the letter to the editor entitled \u201cStylet-in-sheath: A new solution to an old problem?\u201d",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001153?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.257778,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "In Memoriam: Eugene Braunwald, MD",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023519?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785288207.2576,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Risk-Guided Screening for Atrial Fibrillation Using Electronic Health Records",
+    "link": "https://doi.org/10.1161/circulationaha.126.079391",
+    "doi": "10.1161/circulationaha.126.079391",
+    "journal": "Circulation",
+    "date": "Jul 28, 2026",
+    "date_ts": 1785196800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    Screening for atrial fibrillation (AF) on the basis of AF risk may be more effective. We aimed to develop, externally validate, and prospectively test a machine learning prediction model using electronic health records (EHRs) to guide AF screening.\n                  \n                  \n                    METHODS:\n                    \n                      We developed and validated a random forest prediction model for new AF within 6 months, using age, sex, and 10 comorbidities (Future Innovations in Novel Detection of Atrial Fibrillation [FIND-AF] 2.0) in EHRs in the United Kingdom (n=2 081 139), Japan (n=7 795 244), Israel (n=2 166 795), Canada (n=627 919), and China (n=149 145). We conducted a prospective study where participants \u226530 years old without AF and with a CHA\n                      2\n                      DS\n                      2\n                      -VASc score \u22652 in men and \u22653 in women, stratified by FIND-AF 2.0 into high and low risk, undertook 4 ECG recordings per day for 3 weeks using a handheld ECG recorder, with a primary outcome of newly diagnosed AF. We estimated stroke risk associated with nonanticoagulated AF in patients with high FIND-AF 2.0 risk in the FinACAF (Finnish Anticoagulation in Atrial Fibrillation) registry of patients with AF (n=229 565).\n                    \n                  \n                  \n                    RESULTS:\n                    \n                      FIND-AF 2.0 was applicable to all EHRs and showed good to excellent prediction performance (United Kingdom: area under the receiver operating characteristic curve [AUROC], 0.819 [95% CI, 0.809\u20130.829]; Israel: AUROC, 0.835 [95% CI, 0.828\u20130.842]; Japan: AUROC, 0.751 [95% CI, 0.745\u20130.757]; Canada: AUROC, 0.747 [95% CI, 0.741\u20130.753]; China: AUROC, 0.753 [95% CI, 0.725\u20130.771]), with AUROC&gt;0.7 in men and women in all cohorts, and improved performance compared with CHA\n                      2\n                      DS\n                      2\n                      -VASc and C\n                      2\n                      HEST. Of 1923 participants from 15 sites in the prospective study (mean age, 70.2 [SD 9.4] years), with a mean of 74.8 (SD, 19.4) ECG recordings, AF was diagnosed in 5 of 902 (0.6%) with low FIND-AF 2.0 risk and 46 of 1021 (4.5%) with high FIND-AF 2.0 risk (odds ratio, 8.46 [95% CI, 3.35\u201321.40],\n                      P\n                      &lt;0.001). Median AF burden among high FIND-AF 2.0 risk\u2013detected cases was 33.4% (interquartile range, 5.1%\u201391.6%), and 96.1% initiated oral anticoagulants. In the FinACAF registry, the rate of ischemic stroke for patients with high FIND-AF 2.0 risk, AF, and no anticoagulants was 6.0 events per 100 patient-years.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    The EHR-based machine learning model, FIND-AF 2.0, identifies a high-risk subpopulation for AF diagnosis among patients at elevated risk of stroke and could enable scalable, EHR-driven, risk-guided AF screening."
+  },
+  {
     "title": "Letter by Nayyar Regarding Article, \u201cGeometric Features of Ventricular Tachycardia Corridors in Patients With Ischemic Cardiomyopathy\u201d",
     "link": "https://doi.org/10.1161/circulationaha.125.078896",
     "doi": "10.1161/circulationaha.125.078896",
@@ -24,6 +1103,32 @@
       "Genetics"
     ],
     "hot": false
+  },
+  {
+    "title": "Effect of Left Atrial Size and Volume Reduction on Pulmonary Vein Isolation Efficacy in Patients With Persistent and Longstanding Persistent Atrial Fibrillation: Subset Analysis From the aMAZE Trial",
+    "link": "https://doi.org/10.1161/circep.125.014755",
+    "doi": "10.1161/circep.125.014755",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Jul 28, 2026",
+    "date_ts": 1785196800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    Large left atrial volume (LAV) is a strong predictor of advanced left atrial substrate and is associated with less successful outcomes following pulmonary vein isolation (PVI) alone. Prespecified variables of the aMAZE trial were evaluated to access for the impact of LAV and left atrial appendage ligation on atrial fibrillation (AF) outcomes.\n                  \n                  \n                    METHODS:\n                    \n                      The aMAZE trial (REGISTRATION: URL:\n                      https://www.clinicaltrials.gov\n                      ; Unique identifier: NCT02513797) was a multicenter, randomized-controlled study evaluating the effects of LAV on freedom from atrial arrhythmias (AA) following PVI-only compared with LARIAT and PVI (LARIAT+PVI). In total, 610 drug-refractory patients with nonparoxysmal AF were randomized 2:1 to LARIAT versus PVI alone. Freedom from AA was assessed 12 months postprocedure. LAV was independently assessed by a core laboratory from cardiac computed tomography performed before ablation.\n                    \n                  \n                  \n                    RESULTS:\n                    \n                      There were 404 patients in the LARIAT+PVI group and 206 in the PVI-only group. Logistic regression performed within each subgroup for primary effectiveness with LAV demonstrated that the recurrence of AA after PVI was directly related to increasing LAV. Freedom from recurrence of AA in the LARIAT+PVI arm was independent and preserved irrespective of LAV. Similar results were seen with LAV index. A tercile analysis of early persistent AF (perAF) patients (AF &gt;7 days and &lt;6 months) and LARIAT+PVI in the highest (&gt;148 cm\n                      3\n                      ) LAV tercile showed statistically significant freedom from AA compared with PVI-only (69% versus 49%;\n                      P\n                      =0.02). Significant differences (\n                      P\n                      &lt;0.04) between groups in the early perAF cohort began at an LAV of 130 cm\n                      3\n                      and an LAV index of 65 cm\n                      3\n                      /m\n                      2\n                      .\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    The correlation of LAV with PVI effectiveness in this study demonstrates that AA recurrence after PVI alone is directly related to increasing LAV. Freedom from AA after left atrial appendage ligation in addition to PVI is independent of increasing LAV, and left atrial appendage ligation may therefore provide an adjunctive benefit in patients with nonparoxysmal AF and enlarged LAV."
+  },
+  {
+    "title": "Effects of Omega-3 Fatty Acid Treatment on Risk for Atrial Fibrillation: An Updated Meta-Analysis of 35 Trials including 114\u2009592 Individuals",
+    "link": "https://doi.org/10.1161/circep.125.014785",
+    "doi": "10.1161/circep.125.014785",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Jul 28, 2026",
+    "date_ts": 1785196800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    Recent meta-analyses of randomized controlled trials have raised concerns that treatment with omega-3 fatty acids may increase the risk of atrial fibrillation (AF). However, these meta-analyses included at most 8 trials. The aim of this current meta-analysis was to expand the search by including other eligible omega-3 randomized controlled trials with AF incidence data, incorporating both published and unpublished data.\n                  \n                  \n                    METHODS:\n                    Eligible studies were randomized controlled trials investigating daily doses of \u2265500 mg/d of docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA). Additional inclusion criteria included \u226512 months of treatment with EPA/DHA, participants \u226550 years of age, and, where possible, the absence of known AF/atrial flutter at baseline. The primary outcome was the occurrence of new-onset AF. Our primary hypothesis was that risk for AF would simultaneously depend on both omega-3 dose (above or below 1500 mg/d) and background cardiovascular disease risk status, and that their combined impact on AF risk would be synergistic.\n                  \n                  \n                    RESULTS:\n                    A total of 35 randomized controlled trials (37 data sets; n=114\u2009592) were included in this meta-analysis. Only studies including patients at high-risk for cardiovascular disease who were treated with high-doses of EPA/DHA (&gt;1500 mg/d) showed a statistically significant increase in AF risk with a pooled odds ratio (OR) of 1.43 (95% CI, 1.14\u20131.79) and an absolute risk difference of 0.8% (0.40%\u20131.1%). None of the other 3 groups showed statistically significant levels of AF risk (odds ratios, 1.07 [high risk\u2013low dose], 1.06 [low risk\u2013low dose], and 1.03 [low risk\u2013high dose]).\n                  \n                  \n                    CONCLUSIONS:\n                    This meta-analysis suggests that high-dose EPA/DHA treatment is associated with an increased risk of AF in patients at high cardiovascular disease risk, whereas low-dose EPA/DHA does not appear to increase AF risk, even in high-risk populations. Further prospective studies are needed to evaluate any potential increased risk of higher doses balanced against potential benefits."
   },
   {
     "title": "Distinct Electrophysiological Recurrence Phenotypes During Repeat Procedures After Balloon-in-Basket Pulsed Field Ablation Versus Cryoballoon Ablation",
@@ -5207,1155 +6312,6 @@
     "date_ts": 1782009166.56556,
     "tags": [
       "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Feasibility of Mapping and Ablation of Scar-Related Atrial Flutter Using a Novel High-Density 3-Dimensional Electroanatomic Mapping System",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024823?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 21, 2026",
-    "date_ts": 1782009166.445927,
-    "tags": [
-      "AFib",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Influence of Maternal and Fetal Factors on Fetal Magnetocardiography Measurements Using Optically Pumped Magnetometers",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602480X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 21, 2026",
-    "date_ts": 1782009166.445883,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left Ventricular Fibrosis in Atrial Fibrillation and Heart Failure with Reduced Ejection Fraction: A Comprehensive Review of Mechanisms, Clinical Implications, and Therapeutic Perspectives",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024847?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 21, 2026",
-    "date_ts": 1782009166.44572,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Subcutaneous Versus Transvenous Implantable Cardioverter\u2010Defibrillators in End\u2010Stage Renal Disease: A Real\u2010World Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70330?af=R",
-    "doi": "10.1111/pace.70330",
-    "journal": "PACE",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781941179.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Patients with end\u2010stage renal disease (ESRD) on dialysis face a high risk of sudden cardiac death, but traditional transvenous implantable cardioverter\u2010defibrillators (TV\u2010ICD) carry risks of central venous stenosis and infection. Subcutaneous implantable cardioverter\u2010defibrillators (S\u2010ICD) provide an extravascular alternative, though comparative outcomes in dialysis patients remain limited.\n                  \n                  \n                    Methods\n                    This study evaluated ESRD patients on hemodialysis who underwent S\u2010ICD or TV\u2010ICD implantation between January 2000 and March 2026 using the TriNetX global health network. A 1:1 propensity score matching (PSM) was utilized across 81 clinical covariates. Kaplan\u2010Meier survival analysis and Cox proportional hazards regression were used to assess long\u2010term outcomes, including infectious complications, dialysis access revisions, and mortality.\n                  \n                  \n                    Results\n                    \n                      Following PSM, 456 matched pairs (\n                      N\n                      \u00a0=\u00a0912) of ESRD patients on dialysis were identified. There were no significant differences between the S\u2010ICD and TV\u2010ICD cohorts regarding the composite outcome of sepsis, bacteremia, or transvenous lead extraction (53.5% vs. 55.1%;\n                      p\n                      \u00a0=\u00a00.268). All\u2010cause mortality (58.7% vs. 60.4%;\n                      p\n                      \u00a0=\u00a00.747) and hospitalization rates (87.9% vs. 85.4%;\n                      p\n                      \u00a0=\u00a00.874) were also similar between the groups. However, S\u2010ICD was associated with higher rates of composite open and endovascular dialysis access revision (39.1% vs. 25.8%;\n                      p\n                      \u00a0=\u00a00.001), percutaneous dialysis access intervention (p\u00a0=\u00a00.002), and dialysis access surgery (\n                      p\n                      \u00a0=\u00a00.021).\n                    \n                  \n                  \n                    Conclusion\n                    S\u2010ICD and TV\u2010ICD demonstrated similar rates of infectious complications, hospitalization, and all\u2010cause mortality in ESRD patients. S\u2010ICD implantation was associated with higher rates of dialysis access revisions and interventions. Device selection should remain individualized, guided by anatomy, access planning, and clinical context.",
-    "summary": "This retrospective cohort study using propensity score matching compared 456 matched pairs (N=912) of hemodialysis patients who received either subcutaneous or transvenous ICDs and found similar rates of infection, hospitalization, and mortality between groups, though S-ICD was associated with significantly higher rates of dialysis access revision and intervention. Device selection should be individualized based on vascular anatomy and access considerations rather than cardiac or infectious outcome differences."
-  },
-  {
-    "title": "Focal Activations Detected by an Automated Mapping System: Insights From Contralateral Atrial Burst Pacing",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70332?af=R",
-    "doi": "10.1111/pace.70332",
-    "journal": "PACE",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781941012.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    The diagnostic performance of CARTO FINDER system for repetitive focal activations (FAs) that may sustain atrial fibrillation (AF) remains under debate.\n                  \n                  \n                    Methods\n                    In this prospective singlecenter study, we evaluated FAs detected by the mapping system during contralateral atrial burst pacing (CLABP) in sinus rhythm (SR) and during AF to characterize their features and potential underlying mechanisms. Protocol 1: The left atrium (LA) and right atrium (RA) were sequentially mapped during CLABP, delivered from the right atrial appendage (RAA) during LA mapping and from the left atrial appendage (LAA) during RA mapping. Protocol 2: Both atria were mapped in AF, and FA sites were partially remapped during CLABP after SR restoration to assess overlap. Mean cycle length (mCL) and its standard deviation (CL\u2010Std) during AF were compared between overlapping and non\u2010overlapping sites.\n                  \n                  \n                    Results\n                    \n                      In Protocol 1, FAs were detected in LA roof/LA septum/LAA/RAA (100%), anterior LA/RA septum (92%), and posterior LA/lateral RA (83%). In Protocol 2, detection sites included lateral LA/LAA/lateral RA/posterior RA/RA septum/RAA (100%), inferior LA (89%), and posterior LA (78%). During CLABP and AF, FAs were frequently and similarly detected in LAA/RAA, septal regions, posterior LA/inferior LA, and lateral RA. Although overlapping sites showed longer mCL (169.8 \u00b1 15.1\u00a0vs. 161.8 \u00b1 12.7\u00a0ms;\n                      p\n                      = 0.002) and higher CL\u2010Std (20.1 \u00b1 7.8\u00a0vs. 17.1 \u00b1 5.0\u00a0ms;\n                      p\n                      = 0.02), neither predicted overlap.\n                    \n                  \n                  \n                    Conclusions\n                    A substantial portion of FAs detected by the mapping system may arise from complex activation pathways rather than focal sources, delineating interpretive gaps and outlining targets for subsequent refinement.",
-    "summary": "This prospective single-center study evaluated 112 patients undergoing atrial mapping with the CARTO FINDER system to detect repetitive focal activations (FAs) during contralateral atrial burst pacing in sinus rhythm and during atrial fibrillation, finding that FAs were frequently detected in multiple atrial locations with substantial overlap between SR and AF mapping, though longer mean cycle length and higher cycle length variability at overlapping sites did not reliably predict true focal sources, suggesting many detected FAs may represent complex activation patterns rather than true focal mechanisms."
-  },
-  {
-    "title": "First Experience With Extravascular Implantable Cardioverter\u2010Defibrillator Under Deep Sedation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70323?af=R",
-    "doi": "10.1111/pace.70323",
-    "journal": "PACE",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781938800.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    The Extravascular Implantable Cardioverter\u2010Defibrillator (EV\u2010ICD) utilizes a substernal lead to provide defibrillation and anti\u2010tachycardia pacing (ATP) while avoiding transvenous complications. General anesthesia (GA) was applied for implantation procedures in the EV\u2010ICD pivotal trial and is currently recommended by the manufacturer. However, GA carries specific risks and consumes significant resources. This study evaluates the feasibility, safety, and procedural efficiency of EV\u2010ICD implantation performed under cardiologist\u2010administered deep sedation with noninvasive ventilation (DS\u2010NIV) compared to standard GA.\n                  \n                  \n                    Methods\n                    \n                      We retrospectively analyzed 24 consecutive patients undergoing EV\u2010ICD implantation in our center. Patients received either GA (\n                      n\n                      = 14) or DS\u2010NIV (\n                      n\n                      = 10) using a propofol\u2010ketamine protocol delivered by cardiologists. Analyses focused on peri\u2010procedural feasibility and safety, procedural workflow and anesthesia characteristics, and early device electrical performance.\n                    \n                  \n                  \n                    Results\n                    \n                      No anesthesia\u2010related complications occurred in either group. The DS\u2010NIV group demonstrated significantly shorter wheels\u2010to\u2010incision times (median: 45\u00a0vs. 70\u00a0min,\n                      p\n                      = 0.022), whereas the procedural duration did not differ significantly from the GA group. Patients receiving DS\u2010NIV required fewer vasopressors (60%\u00a0vs. 100%,\n                      p\n                      = 0.024) despite higher propofol infusion rates (800\u00a0vs. 350\u00a0mg/h,\n                      P\n                      &lt;0.001). Defibrillation testing success and electrical parameters were comparable. In a median follow\u2010up of 182 days two patients received appropriate EV\u2010ICD therapies and no inappropriate ATP or shocks were delivered.\n                    \n                  \n                  \n                    Conclusion\n                    EV\u2010ICD implantation under cardiologist\u2010administered DS\u2010NIV appears to be feasible and safe, offering improved workflow efficiency compared to GA. These findings support deep sedation as a practical alternative in experienced centers, potentially expanding access to EV\u2010ICD therapy.",
-    "summary": "This retrospective study of 24 patients (14 GA, 10 deep sedation with noninvasive ventilation) demonstrates that cardiologist-administered deep sedation with noninvasive ventilation for EV-ICD implantation is feasible and safe, with shorter time-to-incision (45 vs. 70 minutes), reduced vasopressor requirements, and comparable device performance and outcomes to general anesthesia. These findings suggest deep sedation may be a practical alternative to GA in experienced centers, potentially improving procedural efficiency and resource utilization."
-  },
-  {
-    "title": "UHF-ECG Outperforms QRS Duration and Morphology in Predicting Responders to Biventricular Cardiac Resynchronization Therapy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004755?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.749361,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Incidence, Mechanistic Insights, and Ablation of Atrial Tachycardia Occurring After Pulsed Field Ablation for Atrial Fibrillation: Results From a Large International Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004731?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.749326,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Selective Use of Nonselective Beta-Blockers: A Tailored Antiarrhythmic Approach",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004469?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.749295,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Association Between Mosaic Loss of Y Chromosome and Atrial Fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600469X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.749265,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Interatrial Dissociation Revealed by High-Density Mapping and Septal Entrainment: A Concealed Septal Interatrial Conduction Pathway",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004536?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.749228,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Is Low Shock Impedence Alone Good Enough To Omit DFT in SICD Implantation?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004688?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.749198,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "An Open Field: Second Line Therapy for Ventricular Tachycardia Ablation in Nonischemic Cardiomyopathy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004664?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.749164,
-    "tags": [
-      "VT",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "CMR Detected Atrial Structural and Functional Remodeling in AF HFrEF: Ablation vs Medical Rate Control",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004743?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.749125,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sequential vs First-Intention Marshall-PLAN Strategy in Persistent Atrial Fibrillation Ablation: A Propensity Score Analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600472X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.74906,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A network meta-analysis of comparative effectiveness and safety of pulsed field, radiofrequency, and cryoballoon ablation for atrial fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001236?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.674012,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulmonary vein isolation using a novel balloon-in-basket pulsed field ablation system: The L\u00fcbeck how-to protocol",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600098X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.673977,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sex differences in atrial fibrillation treatment with catheter ablation in Southern Brazil: Real-world insights from a Latin American registry\u2014SBR-AF",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001157?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.673935,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "1- and 2-stage hybrid atrial fibrillation ablation using a biparietal irrigated radiofrequency clamp: A dual-center cohort analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001224?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.673901,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical performance of an atrial fibrillation burden tracking algorithm: Evaluation against reference public and clinical textile electrocardiographic datasets",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001017?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.673863,
-    "tags": [
-      "AFib",
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Circulating metabolomic profile and its association with atrial fibrillation and systemic inflammation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001170?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.673831,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Discrimination of atrial fibrillation burden using cardiac magnetic resonance imaging",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001194?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.673799,
-    "tags": [
-      "AFib",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Zero-contrast cardiac resynchronization therapy device implantation in heart failure patients with renal impairment",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001029?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.673764,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of patent foramen ovale on transvenous lead extraction characteristics and outcomes",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001005?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.673731,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Indication-stratified early outcomes after transvenous lead extraction in hemodialysis patients: Analysis of a prospective 1256-patient registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001248?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.673693,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Preprocedural cardiac computed tomography assessment of left atrial posterior wall morphology predicts atrial tachyarrhythmia recurrence after cryoballoon pulmonary vein isolation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001200?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.673645,
-    "tags": [
-      "AFib",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Survival prediction after cardiac resynchronization therapy: Clinical scores vs left ventricular ejection fraction",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000991?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.673586,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Premature ventricular contraction\u2013mediated ventricular fibrillation: Clinical characteristics, application of machine-learning algorithm, and outcomes of catheter ablation\u2014A case series",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600108X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.673512,
-    "tags": [
-      "VT",
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Lessons learned from an integrated mapping and ablation catheter",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001169?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.673464,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cardiac screening in adolescents: Insights from a 15-year Student Heart Check program",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001133?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.673415,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Second atrial septum, or interatrial fold?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001108?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.673369,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Author\u2019s reply to \u201cSecond atrial septum, or interatrial fold?\u201d",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600111X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.673324,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Drug-drug interactions of NOACs with comedication: prevalence and implications for adverse events in patients with atrial fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002631?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 20, 2026",
-    "date_ts": 1781921347.673097,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Adjunctive posterior wall isolation for persistent and long-standing persistent atrial fibrillation: the CORNERSTONE AF trial",
-    "link": "https://doi.org/10.1093/eurheartj/ehag486",
-    "doi": "10.1093/eurheartj/ehag486",
-    "journal": "European Heart Journal",
-    "date": "Jun 19, 2026",
-    "date_ts": 1781827200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Artificial Intelligence and Biomarker-Driven Prediction of Post-CABG Atrial Fibrillation: Integrating Clinical, Genomic, and Metabolic Insights",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600262X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 19, 2026",
-    "date_ts": 1781837306.762722,
-    "tags": [
-      "AFib",
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Electrocardiographic Imaging of Repolarization Abnormalities in Structural Heart Disease for Characterisation of Arrhythmogenic Phenotypes",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024781?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 19, 2026",
-    "date_ts": 1781837306.482017,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Mechanical CPR Device Use and Cardiac Arrest Survival in EMS Agencies",
-    "link": "https://doi.org/10.1161/circulationaha.126.079272",
-    "doi": "10.1161/circulationaha.126.079272",
-    "journal": "Circulation",
-    "date": "Jun 18, 2026",
-    "date_ts": 1781740800.0,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Cardiopulmonary resuscitation (CPR) by health care responders is often suboptimal during out-of-hospital cardiac arrest (OHCA). Mechanical CPR devices have been promoted as a strategy to improve CPR quality. Whether their use in routine care is associated with improved OHCA survival at emergency medical service (EMS) agencies is unclear.\n                  \n                  \n                    METHODS:\n                    Within the Cardiac Arrest Registry to Enhance Survival, we assessed agency-level rates of OHCA survival at EMS agencies with \u22652 years of OHCA data before and after their first documented use of a mechanical CPR device from 2013 to 2019 using an observational cohort study design. Temporal trends in favorable neurological survival (without severe neurological disability) and survival to discharge were first assessed in EMS agencies that did not initiate mechanical CPR device use (control agencies) using multivariable hierarchical logistic regression. Then an interrupted time series analysis evaluated whether introduction of mechanical CPR devices at EMS agencies was associated with higher OHCA survival.\n                  \n                  \n                    RESULTS:\n                    \n                      Among 51\u2009994 patients with OHCA at 73 control agencies, there were no temporal trends in risk-adjusted rates of favorable neurological survival (annual rates ranged between 9.6% and 10.6%;\n                      P\n                      trend\n                      =0.23) or survival to discharge (annual rates ranged between 11.1% and 12.0%;\n                      P\n                      trend\n                      =0.31). At 49 EMS agencies that introduced mechanical CPR devices (14\u2009110 OHCAs before and 17\u2009804 OHCAs after), the mean EMS agency risk-adjusted rate of favorable neurological survival was 8.9%\u00b12.2% before mechanical CPR device introduction and 8.3%\u00b11.3% after, with no change in model intercept (adjusted odds ratio, 0.94 [95% CI, 0.80\u20131.11];\n                      P\n                      =0.48) or slope after introduction of mechanical CPR devices (adjusted odds ratio per year, 1.03 [95% CI, 0.96\u20131.12];\n                      P\n                      =0.41). Similarly, the mean EMS agency risk-adjusted rate of survival to discharge was 11.0%\u00b12.2% before and 10.0%\u00b11.0% after device introduction, with no significant change in model intercept or slope after device introduction.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    In a large US registry of OHCA, EMS agency rates of favorable neurological survival and survival to discharge were not higher after the initiation of mechanical CPR device use.",
-    "summary": "This observational cohort study using interrupted time series analysis examined 31,914 OHCA patients across 49 EMS agencies that introduced mechanical CPR devices (2013-2019) compared to 51,994 patients at 73 control agencies, finding no improvement in risk-adjusted favorable neurological survival (8.9% vs 8.3%, aOR 0.94) or survival to discharge (11.0% vs 10.0%) following mechanical CPR device implementation. The results suggest that routine adoption of mechanical CPR devices in EMS practice was not associated with improved OHCA outcomes in real-world settings."
-  },
-  {
-    "title": "Selective Cardioneuroablation for Symptomatic Sinus Bradycardia After Bariatric Surgery: A Report on two Cases",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70325?af=R",
-    "doi": "10.1111/pace.70325",
-    "journal": "PACE",
-    "date": "Jun 18, 2026",
-    "date_ts": 1781772666.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  Functional bradycardia, characterized by a heart rate below the normal range due to dysregulation of the autonomic nervous system (ANS), poses a clinical challenge with limited treatment options. Symptomatic sinus bradycardia is an uncommon but potentially significant complication following bariatric surgery. Cardioneuroablation (CNA) has emerged as a novel therapeutic intervention targeting the cardiac ANS to modulate heart rate. This case series describes two patients, with the aim of providing a simplified but successful approach with targeted partial CNA for sinus bradycardia complicating bariatric surgery.",
-    "summary": "This case series of two patients demonstrates that targeted partial cardioneuroablation can successfully treat symptomatic sinus bradycardia occurring after bariatric surgery by modulating autonomic nervous system dysregulation. The procedure represents a novel therapeutic option for this rare but clinically significant post-surgical complication."
-  },
-  {
-    "title": "Body Roundness Index as a Predictor of Electrical Cardioversion Failure in Patients With Persistent Atrial Fibrillation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70329?af=R",
-    "doi": "10.1111/pace.70329",
-    "journal": "PACE",
-    "date": "Jun 18, 2026",
-    "date_ts": 1781771864.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Electrical cardioversion (ECV) is a commonly performed procedure for rhythm control in patients with atrial fibrillation (AF); however, approximately 10%\u201315% of procedures are unsuccessful. Although several clinical and echocardiographic predictors of ECV success have been identified, the impact of the Body Roundness Index (BRI) on ECV outcomes has not yet been clearly established. In this study, we aimed to investigate the effect of BRI on post\u2010procedural ECV success in patients undergoing cryoballoon ablation for persistent AF.\n                  \n                  \n                    Methods\n                    This retrospective study included patients who underwent cryoballoon ablation for persistent AF between January 2024 and December 2025 at the Electrophysiology Unit of the Cardiology Department, Etlik City Hospital, Ministry of Health of the Republic of T\u00fcrkiye. Following cryoballoon ablation, electrical cardioversion was performed to restore sinus rhythm. Patients were divided into two groups according to cardioversion outcome: successful and unsuccessful ECV. A total of 419 patients were screened; 160 patients with paroxysmal AF and 10 patients with incomplete anthropometric or echocardiographic data were excluded. Ultimately, 249 patients were included in the final analysis.\n                  \n                  \n                    Results\n                    \n                      Among the 249 patients included in the study, sinus rhythm was successfully restored in 201 patients (80.7%) following the standard ECV protocol, whereas ECV failed in 48 patients (19.3%). Patients in the unsuccessful ECV group had significantly higher BRI values compared with those in the successful group (6.23 \u00b1 1.17\u00a0vs. 4.08 \u00b1 0.73,\n                      p\n                      &lt; 0.001). Similarly, body mass index (BMI) was also significantly higher in the unsuccessful group (30.95 \u00b1 3.45\u00a0vs. 29.16 \u00b1 3.39,\n                      p\n                      = 0.001). In addition, patients with unsuccessful ECV had larger left atrial diameter (48.88 \u00b1 5.10\u00a0mm vs. 42.31 \u00b1 4.65\u00a0mm,\n                      p\n                      &lt; 0.001) and lower ejection fraction values (49.33 \u00b1 13.38%\u00a0vs. 54.60 \u00b1 9.34%,\n                      p\n                      = 0.002). In multivariable logistic regression analysis, BRI emerged as a strong and independent predictor of ECV failure (OR = 29.363, 95% CI: 8.102\u2013106.423,\n                      p\n                      &lt; 0.001). Receiver operating characteristic (ROC) curve analysis demonstrated that BRI had superior discriminative performance compared with BMI in predicting ECV failure (AUC = 0.972, 95% CI: 0.952\u20130.992). The optimal BRI cutoff value for predicting ECV failure was 4.94, with a sensitivity of 93.8% and specificity of 89.5%. In contrast, the BMI cutoff value was 30.95\u00a0kg/m\n                      2\n                      , yielding a sensitivity of 45.8% and specificity of 77%.\n                    \n                  \n                  \n                    Conclusion\n                    Body Roundness Index appears to be a stronger anthropometric predictor than BMI for predicting electrical cardioversion failure in patients with persistent atrial fibrillation.",
-    "summary": "This retrospective study of 249 patients with persistent atrial fibrillation undergoing cryoballoon ablation found that Body Roundness Index (BRI) was a strong independent predictor of electrical cardioversion failure (OR=29.36, p<0.001), with superior discriminative performance (AUC=0.972) compared to BMI for identifying patients at risk of unsuccessful rhythm restoration."
-  },
-  {
-    "title": "Automatic Measurement of Short-Term Variability of Repolarization on Human Intracardiac Electrograms Predicts VT/VF Events",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002618?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 18, 2026",
-    "date_ts": 1781749976.136446,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Chronic Right Coronary Artery Changes After Cavotricuspid Isthmus Ablation Using a Small-Basket Pentaspline Pulsed Field Catheter: A Computed Tomography-Based Assessment",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024744?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 18, 2026",
-    "date_ts": 1781749975.813321,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Fluoroless High-Density Pulsed Field Versus Radiofrequency Ablation for Atrial Fibrillation Guided by Left-Atrial Intracardiac Echocardiography: The HALO Protocol",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602477X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 18, 2026",
-    "date_ts": 1781749975.813146,
-    "tags": [
-      "AFib",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "C-terminal long-QT type 1 R562S-Kv7.1 variant, the first variant in helix C impairing \u03b2-adrenergic response of the slow delayed rectifier K+ channel",
-    "link": "https://doi.org/10.1093/europace/euag156",
-    "doi": "10.1093/europace/euag156",
-    "journal": "EP Europace",
-    "date": "Jun 18, 2026",
-    "date_ts": 1781740800.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Kv7.1 variants, associated with long-QT syndrome type 1 (LQT1) and altering the function of the slow delayed rectifier K+ (IKs) channel, may result in arrhythmias, especially during exercise. This study focused on complex analysis of the R562S-Kv7.1 variant located in helix C of the Kv7.1 C-terminus, which was identified in four putatively unrelated families in the Czech Republic.\n                  \n                  \n                    Methods\n                    The clinical and genetic investigation was followed by functional analysis (whole-cell patch clamp, confocal microscopy, computational simulations) and structural modelling.\n                  \n                  \n                    Results\n                    The genetic analysis suggested that R562S-Kv7.1 might be a founder LQT1 variant in Central Europe. R562S carriers showed a significantly prolonged QTc interval at rest and a significantly higher QTc prolongation after exercise vs. healthy relatives. The functional analysis of R562S channels demonstrated their preserved membrane localization, a significant decrease in IKs with a rightward shift of the voltage dependence of activation, and, importantly, a lack of responsiveness to \u03b2-adrenergic stimulation. The latter seems to be related to a modified interaction of the modulatory KCNE1 subunit with Kv7.1. The proarrhythmic potential of R562S dysfunction, mediated by delayed afterdepolarizations during \u03b2-adrenergic stimulation, could be effectively prevented by mild (5%) inhibition of L-type Ca2+ current (ICa).\n                  \n                  \n                    Conclusion\n                    R562S-Kv7.1 is the first variant in helix C causing an impaired response of IKs channel to \u03b2-adrenergic stimulation, likely due to altered interactions between channel subunits, namely Kv7.1 and KCNE1. Mild ICa inhibition was suggested as a new treatment option.",
-    "summary": "This retrospective genetic and functional analysis of four unrelated families identified R562S-Kv7.1 as a likely Central European founder variant for LQT1, characterized by preserved membrane localization but significantly reduced IKs with loss of \u03b2-adrenergic responsiveness due to impaired Kv7.1-KCNE1 interaction, with mild L-type calcium channel inhibition demonstrated as a potentially effective therapeutic strategy to prevent exercise-induced arrhythmias."
-  },
-  {
-    "title": "Interpretable Multimodal AI to Predict the Presence of Late Gadolinium Enhancement on Cardiac Magnetic Resonance Imaging in Cardiac Sarcoidosis Patients",
-    "link": "https://doi.org/10.1161/circep.125.014627",
-    "doi": "10.1161/circep.125.014627",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Jun 18, 2026",
-    "date_ts": 1781740800.0,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Preprocedural hs-CRP Level Predicts Long-Term Outcomes After First Radiofrequency Ablation in Patients With Non-Valvular Atrial Fibrillation: Insights From the China-AF Cohort",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024768?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 17, 2026",
-    "date_ts": 1781663692.708562,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Diagnostic Yield of Algorithmically Unclassified Smartwatch ECGs in Ambulatory Care: The EQUAL Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024756?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 17, 2026",
-    "date_ts": 1781663692.708378,
-    "tags": [
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sudden Death in Young Competitive Athletes Due to Arrhythmogenic Cardiomyopathy: A 4-Decade National Referral Center Experience",
-    "link": "https://doi.org/10.1161/circep.125.014877",
-    "doi": "10.1161/circep.125.014877",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Jun 17, 2026",
-    "date_ts": 1781654400.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Arrhythmogenic cardiomyopathy (ACM) is a major cause of sudden cardiac death (SCD) in competitive athletes. We aimed to evaluate the prevalence and characteristics of ACM with the increased awareness of the disease at preparticipation screening after the introduction of the 1994 and 2010 diagnostic criteria.\n                  \n                  \n                    METHODS:\n                    The North-East Italy registry of juvenile SCD (\u226440 years old) was searched for competitive athletes dying due to ACM in the time interval from 1985 to 2024. Cases referred from other regions were also included. Clinical and pathology data were analyzed according to guidelines.\n                  \n                  \n                    RESULTS:\n                    ACM was the cause of SCD in 29% of athletes. The incidence rate of SCD in athletes was 0.43 (0.27\u20130.65) versus 0.14 (0.05\u20130.33) per 100 000/y before and after 2010, respectively. Fifty-one athletes with ACM (50 male, 25\u00b16.4 years) were enrolled. The pattern was right ventricular/biventricular in 74.5% and left ventricular in 25.5% (41% after 2010). Fibrofatty replacement was transmural in 63% of right ventricular/biventricular ACM and exclusively subepicardial-midmural in left ventricular ACM. First-line preparticipation screening revealed abnormalities in 62.7% (83.3% before 1994 and 40.9% after 2010). Twelve-lead ECG abnormalities were present in 50.9% (60.5% in right ventricular/biventricular ACM and 23% in left ventricular ACM), with negative T waves in 39.2% and low QRS voltage in 25.5%. Premature ventricular complexes/nonsustained ventricular tachycardia with left bundle-branch block or multiple morphologies were present on basal or limited exercise ECG in 35.3%. Maximal stress test, Holter, and 2-dimensional echocardiography were positive in 55%, 45.4%, and 5.8% of cases, respectively. In the only case who underwent contrast-enhanced cardiac magnetic resonance, late gadolinium enhancement was detected.\n                  \n                  \n                    CONCLUSIONS:\n                    ACM-related SCD incidence appeared lower in the post-2010 period. A phenotypic shift toward the left ventricular variant is observed, with ECG changes in a minority of cases and usually normal 2-dimensional echocardiography. If the index of suspicion is high, contrast-enhanced cardiac magnetic resonance is crucial for early identification and SCD prevention.",
-    "summary": "This retrospective registry analysis of 51 competitive athletes (\u226440 years) who died from arrhythmogenic cardiomyopathy (ACM) between 1985-2024 found that ACM-related sudden cardiac death incidence decreased significantly after 2010 (0.14 vs 0.43 per 100,000/year), with a phenotypic shift toward left ventricular involvement and ECG abnormalities present in only 50.9% of cases, highlighting the critical role of cardiac magnetic resonance imaging in diagnosis when clinical suspicion is high."
-  },
-  {
-    "title": "Simplified Tools, Complex Decisions: These Are Rhythm Procedures: Why AF Ablation, Leadless Pacing, and Left Atrial Appendage Occlusion Require Rhythm-Centered Care",
-    "link": "https://doi.org/10.1161/circep.126.015127",
-    "doi": "10.1161/circep.126.015127",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Jun 17, 2026",
-    "date_ts": 1781654400.0,
-    "tags": [
-      "AFib",
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Electrophysiological Effects of Right and Left Tragus Nerve Stimulation in Humans",
-    "link": "https://doi.org/10.1161/circep.126.014872",
-    "doi": "10.1161/circep.126.014872",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Jun 17, 2026",
-    "date_ts": 1781654400.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Conservative Oxygen for Unresponsive Patients after Cardiac Arrest",
-    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2513814?af=R&rss=currentIssue",
-    "doi": "10.1056/NEJMoa2513814",
-    "journal": "NEJM",
-    "date": "Jun 16, 2026",
-    "date_ts": 1781577455.246897,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND\nIn patients who are unresponsive after resuscitation from cardiac arrest, limiting oxygen exposure to that necessary to achieve acceptable oxygenation may increase the likelihood of survival with a favorable functional outcome.\n\n\nMETHODS\nWe randomly assigned unresponsive adults receiving mechanical ventilation in the intensive care unit (ICU) after cardiac arrest to conservative or liberal oxygen therapy. In the two groups, the default lower limit of arterial oxygen saturation as measured by pulse oximetry (Spo2) was 90%. In the conservative-oxygen group, the alarm for the upper limit of the Spo2 was set at 95%, and the fraction of inspired oxygen (Fio2) was decreased to 0.21 provided that the Spo2 was above the lower limit. In the liberal-oxygen group, there were no measures limiting the upper Spo2, but the minimum Fio2 permitted during mechanical ventilation was 0.3. The primary outcome was survival with a favorable functional outcome at 180 days, assessed with the Extended Glasgow Outcome Scale (GOS-E). Levels on the GOS-E range from 1 (death) to 8 (\"upper good recovery\"). We defined survival with a favorable functional outcome as a GOS-E level of 5 (\"lower moderate disability\") or higher.\n\n\nRESULTS\nA total of 1840 patients were recruited from 53 ICUs in Australia, New Zealand, and Ireland, with 882 assigned to conservative oxygen therapy and 958 assigned to liberal oxygen therapy. A favorable functional outcome at 180 days was observed for 313 of 819 patients (38.2%) in the conservative-oxygen group and 353 of 890 patients (39.7%) in the liberal-oxygen group (relative risk, 0.97; 95% confidence interval, 0.87 to 1.09; P\u2009=\u20090.65). No adverse events were reported.\n\n\nCONCLUSIONS\nAmong unresponsive adults undergoing mechanical ventilation in the ICU after a cardiac arrest, the percentage who survived with a favorable functional outcome was not higher with conservative oxygen therapy than with liberal oxygen therapy. (Funded by the Health Research Council of New Zealand and others; LOGICAL Australian New Zealand Clinical Trials Registry number, ACTRN12621000518864.)."
-  },
-  {
-    "title": "Step\u2010by\u2010Step: How to Perform Pulsed Field Ablation of Atrial Fibrillation Guided Exclusively by Intracardiac Echocardiography Using a Pentaspline Catheter",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70403?af=R",
-    "doi": "10.1111/jce.70403",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 16, 2026",
-    "date_ts": 1781633424.0,
-    "tags": [
-      "AFib",
-      "Imaging"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    \n                    Pulsed\u2010field ablation (PFA) is an emerging technique for pulmonary vein isolation in atrial fibrillation. However, its implementation is commonly guided by fluoroscopy with or without 3D electroanatomic mapping, increasing either radiation exposure or procedural cost. We describe a practical, step\u2010by\u2010step workflow for performing completely fluoroless pulmonary vein isolation using a pentaspline PFA ablation catheter guided exclusively by intracardiac echocardiography (ICE). All procedural stages\u2014including transseptal access, intracardiac navigation, catheter deployment, energy delivery, and acute assessment of electrical isolation\u2014are performed under continuous ICE visualization. Although this workflow is designed for pulmonary vein isolation, selected examples of extra\u2010pulmonary vein ablation guided by ICE are included to illustrate catheter manipulation and energy delivery. This ICE\u2010only approach suggests that fluoroless PFA is achievable using continuous ICE guidance while avoiding radiation exposure. In centers where the combined use of ICE and 3D mapping systems may be limited, this workflow may also represent a practical alternative for the treatment of atrial fibrillation.",
-    "summary": "This is a prospective procedural technique description demonstrating that completely fluoroless pulmonary vein isolation using pulsed-field ablation can be safely performed with intracardiac echocardiography (ICE) guidance alone, eliminating radiation exposure while reducing reliance on costly 3D electroanatomic mapping systems. The ICE-only approach successfully visualized all procedural stages from transseptal access through acute assessment of electrical isolation."
-  },
-  {
-    "title": "Comparative Efficacy of Continuous Versus Patch ECG Monitoring in Detecting Atrial Fibrillation Recurrence Post Catheter Ablation: Insights From the REAL\u2010AF Registry",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70405?af=R",
-    "doi": "10.1111/jce.70405",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 16, 2026",
-    "date_ts": 1781632214.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Effective monitoring of atrial fibrillation (AF) recurrence following catheter ablation is crucial for optimizing patient outcomes. Various monitoring strategies exist, but effectiveness comparisons remain underexplored.\n                  \n                  \n                    Objective\n                    This study compares the recurrence of atrial arrhythmias detected by continuous versus patch ECG monitoring methods following radiofrequency ablation (RFA) for AF.\n                  \n                  \n                    Methods\n                    Real\u2010world data from the REAL\u2010AF Registry (NCT 04088071) were analyzed. REAL\u2010AF is a prospective, observational, multicenter registry and this analysis included patients with available 12\u2010month follow\u2010up post\u2010RFA. We compared the detected recurrence rates of all\u2010atrial arrhythmias from continuous monitoring insertable cardiac monitors (ICMs), dual\u2010chamber pacemakers, and implantable cardioverter defibrillator (ICDs) or from patch ECG monitoring for 7\u201314\u2010days.\n                  \n                  \n                    Results\n                    \n                      Out of 2263 patients, 688 (30.4%) were monitored continuously, and 1575 (69.6%) were monitored with patch ECGs. The detected recurrence rate of all atrial arrhythmias was significantly higher in the continuous monitoring group compared to the patch monitoring group at 12 months (28.1% and 13.5%,\n                      p\n                      \u2009&lt;\u20090.001, respectively). This difference remained significant after adjusting for confounding factors such as age, type of AF, CHA\n                      2\n                      DS\n                      2\n                      \u2010VASc score, and left ventricular ejection fraction (HR\u2009=\u20090.44, 95% CI [0.35, 0.56],\n                      p\n                      \u2009&lt;\u20090.001).\n                    \n                  \n                  \n                    Conclusion\n                    Continuous monitoring is associated with a higher detection rate of atrial arrhythmia recurrences following AF catheter ablation. These findings suggest that continuous monitoring should be considered the standard of care, especially in evaluating new ablation strategies and technologies.",
-    "summary": "This prospective, observational, multicenter registry analysis (REAL-AF, n=2,263) compared continuous cardiac device monitoring (ICMs, pacemakers, ICDs; n=688) versus 7-14 day patch ECG monitoring (n=1,575) for detecting atrial arrhythmia recurrence at 12 months post-radiofrequency ablation, finding significantly higher recurrence detection with continuous monitoring (28.1% vs 13.5%, p<0.001), which persisted after multivariable adjustment. The authors conclude continuous monitoring should be considered standard of care for post-ablation AF surveillance."
-  },
-  {
-    "title": "Issue Information",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70398?af=R",
-    "doi": "10.1111/jce.70398",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 16, 2026",
-    "date_ts": 1781588477.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Autonomic effects and ablation success after pulsed field and cryoballoon ablation \u2013 A SINGLE SHOT CHAMPION substudy",
-    "link": "https://doi.org/10.1093/europace/euag152",
-    "doi": "10.1093/europace/euag152",
-    "journal": "EP Europace",
-    "date": "Jun 16, 2026",
-    "date_ts": 1781568000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background\n                    Pulmonary vein isolation (PVI) using radiofrequency and cryoballoon ablation (CBA) modulates the cardiac autonomic nervous system (ANS) by affecting epicardial ganglionated plexi. In contrast, pulsed field ablation (PFA) appears to exert minimal autonomic effects. The impact of cardiac ANS modulation on arrhythmia recurrence remains incompletely understood.\n                  \n                  \n                    Methods\n                    In this multicenter trial substudy, 210 patients with symptomatic paroxysmal atrial fibrillation (AF) were randomized 1:1 to PVI using PFA or CBA. All patients received an implantable cardiac monitor at the time of ablation. Daytime heart rate (DHR), nighttime heart rate (NHR), and heart rate variability (HRV) were continuously recorded over 12 months and analyzed at day 1\u20132, month 3, 6, 9, and 12 post-ablation, and related to arrhythmia-free outcome.\n                  \n                  \n                    Results\n                    PFA (n\u2009=\u2009105) was associated with higher HRV at day 1\u20132 compared to CBA (n\u2009=\u2009105; 100 [79\u2013122] ms vs. 73 [59\u201393] ms, p\u2009&amp;lt;\u20090.001). This trend persisted throughout follow-up. DHR and NHR were also consistently lower in the PFA group. Freedom from arrhythmia recurrence at 12 months was higher with PFA than CBA (63% vs. 49%, p\u2009=\u20090.046). HRV did not differ between PFA patients with and without recurrence. A stronger initial HRV suppression predicted favorable outcomes in CBA patients (67\u2005ms vs. 84\u2005ms in patients without vs. with arrhythmia recurrence, p\u2009=\u20090.002).\n                  \n                  \n                    Conclusions\n                    Despite reduced cardiac ANS modulation, PFA was associated with a superior arrhythmia-free outcome compared to CBA. These findings suggest that cardiac ANS modulation may not be critical for the successful ablation of paroxysmal AF.",
-    "summary": "This randomized controlled trial of 210 patients with paroxysmal atrial fibrillation compared pulsed field ablation (PFA) to cryoballoon ablation (CBA) for pulmonary vein isolation, finding that PFA achieved superior 12-month arrhythmia-free outcome (63% vs. 49%, p=0.046) despite preserving heart rate variability and exerting minimal autonomic nervous system modulation, suggesting that cardiac autonomic modulation may be unnecessary for successful AF ablation."
-  },
-  {
-    "title": "The evaluation of Copy Number Variants in an unselected population of patients with Inherited Cardiac Conditions: The INTERACTION Study",
-    "link": "https://doi.org/10.1093/europace/euag150",
-    "doi": "10.1093/europace/euag150",
-    "journal": "EP Europace",
-    "date": "Jun 16, 2026",
-    "date_ts": 1781568000.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    The current diagnostic approach to inherited cardiac conditions (ICCs) is primarily focused on the analysis of single-nucleotide variants (SNVs) and small insertions/deletions (InDels). However, as recommended for other inherited diseases, the analysis of Copy Number Variants (CNVs) should be equally considered. In cardiology, the diagnostic contribution of CNVs remains insufficiently studied, with limited evidence and no standardized recommendations for analytical workflows.\n                    This study aims to assess the prevalence of pathogenic CNVs in an Italian multicenter cohort of ICC patients, providing recommendations for integrating CNV analysis into routine genetic testing.\n                  \n                  \n                    Methods\n                    A total of 203 ICC probands with prior negative or inconclusive results for SNVs and InDels testing were included. The tertiary bioinformatic analysis was performed by eVai enGenome software, and putative CNVs were validated by Multiplex Ligation-dependent Probe Amplification (MLPA) assays.\n                  \n                  \n                    Results\n                    MLPA confirmed only one of the five initially suspected CNVs, identifying a deletion in MYBPC3 gene classified as pathogenic according to ACMG/AMP guidelines. This result confirmed a limited diagnostic yield of 0,50%. Considering the substantial costs, time constraints, and specialized expertise required, we propose a strategy to prioritize selected ICC patients for CNV analysis.\n                  \n                  \n                    Conclusions\n                    Evidence from this real-world cohort suggests the incorporation of CNV analysis as a second-tier test in patients with ICC and specific clinical or molecular indications.",
-    "summary": "This retrospective cohort study of 203 Italian ICC patients with prior negative/inconclusive SNV and InDel testing evaluated the diagnostic yield of CNV analysis using bioinformatic screening followed by MLPA validation, identifying only one pathogenic MYBPC3 deletion (0.5% yield), leading the authors to recommend CNV analysis as a second-tier test restricted to patients with specific clinical or molecular indicators rather than routine screening."
-  },
-  {
-    "title": "Deep Learning\u2010Based Prediction of Heart Failure Readmission Using Longitudinal Cardiac Device Data",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70406?af=R",
-    "doi": "10.1111/jce.70406",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 15, 2026",
-    "date_ts": 1781549298.0,
-    "tags": [
-      "Devices",
-      "AI"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Heart failure (HF) is a leading cause of hospitalization and readmission. Cardiac implantable electronic devices (CIEDs) continuously capture physiologic diagnostics that change during and after HF decompensation and may enable early post\u2010discharge risk stratification.\n                  \n                  \n                    Objectives\n                    To predict 60\u2010day HF readmission using deep learning models trained on post\u2010discharge temporal behavior of CIED diagnostic parameters.\n                  \n                  \n                    Methods\n                    We performed a retrospective analysis of patients with implantable cardioverter defibrillators (ICDs) or cardiac resynchronization therapy defibrillators (CRT\u2010Ds) devices enrolled in remote monitoring (2007\u20132021) with HF hospitalizations identified from linked electronic health record and remote monitoring databases. Five daily device diagnostics (activity, impedance, heart rate variability, and night/day heart rates) were aligned to the index HF discharge (day 0) and analyzed over the subsequent 30 days. Patients readmitted within 7 days and those with substantial missing device data were excluded; remaining recovery windows were labeled by the occurrence of HF readmission 8\u201360 days post\u2010discharge. We trained and evaluated two architectures of neural networks.\n                  \n                  \n                    Results\n                    \n                      The cohort included 5734 patients with 12\u2009369 HF hospitalization events; 2489 index hospitalizations were followed by HF readmission within 60 days. Across the 30\u2010day recovery window of device parameters, temporal characteristics of CIED cardiac compass parameters differed significantly between readmitted and non\u2010readmitted patients (\n                      p\n                      \u2009&lt;\u20090.001), consistent with slower physiologic recovery among readmitted events. On an independent data set, the 1\u2010dimensional convolutional neural network architecture (1D CNN) achieved 0.77 sensitivity, 0.98 specificity, and area under the ROC curve (AUROC) of 0.89.\n                    \n                  \n                  \n                    Conclusion\n                    Deep learning models leveraging post\u2010discharge trajectories of routinely captured CIED diagnostics can identify patients at higher risk of 60\u2010day HF readmission and may support targeted early follow\u2013up after HF hospitalization.",
-    "summary": "This retrospective analysis of 5,734 patients with 12,369 HF hospitalization events (2,489 with 60-day readmission) used deep learning on post-discharge cardiac implantable electronic device (CIED) diagnostic parameters to predict HF readmission, with a 1D convolutional neural network achieving 0.89 AUROC, 0.77 sensitivity, and 0.98 specificity. The temporal trajectories of five daily CIED parameters (activity, impedance, heart rate variability, and night/day heart rates) over 30 days post-discharge significantly differed between readmitted and non-readmitted"
-  },
-  {
-    "title": "Sex and Age Differences in Procedural and Medium\u2010Term Electrical Performance Outcomes of Dual\u2010Chamber Leadless Pacemakers",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70407?af=R",
-    "doi": "10.1111/jce.70407",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 15, 2026",
-    "date_ts": 1781549156.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Studies regarding sex and age differences in clinical outcomes of DCLP patients remain limited.\n                  \n                  \n                    Methods\n                    This was a retrospective, single\u2010center study, which evaluated the consecutive patients who underwent Aveir DCLP implantation between January 2024 and September 2025. The included patients were divided into two groups based on sex or age. Procedural outcomes and device performance at implantation, at 1st follow\u2010up between 1 and 3 months, at 2nd follow\u2010up between 3 and 6 months, and at 3rd follow\u2010up between 6 and 12 months were evaluated.\n                  \n                  \n                    Results\n                    \n                      A total of 151 patients were included. Among them, 66 patients (43.7%) were female, and 49 (32.5%) patients were younger than 75 years old. For comparison between sexes, female patients had higher ventricular impedance (782.55\u2009\u00b1\u2009279.26 vs. 687.85\u2009\u00b1\u2009268.07 \u03a9,\n                      p\n                      \u2009=\u20090.029) at the time of implant. Female patients also had lower atrial sensing compared to their male counterparts at 1st and 2nd follow up. For comparison between patients who were &lt;\u200975 years old and\u2009&gt;\u2009=75 years old, at 3rd follow up, atrial sensing is lower in patients of 75 years and older (3.69\u2009\u00b1\u20091.02 vs. 2.86\u2009\u00b1\u20091.83\u2009mV,\n                      p\n                      \u2009=\u20090.022). There was no significant difference in procedural outcomes between different sex and age groups.\n                    \n                  \n                  \n                    Conclusion\n                    There were no clinically significant differences regarding post\u2010procedural complications and electrical parameters between different ages and sexes. These findings from real\u2010life study are reassuring to support wider utilization of these devices.",
-    "summary": "This single-center retrospective study of 151 patients undergoing Aveir dual-chamber leadless pacemaker (DCLP) implantation between January 2024 and September 2025 found sex-based differences in ventricular impedance and atrial sensing, and age-related differences in atrial sensing at 12-month follow-up, but no clinically significant differences in procedural outcomes or major electrical parameters between sex and age groups. The results support safe utilization of this device across diverse patient populations."
-  },
-  {
-    "title": "Incidence of Migraine Following Pulsed\u2010Field Ablation for Atrial Fibrillation: Findings From a Multicenter Analysis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70399?af=R",
-    "doi": "10.1111/jce.70399",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 15, 2026",
-    "date_ts": 1781548867.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    New\u2010onset migraine or exacerbation of pre\u2010existent migraine has been reported following catheter ablation for atrial fibrillation (AF). We assessed the incidence of migraine following pulsed\u2010field ablation (PFA).\n                  \n                  \n                    Methods\n                    Consecutive AF patients undergoing PFA using either Farawave or Pulse Select or Sphere 9 catheter systems were included in this multicenter study and prospectively followed up for new migraine or an increase in the severity of the pre\u2010existent headache. Migraine was labeled as \u201cnew onset\u201d if the condition was diagnosed for the first time after the index ablation without any previous history, recent or remote. Anti\u2010arrhythmic drugs and oral anticoagulation were prescribed for 2 months after the procedure.\n                  \n                  \n                    Results\n                    \n                      A total of 2148 AF patients undergoing PFA procedures (Farawave: 1477; Pulse Select: 369; and Sphere 9: 392) at the participating centers were included in the analysis. A history of migraine was present in 32 (1.48%) patients, of which 6(18.75%) reported an increase in frequency of migraine in the immediate post\u2010ablation period. New\u2010onset migraine was diagnosed in 31 (1.4%) post\u2010PFA patients. Of these 31 patients, 25 (80.6%) underwent PFA using the Farapulse system, Sphere 9 in 5 (16.12%), and Pulse Select in 1 (3.22%) patient. The incidence of new\u2010onset migraine was comparable between different systems; 1.69% (95% CI 1.10%\u22122.49%), 1.65% (95% CI 0.54%\u22123.82%), and 0.27% (95% CI 0.01%\u22121.50%) for Farapulse, Sphere 9, and Pulse Select, respectively. Mean duration of onset was 3.08\u2009\u00b1\u20090.67 days post\u2010procedure. In the multivariable regression analysis, BMI was found to be the only predictor of new\u2010onset migraine (OR\u2009=\u20091.402; 95% CI 1.002\u20131.987;\n                      p\n                      \u2010value\u2009=\u20090.031).\n                    \n                  \n                  \n                    Conclusion\n                    New\u2010onset migraine was observed to be uncommon in patients undergoing PFA. Although the incidence rate was comparable among the three platforms analyzed, the Farawave system showed a higher trend. Of note, BMI was an independent predictor of new migraine.",
-    "summary": "This prospective multicenter study of 2,148 AF patients undergoing pulsed-field ablation found new-onset migraine in 1.4% of patients (mean onset 3.08 days post-procedure), with comparable incidence across three catheter systems (1.69% Farawave, 1.65% Sphere 9, 0.27% Pulse Select), and BMI as the only independent predictor of new-onset migraine. Additionally, 18.75% of patients with pre-existing migraine reported increased frequency post-ablation."
-  },
-  {
-    "title": "Detection of Spatio\u2010Temporal Dispersion Electrograms Using Complex Signal Identification\u2010Labeled Abnormal Potential Areas in Patients With Persistent Atrial Fibrillation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70400?af=R",
-    "doi": "10.1111/jce.70400",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 15, 2026",
-    "date_ts": 1781548796.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Ablation targeting spatio\u2010temporal dispersion electrograms (STDEs) in addition to pulmonary vein isolation (PVI) has been reported to reduce atrial fibrillation (AF) recurrence in patients with persistent AF.\n                  \n                  \n                    Background\n                    However, STDE identification remains subjective. Complex Signal Identification (CSI), integrated into the CARTO 3 mapping system, automatically quantifies electrogram characteristics. We evaluated whether CSI parameters can accurately identify STDEs.\n                  \n                  \n                    Methods\n                    We retrospectively analyzed intracardiac electrogram points from five consecutive patients who underwent catheter ablation for persistent AF using the CARTO 3 version 8 mapping system (Biosense Webster, Diamond Bar, CA, USA) between October and December 2024 to evaluate the ability of CSI parameters to identify STDEs. STDEs were identified and marked by the operator using an OCTARAY catheter.\n                  \n                  \n                    Results\n                    A total of 4453 electrogram points obtained before ablation were analyzed. Among all CSI metrics, the fractionation score demonstrated the highest diagnostic accuracy. An optimal cutoff of 4.1 yielded an area under the curve (AUC) of 0.905 (95% CI: 0.892\u20130.918), with a sensitivity of 80.4%, specificity of 98.6%, positive predictive value of 94.1%, and negative predictive value of 93.1%. In contrast, complex duration (cutoff \u2265\u200950\u2009ms), %cycle length (cutoff \u2265\u200915%), and complex onset (cutoff \u2264\u2009\u221232) showed AUCs of 0.613 (95% CI: 0.557\u20130.668), 0.599 (95% CI: 0.538\u20130.660), and 0.525 (95% CI: 0.461\u20130.589), respectively.\n                  \n                  \n                    Conclusion\n                    A CSI fractionation score cutoff of 4.1 identified STDEs with high accuracy, suggesting that CSI\u2010guided mapping may serve as a practical tool for adjunctive ablation beyond PVI.",
-    "summary": "This retrospective study of five persistent AF patients undergoing catheter ablation analyzed 4,453 intracardiac electrogram points to validate Complex Signal Identification (CSI) parameters for identifying spatio-temporal dispersion electrograms (STDEs), finding that a CSI fractionation score cutoff of 4.1 achieved high diagnostic accuracy (AUC 0.905, sensitivity 80.4%, specificity 98.6%) for STDE detection. CSI-guided mapping may provide an objective, automated approach to identify ablation targets beyond pulmonary vein isolation in persistent AF."
-  },
-  {
-    "title": "Electrophysiologic Assessment of the Successful Left Bundle Branch Pacing Using the Standardized Criteria",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70401?af=R",
-    "doi": "10.1111/jce.70401",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 15, 2026",
-    "date_ts": 1781548768.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Left bundle branch area pacing (LBBAP) is an emerging physiological pacing method that preserves ventricular synchrony. Achieving true LBB capture remains challenging, and the reported success rates vary considerably due to nonuniform definitions. Most previous studies have assessed LBBAP without distinguishing successful left bundle branch pacing (LBBP) from other septal capture patterns. The lack of standardized criteria limits the comparability across studies.\n                  \n                  \n                    Methods\n                    A retrospective cohort study included 407 adult patients undergoing LBBAP implantation between 2019 and 2025. Successful LBBP was defined according to the European Heart Rhythm Association (EHRA) consensus criteria. The success rate of achieving LBBP, electrophysiologic parameters, lead performance over time, and complications were analyzed descriptively, and factors associated with success were analyzed using regression models.\n                  \n                  \n                    Results\n                    \n                      The overall success rate of achieving LBBP was 85.5%. Diagnostic confirmation primarily relied on QRS morphology transition during threshold testing (87.4%) and shortened V6\u2010LVAT (74.1%). V6\u2013V1 interpeak &gt;\u200944\u2009ms and potential\u2010stim to V6\u2010LVAT equality was observed in 39.9% and 37.1%, respectively. V6\u2010LVAT and QRS duration were significantly shorter in the successful group (\n                      p\n                      \u2009&lt;\u20090.001). Lead parameters remained stable in the long term, with low complication rates.\n                    \n                  \n                  \n                    Conclusion\n                    The high success rate of achieving LBBP using EHRA criteria highlights the feasibility, safety, and durable performance of LBBAP implantation in routine clinical practice.",
-    "summary": "This retrospective cohort study of 407 patients undergoing left bundle branch area pacing (LBBAP) implantation between 2019-2025 demonstrated an 85.5% success rate for achieving true left bundle branch pacing using standardized EHRA consensus criteria, with diagnostic confirmation primarily via QRS morphology transitions and shortened V6-LVAT, stable lead parameters on long-term follow-up, and low complication rates. The findings support the feasibility and safety of LBBAP as a physiological pacing method that preserves ventricular synchrony in routine clinical practice."
-  },
-  {
-    "title": "Steam Pop During Lattice\u2010Tip Radiofrequency Ablation: Simultaneous Intracardiac Echocardiography and Electroanatomical Mapping Recordings",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70404?af=R",
-    "doi": "10.1111/jce.70404",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 15, 2026",
-    "date_ts": 1781548524.0,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  We report a case of steam pop occurring during lattice\u2010tip radiofrequency ablation. An 82\u2010year\u2010old woman underwent cavotricuspid isthmus ablation using a 9\u2010mm lattice\u2010tip catheter. Intracardiac echocardiography (ICE), electroanatomical mapping, and radiofrequency parameters were recorded simultaneously on a single system, allowing precise temporal correlation. A steam pop occurred at 4\u2009s with a sudden microbubble shower on ICE at 65\u00b0C. The highest temperature was detected at the proximal thermocouple, suggesting nonuniform catheter\u2013tissue contact. This case highlights limitations of temperature monitoring and the importance of spatial catheter orientation during lattice\u2010tip ablation.",
-    "summary": "This case report describes a steam pop complication during lattice-tip radiofrequency ablation for cavotricuspid isthmus ablation in an 82-year-old woman, occurring at 65\u00b0C with visualization of microbubbles on intracardiac echocardiography, revealing that proximal thermocouple readings may not accurately reflect tissue contact and ablation safety with lattice-tip catheters."
-  },
-  {
-    "title": "Same\u2010Day Discharge in Ventricular Ablation: Safety Outcomes and Case Selection",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70394?af=R",
-    "doi": "10.1111/jce.70394",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 15, 2026",
-    "date_ts": 1781547561.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Catheter ablation (CA) of ventricular arrhythmias (VA) has traditionally entailed an overnight stay, and little has been published on outcomes of same\u2010day discharge (SDD) in this population. Thus far, no comparative study of SDD in VA ablation has been described.\n                  \n                  \n                    Methods\n                    This was a single\u2010center prospective comparative observational study of 255 consecutive patients undergoing elective CA of VA (PVC or VT) in the outpatient setting between April 2023 and June 2025. We excluded patients who were pre\u2010admitted or planned for admission or overnight stays post\u2010ablation. SDD was at the attending physician's discretion. Post\u2010discharge, patients had routine telephone follow\u2010up to monitor for complications.\n                  \n                  \n                    Results\n                    \n                      Among 255 patients undergoing ablation for ventricular arrhythmia, 123 (48%) underwent SDD. Patients undergoing SDD had a mean age of 61\u2009\u00b1\u200916, 38% were female, 33% had heart failure, and the majority had CA for PVC (96%). Compared with those who stayed overnight, SDD patients had higher EF (50% vs. 46%,\n                      p\n                      \u2009=\u20090.003), less arterial access (48% vs. 62%,\n                      p\n                      \u2009=\u20090.02), and lower PAINESD score (3.4 vs. 4.8,\n                      p\n                      \u2009=\u20090.04). Over 30 days of follow\u2010up, two patients (1.6%) had major access site complications, and one (0.8%). Based upon these observations, we describe favorable characteristics for SDD in CA of VA, with the key features of including low\u2010to\u2010moderate risk patients, early case timing, liberal closure device usage, and close follow\u2010up by a dedicated clinical nurse.\n                    \n                  \n                  \n                    Conclusion\n                    SDD is feasible and safe for patients undergoing PVC ablation and potentially a subset of patients undergoing VT ablation.",
-    "summary": "This prospective comparative observational study of 255 consecutive patients undergoing catheter ablation for ventricular arrhythmias found that same-day discharge (achieved in 48% of patients) was feasible and safe, with only 1.6% major access site complications at 30-day follow-up when applied to carefully selected low-to-moderate risk patients with higher ejection fraction and predominantly PVC (rather than VT) pathology."
-  },
-  {
-    "title": "External Suture\u2010Retention Device Versus Manual Compression for Venous Access\u2010Site Closure Post\u2010Ablation: The LockeT II Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70369?af=R",
-    "doi": "10.1111/jce.70369",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 15, 2026",
-    "date_ts": 1781547450.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    The LockeT external suture retention device addresses the shortcomings of manual compression (MC), and other vascular closure devices\u2014namely, prolonged immobilization, resource utilization, and costs.\n                  \n                  \n                    Objective\n                    In this study, we compare the safety and effectiveness of LockeT to that of MC.\n                  \n                  \n                    Methods\n                    We performed a prospective, single\u2010center study of patients (N) undergoing atrial fibrillation ablation, randomized 1:1 to MC or LockeT. Each vascular access site (n) was included for analysis. Assessments included hemostasis at two hours (HA2H), time to ambulation (TTA), time to (TTD) and same\u2010day discharge (SDD), groin complications, and a patient comfort assessment. Cost analysis was also performed.\n                  \n                  \n                    Results\n                    \n                      Patients were randomized to MC (\n                      N\n                      \u2009=\u200949;\n                      n\n                      \u2009=\u200998) or LockeT (\n                      N\n                      \u2009=\u200952;\n                      n\n                      \u2009=\u2009102). Procedural times (119 [IQR 91\u2212155] vs. 106 [IQR 84\u2212127],\n                      p\n                      \u2009=\u20090.104) and maximum sheath size (8.5 [IQR 8.5\u221211] vs. 8.5 [IQR 8.5\u221211],\n                      p\n                      \u2009=\u20090.730) were no different. Neither HA2H (95.5% vs. 99%,\n                      p\n                      \u2009=\u20090.129) nor SDD rates (23.5% vs. 36.0%,\n                      p\n                      \u2009=\u20090.06) differed. However, TTA was significantly less (5.1 [IQR 3.9\u22126.5] vs. 4.4 [IQR 3.4\u22125.3],\n                      p\n                      \u2009=\u20090.017) in those with LockeT. In patients with SSD, the TTD was significantly shorter (6.0 [IQR 4.8\u22126.5] vs. 4.6 [IQR 4.3\u22124.9],\n                      p\n                      \u2009&lt;\u20090.001). The cumulative complications were also significantly less (11.2% vs. 2.9%,\n                      p\n                      \u2009&lt;\u20090.001) with LockeT.\n                    \n                  \n                  \n                    Conclusion\n                    The LockeT is associated with lower TTA, without major complications, and with effective hemostasis. It also limits post\u2010procedural time for groin management. However, further evaluation of the device is needed.",
-    "summary": "This prospective, single-center randomized controlled trial (N=101 patients; n=200 vascular access sites) compared the LockeT external suture retention device to manual compression for hemostasis following atrial fibrillation ablation, demonstrating that LockeT achieved significantly shorter time to ambulation (4.4 vs. 5.1 hours, p=0.017), reduced time to discharge in same-day discharge patients (4.6 vs. 6.0 hours, p<0.001), and lower cumulative groin complications (2.9% vs. 11.2%, p<0.001), while maintaining equivalent hemostasis"
-  },
-  {
-    "title": "Transcatheter Extraction and Implantation of a Novel Leadless Pacemaker via Tricuspid Valve\u2010in\u2010Valve: A Case Report",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70327?af=R",
-    "doi": "10.1111/pace.70327",
-    "journal": "PACE",
-    "date": "Jun 15, 2026",
-    "date_ts": 1781505877.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Transcatheter retrieval of a dislodged leadless pacemaker (LP) from a tricuspid valve\u2010in\u2010valve (ViV) prosthesis has not been previously reported.\n                  \n                  \n                    Case Summary\n                    A 42\u2010year\u2010old woman with a prior bioprosthetic tricuspid valve, transvenous pacemaker, and subsequent percutaneous ViV implantation presented with ventricular lead dysfunction. A Micra LP was implanted but dislodged within 7 days. The device was retrieved using a sheath\u2010in\u2010sheath system combined with a double\u2010snare technique under fluoroscopic guidance. The first snare engaged the device, and traction induced tine deformation and device mobilization. After retraction into the right atrium, a second snare enabled coaxial alignment for safe retrieval into the introducer sheath.\n                    A new LP was immediately reimplanted with stable electrical parameters that remained satisfactory at 1\u2010year follow\u2010up. No prosthetic valve injury or thromboembolic complications occurred.\n                  \n                  \n                    Conclusion\n                    This case demonstrates that transcatheter retrieval and same\u2010day reimplantation of LP via a tricuspid ViV prosthesis is feasible and safe."
-  },
-  {
-    "title": "Pectoral Nerve Block for Cardiac Device Implants: A Systematic Review and Meta\u2010Analysis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70326?af=R",
-    "doi": "10.1111/pace.70326",
-    "journal": "PACE",
-    "date": "Jun 15, 2026",
-    "date_ts": 1781505711.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Cardiac implantable electronic device (CIED) implants are frequently associated with peri\u2010 and post\u2010operative pain. Pectoral nerve block (PECS), initially described for breast surgeries, has increasingly been used in other chest surgeries to alleviate pain, including CIED implants. This systematic review and meta\u2010analysis aimed to estimate the efficacy and safety of the PECS block in pain management of patients undergoing CIED implant.\n                  \n                  \n                    Methods\n                    The Medline (PubMed) and Scopus databases were searched from their inception until May 31, 2025. Randomized controlled trials and observational studies that reported on the PECS block for pain control during CIED implants were included. (PROSPERO CRD420251071794)\n                  \n                  \n                    Results\n                    \n                      After exclusion, five eligible studies (\n                      n\n                      = 816) were included in the meta\u2010analysis. The studies reported low mean pain scores at 1 h, 6 h, and 24 h after CIED implants (1.74\u00b10.65, 0.98\u00b10.12, and 1.06\u00a0\u00b1\u00a00.93, respectively). A single study reported statistically lower pain scores with PECS block compared to standard care at four hours (1.5\u00a0\u00b1\u00a02.1 vs. 4.5 \u00b1 2.5,\n                      p\n                      \u00a0&lt;\u00a00.001). No PECS\u2010related complications were reported in the included studies. PECS was associated with low intra\u2010 and post\u2010operative opioid requirement (12.17%, 95% CI 7.7\u201317.49; I\n                      2\n                      5.94% and 9.95%, 95% CI 7.52\u201312.68; I\n                      2\n                      0.00%, respectively).\n                    \n                  \n                  \n                    Conclusions\n                    Available observational evidence suggests that the PECS block is associated with low pain scores, reduced opioid requirements, and high patient satisfaction after CIED implant. However, the evidence remains limited by the lack of robust comparative and randomized data.\n                  \n                  \n                    Trial Registration\n                    CRD420251071794"
-  },
-  {
-    "title": "Symptom severity assessment in patients with atrial fibrillation after catheter ablation using a smartphone application",
-    "link": "https://doi.org/10.1093/europace/euag139",
-    "doi": "10.1093/europace/euag139",
-    "journal": "EP Europace",
-    "date": "Jun 15, 2026",
-    "date_ts": 1781481600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Response to the Letter Regarding \u201cCatheter ablation vs. anti-arrhythmic drug therapy for ventricular tachycardia in ischaemic heart disease\u201d",
-    "link": "https://doi.org/10.1093/europace/euag141",
-    "doi": "10.1093/europace/euag141",
-    "journal": "EP Europace",
-    "date": "Jun 15, 2026",
-    "date_ts": 1781481600.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Iatrogenic Atrial Dysfunction After Prophylactic Left Atrial Appendage Exclusion: A Proposed Post-Procedural Atrial Phenotype",
-    "link": "https://doi.org/10.1093/europace/euag138",
-    "doi": "10.1093/europace/euag138",
-    "journal": "EP Europace",
-    "date": "Jun 15, 2026",
-    "date_ts": 1781481600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Role of Interatrial Connection Ablation in Reentry Dynamics: an in silico Evaluation",
-    "link": "https://doi.org/10.1093/europace/euag145",
-    "doi": "10.1093/europace/euag145",
-    "journal": "EP Europace",
-    "date": "Jun 15, 2026",
-    "date_ts": 1781481600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Interatrial connections (IACs) may act as pathways sustaining atrial fibrillation, yet their role as ablation targets remains uncertain due to challenges in identifying IAC-dependent reentrant circuits. This study tracks reentrant activity along IACs, characterizes IAC-dependent reentries, and assesses the impact of in silico IAC ablation on reentry maintenance.\n                  \n                  \n                    Methods\n                    Six patient-specific biatrial bilayer models were reconstructed from CT and MRI-derived geometries, each incorporating four IACs: Bachmann\u2019s bundle, fossa ovalis, upper posterior, and coronary sinus. The Courtemanche ionic model was used to simulate mild (M) and severe (S) AF-related electrical remodeling, with fibrosis burden ranging from 9.0% (M) to 27.6% (S). Across the 12 models, 110 sustained reentries were induced, followed by circumferential pulmonary vein isolation. Fifteen IAC ablation strategies were tested at three different timings. Critical pathways along the six possible interatrial loops were quantified. Tachycardia cycle length (TCL) and phase singularity (PS) clusters were analyzed before and after IAC ablation.\n                  \n                  \n                    Results\n                    Overall, 11.8% of reentries were IAC-dependent. Larger interatrial loops were the major contributors to critical pathway formation. IAC-dependent reentries exhibited more critical pathways, shorter TCL (194.2 vs 201.9 ms; \u0394TCL=7.65 ms, p = 0.006), and more PS clusters in the RA body (8 [5\u201310] vs. 4 [2\u20136], p = 0.006). Ablation timing did not influence termination rates.\n                  \n                  \n                    Conclusion\n                    We present the first framework to track reentrant activity along IACs. We identified IAC-dependent reentry characteristics that may guide patient stratification and targeted ablation strategies in clinical practice."
-  },
-  {
-    "title": "Influence of Cooling Agents on the Arrhythmogenic and Autonomic Effects of Electronic Cigarettes in an in vivo Model",
-    "link": "https://doi.org/10.1161/circep.125.014253",
-    "doi": "10.1161/circep.125.014253",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Jun 15, 2026",
-    "date_ts": 1781481600.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Despite the growing popularity of electronic cigarettes, evidence is mounting that vaping induces autonomic nervous system imbalance, cardiac arrhythmia, and potentially even cardiac arrest. The ingredients menthol, Wilkinson Sword (WS)-3, and WS-23 are cooling agents that enhance the appeal of electronic cigarettes (e-cigs) but bear unknown risks when inhaled.\n                  \n                  \n                    METHODS:\n                    We systematically evaluated how these coolants influence the impacts of e-cigs on cardiac and cellular electrophysiology in mice and human induced pluripotent stem cell\u2013derived cardiomyocytes, respectively. Mice were exposed by inhalation to e-cig aerosols generated from standard e-liquid solvents and 2.5% nicotine benzoate (vehicle), or from vehicle plus menthol, WS-3, or WS-23, at increasing concentrations throughout exposure. Telemetry-derived electrocardiograms were analyzed for changes in heart rate, heart rate variability, morphology, and ventricular premature beat arrhythmias. Human induced pluripotent stem cell\u2013derived cardiomyocytes were evaluated for the effects of serially increasing coolant concentrations on beat rate, electric field potential duration, and rate-corrected field potential duration from a newly validated formula, in the absence and presence of norepinephrine to simulate basal physiology and nicotine-evoked sympathoexcitation.\n                  \n                  \n                    RESULTS:\n                    Upon e-cig aerosol inhalation, all coolants acutely enhanced vehicle-induced autonomic imbalance, but only the synthetic coolants, WS-3 and WS-23, potentiated ventricular arrhythmogenesis. Ventricular premature beats during e-cig exposures correlated with sympathetic dominance and transient delays in ventricular repolarization measured by heart rate variability and QT interval corrected by RR interval, respectively; however, correlations were strongest for WS-23 despite no significant impact of coolants on nicotine intake. Conversely, in human induced pluripotent stem cell\u2013derived cardiomyocytes, coolants did not affect basal physiology but slowed beat rate and shortened rate-corrected field potential duration during norepinephrine stimulation.\n                  \n                  \n                    CONCLUSIONS:\n                    Together, these data indicate that coolants dose-dependently enhance the arrhythmogenicity of e-cigs, likely through acute alterations in autonomic modulation and repolarization. Pending confirmation by human studies, these common nonnicotine additives may exacerbate e-cig cardiotoxicity and pose unique cardiovascular risks, particularly in those with arrhythmogenic susceptibility to sympathetic stimulation or slowed ventricular repolarization."
-  },
-  {
-    "title": "Discovery of Novel Magnetocardiography Parameters Predicting Future ICD Therapies: Insights From the Magneto-SCD Study",
-    "link": "https://doi.org/10.1161/circep.126.014998",
-    "doi": "10.1161/circep.126.014998",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Jun 15, 2026",
-    "date_ts": 1781481600.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Safety Assessment of Pulsed Field Ablation Near the Sinus Node and His Bundle",
-    "link": "https://doi.org/10.1161/circep.125.014823",
-    "doi": "10.1161/circep.125.014823",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Jun 15, 2026",
-    "date_ts": 1781481600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Ablation of Persistent Atrial Fibrillation Using a Dual-Energy Contact Force-sensing Catheter: Topography of Pulsed Field Mediated Symptoms and New Safety Challenges",
-    "link": "https://doi.org/10.1161/circep.126.014920",
-    "doi": "10.1161/circep.126.014920",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Jun 15, 2026",
-    "date_ts": 1781481600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Management of atrial fibrillation beyond antiarrhythmic interventions, and novel light on channelopathies",
-    "link": "https://doi.org/10.1093/eurheartj/ehag453",
-    "doi": "10.1093/eurheartj/ehag453",
-    "journal": "European Heart Journal",
-    "date": "Jun 14, 2026",
-    "date_ts": 1781395200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Assessment of the Relevant Field of View of Unipolar Electrodes Using In Vivo Imaging",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600455X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 14, 2026",
-    "date_ts": 1781404230.765476,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Epidemiological shift and future projections of atrial fibrillation and flutter in North Africa and the Middle East region: a comprehensive Global Burden of Disease analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002588?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 14, 2026",
-    "date_ts": 1781404230.680328,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of End-Stage Renal Disease on Stroke Risk in Patients with Atrial Fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002606?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 14, 2026",
-    "date_ts": 1781404230.680288,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Atrial electrogram amplitude-guided Bachmann bundle pacing implantation: a single-center experience",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600259X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 14, 2026",
-    "date_ts": 1781404230.680075,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Predictive Value of Impedance for Defibrillation Success After S-ICD Implantation: A Reliable Indicator?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004512?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 13, 2026",
-    "date_ts": 1781316475.854939,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pathogenic <em>HFE</em> Variants and Evaluation for Hemochromatosis in Patients With Early-Onset Atrial Fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004457?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 13, 2026",
-    "date_ts": 1781316475.854902,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Young-Onset Atrial Fibrillation: Prevalence and Predictors of Adverse Long-Term Outcomes",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004251?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 13, 2026",
-    "date_ts": 1781316475.854871,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Purkinje-Triggered VF Storm Localized to CT-Derived Wall Thinning After Myocardial Infarction",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004706?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 13, 2026",
-    "date_ts": 1781316475.854836,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Validation of Smartwatches Integrated With Photoplethysmography for Continuous Evaluation of Atrial Fibrillation Burden",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26003440?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 13, 2026",
-    "date_ts": 1781316475.854798,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Life-Threatening Delayed Myocardial Ischemia, Ventricular Arrhythmias, and SCD After PFA of AF: An Extended Case Series",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004494?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 13, 2026",
-    "date_ts": 1781316475.854758,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "P1 Potential Unmasking Technique: A Novel Approach to Ablation of Idiopathic Left Ventricular Tachycardia",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004500?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 13, 2026",
-    "date_ts": 1781316475.854684,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left Ventricular Wall Thickness on Systolic-Phase Pulmonary Vein CT as a Marker for Cardiac Amyloidosis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002576?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 13, 2026",
-    "date_ts": 1781316475.700114,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reticular telangiectatic erythema: an underrecognized complication of cardiovascular implantable electronic devices",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024720?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 13, 2026",
-    "date_ts": 1781316475.468675,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Correction to: Long-term outcomes of subcutaneous implantable cardioverter defibrillators: the French nationwide HONEST study",
-    "link": "https://doi.org/10.1093/eurheartj/ehag461",
-    "doi": "10.1093/eurheartj/ehag461",
-    "journal": "European Heart Journal",
-    "date": "Jun 12, 2026",
-    "date_ts": 1781222400.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Double ventricular response with concomitant atrioventricular nodal reentrant tachycardia",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002527?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 12, 2026",
-    "date_ts": 1781230515.555544,
-    "tags": [
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Phase-dependent modulation of Brugada ECG phenotype during general anesthesia: influence of anesthetic transitions",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024677?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 12, 2026",
-    "date_ts": 1781230515.298328,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Trends in Antidepressant and Anti-anxiety Medication Use in Patients Evaluated for Postural Orthostatic Tachycardia Syndrome",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024689?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 12, 2026",
-    "date_ts": 1781230515.298283,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
