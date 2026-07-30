@@ -1,5 +1,17 @@
 [
   {
+    "title": "Clinical Characteristics of Multifocal PVCs Originating from the Basal Septal Region of the Left Ventricle: Anatomy, mapping and ablation.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026159?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Jul 30, 2026",
+    "date_ts": 1785374210.291987,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Editorial Board",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005864?dgcid=rss_sd_all",
     "doi": null,
@@ -1066,6 +1078,31 @@
     "hot": false
   },
   {
+    "title": "Artificial Intelligence-Enhanced Electrocardiography for Prediction of Cancer Therapy-Related Cardiac Dysfunction",
+    "link": "https://doi.org/10.1093/europace/euag191",
+    "doi": "10.1093/europace/euag191",
+    "journal": "EP Europace",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785283200.0,
+    "tags": [
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Innervation of the Human Atrioventricular Node via the Inferior Pyramidal Space: Characterization Using Intersectional Strategies",
+    "link": "https://doi.org/10.1161/circep.126.014978",
+    "doi": "10.1161/circep.126.014978",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785283200.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    The inferior pyramidal space (IPS), the epicardial adipose tissue extending from the inferior crux of the heart, contains the atrioventricular node (AVN) at its apex. However, innervation of the human AVN via the IPS remains unknown.\n                  \n                  \n                    METHODS:\n                    \n                      Seven whole-mount samples of the human IPS involving the AVN were obtained from hearts rejected for transplantation (85.7% male, 49.4\u00b112.8 years old). The IPS was further divided into the anterior (behind the floor of the triangle of Koch) and posterior (within the Eustachian ridge) fat pads relative to the coronary sinus. A whole-mount tissue-clearing method with immunohistochemical staining was applied to each fat pad to count and characterize the nerve fascicles \u226510 \u00b5m and ganglia \u22656000 \u00b5m\n                      2\n                      .\n                    \n                  \n                  \n                    RESULTS:\n                    \n                      Within the anterior fat pad, sympathetic nerve fascicles ascended towards the AVN along the AVN artery, whereas nonsympathetic nerve fascicles approached the AVN from the superior and posterior aspects without a consistent relationship to the AVN artery. Within the IPS, sympathetic nerve fascicles were thicker than nonsympathetic nerve fascicles (51.7\u00b132.8 versus 22.1\u00b110.6 \u00b5m;\n                      P\n                      &lt;0.001). The ganglia, which were mainly nonsympathetic, were found predominantly within the posterior fat pad compared with the anterior fat pad (63.2\u00b140.3 versus 5.8\u00b15.0;\n                      P\n                      &lt;0.01). The compact AVN regions were devoid of thick nerve fascicles and ganglionated plexuses but filled with a fine meshwork of both sympathetic and nonsympathetic nerve fibers.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    The human IPS exhibits a distinct pattern of autonomic innervation and distribution of ganglia. These neural structures are likely to contribute to the physiological control of the human AVN and could be a novel target for neuromodulation to restore normal AVN function."
+  },
+  {
     "title": "Risk-Guided Screening for Atrial Fibrillation Using Electronic Health Records",
     "link": "https://doi.org/10.1161/circulationaha.126.079391",
     "doi": "10.1161/circulationaha.126.079391",
@@ -1103,6 +1140,46 @@
       "Genetics"
     ],
     "hot": false
+  },
+  {
+    "title": "Extraction of Micra Leadless Pacemaker and Upgrade to Left Bundle Branch Pacing: A Case Report",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70314?af=R",
+    "doi": "10.1111/pace.70314",
+    "journal": "PACE",
+    "date": "Jul 28, 2026",
+    "date_ts": 1785239028.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  Pacing\u2010induced cardiomyopathy (PICM) is an important cause of the left ventricular systolic disfuction in patients with chronic high\u2010burden right ventricular pacing. Recent evidence suggests that an upgrade to Left bundle branch pacing (LBBP) may confer benefit in PICM. Leadless pacemakers (LPs), represented by the Micra AV device, are widely applied in the treatment of bradyarrhythmias due to their minimal trauma and low complication rates. However, high burden right ventricular pacing (RVP) from Micra AV implantion may still induce PICM, and there is a lack of mature experience in the extraction of Micra AV devices combined with LBBP upgrade. The case report aims to introduce a feasible strategy for Micra AV extraction and subsequent LBBP upgrade in patients with PICM. The dual\u2010snare technique is a safe and effective method for minimally invasive extraction of Micra AV leadless pacemakers."
+  },
+  {
+    "title": "Association of HFLTVV With Force\u2010Time Integral and Ablation Index During Pulmonary Vein Isolation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70380?af=R",
+    "doi": "10.1111/pace.70380",
+    "journal": "PACE",
+    "date": "Jul 28, 2026",
+    "date_ts": 1785237941.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    In catheter ablation of atrial fibrillation (AF), durable lesion formation is essential for successful pulmonary vein isolation (PVI). Force\u2013time integral (FTI) is an established lesion metric that reflects the cumulative effect of contact force (CF) and radiofrequency (RF) application time and has been associated with lesion durability. Although high\u2010frequency low\u2013tidal volume ventilation (HFLTVV) has been associated with improved procedural outcomes, lesion\u2010level evidence in the era of contact force\u2010guided ablation remains limited. We aimed to evaluate the association between HFLTVV and lesion metrics during PVI.\n                  \n                  \n                    Methods and Results\n                    \n                      This single\u2010center retrospective study included patients with paroxysmal AF undergoing first\u2010time RF PVI. Procedures were performed during the standard ventilation (SV) and the HFLTVV eras, with CF targeted at 10\u201312\u00a0g. Lesion parameters, including RF application time, average CF, ablation index (AI), FTI, and impedance drop, were extracted from CARTONET and analyzed overall and by pulmonary vein region. Respiratory effects were assessed using arterial blood gas analysis. Compared with SV, HFLTVV was associated with significantly higher FTI and AI (FTI: 268.8 \u00b1 31.5\u00a0vs 235.2 \u00b1 21.7 g\u00b7s; AI: 459.0 \u00b1 16.8\u00a0vs 437.1 \u00b1 13.4; both\n                      p\n                      &lt;0.001), despite similar CF and RF application time. Findings were consistent across pulmonary vein regions. In multivariable analyses adjusting for baseline characteristics, HFLTVV remained independently associated with higher FTI and AI (both\n                      p\n                      &lt;0.001). Procedural duration and arrhythmia recurrence were similar between groups. Arterial blood gas analysis demonstrated no clinically significant CO\n                      2\n                      retention.\n                    \n                  \n                  \n                    Conclusion\n                    HFLTVV was associated with higher FTI and AI under comparable CF and RF application time. These findings suggest that HFLTVV may influence lesion metrics during AF ablation and warrant further investigation."
+  },
+  {
+    "title": "Structural and Functional Characteristics of Cardiac MRI\u2010Detected Corridors in Ischemic Ventricular Tachycardia",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70379?af=R",
+    "doi": "10.1111/pace.70379",
+    "journal": "PACE",
+    "date": "Jul 28, 2026",
+    "date_ts": 1785237852.0,
+    "tags": [
+      "VT",
+      "Imaging"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Cardiac magnetic resonance imaging (CMRI) could identify potential critical substrate having role in the development of ventricular tachycardia (VT). This study aimed to evaluate the correlation between corridors identified using software based analysis of late\u2010 gadolinium enhanced CMRI (ADAS\u20103D) and electroanatomical mapping (EAM) findings as well as predictors of arrhythmogenicity and clinical outcomes.\n                  \n                  \n                    Methods\n                    We retrospectively analyzed a total of 43 consecutive patients who underwent ischemic VT ablation with pre\u2010procedural ADAS 3D CMRI analysis. Substrate mapping including functional evaluation via isochronal late activation mapping (ILAM) was performed in every patient. The correlation between corridor morphometric parameters and electroanatomic mapping findings were analyzed.\n                  \n                  \n                    Results\n                    \n                      Among 89 identified CMRI corridors, 57.3% were related to deceleration zones (DZs) during ILAM. DZ\u2010related corridors demonstrated\u00a0greater length (72.6\u00a0vs. 32.2\u00a0mm,\n                      p\n                      &lt; 0.001), border zone mass, and protected volume (\n                      p\n                      &lt; 0.001) compared to DZ\u2010unrelated corridors. In 30/43 patients with inducible VT, 54.4% of the CMRI\u2010detected corridors were VT\u2010isthmus related.\u00a0 Multivariable analysis revealed that corridor length was the strongest independent predictor of arrhythmogenicity (OR = 1.032, 95% CI:1.012\u20131.054,\n                      p\n                      &lt; 0.001 for DZ and OR = 1.025, 95% CI:1.002\u20131.049,\n                      p\n                      = 0.033 for VT). In patients with inducible VT, CMRI\u2010detected corridors demonstrated most commonly transmural / partial transmural (40.5%) involvement, with complete endocardial visualization of VT circuit in only 20% of VTs. At a 14\u2010month follow\u2010up with a recurrence rate of 18.6%, epicardial BZ+scar percentage was associated with VT recurrence, in an exploratory univariable analysis (HR = 1.058, 95% CI: 1.002\u20131.117,\n                      p\n                      = 0.042).\n                    \n                  \n                  \n                    Conclusions\n                    ADAS 3D analysis revealed the 3\u2010D complexity of VT corridors in ischemic cardiomyopathy, predominantly having non\u2010endocardial distribution."
   },
   {
     "title": "Effect of Left Atrial Size and Volume Reduction on Pulmonary Vein Isolation Efficacy in Patients With Persistent and Longstanding Persistent Atrial Fibrillation: Subset Analysis From the aMAZE Trial",
@@ -6237,82 +6314,5 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Background\n                    Recurrent atrial tachyarrhythmia (AT) remains a major challenge following catheter ablation for atrial fibrillation (AF). While pulmonary vein (PV) reconnection is a well\u2010recognized mechanism, the contribution of lesion heterogeneity to iatrogenic AT is not clearly defined.\n                  \n                  \n                    Objective\n                    To analyze the clinical characteristics of recurrent AT caused by ablation\u2010induced focal potentials.\n                  \n                  \n                    Methods\n                    We retrospectively analyzed 113 patients who underwent repeat ablation for recurrent AT. Mechanisms of AT recurrence were identified using high\u2010resolution electroanatomic mapping and categorized into five types. Nonuniform ablation\u2013related AT\u2014considered iatrogenic\u2014was defined as focal or localized reentrant ATs arising from regions of prior ablation.\n                  \n                  \n                    Results\n                    Gap conduction was the most common mechanism of recurrence (51.3%), followed by other mechanisms (27.4%) and nonuniform ablation\u2013related AT (14.2%). The number of reconnected PVs was not significantly associated with the timing of all\u2010mechanism recurrence. Nonuniform ablation\u2013related ATs frequently presented as a combination of AF and atrial flutter (AFL), whereas gap\u2010related recurrence typically manifested as AF.\n                  \n                  \n                    Conclusion\n                    Lesion homogeneity plays a critical role in minimizing iatrogenic ATs, highlighting the importance of ablation strategies that optimize both electrical isolation and lesion quality. These findings offer insights for the refinement of ablation techniques and the development of improved catheter technologies.",
     "summary": "This retrospective study of 113 patients undergoing repeat ablation for recurrent atrial tachyarrhythmia identified gap conduction as the predominant recurrence mechanism (51.3%), while nonuniform ablation-related AT from lesion heterogeneity accounted for 14.2% of cases, suggesting that optimizing lesion homogeneity and quality is critical to reducing iatrogenic arrhythmias following AF ablation."
-  },
-  {
-    "title": "Cardiac Implantable Electronic Devices in Oncology Patients: Challenges and Management",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70409?af=R",
-    "doi": "10.1111/jce.70409",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 23, 2026",
-    "date_ts": 1782239730.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  The use of cardiac implantable electronic devices (CIEDs) in patients with cancer is rising, given the increasing prevalence and incidence of cardiovascular disease in this population, such as arrhythmias and heart failure. Device therapy in oncology patients presents unique clinical, procedural, and ethical challenges, not completely addressed by current guidelines. This review summarizes current evidence regarding the indications, implantation challenges, long\u2010term management, prognostic considerations and emerging technologies related to CIED therapy in oncology patients. Cancer\u2010specific factors, such as thrombocytopenia, immunosuppression, prior surgery, and radiation\u2010induced anatomical changes, complicate device implantation and follow\u2010up. Increased infection risk, venous thromboembolism, and altered pacing thresholds, particularly in conditions like cardiac amyloidosis, require individualized approaches. The integration of leadless pacemakers, subcutaneous implantable cardioverter defibrillators (ICDs), wearable defibrillators, and remote monitoring offers promising alternatives for high\u2010risk patients. Prognostic considerations and ethical dilemmas, including ICD implantation in patients with limited life expectancy and device deactivation at end\u2010of\u2010life, necessitate multidisciplinary decision\u2010making. Future research and collaborative efforts are essential to address cancer\u2010specific complexities and bridge existing gaps to optimize care for this growing patient population.",
-    "summary": "This narrative review synthesizes evidence on cardiac implantable electronic device (CIED) therapy in cancer patients, addressing implantation challenges (thrombocytopenia, radiation-induced anatomical changes, infection risk) and long-term management considerations unique to this population. Emerging technologies including leadless pacemakers, subcutaneous ICDs, and remote monitoring offer potential benefits, though individualized approaches and multidisciplinary decision-making are essential given ethical complexities and prognostic uncertainties in this growing cohort."
-  },
-  {
-    "title": "Interactions of blood biomolecules with early rhythm control in atrial fibrillation patients: Exploratory analysis of the EAST-AFNET 4 Biomolecule Study",
-    "link": "https://doi.org/10.1093/europace/euag149",
-    "doi": "10.1093/europace/euag149",
-    "journal": "EP Europace",
-    "date": "Jun 23, 2026",
-    "date_ts": 1782172800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background\n                    Early rhythm control reduces cardiovascular events in patients with atrial fibrillation (AF) and cardiovascular comorbidities. Whether this effect is consistent across severities of different AF-associated conditions is not known.\n                  \n                  \n                    Methods\n                    In the EAST-AFNET 4 biomolecule study (n=1,586; median age 70 years; 45% women), 14 circulating biomarkers reflecting inflammation, fibrosis, ageing, cardiac strain, and myocardial damage were quantified. Log-transformed, winsorized biomarkers were analysed in quintiles to detect non-linear associations and as continuous parameters. Cox proportional hazards models evaluated associations with the primary outcome (cardiovascular death, stroke, or unplanned hospitalization for heart failure or acute coronary syndrome) and the safety outcome (death, stroke, or major bleeding) of the trial, including interaction terms for biomarkers and randomized treatment (early rhythm control [ERC] vs usual care). [UC]). Two independent cohorts, BBC-AF resembling UC and a TRUST snapshot resembling ERC were combined for external replication. All tests were exploratory.\n                  \n                  \n                    Results\n                    ERC reduced the primary outcome consistently across biomarker concentrations. No signal for treatment interaction was observed for 13 of 14 biomarkers for the primary outcome. For BMP10, a nominal interaction was observed in categorical analyses, suggesting an attenuated treatment effect of ERC in patients in the lowest BMP10 quintile. No interaction was detected for continuous parameters. Similar patterns were observed in exploratory analyses of the replication cohort.\n                  \n                  \n                    Conclusions\n                    Early rhythm control therapy is effective across patients with different severities of conditions associated with atrial fibrillation as quantified by biomolecule concentrations. A potentially attenuated effect of ERC with low BMP10 concentrations warrants further research.",
-    "summary": "This is a post-hoc analysis of the EAST-AFNET 4 trial (n=1,586) examining 14 circulating biomarkers to determine whether early rhythm control's cardiovascular benefit varies by disease severity in atrial fibrillation patients; early rhythm control consistently reduced the primary composite outcome (cardiovascular death, stroke, heart failure or ACS hospitalization) across biomarker concentrations, with only BMP10 showing a nominal signal suggesting attenuated benefit at lowest concentrations, warranting further investigation."
-  },
-  {
-    "title": "Comment on \u201cCatheter ablation vs. anti-arrhythmic drug therapy for ventricular tachycardia in ischaemic heart disease\u201d",
-    "link": "https://doi.org/10.1093/europace/euag077",
-    "doi": "10.1093/europace/euag077",
-    "journal": "EP Europace",
-    "date": "Jun 23, 2026",
-    "date_ts": 1782172800.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Ventricular Tachycardia Ablation Using a Lattice-Tip Ablation Catheter and Intracardiac Echocardiography in the Presence of a Left Ventricular Assist Device",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024859?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jun 22, 2026",
-    "date_ts": 1782095823.501043,
-    "tags": [
-      "VT",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Impact of Remote Monitoring on Clinical Outcomes in Defibrillator Patients During the COVID-19 Pandemic: An Interrupted Time Series Analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002643?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 21, 2026",
-    "date_ts": 1782009166.565614,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left Ventricular Wall Thickness and Functional Recovery after Atrial Fibrillation Ablation in Patients with Systolic Dysfunction",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002655?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 21, 2026",
-    "date_ts": 1782009166.56556,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
   }
 ]
