@@ -1,5 +1,56 @@
 [
   {
+    "title": "First Reported Experience Using a Lattice-Tip Dual-Energy Catheter Within the Coronary Sinus to Achieve Bidirectional Mitral Annular Block",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003491?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 31, 2026",
+    "date_ts": 1785462213.605594,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Predictors of Appropriate ICD Therapy in Noncompaction Cardiomyopathy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600348X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Jul 31, 2026",
+    "date_ts": 1785462213.60539,
+    "tags": [
+      "Devices",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Ventricular Synchrony in Targeted Right Ventricular Septal Pacing: A Prospective Paired Comparison to Apical Placement",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70383?af=R",
+    "doi": "10.1111/pace.70383",
+    "journal": "PACE",
+    "date": "Jul 30, 2026",
+    "date_ts": 1785387620.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background/Objectives\n                    Right ventricular (RV) apical pacing, the standard pacing approach, often induces ventricular dyssynchrony, potentially impairing cardiac function. This study aims to investigate whether targeted RV septal pacing, guided by functional electrophysiological feedback during implantation, reduces ventricular dyssynchrony compared to conventional apical pacing.\n                  \n                  \n                    Methods\n                    This prospective, observational study included 18 patients with standard pacing indications (second\u2010degree or intermittent third\u2010degree atrioventricular block, sinus node disease) undergoing dual chamber pacemaker implantation. Each patient initially underwent temporary transvenous RV apical pacing via femoral access, followed by permanent ventricular lead implantation using a functionally guided technique targeting the RV septum. Electrocardiographic (QRS duration) and echocardiographic parameters (septal\u2013posterior wall delay\u2014SPWD, interventricular mechanical delay\u2014IVMD) were measured at baseline, during RV apical pacing, and during targeted septal pacing. Comparisons were performed using paired within\u2010subject statistical analysis. Lead parameters and follow\u2010up data were also collected after implantation.\n                  \n                  \n                    Results\n                    RV pacing significantly increased ventricular dyssynchrony parameters compared to baseline, regardless of lead position. Targeted RV septal pacing, however, resulted in significantly lower dyssynchrony than conventional RV apical pacing as quantified by QRS duration, SPWD and IVMD. No acute procedural complications were observed, and pacing lead parameters remained stable during follow\u2010up.\n                  \n                  \n                    Conclusions\n                    Targeted RV septal pacing, guided by electrophysiological criteria during implantation, was associated with significantly lower ventricular dyssynchrony than conventional apical pacing. These exploratory findings from an acute paired comparison suggest that functionally guided RV septal pacing may represent a practical alternative to conventional apical pacing and warrant confirmation in larger studies with long\u2010term clinical follow\u2010up."
+  },
+  {
+    "title": "Rising Comorbidity Burden in Inpatient Atrial Fibrillation Catheter Ablation: Temporal Trends and In\u2010Hospital Outcomes",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70378?af=R",
+    "doi": "10.1111/pace.70378",
+    "journal": "PACE",
+    "date": "Jul 30, 2026",
+    "date_ts": 1785384355.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Despite advancements in catheter ablation (CA) technique and expertise, success rates of atrial fibrillation (AF) ablation have not substantially improved in recent years. Treating patients with advanced age and higher comorbidities may limit success rates while increasing complications.\n                  \n                  \n                    Objective\n                    To evaluate trends in comorbidity burden and its association with in\u2010hospital outcomes following inpatient CA procedures for AF.\n                  \n                  \n                    Methods\n                    Using the National Inpatient Sample database, an estimated total of 64,995 CA procedures for AF between 2016 and 2021 in the United States were analyzed. Each patient's comorbidities were identified, and their comorbidity burden was evaluated using a standardized comorbidity index. In\u2010hospital outcomes were compared between patients with high and low comorbidity burdens. Annual trends in the rates of patients with high comorbidity burden were calculated.\n                  \n                  \n                    Results\n                    \n                      A total of 11,685 (18.0%) patients had high comorbidity burden. The annual trend in CA procedures for patients with high comorbidity burden gradually increased from 11.7% in 2016 to 22.1% in 2021 (\n                      p\n                      \u00a0&lt;\u00a00.001). A higher rate of total complications was observed in patients with high comorbidity burden (14.2%\u00a0vs. 7.8%,\n                      p\n                      \u00a0&lt;\u00a00.001), driven by vascular, infectious, and respiratory complications, but not by cardiac complications. In\u2010hospital mortality was significantly higher among those with a high comorbidity burden (1.5%\u00a0vs. 0.2%,\n                      p\n                      \u00a0&lt;\u00a00.001).\n                    \n                  \n                  \n                    Conclusion\n                    In recent years, inpatient CA for AF has increasingly been performed in patients with higher comorbidity burden. A careful preprocedural risk\u2010benefit assessment would be prudent in patients with high comorbidity burden to improve outcomes."
+  },
+  {
     "title": "Clinical Characteristics of Multifocal PVCs Originating from the Basal Septal Region of the Left Ventricle: Anatomy, mapping and ablation.",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026159?dgcid=rss_sd_all",
     "doi": null,
@@ -10,6 +61,32 @@
       "Other"
     ],
     "hot": false
+  },
+  {
+    "title": "Hemolysis and Renal Effects Across Pulsed Field Ablation Systems in Atrial Fibrillation",
+    "link": "https://doi.org/10.1093/europace/euag190",
+    "doi": "10.1093/europace/euag190",
+    "journal": "EP Europace",
+    "date": "Jul 30, 2026",
+    "date_ts": 1785369600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Introduction\n                    Pulsed field ablation (PFA) is a non-thermal energy modality for ablation of atrial fibrillation (AF). Although PFA has demonstrated an excellent overall safety profile, increasing evidence suggests an association with intravascular hemolysis, and acute kidney injury (AKI). However, the extent of hemolysis across different PFA catheters remains poorly characterized and warrants further investigation.\n                  \n                  \n                    Methods\n                    We prospectively enrolled 239 patients undergoing AF ablation using the pentaspline (n\u2009=\u2009107), balloon-in-basket (n\u2009=\u200971), or lattice-tip (n\u2009=\u200961) catheter. Laboratory markers of hemolysis, myocardial injury, renal function and haemoglobin were collected pre- and 24\u2005h post-procedure.\n                  \n                  \n                    Results\n                    Significant haptoglobin depletion was observed exclusively with pentaspline, [pre 99.8\u2005mg/dL (70.2\u2013122) vs. post 55.7\u2005mg/dL (23.2\u201391.8); p\u2009&amp;lt;\u20090.001] Reductions with the lattice-tip (p\u2009=\u20090.074) and the balloon-in-basket (p\u2009=\u20090.201) catheter did not reach statistical significance. AKI was only observed with the pentaspline catheter (pentaspline: 4.9%; balloon-in-basket: 0.0%; lattice tip: 0.0%; p\u2009=\u20090.020).\n                    Myocardial markers increased across all groups, but significantly higher in pentaspline and balloon-in-basket (p\u2009=\u2009n.s.) vs lattice-tip (p\u2009&amp;lt;\u20090.001 vs pentaspline, p\u2009&amp;lt;\u20090.001 vs ballon in basket).\n                  \n                  \n                    Conclusions\n                    In this large cohort, contemporary PFA systems appear safe but catheter design influences the extent of hemolysis, AKI, and myocardial injury. The pentaspline catheter was associated with the greatest hemolytic effect and higher transient AKI, without clinically relevant reductions in hemoglobin or persistent renal impairment. Higher levels of myocardial injury in the pentaspline and balloon-in-basket groups correspond to the larger lesion footprints of these devices.\n                    Word counting abstract: 234"
+  },
+  {
+    "title": "Continuous Pacing Recordings Reveal Distinct Right Ventricular Activation Patterns in Left Bundle Branch Area Pacing",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70367?af=R",
+    "doi": "10.1111/pace.70367",
+    "journal": "PACE",
+    "date": "Jul 29, 2026",
+    "date_ts": 1785317166.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Left bundle branch area pacing (LBBAP), a physiological pacing method, is widely used, but the pathways of right ventricular (RV) activation under different pacing modalities remain incompletely characterized.\n                  \n                  \n                    Objective\n                    This study aims to investigate RV activation sequence under three left bundle branch pacing modalities: left ventricular septal pacing (LVSP), non\u2010selective left bundle branch pacing (ns\u2010LBBP), and selective left bundle branch pacing (s\u2010LBBP).\n                  \n                  \n                    Methods\n                    We included 250 patients with confirmed s\u2010LBBP via stimulus\u2010to\u2010ventricular (S\u2010V) separation. Continuous pacing recording identified mode transition points by ECG changes. RV activation pathways were analyzed by comparing R\u2010wave peak time (RWPT) in leads V1 and V6 and its changes under different output voltages.\n                  \n                  \n                    Results\n                    Patients were divided into two groups based on V1 RWPT changes. In the V1 RWPT shortening group (75 cases), V1 RWPT was longest in LVSP (112.61 \u00b1 10.59\u00a0ms), with no significant difference between ns\u2010LBBP and s\u2010LBBP. In the V1 RWPT prolongation group (175 cases), V1 RWPT was significantly prolonged in s\u2010LBBP (124.63 \u00b1 17.05\u00a0ms). V6 RWPT was longest in LVSP (81.63 \u00b1 10.45\u00a0ms), with no significant difference between ns\u2010LBBP and s\u2010LBBP.\n                  \n                  \n                    Conclusion\n                    In most cases, RV activation time was similar between LVSP and ns\u2010LBBP. S\u2010LBBP exhibited the longest RV activation time. However, in nearly 30% of patients, RV activation time was shortened after left bundle branch capture compared to the LVSP mode with isolated ventricular septal myocardial capture."
   },
   {
     "title": "Editorial Board",
@@ -5035,6 +5112,18 @@
     "summary": "I don't have an abstract to summarize\u2014the text provided only contains a conflict of interest disclosure statement. Please provide the actual research abstract (objectives, methods, results, and conclusions sections) for me to create the requested summary."
   },
   {
+    "title": "Intermittent Ventricular Pacing Suppression Due to P-Wave Oversensing with Automatic Sensitivity Adjustment",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.016",
+    "doi": "10.1016/j.hrcr.2026.07.016",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Jul 01, 2026",
+    "date_ts": 1782864000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Correction to: Haemolysis and myocardial and neural injury after monopolar pulsed field ablation using a novel lattice-tip catheter to treat atrial fibrillation",
     "link": "https://doi.org/10.1093/europace/euag187",
     "doi": "10.1093/europace/euag187",
@@ -6220,99 +6309,5 @@
       "AFib"
     ],
     "hot": false
-  },
-  {
-    "title": "The Flexibility of Delayed Fluoroscopic Left Ventricular Angiography in Peri-procedural Real-time Visualization of the Lead Tip in Left Bundle Branch Pacing",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826002709?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782266688.92434,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Feasibility of Two-Dimensional Speckle-Tracking Echocardiography for Assessing Ablation Complexity in Left Ventricular Outflow Tract Premature Ventricular Contractions",
-    "link": "https://doi.org/10.1161/circep.126.014913",
-    "doi": "10.1161/circep.126.014913",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782259200.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    The origins of left ventricular outflow tract premature ventricular contractions (PVCs) differ in depth and may involve preferential pathways, potentially requiring complex ablation. However, a noninvasive method to preprocedurally estimate ablation complexity has not been established.\n                  \n                  \n                    METHODS:\n                    Sixteen patients with idiopathic left ventricular outflow tract PVCs (V2 transition ratio \u22650.6) underwent 2-dimensional speckle-tracking echocardiography during monomorphic PVCs. Endocardial peak systolic strain timing in 18 left ventricular segments was displayed on a bull\u2019s-eye map using 8 color-coded intervals (0\u2013800 ms). Patients were classified as localized (n=6) when the earliest interval appeared in 1 segment and nonlocalized (n=10) when it involved \u22652 segments. Ablation outcomes were compared according to whether a simple ablation approach (PVC elimination within 30 s at a single site) was achieved.\n                  \n                  \n                    RESULTS:\n                    \n                      Baseline electrocardiographic characteristics were comparable between the groups. Ablation-related parameters, including contact force, power output, and impedance drop at the initial ablation site, were also similar. However, the nonlocalized group required statistically significantly greater total radiofrequency energy to eliminate the targeted PVCs (median, 22\u2009206 versus 10\u2009409 J;\n                      P\n                      =0.031) and demonstrated a statistically significantly lower rate of successful simple ablation approach compared with the localized group (20.0% versus 83.3%;\n                      P\n                      =0.035). Nonlocalized patterns may reflect conduction from deeper origins with preferential pathways, thereby requiring more complex ablation strategies.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    A localized earliest-strain pattern was associated with successful PVC elimination using a simple ablation approach, whereas a nonlocalized pattern indicated the need for more complex ablation. This simple, noninvasive metric may aid preprocedural planning for left ventricular outflow tract PVC ablation.",
-    "summary": "This prospective observational study (n=16) used speckle-tracking echocardiography to classify left ventricular outflow tract PVCs as localized versus nonlocalized based on endocardial strain timing patterns, finding that nonlocalized patterns required significantly more radiofrequency energy (22,206 vs 10,409 J; P=0.031) and had lower rates of simple single-site ablation success (20% vs 83.3%; P=0.035), suggesting this noninvasive metric can help predict ablation complexity preprocedurally."
-  },
-  {
-    "title": "Tirzepatide Regulates Pacemaker Function by Modulating cAMP and Calcium Dynamics in Human Sinoatrial Node Cells",
-    "link": "https://doi.org/10.1161/circulationaha.125.076669",
-    "doi": "10.1161/circulationaha.125.076669",
-    "journal": "Circulation",
-    "date": "Jun 23, 2026",
-    "date_ts": 1782172800.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Different Effects of Defibrillator Shocks on the Myocardial Damage Between Subcutaneous and Transvenous Implantable Cardioverter\u2010Defibrillators",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70419?af=R",
-    "doi": "10.1111/jce.70419",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 23, 2026",
-    "date_ts": 1782240349.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Although the implantable cardioverter defibrillators (ICD) are the only established treatment to prevent sudden cardiac death, previous studies reported that those who receive shock therapies, whether appropriate or inappropriate, have a higher risk of death. However, the difference in the influence of shock therapies between via Transvenous\u2010ICD (TV\u2010ICD) and Subcutaneous\u2010ICD (S\u2010ICD) has not been adequately examined. We aimed to investigate the influence of shocks on myocardium in patients with TV\u2010ICD and S\u2010ICD.\n                  \n                  \n                    Methods\n                    We enrolled consecutive patients who received a defibrillator or transvenous pacemaker (TV\u2010PM) implantation between November 2020 and March 2024. A total of 74 patients were included in this study and divided into three groups: patients with TV\u2010ICD with defibrillation testing (DFT) (TV\u2010DFT, 27 patients), those with transvenous devices implanted without DFT (TV\u2010no DFT, 25 patients) and those with S\u2010ICD (22 patients).\n                  \n                  \n                    Results\n                    Delta log troponin\u2010I (the difference of serum troponin\u2010I levels between baseline and after implantation) was significantly increased in TV\u2010DFT group. In patients with TV\u2010ICD (46 patients), Delta log troponin\u2010I was significantly correlated with total shock joules. In the multivariable linear regression analysis, a value of total shock joules was independently associated with delta troponin\u2010I.\n                  \n                  \n                    Conclusion\n                    Elevation of serum troponin\u2010I was associated with the TV\u2010ICD shocks and correlated with the total shock energy, but not with S\u2010ICD shocks. Our results suggest that TV\u2010ICD shocks are associated with greater myocardial injury compared to S\u2010ICD shocks, and that total shock energy is an important determinant of the extent of myocardial damage.",
-    "summary": "This prospective observational study of 74 patients compared myocardial injury markers between transvenous-ICD (TV-ICD) recipients with defibrillation testing, TV-ICD without testing, and subcutaneous-ICD (S-ICD) recipients, finding that troponin-I elevation correlated with total shock joules in TV-ICD patients but not S-ICD patients, suggesting TV-ICD shocks cause greater myocardial injury than S-ICD shocks. The study demonstrates that shock energy is an independent predictor of myocardial damage in transvenous systems, with implications for device selection and shock minimization strategies."
-  },
-  {
-    "title": "Intravascular Lithotripsy in Complex Transvenous Lead Extraction: Insights and Unanswered Questions",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70411?af=R",
-    "doi": "10.1111/jce.70411",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 23, 2026",
-    "date_ts": 1782240187.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "Intravascular Lithotripsy (IVL) in Complex Lead Extraction: Feasibility and Challenges.",
-    "summary": "This retrospective case series describes the use of intravascular lithotripsy as an adjunctive tool in complex transvenous lead extractions, demonstrating technical feasibility for disrupting fibrotic sheaths around pacemaker and ICD leads. The study highlights both the potential benefits and procedural challenges of IVL integration into lead extraction protocols, though specific sample size and quantitative outcomes were not detailed in the abstract provided."
-  },
-  {
-    "title": "Chylothorax Following Pulmonary Vein Isolation: A Case Report and Management Considerations",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70414?af=R",
-    "doi": "10.1111/jce.70414",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 23, 2026",
-    "date_ts": 1782240128.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Chylothorax is a rare complication of thoracic procedures caused by leakage of chyle into the pleural space secondary to thoracic duct injury or obstruction. Although uncommon, it can lead to significant respiratory compromise and requires prompt recognition and management.\n                  \n                  \n                    Methods and Results\n                    We report the case of a patient who developed progressive respiratory distress 2 days after undergoing pulmonary vein isolation with radiofrequency ablation. Imaging demonstrated large bilateral pleural effusions, which were identified as bilateral chylothoraces. The patient was managed conservatively with placement of bilateral thoracostomy tubes and initiation of a low\u2010fat diet, resulting in successful resolution of symptoms and chyle leakage.\n                  \n                  \n                    Conclusion\n                    This case represents an unprecedented presentation of bilateral chylothoraces following pulmonary vein isolation with radiofrequency ablation. Clinicians should maintain awareness of this rare but potentially serious complication in patients presenting with respiratory symptoms after ablation procedures, as early diagnosis and conservative management may result in favorable outcomes.",
-    "summary": "This is a case report describing a patient who developed bilateral chylothoraces (an unprecedented complication) two days after pulmonary vein isolation with radiofrequency ablation, successfully managed conservatively with thoracostomy tubes and low-fat diet. The authors highlight the importance of recognizing this rare but serious complication in post-ablation patients presenting with respiratory distress."
-  },
-  {
-    "title": "Both Electrical Isolation and Lesion Homogeneity Should be Focused: Evidence From Repeat Atrial Fibrillation Ablation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70395?af=R",
-    "doi": "10.1111/jce.70395",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 23, 2026",
-    "date_ts": 1782239950.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Recurrent atrial tachyarrhythmia (AT) remains a major challenge following catheter ablation for atrial fibrillation (AF). While pulmonary vein (PV) reconnection is a well\u2010recognized mechanism, the contribution of lesion heterogeneity to iatrogenic AT is not clearly defined.\n                  \n                  \n                    Objective\n                    To analyze the clinical characteristics of recurrent AT caused by ablation\u2010induced focal potentials.\n                  \n                  \n                    Methods\n                    We retrospectively analyzed 113 patients who underwent repeat ablation for recurrent AT. Mechanisms of AT recurrence were identified using high\u2010resolution electroanatomic mapping and categorized into five types. Nonuniform ablation\u2013related AT\u2014considered iatrogenic\u2014was defined as focal or localized reentrant ATs arising from regions of prior ablation.\n                  \n                  \n                    Results\n                    Gap conduction was the most common mechanism of recurrence (51.3%), followed by other mechanisms (27.4%) and nonuniform ablation\u2013related AT (14.2%). The number of reconnected PVs was not significantly associated with the timing of all\u2010mechanism recurrence. Nonuniform ablation\u2013related ATs frequently presented as a combination of AF and atrial flutter (AFL), whereas gap\u2010related recurrence typically manifested as AF.\n                  \n                  \n                    Conclusion\n                    Lesion homogeneity plays a critical role in minimizing iatrogenic ATs, highlighting the importance of ablation strategies that optimize both electrical isolation and lesion quality. These findings offer insights for the refinement of ablation techniques and the development of improved catheter technologies.",
-    "summary": "This retrospective study of 113 patients undergoing repeat ablation for recurrent atrial tachyarrhythmia identified gap conduction as the predominant recurrence mechanism (51.3%), while nonuniform ablation-related AT from lesion heterogeneity accounted for 14.2% of cases, suggesting that optimizing lesion homogeneity and quality is critical to reducing iatrogenic arrhythmias following AF ablation."
   }
 ]

@@ -206,6 +206,7 @@
   "https://doi.org/10.1016/j.hrcr.2026.07.012",
   "https://doi.org/10.1016/j.hrcr.2026.07.013",
   "https://doi.org/10.1016/j.hrcr.2026.07.014",
+  "https://doi.org/10.1016/j.hrcr.2026.07.016",
   "https://doi.org/10.1093/eurheartj/ehag056",
   "https://doi.org/10.1093/eurheartj/ehag185",
   "https://doi.org/10.1093/eurheartj/ehag206",
@@ -432,6 +433,7 @@
   "https://doi.org/10.1093/europace/euag182",
   "https://doi.org/10.1093/europace/euag185",
   "https://doi.org/10.1093/europace/euag187",
+  "https://doi.org/10.1093/europace/euag190",
   "https://doi.org/10.1093/europace/euag191",
   "https://doi.org/10.1161/circep.124.013600",
   "https://doi.org/10.1161/circep.125.013858",
@@ -974,6 +976,7 @@
   "https://onlinelibrary.wiley.com/doi/10.1111/pace.70364?af=R",
   "https://onlinelibrary.wiley.com/doi/10.1111/pace.70365?af=R",
   "https://onlinelibrary.wiley.com/doi/10.1111/pace.70366?af=R",
+  "https://onlinelibrary.wiley.com/doi/10.1111/pace.70367?af=R",
   "https://onlinelibrary.wiley.com/doi/10.1111/pace.70368?af=R",
   "https://onlinelibrary.wiley.com/doi/10.1111/pace.70369?af=R",
   "https://onlinelibrary.wiley.com/doi/10.1111/pace.70370?af=R",
@@ -983,8 +986,10 @@
   "https://onlinelibrary.wiley.com/doi/10.1111/pace.70375?af=R",
   "https://onlinelibrary.wiley.com/doi/10.1111/pace.70376?af=R",
   "https://onlinelibrary.wiley.com/doi/10.1111/pace.70377?af=R",
+  "https://onlinelibrary.wiley.com/doi/10.1111/pace.70378?af=R",
   "https://onlinelibrary.wiley.com/doi/10.1111/pace.70379?af=R",
   "https://onlinelibrary.wiley.com/doi/10.1111/pace.70380?af=R",
+  "https://onlinelibrary.wiley.com/doi/10.1111/pace.70383?af=R",
   "https://www.medrxiv.org/content/10.1101/2020.01.03.19015602",
   "https://www.nature.com/articles/s44161-026-00806-6",
   "https://www.nature.com/articles/s44161-026-00808-4",
@@ -2189,5 +2194,7 @@
   "https://www.sciencedirect.com/science/article/pii/S2666501826003284?dgcid=rss_sd_all",
   "https://www.sciencedirect.com/science/article/pii/S2666501826003296?dgcid=rss_sd_all",
   "https://www.sciencedirect.com/science/article/pii/S2666501826003302?dgcid=rss_sd_all",
-  "https://www.sciencedirect.com/science/article/pii/S2666501826003314?dgcid=rss_sd_all"
+  "https://www.sciencedirect.com/science/article/pii/S2666501826003314?dgcid=rss_sd_all",
+  "https://www.sciencedirect.com/science/article/pii/S266650182600348X?dgcid=rss_sd_all",
+  "https://www.sciencedirect.com/science/article/pii/S2666501826003491?dgcid=rss_sd_all"
 ]
