@@ -1,5 +1,66 @@
 [
   {
+    "title": "[Articles] 1-month versus 12-month dual antithrombotic therapy after percutaneous coronary intervention in patients with atrial fibrillation (OPTIMA-AF): a multicentre, open-label, hybrid non-inferiority and superiority, randomised, controlled trial",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00665-3/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)00665-3",
+    "journal": "Lancet",
+    "date": "Aug 02, 2026",
+    "date_ts": 1785634197.389988,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND\nThe optimal duration of dual antithrombotic therapy after percutaneous coronary intervention (PCI) in patients with atrial fibrillation remains uncertain. We aimed to compare the efficacy and safety of 1-month versus 12-month dual antithrombotic therapy in this population.\n\n\nMETHODS\nOPTIMA-AF was an active-control, randomised, hybrid non-inferiority and superiority trial in which patients with atrial fibrillation undergoing PCI with intravascular imaging guidance were randomly assigned (1:1) to receive 1-month dual antithrombotic therapy (direct oral anticoagulant [DOAC] plus P2Y12 inhibitor) followed by DOAC monotherapy or 12-month dual therapy followed by DOAC monotherapy, across 75 sites in Japan. Eligible patients were aged 20 years or older with non-valvular atrial fibrillation, a CHADS2 score of 1 or higher, undergoing PCI for native coronary lesions for chronic coronary syndrome or unstable angina, with planned post-PCI treatment with a DOAC. Randomisation used web-based central allocation stratified by trial centre. Investigators and patients were unmasked; clinical events were adjudicated by an independent committee masked to treatment. The primary efficacy endpoint was a composite of all-cause death or thromboembolic events at 12 months; the primary safety endpoint was major or clinically relevant non-major bleeding at 12 months. The trial used a fixed-sequence testing strategy of non-inferiority for efficacy, superiority for safety, and superiority for efficacy. Analyses used the full analysis set including all patients who underwent PCI, were randomly assigned to treatment, received at least one dose of study drugs, and met prespecified analysis-set criteria. This trial is registered with the Japan Registry of Clinical Trials (jRCTs051190053), and is complete.\n\n\nFINDINGS\nFrom Oct 7, 2019, to Sept 3, 2024, 1101 patients were assessed for eligibility; 1088 were randomly assigned to treatment and 1079 were included in the full analysis set (1-month dual therapy n=542; 12-month dual therapy n=537). Median age was 76 years (IQR 70-81). 225 (21%) of 1079 patients were female and 854 (79%) were male. Median CHADS2 score was 2 (IQR 2-3). Median follow-up was 540 days (IQR 517-559). The primary efficacy endpoint occurred in 29 patients in the 1-month dual therapy group and 23 patients in the 12-month dual therapy group (Kaplan-Meier estimate 5\u00b74% vs 4\u00b73%; absolute difference 1\u00b71 percentage points [95% CI -1\u00b75 to 3\u00b76]; hazard ratio [HR] 1\u00b725 [95% CI 0\u00b773-2\u00b717]). The primary safety endpoint occurred in 24 patients versus 47 patients (Kaplan-Meier estimate 4\u00b75% vs 8\u00b78%; absolute difference -4\u00b74 percentage points [95% CI -7\u00b73 to -1\u00b74]; HR 0\u00b750 [95% CI 0\u00b730-0\u00b781]; p=0\u00b70041 for superiority).\n\n\nINTERPRETATION\nAmong patients with atrial fibrillation and predominantly chronic coronary syndrome undergoing PCI with intravascular imaging guidance, 1-month dual antithrombotic therapy followed by DOAC monotherapy was non-inferior to 12-month therapy for death or thromboembolic events and reduced major or clinically relevant non-major bleeding at 12 months, suggesting an overall favourable net clinical profile. Efficacy findings should be interpreted with appropriate caution in light of the lower-than-anticipated event rates and fixed absolute non-inferiority margin.\n\n\nFUNDING\nAbbott Medical Japan.\n\n\nTRANSLATIONS\nFor the Japanese translation of the abstract see Supplementary Materials section."
+  },
+  {
+    "title": "[Comment] Combination antithrombotic therapy in atrial fibrillation after coronary interventions: shorter duration, more safety?",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00747-6/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)00747-6",
+    "journal": "Lancet",
+    "date": "Aug 02, 2026",
+    "date_ts": 1785634197.389755,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Real-World Adverse Events of Pulsed Field Ablation for Atrial Fibrillation: A Comprehensive Analysis of the FDA MAUDE Database",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026135?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 02, 2026",
+    "date_ts": 1785634195.49844,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A Disproportionate View of PFA Safety Signals",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026147?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 02, 2026",
+    "date_ts": 1785634195.498401,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Protein Mediators Linking Autoimmune Diseases and Incident Atrial Fibrillation: Insights from the UK Biobank",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026482?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 02, 2026",
+    "date_ts": 1785634195.49823,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Evidence of Post-Catheter Ablation Brain Emboli After Long-Term Follow-Up",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005700?dgcid=rss_sd_all",
     "doi": null,
@@ -92,6 +153,42 @@
     "date_ts": 1785548681.140339,
     "tags": [
       "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Catheter Ablation of Premature Ventricular Complexes Originating from Papillary Muscles Using Dual-Energy Lattice-tip Focal Catheter",
+    "link": "https://doi.org/10.1093/europace/euag195",
+    "doi": "10.1093/europace/euag195",
+    "journal": "EP Europace",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transient Defibrillation Threshold Elevation Associated With Air in the Generator Pocket After Extravascular ICD Implantation",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.022",
+    "doi": "10.1016/j.hrcr.2026.07.022",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Phenotypic Overlap between Long QT Syndrome Type 1 and Brugada Syndrome: Possible Insights into Monogenic and Polygenic Architecture",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.020",
+    "doi": "10.1016/j.hrcr.2026.07.020",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "Genetics"
     ],
     "hot": false
   },
@@ -6207,105 +6304,6 @@
     "journal": "JACC: Clinical EP",
     "date": "Jun 24, 2026",
     "date_ts": 1782266689.011966,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Safety and Efficacy of Temperature-Guided Radiofrequency Ablation for Ventricular Tachycardia: A Multicenter Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26000198?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782266689.011934,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Genotype and Family History as Risk Markers of Sudden Cardiac Death in Hypertrophic Cardiomyopathy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001076?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782266689.011903,
-    "tags": [
-      "SCD",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Hypertrophic Cardiomyopathy and Sudden Cardiac Death: All in the Family?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004627?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782266689.011874,
-    "tags": [
-      "SCD",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Balloon-in-Basket Pulsed Field Ablation for Pulmonary Vein Isolation: 1-Year Outcomes of the VOLT-AF IDE Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26000101?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782266689.011841,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Polygenic Risk of New Onset Atrial Fibrillation in Nonischemic Cardiomyopathy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26000319?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782266689.011811,
-    "tags": [
-      "AFib",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Figure-of-8 Suture With a 3-Way Tap Versus Manual Compression After Atrial Fibrillation Ablation: The HARNESS Randomized Controlled Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26000216?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782266689.011777,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Early Outcomes With a Next-Generation Dual-Seal Left Atrial Appendage Occluder: Results From the VERITAS Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26000289?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782266689.011744,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "VERITAS: The Truth Shall Set You Free\u2026From Anticoagulation?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26001003?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782266689.01171,
     "tags": [
       "Other"
     ],
