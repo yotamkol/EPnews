@@ -61,6 +61,71 @@
     "hot": false
   },
   {
+    "title": "Variability and Main Determinants of Planning Target Volume During Cardiac Stereotactic Radioablation for Refractory Ventricular Arrhythmias: A Systematic Review and Pooled Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70461?af=R",
+    "doi": "10.1111/jce.70461",
+    "journal": "J Cardiovasc EP",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785590424.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Cardiac stereotactic arrhythmia radioablation (STAR) has emerged as a promising alternative for patients with refractory ventricular arrhythmias (VAs). However, the absence of recommendations for margin selection may lead to considerable differences in the treatment plan generation between teams.\n                  \n                  \n                    Objectives\n                    This systematic review and pooled analysis aimed at determining the inter\u2010study variability in target volumes as well as the main drivers of the final treated volume during STAR for refractory VAs.\n                  \n                  \n                    Methods\n                    MEDLINE and EMBASE databases were searched until January 31, 2025, to identify all studies describing the use of STAR for treating refractory VAs. Treatment volumes were extracted including clinical target volume (CTV), internal target volume (ITV), and planning target volume (PTV). Volume expansion was assessed using PTV/CTV, ITV/CTV and PTV/ITV ratios.\n                  \n                  \n                    Results\n                    \n                      A total of 1020 references were retrieved, of which 13 studies met the inclusion criteria, representing 126 patients treated with STAR for VAs. In aggregates, the pooled total volume expansion (PTV/CTV ratio) was 2.8 (95% CI: 2.0\u20133.6,\n                      I\n                      2\n                      \u2009=\u200973%), the pooled volume expansion related to treatment delivery uncertainties (PTV/ITV ratio) was 1.9 (95% CI: 1.7\u20132.2,\n                      I\n                      2\n                      \u2009=\u200912%) and the pooled volume expansion related to cardiorespiratory margins (ITV/CTV ratio) was 1.9 (95% CI: 1.4\u20132.3,\n                      I\n                      2\n                      \u2009=\u200936.5%).\n                    \n                  \n                  \n                    Conclusion\n                    Generation of the treatment volume in STAR for refractory VA is subject to high variability even among expert teams, with a ninefold difference observed between the smallest and largest reported average PTV. Margins related to uncertainties in treatment delivery seem to contribute as much as margins related to cardiorespiratory movement in determining the final treatment volume.\n                    \n                      PROSPERO registration:\n                      CRD42024580242."
+  },
+  {
+    "title": "Accurate Diagnosis of Atrioventricular Nodal Reentrant Tachycardia With Very Short His\u2010Atrial Interval and Earliest Activation in the Proximal Coronary Sinus",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70467?af=R",
+    "doi": "10.1111/jce.70467",
+    "journal": "J Cardiovasc EP",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785590132.0,
+    "tags": [
+      "SVT"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Differential diagnoses in atrioventricular nodal reentrant tachycardia (AVNRT) with His\u2010atrial (HA) interval of &lt;\u200970\u2009ms and earliest atrial activation site (EAAS) in the proximal coronary sinus (pCS) include slow\u2010fast AVNRT with inferior deviation of the fast pathway (FP) and slow\u2010slow AVNRT with a lower common pathway (LCP). Therefore, we examined the electrophysiological and anatomical characteristics distinguishing slow\u2010fast AVNRT with inferior FP deviation from slow\u2010slow AVNRT with an LCP.\n                  \n                  \n                    Methods\n                    \n                      Analyzed were 32 AVNRTs with HA intervals of &lt;\u200970\u2009ms and EAAS in pCS. During ablation at the EAAS, patients with atrio\u2010His (AH) interval prolongation leading to abandonment (\n                      n\n                      \u2009=\u20097) were classified as slow\u2010fast AVNRT phenotype, while those with successful ablation without AH prolongation (\n                      n\n                      \u2009=\u200925) were classified as slow\u2010slow AVNRT phenotype.\n                    \n                  \n                  \n                    Results\n                    \n                      Triple antegrade AVN physiology, dual retrograde AVN physiology, and AH block during AVNRT were observed only in the slow\u2010slow AVNRT group. A \u0394HA\u2009&gt;\u200915\u2009ms occurred more often in the slow\u2010slow AVNRT group (82% vs. 17%,\n                      p\n                      \u2009=\u20090.009). The AH\n                      VP\n                      \u2010AH\n                      AVNRT\n                      \u2014defined as the AH interval during right ventricular overdrive pacing minus that during AVNRT\u2014was shorter in the slow\u2010slow AVNRT group (24\u2009\u00b1\u200924 vs. 1\u2009\u00b1\u200915\u2009ms,\n                      p\n                      \u2009=\u20090.02). The His\u2010EAAS distance was shorter in the slow\u2010fast AVNRT group (7.3\u2009\u00b1\u20092.3 vs. 16.9\u2009\u00b1\u20094.9\u2009mm,\n                      p\n                      \u2009&lt;\u20090.001).\n                    \n                  \n                  \n                    Conclusion\n                    \n                      In cases of AVNRT with an HA interval &lt;\u200970\u2009ms and EAAS in the pCS, the slow\u2010slow AVNRT phenotype is more prevalent than the slow\u2010fast AVNRT phenotype. The shorter AH\n                      VP\n                      \u2010AH\n                      AVNRT\n                      and the His\u2010EAAS distance may help differentiate them."
+  },
+  {
+    "title": "Safety of Flecainide and Propafenone in Patients With Atrial Fibrillation and Structural Heart Disease",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70470?af=R",
+    "doi": "10.1111/jce.70470",
+    "journal": "J Cardiovasc EP",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785589886.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Class Ic antiarrhythmic drugs (AADs) have been contraindicated in patients with structural heart disease since the 1991 Cardiac Arrhythmia Suppression Trial (CAST), which demonstrated increased mortality in post\u2010myocardial infarction patients with ventricular ectopy and reduced ejection fraction. Contemporary guidelines extend this prohibition broadly to coronary artery disease (CAD), heart failure, and other structural heart disease, yet CAST enrolled a narrow population, and the totality of post\u2010CAST evidence across structural heart disease has never been comprehensively synthesized.\n                  \n                  \n                    Objective\n                    To systematically evaluate the safety of class Ic AADs (flecainide and propafenone) compared with alternative antiarrhythmic strategies in patients with atrial fibrillation (AF) and structural heart disease, with CAD as the principal prespecified subgroup.\n                  \n                  \n                    Methods\n                    \n                      We searched PubMed, Embase, Cochrane Library, and Web of Science from inception through May 2026 for studies comparing class Ic AAD use with class III AADs, amiodarone, or no antiarrhythmic therapy in patients with AF and structural heart disease (CAD, heart failure, or left ventricular hypertrophy). The primary endpoint was ventricular arrhythmia (VA); secondary endpoints were all\u2010cause mortality and major adverse cardiovascular events (MACE). The primary analysis pooled all structural heart disease populations; CAD was the principal prespecified subgroup, and a test for subgroup differences (CAD vs. non\u2010CAD) was performed. Pooled hazard ratios (HRs) with 95% confidence intervals (CIs) were calculated using restricted maximum likelihood (REML) random\u2010effects models with the Hartung\u2013Knapp adjustment. Heterogeneity was assessed with\n                      I\n                      2\n                      and Cochran\n                      Q\n                      statistics.\n                    \n                  \n                  \n                    Results\n                    \n                      Seven studies (\n                      N\n                      \u2009=\u200935\u2009886) met inclusion criteria; six contributed to quantitative pooling. In the primary analysis across all structural heart disease populations, class Ic AAD use was not associated with increased ventricular arrhythmia risk (pooled HR 0.73; 95% CI 0.51\u20131.03;\n                      p\n                      \u2009=\u20090.065;\n                      I\n                      2\n                      = 88.6%;\n                      k\n                      \u2009=\u20095), and no individual study reported a statistically significant increase in VA risk. All\u2010cause mortality was numerically lower but did not reach significance after the Hartung\u2010Knapp adjustment (HR 0.47; 95% CI 0.21\u20131.01;\n                      k\n                      \u2009=\u20095); MACE was significantly lower with class Ic use (HR 0.54; 95% CI 0.39\u20130.75;\n                      p\n                      \u2009=\u20090.010;\n                      k\n                      \u2009=\u20094). The CAD subgroup was directionally concordant and showed no harm (VA HR 0.80 [95% CI 0.54\u20131.17]; mortality HR 0.65 [95% CI 0.22\u20131.91]; MACE HR 0.54 [95% CI 0.29\u20130.99]). Tests for subgroup differences between CAD and non\u2010CAD populations were nominally significant for VA (\n                      p\n                      \u2009=\u20090.009) and mortality (\n                      p\n                      \u2009=\u20090.037) but not MACE (\n                      p\n                      \u2009=\u20090.92). Substantial heterogeneity was observed across all endpoints.\n                    \n                  \n                  \n                    Conclusion\n                    Across structural heart disease populations, including a well\u2010powered CAD subgroup, class Ic antiarrhythmic therapy for AF was not associated with excess ventricular arrhythmia risk, and no subgroup demonstrated harm. The absence of a proarrhythmic signal across diverse study designs and substrates provides supportive, though not definitive, hypothesis\u2010generating evidence regarding the safety of these agents in carefully selected patients with stable disease and preserved ventricular function. Prospective randomized trials are needed to confirm these findings.\n                    \n                      PROSPERO Registration:\n                      CRD420261411804."
+  },
+  {
+    "title": "Large Language Model\u2010Based Localization of Premature Ventricular Contraction Origins: A Retrospective Diagnostic Accuracy Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70464?af=R",
+    "doi": "10.1111/jce.70464",
+    "journal": "J Cardiovasc EP",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785588675.0,
+    "tags": [
+      "AI"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Accurate localization of premature ventricular contraction (PVC) origin from 12\u2010lead electrocardiography (ECG) is important for procedural planning in catheter ablation. Although convolutional neural network (CNN)\u2010based models have shown promising diagnostic performance, they require task\u2010specific training and remain limited in interpretability. We evaluated whether large language model (LLM)\u2010based ECG image interpretation could perform binary left\u2010versus\u2010right PVC origin localization from 12\u2010lead ECG images while providing a traceable diagnostic process.\n                  \n                  \n                    Methods\n                    \n                      We retrospectively studied 157 patients who underwent successful catheter ablation of PVCs or idiopathic ventricular tachycardia. ECG images were classified as RIGHT\u2010origin (\n                      n\n                      \u2009=\u2009103) or LEFT\u2010origin (\n                      n\n                      \u2009=\u200954) according to the final successful ablation site. Three approaches were compared: a CNN\u2010based baseline model, an LLM\u2010based one\u2010shot approach, and an LLM\u2010based staged extraction framework with deterministic rule\u2010based integration. Performance was evaluated across five independent seeds using positive predictive value (PPV), negative predictive value (NPV), recall, and PPV\u2009+\u2009NPV.\n                    \n                  \n                  \n                    Results\n                    The CNN\u2010based baseline model achieved a PPV of 0.546\u2009\u00b1\u20090.058 and an NPV of 0.793\u2009\u00b1\u20090.047, with area under the curve values ranging from 0.595 to 0.730. The staged extraction framework generated a continuous rule\u2010based score with discrimination numerically comparable to the CNN\u2010based model (AUC 0.720\u2009\u00b1\u20090.045 vs. 0.712\u2009\u00b1\u20090.054). A stricter threshold, determined from training data, increased PPV at the expense of recall and warrants prospective external validation of this operating point.\n                  \n                  \n                    Conclusions\n                    LLM\u2010based staged extraction demonstrated the potential to achieve binary left\u2010versus\u2010right PVC origin localization from 12\u2010lead ECG images while providing a traceable stepwise diagnostic process. The continuous rule\u2010based score showed discrimination numerically comparable to the CNN\u2010based model, and the strict threshold\u2014determined using training data\u2014identified a potential high\u2010PPV operating point that requires prospective external validation."
+  },
+  {
+    "title": "Inappropriate Ventricular Fibrillation Detection in a Patient With Arrhythmogenic Right Ventricular Cardiomyopathy",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70471?af=R",
+    "doi": "10.1111/jce.70471",
+    "journal": "J Cardiovasc EP",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785587934.0,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
     "title": "Evidence of Post-Catheter Ablation Brain Emboli After Long-Term Follow-Up",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005700?dgcid=rss_sd_all",
     "doi": null,
@@ -6244,69 +6309,5 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Leadless pacemakers (LPs) are increasingly used in patients at high risk of transvenous lead complications. If indications for implantable cardioverter\u2010defibrillator (ICD) therapy arise later, a subcutaneous ICD (S\u2010ICD) may represent an attractive option. However, S\u2010ICD implantation requires pre\u2010implant electrocardiographic screening, and pacing may impact implantation eligibility. Thus, the purpose of the present analysis was to evaluate S\u2010ICD screening eligibility in patients with right atrial (RA) and dual\u2010chamber (DR) LP during intrinsic rhythm, atrial pacing, and dual\u2010chamber pacing.\n                  \n                  \n                    Methods and Results\n                    Patients implanted with active\u2010fixation RA and dual\u2010chamber LP systems underwent S\u2010ICD screening using the automated screening tool. Electrocardiographic parameters were assessed during intrinsic rhythm, atrial pacing (AAI), and dual\u2010chamber pacing (DDD). Screening eligibility was assessed separately for each rhythm. Combined eligibility was defined as the presence of at least one acceptable vector in intrinsic and paced rhythms. Forty\u2010one patients were included (median age 67 years; 61% female). During intrinsic rhythm, at least one acceptable vector was present in 91.4% of patients. Screening eligibility remained high during atrial pacing (77.1%) but decreased substantially during dual\u2010chamber pacing (33.3%). Primary and secondary sensing vectors demonstrated the highest screening success across rhythm conditions, with positive rates of 60.0% and 62.3% for AAI, and 18.5% and 11.1% for DDD pacing.\n                  \n                  \n                    Conclusion\n                    In patients with RA and DR LPs, S\u2010ICD screening eligibility is preserved in most cases during intrinsic rhythm and atrial pacing, but markedly reduced during DDD pacing. Pacing mode should be considered when evaluating the feasibility of combining LP systems with an S\u2010ICD.",
     "summary": "This retrospective analysis of 41 patients with right atrial and dual-chamber leadless pacemakers found that subcutaneous ICD screening eligibility remained high during intrinsic rhythm (91.4%) and atrial pacing (77.1%), but significantly decreased during dual-chamber pacing (33.3%), suggesting that pacing mode should be considered when assessing feasibility of combining these device systems."
-  },
-  {
-    "title": "Percutaneous Extraction of a Long\u2010Standing, Inadvertently Malpositioned Left\u2010Atrial Lead during CIED Infection",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70336?af=R",
-    "doi": "10.1111/pace.70336",
-    "journal": "PACE",
-    "date": "Jun 25, 2026",
-    "date_ts": 1782399522.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  There is limited evidence in the literature regarding the safety and feasibility of transvenous extraction for leads malpositioned in the left heart for an extended period.\n                  This report presents a challenging case of a 44\u2010year\u2010old male with a pacemaker pocket infection and bacteremia, in whom a previously unrecognized atrial lead malposition into the left atrium\u2014present for 17 years\u2014was identified and successfully extracted.\n                  This report suggests that percutaneous extraction of a long\u2010standing, malpositioned lead in the left heart is both mandatory and feasible in the setting of cardiac implantable electronic device infection.",
-    "summary": "This case report describes successful transvenous extraction of an atrial pacemaker lead that had been malpositioned in the left atrium for 17 years in a 44-year-old patient with device infection and bacteremia, demonstrating that percutaneous lead extraction is feasible and indicated even for chronic left heart lead malpositions."
-  },
-  {
-    "title": "Interrater agreement in atrial fibrillation diagnosis using one-week single-lead patch ECG monitoring: Findings from the NORSCREEN trial",
-    "link": "https://doi.org/10.1093/europace/euag162",
-    "doi": "10.1093/europace/euag162",
-    "journal": "EP Europace",
-    "date": "Jun 25, 2026",
-    "date_ts": 1782345600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "cAMP-Activated EPAC Signaling Is an Integral Component of Cardiac Pacemaker Cell Automaticity",
-    "link": "https://doi.org/10.1161/circep.125.014455",
-    "doi": "10.1161/circep.125.014455",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Jun 25, 2026",
-    "date_ts": 1782345600.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    \n                      Spontaneous automaticity of sinoatrial node cells (SANCs) is driven by a system that couples ion channels, membrane clock and Ca\n                      2+\n                      clock, the sarcoplasmic reticulum generated LCRs (local subsarcolemmal Ca\n                      2+\n                      releases). Although LCRs are critically dependent on high basal cAMP and both PKA (protein kinase A)- and CaMKII (Ca2+/calmodulin dependent protein kinase II)-dependent protein phosphorylation, the link between cAMP and CaMKII remains unclear. Here, we tested a hypothesis that high cAMP activates EPAC (exchange protein directly activated by cAMP) which increases basal CaMKII activity, reinforcing the coupled clock pacemaker system, to boost LCRs and accelerate spontaneous SANC firing.\n                    \n                  \n                  \n                    METHODS:\n                    Real-time quantitative polymerase chain reaction, Western blot, immunostaining, whole-cell patch clamp, and line-scan confocal microscopy were employed to study EPAC-dependent regulation of rabbit SANC firing.\n                  \n                  \n                    RESULTS:\n                    \n                      Both EPAC isoforms were expressed and active in SANC. Selective inhibition of EPAC1 (CE3F4) or EPAC2 (HJC0350) similarly suppressed basal CaMKII activity, CaMKII-dependent phosphorylation of Ca\n                      2+\n                      -cycling proteins (PLB [phospholamban] and RyR [ryanodine receptors]) and reduced the amplitude of L-type Ca\n                      2+\n                      current. EPAC1 and EPAC2 inhibitors significantly decreased LCR number, size, and prolonged the LCR period (interval between prior AP-induced Ca\n                      2+\n                      transient and LCR) reducing spontaneous SANC firing by \u224830%. In contrast, EPAC activator (8-pCPT) increased LCR number and size, shortened the LCR period and accelerated spontaneous firing by\u224818%. EPAC-mediated effects were implemented in PKC-dependent manner via EPAC-PLC-PKC-CaMKII signaling pathway, since PKC inhibitor reproduced effects of EPAC inhibition on CaMKII activity, CaMKII-dependent phosphorylation of Ca\n                      2+\n                      -cycling proteins, LCR parameters, and spontaneous SANC firing.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    \n                      EPAC is an essential component of basal cardiac pacemaker function, which accelerates spontaneous automaticity of SANC via an increase in basal CaMKII-dependent phosphorylation of Ca\n                      2+\n                      -cycling proteins (PLB, RyR, L-type Ca\n                      2+\n                      channels, and likely others), leading to amplification of LCR parameters, shortening of LCR timing and resultant spontaneous cycle length. Consequently, EPAC might represent a novel therapeutic target to regulate resting heart rate and treat sinoatrial node dysfunction.",
-    "summary": "This mechanistic study in rabbit sinoatrial node cells demonstrated that EPAC (exchange protein directly activated by cAMP) is essential for basal pacemaker function, operating via a PKC-dependent EPAC-PLC-PKC-CaMKII signaling pathway to enhance local calcium releases and spontaneous firing rate by ~18-30%. EPAC inhibition suppressed firing by reducing calcium-cycling protein phosphorylation and local subsarcolemmal calcium release parameters, identifying EPAC as a potential therapeutic target for heart rate regulation and sinoatrial node dysfunction."
-  },
-  {
-    "title": "Editorial Board",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004767?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782266689.012,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Endocardial <em>I</em><sub><em>to-slow</em></sub> Overexpression and Fibrotic Remodeling Underlying Pause-Dependent Early Repolarization in Humans",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26000290?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jun 24, 2026",
-    "date_ts": 1782266689.011966,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
   }
 ]
