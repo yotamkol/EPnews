@@ -1,5 +1,125 @@
 [
   {
+    "title": "Characterization of Myocardial Immune Cell Infiltrates in Desmoplakin Cardiomyopathy: Insights From Explanted Hearts",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003521?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Aug 06, 2026",
+    "date_ts": 1785979324.977562,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Leadless Pacemaker Upgrades vs. Primary Dual-Chamber Implantations: A Real-World Evaluation of the Modular Approach",
+    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600351X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Aug 06, 2026",
+    "date_ts": 1785979324.97752,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Serum Magnesium Levels and Risk of Atrial Arrhythmia Recurrence After Catheter Ablation: A Prospective Multicenter Cohort Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003508?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Aug 06, 2026",
+    "date_ts": 1785979324.97746,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Reappraising CHAMPION AF. Does Placebo Meet Non-Inferiority in Stroke Prevention?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026615?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 06, 2026",
+    "date_ts": 1785979324.84858,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sampling Frequency Has Architecture-Dependent Effects on ECG Deep Learning Classification: CNNs Are Robust, Transformers Benefit Modestly",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026573?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 06, 2026",
+    "date_ts": 1785979324.848542,
+    "tags": [
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "THERMAL PROFILES OF PULSED FIELD ABLATION CATHETERS",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026585?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 06, 2026",
+    "date_ts": 1785979324.848504,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Hemolysis and Renal Tubular Injury After Pulsed Field Ablation: A Comparison Between Two Commercially Available Platforms",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602655X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 06, 2026",
+    "date_ts": 1785979324.848459,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Association of early rhythm control with depression outcomes in atrial fibrillation: A nationwide population-based cohort study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026548?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 06, 2026",
+    "date_ts": 1785979324.848299,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Atrial fibrillation in athletes: you can\u2019t start a fire without a spark",
+    "link": "https://doi.org/10.1093/eurheartj/ehag560",
+    "doi": "10.1093/eurheartj/ehag560",
+    "journal": "European Heart Journal",
+    "date": "Aug 05, 2026",
+    "date_ts": 1785888000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "An uncompromising approach to paediatric long QT syndrome in Spain",
+    "link": "https://doi.org/10.1093/eurheartj/ehag566",
+    "doi": "10.1093/eurheartj/ehag566",
+    "journal": "European Heart Journal",
+    "date": "Aug 05, 2026",
+    "date_ts": 1785888000.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
     "title": "Bachmann\u2019s Bundle Pacing: A Physiologic \"Fast-Track\" to Optimized Atrial Activation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003545?dgcid=rss_sd_all",
     "doi": null,
@@ -383,6 +503,31 @@
     "date_ts": 1785548681.140339,
     "tags": [
       "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Percutaneous Endomyocardial Ablation as a Septal Reduction Strategy in Symptomatic Obstructive Hypertrophic Cardiomyopathy: A 20-Year Single-Centre Observational Experience",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.028",
+    "doi": "10.1016/j.hrcr.2026.07.028",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Persistence of atrioventricular nodal re-entrant tachycardia during ventricular fibrillation",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.026",
+    "doi": "10.1016/j.hrcr.2026.07.026",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "VT",
+      "SVT"
     ],
     "hot": false
   },
@@ -6130,167 +6275,5 @@
       "Other"
     ],
     "hot": false
-  },
-  {
-    "title": "Experience from Extraction of Transvenous Leads Applied for Retained Port-A-Catheters Removal",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.032",
-    "doi": "10.1016/j.hrcr.2026.06.032",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Dynamic Electrophysiological Changes after Ethanol Ablation for Ventricular Septum: Insights from a Septal Pacing Lead",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.031",
-    "doi": "10.1016/j.hrcr.2026.06.031",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Biventricular Perimitral Macroreentrant Ventricular Tachycardia After David\u2013Komeda Repair for Ventricular Septal Perforation: An Interplay Between Surgical and Ischemic Substrates",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.033",
-    "doi": "10.1016/j.hrcr.2026.06.033",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Angioplasty for Pulmonary Vein Stenosis after Atrial Fibrillation Ablation",
-    "link": "https://doi.org/10.1093/europace/euag164",
-    "doi": "10.1093/europace/euag164",
-    "journal": "EP Europace",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsed Field Ablation Is Associated With Fewer Post\u2010Procedural Pericardial Inflammatory Symptoms Compared With Radiofrequency Ablation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70424?af=R",
-    "doi": "10.1111/jce.70424",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 30, 2026",
-    "date_ts": 1782847053.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Acute pericarditis is an uncommon complication of thermal atrial fibrillation (AF) ablation, whereas milder pericardial inflammatory symptoms, typically pleuritic or positional chest pain, are more common and negatively affect post\u2010procedural recovery. Pulsed field ablation (PFA), a non\u2010thermal modality with tissue\u2010selective properties, may reduce collateral pericardial injury. We compared post\u2010procedural pericardial inflammatory symptoms and recovery after AF ablation using PFA vs. radiofrequency ablation (RFA).\n                  \n                  \n                    Methods\n                    \n                      This single\u2010center observational study with prospective data collection included 150 patients undergoing catheter ablation for paroxysmal or persistent AF using focal PFA (\n                      n\n                      \u2009=\u200975) or RFA (\n                      n\n                      \u2009=\u200975). Patients were identified from the procedural workflow during the study period. Post\u2010procedural pericardial inflammatory symptoms, chest pain severity (5\u2010point scale), anti\u2010inflammatory therapy use, length of hospital stay, and biomarkers of inflammation (CRP) and myocardial injury (hs\u2010TnT) were assessed during hospitalization and structured post\u2010discharge follow\u2010up.\n                    \n                  \n                  \n                    Results\n                    \n                      Baseline characteristics were similar between groups. Post\u2010procedural chest pain occurred more frequently after RFA than PFA (32% vs. 5.3%,\n                      p\n                      \u2009&lt;\u20090.001), despite a significantly greater proportion of patients in the PFA group receiving lesion sets beyond pulmonary vein isolation (94.7% vs. 73.3%,\n                      p\n                      \u2009&lt;\u20090.001). Anti\u2010inflammatory therapy was prescribed more frequently after RFA (20% vs. 2.7%,\n                      p\n                      \u2009=\u20090.001), and hospital length of stay was longer [2 (1\u20132) vs. 1(1\u20131) days,\n                      p\n                      \u2009=\u20090.03). Procedure duration was shorter with PFA (86\u2009\u00b1\u200936 vs. 122\u2009\u00b1\u200955\u2009min,\n                      p\n                      \u2009&lt;\u20090.001). Median hs\u2010TnT levels were higher after PFA [1288 (865\u20132137) vs. 1001 (652\u20131368] ng/L,\n                      p\n                      \u2009=\u20090.01), whereas CRP levels were similar [10.4 (4.9\u201323.3) vs. 10.5 (6.9\u201327.3) mg/L;\n                      p\n                      \u2009=\u20090.38].\n                    \n                  \n                  \n                    Conclusions\n                    PFA was associated with fewer post\u2010procedural pericardial inflammatory symptoms, reduced need for anti\u2010inflammatory therapy, and faster recovery compared with RFA. These findings suggest reduced pericardial irritation and improved patient\u2010centered recovery after AF ablation.",
-    "summary": "This single-center prospective observational study of 150 patients (75 PFA vs. 75 RFA) found that pulsed field ablation for atrial fibrillation resulted in significantly lower post-procedural chest pain (5.3% vs. 32%), reduced anti-inflammatory therapy use (2.7% vs. 20%), and shorter hospital stay compared to radiofrequency ablation, suggesting superior pericardial safety and faster recovery with PFA despite similar inflammatory biomarkers."
-  },
-  {
-    "title": "Single\u2010Cell Transcriptomics and Mendelian Randomization Analysis Reveal Key Genes in Atrial Fibrillation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70432?af=R",
-    "doi": "10.1111/jce.70432",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 30, 2026",
-    "date_ts": 1782846820.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Atrial fibrillation (AF) is one of the most common cardiac arrhythmias. It reduces quality of life and increases the risk of complications such as stroke. Although progress has been made in understanding its pathogenesis, the key cellular subtypes and therapeutic targets remain unclear.\n                  \n                  \n                    Methods\n                    We applied single\u2010cell transcriptomics to identify critical cellular subtypes in AF. High\u2010dimensional weighted gene co\u2010expression network analysis (hdWGCNA) and machine learning were used to screen AF\u2010related genes. Mendelian randomization (MR) and colocalization analyses were performed to assess causal relationships between these genes and AF.\n                  \n                  \n                    Results\n                    Single\u2010cell analysis showed a significant increase in macrophages in AF, especially SPP1\u2010expressing macrophages, which may drive AF onset and progression. HdWGCNA identified AF\u2010related gene modules. Three genes, LRCH1, RSRC2 and VAMP2, were found to be causally associated with AF. MR analysis confirmed their significant causal effects.\n                  \n                  \n                    Conclusions\n                    The accumulation of SPP1\u2010expressing macrophages may drive the onset and progression of AF. Furthermore, LRCH1, RSRC2, and VAMP2 were identified as key causal genes for AF, providing novel insights into its molecular mechanisms and potential therapeutic targets.",
-    "summary": "This integrative study combined single-cell transcriptomics, weighted gene co-expression network analysis, and Mendelian randomization to identify critical cellular and genetic drivers of atrial fibrillation, revealing that SPP1-expressing macrophage accumulation and three causal genes (LRCH1, RSRC2, and VAMP2) represent novel mechanistic insights and potential therapeutic targets. The study design was primarily observational/computational rather than an RCT, utilizing human tissue or cell data with bioinformatic and statistical causal inference approaches."
-  },
-  {
-    "title": "Relationship Between Nonuniform Isochrone\u2010Area in Late Activation Mapping and Arrhythmogenic Substrates Related to Atrial Fibrillation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70417?af=R",
-    "doi": "10.1111/jce.70417",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 30, 2026",
-    "date_ts": 1782846277.0,
-    "tags": [
-      "AFib",
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Arrhythmogenic substrates within the atrial myocardium may contribute to the initiation of atrial fibrillation (AF). The relationship between nonuniform isochrone\u2010areas in late activation mapping and arrhythmogenic substrates remains undetermined.\n                  \n                  \n                    Methods\n                    \n                      Sixty\u2010two patients (66\u2009\u00b1\u200910 years, 47 males, non\u2010paroxysmal AF [\n                      n\n                      \u2009=\u200930], second ablation procedure [\n                      n\n                      \u2009=\u20098]) who undergoing catheter ablation for AF were enrolled. High\u2010density left atrial (LA) activation mapping was performed during atrial pacing after pulmonary vein (PV) isolation. Late activation mapping was retrospectively reconstructed. Nonuniform isochrone\u2010areas were defined as regions of nonuniform and mottled conduction\u2010zones characterized by the crowding of \u2265\u20093 color\u2010isochrones within a 1\u2010cm radius in late activation mapping. The relationship between nonuniform isochrone\u2010areas and arrhythmogenic substrates associated with AF was evaluated.\n                    \n                  \n                  \n                    Results\n                    \n                      Non\u2010PV triggers were identified in 11 patients (AF\u2010triggers:12; short runs of premature atrial complexes:4), located in the LA wall (posterior:7; anterior:6; septum:2; roof:1). Patients with non\u2010PV triggers had significantly more nonuniform isochrone\u2010areas than those without (median [interquartile range] 5.0 [3.0\u20136.0] vs. 2.0 [1.0\u20134.0],\n                      p\n                      \u2009&lt;\u20090.001). In multivariate logistic analysis for the presence of non\u2010PV triggers, after adjusting for confounders such as non\u2010paroxysmal AF, heart failure\u2010history, and presence of low\u2010voltage areas, the presence of nonuniform isochrone\u2010areas on the LA low\u2010posterior wall was an independent indicator for the presence of non\u2010PV triggers (odds ratio: 6.9 [95% CI:1.1\u201344.1],\n                      p\n                      \u2009=\u20090.040). Of the 52 nonuniform isochrone\u2010areas observed in the 11 patients with non\u2010PV triggers, 20 areas corresponded to non\u2010PV trigger sites.\n                    \n                  \n                  \n                    Conclusion\n                    Identification of nonuniform isochrone\u2010areas located on LA low\u2010posterior wall in late activation mapping may indicate the potential source for non\u2010PV triggers.",
-    "summary": "This prospective observational study of 62 AF patients undergoing catheter ablation demonstrates that nonuniform isochrone-areas identified on high-density left atrial activation mapping\u2014particularly in the low-posterior wall\u2014are independently associated with non-pulmonary vein triggers, with nonuniform isochrone-areas significantly more prevalent in patients harboring non-PV triggers (median 5.0 vs. 2.0 areas, p<0.001). Late activation mapping of nonuniform isochrone-zones may serve as a noninvasive tool to identify arrhythmogenic substrates and predict non-PV trigger locations during AF ablation procedures."
-  },
-  {
-    "title": "Impact of Carina Width on Re\u2010Ablation Rate of Atrial Fibrillation After Primary Cryoballoon\u2010Ablation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70430?af=R",
-    "doi": "10.1111/jce.70430",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 30, 2026",
-    "date_ts": 1782845766.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Reconnection of the pulmonary veins (PVs) is the primary cause of atrial fibrillation (AF) episodes after pulmonary vein isolation (PVI). Cryoballoon ablation does not always include the isolation of the carina due to anatomic variants and carina width has been associated with increased re\u2010ablation rate in previous radiofrequency ablation studies. Aim of our study was to assess the impact of carina width on the re\u2010ablation rate after cryoballoon\u2010PVI.\n                  \n                  \n                    Methods\n                    We included 518 patients who underwent cryoballoon ablation for AF between 2015 and 2022. Each patient underwent contrast enhanced chest computed tomography (CT) scan prior to ablation. We measured the shortest distance between the superior and inferior PV (carina width) and the size of the left atrium in CT images. In patients referred to re\u2010ablation due to recurring symptomatic and ECG documented AF we defined the reconnected veins. The minimum follow up after prior PVI was 1 year.\n                  \n                  \n                    Results\n                    \n                      In all patients the right carina was wider than the left (8.04\u2009\u00b1\u20094.49\u2009mm vs. 5.25\u2009\u00b1\u20093.03\u2009mm,\n                      p\n                      \u2009&lt;\u20090.059). One fifth (\n                      n\n                      \u2009=\u2009102) of the patients underwent re\u2010ablation for AF. Left carina width was significantly associated with re\u2010ablation rate (in re\u2010ablation group 6.4\u2009\u00b1\u20092.7\u2009mm vs. in no re\u2010ablation group 4.9\u2009\u00b1\u20093.0\u2009mm,\n                      p\n                      \u2009&lt;\u20090.001) whereas right carina width was not (8.3\u2009\u00b1\u20093.0\u2009mm vs. 7.9\u2009\u00b1\u20093.6\u2009mm,\n                      p\n                      \u2009=\u20090.421, respectively). Left atrium (LA) was larger in the re\u2010ablation group, but the size of the LA did not correlate with the left carina width (\n                      r\n                      \u2009=\u20090.075;\n                      p\n                      \u2009=\u20090.111). However, there was a significant correlation between the size of the LA and the width of the right carina (\n                      r\n                      \u2009=\u20090.251,\n                      p\n                      \u2009&lt;\u20090.001). Also, in the re\u2010ablation group a significant correlation between right carina width and reconnection of the right PV's (RPV) was detected, which was not seen in the left PV's (LPV) (\n                      p\n                      \u2009=\u20090.015;\n                      p\n                      \u2009=\u20090.360, respectively).\n                    \n                  \n                  \n                    Conclusion\n                    The left carina width and LA size are associated with the success rate of primary cryoballoon\u2010PVI. However, there was a correlation between the right carina width and the reconnection of the RPV's leading to re\u2010ablation. It seems that recognition of anatomical variants could be useful in the decision of ablation technique, but further studies are needed.",
-    "summary": "This retrospective observational study of 518 AF patients undergoing cryoballoon ablation found that wider left carina width was significantly associated with increased re-ablation rates (6.4 \u00b1 2.7 mm vs. 4.9 \u00b1 3.0 mm, p < 0.001), while right carina width correlated with right pulmonary vein reconnection specifically. The findings suggest that preprocedural assessment of carina anatomy on CT imaging may help identify patients at higher risk for ablation failure and guide procedural technique selection."
-  },
-  {
-    "title": "Clinical Utility of Tissue Proximity Indication With a Variable\u2010Loop Circular Catheter for Pulmonary Vein Isolation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70376?af=R",
-    "doi": "10.1111/jce.70376",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 30, 2026",
-    "date_ts": 1782845669.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    \n                      The variable\u2010loop circular catheter (VLCC, VARIPULSE) is a pulsed\u2010field ablation (PFA) catheter equipped with a Tissue Proximity Indication (TPI) function, which monitors catheter\u2010tissue contact. Although TPI\u2010negative sites have been reported to contribute to gap formation, no studies have evaluated the utility of real\u2010time function. This study assessed the success rate of pulmonary vein isolation (PVI) using the VLCC, incorporating the activated TPI function as the primary setting from the start of the procedure, representing an\n                      activated TPI function\u2010guided ablation\n                      approach.\n                    \n                  \n                  \n                    Methods\n                    Between February 1 and September 3, 2025, 60 consecutive patients underwent PFA using the VLCC. After creating the 3D geometry using CARTOSOUND FAM before ablation, PVI using the VLCC was performed with the activated TPI function. After an initial two\u2010by\u2010two PFA set, the catheter orientation was adjusted to target areas without visible TPI\u2010positive tags. After applying an additional PFA application to ensure a circumferential TPI function\u2010on tags, a voltage map was created using a multielectrode catheter, and the rate of residual potentials was compared.\n                  \n                  \n                    Results\n                    Using an activated TPI function\u2010guided PFA strategy, a first pass isolation was successfully achieved in 90% of patients (54/60) and in 97.1% of pulmonary veins (231/238). Multielectrode catheter mapping revealed residual antrum potentials in some cases, necessitating additional PFA applications in 3.8% of the pulmonary vein antrum (9/238).\n                  \n                  \n                    Conclusion\n                    Activated TPI function\u2010guided PFA was associated with a low incidence of residual PV potentials, suggesting its potential utility to improve lesion continuity and procedural efficacy.",
-    "summary": "This prospective observational study (n=60) evaluated pulmonary vein isolation using a variable-loop circular pulsed-field ablation catheter with real-time Tissue Proximity Indication guidance, demonstrating 90% first-pass isolation success and only 3.8% residual potential rates in the PV antrum. The TPI-guided approach appears to improve lesion continuity and reduce the need for additional ablation applications."
-  },
-  {
-    "title": "Mediastinal Air Entrapment During Extravascular ICD Implantation: A Preventable Cause of Elevated Shock Impedance",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70426?af=R",
-    "doi": "10.1111/jce.70426",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 30, 2026",
-    "date_ts": 1782845158.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Elevated shock impedance during extravascular implantable cardioverter\u2010defibrillator (EV\u2010ICD) implantation may preclude defibrillation threshold (DFT) testing despite appropriate retrosternal lead position. We describe suspected mediastinal air entrapment as a reversible mechanism and a simple preventive strategy.\n                  \n                  \n                    Methods and Results\n                    \n                      During early EV\u2010ICD implantation experience, two patients developed shock impedance &gt;\u2009200 \u03a9 immediately after retrosternal lead placement, with associated sensing abnormalities. Lead repositioning did not normalize impedance, no pneumothorax was identified, and DFT testing was deferred. Shock impedance normalized spontaneously within 1\u20132 days, permitting successful DFT testing without lead revision. Transient mediastinal air entrapment along the defibrillation vector was suspected. A procedural modification was adopted in which 5\u201310\u2009cm H\n                      2\n                      O positive end\u2010expiratory pressure was applied immediately before retrosternal introducer removal, followed by prompt EV\u2010ICD lead advancement. Among five consecutive subsequent implantations using this approach, initial shock impedance remained within the expected range, permitting immediate DFT testing without lead repositioning or delay.\n                    \n                  \n                  \n                    Conclusion\n                    Transient mediastinal air entrapment may cause elevated shock impedance during EV\u2010ICD implantation. Positive end\u2010expiratory pressure during introducer removal may mitigate this complication and facilitate reliable intraoperative DFT testing.",
-    "summary": "This case series of 7 EV-ICD implantations describes transient mediastinal air entrapment as a reversible cause of elevated shock impedance that prevented intraoperative defibrillation threshold testing, which was successfully prevented using positive end-expiratory pressure applied during retrosternal introducer removal. The preventive strategy normalized initial shock impedance in 5 consecutive subsequent procedures, permitting immediate defibrillation threshold testing without lead revision or delay."
-  },
-  {
-    "title": "Influence of High\u2010Frequency Low\u2010Tidal Volume Versus Jet Ventilation on Acute and Long\u2010Term Outcomes Following Pulmonary Vein Isolation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70422?af=R",
-    "doi": "10.1111/jce.70422",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 30, 2026",
-    "date_ts": 1782845100.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Use of high\u2010frequency low\u2010tidal volume (HFLTV) and high\u2010frequency jet ventilation (HFJV) during pulmonary vein isolation (PVI) improves acute procedural success and long\u2010term outcomes compared to conventional ventilation. However, the impact of HFLTV compared to HFJV on acute and long\u2010term outcomes is unknown.\n                  \n                  \n                    Methods\n                    We prospectively identified 1039 patients who underwent first\u2010time PVI or PVI with posterior wall isolation (PWI) at our institution between 2022 and 2024 with HFLTV or HFJV. Acute procedural and safety outcomes were analyzed. Twelve\u2010month arrhythmia\u2010free survival was evaluated using the Kaplan\u2010Meier and Cox proportional hazards method.\n                  \n                  \n                    Results\n                    \n                      After excluding 44 patients who required discontinuation of HFJV, 860 patients receiving HFJV were compared with 179 receiving HFLTV ventilation. Mean age was 65 years, 93% were White, 30% female and 53% had paroxysmal AF. First\u2010pass isolation (FPI) rates were similar between ventilation strategies. HFLTV was associated with a higher rate of intraprocedural hypotension (31% vs 23%,\n                      p\n                      \u2009=\u20090.02). Complications were generally minor and comparable between groups. Arrhythmia recurrence rates at 12 months were similar (HR: 0.89,\n                      p\n                      \u2009=\u20090.55). There was a trend toward improved outcomes when FPI was achieved for both pulmonary veins in either group.\n                    \n                  \n                  \n                    Conclusion\n                    In this observational cohort, no significant differences in acute procedural outcomes, safety outcomes, or long\u2010term arrhythmia recurrence were observed between HFLTV and HFJV. Given the specialized equipment and operator training required for HFJV and its non\u2010negligible rate of discontinuation, HFLTV may offer a modest practical advantage in routine clinical practice.",
-    "summary": "This prospective observational study of 1,039 patients undergoing pulmonary vein isolation compared high-frequency low-tidal volume (HFLTV) versus high-frequency jet ventilation (HFJV) and found no significant differences in acute procedural success, safety outcomes, or 12-month arrhythmia recurrence rates, though HFLTV was associated with higher intraprocedural hypotension and may offer practical advantages given HFJV's equipment requirements and discontinuation rate."
-  },
-  {
-    "title": "Long\u2010Term Serial Exercise Stress Testing in Catecholaminergic Polymorphic Ventricular Tachycardia on Beta\u2010Blocker and Flecainide Therapy",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70429?af=R",
-    "doi": "10.1111/jce.70429",
-    "journal": "J Cardiovasc EP",
-    "date": "Jun 30, 2026",
-    "date_ts": 1782844915.0,
-    "tags": [
-      "VT",
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Catecholaminergic polymorphic ventricular tachycardia (CPVT) is a potentially life\u2010threatening arrhythmic disorder typically treated with beta\u2010blockers and, occasionally, with flecainide.\n                  \n                  \n                    Methods\n                    All patients underwent genetic testing, electrocardiogram, echocardiogram, and exercise testing. Ventricular arrhythmias were assessed using qualitative and quantitative scoring systems. Flecainide dosing was progressively titrated, and follow\u2010up extended from 2007 to 2024.\n                  \n                  \n                    Results\n                    \n                      Among 235 genetically confirmed carriers of the RyR2 (ryanodine receptor 2) p.Gly357Ser mutation, 32 required combination therapy with beta\u2010blockers and flecainide (age at diagnosis 18 [1\u201355] years; age at flecainide initiation 32 [15\u201366] years; 50% male). Forty\u2010seven percent had an implantable cardioverter defibrillator (ICD). Flecainide was indicated for exercise\u2010induced ventricular arrhythmias despite beta\u2010blocker therapy, and the median treatment duration was 7.3 years. All patients received propranolol (median dose 65\u2009mg/day). Flecainide (median dose 100\u2009mg/day) was well tolerated, with no syncope or stress\u2010induced symptoms. Before flecainide, five patients (16%) experienced ventricular arrhythmic events recorded by the ICD, including two requiring appropriate shocks; no events occurred after treatment initiation. Both qualitative (2.07\u2009\u00b1\u20090.77 vs. 1.22\u2009\u00b1\u20091.08,\n                      p\n                      \u2009&lt;\u20090.001) and quantitative (69.78\u2009\u00b1\u200983.17 vs. 15.29\u2009\u00b1\u20095.53,\n                      p\n                      \u2009&lt;\u20090.001) arrhythmic scores improved significantly. Additionally, maximum heart rate and the percentage of age\u2010predicted maximum heart rate were significantly reduced, while metabolic equivalents increased significantly (12.3\u2009\u00b1\u20093.8 vs. 14.7\u2009\u00b1\u20097.5;\n                      p\n                      \u2009=\u20090.010).\n                    \n                  \n                  \n                    Conclusion\n                    In CPVT patients, the addition of flecainide to beta\u2010blocker therapy was associated with a significant reduction in arrhythmic burden and improvement in exercise\u2010related parameters during long\u2010term follow\u2010up.",
-    "summary": "This retrospective cohort study of 32 RyR2 p.Gly357Ser mutation carriers with CPVT demonstrated that flecainide added to propranolol therapy significantly reduced exercise-induced ventricular arrhythmias (qualitative score 2.07 vs. 1.22, p<0.001; quantitative score 69.78 vs. 15.29, p<0.001) with no syncope or arrhythmic events during median 7.3-year follow-up. The combination regimen was well-tolerated and improved exercise capacity while reducing heart rate response to stress."
   }
 ]
