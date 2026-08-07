@@ -1,5 +1,126 @@
 [
   {
+    "title": "Photoplethysmography for Heart Rate and Rhythm Monitoring: Current Evidence and Clinical Applications",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006420?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Aug 07, 2026",
+    "date_ts": 1786068081.015898,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "V-V-A Response in Fast-Slow AVNRT With a Bystander Concealed Nodoventricular Pathway",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005852?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Aug 07, 2026",
+    "date_ts": 1786068081.015867,
+    "tags": [
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Successful Ablation of a Posteroseptal Accessory Pathway in a Right Ventricular Diverticulum",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600650X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Aug 07, 2026",
+    "date_ts": 1786068081.015831,
+    "tags": [
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Subcutaneous Implantable Cardioverter-Defibrillator Therapy in Women",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005657?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Aug 07, 2026",
+    "date_ts": 1786068081.015801,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Stereotactic Arrhythmia Radioablation of Recurrent Ventricular Tachycardia in Structural Heart Disease: Results of the Aborted STAR-VT-2020 Randomized Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006547?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Aug 07, 2026",
+    "date_ts": 1786068081.015762,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Magnetocardiography for Arrhythmic Risk: A New Signal, or a New View of an Old One?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006493?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Aug 07, 2026",
+    "date_ts": 1786068081.015724,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical Implications of Transmural Late Gadolinium Enhancement in Genotype-Positive Arrhythmogenic and Dilated Cardiomyopathy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005785?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Aug 07, 2026",
+    "date_ts": 1786068081.015658,
+    "tags": [
+      "Genetics",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Inappropriate Sinus Tachycardia: Retrospective Analysis of a Single-Center Longitudinal Cohort Yielding Novel Clinical Diagnostic Criteria - the Fort Worth IST Score (FWIST)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003533?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Aug 07, 2026",
+    "date_ts": 1786068080.897913,
+    "tags": [
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Early Experience in Extravascular Implantable Cardioverter-defibrillator implantation in Pediatric and Adolescent Patients: Procedure Adaptations and Short-Term Outcomes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600303X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Aug 07, 2026",
+    "date_ts": 1786068080.897843,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Body mass index, acute atrial fibrillation termination, and long-term recurrence after catheter ablation for persistent atrial fibrillation: insights from a large contemporary cohort",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026627?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 07, 2026",
+    "date_ts": 1786068080.796429,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Characterization of Myocardial Immune Cell Infiltrates in Desmoplakin Cardiomyopathy: Insights From Explanted Hearts",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003521?dgcid=rss_sd_all",
     "doi": null,
@@ -96,6 +217,20 @@
     "hot": false
   },
   {
+    "title": "Isochronal Versus Electrogram-Based Conduction Velocity Estimation to Predict Inducible Monomorphic Ventricular Tachycardia in Repaired Tetralogy of Fallot",
+    "link": "https://doi.org/10.1161/circep.125.014548",
+    "doi": "10.1161/circep.125.014548",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Aug 06, 2026",
+    "date_ts": 1785974400.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    Isthmus conduction velocity (CV) predicts ventricular tachycardia risk in tetralogy of Fallot and traditionally is calculated using electrogram-based methods (electrogram CV index [EGM-CVi]). Isochronal activation mapping approximates CV in adults with ischemic and nonischemic cardiomyopathy but has never been tested in congenital heart disease populations. Our objectives were to (1) investigate the diagnostic performance of isochronal CV index (ISO-CVi) in predicting inducible ventricular tachycardia and (2) compare it to traditional EGM-CVi in a population of patients with repaired tetralogy of Fallot undergoing electrophysiology study before transcatheter pulmonary valve replacement.\n                  \n                  \n                    METHODS:\n                    Retrospective cohort subanalysis of the CATAPULT-TOF registry (Catheter Ablation of Ventricular Tachycardia Before Transcatheter Pulmonary Valve Replacement in Repaired Tetralogy of Fallot). The primary outcome was inducible monomorphic ventricular tachycardia (MMVT) at electrophysiology study. Predictor variables were ISO-CVi and EGM-CVi. Electroanatomic activation maps profiling anatomic isthmus 3 were centrally adjudicated to measure anatomic isthmus 3 ISO-CVi; real-world anatomic isthmus 3 EGM-CVi values reported by contributing centers per the parent registry protocol were used as the comparator. Multivariable logistic regression and receiver operating characteristic analyses quantified associations between predictors and outcomes.\n                  \n                  \n                    RESULTS:\n                    \n                      Seventy patients with tetralogy of Fallot underwent pretranscatheter pulmonary valve replacement electrophysiology study at a median age of 40 (interquartile range, 24.8\u201351) years. Inducible MMVT was observed in 24 (34%). Median ISO-CVi was lower in those with versus without MMVT (0.17 versus 0.30 m/s;\n                      P\n                      &lt;0.001). Median EGM-CVi did not differ between groups (0.43 versus 0.70 m/s;\n                      P\n                      =0.055). Coefficients of variation were higher for EGM-CVi (79%) than ISO-CVi (45%). On multivariable analysis, ISO-CVi was associated with MMVT (odds ratio, 0.14 [95% CI, 0.04\u20130.40];\n                      P\n                      =0.0009) with a sensitivity and specificity of 88% and 70%, respectively, at a threshold of 0.22 m/s.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    ISO-CVi strongly associates with inducible MMVT and is measured with less variability than legacy EGM-CVi methods in a real-world sample. If external validity is confirmed, ISO-CVi may represent a more standardized method of isthmus CV estimation that could be broadly implemented across centers.",
+    "summary": "This retrospective cohort study of 70 patients with repaired tetralogy of Fallot found that isochronal conduction velocity index (ISO-CVi) demonstrated superior diagnostic performance for predicting inducible monomorphic ventricular tachycardia (sensitivity 88%, specificity 70%) compared to traditional electrogram-based methods, with lower measurement variability and stronger statistical association. ISO-CVi may offer a more standardized, reproducible approach to assessing arrhythmia risk in this population pending external validation."
+  },
+  {
     "title": "Atrial fibrillation in athletes: you can\u2019t start a fire without a spark",
     "link": "https://doi.org/10.1093/eurheartj/ehag560",
     "doi": "10.1093/eurheartj/ehag560",
@@ -118,6 +253,34 @@
       "Genetics"
     ],
     "hot": false
+  },
+  {
+    "title": "Early\u2010Stage Esophago\u2010Mediastinal Fistula After Atrial Fibrillation Radiofrequency Ablation Successfully Treated With Endoscopic Vacuum Therapy",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70473?af=R",
+    "doi": "10.1111/jce.70473",
+    "journal": "J Cardiovasc EP",
+    "date": "Aug 05, 2026",
+    "date_ts": 1785941648.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Esophageal injury is a rare but potentially fatal complication of atrial fibrillation ablation, predominantly associated with thermal energy sources.\n                  \n                  \n                    Case Summary\n                    A 37\u2010year\u2010old man developed an esophago\u2010mediastinal fistula after radiofrequency ablation for atrial fibrillation. An esophageal ulcer detected on routine post\u2010ablation endoscopy progressed despite conservative management. Endoscopic vacuum therapy was instituted for 5 days, followed by endoscopic clip closure, resulting in complete healing without surgical intervention.\n                  \n                  \n                    Conclusion\n                    This case underscores the value of post\u2010ablation esophageal surveillance and demonstrates endoscopic vacuum therapy as an effective, minimally invasive option for managing esophageal perforation after radiofrequency ablation.",
+    "summary": "This case report describes a 37-year-old man who developed an esophago-mediastinal fistula following radiofrequency ablation for atrial fibrillation, which was successfully managed with endoscopic vacuum therapy followed by clip closure, avoiding surgical intervention. The case highlights the importance of post-ablation esophageal surveillance and demonstrates endoscopic vacuum therapy as an effective minimally invasive alternative to surgery for radiofrequency ablation-related esophageal perforation."
+  },
+  {
+    "title": "Comparative Analysis of Safety Profiles of Pulsed Field and Thermal Energy Atrial Fibrillation Ablation: Insight From the Multicenter Real\u2010World Ablation Registry",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70474?af=R",
+    "doi": "10.1111/jce.70474",
+    "journal": "J Cardiovasc EP",
+    "date": "Aug 05, 2026",
+    "date_ts": 1785941581.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Beginning in September 2024, three large\u2010footprint pulsed\u2010field ablation (PFA) systems were introduced in Japan for atrial fibrillation (AF) ablation.\n                  \n                  \n                    Objective\n                    To compare acute procedural outcomes and safety profiles between PFA and thermal ablation.\n                  \n                  \n                    Methods\n                    This multi\u2010center observational study included 4969 consecutive index AF ablation procedures (69\u2009\u00b1\u200911 years, 1495 women, 2705 paroxysmal) performed between January 2024 and July 2025. Among them, 2817 and 2152 procedures were performed with thermal ablation and PFA (FARAPULSE 53.3%, PulseSelect 41.3%, and VARIPULSE 5.5%), respectively.\n                  \n                  \n                    Results\n                    \n                      PFA procedures were performed under deeper sedation (70.5% deep sedation) compared with thermal ablation. The total PFA application numbers were 50\u2009\u00b1\u200913 for FARAPULSE, 49\u2009\u00b1\u200913 for PulseSelect, and 24\u2009\u00b1\u20098.5 for VARIPULSE. Touch\u2010up ablation for pulmonary veins was more frequently required with balloon\u2010based thermal ablation than with PFA (7.2% vs. 1.5%,\n                      p\n                      \u2009&lt;\u20090.01). Adjunctive posterior wall isolation was more common in the PFA\u2010group than Thermal\u2010group (30.3% vs. 11.4%,\n                      p\n                      \u2009&lt;\u20090.01). Fluoroscopy time was significantly longer (27.8\u2009\u00b1\u200917.1 vs. 24.9\u2009\u00b1\u200917.6\u2009min,\n                      p\n                      \u2009&lt;\u20090.01) and total procedure time significantly shorter in the PFA\u2010group than Thermal\u2010group (106\u2009\u00b1\u200948.5 vs. 131\u2009\u00b1\u200954.4\u2009min,\n                      p\n                      \u2009&lt;\u20090.01). The overall complication rate (2.4% vs. 4.4%,\n                      p\n                      \u2009&lt;\u20090.01) and phrenic nerve palsy rate (0.1% vs. 1.5%,\n                      p\n                      \u2009&lt;\u20090.01) were significantly lower, while coronary spasms tended to be more frequent in the PFA\u2010group. No gastric hypomotility or pericarditis occurred in the PFA\u2010group despite much lower use of esophageal temperature monitoring (3.2% vs. 83.1%,\n                      p\n                      \u2009&lt;\u20090.01).\n                    \n                  \n                  \n                    Conclusions\n                    This large real\u2010world registry demonstrated a significantly lower incidence of procedure\u2010related complications with large\u2010footprint PFA devices compared with thermal ablation systems, despite early\u2010phase adoption.",
+    "summary": "This multi-center observational study of 4,969 consecutive AF ablation procedures (2,817 thermal vs. 2,152 PFA) demonstrated that pulsed-field ablation resulted in significantly lower overall complication rates (2.4% vs. 4.4%) and phrenic nerve palsy (0.1% vs. 1.5%) compared with thermal ablation, with shorter procedural times despite requiring more fluoroscopy time and less esophageal temperature monitoring. Touch-up ablation was less frequently needed with PFA (1.5% vs. 7.2%), though coronary spasm occurred more commonly in the PFA group."
   },
   {
     "title": "Bachmann\u2019s Bundle Pacing: A Physiologic \"Fast-Track\" to Optimized Atrial Activation",
@@ -503,6 +666,31 @@
     "date_ts": 1785548681.140339,
     "tags": [
       "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Successfully Ablated Marshall Bundle-Related Perimitral Atrial Flutter using Pulsed-Field Ablation",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.027",
+    "doi": "10.1016/j.hrcr.2026.07.027",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "SCN5A mutation \u2013 associated atrial cardiomyopathy unmasked by atrial flutter",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.029",
+    "doi": "10.1016/j.hrcr.2026.07.029",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "AFib",
+      "Genetics"
     ],
     "hot": false
   },
@@ -6089,190 +6277,6 @@
     "tags": [
       "VT",
       "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Mechanical septal debulking to enable left bundle branch pacing through dense septal scar: a bailout technique.",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.07.003",
-    "doi": "10.1016/j.hrcr.2026.07.003",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Radiofrequency ablation with a conventional solid tip catheter in contact with an ICD coil causing inadvertent ventricular fibrillation",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.041",
-    "doi": "10.1016/j.hrcr.2026.06.041",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "VT",
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Timely transmission of alert events and prompt management of ventricular arrhythmias using app-based remote monitoring in a patient with cardiac implantable electronic devices",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.039",
-    "doi": "10.1016/j.hrcr.2026.06.039",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Diffuse involvement of the cardiac electrical system in hereditary hemochromatosis: insights from high-density atrial mapping",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.07.002",
-    "doi": "10.1016/j.hrcr.2026.07.002",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "TRANSATRIAL AIR\u2013ASSISTED EPICARDIAL VT ABLATION FOR HYPERTROPHIC CARDIOMYOPATHY AND MANAGEMENT OF POST-PROCEDURAL RIGHT ATRIAL THROMBUS",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.040",
-    "doi": "10.1016/j.hrcr.2026.06.040",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "VT",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Risks of discontinuation of anticoagulation after atrial fibrillation ablation in high-risk patients",
-    "link": "https://doi.org/10.1093/europace/euag154",
-    "doi": "10.1093/europace/euag154",
-    "journal": "EP Europace",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Monitoring of ventricular rate in atrial fibrillation patients through an app based on pulse-plethysmography",
-    "link": "https://doi.org/10.1093/europace/euag161",
-    "doi": "10.1093/europace/euag161",
-    "journal": "EP Europace",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical outcomes of continuing vs. discontinuing oral anticoagulation after atrial fibrillation ablation: an updated systematic review and meta-analysis of observational studies and randomized controlled trials",
-    "link": "https://doi.org/10.1093/europace/euag104",
-    "doi": "10.1093/europace/euag104",
-    "journal": "EP Europace",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Aims\n                    Continuation of oral anticoagulation (OAC) after successful atrial fibrillation (AF) ablation remains debated. With recent randomized controlled trials addressing this question, an updated meta-analysis is needed to inform clinical decision-making.\n                  \n                  \n                    Methods and results\n                    A comprehensive search of PubMed/MEDLINE, Embase, Web of Science, and Scopus was performed through 24 November 2025, to identify studies comparing clinical outcomes in patients who continued vs. discontinued OAC after AF catheter ablation. Overall, continuing OAC was not significantly associated with the risk of stroke/TIA (OR: 1.48, 95% CI: 0.84\u20132.60; P = 0.16). However, when stratified by CHA2DS2-VASc score, patients with scores \u22652 had a significantly lower risk of stroke/TIA with OAC continuation (OR: 0.42, 95% CI: 0.18\u20130.95; P = 0.04). This protective effect was further supported in studies with well-balanced baseline risk between groups, where OAC continuation was associated with a significantly lower risk of stroke/TIA (OR: 0.50, 95% CI: 0.34\u20130.72; P &amp;lt; 0.01). Conversely, OAC continuation significantly increased the risk of major bleeding. No significant association was observed for major adverse cardiac events or all-cause mortality.\n                  \n                  \n                    Conclusion\n                    In patients with CHA2DS2-VASc scores \u22652, particularly when baseline risk is well-balanced between groups, continuation of OAC after AF ablation is associated with a significantly lower risk of stroke/TIA. These findings support continuing OAC in higher-risk patients (CHA2DS2-VASc \u22652). However, given the significantly increased risk of major bleeding associated with OAC continuation, the decision to continue anticoagulation in lower-risk patients requires careful consideration, as no clear thromboembolic benefit was observed in this population.",
-    "summary": "This meta-analysis of randomized controlled trials comparing OAC continuation versus discontinuation after AF ablation found that while overall stroke/TIA risk was not significantly reduced with continuation, patients with CHA2DS2-VASc scores \u22652 demonstrated significantly lower stroke/TIA risk with continued OAC (OR 0.42), though this was offset by increased major bleeding risk. The findings support OAC continuation in higher-risk patients but suggest discontinuation may be appropriate in lower-risk populations given the bleeding-benefit tradeoff."
-  },
-  {
-    "title": "Transcatheter Suture Embolization for Ventricular Premature Beats Originating from the Distal Great Cardiac Vein: A Case Report",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.07.001",
-    "doi": "10.1016/j.hrcr.2026.07.001",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Insulin-treated type 2 diabetes is associated with increased mortality after transvenous lead extraction for device infection: the IN2DEEP study",
-    "link": "https://doi.org/10.1093/europace/euag147",
-    "doi": "10.1093/europace/euag147",
-    "journal": "EP Europace",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Implantation of an Extravascular ICD in a Patient with Retrosternal Adhesions from Epicardial Leads Implanted via a Subxiphoid Approach",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.037",
-    "doi": "10.1016/j.hrcr.2026.06.037",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Arrhythmogenic Right Ventricular Cardiomyopathy With Left Ventricular Noncompaction: A Phenotypic Overlap With High Arrhythmic Risk",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.034",
-    "doi": "10.1016/j.hrcr.2026.06.034",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Epicardial PFA at VT Isthmus over Coronary Artery with a Novel Dual Energy Focal Catheter",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.038",
-    "doi": "10.1016/j.hrcr.2026.06.038",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Delayed reconnection of the posterior wall inferior line after biatrial Cox-Maze IV despite previously confirmed bidirectional block",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.036",
-    "doi": "10.1016/j.hrcr.2026.06.036",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Rocky Mountain Spotted Fever Presenting with Complete Heart Block: A Rare Manifestation of Rickettsial Disease",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.035",
-    "doi": "10.1016/j.hrcr.2026.06.035",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
