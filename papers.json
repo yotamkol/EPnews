@@ -1,5 +1,77 @@
 [
   {
+    "title": "Long-term performance of VDD vs. VVI ICD leads: a single-manufacturer analysis based on product performance report",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003570?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Aug 08, 2026",
+    "date_ts": 1786149891.703559,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Non-invasive Vagus Nerve Stimulation in Patients Undergoing Electrophysiological Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003569?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Aug 08, 2026",
+    "date_ts": 1786149891.703519,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pharmacist Management of Oral Anticoagulation for Atrial Fibrillation in the Community The APOTHECARY AF Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600317X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Aug 08, 2026",
+    "date_ts": 1786149891.703449,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Potential anatomical impact on steam pop risk with the Sphere 9 lattice-tip catheter.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026597?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 08, 2026",
+    "date_ts": 1786149891.626963,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Association of Angiotensin Receptor Neprilysin Inhibitors Duration with Latent Remodeling Following Implantable Cardioverter Defibrillator Implantation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026561?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 08, 2026",
+    "date_ts": 1786149891.626917,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Arrhythmias in d-Transposition of the great arteries after Mustard- or Senning-type atrial redirection surgery \u2013 22 years of experience in catheter ablation and follow-up",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026639?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 08, 2026",
+    "date_ts": 1786149891.626721,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Photoplethysmography for Heart Rate and Rhythm Monitoring: Current Evidence and Clinical Applications",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006420?dgcid=rss_sd_all",
     "doi": null,
@@ -666,6 +738,31 @@
     "date_ts": 1785548681.140339,
     "tags": [
       "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Premature Battery Depletion of an Insertable Cardiac Monitor: A Two-Patient Case Series",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.030",
+    "doi": "10.1016/j.hrcr.2026.07.030",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Smartwatch detection of supraventricular tachycardia missed by an implantable loop recorder",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.031",
+    "doi": "10.1016/j.hrcr.2026.07.031",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "VT",
+      "SVT"
     ],
     "hot": false
   },
@@ -6175,108 +6272,6 @@
     "date_ts": 1782864000.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Takotsubo syndrome complicated by dynamic left ventricular outflow tract obstruction after left bundle branch area pacing",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.03.017",
-    "doi": "10.1016/j.hrcr.2026.03.017",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Left bundle branch area pacing (LBBAP) has emerged as a physiologic pacing strategy that better preserves ventricular synchrony compared with traditional right ventricular pacing (RVP).1,2 By engaging the native conduction system, LBBAP is associated with narrower QRS duration and improved hemodynamic performance.3,4 Although generally safe, the transseptal lead approach carries procedure-specific risks,5-7 including septal injury, coronary trauma, and rare stress-related cardiomyopathy. Takotsubo syndrome (TTS) has been reported after pacemaker implantation,8 including LBBAP.",
-    "summary": "This retrospective case series describes the rare complication of Takotsubo syndrome following left bundle branch area pacing (LBBAP), a physiologic pacing modality that preserves ventricular synchrony better than traditional right ventricular pacing through engagement of the native conduction system. While LBBAP offers hemodynamic advantages with narrower QRS duration, clinicians should be aware of stress-related cardiomyopathy as a potential procedure-specific complication associated with the transseptal lead approach."
-  },
-  {
-    "title": "Endothelial disruption: A new complication during pulsed field ablation using a pentaspline catheter",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.01.019",
-    "doi": "10.1016/j.hrcr.2026.01.019",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A case of superior vena cava reentrant atrial tachycardia after pulmonary vein isolation with pentaspline pulsed field ablation",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.03.016",
-    "doi": "10.1016/j.hrcr.2026.03.016",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Vagally mediated syncope leading to disabling of high-pass filter and inappropriate therapy from an S-ICD: A case report",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.03.018",
-    "doi": "10.1016/j.hrcr.2026.03.018",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "Subcutaneous ICD (S-ICD) has several advantages in younger patient populations due to the absence of intracardiac and transvenous hardware. It is therefore critical for the modern-day physician to understand clinical factors which may lead to inappropriate device function in these ICD technologies.",
-    "summary": "This narrative review examines clinical factors affecting S-ICD performance in younger patients, highlighting the device's advantages of avoiding intracardiac and transvenous hardware while identifying key considerations for appropriate device function in this population."
-  },
-  {
-    "title": "Low defibrillation threshold in pediatric patients with subcutaneous implantable cardioverter defibrillator: Implications for a smaller generator?",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.03.021",
-    "doi": "10.1016/j.hrcr.2026.03.021",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A tailored, left ventricular\u2013only pacing cardiac resynchronization programming strategy for transient left bundle branch block facilitated by Bachmann bundle atrial pacing",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.04.023",
-    "doi": "10.1016/j.hrcr.2026.04.023",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transient Low-Voltage Area Regression After Pulsed-Field Ablation Using a Lattice-tip Catheter",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.07.006",
-    "doi": "10.1016/j.hrcr.2026.07.006",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Ventricular Fibrillation Treated by an Implantable Cardioverter-Defibrillator in Anti-Mitochondrial M2 Antibody-Positive Myocarditis",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.07.004",
-    "doi": "10.1016/j.hrcr.2026.07.004",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "VT",
-      "Devices"
     ],
     "hot": false
   }
