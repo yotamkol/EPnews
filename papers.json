@@ -85,6 +85,20 @@
     "hot": false
   },
   {
+    "title": "Prevalence and Periprocedural Value of Current of Injury at the Implantation of a Passive Fixation Leadless Pacemaker",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70338?af=R",
+    "doi": "10.1111/pace.70338",
+    "journal": "PACE",
+    "date": "Aug 08, 2026",
+    "date_ts": 1786206062.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background\n                    Current of injury (COI) predicts stability and acute improvement in electrical parameters in transvenous pacing or high\u2010voltage leads; however, the periprocedural value of this marker in leadless pacemakers (LLPs) is unknown.\n                  \n                  \n                    Methods\n                    From March 2021 to October 2022, 66 consecutive Micra LLP pacemaker candidates were enrolled. Electrograms (EGMs) and electrical measures were acquired immediately after the deployment and 5\u00a0min after. The primary outcomes were an acute reduction in pacing threshold and, conversely, a need for device repositioning.\n                  \n                  \n                    Results\n                    \n                      Fifty\u2010one patients were included in the final analysis after excluding poor\u2010quality EGMs and pacemaker\u2010dependent cases (\n                      n\n                      = 15). COI was identified in 32 (62%). There were no differences in the initial electrical measures between the COI+ and COI\u2212 groups (\n                      p\n                      value = 0.33, 0.37, 0.89 for impedance, pacing threshold, and sensing, respectively). Notably, the capture threshold significantly improved only in the COI+ group within 5 min (\n                      p\n                      = 0.002). A subgroup analysis of COI+ revealed that the saddleback type of injury (Type 2) was associated with a more significant acute reduction in the capture threshold (\n                      p\n                      = 0.02). Repositioning occurred in three subjects, and acute dislodgment at the tug\u2010test occurred in two patients, all from the COI\u2013 group.\n                    \n                  \n                  \n                    Conclusions\n                    COI is associated with an acute improvement of capture threshold, particularly when a Type 2 pattern is noted. The absence of injury, in contrast, could reflect inadequate fixation and a need for repositioning.",
+    "summary": "This prospective observational study of 51 Micra leadless pacemaker candidates found that current of injury (COI) on electrograms predicted acute reduction in capture threshold at 5 minutes post-deployment (p=0.002), with Type 2 saddleback pattern showing the most significant improvement, while absence of COI was associated with need for repositioning or acute dislodgment. These findings suggest COI is a valuable periprocedural marker for assessing lead stability and adequacy of fixation in leadless pacemakers."
+  },
+  {
     "title": "Long-term performance of VDD vs. VVI ICD leads: a single-manufacturer analysis based on product performance report",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003570?dgcid=rss_sd_all",
     "doi": null,
@@ -6263,20 +6277,5 @@
       "Other"
     ],
     "hot": false
-  },
-  {
-    "title": "Histological evaluation of clinically defined atrial cardiomyopathy stages and their association with atrial fibrillation burden under continuous monitoring for a 2.5-year follow-up",
-    "link": "https://doi.org/10.1093/europace/euag146",
-    "doi": "10.1093/europace/euag146",
-    "journal": "EP Europace",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "AFib",
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Atrial cardiomyopathy (AtCM) is associated with atrial fibrillation (AF). While histological studies describe underlying mechanisms of AtCM, these insights remain disconnected from clinical AtCM. This study determines the histological basis of non-invasive AtCM markers and assess their prognostic value in patients undergoing cardiac surgery.\n                  \n                  \n                    Methods and results\n                    Left and right (LA/RA) atrial tissue samples were obtained in patients undergoing cardiac surgery (n = 136) in the RACE V Tissue Bank study. Pre-operative rhythm history, digital ECG, transthoracic echocardiography (TTE) and biomarker levels were used to group patients in AtCM stages: AF: history of paroxysmal, persistent or permanent AF, Severe (LAVi&amp;gt;50 mL/m2 or LAEF&amp;lt;35%), Moderate (LAVi 34\u201350 mL/m2, or LAEF 35\u201350% AND NT-proBNP &amp;gt;250 pg/mL), Mild (no AF, LAVi\u226434 mL/m2 AND P-terminal Force V1 &amp;gt; 5 mV*ms OR P wave duration &amp;gt; 120 ms), and no AtCM. Tissue was stained (WGA/CD31/Vimentin) to quantify fibrosis, fibroblast density, myocyte diameter and vascularization. Post-operative rhythm was monitored continuously (2.5 years) using implantable loop recorders. Patients with severe AtCM had extended endomysial fibrosis (LA: +0.82\u00b5m, pFDR,LA &amp;lt; 0.001; RA: +0.64\u00b5m, pFDR,RA = 0.010) and larger left atrial cardiomyocytes (LA: +0.92\u00b5m, pFDR,LA = 0.026). Moderate AtCM patients showed LA myocyte hypertrophy (LA: +1.35\u00b5m, pFDR,LA = 0.007). Mild AtCM patients had similar histological features to patients without AtCM. Moderate (\u03b2 = 3.56, pFDR = 0.045) and severe (\u03b2 = 3.74, pFDR = 0.034) AtCM patients had a higher AF burden late after cardiac surgery.\n                  \n                  \n                    Conclusion\n                    Clinical AtCM markers reflect pro-fibrotic and pro-hypertrophic remodelling in the moderate to severe AtCM stages and are associated with a higher AF burden late after surgery.",
-    "summary": "This prospective observational study (n=136) from the RACE V Tissue Bank examined the histological basis of non-invasive atrial cardiomyopathy (AtCM) markers by correlating atrial tissue samples obtained during cardiac surgery with pre-operative clinical staging and post-operative AF burden tracked over 2.5 years. Moderate and severe AtCM stages demonstrated significant endomysial fibrosis and myocyte hypertrophy, which were independently associated with higher AF burden after surgery, validating clinical AtCM markers as reflections of underlying structural remodeling."
   }
 ]
