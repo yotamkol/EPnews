@@ -1,5 +1,69 @@
 [
   {
+    "title": "Occupational Radiation Safety in Electrophysiology During Pregnancy: Evaluating Uterine Radiation Doses During Catheter Ablations and Device Implantations",
+    "link": "https://doi.org/10.1161/circulationaha.126.080556",
+    "doi": "10.1161/circulationaha.126.080556",
+    "journal": "Circulation",
+    "date": "Aug 11, 2026",
+    "date_ts": 1786406400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Response by Rogers et al to Letter Regarding, \u201cDeep Learning-Based Continuous QT Monitoring to Identify High-Risk Prolongation Events After Class III Antiarrhythmic Initiation\u201d",
+    "link": "https://doi.org/10.1161/circulationaha.126.080755",
+    "doi": "10.1161/circulationaha.126.080755",
+    "journal": "Circulation",
+    "date": "Aug 11, 2026",
+    "date_ts": 1786406400.0,
+    "tags": [
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Letter by Li et al Regarding Article, \u201cDeep Learning-Based Continuous QT Monitoring to Identify High-Risk Prolongation Events After Class III Antiarrhythmic Initiation\u201d",
+    "link": "https://doi.org/10.1161/circulationaha.126.079996",
+    "doi": "10.1161/circulationaha.126.079996",
+    "journal": "Circulation",
+    "date": "Aug 11, 2026",
+    "date_ts": 1786406400.0,
+    "tags": [
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The Postcardiac Arrest Inflammatory Response: Mechanisms and Therapeutic Targets",
+    "link": "https://doi.org/10.1161/circulationaha.126.080096",
+    "doi": "10.1161/circulationaha.126.080096",
+    "journal": "Circulation",
+    "date": "Aug 11, 2026",
+    "date_ts": 1786406400.0,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false,
+    "abstract": "Postcardiac arrest syndrome is a complex multisystem disorder that evolves after return of spontaneous circulation and remains a major determinant of morbidity and mortality following out-of-hospital cardiac arrest. Beyond anoxic brain injury and transient myocardial dysfunction, many patients develop a systemic ischemia/reperfusion response with endothelial and microvascular dysfunction, vasoplegia, and immune dysregulation\u2014features that contribute to shock and organ failure. Hemodynamic instability is often mixed with low systemic vascular resistance despite preserved or recovering cardiac output, but management is still largely supportive and centered on achieving a target mean arterial pressure. An increasing understanding of the central role of inflammation, including gastrointestinal barrier disruption, cytokine release, complement activation, nitric oxide\u2013cGMP signaling, and immune phenotypic heterogeneity has prompted evaluation of targeted adjunctive therapies. However, randomized trials of immunomodulators and other vasoactive strategies have yielded mixed results, reflecting biological heterogeneity and limited phenotypic stratification. This review synthesizes contemporary understanding of the inflammatory and hemodynamic mechanisms underpinning postcardiac arrest syndrome, examines current and emerging pharmacologic strategies, and highlights priorities for future investigation, including mechanistic phenotyping, prospective biobanking, and prospective trial requirements to guide more precise management strategies in postcardiac arrest care.",
+    "summary": "This narrative review synthesizes the pathophysiology of postcardiac arrest syndrome, highlighting the central roles of systemic inflammation, endothelial dysfunction, and vasoplegia in determining outcomes, and discusses current and emerging pharmacologic interventions while emphasizing the need for mechanistic phenotyping and biomarker-guided strategies to improve the efficacy of targeted therapies in this heterogeneous patient population."
+  },
+  {
+    "title": "Redefining response to Cardiac Resynchronisation Therapy: A Post-hoc Analysis of the MORE-CRT MPP trial",
+    "link": "https://doi.org/10.1093/europace/euag209",
+    "doi": "10.1093/europace/euag209",
+    "journal": "EP Europace",
+    "date": "Aug 10, 2026",
+    "date_ts": 1786320000.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background\n                    Cardiac resynchronization therapy (CRT) response is commonly assessed at 6 months using left ventricular end-systolic volume (LVESV) and clinical endpoints. Some initial non-responders may improve or stabilize by 12 months.\n                  \n                  \n                    Objectives\n                    To determine outcomes and predictors of echocardiographic response trajectories and evaluate the clinical course of patients who stabilised or deteriorated after 6 months.\n                  \n                  \n                    Methods\n                    This post-hoc analysis of the MORE-CRT MPP trial included patients receiving conventional biventricular pacing only. Patients were classified as non-responders (&amp;lt;15% LVESV reduction at 6 and 12 months), early responders (&amp;gt;15% reduction at 6 months), or delayed responders (&amp;lt;15% reduction at 6 months but &amp;gt;15% at 12 months). Six-month non-responders were further classified as stabilised (LVESV reduction at 12 months) or deteriorated (LVESV increase at 12 months). Heart failure hospitalization (HFH) or death was analysed using restricted mean survival time and adjusted accelerated failure time models.\n                  \n                  \n                    Results\n                    Among 2,732 patients (69.4% male; 62.8% non-ischaemic), event-free survival differed between early, delayed, and non-responders (p&amp;lt;0.001). Non-responders had 52% shorter event-free survival than early responders (p&amp;lt;0.001), and 38% shorter than delayed responders (p=0.025). Early and delayed responders had similar outcomes (p=0.221). Among non-responders, 39.0% stabilised and 61.0% deteriorated; outcomes diverged after 6 months (p&amp;lt;0.001). The deterioration group had 59% shorter event-free survival (p&amp;lt;0.001). Ischaemic aetiology, non-LBBB, and lower baseline LVEF predicted delayed response.\n                  \n                  \n                    Conclusions\n                    Delayed responders demonstrated similarly favourable clinical outcomes to early responders over the duration of follow-up. These findings support 12-month assessment and trajectory-based definitions of CRT response.",
+    "summary": "This post-hoc analysis of the MORE-CRT MPP trial (n=2,732) examined CRT response trajectories and found that delayed responders (>15% LVESV reduction at 12 months but not at 6 months) had similarly favorable outcomes to early responders, while non-responders had 52% shorter event-free survival; notably, among non-responders, those who stabilized had better outcomes than those who deteriorated after 6 months (p<0.001). The findings support extending CRT response assessment to 12 months rather than the standard 6-month evaluation, as some initial non-responders achieve delayed response."
+  },
+  {
     "title": "The Emergence of Sports Electrophysiology: Care of Athletes With Arrhythmias, From the ACC\u2019s Sports and Exercise Cardiology Leadership Council",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005815?dgcid=rss_sd_all",
     "doi": null,
@@ -6215,67 +6279,5 @@
     "hot": false,
     "abstract": "Abstract\n                  \n                    Aims\n                    Randomized trials comparing percutaneous left atrial appendage occlusion (LAAO) with oral anticoagulation (OAC) for stroke prevention in patients with atrial fibrillation have yielded conflicting results across device generations and anticoagulant eras. This Bayesian meta-analysis of randomized trials aimed to compare LAAO vs. OAC for stroke or systemic embolism (SSE) and non-procedural clinically relevant bleeding (CRB).\n                  \n                  \n                    Methods and results\n                    We conducted a systematic search across five databases (PubMed, Embase, Scopus, Web of Science, and Cochrane CENTRAL) to identify randomized trials of LAAO vs. OAC. Primary outcomes of stroke or systemic embolism, non-procedural CRB and clinical benefit composite were estimated using a Bayesian hierarchical random effects model and findings confirmed across robust sensitivity and subgroup analyses. Posterior probabilities for superiority, non-inferiority and equivalence were estimated using clinically meaningful margins. Six randomized trials including 7004 participants in the intention-to-treat groups, were analysed. LAAO was not associated with lower SSE vs. OAC (pooled RR, 1.11; 95% CrI, 0.80\u20131.49), with a 74.6% posterior probability of favouring OAC. The posterior probability of crossing non-inferiority was P(HR &amp;lt; 1.4) of 89%. In contrast, LAAO reduced non-procedural CRB (pooled RR, 0.59; 95% CrI, 0.45\u20130.78). The net clinical benefit composite, pooling contemporary trials, demonstrated a pooled RR of 0.90 (95% CrI 0.51\u20131.50), with P(RR &amp;lt; 1) of 76%, with substantial heterogeneity for this outcome.\n                  \n                  \n                    Conclusion\n                    This Bayesian meta-analysis found no clear evidence supporting clinically meaningful non-inferiority of LAAO over OAC for stroke prevention. Despite reduced non-procedural bleeding, LAAO did not demonstrate a similar reduction in major bleeding.",
     "summary": "This Bayesian meta-analysis of 6 randomized trials (7,004 participants) found that percutaneous left atrial appendage occlusion (LAAO) was not non-inferior to oral anticoagulation for stroke or systemic embolism prevention in atrial fibrillation patients, though LAAO did reduce non-procedural clinically relevant bleeding. The net clinical benefit favored oral anticoagulation despite the bleeding advantage with LAAO."
-  },
-  {
-    "title": "Long-term efficacy and safety of left atrial appendage closure vs. oral anticoagulation in atrial fibrillation: a meta-analysis of randomized controlled trials",
-    "link": "https://doi.org/10.1093/europace/euag159",
-    "doi": "10.1093/europace/euag159",
-    "journal": "EP Europace",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Aims\n                    Left atrial appendage closure (LAAC) has emerged as an alternative to oral anticoagulation (OAC) for stroke prevention in atrial fibrillation (AF), but its long-term comparative efficacy remains uncertain. This systematic review and meta-analysis evaluated randomized controlled trials (RCTs) comparing LAAC with OAC in AF.\n                  \n                  \n                    Methods and results\n                    MEDLINE, Embase, Scopus, and the Cochrane Database of Systematic Reviews were searched through 8 April 2026. Risk ratios (RR) with 95% confidence intervals (CI) were pooled using random-effects models. Certainty of evidence (CoE) was assessed using GRADE. Six RCTs involving 7004 participants were included (3681 assigned to LAAC and 3323 to OAC). Compared with OAC, LAAC resulted in a significantly higher risk of ischaemic stroke or systemic embolism (134 vs. 80 events; RR 1.41, 95% CI 1.07\u20131.86; moderate CoE). No significant differences were observed for any stroke or systemic embolism (RR 1.10, 95% CI 0.87\u20131.39; moderate CoE), all-cause mortality (RR 0.92, 95% CI 0.77\u20131.10; high CoE), cardiovascular mortality (RR 0.90, 95% CI 0.67\u20131.21; moderate CoE), non-cardiovascular mortality (RR 0.92, 95% CI 0.75\u20131.12; moderate CoE), major bleeding (RR 0.91, 95% CI 0.77\u20131.08; high CoE), or haemorrhagic stroke (RR 0.58, 95% CI 0.28\u20131.17; moderate CoE). LAAC reduced the risk of nonprocedural clinically relevant bleeding compared with OAC (RR 0.50, 95% CI 0.43\u20130.59; high CoE).\n                  \n                  \n                    Conclusion\n                    In patients with AF, LAAC results in a higher risk of ischaemic stroke or systemic embolism than an OAC-based strategy. Compared with OAC, LAAC has no effect on major bleeding or mortality and does not reduce haemorrhagic stroke.",
-    "summary": "This meta-analysis of 6 RCTs (n=7004) comparing left atrial appendage closure (LAAC) with oral anticoagulation (OAC) for stroke prevention in atrial fibrillation found that LAAC was associated with significantly higher risk of ischemic stroke or systemic embolism (RR 1.41) with no differences in mortality, major bleeding, or hemorrhagic stroke between strategies. LAAC did reduce nonprocedural clinically relevant bleeding compared to OAC."
-  },
-  {
-    "title": "Left atrial appendage closure in patients with atrial fibrillation: grey zones involving trials, meta-analysis, and decision-making",
-    "link": "https://doi.org/10.1093/europace/euag182",
-    "doi": "10.1093/europace/euag182",
-    "journal": "EP Europace",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transseptal Access Complication: Fractured and Trapped Wire Segment",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.06.042",
-    "doi": "10.1016/j.hrcr.2026.06.042",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The blanking interval after atrial fibrillation ablation: time for reassessment with pulsed field energy\u2014Authors\u2019 reply",
-    "link": "https://doi.org/10.1093/europace/euag165",
-    "doi": "10.1093/europace/euag165",
-    "journal": "EP Europace",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Early recurrence after pulsed field ablation: a prognostic signal that challenges, but does not eliminate, the blanking period",
-    "link": "https://doi.org/10.1093/europace/euag100",
-    "doi": "10.1093/europace/euag100",
-    "journal": "EP Europace",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
   }
 ]
