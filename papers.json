@@ -1,5 +1,17 @@
 [
   {
+    "title": "Biatrial activation patterns and hemodynamics during Bachmann\u2019s bundle pacing: Learnings from a porcine model.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026706?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 12, 2026",
+    "date_ts": 1786496195.270753,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Occupational Radiation Safety in Electrophysiology During Pregnancy: Evaluating Uterine Radiation Doses During Catheter Ablations and Device Implantations",
     "link": "https://doi.org/10.1161/circulationaha.126.080556",
     "doi": "10.1161/circulationaha.126.080556",
@@ -48,6 +60,30 @@
     "hot": false,
     "abstract": "Postcardiac arrest syndrome is a complex multisystem disorder that evolves after return of spontaneous circulation and remains a major determinant of morbidity and mortality following out-of-hospital cardiac arrest. Beyond anoxic brain injury and transient myocardial dysfunction, many patients develop a systemic ischemia/reperfusion response with endothelial and microvascular dysfunction, vasoplegia, and immune dysregulation\u2014features that contribute to shock and organ failure. Hemodynamic instability is often mixed with low systemic vascular resistance despite preserved or recovering cardiac output, but management is still largely supportive and centered on achieving a target mean arterial pressure. An increasing understanding of the central role of inflammation, including gastrointestinal barrier disruption, cytokine release, complement activation, nitric oxide\u2013cGMP signaling, and immune phenotypic heterogeneity has prompted evaluation of targeted adjunctive therapies. However, randomized trials of immunomodulators and other vasoactive strategies have yielded mixed results, reflecting biological heterogeneity and limited phenotypic stratification. This review synthesizes contemporary understanding of the inflammatory and hemodynamic mechanisms underpinning postcardiac arrest syndrome, examines current and emerging pharmacologic strategies, and highlights priorities for future investigation, including mechanistic phenotyping, prospective biobanking, and prospective trial requirements to guide more precise management strategies in postcardiac arrest care.",
     "summary": "This narrative review synthesizes the pathophysiology of postcardiac arrest syndrome, highlighting the central roles of systemic inflammation, endothelial dysfunction, and vasoplegia in determining outcomes, and discusses current and emerging pharmacologic interventions while emphasizing the need for mechanistic phenotyping and biomarker-guided strategies to improve the efficacy of targeted therapies in this heterogeneous patient population."
+  },
+  {
+    "title": "Impact of a Mobile Reference Application on the Efficiency and Accuracy of CIED Data Retrieval: A Comparative Pilot Study",
+    "link": "https://doi.org/10.1093/europace/euag206",
+    "doi": "10.1093/europace/euag206",
+    "journal": "EP Europace",
+    "date": "Aug 11, 2026",
+    "date_ts": 1786406400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "High-Probability HFpEF Phenotype in Atrial Fibrillation Patients Undergoing Ablation: Insights from RECAP",
+    "link": "https://doi.org/10.1093/europace/euag211",
+    "doi": "10.1093/europace/euag211",
+    "journal": "EP Europace",
+    "date": "Aug 11, 2026",
+    "date_ts": 1786406400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
   },
   {
     "title": "Redefining response to Cardiac Resynchronisation Therapy: A Post-hoc Analysis of the MORE-CRT MPP trial",
@@ -6241,43 +6277,5 @@
       "SVT"
     ],
     "hot": false
-  },
-  {
-    "title": "Intermittent Ventricular Pacing Suppression Due to P-Wave Oversensing with Automatic Sensitivity Adjustment",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.07.016",
-    "doi": "10.1016/j.hrcr.2026.07.016",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Correction to: Haemolysis and myocardial and neural injury after monopolar pulsed field ablation using a novel lattice-tip catheter to treat atrial fibrillation",
-    "link": "https://doi.org/10.1093/europace/euag187",
-    "doi": "10.1093/europace/euag187",
-    "journal": "EP Europace",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Comparative evaluation of left atrial appendage occlusion and oral anticoagulation: a Bayesian meta-analysis of randomized controlled trials",
-    "link": "https://doi.org/10.1093/europace/euag163",
-    "doi": "10.1093/europace/euag163",
-    "journal": "EP Europace",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Aims\n                    Randomized trials comparing percutaneous left atrial appendage occlusion (LAAO) with oral anticoagulation (OAC) for stroke prevention in patients with atrial fibrillation have yielded conflicting results across device generations and anticoagulant eras. This Bayesian meta-analysis of randomized trials aimed to compare LAAO vs. OAC for stroke or systemic embolism (SSE) and non-procedural clinically relevant bleeding (CRB).\n                  \n                  \n                    Methods and results\n                    We conducted a systematic search across five databases (PubMed, Embase, Scopus, Web of Science, and Cochrane CENTRAL) to identify randomized trials of LAAO vs. OAC. Primary outcomes of stroke or systemic embolism, non-procedural CRB and clinical benefit composite were estimated using a Bayesian hierarchical random effects model and findings confirmed across robust sensitivity and subgroup analyses. Posterior probabilities for superiority, non-inferiority and equivalence were estimated using clinically meaningful margins. Six randomized trials including 7004 participants in the intention-to-treat groups, were analysed. LAAO was not associated with lower SSE vs. OAC (pooled RR, 1.11; 95% CrI, 0.80\u20131.49), with a 74.6% posterior probability of favouring OAC. The posterior probability of crossing non-inferiority was P(HR &amp;lt; 1.4) of 89%. In contrast, LAAO reduced non-procedural CRB (pooled RR, 0.59; 95% CrI, 0.45\u20130.78). The net clinical benefit composite, pooling contemporary trials, demonstrated a pooled RR of 0.90 (95% CrI 0.51\u20131.50), with P(RR &amp;lt; 1) of 76%, with substantial heterogeneity for this outcome.\n                  \n                  \n                    Conclusion\n                    This Bayesian meta-analysis found no clear evidence supporting clinically meaningful non-inferiority of LAAO over OAC for stroke prevention. Despite reduced non-procedural bleeding, LAAO did not demonstrate a similar reduction in major bleeding.",
-    "summary": "This Bayesian meta-analysis of 6 randomized trials (7,004 participants) found that percutaneous left atrial appendage occlusion (LAAO) was not non-inferior to oral anticoagulation for stroke or systemic embolism prevention in atrial fibrillation patients, though LAAO did reduce non-procedural clinically relevant bleeding. The net clinical benefit favored oral anticoagulation despite the bleeding advantage with LAAO."
   }
 ]
