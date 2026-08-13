@@ -1,5 +1,91 @@
 [
   {
+    "title": "Outflow Tract Premature Ventricular Contractions: Impact of Anatomical Location on Cardiomyopathy Development",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004988?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Aug 13, 2026",
+    "date_ts": 1786582695.329053,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Global impedance reduction during pulsed field ablation: implications for impedance-based procedural feedback",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004976?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Aug 13, 2026",
+    "date_ts": 1786582695.328992,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Atrial Fibrillation and Epicardial Adipose Tissue: A Bidirectional Relationship",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026676?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 13, 2026",
+    "date_ts": 1786582695.057198,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical Characteristics and Prognostic Impact of Multiple Pathogenic Variants Across the Genetic Spectrum of Arrhythmogenic and Dilated Cardiomyopathies",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026664?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 13, 2026",
+    "date_ts": 1786582695.057152,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "CASTing a shadow over the design of gene therapy trials",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602669X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 13, 2026",
+    "date_ts": 1786582695.057112,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Air Pollution, Cardiac Arrhythmias and Sudden Cardiac Death Across Short-Term and Long-Term Exposure Models: A Systematic Review and Meta-Analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026688?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 13, 2026",
+    "date_ts": 1786582695.056948,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Oral anticoagulants, cognition, and clinical outcomes in atrial fibrillation and Alzheimer\u2019s disease: a Swedish nationwide study",
+    "link": "https://doi.org/10.1093/eurheartj/ehag584",
+    "doi": "10.1093/eurheartj/ehag584",
+    "journal": "European Heart Journal",
+    "date": "Aug 12, 2026",
+    "date_ts": 1786492800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Use of non-vitamin K oral anticoagulants (NOACs) is associated with reduced dementia risk in patients with atrial fibrillation (AF), but their impact on cognitive function and clinical outcomes in AF patients with Alzheimer\u2019s disease (AD) remains unclear.\n                  \n                  \n                    Methods\n                    Based on the Swedish Registry for Cognitive/Dementia Disorders, individuals with incident AD during May 2007\u2013December 2020 and pre-existing AF were identified. Anticoagulant use at baseline was categorized as non-use, warfarin, or NOACs. Inverse probability of treatment weighting was employed to balance covariates. Mixed-effects models were used to assess the association between anticoagulant use and cognitive decline measured by the Mini-Mental State Examination (MMSE). Cox proportional hazards models were used to examine risks of all-cause mortality, ischaemic stroke/systemic embolism, major bleeding, and fracture.\n                  \n                  \n                    Results\n                    Among 7308 eligible individuals (3341 non-users, 2277 warfarin users, and 1690 NOAC users), NOAC users exhibited significantly slower cognitive decline compared to non-users (difference in MMSE scores \u03b2 = 0.23 points/year, 95% confidence interval [CI] 0.11\u20130.36) and warfarin users (\u03b2 = 0.21 points/year, 95% CI 0.10\u20130.33). Compared to non-use of anticoagulants, NOAC use was associated with significantly lower rates of mortality (hazard ratio [HR] 0.81; 95% CI 0.72\u20130.91), ischaemic stroke/systemic embolism (HR 0.66; 95% CI 0.53\u20130.82), and fracture (HR 0.79; 95% CI 0.64\u20130.97), without an increased rate of major bleeding (HR 1.05; 95% CI 0.84\u20131.32); in contrast, warfarin use was associated with significantly lower rates of mortality (HR 0.88; 95% CI 0.80\u20130.97) and ischaemic stroke/systemic embolism (HR 0.85; 95% CI 0.72\u20131.00), but a higher rate of major bleeding (HR 1.31; 95% CI 1.09\u20131.56). Compared to warfarin, NOAC use was associated with lower rates of ischaemic stroke/systemic embolism (HR 0.78; 95% CI 0.62\u20130.98) and major bleeding (HR 0.80; 95% CI 0.64\u20131.01), and non-significant reductions in mortality and fracture.\n                  \n                  \n                    Conclusions\n                    In patients with AF and AD, NOAC use was associated with modestly slower cognitive decline and more favourable effectiveness and safety profiles, compared to warfarin or no anticoagulation.",
+    "summary": "This Swedish registry study of 7,308 patients with concurrent atrial fibrillation and Alzheimer's disease found that NOAC users experienced slower cognitive decline (0.23 MMSE points/year vs. non-users) and lower rates of mortality (HR 0.81), stroke/systemic embolism (HR 0.66), and fracture (HR 0.79) without increased major bleeding, compared to warfarin or no anticoagulation."
+  },
+  {
     "title": "Biatrial activation patterns and hemodynamics during Bachmann\u2019s bundle pacing: Learnings from a porcine model.",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026706?dgcid=rss_sd_all",
     "doi": null,
@@ -966,6 +1052,58 @@
     "date_ts": 1785548681.140339,
     "tags": [
       "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Decoding the evidence emerging from the studies comparing conduction system pacing with conventional cardiac resynchronization therapy",
+    "link": "https://doi.org/10.1093/europace/euag186",
+    "doi": "10.1093/europace/euag186",
+    "journal": "EP Europace",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Conduction system vs. biventricular pacing in heart failure with reduced ejection fraction: a meta-analysis of randomized controlled trials",
+    "link": "https://doi.org/10.1093/europace/euag170",
+    "doi": "10.1093/europace/euag170",
+    "journal": "EP Europace",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Conduction system pacing (CSP) has emerged as a physiologic alternative to cardiac resynchronization therapy (CRT) with biventricular pacing (BiVP) in heart failure with reduced ejection fraction (HFrEF), yet its comparative effects remain uncertain. This meta-analysis sought to compare outcomes of CSP vs. BiVP in patients with HFrEF undergoing CRT.\n                  \n                  \n                    Methods and results\n                    MEDLINE, Embase, Scopus, and the Cochrane Database were searched through 4 May 2026. Randomized controlled trials (RCTs) were synthesized using random-effects meta-analysis. Thirteen RCTs including 1320 participants were analysed (657 CSP, 663 BiVP). Conduction system pacing was associated with a lower risk of the composite of hospitalization for heart failure (HHF) or all-cause mortality compared with BiVP (46 vs. 83 events; odds ratio [OR] 0.51, 95% confidence interval [CI] 0.28\u20130.93). No significant differences were observed for HHF alone (OR 0.68, 95% CI 0.36\u20131.27) or all-cause mortality (OR 0.75, 95% CI 0.36\u20131.58). Conduction system pacing was associated with greater improvement in the 6-min walk distance (mean difference [MD] 21.53\u2005m, 95% CI 4.33\u201338.73) and New York Heart Association functional class (standardized mean difference [SMD] \u22120.27, 95% CI \u22120.47 to \u22120.07), but not quality of life. Conduction system pacing also reduced QRS duration compared with BiVP (MD \u221210.94\u2005ms, 95% CI \u221217.55 to \u22124.34), with no significant differences in left ventricular ejection fraction, left ventricular end-systolic volume, overall pacing threshold, total procedure time, fluoroscopy time, any complication, or reintervention.\n                  \n                  \n                    Conclusion\n                    In patients with HFrEF undergoing CRT, CSP is associated with lower composite risk of HHF or all-cause mortality compared with BiVP. Conduction system pacing is also associated with improved functional capacity, without significant differences in safety or procedural outcomes.",
+    "summary": "This meta-analysis of 13 RCTs (n=1320) comparing conduction system pacing (CSP) versus biventricular pacing (BiVP) for CRT in HFrEF patients found that CSP reduced the composite endpoint of heart failure hospitalization or all-cause mortality (OR 0.51), improved 6-minute walk distance and NYHA functional class, and reduced QRS duration, with comparable safety profiles between groups. Individual endpoints of hospitalization and mortality alone did not reach statistical significance, and quality of life improvement was not demonstrated."
+  },
+  {
+    "title": "Conduction system pacing vs. biventricular pacing for cardiac resynchronization therapy in heart failure: a systematic review and meta-analysis considering randomized controlled trials and observational studies",
+    "link": "https://doi.org/10.1093/europace/euag169",
+    "doi": "10.1093/europace/euag169",
+    "journal": "EP Europace",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Biventricular pacing (BiVP) is the gold standard for cardiac resynchronization therapy (CRT) in heart failure with reduced ejection fraction (HFrEF), yet up to 30% of patients fail to respond. Conduction system pacing (CSP) has emerged as an alternative with potential for physiological superiority. Multiple 2026 multicentre randomized controlled trials (RCTs) reported contradictory results, necessitating an updated meta-analysis. This analysis aims to compare the safety and efficacy of CSP vs. BiVP for CRT in patients with HFrEF.\n                  \n                  \n                    Methods and results\n                    PubMed, Cochrane CENTRAL, and Embase were searched (January 2010\u2013May 2026) for RCTs and observational studies. Pooled risk ratios (RRs) and mean differences (MDs) were estimated using random-effects restricted maximum likelihood models. Twenty-five studies (11 RCTs, n = 1201; 14 observational, n = 3376) involving 4577 participants were included. In the RCT-only analysis, no significant differences were found in all-cause mortality (RR 0.96; P = 0.91), heart failure (HF) hospitalization (RR 0.67; P = 0.12), or procedural complications (RR 0.83; P = 0.44). Conduction system pacing significantly shortened paced QRS duration (MD \u221219.52\u2005ms, P &amp;lt; 0.001) and improved New York Heart Association (NYHA) class (MD \u22120.19, P = 0.05). Combined analysis showed larger effect sizes, including lower all-cause mortality (RR 0.74; P = 0.004) and HF hospitalization (RR 0.64; P &amp;lt; 0.001) in the CSP group.\n                  \n                  \n                    Conclusion\n                    Randomized evidence demonstrates no significant difference between CSP and BiVP in hard clinical endpoints, despite superior electrical resynchronization and modest functional improvement with CSP. Confirmation of any clinical superiority of CSP awaits adequately powered trials reporting objective outcomes.",
+    "summary": "This meta-analysis of 11 RCTs (n=1,201) and 14 observational studies comparing conduction system pacing (CSP) versus biventricular pacing (BiVP) for cardiac resynchronization therapy in heart failure with reduced ejection fraction found no significant differences in all-cause mortality, heart failure hospitalization, or procedural complications on RCT analysis alone, though CSP demonstrated superior electrical resynchronization (shortened QRS duration) and modest functional improvement (NYHA class). The authors conclude that clinical superiority of CSP over standard BiVP remains unproven and requires adequately powered trials with objective outcome measures."
+  },
+  {
+    "title": "BRASH Syndrome in Acute COVID-19 Myocarditis and Acute Kidney Injury: The Importance of Early Recognition of an Iatrogenic Spiral",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.08.001",
+    "doi": "10.1016/j.hrcr.2026.08.001",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "Other"
     ],
     "hot": false
   },
@@ -6126,155 +6264,6 @@
     "date_ts": 1783036800.0,
     "tags": [
       "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Vein of Marshall Alcohol Ablation Facilitated by a 10\u2010French Bidirectional Catheter Supported by Glide Advantage Wire",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70318?af=R",
-    "doi": "10.1111/pace.70318",
-    "journal": "PACE",
-    "date": "Jul 02, 2026",
-    "date_ts": 1783003889.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  Vein of Marshall (VOM) ethanol ablation is an effective adjunctive therapy for persistent atrial fibrillation and mitral\u2010isthmus dependent atrial flutter; however, physicians often encounter technical challenges during VOM cannulation, including coronary sinus (CS) sheath disengagement during manipulation which may complicate the procedure and reduce efficiency. Our case series describes a simplified and stability focused technique that utilizes a 10 French bidirectional deflectable sheath (Medtronic Flexcath Contour) that is supported by a Terumo Glide Advantage wire to enhance CS stability. Our approach was used in three patients aged 62\u201374 years old, two of which were females and had persistent symptomatic atrial fibrillation and atrial flutter that were refractory to prior ablations and medical therapy. In these cases, anatomical challenges including prominent Eustachian ridges (inferred from initial cannulation difficulties and sheath instability during CS access) and variable VOM positions were identified via CS venography, contributing to cannulation difficulty. In all three cases, our technique allowed for stable CS access and successful VOM identification, facilitating cannulation, wire advancement, balloon placement, and ethanol infusion without any sheath disengagement. We used pre and post infusion voltage mapping which ultimately showed elimination of all potentials along the lateral mitral isthmus and ridge. There were no procedure complications, including those potentially associated with sheath advancement into the CS such as vessel trauma or perforation, and all patients were atrial arrhythmia free at 3\u2010 and 6\u2010month follow\u2010up. Our technique of using a larger\u2010lumen deflectable bidirectional sheath with guidewire support provides enhanced catheter stability and may improve procedural efficiency, reduce cannulation time, contrast utilization, and fluoroscopy particularly in anatomically challenging cases.",
-    "summary": "This case series of three patients with refractory atrial fibrillation/flutter demonstrates that a simplified technique using a 10 French bidirectional deflectable sheath supported by a guidewire improves coronary sinus stability during vein of Marshall ethanol ablation, enabling successful VOM cannulation and ablation in anatomically challenging cases with complete arrhythmia elimination at 6-month follow-up and no procedural complications. The approach may reduce procedural time and radiation exposure compared to standard techniques, particularly in patients with anatomical variations such as prominent Eustachian ridges."
-  },
-  {
-    "title": "Leadless Pacemaker Implantation in High\u2010Risk Patients: Real\u2010World Outcomes From a Multicenter Israeli Registry",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70333?af=R",
-    "doi": "10.1111/pace.70333",
-    "journal": "PACE",
-    "date": "Jul 02, 2026",
-    "date_ts": 1782985837.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Transvenous pacemakers are effective but carry significant short\u2010 and long\u2010term complications. Leadless pacemakers were developed to overcome these limitations, however, data in high\u2010risk patients ineligible for transvenous systems remain limited.\n                  \n                  \n                    Aim\n                    To evaluate the real\u2010world outcomes of leadless pacemaker in high risk bradyarrhythmia patients unsuitable for transvenous pacing.\n                  \n                  \n                    Methods\n                    A retrospective, observational, multi center registry (MLPI) across four Israeli hospitals, included all patients undergoing leadless pacemaker implantation July 2021\u2010December 2022 within a national pilot program. Indications included venous abnormalities, prior device infection, Twiddler's syndrome or high infection risk. Procedural success, complications, electrical performance, and mortality were assessed at 48 h, 30 days, and 12 months.\n                  \n                  \n                    Results\n                    A total of 138 patients were enrolled, with a high comorbidity burden (hypertension 74%, heart failure 44%, chronic kidney disease 36%). High grade atrioventricular block was the main pacing indication (70%), and the leading reason for leadless implantation (54%) was high infection risk. Implantation was successful in 98% of the patients, almost all with Micra. Acute complications occurred in 2.9%, (primarily pericardial effusion); three patients (2.2%) died within 48 h. At 1\u2010year, electrical performance remained stable, with low pacing thresholds (median 0.5\u00a0V), preserved sensing, and declining impedance. Two late complications occurred (tamponade, loss of capture). The 1\u2010year cumulative complication rate was 4.7%, and all\u2010cause mortality 12.3%.\n                  \n                  \n                    Conclusion\n                    Leadless pacemaker implantation in a very high\u2010risk Israeli cohort achieved high procedural success, stable performance, and low complication rate, supporting its role as a safe and effective alternative to conventional pacing systems.",
-    "summary": "This retrospective, multicenter registry of 138 high-risk bradyarrhythmia patients unsuitable for transvenous pacemakers found that leadless pacemaker implantation achieved 98% procedural success with a 4.7% cumulative complication rate and 12.3% one-year mortality, demonstrating stable electrical performance and supporting its safety as an alternative to conventional systems in ineligible patients."
-  },
-  {
-    "title": "Pulmonary vein reconnection patterns after pentaspline pulsed field ablation for atrial fibrillation",
-    "link": "https://doi.org/10.1093/europace/euag172",
-    "doi": "10.1093/europace/euag172",
-    "journal": "EP Europace",
-    "date": "Jul 02, 2026",
-    "date_ts": 1782950400.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Yield of Family Screening in Arrhythmogenic Right Ventricular Cardiomyopathy Without a Validated Genetic Cause",
-    "link": "https://doi.org/10.1161/circep.125.014420",
-    "doi": "10.1161/circep.125.014420",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Jul 02, 2026",
-    "date_ts": 1782950400.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Current guidelines recommend regular screening for first-degree relatives of gene-elusive arrhythmogenic right ventricular cardiomyopathy (ARVC) patients using a similar regimen as for genotype-positive/phenotype-negative relatives. However, the multifactorial nature of gene-elusive ARVC may necessitate a different approach. This study aimed to determine the yield of cardiac screening in first-degree relatives of ARVC probands without a validated genetic cause.\n                  \n                  \n                    METHODS:\n                    We included all first-degree relatives of probands who (1) met the 2010 Task Force Criteria, (2) underwent next-generation sequencing that included all genes with at least moderate evidence for ARVC causation per Clinical Genome Resource appraisal (validated ARVC genes), and (3) had no pathogenic/likely pathogenic (P/LP) variants identified in these genes. The primary and secondary end points were definite ARVC by the 2010 Task Force Criteria and ventricular arrhythmia, respectively.\n                  \n                  \n                    RESULTS:\n                    \n                      We included 44 relatives (39.0 [22.3\u201345.8] years; 36% male) from 24 families. In 4 (17%) families, a P/LP variant was identified in a different cardiomyopathy/arrhythmia gene (\n                      SCN5A\n                      ,\n                      LMNA\n                      ,\n                      CDH2\n                      ,\n                      FLNC\n                      ). Overall, 10 (23%) relatives had definite ARVC at baseline evaluation. Of the 20 relatives without definite ARVC who had follow-up available, 8/20 (40%) relatives progressed to definite ARVC during 9.0 (5.8\u201314.4) years of follow-up. No statistical difference in the yield of baseline screening or serial evaluation between relatives from families with a P/LP variant and relatives from families without a P/LP variant was observed. Of the 27 relatives who had follow-up available, ventricular arrhythmia was observed in 2/27 (7%) relatives and occurred 6.3 and 13.8 years after definite ARVC diagnosis. Both of those relatives were from families without a P/LP variant.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    These findings highlight the importance of managing first-degree relatives of ARVC probands without a validated genetic cause similarly to genotype-positive ARVC relatives. Furthermore, using a broad cardiomyopathy and arrhythmia gene panel in ARVC probands, rather than limiting testing to validated ARVC genes alone, is warranted.",
-    "summary": "This retrospective cohort study of 44 first-degree relatives from 24 families with gene-elusive ARVC found that 23% had definite ARVC at baseline and 40% of those without baseline ARVC progressed to definite ARVC over 9 years of follow-up, supporting continued regular screening of relatives regardless of genetic findings and broader gene panel testing in probands. Ventricular arrhythmias occurred in 7% of relatives with extended follow-up, all from families without identified pathogenic variants."
-  },
-  {
-    "title": "Tau20-RETROmapping System Identifies Driver-Like Activation Patterns in Real-Time During Persistent Atrial Fibrillation",
-    "link": "https://doi.org/10.1161/circep.126.015039",
-    "doi": "10.1161/circep.126.015039",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Jul 02, 2026",
-    "date_ts": 1782950400.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Conventional activation mapping of atrial fibrillation (AF) during clinical procedures is limited by low-amplitude, fractionated electrograms and cycle length variability. The Tau20-RETROmapping stimulator-recorder system (TauRhythm Therapies, United Kingdom) is an investigational device used to identify nonpulmonary vein AF drivers by real-time, high-density activation mapping of uniform wavefronts during AF. We validated the accuracy of the system and applied it to left atrial mapping for evidence of AF drivers.\n                  \n                  \n                    METHODS:\n                    Left atrial geometry was acquired using a 3-dimensional electroanatomic mapping system with high-density mapping catheters (CARTO 3 with Optrell, or EnSite X with HD Grid). Electrograms were recorded for 30 seconds at multiple left atrial sites. The Tau20-RETROmapping system generates activation maps of organized wavefronts. System performance was manually validated against randomly sampled local electrograms using a grid sweep of thresholds to identify Pareto-optimal parameters in sinus rhythm, atrial pacing, atrial tachycardia (AT), and AF. The system was then applied to identify putative driver activation patterns during persistent AF.\n                  \n                  \n                    RESULTS:\n                    We studied 24 patients undergoing pulmonary vein isolation for AF. Six patients presented in sinus rhythm or AT, in whom the system demonstrated a sensitivity of 100.0% (95% CI, 80.5%\u2013100.0%) and a specificity of 100.0% (85.2%\u2013100.0%). Eighteen patients were mapped in AF: the system had a sensitivity of 94.4% (86.2%\u201398.4%) and a specificity of 97.1% (89.9%\u201399.6%) when identifying organized AF wavefronts, and accurately identified the earliest activation in 89.6% (79.7%\u201395.7%) of waves. Stable propagation originating from the left atrial appendage (LAA) was observed in 3/18 patients, while 8/18 demonstrated competing propagation toward and away from the LAA. Conduction away from the LAA was detected along the anterior (8/18 patients), lateral (8/18 patients), and posterior (7/18 patients) walls. No propagation near the LAA was observed in 6/18 patients.\n                  \n                  \n                    CONCLUSIONS:\n                    The Tau20-RETROmapping system enables real-time activation mapping of AF, with the most convincing driver-like areas being identified around the LAA.",
-    "summary": "This prospective validation study (n=24 patients) evaluated the Tau20-RETROmapping system for real-time, high-density activation mapping to identify atrial fibrillation drivers, demonstrating 94.4% sensitivity and 97.1% specificity for detecting organized AF wavefronts with the left atrial appendage identified as the most prominent driver location in 61% of patients with persistent AF."
-  },
-  {
-    "title": "Effect of Exercise Training on Myocardial and Residual Scar Electrophysiology in Post-MI Rats",
-    "link": "https://doi.org/10.1161/circep.125.014248",
-    "doi": "10.1161/circep.125.014248",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Jul 02, 2026",
-    "date_ts": 1782950400.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Exercise training improves contractile function and can reduce arrhythmia burden after a myocardial infarction (MI). How exercise modifies the proarrhythmic status is uncertain.\n                  \n                  \n                    METHODS:\n                    In this study, rats 6 weeks post-MI were randomized to an 8-week high-intensity exercise program (MI-EX) or to a sedentary control group (MI-SED) and compared with a sedentary sham group (Sham-SED). After the exercise program, in vivo and ex vivo programmed electrical stimulation was performed on the rat hearts. Subsequently, optical mapping was conducted to electrophysiologically characterize the MI hearts.\n                  \n                  \n                    RESULTS:\n                    \n                      Exercise significantly improved maximal oxygen uptake (\n                      V\n                      O\n                      2max\n                      ; MI-EX, 67 mL\u00b7min\n                      \u22121\n                      \u00b7kg\n                      \u2212\n                      0.75\n                      versus MI-SED, 47 mL\u00b7min\n                      \u2212\n                      1\n                      \u00b7kg\n                      \u2212\n                      0.75\n                      ). In vivo cardiac stimulation protocols indicated reduced inducibility of ventricular arrhythmias in MI-EX compared with MI-SED. This anti-arrhythmic effect was retained ex vivo in Langendorff-perfused hearts. Optical mapping of the noninfarcted left ventricle indicated a prolonged average action potential (AP) duration at 4.5 Hz pacing frequency in both MI groups compared with Sham-SED. As pacing frequency increased (6.5 Hz and \u22488 Hz), AP duration remained significantly longer in the MI-SED group but decreased in the MI-EX group, demonstrating a negative frequency dependency. Spatial heterogeneity of AP duration in the noninfarcted left ventricle area was increased post-MI but was significantly reduced following exercise. Optical AP recorded from the remnant myocardium within the scar showed similar AP duration characteristics at low stimulation frequencies, but AP upstroke time was shorter in the MI-EX group compared with MI-SED.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    Post-MI exercise was associated with electrophysiological changes in both the noninfarcted region and the remnant myocardium within the scar. These changes suggest a mechanism for the anti-arrhythmic effects of exercise following MI.",
-    "summary": "This randomized controlled animal study (n=rats across 3 groups: MI-EX, MI-SED, Sham-SED) demonstrated that 8 weeks of high-intensity exercise training post-MI reduced ventricular arrhythmia inducibility and normalized electrophysiological heterogeneity by restoring normal action potential frequency-dependence and reducing spatial AP duration dispersion in both the noninfarcted myocardium and scar tissue. These findings elucidate the antiarrhythmic mechanism underlying exercise's beneficial effects after myocardial infarction."
-  },
-  {
-    "title": "Sex Differences in the Burden of Atrial Fibrillation/Flutter and Associated Heart Failure Stratified by Age at Onset",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70341?af=R",
-    "doi": "10.1111/pace.70341",
-    "journal": "PACE",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782898948.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Early\u2010onset atrial fibrillation/flutter (AF/AFL), defined as AF/AFL onset before age 45 years, can lead to adverse outcomes including heart failure (HF). The sex\u2010specific patterns of early\u2010onset AF/AFL and associated HF remain poorly understood, particularly in comparison with late\u2010onset AF/AFL.\n                  \n                  \n                    Methods\n                    Using data from Global Burden of Disease (GBD) 2021, we report the age\u2010standardized rates (ASRs) per 100,000 population and changes from 1990 to 2021 based on sexes, regions and 204 countries. The contributions of risk factors, decomposition methodology, slope index of inequality and Bayesian age\u2010period\u2010cohort models were utilized to assess epidemiological trends, sex disparities, and projected burdens to 2050. All the analyses were performed in both early\u2010onset and late\u2010onset AF/AFL.\n                  \n                  \n                    Results\n                    Globally, the total number of early\u2010onset AF/AFL incident cases was 204 thousand in 2021, accounting for 4.5% of all cases. The male\u2010to\u2010female ratio in global prevalence ASR was 1.62, which suggested greater sex disparities than late\u2010onset AF/AFL. Sex\u2010specific risk factors included smoking and high alcohol use in males and high BMI in females. The global prevalence ASR of associated HF showed a sustained increase through 2050, with a female predominance.\n                  \n                  \n                    Conclusion\n                    The epidemiological patterns in early\u2010onset AF/AFL exhibited significant sex\u2010specific variations and differed from those observed in late\u2010onset AF/AFL. Future efforts should prioritize early detection, risk stratification, and tailored interventions to curb complications, particularly HF progression.",
-    "summary": "This retrospective epidemiological analysis using Global Burden of Disease 2021 data examined sex-specific patterns of early-onset AF/AFL (before age 45) versus late-onset disease across 204 countries from 1990-2021, finding that early-onset AF/AFL represented 4.5% of all cases with a 1.62 male-to-female prevalence ratio and distinct sex-specific risk factors (smoking/alcohol in males, elevated BMI in females), with projected increases in associated heart failure through 2050 showing female predominance. The findings suggest sex-tailored preventive strategies are needed for early-onset AF/AFL to mitigate heart failure complications."
-  },
-  {
-    "title": "Syncope due to Pacing Inhibition During VT Detection in a Conduction System Pacing ICD Programmed in AAI(R) Mode",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70337?af=R",
-    "doi": "10.1111/pace.70337",
-    "journal": "PACE",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782898399.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  The lack of dedicated generators for conduction system pacing can force the use of unconventional device configurations in selected patients. We report the case of a 74\u2010year\u2010old pacing\u2010dependent man with non\u2010ischemic cardiomyopathy who underwent an upgrade to LBBAP\u2010ICD, programmed in AAI(R) mode. Syncope occurred after a nonsustained ventricular tachycardia episode due to activation of the Ventricular Tachycardia Response algorithm in a Boston Scientific ICD. This case highlights a potential interaction between device algorithms and pacing configuration that may result in clinically significant pauses in pacing\u2010dependent patients.",
-    "summary": "This case report describes a pacing-dependent patient who experienced syncope after device algorithm misinterpretation of conduction system pacing (LBBAP-ICD programmed in AAI mode), revealing a potential safety concern when unconventional pacing configurations interact with ventricular tachycardia response algorithms in implantable cardioverter-defibrillators."
-  },
-  {
-    "title": "When Less Is Too Little: Low Atrioventricular Synchrony by VDD Leadless Pacemaker in a Patient With Glenn Circulation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70339?af=R",
-    "doi": "10.1111/pace.70339",
-    "journal": "PACE",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782898331.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "Mateusz Tajstra reports conference fees and proctoring honoraria from Abbott, Biotronik and Boston Scientific. Maciej Dyrbu\u015b reports conference fees from Abbott, and speaker fees from Biotronik. All other authors declare no conflicts of interest relevant to the creation of this manuscript. The data supporting the findings of this study are available from the corresponding author upon reasonable request.",
-    "summary": "I don't have an abstract to summarize\u2014the text provided only contains a conflict of interest disclosure statement. Please provide the actual research abstract (objectives, methods, results, and conclusions sections) for me to create the requested summary."
-  },
-  {
-    "title": "Congenital Sinus Node Dysfunction and Atrial Fibrillation in Pediatric Short QT Syndrome Type 2: Implications for Pacing Strategy",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.07.019",
-    "doi": "10.1016/j.hrcr.2026.07.019",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "AFib",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Electrophysiologic Characteristics of Atypical \u2018Node-like\u2019 Accessory Pathway in the Aorto-Mitral Continuity: A Case Series",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.07.021",
-    "doi": "10.1016/j.hrcr.2026.07.021",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Jul 01, 2026",
-    "date_ts": 1782864000.0,
-    "tags": [
-      "SVT"
     ],
     "hot": false
   }
