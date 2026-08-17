@@ -1,5 +1,29 @@
 [
   {
+    "title": "Safety and Efficacy of Pulsed Field Ablation for Atrial Fibrillation in Very Elderly Patients",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005155?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Aug 17, 2026",
+    "date_ts": 1786926787.269727,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Ventricular arrhythmia ablation with different mechanical circulatory support platforms: a Bayesian network meta-analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005167?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Aug 17, 2026",
+    "date_ts": 1786926787.26952,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
     "title": "Accounting for uncertainty in computational models of ventricular tachycardia improves ablation guidance",
     "link": "https://www.nature.com/articles/s44161-026-00856-w",
     "doi": "10.1038/s44161-026-00856-w",
@@ -6197,33 +6221,5 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Background\n                    Pulse field ablation (PFA) has gained attention as an alternative modality for ablation of atrial fibrillation (AF) due to its favorable safety profile compared with thermal ablation. However, hemolysis has emerged as a unique concern with PFA, yet the risk factors underlying its development and the extent to which it translates into renal complications remain poorly defined.\n                  \n                  \n                    Methods\n                    We performed a retrospective cohort study of patients with atrial fibrillation who underwent PFA at our health system between June 2024 and May 2025. Postprocedural hemolysis was assessed using plasma\u2010free hemoglobin (Hb) levels, with patients stratified into high (&gt;\u200930\u2009mg/dL) and normal/low (\u2264\u200930\u2009mg/dL) groups. Baseline characteristics, procedural details, and renal outcomes were compared between groups, and multivariable analyses were conducted to identify independent risk factors associated with hemolysis.\n                  \n                  \n                    Results\n                    \n                      A total of 232 patients (FARAPULSE [Manufacturer 1 PFA system] in 173 patients [74.6%]; PulseSelect [Manufacturer 2 system] in 59 patients [25.4%]) underwent PFA (mean age 67.5\u2009\u00b1\u20099.6, 34.1% female), of whom 109 (47.0%) developed high postprocedural plasma\u2010free Hb (&gt;\u200930\u2009mg/dL). Baseline demographics were similar between groups, but patients with high free Hb were more often treated with the Manufacturer 1 PFA system (91.7% vs. 59.3%,\n                      p\n                      \u2009&lt;\u20090.01), underwent PVI with additional ablation (73.4% vs. 45.5%,\n                      p\n                      \u2009&lt;\u20090.01), and received a greater number of applications (63.2\u2009\u00b1\u200914.9 vs. 51.1\u2009\u00b1\u200911.5,\n                      p\n                      \u2009&lt;\u20090.01). On multivariable analysis, independent risk factors associated with hemolysis included use of the Manufacturer 1 system (aOR 6.67, 95% CI 2.94\u201316.47), total applications &gt;\u200959 (aOR 4.25, 95% CI 2.04\u20139.19), and higher preprocedural hemoglobin level (aOR 1.52, 95% CI 1.19\u20131.97). The rate of AKI was low and similar between the two groups (0.9% vs. 0.8%,\n                      p\n                      \u2009=\u20091.00). None of the patients required renal replacement therapy.\n                    \n                  \n                  \n                    Conclusion\n                    Our real\u2010world study, following the commercial approval of PFA systems, showed that 47% of patients developed subclinical hemolysis after PFA, with no actionable clinical outcomes.",
     "summary": "This retrospective cohort study of 232 AF patients undergoing PFA identified hemolysis (plasma-free Hb >30 mg/dL) in 47%, with independent risk factors including use of the Manufacturer 1 PFA system (aOR 6.67), >59 total applications (aOR 4.25), and higher baseline hemoglobin; however, acute kidney injury rates were low and similar between groups (0.9% vs. 0.8%), with no patients requiring renal replacement therapy."
-  },
-  {
-    "title": "Association of Diagnostic Code Priority With Identification of True Cardiac Arrest in Patients Presenting to the Emergency Department",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70435?af=R",
-    "doi": "10.1111/jce.70435",
-    "journal": "J Cardiovasc EP",
-    "date": "Jul 08, 2026",
-    "date_ts": 1783542767.0,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Sudden cardiac arrest (SCA), a leading cause of mortality, is administratively coded as ventricular tachycardia (VT), ventricular fibrillation (VF), or unspecified SCA. Diagnostic codes are widely used in research, yet their accuracy in reflecting true SCA events is uncertain. The objective of this study is to evaluate the relationship between administrative diagnostic code rank (listing order) and the likelihood of true SCA in patients presenting to the emergency department (ED).\n                  \n                  \n                    Methods\n                    From a database of 22\u2009369 patients with VT/VF/SCA, we randomly selected 380 patients for detailed chart review. Diagnostic accuracy was confirmed when patients (1) had sustained a true VT/VF/SCA event during the index hospitalization and (2) when the event was not precipitated by non\u2010cardiac causes.\n                  \n                  \n                    Results\n                    \n                      Manual chart review for the 380 patients (age 71\u2009\u00b1\u200912 years, 53% women) confirmed that 65% experienced true VT/VF/SCA and 55% had an arrest unrelated to non\u2010cardiac causes. Diagnostic accuracy was 100% at priority rank #1 and declined significantly at lower ranks. In the overall larger cohort of 22\u2009369 patients, recurrence of VT/VF/SCA trended 3% lower (\n                      p\n                      \u2009=\u20090.086) and all\u2010cause mortality was 5% higher (\n                      p\n                      \u2009&lt;\u20090.001) with each diagnostic priority rank decrease, over a mean follow\u2010up of 1.5 years.\n                    \n                  \n                  \n                    Conclusion\n                    Diagnostic codes show variable predictive accuracy for true VT/VF/SCA events, with the highest accuracy at priority rank #1. Higher\u2010priority codes identify patients most likely to have true SCA, while lower\u2010priority codes capture sick patients with other in\u2010hospital events. These results have important implications for the interpretation of administrative health datasets.",
-    "summary": "This retrospective chart review study of 380 patients randomly selected from 22,369 with administrative codes for VT/VF/SCA found that diagnostic accuracy for true SCA events was 100% when coded as the primary diagnosis (rank #1) but declined significantly at lower priority ranks, with each rank decrease associated with 5% higher all-cause mortality in the full cohort over 1.5 years of follow-up. These findings suggest that administrative diagnostic code ranking substantially affects case identification accuracy and clinical outcomes, with important implications for SCA research using claims data."
-  },
-  {
-    "title": "The V6R/V4R Index: A Novel ECG Parameter for Identifying Idiopathic Ventricular Arrhythmias Originating From the Aortic Cusp",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70436?af=R",
-    "doi": "10.1111/jce.70436",
-    "journal": "J Cardiovasc EP",
-    "date": "Jul 08, 2026",
-    "date_ts": 1783542716.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Radiofrequency catheter ablation within the aortic cusp can eliminate left ventricular outflow tract (LVOT) ventricular arrhythmias (VAs). However, in a significant proportion of cases, successful ablation requires targeting the aorto\u2010mitral continuity, the endocardium just below the left ventricular summit, and/or the mitral annulus. This study aimed to identify electrocardiographic (ECG) indices useful for differentiating VAs originating from the aortic cusp from those arising outside the cusp among LVOT\u2010VAs.\n                  \n                  \n                    Methods\n                    \n                      This retrospective study included 159 idiopathic VAs (79 in the derivation cohort and 80 in the validation cohort) successfully ablated from the LVOT. Based on the site of VA origin, VAs were classified into cusp (\n                      n\n                      \u2009=\u2009125) and non\u2010cusp (\n                      n\n                      \u2009=\u200934) groups. Detailed PVC morphologies were compared between the two groups.\n                    \n                  \n                  \n                    Results\n                    \n                      In the derivation cohort (mean age 60\u2009\u00b1\u200916 years, 43 men), the ratio of R\u2010wave amplitude in lead V6 to that in lead V4 was significantly higher in the cusp group than in the non\u2010cusp group (0.64 [0.56\u20131.00] vs. 0.32 [0.24\u20130.40],\n                      p\n                      \u2009&lt;\u20090.001). Receiver operating characteristic curve analysis showed that a V6R/V4R amplitude index &gt;\u20090.55 predicted cusp\u2010origin VAs with 0.80 sensitivity and 0.88 specificity (area under the curve, 0.865; 95% confidence interval [CI], 0.762\u20130.967). In the validation cohort, the sensitivity and specificity of a V6R/V4R amplitude index &gt;\u20090.55 for predicting cusp origin were 84% and 82%, respectively.\n                    \n                  \n                  \n                    Conclusion\n                    The V6R/V4R index is a simple and practical ECG criterion for distinguishing VAs originating from the aortic cusp from those arising outside the cusp among LVOT\u2010VAs, with high accuracy.",
-    "summary": "This retrospective study of 159 patients with idiopathic left ventricular outflow tract ventricular arrhythmias identified a simple ECG criterion\u2014the V6R/V4R amplitude ratio >0.55\u2014that accurately distinguishes aortic cusp-origin arrhythmias from non-cusp origins, with 80% sensitivity and 88% specificity in the derivation cohort and 84%/82% in the validation cohort. This ECG index provides a practical tool to guide ablation strategy selection in LVOT ventricular arrhythmia management."
   }
 ]
