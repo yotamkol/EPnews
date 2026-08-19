@@ -1,5 +1,69 @@
 [
   {
+    "title": "2026 AHA/ACC Clinical Performance and Quality Measures for Patients With Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association",
+    "link": "https://www.sciencedirect.com/science/article/pii/S073510972606657X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Aug 19, 2026",
+    "date_ts": 1787099623.386111,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left ventricular origin of arrhythmia predicts severe outcome in mitral valve prolapse: Insights from long-term cardiac monitoring",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005179?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Aug 19, 2026",
+    "date_ts": 1787099622.459461,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Atrial remodeling of excitation and Ca<sup>2+</sup> handling in male mice with cardiac steatosis induced by perilipin 2 overexpression",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026883?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 19, 2026",
+    "date_ts": 1787099622.196247,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Association of Clonal Hematopoiesis With Silent Brain Lesions and Cognitive Decline in Patients With Atrial Fibrillation",
+    "link": "https://doi.org/10.1161/circulationaha.126.079459",
+    "doi": "10.1161/circulationaha.126.079459",
+    "journal": "Circulation",
+    "date": "Aug 18, 2026",
+    "date_ts": 1787011200.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    Clonal hematopoiesis of indeterminate potential (CHIP) has been associated with cardiovascular disease, but its relationship with silent brain lesions and cognitive decline in patients with atrial fibrillation (AF) is unclear.\n                  \n                  \n                    METHODS:\n                    \n                      In this prospective, multicenter cohort study, we included 1572 patients with AF enrolled between 2014 and 2017. All participants underwent deep-targeted sequencing for CHIP-associated sequence variations, brain magnetic resonance imaging, and standardized cognitive assessments. CHIP carrier status (overall,\n                      DNMT3A\n                      carrier, and non-\n                      DNMT3A\n                      carrier) was evaluated in relation to prevalent and incident silent brain lesions. Silent brain lesions were defined as large noncortical or cortical infarcts, small noncortical infarcts, microbleeds, and white matter lesions (WMLs), and were assessed at baseline and after 2 years with magnetic resonance imaging. Cross-sectional analyses were externally validated in a cohort of 199 patients with AF. Cognitive function was evaluated through 7 years using the Montreal Cognitive Assessment. Associations were analyzed using multivariable-adjusted logistic and linear regression models.\n                    \n                  \n                  \n                    RESULTS:\n                    \n                      Among 1572 patients with AF (mean\u00b1SD age, 72.5\u00b18.3 years; 26% women), 342 (22%) carried CHIP sequence variations, most commonly in\n                      DNMT3A\n                      (49.4%) and\n                      TET2\n                      (28.3%). CHIP carriers had significantly higher odds of cerebral microbleeds (odds ratio [OR], 1.45 [95% CI, 1.09 to 1.93]) and WMLs (OR, 1.56 [95% CI, 1.20 to 2.04]) at baseline, particularly with non-\n                      DNMT3A\n                      sequence variations (microbleeds: OR, 1.79 [95% CI, 1.25 to 2.55]; WMLs: OR, 1.80 [95% CI, 1.25 to 2.62]). A similar trend was observed in an independent AF patient cohort from Korea limited to\n                      TET2\n                      sequence variations. Presence of multiple CHIP sequence variations further increased the odds of microbleeds (OR, 1.36 [95% CI, 1.10 to 1.69]) and WMLs (OR, 1.41 [95% CI, 1.15 to 1.75]), and large CHIP clones (variant allele frequency &gt;10%) were associated with higher WML volumes. At 2-year follow-up, CHIP was associated with new cerebral microbleed counts and greater WML volume. Over 7 years, CHIP carriers exhibited greater cognitive decline, with a lower Montreal Cognitive Assessment score compared with noncarriers (\u03b2 \u22120.53 [95% CI, \u22121.02 to \u22120.03]). The decline was more pronounced in\n                      DNMT3A\n                      and\n                      ASXL1\n                      sequence variation carriers.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    In patients with AF, CHIP was independently associated with a greater burden and progression of silent brain lesions and with accelerated cognitive decline.",
+    "summary": "This prospective, multicenter cohort study of 1,572 patients with atrial fibrillation found that clonal hematopoiesis of indeterminate potential (CHIP) carriers (22% of cohort) had significantly higher odds of cerebral microbleeds (OR 1.45) and white matter lesions (OR 1.56) at baseline, with greater progression at 2-year follow-up and accelerated cognitive decline over 7 years compared to noncarriers. The association was particularly strong in non-DNMT3A CHIP variants and correlated with larger clonal burden."
+  },
+  {
+    "title": "Stepwise Electrosurgical Bailout During Difficult Left Bundle Branch Area Pacing",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70403?af=R",
+    "doi": "10.1111/pace.70403",
+    "journal": "PACE",
+    "date": "Aug 18, 2026",
+    "date_ts": 1787038881.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  Electrosurgical energy may facilitate difficult septal lead advancement during left bundle branch area pacing (LBBAP), but procedural feedback after each application is poorly defined. A 63\u2010year\u2010old woman with complete atrioventricular block had persistent left ventricular septal pacing (LVSP) despite deep septal engagement and prolonged mechanical rotation. Two brief 20\u2010W AUTO CUT cycles were delivered through a stylet\u2010driven pacing lead. The first was followed by no meaningful COI or mechanical change. The second was followed by a decrease in COI and renewed lead advancement. Output decrement subsequently demonstrated transition from nonselective to selective LBB capture, with S\u2013V separation of 25\u00a0ms and shortening of V6 R\u2010wave peak time from 90 to 73\u00a0ms.One\u2010month imaging and electrical parameters remained stable.",
+    "summary": "This case report describes a 63-year-old patient with complete atrioventricular block in whom electrosurgical energy (40 W total AUTO CUT applied via stylet-driven pacing lead) successfully facilitated left bundle branch area pacing achievement after failed mechanical advancement, resulting in selective capture with improved electrical parameters and one-month stability. The case suggests electrosurgical-assisted lead positioning may be a useful technique for overcoming anatomic obstacles during LBBAP procedures, though procedural feedback optimization remains needed."
+  },
+  {
     "title": "Bilateral anterior carina low-temperature phenomenon during lattice-tip pulsed field ablation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005143?dgcid=rss_sd_all",
     "doi": null,
@@ -10,6 +74,47 @@
       "Other"
     ],
     "hot": false
+  },
+  {
+    "title": "Beyond One-Size-Fits-All: Personalized Selection of Contemporary ICD Therapies",
+    "link": "https://doi.org/10.1093/europace/euag200",
+    "doi": "10.1093/europace/euag200",
+    "journal": "EP Europace",
+    "date": "Aug 18, 2026",
+    "date_ts": 1787011200.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  Since the first human implantation in 1980, implantable cardioverter-defibrillators (ICDs) have transformed the prevention of sudden cardiac death. Today, multiple ICD platforms are available, each with distinct strengths and limitations, making individualized device selection essential to optimize outcomes and minimize complications.\n                  The transvenous ICD (TV-ICD) remains the most established technology, offering reliable defibrillation, antitachycardia pacing (ATP), and pacing support, but is limited by lead-related complications and infection risk. The subcutaneous ICD (S-ICD) avoids intravascular leads and is particularly attractive in younger patients and those at high risk of infection, although it lacks ATP and has shorter device longevity. The extravascular ICD (EV-ICD) is an emerging alternative designed to combine the advantages of both systems by providing ATP and shock therapy without intravascular leads, though implantation is more complex and long-term evidence remains limited.\n                  Given these differences, ICD selection should be guided by patient-specific clinical characteristics rather than a one-size-fits-all approach. Key determinants include pacing indication, prior lead failure, infection risk, body mass index, age, and arrhythmic substrate. The proposed clinical pathway offers a practical framework to support tailored ICD selection by integrating these variables into a structured decision-making process. Such an individualized approach may improve patient outcomes, reduce device-related complications, and enhance the appropriate adoption of contemporary ICD technologies.",
+    "summary": "This is a narrative review proposing a clinical decision-making framework for individualized ICD platform selection (transvenous, subcutaneous, or extravascular) based on patient-specific factors including pacing indication, infection risk, prior lead complications, and arrhythmic substrate to optimize outcomes and minimize complications. The authors argue that tailored device selection, rather than a standardized approach, may improve patient outcomes and reduce device-related adverse events."
+  },
+  {
+    "title": "Circadian rest-activity rhythm disruption and ventricular arrhythmias in ICD patients: a prospective wearable study",
+    "link": "https://doi.org/10.1093/europace/euag216",
+    "doi": "10.1093/europace/euag216",
+    "journal": "EP Europace",
+    "date": "Aug 18, 2026",
+    "date_ts": 1787011200.0,
+    "tags": [
+      "VT",
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Non\u2010Invasive Methods for Identifying Electrical Responders to Conduction System Pacing Cardiac Resynchronization Therapy",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70393?af=R",
+    "doi": "10.1111/pace.70393",
+    "journal": "PACE",
+    "date": "Aug 17, 2026",
+    "date_ts": 1786977930.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Conduction system pacing (CSP) is an emerging alternative modality of cardiac resynchronization therapy (CRT). However, not all patients obtain electrical resynchronization with CSP, there is a clinical need for reliable non\u2010invasive predictors of response. We aimed to assess the ability of several non\u2010invasive modalities to predict electrical resynchronization with CSP\u2010CRT.\n                  \n                  \n                    Methods\n                    Patients with standard heart failure CRT indications (excluding right\u2010bundle branch block) underwent CSP\u2010CRT using His\u2010bundle and left\u2010bundle branch pacing. Electrical resynchronization was defined as a &gt;10\u00a0ms reduction in left ventricular activation time or conversion to a physiological left ventricular activation pattern on non\u2010invasive multi\u2010electrode mapping. We assessed whether 12\u2010lead ECG morphology, vector electrocardiogram (VCG) derived QRS area, Ultra High Frequency (UHF)\u2010ECG parameters or MRI scar burden predicted electrical resynchronization.\n                  \n                  \n                    Results\n                    Thirty four patients were analyzed (mean age 69\u00b110 years; 82% male; LVEF 30\u00b16%; QRS duration 161\u00b123\u00a0ms; 32% ischemic cardiomyopathy). Electrical resynchronization was achieved in 24/34 (71%; 95%CI 53\u201385). Strauss criteria positivity on 12\u2010lead ECG yielded a positive predictive value (PPV) of 83% (95%CI 61\u201395%) and negative predictive value (NPV) of 55% (95%CI 23\u201383%). VCG QRS area &gt;100\u00b5Vs demonstrated PPV 100% (95% CI 81\u2013100%) and NPV 73% (95%CI 85\u2013100%). UHF\u2010ECG e\u2010DYS &gt;50\u00a0ms gave PPV 93% (95%CI 66\u2013100%) and NPV 47% (23%\u201372%); &gt;60\u00a0ms gave PPV 90% (95%CI 66\u2013100%) and NPV 38% (95%CI 18\u201362%). MRI scar burden &lt;15% resulted in PPV 88% (95%CI 64\u201399%) and NPV 56% (95%CI 21\u201386%). Lines of propagation discontinuity on multi\u2010electrode mapping showed PPV 100% (95%CI 85\u2013100%) and NPV 83% (95%CI 52\u201398%).\n                  \n                  \n                    Conclusions\n                    Multiple non\u2010invasive markers, including QRS morphology, VCG QRS area, UHF\u2010ECG e\u2010DYS, MRI scar burden showed potential to identify patients who are likely to electrically resynchronize with CSP\u2010CRT, although their NPVs were generally modest. Non\u2010invasive propagation mapping had the highest PPV and NPV.",
+    "summary": "This prospective observational study (n=34) evaluated non-invasive predictors of electrical resynchronization in patients undergoing conduction system pacing-cardiac resynchronization therapy, finding that vector electrocardiogram QRS area >100\u00b5Vs and non-invasive propagation mapping demonstrated the highest positive and negative predictive values (100% and 83%, respectively) for predicting successful electrical resynchronization, though other markers including Strauss criteria, ultra-high frequency ECG, and MRI scar burden showed modest utility."
   },
   {
     "title": "Low\u2010Voltage Area Ablation for Persistent Atrial Fibrillation: Meta\u2010Analysis and Trial Sequential Analysis of RCTs",
@@ -1636,6 +1741,44 @@
     "date_ts": 1785548681.140339,
     "tags": [
       "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Optogenetic tachypacing facilitates burst-induced arrhythmia in stem cell-derived human atrial engineered heart tissue",
+    "link": "https://doi.org/10.1093/europace/euag158",
+    "doi": "10.1093/europace/euag158",
+    "journal": "EP Europace",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Large animal models for atrial fibrillation (AF) research are ethically challenging and costly. Suitable humanized in vitro models could circumvent these problems. Here, we aimed to combine tissue engineering, human induced pluripotent stem cell-derived atrial cardiomyocytes (hiPSC-aCM), and optogenetic pacing to trigger an in vitro fibrillation-like state, which can be analysed by simple video recording.\n                  \n                  \n                    Methods and results\n                    Atrial engineered heart tissue (aEHT) was created from hiPSC-aCM and transduced with adeno-associated virus vectors to express the channelrhodopsins CheRiff2.0, Chronos, or PsCatCh2.0f, respectively. We developed novel optogenetic hardware, based on microcontroller programmable light-emitting diodes. The interplay between aEHTs and hardware was optimized, and different pacing patterns were evaluated. Electrical burst pacing was evaluated for arrhythmia induction. Tissue constructs were analysed with regard to action potential, gene and protein expression, and structure. We found our optimized CheRiff2.0 best suitable for optogenetic pacing of aEHT at up to 5\u2005Hz. Atrial EHT could be faithfully tachypaced at 4\u2005Hz for 2.5 weeks. After 5 weeks, electrical burst pacing (20\u2005Hz, 0.5\u2005s) successfully induced self-sustained episodes of a state of fast beating, lower force, and incomplete relaxation. The propensity of these burst-evoked episodes of fibrillation was 3.2-fold higher in long-term paced aEHT than in non-paced controls. Action potential shape and gene expression recapitulated typical features of AF in the tachypaced aEHTs.\n                  \n                  \n                    Conclusion\n                    We successfully created a first-of-its-kind in vitro model of AF, recapitulating the self-sustainability of atrial arrhythmia (\u2018AF begets AF\u2019). Fibrillation-like episodes can be verified by visual inspection, rendering analysis possible without an electrophysiological setup.",
+    "summary": "This proof-of-concept study developed an in vitro atrial fibrillation model using human induced pluripotent stem cell-derived atrial cardiomyocytes transduced with optogenetic channelrhodopsins and subjected to chronic tachypacing followed by electrical burst pacing, successfully inducing self-sustained fibrillation-like episodes with a 3.2-fold higher propensity in paced versus control tissues and molecular features consistent with AF. This humanized tissue-engineering approach provides a cost-effective alternative to large animal models for studying atrial arrhythmia mechanisms and AF perpetuation."
+  },
+  {
+    "title": "From Mitochondria to Arrhythmia: Rare Phenotype of MELAS Presenting with Long QT Type 3 Pattern",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.033",
+    "doi": "10.1016/j.hrcr.2026.07.033",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Catheter Ablation of Persistent Atrial Fibrillation in Cor Triatriatum With Repaired Unroofed Coronary Sinus and Persistent Left Superior Vena Cava",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.08.005",
+    "doi": "10.1016/j.hrcr.2026.08.005",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "AFib"
     ],
     "hot": false
   },
@@ -6083,141 +6226,5 @@
       "Other"
     ],
     "hot": false
-  },
-  {
-    "title": "What is the best strategy for thromboembolic prophylaxis in patients with chronic kidney disease and atrial fibrillation?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025427?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.460816,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "In Vitro Assessment of Contemporary Leadless and Transvenous Pacemakers During Photon-Based Radiotherapy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602535X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.460752,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Generalized Coronary Spasm after Pulsed Field Ablation: Not a device complication alone, but a possible interaction between technology and host biology",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025415?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.460713,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical Significance of Persistent Iatrogenic Atrial Septal Defect After Catheter Ablation for Atrial Fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025385?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.46067,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Right- versus left-sided transvenous lead extraction: procedural complexity, complications, outcomes, and the role of bilateral procedures",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025361?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.460625,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "One Versus Two 3-Minute Cryoballoon Ablations Per Pulmonary Vein for Paroxysmal Atrial Fibrillation: The One Freeze Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025397?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.460466,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Is there an effect of gender on phenotypical expression of genetically mediated sinus node dysfunction?",
-    "link": "https://doi.org/10.1093/europace/euag177",
-    "doi": "10.1093/europace/euag177",
-    "journal": "EP Europace",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783555200.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical flaws in the breast cancer ADAM10 and atrial fibrillation study",
-    "link": "https://doi.org/10.1093/eurheartj/ehag491",
-    "doi": "10.1093/eurheartj/ehag491",
-    "journal": "European Heart Journal",
-    "date": "Jul 08, 2026",
-    "date_ts": 1783468800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Characteristics of Vagal Response During Radiofrequency Pulmonary Vein Isolation in Paroxysmal Atrial Fibrillation With Heart Failure",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70428?af=R",
-    "doi": "10.1111/jce.70428",
-    "journal": "J Cardiovasc EP",
-    "date": "Jul 08, 2026",
-    "date_ts": 1783543439.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Vagal response (VR) was thought to the successful rate in catheter ablation of atrial fibrillation (AF). However, little is known about VR during pulmonary vein isolation (PVI) in AF and heart failure (HF). This study aims at investigating the incidence, risk factors and clinical outcomes of VR during PVI in paroxysmal AF with HF.\n                  \n                  \n                    Methods\n                    A total of 551 paroxysmal AF patients were enrolled and classified according to HF status: without HF, HF with preserved, reduced and mildly reduced ejection fraction. The VR was defined as atrioventricular block, asystole or an increase in the R\u2010R interval by 50% during ablation.\n                  \n                  \n                    Results\n                    \n                      VR had the same occurrence rate between patients without HF and those with HFpEF (63 [20.5%] vs. 22 [18.9%],\n                      p\n                      \u2009=\u20090.722). However, VR were less frequently observed in HFmrEF and HFrEF(3 [5.0%] and 2 [2.9%],\n                      p\n                      \u2009=\u20090.004 and &lt;\u20090.001 compared with without HF, respectively). Left ventricular EF\u2009\u2265\u200950% was independently associated with intraprocedural VR by multivariable analysis (\n                      p\n                      \u2009=\u20090.007). Patients with HFrEF or HFmrEF showed a higher mean and slower heart rate with decreased heart rate variability than those without HF. After 18.3\u2009\u00b1\u20097.4 months' follow\u2010up, 2 of 22 (9.0%) HFpEF patients with VR and 12 of 94 (12.8%) without VR had AF recurrence (\n                      p\n                      \u2009=\u20090.942). Four HFrEF or HFmrEF patients with VR maintained sinus rhythm during 18.3\u2009\u00b1\u20094.9 months' follow\u2010up.\n                    \n                  \n                  \n                    Conclusion\n                    Intraprocedural VR is not uncommon in HFpEF but is rarely observed in HFmrEF and HFrEF. Autonomic nervous system remodeling in HF, manifesting as a decrease in heart rate variability, might be the underlying reason. VR does not indicate a better clinical outcome in HFpEF.",
-    "summary": "This retrospective study of 551 paroxysmal AF patients undergoing PVI found that vagal response occurred in 20.5% of patients without HF and 18.9% with HFpEF, but significantly less frequently in HFmrEF (5.0%) and HFrEF (2.9%), with preserved ejection fraction (\u226550%) independently associated with intraprocedural vagal response; importantly, vagal response did not predict better AF recurrence outcomes at 18-month follow-up in HFpEF patients."
-  },
-  {
-    "title": "Smarter Alerts, Smaller Patients: AI\u2010Enhanced Implantable Loop Recorder Monitoring in Children",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70425?af=R",
-    "doi": "10.1111/jce.70425",
-    "journal": "J Cardiovasc EP",
-    "date": "Jul 08, 2026",
-    "date_ts": 1783543357.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Subclinical Venous Injury in Transvenous Lead Extraction: Histological Correlation With Clinical Risk Factors",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70402?af=R",
-    "doi": "10.1111/jce.70402",
-    "journal": "J Cardiovasc EP",
-    "date": "Jul 08, 2026",
-    "date_ts": 1783543222.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Transvenous lead extraction (TLE) is a commonly performed and generally safe procedure, though procedural complexity and risk can vary based on clinical and procedural factors.\n                  \n                  \n                    Objective\n                    This study aims to identify clinical and procedural factors associated with histologic evidence of subclinical vascular injury, defined by elastin positivity on extracted leads and its clinical significance.\n                  \n                  \n                    Methods\n                    Patients undergoing TLE with a lead dwell time of \u2265\u20091 year were included. Extracted leads with tissue were analyzed histologically using Verhoeff\u2013Van Gieson staining to assess the presence of elastin. Demographic data, procedural and lead characteristics, and indication for extraction were obtained. Established extraction risk scores were calculated to determine efficacy in predicting subclinical vascular injury.\n                  \n                  \n                    Results\n                    \n                      The cohort included 49 patients with 92 leads extracted. A total of 25 patients (51%) had elastin\u2010positive leads. Complete procedural success occurred in 95.9% of cases. The multivariate regression model did not identify any independent predictors of elastin presence, including age (OR\u2009=\u20091.00; 95% CI 0.95\u20131.05;\n                      p\n                      \u2009=\u20090.89), female gender (OR\u2009=\u20093.04; 95% CI 0.67\u201313.65;\n                      p\n                      \u2009=\u20090.14), lead dwell time (OR\u2009=\u20091.13; 95% CI 0.98\u20131.29;\n                      p\n                      \u2009=\u20090.07). Additionally, no scoring system, such as the CCF, EROS, MB, SAFeTY, and LECOM, predicted the presence of elastin.\n                    \n                  \n                  \n                    Conclusion\n                    Subclinical venous injury was common following TLE, yet did not predict adverse clinical outcomes, reinforcing that TLE performed in experienced centers carries a favorable safety profile. Future studies in larger cohorts are needed to further characterize the clinical utility of subclinical vascular injury.",
-    "summary": "This retrospective cohort study of 49 patients undergoing transvenous lead extraction examined histologic evidence of subclinical vascular injury (elastin positivity on extracted leads) and found that while 51% of patients had elastin-positive leads, no clinical or procedural factors predicted their presence and none of the established extraction risk scores were predictive. Complete procedural success occurred in 95.9% of cases with no adverse outcomes attributable to subclinical vascular injury, supporting the safety of TLE in experienced centers despite the histologic findings."
   }
 ]
