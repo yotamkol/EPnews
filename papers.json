@@ -1,5 +1,47 @@
 [
   {
+    "title": "Left Bundle Branch Area Pacing in Congenital Heart Disease: Current Evidence, Challenges, and Future Directions",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70402?af=R",
+    "doi": "10.1111/pace.70402",
+    "journal": "PACE",
+    "date": "Aug 20, 2026",
+    "date_ts": 1787199913.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Left bundle branch area pacing (LBBAP) has emerged as a promising alternative to right ventricular apical pacing in patients with congenital heart disease (CHD), yet its application in this population remains underexplored despite unique anatomical and physiological challenges. This review synthesizes current evidence on LBBAP in CHD, including anatomical considerations of the conduction system, lead selection between lumenless and stylet\u2010driven leads, technical modifications for different substrates, and clinical outcomes. In congenitally corrected transposition of the great arteries (CCTGA), the paradoxically anterior conduction system creates favorable anatomy for LBBAP, with reported success rates of 86%\u2013100% in small observational series. CHD\u2010specific data from Moore et\u00a0al. demonstrated superior QRS narrowing with conduction system pacing (CSP) compared to conventional CRT (35 vs. 14\u00a0ms;\n                    p\n                    \u00a0=\u00a00.04). One randomized trial and multiple meta\u2010analyses comparing lumenless and stylet\u2010driven leads demonstrate comparable success rates but distinct safety profiles, with implications for lead choice in CHD patients requiring lifelong pacing. The 2023 HRS/APHRS/LAHRS and 2025 ACC/AHA guidelines now recognize CSP as a therapeutic option in selected patients, though these endorsements are not specific to LBBAP in CHD. CHD\u2010specific evidence remains limited to case series and small observational studies. This review provides a practical framework for patient selection, lead choice, and procedural planning while identifying key research priorities for this growing patient population.",
+    "summary": "This narrative review synthesizes evidence on left bundle branch area pacing (LBBAP) in congenital heart disease patients, demonstrating superior QRS narrowing with conduction system pacing versus conventional cardiac resynchronization therapy (35 vs. 14 ms; p=0.04) and high success rates (86-100%) particularly in congenitally corrected transposition of the great arteries, though current evidence remains limited to case series and small observational studies without large randomized controlled trials specific to this population."
+  },
+  {
+    "title": "Real\u2010World Safety of Two Pulsed Field Ablation Catheters for Atrial Fibrillation: A MAUDE Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70396?af=R",
+    "doi": "10.1111/pace.70396",
+    "journal": "PACE",
+    "date": "Aug 20, 2026",
+    "date_ts": 1787198104.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Two pulsed field ablation (PFA) catheter systems for atrial fibrillation (AF) are widely adopted: the Affera Sphere\u20109 (Medtronic) and the Varipulse (Biosense Webster). Their comparative real\u2010world safety is unknown.\n                  \n                  \n                    Methods\n                    We searched the FDA MAUDE database (June 27, 2026) for all reports naming either catheter since U.S. release. After excluding duplicates and non\u2010catheter components, 743 Affera and 361 Varipulse reports remained. Reports were classified by FDA Event Type (device\u2010 vs. patient\u2010related) and complication status, with complications grouped by organ system. Proportions were compared with chi\u2010square or Fisher exact tests in R 4.3.3.\n                  \n                  \n                    Results\n                    \n                      Neurologic events were far more frequent among Varipulse reports (44.3\u00a0%\u00a0vs. 14.8%;\n                      P\n                      \u00a0&lt;\u00a00.001), driven by stroke (38.0%\u00a0vs. 9.7%;\n                      P\u00a0\n                      &lt;\u00a00.001). Cardiovascular events predominated among Affera reports (43.2%\u00a0vs. 29.1%;\n                      P\n                      \u00a0&lt;\u00a00.001), including ventricular fibrillation (52\u00a0vs. 1), heart block (8.7%\u00a0vs. 1.4%; P\u00a0&lt;\u00a00.001), and hypotension (5.5%\u00a0vs. 0.8%;\n                      P\n                      &lt;0.001); effusion/tamponade was more frequent with Varipulse (15.2%\u00a0vs. 9.0%;\n                      P\n                      = 0.003). Complication\u2010free reports were more frequent with Affera (35.3%\u00a0vs. 21.1%;\n                      P\n                      \u00a0&lt;\u00a00.001). Deaths did not differ (2.6%\u00a0vs 1.4%;\n                      P\n                      = 0.30).\n                    \n                  \n                  \n                    Conclusions\n                    These PFA systems show distinct reported safety signatures: neurologic/stroke\u2010predominant for Varipulse and cardiovascular/arrhythmic (ventricular fibrillation, heart block) for Affera. Because MAUDE lacks procedural denominators, these proportions describe reported events, not incidence. Prospective, patient\u2010level studies are needed to establish causation.",
+    "summary": "This retrospective analysis of FDA MAUDE database reports (743 Affera Sphere-9 and 361 Varipulse cases since U.S. release) identified distinct safety signatures between the two pulsed field ablation catheter systems: Varipulse demonstrated higher rates of neurologic events and stroke (44.3% vs. 14.8%, P<0.001), while Affera showed higher cardiovascular complications including ventricular fibrillation, heart block, and hypotension (43.2% vs. 29.1%, P<0.001), with no significant difference in mortality between systems. The authors acknowledge that without procedural denominators,"
+  },
+  {
+    "title": "Management of Left Atrial Appendage Thrombi and Spontaneous Echo Contrast",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70404?af=R",
+    "doi": "10.1111/pace.70404",
+    "journal": "PACE",
+    "date": "Aug 20, 2026",
+    "date_ts": 1787197976.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    To analyze the efficacy and safety of various anticoagulation strategies/regimen used for managing thrombus or spontaneous echo contrast in the left atrial appendage.\n                  \n                  \n                    Methods\n                    Thrombus or spontaneous echo contrast in the left atrial appendage was detected via transesophageal echocardiography in 83 patients, most often during a stroke assessment. The chosen anticoagulants were compared, and follow\u2010up was conducted with repeated transesophageal echocardiograms.\n                  \n                  \n                    Results\n                    \n                      Heparin and vitamin K antagonists (VKAs) were the most commonly selected treatment regimens. The initial resolution rate was approximately 30% across all treatment regimens after a follow\u2010up of 8\u00a0\u00b1\u00a08 weeks (DOACs 30%, VKAs 30%, heparin 25%,\n                      p\n                      \u00a0 = \u00a00.9). Continuing the same protocol or switching to a direct oral anticoagulant (DOAC) were the main alternatives when the thrombus persisted after the first echocardiographic control. An additional 22% of patients with repeated controls experienced resolution after 23\u00a0\u00b1\u00a014 weeks of anticoagulant treatment. Major bleeding events were observed in 3% of patients.\n                    \n                  \n                  \n                    Conclusion\n                    Resolution of thrombi/echo contrasts was noted in a significant proportion of patients with our management approach, without apparent significant differences between treatment regimens (difficult to interpret due to the low number of patients under DOACs). Bleeding complications remain significant.",
+    "summary": "This retrospective observational study of 83 patients with left atrial appendage thrombus or spontaneous echo contrast found that initial resolution rates were approximately 30% across all anticoagulation strategies (DOACs, VKAs, heparin) at 8 weeks, with an additional 22% achieving resolution after continued or switched therapy at 23 weeks, though major bleeding occurred in 3% of patients. No significant differences in efficacy were observed between anticoagulation regimens, though the study was underpowered to detect differences in DOAC use."
+  },
+  {
     "title": "Depolarization and Repolarization Mapping in VT: Catching the Wavefront by the Tail",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006663?dgcid=rss_sd_all",
     "doi": null,
@@ -107,6 +149,19 @@
     "date_ts": 1787185998.5747,
     "tags": [
       "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Latent Transforming Growth Factor Beta Binding Protein 4 as a Biomarker of Arrhythmia-Induced Cardiomyopathy in Atrial Fibrillation: Insights from a High-Throughput Proteomic Analysis",
+    "link": "https://doi.org/10.1093/europace/euag224",
+    "doi": "10.1093/europace/euag224",
+    "journal": "EP Europace",
+    "date": "Aug 20, 2026",
+    "date_ts": 1787184000.0,
+    "tags": [
+      "AFib",
+      "Genetics"
     ],
     "hot": false
   },
@@ -1948,6 +2003,55 @@
     "date_ts": 1785548681.140339,
     "tags": [
       "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Serial High-Density Mapping Reveals Left Atrial Substrate Progression Despite Durable Pulmonary Vein Isolation",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.08.006",
+    "doi": "10.1016/j.hrcr.2026.08.006",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Analysis of activation recovery interval at the Purkinje fiber-myocardial junction (ARIPMJ) in ventricular fibrillation storm triggered by premature ventricular contractions: a case report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.08.008",
+    "doi": "10.1016/j.hrcr.2026.08.008",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Inappropriate ventricular fibrillation detection by extravascular implantable cardioverter-defibrillator",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.08.009",
+    "doi": "10.1016/j.hrcr.2026.08.009",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "VT",
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Overcoming Anatomical Complexity: Atrial Flutter Ablation in the setting of Left Atrial Isomerism and surgically repaired sinus venosus defect",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.08.007",
+    "doi": "10.1016/j.hrcr.2026.08.007",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "AFib"
     ],
     "hot": false
   },
@@ -6140,102 +6244,6 @@
     "date_ts": 1783561663.461716,
     "tags": [
       "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "HRS/ISACHD/PACES scientific statement on provider and institutional best practices for comprehensive adult congenital heart disease electrophysiology programs",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712600113X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.461667,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left Atrial Mechanical Function Following Hybrid Epicardial\u2013Endocardial Versus Endocardial Catheter Ablation: A Randomized Mechanistic Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025129?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.461623,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Bidirectional Conduction Within a False Tendon as a Shared Isthmus for Two Distinct Fascicular Ventricular Tachycardias",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025130?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.461591,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsed Field Ablation With a Variable Loop Circular Catheter in Atrial Fibrillation: Acute Outcomes From the VARIPURE Multicenter Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025166?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.461558,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Functional and Electrical Responses to Ventricular Pulsed Field Ablation: First Human Characterization of Myocardial Excitability Kinetics",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025233?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.461522,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Polygenic risk scores enhance prediction of atrial fibrillation disease progression: an analysis of the UK Biobank",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025191?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.461487,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Feasibility and Safety of Combined Left Atrial Appendage Occlusion and Catheter Ablation in Persistent Atrial Fibrillation with Left Atrial Appendage Thrombus: The COAT Procedure",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025257?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.46145,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ECG Noise Filter of Patients with Implanted Left Ventricular Assist Device",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025245?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.46142,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
