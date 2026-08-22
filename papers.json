@@ -1,5 +1,155 @@
 [
   {
+    "title": "Climate change comes to atrial fibrillation ablation: The heat wave is over, the ice age has ended",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025816?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 22, 2026",
+    "date_ts": 1787358765.837118,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Irrigation-Dependent Acute Ganglionated Plexus Modulation During Variable-Loop Pulsed Field Ablation",
+    "link": "https://doi.org/10.1093/europace/euag218",
+    "doi": "10.1093/europace/euag218",
+    "journal": "EP Europace",
+    "date": "Aug 21, 2026",
+    "date_ts": 1787270400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left Atrial Appendage Closure Versus Oral Anticoagulation in Atrial Fibrillation: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+    "link": "https://doi.org/10.1161/circep.126.015245",
+    "doi": "10.1161/circep.126.015245",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Aug 21, 2026",
+    "date_ts": 1787270400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    Left atrial appendage closure (LAAC) is an alternative to oral anticoagulation (OAC) for stroke prevention in patients with atrial fibrillation, but randomized controlled trials have primarily focused on composite end points, potentially obscuring differences in individual clinical outcomes. We compared the efficacy and safety of LAAC versus OAC with an emphasis on individual clinical outcomes.\n                  \n                  \n                    METHODS:\n                    A systematic review and meta-analysis of randomized controlled trials comparing LAAC with OAC in adults with atrial fibrillation was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Databases were searched from January 2000 to March 2026. The primary efficacy end point was any stroke, and the primary safety end point was major bleeding. Risk ratios (RRs) with 95% CIs were pooled using a random-effects model.\n                  \n                  \n                    RESULTS:\n                    \n                      Six randomized controlled trials comprising 7004 patients (3681 LAAC; 3323 OAC) were included. LAAC was associated with a higher risk of ischemic stroke (RR, 1.41 [95% CI, 1.04\u20131.91];\n                      P\n                      =0.03; 3.2% versus 2.1%), without a significant difference in any stroke (RR, 1.08 [95% CI, 0.82\u20131.42];\n                      P\n                      =0.60) or the composite of stroke, systemic embolism, or death (RR, 0.99 [95% CI, 0.77\u20131.29];\n                      P\n                      =0.96). Cardiovascular mortality (RR, 0.88;\n                      P\n                      =0.40) and all-cause mortality (RR, 0.92;\n                      P\n                      =0.36) were similar between groups. Major bleeding, including procedural events, did not differ significantly (RR, 0.93;\n                      P\n                      =0.40), although LAAC was associated with a significantly lower risk of nonprocedural major bleeding (RR, 0.57 [95% CI, 0.43\u20130.77];\n                      P\n                      &lt;0.01; 6.2% versus 10.7%).\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    In patients with atrial fibrillation, LAAC is associated with a higher risk of ischemic stroke, but lower risk of nonprocedural major bleeding compared with OAC, with no significant differences in composite thromboembolic outcomes or mortality, underscoring the importance of individualized risk-benefit assessment in stroke prevention strategies.",
+    "summary": "This meta-analysis of 6 RCTs (7,004 patients: 3,681 LAAC vs 3,323 OAC) found that left atrial appendage closure was associated with higher ischemic stroke risk (3.2% vs 2.1%; RR 1.41) but lower nonprocedural major bleeding (6.2% vs 10.7%; RR 0.57) compared to oral anticoagulation, with no significant differences in composite thromboembolic outcomes or mortality in atrial fibrillation patients."
+  },
+  {
+    "title": "Transmurality and Autonomic Effects of Pulsed Field Ablation on the Mitral Isthmus",
+    "link": "https://doi.org/10.1161/circep.126.015125",
+    "doi": "10.1161/circep.126.015125",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Aug 21, 2026",
+    "date_ts": 1787270400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    Radiofrequency ablation of the mitral isthmus (MI) is unreliable. Vein of Marshall (VOM) ethanol infusion can improve MI ablation success and eliminate local MI autonomic innervation. The role of pulsed field ablation (PFA) in MI ablation and its autonomic effect is unclear. We evaluated the transmurality of endocardial PFA at the MI and its autonomic effects, using real-time epicardial VOM electrograms and VOM high-frequency stimulation.\n                  \n                  \n                    METHODS:\n                    Patients undergoing atrial fibrillation ablation (n=71) were prospectively enrolled. MI ablation (endocardial to VOM) was delivered using FaraPulse (N=31), PulseSelect (N=9), or Affera (N=31) while monitoring VOM epicardial electrograms to assess transmurality, defined as VOM signal elimination after 20 minutes. MI block was assessed using differential pacing from the left atrial appendage and VOM. High-frequency stimulation from the VOM was performed before and after PFA. VOM ethanol infusion was administered when MI ablation was incomplete.\n                  \n                  \n                    RESULTS:\n                    \n                      Endocardial PFA led to durable epicardial electrogram attenuation in 52.1% (FaraPulse in 38.7%, PulseSelect in 44.4%, and Affera in 67.7%;\n                      P\n                      &lt;0.05). Myocardial capture with VOM pacing persisted in 43.7% (FaraPulse in 45.2%, PulseSelect in 100%, and Affera in 25.8%;\n                      P\n                      &lt;0.05). Pseudoblock (epicardial-only MI conduction and MI delays) was present in 38%. MI block was achieved with PFA alone in 45% (32/71) of patients; VOM ethanol infusion achieved MI block in an additional 38% (27/71) of patients for a cumulative 83% (59/71); and coronary sinus ablation was required in the remaining 17% (12/71). After PFA, VOM high-frequency stimulation elicited intact parasympathetic responses evidenced as atrioventricular block.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    Across all 3 PFA platforms, endocardial ablation of the MI is not reliably transmural and does not ablate VOM parasympathetic innervation. VOM ethanol infusion can complete transmurality and denervation of the MI.",
+    "summary": "This prospective study of 71 patients undergoing atrial fibrillation ablation compared three pulsed field ablation (PFA) platforms for mitral isthmus ablation, finding that endocardial PFA achieved durable transmurality in only 52.1% of cases and failed to ablate autonomic innervation, requiring adjunctive vein of Marshall ethanol infusion in 38% and coronary sinus ablation in 17% to achieve complete mitral isthmus block."
+  },
+  {
+    "title": "Low Voltage Areas in the Left Atrium After Sole Pulmonary Vein Isolation as a Predictor of Atrial Fibrillation Recurrence\u2014Based on Sequential Voltage Map Analysis Using High\u2010Density Mapping Catheters",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70463?af=R",
+    "doi": "10.1111/jce.70463",
+    "journal": "J Cardiovasc EP",
+    "date": "Aug 20, 2026",
+    "date_ts": 1787249101.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Low\u2010voltage areas (LVA) in the left atrium (LA) have been linked to atrial fibrillation (AF) recurrence. However, prior studies lacked high\u2010density mapping catheter (HMDC) mapping, included non\u2010pulmonary vein isolation (PVI) ablation strategies, and did not follow temporal progression of LVA in individuals.\n                  \n                  \n                    Methods and Results\n                    \n                      We retrospectively analyzed 1661 AF patients who had undergone initial ablation using PVI alone, and in whom voltage maps of the LA had been created with HDMCs. We investigated the relationship between LVA size (Small\u2010LVA group: LVA\u2009&lt;\u20095\u2009cm\n                      2\n                      and Extensive\u2010LVA group: LVA\u2009\u2265\u20095\u2009cm\n                      2\n                      ) and AF recurrence. HDMCs were again used to map the LA at the time of the re\u2010do ablation. A total of 711 patients met our inclusion criteria (Small\u2010LVA 554, Extensive\u2010LVA 157). During the mean follow\u2010up period of 643.6\u2009\u00b1\u2009490.5 days, 21% of Small\u2010LVA patients (\n                      n\n                      \u2009=\u2009117) and 33% of Extensive\u2010LVA patients (\n                      n\n                      \u2009=\u200952) experienced recurrence (\n                      p\n                      \u2009&lt;\u20090.005), of whom 106 (63%) underwent redo ablation. Belonging to the Extensive\u2010LVA group was predictive of AF recurrence both after the initial ablation and after the redo ablation. They also exhibited greater non\u2013PV related recurrence. Time\u2010dependent progression of LVA was observed in 32 patients with a mean increase of 4.7\u2009\u00b1\u20095.1\u2009cm\n                      2\n                      and was significantly more frequent in the Extensive\u2010LVA group. This progression was not linked to AF recurrence.\n                    \n                  \n                  \n                    Conclusion\n                    We used high\u2010density mapping to evaluate left atrial LVA in patients who had only received PVI, and demonstrated LVA influence on AF recurrence and recurrence patterns.",
+    "summary": "This retrospective study of 711 AF patients undergoing PVI-only ablation with high-density mapping found that extensive low-voltage areas (\u22655 cm\u00b2) predicted higher AF recurrence rates (33% vs. 21% in small-LVA group, p<0.005) and were associated with greater non-PV-related recurrence, though temporal LVA progression itself was not linked to recurrence outcomes."
+  },
+  {
+    "title": "High\u2010Risk ECG in Syncope: High Risk or Overstated?",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70476?af=R",
+    "doi": "10.1111/jce.70476",
+    "journal": "J Cardiovasc EP",
+    "date": "Aug 20, 2026",
+    "date_ts": 1787248824.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Proposed emergency department approach to syncope. After confirming true syncope and excluding immediately apparent diagnoses, assessment focuses on identifying patients at high risk of clinically significant bradyarrhythmia or other specific cardiac conditions requiring hospital admission, while avoiding unnecessary admission for isolated non-specific ECG abnormalities. The proposed recommendations and algorithm reflect the authors' interpretation of the available evidence and are intended to complement current ESC recommendations. Although informed by observational studies, they remain exploratory and have not yet been prospectively validated.",
+    "summary": "This is a narrative review proposing an emergency department syncope evaluation algorithm that prioritizes identifying high-risk patients with cardiac arrhythmias or conditions requiring admission while minimizing unnecessary hospitalization for isolated ECG abnormalities; however, the recommendations remain exploratory and lack prospective validation."
+  },
+  {
+    "title": "Spatial Clustering and High\u2010Frequency Characteristics of Residual Conduction in the Left Atrial Posterior Wall",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70479?af=R",
+    "doi": "10.1111/jce.70479",
+    "journal": "J Cardiovasc EP",
+    "date": "Aug 20, 2026",
+    "date_ts": 1787248562.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Left atrial posterior wall (LAPW) isolation is frequently limited by residual conduction (RC) despite apparently complete endocardial linear lesions. Such conduction may involve interbundle connections between the septo\u2010atrial and septo\u2010pulmonary bundles or deeper conduction pathways. However, the spatial distribution and electrophysiological characteristics of these functionally defined RCs remain incompletely understood in clinical settings.\n                  \n                  \n                    Methods\n                    Twenty\u2010two patients undergoing LAPW isolation were prospectively studied. Among 22 patients, 11 required additional ablation after a confirmed roof and bottom line block, in whom residual electrograms were mapped using peak frequency (PF) analysis with the EnSite system. The LAPW was divided into nine predefined anatomical segments, and segments requiring ablation to achieve complete isolation were defined as RC\u2010positive.\n                  \n                  \n                    Results\n                    \n                      RC\u2010positive segments predominantly clustered in the mid\u2010central region (82%), whereas other regions were less frequently involved. PF was significantly higher in RC\u2010positive than in RC\u2010negative segments (460 [380\u2013520] vs. 300 [250\u2013400]\u2009Hz;\n                      p\n                      \u2009&lt;\u20090.001), and a PF cutoff of 365\u2009Hz demonstrated moderate discriminatory performance (area under the curve, 0.796). RC\u2010positive segments exhibited greater electrogram fractionation during both atrial fibrillation and atrial pacing, consistent with increased local conduction complexity. Targeted ablation at these sites resulted in complete LAPW isolation in all cases without complications.\n                    \n                  \n                  \n                    Conclusion\n                    Functionally defined RC within the LAPW exhibits a nonuniform spatial distribution with mid\u2010central clustering and distinct electrophysiological characteristics. PF\u2010based mapping may facilitate targeted identification of these regions and provide functional insights into potential non\u2010endocardial conduction pathways in incomplete LAPW isolation.",
+    "summary": "This prospective study of 22 patients undergoing left atrial posterior wall isolation identified residual conduction in 11 patients and demonstrated that residual conduction sites cluster predominantly in the mid-central region with significantly higher peak frequency (460 vs. 300 Hz; p<0.001) compared to conduction-free segments, suggesting peak frequency analysis may help guide targeted ablation of cryptic conduction pathways responsible for incomplete isolation."
+  },
+  {
+    "title": "Mechanisms of Recurrent Arrhythmia in Patients With Prior Surgical Ablation of Atrial Fibrillation Who Undergo Catheter Ablation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70477?af=R",
+    "doi": "10.1111/jce.70477",
+    "journal": "J Cardiovasc EP",
+    "date": "Aug 20, 2026",
+    "date_ts": 1787248474.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Atrial tachyarrhythmias frequently recur after surgical ablation and often require catheter ablation (CA).\n                  \n                  \n                    Methods\n                    We conducted a retrospective cohort study of patients who underwent CA for symptomatic atrial fibrillation or flutter (AF hereafter) following surgical ablation. Clinical data, including patient and surgical characteristics and results of electrophysiology testing and mapping, were recorded. Recurrence was defined as 30\u2009s of AF, atrial flutter, or atrial tachycardia following a 3\u2010month blanking period.\n                  \n                  \n                    Results\n                    \n                      Thirty\u2010seven patients were included in the study (mean age 67.0\u2009\u00b1\u20099.8 years, 43% female) who underwent isolated surgical ablation (\n                      n\n                      \u2009=\u20095), concomitant mitral valve surgery (\n                      n\n                      \u2009=\u200921), aortic valve (\n                      n\n                      \u2009=\u20095), tricuspid valve surgery (\n                      n\n                      \u2009=\u20096), and/or coronary artery bypass grafting (\n                      n\n                      \u2009=\u20096). The mean time from surgical ablation to CA was 5.9\u2009\u00b1\u20095.1 years. Among the 37 patients, 19 (51%) experienced one or more pulmonary vein reconnections (mean 3.0\u2009\u00b1\u20091.3 veins per patient), and 15 (41%) developed mitral annular flutter. Following ablation, 12 (32%) patients developed recurrent arrhythmia by 1\u2010year post\u2010ablation. Age, sex, body mass index, time from surgical ablation to CA left ventricular ejection fraction &lt;\u200950%, prior CA, left atrial diameter, and mitral annular flutter were not associated with recurrence. The number of pulmonary vein reconnections at the time of repeat CA was predictive of arrhythmia recurrence in subsequent follow\u2010up (OR 2.148 [95% CI: 1.059\u22124.357];\n                      p\n                      \u2009=\u20090.034).\n                    \n                  \n                  \n                    Conclusions\n                    Pulmonary vein reconnection and mitral annular flutter are common recurrence mechanisms in patients with symptomatic arrhythmia recurrence following surgical ablation. The number of pulmonary vein reconnections predicts recurrent arrhythmia.",
+    "summary": "This retrospective cohort study of 37 patients undergoing catheter ablation for atrial arrhythmias recurring after surgical ablation found that pulmonary vein reconnections (occurring in 51% of patients) and mitral annular flutter (41%) were common mechanisms of recurrence, with the number of reconnected pulmonary veins independently predicting 1-year arrhythmia recurrence (32% recurrence rate; OR 2.148, p=0.034). Traditional clinical variables including age, ejection fraction, and left atrial size were not associated with recurrence."
+  },
+  {
+    "title": "Characterization of AF Recurrence and Substrate Health by Electrographic Flow (EGF) Consistency in EGF Mapping",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70466?af=R",
+    "doi": "10.1111/jce.70466",
+    "journal": "J Cardiovasc EP",
+    "date": "Aug 20, 2026",
+    "date_ts": 1787248013.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Electrographic flow (EGF) mapping is an FDA 510(k)\u2010cleared method for visualizing atrial activation wavefronts in atrial fibrillation (AF). Its clinical efficacy in detecting AF sources was demonstrated in the FLOW\u2010AF randomized controlled trial, and the underlying machine learning strategy used to develop and refine EGF source detection has been recently detailed. However, EGF mapping metrics can also characterize other properties of atrial wavefront propagation\u2014most notably Electrographic Flow Consistency (EGFC) as a measure of the health of the atrial substrate. Patients with low EGFC have been found to have recurrent AF more frequently than those with high EGFC. EGFC may therefore be additive to source presence to phenotype AF patients based on mechanism of disease and recurrence likelihood.\n                  \n                  \n                    Objectives\n                    Present the EGFC\u2010based Kaplan\u2013Meier curves for each study arm of FLOW\u2010AF and explore the clinical relevance of EGFC using prospective studies.\n                  \n                  \n                    Methods\n                    Unipolar electrograms were recorded using 64\u2010electrode basket catheters in AF patients across three clinical trials. The EGF algorithm then processed these recordings to reconstruct wavefront propagation patterns. EGFC was quantified from the vector length at each point in space and averaged across spatial coordinates and mapping positions to determine the mean EGFC for each patient. As applicable, EGFC and related EGF map characteristics were compared with 12\u2010month freedom from AF, patient demographic factors, and bipolar voltage mapping data.\n                  \n                  \n                    Results\n                    \n                      Primarily, mean biatrial EGFC\u2009&lt;\u20090.62 was found to be the best metric at predicting recurrent AF in No Source and Treatment patients in FLOW\u2010AF: it had 86%\u2009\u00b1\u200911% accuracy after fivefold cross\u2010validation. Among these patients, those with EGFC\u2009\u2265\u20090.62 had 6% recurrence vs. 51% recurrence in those with EGFC\u2009&lt;\u20090.62;\n                      p\n                      \u2009&lt;\u20090.001. Control patients with sources post\u2010procedure had 77% vs. 100% recurrence in respective EGFC groups;\n                      p\n                      \u2009=\u20090.032. Follow\u2010up analyses showed that EGFC dropped from 0.58\u2009\u00b1\u20090.15 to 0.51\u2009\u00b1\u20090.14 (paired\n                      p\n                      \u2009=\u20090.041) in a subgroup of patients who underwent repeat mapping 103\u2009\u00b1\u200922 days later, but it was not affected by pulmonary vein isolation (PVI) or source ablation (paired\n                      p\n                      \u2009&gt;\u20090.30). It was also higher among de novo and paroxysmal AF patients than redo (\n                      p\n                      \u2009=\u20090.043) and non\u2010paroxysmal AF patients (\n                      p\n                      \u2009=\u20090.022), respectively. Among the group of patients with low EGFC and no sources post\u2010procedure, recurrent patients had increased EGFC spatial variability (\n                      p\n                      \u2009=\u20090.026) and more near\u2010threshold sources with source activity \u2265\u200925% but &lt;\u200926.5% (\n                      p\n                      \u2009=\u20090.038). Lastly, EGFC was globally and locally correlated to bipolar voltage across multiple rhythms, atria, mapping software and analysis techniques (\n                      p\n                      \u2009=\u20090.009).\n                    \n                  \n                  \n                    Conclusions\n                    EGFC may provide insights on the substrate health of the patient and is predictive of recurrence likelihood. An understanding of EGFC may therefore increase mechanistic understanding of the progression and therapeutic strategies for AF ablation that can be tailored to the individual patient.\n                    \n                      Clinical Trial Registration:\n                      FLOW\u2010AF: NCT04473963; FLOW EVAL\u2010AF: NCT06260670; AF\u2010FLOW Global Registry: NCT05481359.",
+    "summary": "This prospective analysis of three clinical trials (N not explicitly stated for overall cohort) evaluates Electrographic Flow Consistency (EGFC), a novel metric derived from electrographic flow mapping, as a predictor of atrial fibrillation recurrence. Mean biatrial EGFC <0.62 demonstrated 86% accuracy in predicting recurrent AF in patients without detected sources, with significantly higher recurrence rates (51% vs. 6%, p<0.001), and EGFC correlated with atrial substrate health and voltage characteristics, suggesting it may complement source detection for individualized AF ablation therapy."
+  },
+  {
+    "title": "CRT and CABG Improve Survival and Reduce Readmissions in Ischemic Heart Failure: A Systematic Review and Meta\u2010Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70388?af=R",
+    "doi": "10.1111/pace.70388",
+    "journal": "PACE",
+    "date": "Aug 20, 2026",
+    "date_ts": 1787220018.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Heart failure (HF) continues to be the leading cause of death and rehospitalization among cardiomyopathic patients undergoing coronary artery bypass grafting (CABG).\n                  \n                  \n                    Objectives\n                    To systematically evaluate the effect of adding cardiac resynchronization therapy (CRT) to CABG versus CABG alone for patients with concomitant ischemic cardiomyopathy and electromechanical dyssynchrony. (PROSPERO ID: CRD420251006918)\n                  \n                  \n                    Methods\n                    A comprehensive literature search was conducted using PubMed, Web of Science, and Scopus to identify clinical trials and cohort studies evaluating the impact of inserting a CRT device during CABG surgery on survival and rehospitalization outcomes. A total of 3 studies involving 300 patients were included: 150 underwent CABG alone, and 150 received both CABG and CRT.\n                  \n                  \n                    Results\n                    \n                      The meta\u2010analysis of two studies (\n                      n\n                      = 200) showed that adding CRT during CABG was associated with lowering the probability of HF readmission (RR = 0.25, 95% CI [0.13\u20130.49],\n                      P\n                      &lt; 0.0001) and of all\u2010cause mortality (RR = 0.44, 95% CI [0.25\u20130.78],\n                      p\n                      = 0.0048) in the targeted patient population. Analyses according to study design demonstrated consistent treatment effects across randomized and observational evidence, with no significant subgroup differences.\n                    \n                  \n                  \n                    Conclusion\n                    In patients with ischemic cardiomyopathy and electromechanical dyssynchrony undergoing CABG, perioperative epicardial CRT implantation may be associated with decreased HF rehospitalization and all\u2010cause mortality rates. However, given the limited number of included studies and small cumulative sample size, these findings should be considered hypothesis\u2010generating, and large\u2010scale confirmatory randomized trials are warranted.\n                  \n                  \n                    Registration\n                    The study protocol was prospectively registered in PROSPERO. (CRID: CRD420251006918).",
+    "summary": "This meta-analysis of 3 studies (n=300) comparing CABG with concurrent epicardial CRT implantation versus CABG alone in patients with ischemic cardiomyopathy and electromechanical dyssynchrony found that combined therapy was associated with significant reductions in heart failure readmission (RR=0.25) and all-cause mortality (RR=0.44). However, the authors acknowledge these findings are hypothesis-generating given the limited number of studies and small sample size, warranting larger confirmatory randomized trials."
+  },
+  {
+    "title": "Clinical Presentation and Prognosis of Pathogenic Variants in Young\u2010Onset Atrial Fibrillation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70483?af=R",
+    "doi": "10.1111/jce.70483",
+    "journal": "J Cardiovasc EP",
+    "date": "Aug 20, 2026",
+    "date_ts": 1787211412.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Young\u2010onset atrial fibrillation (AF) is increasingly recognized as a clinically distinct entity and heritable mechanisms may contribute to disease onset. Although pathogenic monogenic variants are increasingly identified in this population, their clinical phenotype and prognostic significance remain incompletely defined.\n                  \n                  \n                    Aims\n                    We sought to characterize the spectrum of genetic variants in patients with young\u2010onset AF diagnosed at age 45 years or younger, identify clinical predictors of pathogenic variants, and evaluate their association with long\u2010term clinical outcomes.\n                  \n                  \n                    Methods\n                    This multicentre retrospective cohort study included adults with AF first diagnosed at age 45 years or younger who underwent clinical genetic testing across three tertiary centers in Melbourne, Australia. Variants were re\u2010assessed using contemporary American College of Medical Genetics and Genomics/Association for Molecular Pathology criteria and classified as pathogenic/likely pathogenic (P/LP) or negative/variant of uncertain significance (VUS). Baseline clinical characteristics, electrocardiographic findings, cardiac imaging, and long\u2010term outcomes were compared between groups.\n                  \n                  \n                    Results\n                    \n                      Among 58 patients who underwent genetic testing, 30 (52%) had a pathogenic or likely pathogenic monogenic variant. The most frequent variants involved\n                      TTN\n                      (\n                      n\n                      \u2009=\u20098, 13.8%) and\n                      LMNA\n                      (\n                      n\n                      \u2009=\u20096, 10.3%), followed by\n                      MYBPC3\n                      and\n                      MYH7\n                      (each\n                      n\n                      \u2009=\u20093, 5.2%). Family history of AF or cardiomyopathy was more common in the P/LP than the negative/VUS group (76.7% vs. 46.4%,\n                      p\n                      \u2009=\u20090.030) and was independently associated with a pathogenic variant (OR 3.90; 95% CI 1.28\u201313.0;\n                      p\n                      \u2009=\u20090.020). Patients with pathogenic variants more frequently had first\u2010degree atrioventricular block (20.0% vs. 0.0%;\n                      p\n                      \u2009=\u20090.024). Implantable cardioverter\u2010defibrillator implantation was more frequent in P/LP patients (53.6% vs. 25.0%;\n                      p\n                      \u2009=\u20090.05), whereas mortality, stroke, post\u2010ablation AF recurrence, and pacemaker implantation were similar.\n                    \n                  \n                  \n                    Conclusions\n                    In this highly selected young\u2010onset AF cohort referred for genetic testing, pathogenic monogenic variants were common. There was a significant proportion of patients suffering adverse long\u2010term events.",
+    "summary": "This retrospective cohort study of 58 young patients (\u226445 years) with atrial fibrillation who underwent genetic testing found that 52% carried pathogenic/likely pathogenic monogenic variants, most commonly in TTN and LMNA genes, with family history of AF or cardiomyopathy and first-degree atrioventricular block being independent predictors of pathogenic variants. Despite higher rates of implantable cardioverter-defibrillator implantation in patients with pathogenic variants, long-term outcomes including mortality, stroke, and AF recurrence were similar between groups."
+  },
+  {
     "title": "Left Bundle Branch Area Pacing in Congenital Heart Disease: Current Evidence, Challenges, and Future Directions",
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70402?af=R",
     "doi": "10.1111/pace.70402",
@@ -2003,6 +2153,30 @@
     "date_ts": 1785548681.140339,
     "tags": [
       "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Botulinum toxin\u2013augmented stellate ganglion block for electrical storm: a three-case series bridging to palliation, ablation, and sympathectomy.",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.08.010",
+    "doi": "10.1016/j.hrcr.2026.08.010",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Atrial fibrillation ablation in LMNA disease",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.08.011",
+    "doi": "10.1016/j.hrcr.2026.08.011",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "AFib"
     ],
     "hot": false
   },
@@ -6088,162 +6262,6 @@
     "date_ts": 1783561663.462185,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Chemical and genetic knockout identifies <em>KCNQ2</em> as the principal background voltage-gated potassium current in human embryonic kidney 293 cells",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001001?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.46215,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Angiographic and histological characterization of pulsed field ablation-induced coronary spasm: Differential effect of 2 waveforms",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021594?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.462117,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Progressive coronary spasm after focal pulsed field ablation of premature ventricular contractions in the great cardiac vein despite pretreatment with intravenous nitroglycerin",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001529?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.46208,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Contemporary management and programming of cardiac implantable electronic devices in patients undergoing magnetic resonance imaging",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031480?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.462045,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Metabolite-centric perspectives on QT prolongation: Molecular mechanisms and clinical implications beyond the parent drug",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031571?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.462008,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A multidimensional mapping array for assessment of myocardial activation using the electrotomographic mapping concept",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021570?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.461974,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Precise localization of the ventricular insertion of a bystander concealed nodoventricular pathway in east\u2013slow atrioventricular nodal reentrant tachycardia",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022290?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.461933,
-    "tags": [
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Septal venous channel perforation during Bachmann bundle pacing",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712600024X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.461904,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Arrhythmia-related complications after percutaneous transcatheter tricuspid valve implantation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031789?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.461872,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sedation protocols for atrial fibrillation ablation using pentaspline pulsed-field ablation: Patient- and operator-reported outcomes from a large nationwide study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000330?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.461837,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical feasibility of an electrogram analysis tool for lesion assessment and workflow support in pulsed field ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000524?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.461804,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Excess morbidity and mortality associated with seasonal influenza in patients with atrial fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000305?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.461752,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Linking the heart\u2013eye\u2013brain axis: Ocular and cerebral blood flow changes after catheter ablation in atrial fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001165?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.461716,
-    "tags": [
-      "AFib"
     ],
     "hot": false
   }
