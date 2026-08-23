@@ -1,5 +1,42 @@
 [
   {
+    "title": "REAL-WORLD MANAGEMENT AND LONG-TERM OUTCOMES AFTER THE FIRST HOSPITALIZATION FOR SUSTAINED VENTRICULAR TACHYCARDIA IN PATIENTS WITH PRIMARY PREVENTION IMPLANTABLE DEFIBRILLATORS: A GLOBAL COHORT ANALYSIS",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027256?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 23, 2026",
+    "date_ts": 1787445376.136053,
+    "tags": [
+      "VT",
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Prognostic Value of CMR Late Gadolinium Enhancement in Phospholamban p.(Arg14del)-Positive Individuals",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602727X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 23, 2026",
+    "date_ts": 1787445376.136008,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Evaluation of Atrial Fibrillation Polygenic Risk Scores for the Prediction of Arrhythmia Recurrence after Atrial Fibrillation Ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027232?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 23, 2026",
+    "date_ts": 1787445376.135794,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Climate change comes to atrial fibrillation ablation: The heat wave is over, the ice age has ended",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025816?dgcid=rss_sd_all",
     "doi": null,
@@ -6226,42 +6263,6 @@
     "date_ts": 1783561663.462279,
     "tags": [
       "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Symmetry and asymmetry of heart rate changes",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027973?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.462251,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Dim light at night worsens cardiac autonomic dysregulation in female diabetic mice",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000251?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.462221,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Characterization of radiofrequency ablation lesions by high-density unipolar, bipolar and omnipolar voltage mapping",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021491?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.462185,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
