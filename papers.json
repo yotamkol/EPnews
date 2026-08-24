@@ -1,5 +1,30 @@
 [
   {
+    "title": "Completely Wireless Cardiac Resynchronization Therapy: Biventricular Leadless Pacing to Remedy Pacing Induced Cardiomyopathy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027244?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 24, 2026",
+    "date_ts": 1787531689.879497,
+    "tags": [
+      "Devices",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Exercise stress testing in the prediction of sudden cardiac arrest associated with mitral valve prolapse",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027219?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 24, 2026",
+    "date_ts": 1787531689.879331,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
     "title": "REAL-WORLD MANAGEMENT AND LONG-TERM OUTCOMES AFTER THE FIRST HOSPITALIZATION FOR SUSTAINED VENTRICULAR TACHYCARDIA IN PATIENTS WITH PRIMARY PREVENTION IMPLANTABLE DEFIBRILLATORS: A GLOBAL COHORT ANALYSIS",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027256?dgcid=rss_sd_all",
     "doi": null,
@@ -33,6 +58,56 @@
     "date_ts": 1787445376.135794,
     "tags": [
       "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Recurrent Takotsubo Syndrome Following Permanent Pacemaker Implantation: Further Considerations",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70407?af=R",
+    "doi": "10.1111/pace.70407",
+    "journal": "PACE",
+    "date": "Aug 22, 2026",
+    "date_ts": 1787392310.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Internal Jugular Access for Aveir Leadless Pacemaker Implantation: Feasible, but for Whom?",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70409?af=R",
+    "doi": "10.1111/pace.70409",
+    "journal": "PACE",
+    "date": "Aug 22, 2026",
+    "date_ts": 1787392220.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulmonary Vein Isolation (PVI) Versus PVI With Posterior Wall Isolation With PFA for Paroxysmal Atrial Fibrillation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70401?af=R",
+    "doi": "10.1111/pace.70401",
+    "journal": "PACE",
+    "date": "Aug 22, 2026",
+    "date_ts": 1787392118.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    The value of additional lesion sets beyond pulmonary vein isolation (PVI) for atrial fibrillation (AF) ablation is unclear. However, existing studies evaluated the utility of substrate modification with conventional energy sources. There is limited data evaluating PVI with posterior wall isolation (PWI) using pulsed field ablation (PFA).\n                  \n                  \n                    Methods\n                    We studied consecutive cases of patients with paroxysmal AF undergoing first\u2010time ablation with PFA between May 6, 2024 and March 10, 2025. Procedural data collected included the number of PFA applications administered, total procedure time, and major periprocedural complications. Clinical data collected included atrial tachyarrhythmia (ATA) recurrence, stroke, and major bleeding at 1\u2010year follow\u2010up. Outcomes were compared in patients undergoing PVI alone versus PVI plus PWI.\n                  \n                  \n                    Results\n                    \n                      A total of 249 patients were included in this study (104 PVI alone, 145 PVI plus PWI). There was no difference in ATA recurrence by Kaplan\u2013Meier survival analysis comparing PVI alone versus PVI plus PWI (log rank test\n                      p\n                      = 0.89). When comparing PVI alone versus PVI plus PWI, there was no difference in ATA recurrence at 1 year (16%\u00a0vs. 16%;\n                      p\n                      = 0.92), AF burden on continuous monitoring (2%\u00a0vs. 2%;\n                      p\n                      = 0.81), total procedure time (114\u00a0vs. 107\u00a0min;\n                      p\n                      = 0.14), or major periprocedural complications (0\u00a0vs. 3;\n                      p\n                      = 0.14).\n                    \n                  \n                  \n                    Conclusion\n                    PFA for paroxysmal AF with PVI alone or PVI plus PWI produces similar sinus rhythm maintenance without affecting procedure times or complication rates.",
+    "summary": "This retrospective observational study of 249 patients with paroxysmal AF undergoing first-time pulsed field ablation found no significant difference in 1-year atrial tachyarrhythmia recurrence (16% in both groups), procedure time, or major complications between pulmonary vein isolation (PVI) alone versus PVI with posterior wall isolation. The authors conclude that PFA with PVI monotherapy is equivalent to combination PVI-PWI for paroxysmal AF ablation."
+  },
+  {
+    "title": "Defining \u201cHigh\u2010Risk\u201d and Procedural Considerations in Leadless Pacemaker Implantation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70406?af=R",
+    "doi": "10.1111/pace.70406",
+    "journal": "PACE",
+    "date": "Aug 22, 2026",
+    "date_ts": 1787391998.0,
+    "tags": [
+      "Devices"
     ],
     "hot": false
   },
@@ -6190,79 +6265,6 @@
     "date_ts": 1783561663.462477,
     "tags": [
       "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Liver fibrosis and sudden cardiac arrest: A prospective cohort study of 452,454 individuals",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000482?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.462446,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sudden cardiac arrest in steatotic liver disease with metabolic dysfunction or increased alcohol intake",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021715?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.462412,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Prognostic implications of intraventricular conduction disorders for the risk of sudden cardiac death in cardiac patients",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021673?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.462379,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Identifying patients with nonischemic heart failure with reduced ejection fraction for cardiac resynchronization therapy beyond current guidelines: Insights from cardiac magnetic resonance imaging",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125030292?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.462343,
-    "tags": [
-      "Devices",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Genotype-phenotype correlation of 139 p.Gln530Ter-KCNQ1 patients with inherited long QT syndrome",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021661?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.462313,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Evaluating deceleration and acceleration capacities: Implications for predicting adverse outcomes in patients with hypertrophic cardiomyopathy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027389?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.462279,
-    "tags": [
-      "Genetics"
     ],
     "hot": false
   }
