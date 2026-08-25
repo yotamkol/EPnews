@@ -1,5 +1,17 @@
 [
   {
+    "title": "Rare Complications of Left Bundle Branch Area Pacing: A Systematic Review of Case-Based Evidence",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027207?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 25, 2026",
+    "date_ts": 1787618067.599977,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Completely Wireless Cardiac Resynchronization Therapy: Biventricular Leadless Pacing to Remedy Pacing Induced Cardiomyopathy",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027244?dgcid=rss_sd_all",
     "doi": null,
@@ -2267,6 +2279,49 @@
       "Devices"
     ],
     "hot": false
+  },
+  {
+    "title": "Helix-Based Retrieval of an Embolized Atrial Leadless Pacemaker from the Pulmonary Artery",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.032",
+    "doi": "10.1016/j.hrcr.2026.07.032",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Leadless pacemakers (LPMs) have been increasingly adopted, allowing avoidance of complications associated with transvenous leads. However, they also introduce new challenges, including device dislodgement and embolization. The Aveir DR system (Abbott) enables atrioventricular synchrony through communication between atrial and ventricular devices; however, reports of dislodgement of the atrial component, Aveir AR, remain limited. Compared with the ventricular myocardium, the atrial wall has less trabeculation, which may predispose to less stable device fixation from an anatomical standpoint.",
+    "summary": "This retrospective case series examines dislodgement risk of the Aveir AR atrial leadless pacemaker component in the dual-chamber Aveir DR system, attributing potential instability to the atrial wall's reduced trabeculation compared to ventricular myocardium, which may compromise device fixation despite the system's ability to maintain atrioventricular synchrony."
+  },
+  {
+    "title": "Management of sensing issues with an extravascular and subcutaneous implantable cardioverter \u2013 defibrillator in a patient with polymorphic ventricular tachycardia: a case report.",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.08.013",
+    "doi": "10.1016/j.hrcr.2026.08.013",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "VT",
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Extravascular implantable cardioverter defibrillator (EV-ICD) is an alternative to traditional ICD approved by FDA in 2023 [1]. Vascular injury, venous obstruction, systemic lead-related infections, and cardiac perforation are potential complications of conventional ICDs [2] that can be minimized with the EV-ICD. Furthermore, EV-ICD provides antitachycardia pacing capability and demonstrates comparable generator dimensions and battery longevity to conventional transvenous ICDs [3], supporting its use as a viable alternative for patients with an ICD indication who do not require bradycardia pacing.",
+    "summary": "This narrative review discusses the extravascular ICD (EV-ICD), an FDA-approved alternative to traditional transvenous ICDs that eliminates vascular and cardiac complications while maintaining comparable antitachycardia pacing, device size, and battery longevity, making it suitable for patients requiring defibrillation without bradycardia pacing support."
+  },
+  {
+    "title": "Refractory Torsades de Pointes from Massive Loperamide Toxicity Complicated by a Colonic Pill Bezoar: When Arrhythmia Control Fails Without Source Control",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.08.012",
+    "doi": "10.1016/j.hrcr.2026.08.012",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Loperamide misuse at supratherapeutic doses has emerged as an underrecognized cause of life-threatening ventricular arrhythmias. At massive doses, loperamide produces combined potassium and sodium channel blockade, leading to QT interval prolongation and QRS widening that create a substrate for torsades de pointes (TdP). Standard management focuses on arrhythmia suppression with electrolyte repletion, intravenous magnesium, sodium bicarbonate, and chronotropic support with isoproterenol or temporary pacing.",
+    "summary": "This is a narrative review describing loperamide misuse at supratherapeutic doses as an emerging cause of life-threatening ventricular arrhythmias through dual potassium and sodium channel blockade, resulting in QT prolongation and QRS widening that predisposes to torsades de pointes, with management focused on electrolyte correction, magnesium, sodium bicarbonate, and chronotropic support. The clinical significance lies in recognizing this underappreciated toxidrome as loperamide abuse increases."
   },
   {
     "title": "Botulinum toxin\u2013augmented stellate ganglion block for electrical storm: a three-case series bridging to palliation, ablation, and sympathectomy.",
@@ -6217,54 +6272,6 @@
     "date_ts": 1783561663.46262,
     "tags": [
       "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left bundle branch area stylet-driven lead: Performance, safety, and quality of life at 12 months after implant (the BIO-CONDUCT investigational device exemption study)",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021454?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.462585,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of inter-hospital transfers and admissions to transfer hubs on outcomes of cardiac implantable electronic device-associated infective endocarditis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027183?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.462549,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Laser lead extraction of very old leads\u2014Insights from the GermAn Laser Lead Extraction RegistrY (GALLERY)",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027432?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.462513,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Fatty liver index increases the risk of sudden cardiac arrest in cardiovascular disease\u2013free adults",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125031674?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 09, 2026",
-    "date_ts": 1783561663.462477,
-    "tags": [
-      "SCD"
     ],
     "hot": false
   }
