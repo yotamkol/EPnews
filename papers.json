@@ -644,6 +644,20 @@
     "summary": "This meta-analysis of 8 randomized controlled trials (7434 patients) compared catheter-based left atrial appendage closure (LAAC) to oral anticoagulation (OAC) for stroke prevention in atrial fibrillation and found no significant differences in overall stroke or major bleeding rates at mean 37.9-month follow-up, though LAAC was associated with higher ischemic stroke risk (IRR 1.34) and lower nonprocedural bleeding risk (IRR 0.73). The findings do not support LAAC as first-line therapy for moderate to high-risk AF patients, despite comparable aggregate safety profiles."
   },
   {
+    "title": "Bachmann's Bundle Versus Right Atrial Appendage Pacing: A Systematic Review and Meta\u2010Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70397?af=R",
+    "doi": "10.1111/pace.70397",
+    "journal": "PACE",
+    "date": "Aug 26, 2026",
+    "date_ts": 1787753409.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Right atrial appendage (RAA) pacing remains the default atrial lead position despite evidence that non\u2010physiological atrial activation promotes interatrial dyssynchrony. Bachmann's bundle pacing (BBp) targets the interatrial conduction pathway. We evaluated whether BBp improves electrophysiologic markers of atrial synchrony and whether this is accompanied by a reduction in atrial fibrillation (AF) incidence compared with RAA pacing.\n                  \n                  \n                    Methods\n                    Systematic review and meta\u2010analysis of studies comparing BBp with RAA pacing. PubMed, Embase, Scopus, Cochrane Library, ClinicalTrials.gov, and reference lists were searched (December 2025). Primary outcome: P\u2010wave duration change. Secondary: AF incidence. Safety: lead dislodgement. Random\u2010effects (REML) models.\n                  \n                  \n                    Results\n                    \n                      Eight studies comprising 731 patients were analyzed. BBp was associated with a consistent reduction in P\u2010wave duration (primary analysis, 5 independent\u2010group studies: MD \u221234.61\u00a0ms; 95% CI \u221239.84 to \u221229.38;\n                      p\n                      &lt; 0.001;\n                      I\n                      2\n                      = 0%; 6\u2010study sensitivity including Vedage et\u00a0al.: MD \u221235.24\u00a0ms;\n                      I\n                      2\n                      = 0%), indicating a shortening of global atrial activation time. BBp was also associated with a lower AF incidence across three RCTs (RR 0.59; 95% CI 0.37\u20130.94;\n                      p\n                      = 0.026); however, this estimate was imprecise and sensitive to removal of the dominant contributing trial. Atrial lead dislodgement was rare and events were insufficient for formal pooled analysis; no excess dislodgement signal was observed, but comparative safety remains uncertain given event sparsity.\n                    \n                  \n                  \n                    Conclusions\n                    BBp consistently reduced P\u2010wave duration across diverse paced populations and generated a fragile signal toward lower AF incidence. Comparative lead safety is uncertain due to sparse events. These findings support investigation in prospective trials but do not justify immediate practice change.\n                  \n                  \n                    PROSPERO Registration\n                    CRD420261282981.",
+    "summary": "This meta-analysis of 8 studies (731 patients) comparing Bachmann's bundle pacing (BBp) versus right atrial appendage pacing found that BBp consistently reduced P-wave duration by approximately 35 ms (p<0.001), indicating improved atrial synchrony, and showed a potentially reduced atrial fibrillation incidence (RR 0.59; p=0.026) across 3 RCTs, though this AF benefit was imprecise and sensitive to individual trial removal. The authors conclude that while BBp demonstrates electrophysiologic promise, current evidence does not support immediate practice change pending larger prospective trials."
+  },
+  {
     "title": "The neglected role of lethal arrhythmia in the sudden death of stroke survivors",
     "link": "https://www.nature.com/articles/s44161-026-00868-6",
     "doi": "10.1038/s44161-026-00868-6",
@@ -6264,18 +6278,6 @@
     "date_ts": 1784078086.728121,
     "tags": [
       "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Accelerated Pacing Rates to Improve Exercise Tolerance, Quality of Life and Arrhythmia Burden in Patients with Evidence of Heart Failure with Preserved Ejection Fraction: The PACE-UP Rationale and Design",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003107?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jul 15, 2026",
-    "date_ts": 1784078086.728018,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
