@@ -1,5 +1,153 @@
 [
   {
+    "title": "Dual antithrombotic therapy using potent antiplatelet inhibitors in atrial fibrillation and acute coronary syndrome: a randomized controlled trial",
+    "link": "https://www.nature.com/articles/s41591-026-04629-7",
+    "doi": "10.1038/s41591-026-04629-7",
+    "journal": "Nature Medicine",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788055694.913692,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    The selection of the optimal antithrombotic regimen in patients with atrial fibrillation and acute coronary syndrome remains challenging. Previous trials have demonstrated that dual antithrombotic therapy (DAT), consisting of direct oral anticoagulants (DOACs) plus a P2Y12 inhibitor, reduces bleeding compared to a triple-therapy regimen using vitamin K antagonists. However, subsequent meta-analyses have suggested an increased risk of ischemic events with DAT, particularly within the first month of treatment. Clopidogrel has been the predominant P2Y12 inhibitor used across these studies, despite the risk of high on-treatment platelet reactivity when using this drug. In this study, we conducted an open-label, randomized controlled trial (EPIDAURUS) in patients with atrial fibrillation and acute coronary syndrome, designed to assess the efficacy and safety of a 1-month regimen of DOAC plus potent P2Y12 inhibitor (prasugrel or ticagrelor) compared to DOAC plus clopidogrel and in-hospital aspirin. The primary outcomes of the trial were an efficacy endpoint, recurrent ischemic events and safety endpoints, including death and major bleeding, which were evaluated 6\u2009weeks after randomization using separate win\u2212loss ratio analyses. The study was prematurely terminated after enrollment of 602 patients (154 female) of an expected 1,474 patients, owing to safety concerns raised by the Data and Safety Monitoring Board. Exploratory analyses of secondary safety endpoints, including bleeding type \u22652 and \u22653 according to the Bleeding Academic Research Consortium scale, revealed that, compared to clopidogrel and in-hospital aspirin, treatment with a potent P2Y12 inhibitor was associated with higher bleeding rates without a clear reduction in the risk of ischemic complications. These findings do not support the routine use of potent P2Y12 inhibitors in combination with DOACs in this patient population. ClinicalTrials.gov identifier:\n                    NCT04981041\n                    .",
+    "summary": "This open-label RCT (EPIDAURUS) of 602 patients with atrial fibrillation and acute coronary syndrome compared DOAC plus potent P2Y12 inhibitors (prasugrel/ticagrelor) versus DOAC plus clopidogrel with aspirin, but was terminated early due to safety concerns; potent P2Y12 inhibitors were associated with higher bleeding rates without reduction in ischemic events, not supporting their routine use in this population."
+  },
+  {
+    "title": "Effectiveness of Bivalent RSV Prefusion F Protein-based Vaccine in Individuals With and Without Atrial Fibrillation: A Prespecified Analysis of the DAN-RSV Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726076059?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788055694.052202,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Low-Normal Peri-Procedural Potassium as a Prognostic Marker of Atrial Fibrillation and Stroke After CABG",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005350?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788055692.665506,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Shaped by Age: The Right Atrium in Atrial Septal Defect",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005349?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788055692.665473,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulmonary Vein Reconnection Patterns After Pulsed-Field Ablation: Exploratory Insights from Repeat Procedures Across Three Platforms",
+    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600512X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788055692.66543,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulmonary vein reconduction after pentaspline pulsed field ablation: patterns and predictors from a nationwide cohort",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005374?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788055692.665373,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Spatial Association Between CT-Derived Myocardial Deformation and Stereotactic Radioablation Targets in Ventricular Tachycardia: Insights from the RAVENTA Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602744X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788055692.414467,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Concomitant Versus Sequential Atrial Fibrillation Ablation and Left Atrial Appendage Occlusion",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027438?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788055692.414431,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Incidence of Atrial Fibrillation in Pacemaker Patients with Left Bundle Branch Area Pacing Versus Right Ventricular Pacing Leads",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027426?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788055692.414394,
+    "tags": [
+      "AFib",
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Quantification of atrial fibrillation\u2013related imaging markers using spectral photon-counting computed tomography",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024860?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788055692.414349,
+    "tags": [
+      "AFib",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Durable Burden Suppression and Recurrence Patterns After Cryoablation in Early Persistent AF: 3-Year Results of COOL-PER Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027451?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788055692.414304,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Dual-Chamber Leadless Pacemaker Communication Loss During Junctional Rhythms: Mechanistic Insights and Practical Troubleshooting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027475?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788055692.414139,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
     "title": "Metformin as an Adjunctive Therapy to Catheter Ablation of Atrial Fibrillation (META-AF)",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006717?dgcid=rss_sd_all",
     "doi": null,
@@ -180,6 +328,34 @@
       "Other"
     ],
     "hot": false
+  },
+  {
+    "title": "Development and Validation of the GLORIA-AF Stroke Weighted Risk Score for Patients with Atrial Fibrillation",
+    "link": "https://doi.org/10.1093/europace/euag236",
+    "doi": "10.1093/europace/euag236",
+    "journal": "EP Europace",
+    "date": "Aug 29, 2026",
+    "date_ts": 1787961600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Accurate stroke-risk stratification is central to anticoagulation decision-making in patients with atrial fibrillation (AF), but conventional scores may not fully capture risk heterogeneity. We aimed to develop and externally validate an interpretable weighted score using a time-to-event framework.\n                  \n                  \n                    Methods\n                    GLORIA-AF Phase II/III data were used to evaluate 17 baseline predictors using LASSO-penalized Cox regression with stability selection; coefficients were converted into integer weights. Performance was assessed using discrimination, calibration, integrated discrimination improvement (IDI), continuous net reclassification improvement (NRI), and decision-curve analysis. External validation was performed in EORP-AF and APHRS-AF registries.\n                  \n                  \n                    Results\n                    Among 20,517 patients included in the derivation cohort (mean [SD] age, 69.9 [10.3] years; 9,196 women [44.8%]), 487 (2.4%) had stroke, and 17,397 (84.8%) were receiving anticoagulation at baseline. Ten selected predictors formed a 0-23-point score. The derived score achieved a C-index of 0.661 (95% CI, 0.636\u20130.685), higher than CHA2DS2-VA (0.626; P &amp;lt; 0.001), CHA2DS2-VASc (0.615; P &amp;lt; 0.001), and the unweighted score (P = 0.016), with no significant difference from the full Cox or machine learning models. In external validation (8,309 patients; 147 strokes), the C-index was 0.652 (95% CI, 0.614\u20130.690) versus 0.616 for CHA2DS2-VA (95%CI, 0.598-0.634; P &amp;lt; 0.001). IDI/NRI, calibration, and decision-curve analyses supported improved risk differentiation, close calibration, and generally greater net benefit than CHA2DS2-VA. The score retained higher discrimination than CHA2DS2-VA among patients without baseline anticoagulation (P &amp;lt; 0.001).\n                  \n                  \n                    Conclusion\n                    The GLORIA-AF Stroke Weighted Risk Score provides risk refinement beyond CHA2DS2-VA while retaining discrimination consistent with more complex models. External validation supports its transportability and potential adjunctive role in guideline-directed thromboembolic risk assessment.",
+    "summary": "This prospective cohort study derived and externally validated a 10-variable weighted stroke-risk score (GLORIA-AF Stroke Weighted Risk Score, 0-23 points) in 20,517 AF patients from GLORIA-AF registry, demonstrating superior discrimination (C-index 0.661) compared to CHA2DS2-VA (0.626) and maintaining performance in external validation (n=8,309; C-index 0.652 vs 0.616 for CHA2DS2-VA). The score provides improved risk stratification for anticoagulation decision-making in AF patients while remaining simpler than complex machine learning models."
+  },
+  {
+    "title": "Safety and Effectiveness of a Novel Dual-Energy Radiofrequency/Pulsed Field Ablation Catheter: 12 Month Results of the FlexPulse Study",
+    "link": "https://doi.org/10.1093/europace/euag238",
+    "doi": "10.1093/europace/euag238",
+    "journal": "EP Europace",
+    "date": "Aug 29, 2026",
+    "date_ts": 1787961600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Pulsed field (PF) ablation is increasingly used to treat paroxysmal atrial fibrillation (PAF). FlexPulse (NCT06676072) was conducted to evaluate safety and effectiveness of a novel dual-energy, flexible-tip focal ablation catheter with radiofrequency and PF for treatment of symptomatic, drug-refractory PAF.\n                  \n                  \n                    Methods\n                    FlexPulse was a global, prospective, single arm, multicentre study. The ablation procedures targeted pulmonary vein isolation (PVI) and adjunctive ablation at operators\u2019 discretion. The primary safety endpoint was occurrence of pre-defined safety events within 7-days of any ablation procedure. The primary effectiveness endpoint was freedom from a composite of recurrent AF/atrial tachycardia/atrial flutter, repeat procedure, new use or escalation of class I/III AAD, and/or cardioversion through 12-months.\n                  \n                  \n                    Results\n                    Overall, 180 subjects underwent PAF ablation. Successful PVI was achieved in all participants. Additional non-PV ablations were performed in 37.2% (67/180) of subjects. The primary safety endpoint event rate was 1.7%. The primary effectiveness endpoint was 74.6% at 12-months, and freedom from documented AF/AFL/AT recurrence was 77.4% (92.6% without weekly transtelephonic monitoring). In 15 subjects who underwent repeat ablation after the blanking period, remapping indicated that 79.7% (47/59) of the PVs were durably isolated from the index procedures. Retrospective analysis found that workflows with PFA Index (PI) \u226530 and AutoMark distance up to 6 mm target had a 12-month freedom from AF/AFL/AT of 84.6%.\n                  \n                  \n                    Conclusions\n                    In this trial, ablation with TactiFlex Duo in patients with symptomatic, drug-refractory PAF was safe and effective.",
+    "summary": "FlexPulse was a prospective, single-arm, multicenter study of 180 patients with symptomatic, drug-refractory paroxysmal atrial fibrillation treated with a novel dual-energy (radiofrequency and pulsed field) flexible-tip ablation catheter targeting pulmonary vein isolation, demonstrating a 1.7% safety event rate at 7 days and 74.6% freedom from recurrent arrhythmia at 12 months."
   },
   {
     "title": "Mortality reduction with implanted defibrillator for primary prevention of sudden death after Myocardial Infarction: temporal trends in the PROFID study",
@@ -3472,6 +3648,18 @@
     "hot": false
   },
   {
+    "title": "A Case of Unintentional Superior Vena Cava Isolation During Pulmonary Vein Isolation Using a Lattice-Tip Catheter",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.08.020",
+    "doi": "10.1016/j.hrcr.2026.08.020",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Workup and management of rhythm disorders in myocarditis and inflammatory cardiomyopathy: a clinical consensus statement of the European Heart Rhythm Association and the Heart Failure Association of the ESC, the ESC Working Group on Myocardial &amp; Pericardial Diseases, the European Association of Preventive Cardiology of the ESC, the Heart Rhythm Society, the Asian Pacific Heart Rhythm Society, and the Latin American Heart Rhythm Society",
     "link": "https://doi.org/10.1093/europace/euag153",
     "doi": "10.1093/europace/euag153",
@@ -6074,204 +6262,5 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  An 88\u2010year\u2010old pacemaker\u2010dependent man with a retained low\u2010impedance, noise\u2010producing right ventricular lead underwent implantation of a dual\u2010chamber leadless pacemaker. On postoperative day 1, he developed recurrent syncope with pauses up to 13\u00a0s. Although stored electrograms from the index events were unavailable, post\u2010event interrogation showed atrial pacing followed by ventricular safety pacing, and provocative testing supported persistent electrical coupling involving the retained lead. After reduction of temporary high\u2010output settings and reprogramming to VDD, syncope did not recur during 12 months. Retained malfunctioning leads may mediate timing\u2010dependent ventricular inhibition after dual\u2010chamber leadless pacing.",
     "summary": "This is a case report of an 88-year-old pacemaker-dependent patient who experienced recurrent syncope with prolonged pauses after implantation of a dual-chamber leadless pacemaker in the setting of a retained malfunctioning right ventricular lead; the arrhythmia was successfully managed through reprogramming to VDD mode, suggesting that retained leads can cause timing-dependent ventricular inhibition with leadless pacemaker systems."
-  },
-  {
-    "title": "Incarceration and Electrophysiology Care: A Review of Clinical, Ethical, and Systems-Level Challenges",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025889?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 20, 2026",
-    "date_ts": 1784512282.548994,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Accumulation of chronic conditions in patients &#60;65 years of age diagnosed with atrial fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025968?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 20, 2026",
-    "date_ts": 1784512282.548965,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impaired extracellular DNA clearance is associated with post-operative atrial fibrillation and mortality after cardiac surgery",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025956?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 20, 2026",
-    "date_ts": 1784512282.548928,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reducing Inconsistencies of Post-Stroke Cardiac Monitoring with Standardized, Guideline-Oriented Neuro-Cardiac Pathways",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025890?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 20, 2026",
-    "date_ts": 1784512282.548892,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Percutaneous Retrieval of Embolized Atrial Leadless Pacemakers: Early Multicenter Experience",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025932?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 20, 2026",
-    "date_ts": 1784512282.548739,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Conduction system pacing: what emerging evidence and what indications?",
-    "link": "https://doi.org/10.1093/europace/euag181",
-    "doi": "10.1093/europace/euag181",
-    "journal": "EP Europace",
-    "date": "Jul 20, 2026",
-    "date_ts": 1784505600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  Conduction system pacing is a major milestone in cardiac stimulation and is being increasingly adopted as a more physiological alternative to right ventricular and biventricular pacing. This expert viewpoint discusses the current evidence, indications and remaining challenges of this promising therapy.",
-    "summary": "This expert viewpoint synthesizes current evidence supporting conduction system pacing (CSP) as a physiologically superior alternative to conventional right ventricular and biventricular pacing, though the article does not present original research data or quantify specific clinical outcomes. The review identifies established indications for CSP while acknowledging unresolved technical and clinical challenges requiring further investigation."
-  },
-  {
-    "title": "Characteristics of paced waveforms and current of injury prior to septal perforation during left bundle branch area pacing",
-    "link": "https://doi.org/10.1093/europace/euag185",
-    "doi": "10.1093/europace/euag185",
-    "journal": "EP Europace",
-    "date": "Jul 20, 2026",
-    "date_ts": 1784505600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  We describe paced intracardiac electrogram waveforms during left bundle branch area pacing lead deployment which resulted in complete septal perforation during continuous pacing in 21 patients. Characteristics that may herald perforation are described, helping implanters avoid this adverse event.",
-    "summary": "This retrospective case series of 21 patients describes intracardiac electrogram waveforms and procedural characteristics associated with septal perforation during left bundle branch area pacing lead deployment, with findings intended to help clinicians identify and prevent this complication during implantation."
-  },
-  {
-    "title": "The Key Lies in the Mechanism Underlying the V\u2013A\u2013A\u2013V Response: What Is the Mechanism of This Tachycardia?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70459?af=R",
-    "doi": "10.1111/jce.70459",
-    "journal": "J Cardiovasc EP",
-    "date": "Jul 19, 2026",
-    "date_ts": 1784469892.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Baseline Echocardiographic Parameters Associated With Post\u2010Pacing Cardiomyopathy in Patients With Normal Left Ventricular Ejection Fraction Undergoing Pacemaker Implantation for Atrioventricular Block",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70454?af=R",
-    "doi": "10.1111/jce.70454",
-    "journal": "J Cardiovasc EP",
-    "date": "Jul 19, 2026",
-    "date_ts": 1784462401.0,
-    "tags": [
-      "Devices",
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    \n                    In patients with atrioventricular (AV) block and left ventricular ejection fraction (LVEF) of &gt;\u200950%, dual\u2010chamber pacemaker (DCPM) implantation remains the standard of care. However, in this population the relationship between other baseline echocardiographic parameters and the development of post\u2010pacing cardiomyopathy (PPCMP) remains poorly defined.\n                  \n                  \n                    Objective\n                    To identify preimplant echocardiographic parameters associated with the development of PPCMP in patients with normal LVEF undergoing DCPM implantation for AV block.\n                  \n                  \n                    Methods\n                    Among 140 consecutive patients who underwent DCPM implant for AV block between January 1st 2016 and December 31st, 2019, data from 111 patients with available follow\u2010up through December 31, 2024, was retrospectively analyzed. PPCMP was defined as a 10% reduction in LVEF and/or absolute LVEF\u2009&lt;\u200950% with an average ventricular pacing burden of \u2265\u200920%.\n                  \n                  \n                    Results\n                    \n                      Of 140 patients, 111 with complete data were included (mean age: 76\u2009\u00b1\u200910 years; 55% male and 88% white). Preimplant LVEF was 61\u2009\u00b1\u20094% with echocardiogram performed 2(0\u201326) days before DCPM implant. Over a mean follow\u2010up of 4\u2009\u00b1\u20092.3 years, 46 patients (41%) developed PPCMP (LVEF%: 45[35\u201350] vs 62[58\u201364];\n                      p\n                      \u2009&lt;\u20090.001). Preimplant left atrial (LA) dimension (cm; 4.3[3.8\u20134.5] vs 3.8[3.5\u20134.3];\n                      p\n                      \u2009=\u20090.03) and LA dimension index (mL/m\n                      2\n                      ; 38\u2009\u00b1\u200912 vs 32\u2009\u00b1\u200911;\n                      p\n                      \u2009=\u20090.008) were larger in patients who developed PPCMP. Among PPCMP patients, LVEF reduction correlated inversely with mitral annular septal and lateral E/e\u2032 ratios (\n                      r\n                      \u2009=\u2009\u22120.33,\n                      p\n                      \u2009=\u20090.03 and\n                      r\n                      \u2009=\u2009\u22120.34,\n                      p\n                      \u2009=\u20090.04, respectively), early diastolic mitral inflow velocity (\n                      r\n                      \u2009=\u2009\u22120.34,\n                      p\n                      \u2009=\u20090.02) and LA size (\n                      r\n                      \u2009=\u2009\u22120.35,\n                      p\n                      \u2009=\u20090.01). Larger LA size also correlated with higher E/e\u2032 ratios (\n                      r\n                      \u2009=\u20090.4,\n                      p\n                      \u2009&lt;\u20090.02) but not with history of AF, HTN, obesity and mitral valve disease. In multivariable regression analyses, each 1\u2010cm increase in LA size was associated with a 5.54\u2010fold higher hazard of first heart failure (HF) admission (Cox,\n                      p\n                      \u2009=\u20090.0008) and a\u2009~125% increase in total HF admissions (Poisson,\n                      p\n                      \u2009=\u20090.006) during the study period.\n                    \n                  \n                  \n                    Conclusion\n                    Among patients with normal LV systolic function undergoing DCPM for AV block, pre\u2010existing LV diastolic dysfunction, reflected by larger LA size, elevated E/e\u2032 ratios, and higher early diastolic mitral inflow velocity, is strongly associated with development of PPCMP. Preimplant recognition of these parameters may help identify patients who would benefit from upfront biventricular or conduction system pacing to mitigate the risk of PPCMP.",
-    "summary": "This retrospective cohort study of 111 patients with AV block and normal LVEF undergoing dual-chamber pacemaker implantation found that 41% developed post-pacing cardiomyopathy over 4 years of follow-up, with larger preimplant left atrial dimensions and diastolic dysfunction parameters (elevated E/e\u2032 ratios, increased early diastolic mitral inflow velocity) independently predicting development of PPCMP and heart failure admissions. These findings suggest preimplant echocardiographic assessment of diastolic function may identify candidates who would benefit from alternative pacing strategies."
-  },
-  {
-    "title": "Ventricular Tachycardia Ablation in Structural Heart Disease With LVEF\u2009>\u200935%: Clinical Outcomes and Recurrence Patterns",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70455?af=R",
-    "doi": "10.1111/jce.70455",
-    "journal": "J Cardiovasc EP",
-    "date": "Jul 19, 2026",
-    "date_ts": 1784462057.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    In patients with structural heart disease (SHD) and moderately impaired left ventricular ejection fraction (LVEF\u2009&gt;\u200935%), data on outcomes after ventricular tachycardia (VT) ablation remain limited. This analysis focuses on VT recurrence after ablation in patients presenting with sustained VT and LVEF\u2009&gt;\u200935% within a secondary\u2010prevention population.\n                  \n                  \n                    Objective\n                    To evaluate procedural outcomes and long\u2010term VT recurrence after catheter ablation in SHD patients with LVEF\u2009&gt;\u200935%.\n                  \n                  \n                    Methods\n                    We analyzed 219 consecutive patients with SHD and LVEF\u2009&gt;\u200935% undergoing VT ablation, including 89 with ischemic cardiomyopathy (ICM) and 130 with non\u2010ischemic cardiomyopathy (NICM). Procedural characteristics, complications, and VT recurrence during follow\u2010up were compared between groups.\n                  \n                  \n                    Results\n                    \n                      ICM patients were older, more frequently hypertensive, and had slightly lower LVEF than NICM patients. Ablation was predominantly endocardial in ICM, whereas combined endocardial\u2013epicardial ablation was required in 28% of NICM patients (\n                      p\n                      \u2009&lt;\u20090.001). Acute VT non\u2010inducibility was achieved more frequently in ICM than in NICM (93% vs 67%;\n                      p\n                      \u2009&lt;\u20090.001). Procedural complications were infrequent and comparable between groups (6% overall;\n                      p\n                      \u2009=\u20090.342). During follow\u2010up, VT recurred in 35% of patients, more frequently in NICM than ICM (42% vs 25%;\n                      p\n                      \u2009=\u20090.004). Cardiomyopathy type emerged as the only independent predictor of VT recurrence (HR 2.312, CI 1.3\u20134.0,\n                      p\n                      \u2009=\u20090.004), while acute non\u2010inducibility was associated with a lower recurrence risk.\n                    \n                  \n                  \n                    Conclusion\n                    VT ablation in SHD patients with LVEF\u2009&gt;\u200935% was associated with acceptable safety and moderate arrhythmia control. Outcomes were more favorable in ICM than in NICM, reflecting the heterogeneity of arrhythmic risk in this secondary prevention population.",
-    "summary": "This retrospective analysis of 219 patients with structural heart disease and LVEF >35% undergoing VT ablation demonstrated acceptable procedural safety (6% complication rate) but moderate long-term efficacy, with VT recurrence occurring in 35% of patients overall and significantly higher in non-ischemic versus ischemic cardiomyopathy (42% vs 25%; p=0.004), with cardiomyopathy type independently predicting recurrence risk."
-  },
-  {
-    "title": "Acute Termination of Atrial Fibrillation During Ablation of a Left Atrial Slow\u2010Conduction Channel",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70456?af=R",
-    "doi": "10.1111/jce.70456",
-    "journal": "J Cardiovasc EP",
-    "date": "Jul 19, 2026",
-    "date_ts": 1784461958.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Left atrial (LA) slow\u2010conduction channels (SCCs) may represent active drivers of persistent AF, but human evidence is lacking.\n                  \n                  \n                    Methods and Results\n                    A 77\u2010year\u2010old patient with persistent AF developed LA flutter during PVI, which subsequently degenerated into AF. Activation mapping identified the flutter isthmus as an anterior LA SCC. The first radiofrequency application at this channel abruptly slowed and terminated AF, restoring SR. The patient remains arrhythmia\u2010free at 4 months.\n                  \n                  \n                    Conclusion\n                    This case provides the first human evidence suggesting that LA SCCs may actively sustain AF. However, further experimental and clinical studies are required to confirm these preliminary findings.",
-    "summary": "This case report describes a 77-year-old patient with persistent atrial fibrillation in whom ablation of a left atrial slow-conduction channel identified during mapping abruptly terminated AF and restored sinus rhythm, providing the first human evidence that LA slow-conduction channels may actively sustain persistent AF. The authors acknowledge that further studies are needed to confirm whether LA slow-conduction channels represent actionable AF drivers."
-  },
-  {
-    "title": "Idiopathic Ventricular Fibrillation Triggered by Purkinje\u2010Related Extrasystoles: State\u2010of\u2010the\u2010Art and Novel Therapeutic Approaches",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70457?af=R",
-    "doi": "10.1111/jce.70457",
-    "journal": "J Cardiovasc EP",
-    "date": "Jul 19, 2026",
-    "date_ts": 1784461865.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  Ventricular fibrillation (VF) is the primary arrhythmia causing sudden cardiac death. While typically linked to structural heart disease, a significant subset of VF episodes\u2014especially in younger individuals\u2014is triggered by focal ectopy from the His\u2010Purkinje system (HPS). The HPS possesses distinct electrophysiological properties that make it inherently susceptible to arrhythmogenesis. It serves a dual role, acting as both a primary source of initiating premature ventricular complexes through abnormal automaticity and triggered activity (early and delayed afterdepolarizations), and as a critical substrate maintaining VF via micro\u2010re\u2010entrant circuits. This narrative review comprehensively synthesizes current knowledge on Purkinje\u2010triggered VF, from its epidemiology and clinical setting to its underlying pathophysiological and ionic mechanisms of arrhythmia initiation and perpetuation. Finally, we critically evaluate contemporary diagnostic and management strategies, contrasting conventional focal trigger\u2010based ablation with evolving substrate\u2010based approaches such as Purkinje \u201cde\u2010networking.\u201d",
-    "summary": "This narrative review synthesizes the epidemiology, pathophysiology, and ionic mechanisms underlying Purkinje system-triggered ventricular fibrillation, particularly in younger patients without structural heart disease, and evaluates diagnostic and management strategies including focal ablation versus emerging substrate-based de-networking approaches. The review highlights the His-Purkinje system's dual role in both initiating ectopy through abnormal automaticity and triggered activity, and maintaining VF through micro-reentrant circuits."
-  },
-  {
-    "title": "Comparison of Pentaspline Pulsed Field Ablation Catheter Mapping Modes to Assess Pulmonary Vein Isolation for Paroxysmal Atrial Fibrillation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70408?af=R",
-    "doi": "10.1111/jce.70408",
-    "journal": "J Cardiovasc EP",
-    "date": "Jul 19, 2026",
-    "date_ts": 1784461613.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    We assessed the electro\u2010anatomic mapping (EAM) capabilities of a pulsed field ablation (PFA) system previously guided by fluoroscopy to assess acquisition modes, and effects of near and far\u2010field signal.\n                  \n                  \n                    Methods\n                    After pulmonary vein isolation (PVI) proven by pacing to check entrance and exit block, EAM was performed in 2 modes with the Faraview system during CS pacing. Mode 1 utilized bipoles between electrode 3 of each adjacent catheter spline. Mode 2 utilized a pseudo\u2010unipole between electrode 3 and a combination of electrodes 1, 2, and 4 on individual splines. Signals and voltage map demonstration of PVI were compared with pacing assessment. Two observers assessed the maps with a third observer to resolve discrepancies.\n                  \n                  \n                    Results\n                    Fifteen patients (87% male, aged 58\u2009\u00b1\u20099 years) had PVI then mapping with the Faraview system. Pacing confirmed isolation of all pulmonary veins. Bipolar mapping (mode 1) displayed multiple apparent PV signals: only 32/61 (52%) of veins appeared isolated. On pseudo\u2010unipolar mapping 59/61 (97%) of veins appeared isolated. The majority of variance in assessment (70.4%) was explainable by the mapping method with minimal variance attributed to observer.\n                  \n                  \n                    Conclusions\n                    Pseudo\u2010unipolar EAM Faraview mode appears the most accurate for assessment post\u2010PVI compared with bipolar mode.",
-    "summary": "This prospective observational study (n=15 patients) compared two electro-anatomic mapping modes of a pulsed field ablation system for assessing pulmonary vein isolation, finding that pseudo-unipolar mapping accurately identified 97% of isolated veins compared to only 52% with bipolar mapping, suggesting superiority of the pseudo-unipolar acquisition mode for post-PVI assessment."
-  },
-  {
-    "title": "Apparent Unmasking of Left Anterior Fascicular Ventricular Tachycardia After Prior Left Posterior Fascicular Ablation: Possible Alternative Exit From a Shared Septal Purkinje Substrate",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70453?af=R",
-    "doi": "10.1111/jce.70453",
-    "journal": "J Cardiovasc EP",
-    "date": "Jul 19, 2026",
-    "date_ts": 1784461517.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Fascicular ventricular tachycardia (FVT) is a Purkinje\u2010mediated ventricular tachycardia classically associated with verapamil sensitivity and reentry within the left ventricular conduction network. Although catheter ablation is usually effective, recurrent tachycardia with a different fascicular QRS axis after prior ablation raises important mechanistic questions. Contemporary models suggest that the septal fascicular network may provide a shared, interconnected substrate with multiple potential fascicular exits.\n                  \n                  \n                    Case Report\n                    We report a 39\u2010year\u2010old man with complete heart block, pacemaker dependence, and prior ablation for left posterior fascicular ventricular tachycardia (LPFVT), who presented with recurrent incessant ventricular tachycardia and severe left ventricular dysfunction (left ventricular ejection fraction, 15%). The presenting arrhythmia demonstrated right bundle branch block morphology with a right inferior axis, consistent with left anterior fascicular ventricular tachycardia (LAFVT). Electrophysiology study revealed a 1:1 relationship between conduction\u2010system activation and ventricular activation, with the earliest Purkinje potential 60\u2009ms pre\u2010QRS near the proximal septum, approximately 1.5\u2009cm below the His bundle. Radiofrequency ablation at this site resulted in transient acceleration, rapid tachycardia termination, and noninducibility. The patient had complete arrhythmia suppression and recovery of left ventricular function to 50%\u201355%.\n                  \n                  \n                    Discussion\n                    This case is best interpreted as apparent unmasking of an alternative fascicular exit from a shared septal Purkinje substrate after prior distal LPF ablation, rather than definitive proof of simple circuit transformation or rerouting. The septal fascicular network model provides a physiologically plausible framework for the emergence of a new fascicular VT morphology after ablation. However, alternative mechanisms remain plausible, including focal Purkinje automaticity, bundle branch/interfascicular reentry, and scar\u2010related Purkinje VT.\n                  \n                  \n                    Conclusion\n                    Recurrent FVT after prior distal fascicular ablation may reflect dynamic expression of a shared septal Purkinje network with alternative exits. Careful proximal septal and fascicular mapping is important, while mechanistic conclusions should remain appropriately cautious when definitive circuit evidence is lacking.",
-    "summary": "This case report describes a 39-year-old with recurrent fascicular ventricular tachycardia of different morphology (LAFVT) following prior ablation for LPFVT, successfully treated with proximal septal Purkinje ablation that resulted in arrhythmia suppression and recovery of left ventricular function to 50-55%, supporting the hypothesis that a shared septal fascicular network with multiple exits may underlie recurrent FVT after distal fascicular ablation."
-  },
-  {
-    "title": "Safety and Utility of Smartphone\u2010Based Heart Monitors in Pediatric Patients With Cardiovascular Implantable Electronic Devices",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70444?af=R",
-    "doi": "10.1111/jce.70444",
-    "journal": "J Cardiovasc EP",
-    "date": "Jul 19, 2026",
-    "date_ts": 1784444400.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Portable heart monitors enable on\u2010demand electrocardiogram (ECG) recordings and enhance symptom\u2010rhythm correlation. However, concerns have been raised regarding potential electromagnetic interference (EMI) from these monitors that may affect cardiovascular implantable electronic devices (CIEDs). The safety and clinical benefits of portable heart monitors in children and adolescents with implanted CIEDs remain to be established.\n                  \n                  \n                    Objectives\n                    The primary objective was to determine whether KardiaMobile 6L and Apple Watch induce EMI, impacting the function of CIEDs in pediatric patients. Secondary aims included the assessment of the accuracy of heart rate measurement and their ability to detect non\u2010capture events.\n                  \n                  \n                    Methods\n                    In this cross\u2010sectional study, patients aged 5 years or older with implanted CIEDs were recruited from a tertiary pediatric cardiac center. Each subject had four 30\u2009s ECGs acquired using KardiaMobile 6L and Apple Watch. Subjects were monitored for cardiac symptoms during ECG acquisition, and CIEDs were assessed for EMI. The collected ECGs were analyzed for interpretability, accuracy of heart rate measurement, and detection of non\u2010capture events.\n                  \n                  \n                    Results\n                    \n                      Thirty\u2010two patients (median age 14.0 years, IQR 9.9\u201316.6) were recruited. No adverse clinical events were identified. No EMI was detected during ECG acquisition, regardless of patient and CIED characteristics. Ninety\u2010eight percent of acquired ECGs were interpretable. Both devices demonstrated excellent accuracy of heart rate measurement (\n                      \u03c1\n                      \u2009=\u20090.99) and a sensitivity of 100% for identifying ventricular non\u2010capture events.\n                    \n                  \n                  \n                    Conclusions\n                    KardiaMobile 6L and Apple Watch did not induce EMI in children and adolescents with CIEDs, enabling reliable heart rate measurement and accurate identification of ventricular non\u2010captures on these smartphone\u2010based portable heart monitors.",
-    "summary": "This cross-sectional study of 32 pediatric patients with implanted cardiac devices found that KardiaMobile 6L and Apple Watch caused no electromagnetic interference and demonstrated excellent accuracy for heart rate measurement and detection of ventricular non-capture events, supporting the safety of these portable monitors in children and adolescents with CIEDs."
   }
 ]
