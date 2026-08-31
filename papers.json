@@ -1,5 +1,17 @@
 [
   {
+    "title": "Very Late Recurrence After Atrial Fibrillation Ablation: Clinical Characteristics and Pulmonary Vein Reconnection Patterns",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027487?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Aug 31, 2026",
+    "date_ts": 1788141825.48398,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Dual antithrombotic therapy using potent antiplatelet inhibitors in atrial fibrillation and acute coronary syndrome: a randomized controlled trial",
     "link": "https://www.nature.com/articles/s41591-026-04629-7",
     "doi": "10.1038/s41591-026-04629-7",
@@ -24,6 +36,34 @@
       "AFib"
     ],
     "hot": false
+  },
+  {
+    "title": "Increasing plasma potassium and risk of atrial fibrillation: the POTCAST trial",
+    "link": "https://doi.org/10.1093/eurheartj/ehag436",
+    "doi": "10.1093/eurheartj/ehag436",
+    "journal": "European Heart Journal",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788048000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Hypokalaemia and low-normal plasma potassium levels are associated with increased risk of atrial fibrillation. This study examined if potassium-increasing treatment reduces the risk of atrial fibrillation-related clinical events.\n                  \n                  \n                    Methods\n                    This is a prespecified analysis of the POTCAST trial. Adults with an implantable cardioverter-defibrillator (ICD) or cardiac resynchronization therapy-defibrillator (CRT-D) and plasma potassium \u22644.3\u2005mmol/L were randomized to potassium-increasing treatment and standard care (high-normal potassium group) or standard care alone (control group). The endpoint was a composite of acute hospitalizations due to atrial fibrillation leading to a change in pharmacological treatment or due to inappropriate shock therapy, hospitalization for electrical cardioversion or ablation of atrial fibrillation, and loading with amiodarone for atrial fibrillation. The endpoint was evaluated in time-to-first-event analyses with death as competing risk.\n                  \n                  \n                    Results\n                    Among 1200 participants [600 in each group, median age 64 years (interquartile range, 56\u201372), 80.3% male], 390 (32.5%) had a history of atrial fibrillation. Plasma potassium increased by .3\u2005mmol/L after uptitration in the high-normal potassium group compared with the controls. After a median follow-up of 3.3 person-years, the endpoint had occurred in 48 participants in the high-normal potassium group (8.0%, 2.80 events per 100 person-years), when compared with 73 participants in the control group (12.2%, 4.30 events per 100 person-years) (subdistribution hazard ratio, .65; 95% confidence interval, .45\u2013.93, P = .02). The treatment effect appeared similar across subgroups, including those with vs without a history of atrial fibrillation.\n                  \n                  \n                    Conclusions\n                    In adults with any cardiac disease, treated with an ICD or CRT-D, uptitration of plasma potassium levels within the normal range reduced the risk of atrial fibrillation-related clinical events.",
+    "summary": "This prespecified analysis of the POTCAST randomized controlled trial (n=1,200) demonstrated that potassium-increasing treatment to achieve high-normal plasma potassium levels (increase of 0.3 mmol/L) reduced atrial fibrillation-related clinical events by 35% compared to standard care alone (8.0% vs 12.2%; subdistribution hazard ratio 0.65, P=0.02) over a median 3.3-year follow-up in patients with implantable defibrillators and baseline potassium \u22644.3 mmol/L."
+  },
+  {
+    "title": "Antithrombotic therapy after percutaneous coronary intervention in patients with atrial fibrillation: an individual patient data network meta-analysis",
+    "link": "https://doi.org/10.1093/eurheartj/ehag740",
+    "doi": "10.1093/eurheartj/ehag740",
+    "journal": "European Heart Journal",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788048000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and aims\n                    Randomized trials demonstrated that in patients with atrial fibrillation (AF) undergoing percutaneous coronary intervention (PCI) direct oral anticoagulants (DOAC) and a P2Y12 inhibitor reduce bleeding compared with vitamin K antagonist (VKA) plus dual antiplatelet therapy (DAPT) with no increase in ischemic risk; however, important gaps in knowledge remain, limiting certainty and generalizability of these findings.\n                  \n                  \n                    Methods\n                    In this patient-level meta-analysis of randomized trials evaluating antithrombotic strategies in patients with AF undergoing PCI, Cox proportional hazard models, stratified by trial, were used to estimate hazard ratios and 95% confidence intervals (HR, 95%CI). The primary efficacy and safety outcomes were the composite of cardiovascular death, myocardial infarction, or stroke, and TIMI major bleeding, respectively. The study was registered in PROSPERO (CRD420251130025).\n                  \n                  \n                    Results\n                    Six trials (10,634 patients) comparing DOAC plus P2Y12 inhibitor (4,083), VKA plus single antiplatelet therapy (SAPT, 1,247), VKA plus DAPT (3,715), and DOAC plus DAPT (1,589) were included. The transition from DAPT to SAPT was recommended at 1 (1-3) and 3 (1-7) days in the DOAC plus P2Y12 inhibitor and VKA plus SAPT groups, respectively. At 1 year, the risk of the primary efficacy outcome did not differ across the antithrombotic strategies (reference group: VKA plus DAPT; DOAC plus P2Y12 inhibitor: HR 1.16, 95%CI 0.97\u20131.41; VKA plus SAPT: 1.14, 0.85\u20131.54, DOAC plus DAPT: 0.99, 0.75\u20131.30), without any statistically significant interaction between treatment effects and all prespecified subgroups, including age, sex, bleeding risk, and thrombotic risk. However, 14-day landmark analysis showed an increased risk of myocardial infarction and definite/probable stent thrombosis in patients receiving DOAC plus P2Y12 inhibitor or VKA plus SAPT in the early phase after PCI. DOAC plus P2Y12 inhibitor reduced the risk of the primary safety outcome compared with VKA plus DAPT (0.48, 0.38\u2013 0.65) and VKA plus SAPT (0.62, 0.40\u20130.97); only a borderline reduction was observed compared to DOAC plus DAPT (0.66, 0.44\u20131.01). DOAC plus P2Y12 inhibitor reduced intracranial hemorrhage compared with VKA plus DAPT (0.21, 0.07\u20130.64).\n                  \n                  \n                    Conclusions\n                    In patients with AF undergoing PCI, the risk of cardiovascular death, myocardial infarction, or stroke did not significantly differ according to whether patients received a DOAC or VKA, whereas a modest increase in risk with single compared with dual antiplatelet therapy cannot be excluded, given the higher risk of early coronary events. DOACs compared with VKAs reduced the risk of bleeding across all severity grades, including intracranial hemorrhage, whereas omission of a second antiplatelet agent reduced the risk of TIMI major or minor bleeding.",
+    "summary": "This patient-level meta-analysis of 6 randomized trials (10,634 patients with AF undergoing PCI) found no significant difference in cardiovascular death, myocardial infarction, or stroke at 1 year across antithrombotic strategies (DOAC plus P2Y12 inhibitor, VKA plus SAPT, VKA plus DAPT, or DOAC plus DAPT), though early landmark analysis suggested increased coronary risk with reduced dual antiplatelet therapy. DOAC-based regimens substantially reduced TIMI major bleeding and intracranial hemorrhage compared with VKA-based approaches, with the greatest bleeding reduction observed with"
   },
   {
     "title": "Low-Normal Peri-Procedural Potassium as a Prognostic Marker of Atrial Fibrillation and Stroke After CABG",
@@ -3648,6 +3688,46 @@
     "hot": false
   },
   {
+    "title": "Population reach and participation rate in opportunistic vs. systematic atrial fibrillation screening: STROKESTOP III",
+    "link": "https://doi.org/10.1093/europace/euag214",
+    "doi": "10.1093/europace/euag214",
+    "journal": "EP Europace",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Population-based screening for atrial fibrillation (AF) should be considered in elderly individuals to enable AF detection. However, participation in systematic screening programmes is often suboptimal. STROKESTOP III evaluated whether opportunistic screening could improve participation compared with systematic screening.\n                  \n                  \n                    Methods and results\n                    STROKESTOP III is a cluster-randomized trial including individuals aged 75\u201376 years from 16 primary care centres in Region V\u00e4rmland, Sweden. Centres were randomized to systematic screening, using mailed invitations, or opportunistic screening, using invitations during visits.\n                    In the systematic arm, 1312 individuals were eligible and invited, of whom 607 participated (46.3%). In the opportunistic arm, 1390 individuals attended participating primary care centres and were potentially eligible for invitation. However, 641 individuals (46.1%) were not assessed for eligibility. Among the 749 assessed individuals, 609 were eligible and 374 participated.\n                    Participation among invited eligible individuals was significantly higher with opportunistic than systematic screening (374/609, 61.4% vs. 607/1,312, 46.3%; P &amp;lt; 0.005). However, overall reach was lower in the opportunistic arm because of incomplete assessment for invitation (374/1,479, 25.3% vs. 607/1,437, 42.2%; P &amp;lt; 0.005). Participants in the opportunistic arm had a higher cardiovascular risk burden, including more hypertension, diabetes, and a higher CHA2DS2-VASc-score (3.99 vs. 3.60; P &amp;lt; 0.005). Exclusion rates were higher (18.7% vs. 8.7%; P &amp;lt; 0.005), mainly due to previously diagnosed AF and cognitive impairment.\n                  \n                  \n                    Conclusion\n                    Opportunistic screening increased participation among invited individuals and identified a higher-risk population, but its overall population reach was limited by incomplete eligibility assessment. Combining opportunistic and systematic strategies may optimize reach and participation in AF screening programmes.",
+    "summary": "This cluster-randomized trial of 2,827 Swedish adults aged 75\u201376 years compared opportunistic versus systematic AF screening at 16 primary care centers and found that while opportunistic screening achieved higher participation among invited eligible individuals (61.4% vs 46.3%), its overall population reach was significantly lower (25.3% vs 42.2%) due to incomplete eligibility assessment, though opportunistic screening did identify participants with higher cardiovascular risk burden."
+  },
+  {
+    "title": "Digital recruitment and prevalence of screen-detected atrial fibrillation in nationwide patch-based ECG screening: the NORSCREEN randomized clinical trial",
+    "link": "https://doi.org/10.1093/europace/euag140",
+    "doi": "10.1093/europace/euag140",
+    "journal": "EP Europace",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Conventional screening modalities for atrial fibrillation (AF) are often constrained by considerable resource and logistical demands. The randomized controlled NORwegian atrial fibrillation self-SCREENing (NORSCREEN) trial employs a fully digital approach to recruitment and implementation. The aim of this pre-specified analysis was to evaluate the effectiveness of the fully digital recruitment and screening strategy, determine the prevalence of screen-detected AF, and assess initial adherence to therapeutic recommendations.\n                  \n                  \n                    Methods and results\n                    Individuals aged \u226565 years with \u22651 additional risk factor for stroke were digitally recruited from the general Norwegian population and randomized 1:1 to screening or usual care. Exclusion criteria included prior AF, anticoagulation, implantable cardiac electronic devices, or lack of smartphone access. Participants allocated to screening were mailed a patch-based electrocardiogram sensor for site-less continuous monitoring over 7 days. Those with diagnosed AF were advised to contact their general practitioner to initiate appropriate therapy. A total of 551 555 Norwegian residents were digitally invited; of these, 139 596 (25.3%) completed the digital eligibility assessment, 74 956 (53.7%) were eligible, and 50 549 (67.4%) were randomized to screening or usual care. The median age was 75 years (inter-quartile range: 69\u201378), 23 445 (46.4%) were female, and the mean CHA2DS2-VA risk score was 2.6 \u00b1 0.9. In the screening group, 19 723 (78.1%) completed the study procedures. Previously undiagnosed AF was identified in 382 (1.9%) screened participants, of whom 366 (95.8%) initiated anticoagulation therapy.\n                  \n                  \n                    Conclusion\n                    The NORSCREEN trial demonstrates that fully digital, large-scale, site-less AF screening is feasible and effective in an at-risk population, identifying previously undiagnosed AF in 1.9% of screened individuals and showing high adherence to therapeutic recommendations.\n                  \n                  \n                    Clinical Trial Registration\n                    NCT05914883",
+    "summary": "NORSCREEN is a randomized controlled trial of 50,549 Norwegian adults \u226565 years with stroke risk factors who underwent digital recruitment and 7-day patch-based ECG screening versus usual care, identifying previously undiagnosed atrial fibrillation in 1.9% of screened participants with 95.8% initiating anticoagulation therapy, demonstrating the feasibility and effectiveness of fully digital, site-less AF screening at population scale."
+  },
+  {
+    "title": "Is the future of atrial fibrillation screening a landscape without humans?",
+    "link": "https://doi.org/10.1093/europace/euag219",
+    "doi": "10.1093/europace/euag219",
+    "journal": "EP Europace",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "A Case of Unintentional Superior Vena Cava Isolation During Pulmonary Vein Isolation Using a Lattice-Tip Catheter",
     "link": "https://doi.org/10.1016/j.hrcr.2026.08.020",
     "doi": "10.1016/j.hrcr.2026.08.020",
@@ -6186,81 +6266,5 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Background\n                    \n                      Atrial fibrillation (AF) increases ischemic stroke risk nearly fivefold. Although the CHA\n                      2\n                      DS\n                      2\n                      \u2010VA score is widely used for risk stratification, its predictive performance is limited, particularly in intermediate\u2010risk patients. Left atrial (LA) enlargement, a marker of structural remodeling, may improve risk prediction.\n                    \n                  \n                  \n                    Aims\n                    \n                      To evaluate whether adding LA diameter to CHA\n                      2\n                      DS\n                      2\n                      \u2010VA (creating CHA\n                      2\n                      DS\n                      2\n                      \u2010VALa) enhances ischemic stroke prediction in AF patients. We additionally derived a multivariable \u03b2\u2010weighted model and benchmarked its performance against CHA\n                      2\n                      DS\n                      2\n                      \u2010VA (and the simplified +1 LA rule).\n                    \n                  \n                  \n                    Methods\n                    \n                      This retrospective study included 1648 AF patients. LA diameter was measured by standardized echocardiography. A ROC\u2010derived cut\u2010off (&gt;\u20094.7\u2009cm) defined enlargement. Patients were followed for a mean of 4.18\u2009\u00b1\u20090.35 years. Imaging\u2010confirmed ischemic stroke events were identified through institutional hospital records and the electronic health registry, and were validated using hospitalization documentation, neurology consultation notes, discharge summaries, and available brain CT/MRI findings. Predictors were assessed using multivariable logistic regression, and Kaplan\u2013Meier/log\u2010rank analyses compared CHA\n                      2\n                      DS\n                      2\n                      \u2010VALa versus CHA\n                      2\n                      DS\n                      2\n                      \u2010VA.\n                    \n                  \n                  \n                    Results\n                    \n                      Imaging\u2010confirmed ischemic stroke events occurred more frequently in patients with LA\u2009&gt;\u20094.7\u2009cm (25 [3.8%] vs. 21 [2.1%],\n                      p\n                      \u2009&lt;\u20090.001). Elevated CRP, NT\u2010proBNP, diabetes, hypertension, CAD, and heart failure were also associated with stroke. LA\u2009&gt;\u20094.7\u2009cm independently predicted events (OR 1.97, 95% CI 1.36\u20132.86,\n                      p\n                      \u2009&lt;\u20090.001). ROC analysis showed strong discrimination for LA diameter (AUC 0.872; sensitivity 82%, specificity 85%). Kaplan\u2013Meier analysis demonstrated superior prediction with CHA\n                      2\n                      DS\n                      2\n                      \u2010VALa compared to CHA\n                      2\n                      DS\n                      2\n                      \u2010VA (log\u2010rank\n                      p\n                      \u2009&lt;\u20090.001).\n                    \n                  \n                  \n                    Conclusion\n                    \n                      The CHA\n                      2\n                      DS\n                      2\n                      \u2010VALa score significantly improves stroke risk stratification in AF by integrating LA diameter into conventional scoring. As echocardiographic measurement is widely available and reproducible, this modification offers a simple, pragmatic approach to refine residual stroke\u2010risk stratification and support closer evaluation and follow\u2010up in anticoagulated AF patients. Prospective validation in diverse populations is warranted.",
     "summary": "This retrospective study of 1,648 AF patients over 4.18 years found that adding left atrial diameter >4.7 cm to the CHA\u2082DS\u2082-VA score (creating CHA\u2082DS\u2082-VALa) significantly improves ischemic stroke prediction, with LA enlargement independently predicting stroke (OR 1.97, p<0.001) and superior Kaplan-Meier discrimination compared to CHA\u2082DS\u2082-VA alone (p<0.001). The modification offers a simple, reproducible echocardiographic refinement to conventional risk stratification for anticoagulated AF patients, though prospective validation in"
-  },
-  {
-    "title": "Intravenous vernakalant for acute termination of recent-onset atrial fibrillation in the emergency department",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001042?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jul 21, 2026",
-    "date_ts": 1784597092.387603,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Evaluation of transvenous lead extraction in young adults: Insights from the University of California San Diego Lead Extraction Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000978?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jul 21, 2026",
-    "date_ts": 1784597092.387563,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of cardiac pacemakers on the health-related quality of life in Chinese children: A study based on specific questions of each domain of the health-related quality of life",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826000139?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jul 21, 2026",
-    "date_ts": 1784597092.387516,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Real-world comparison of conduction system pacing and helix-based leadless pacemakers in single-chamber pacing: Procedural outcomes from the PACEMAN study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826001182?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jul 21, 2026",
-    "date_ts": 1784597092.387307,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Inpatient Cardiac Resynchronization Therapy During Heart Failure Hospitalization: A Distinct High\u2010Risk Phenotype",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70366?af=R",
-    "doi": "10.1111/pace.70366",
-    "journal": "PACE",
-    "date": "Jul 20, 2026",
-    "date_ts": 1784537753.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    The role of cardiac resynchronization therapy (CRT) during hospitalization for heart failure (HFH) is uncertain, because hospitalized patients were routinely excluded from landmark CRT trials. Despite this, CRT implantation during HFH is common. This study aimed to compare the clinical profiles and post\u2010implantation outcomes of patients undergoing inpatient CRT during HFH with those receiving deferred outpatient CRT after HFH.\n                  \n                  \n                    Methods\n                    Institutional CRT data were linked with the National Heart Failure Audit from January 2014 to December 2024. Patients were stratified by inpatient or outpatient CRT implantation setting. Baseline characteristics, HFH within one year of CRT and long\u2010term survival were compared. Multivariable Cox proportional hazards modelling assessed the association between implantation setting and mortality.\n                  \n                  \n                    Results\n                    \n                      130 patients underwent inpatient CRT during HFH and 90 received deferred outpatient CRT. Inpatients had lower estimated glomerular filtration rates (46.26\u00b119.0 vs. 55.19\u00b118.4\u00a0mL/min/1.73m\n                      2\n                      ,\n                      p\n                      = 0.01), more ischemic cardiomyopathy (40.8% vs. 18.9%,\n                      p\n                      = 0.01), less left bundle branch block (36.9% vs. 51.1%,\n                      p\n                      = 0.04), and more HF hospitalizations in the year before CRT (1.12\u00b10.87 vs. 0.84\u00b10.86,\n                      p\n                      = 0.01). The risk of \u22651 HF re\u2010hospitalization within one year of CRT was higher (23.1% vs. 7.8%;\n                      p\n                      = 0.004) in the inpatient group. Median survival after CRT was 2.9 years shorter for the inpatient group (1192 vs. 2262 days,\n                      p\n                      = 0.003). After adjustment, deferred outpatient CRT remained associated with lower all\u2010cause mortality (HR 0.56, 95% CI 0.35\u20130.88,\n                      p\n                      = 0.01).\n                    \n                  \n                  \n                    Conclusion\n                    Patients selected for inpatient CRT during HFH represent a clinically distinct, higher\u2010risk subgroup with worse post\u2010implant outcomes. Prospective studies are needed to optimize patient selection for inpatient CRT.",
-    "summary": "This retrospective cohort study linked institutional CRT data with a national heart failure audit from 2014-2024 (130 inpatient vs. 90 outpatient CRT recipients) and found that inpatient CRT during acute heart failure hospitalization was associated with higher HF re-hospitalization rates (23.1% vs. 7.8% at one year) and significantly worse long-term survival (median 2.9 years shorter) compared to deferred outpatient CRT, with deferred implantation remaining independently protective after multivariable adjustment (HR 0.56). The inpatient cohort represented a higher-risk population with more ischemic"
-  },
-  {
-    "title": "Ventricular Pacing Inhibition After Dual\u2010Chamber Leadless Pacing Associated With a Retained Right Ventricular Lead",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70369?af=R",
-    "doi": "10.1111/pace.70369",
-    "journal": "PACE",
-    "date": "Jul 20, 2026",
-    "date_ts": 1784537512.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  An 88\u2010year\u2010old pacemaker\u2010dependent man with a retained low\u2010impedance, noise\u2010producing right ventricular lead underwent implantation of a dual\u2010chamber leadless pacemaker. On postoperative day 1, he developed recurrent syncope with pauses up to 13\u00a0s. Although stored electrograms from the index events were unavailable, post\u2010event interrogation showed atrial pacing followed by ventricular safety pacing, and provocative testing supported persistent electrical coupling involving the retained lead. After reduction of temporary high\u2010output settings and reprogramming to VDD, syncope did not recur during 12 months. Retained malfunctioning leads may mediate timing\u2010dependent ventricular inhibition after dual\u2010chamber leadless pacing.",
-    "summary": "This is a case report of an 88-year-old pacemaker-dependent patient who experienced recurrent syncope with prolonged pauses after implantation of a dual-chamber leadless pacemaker in the setting of a retained malfunctioning right ventricular lead; the arrhythmia was successfully managed through reprogramming to VDD mode, suggesting that retained leads can cause timing-dependent ventricular inhibition with leadless pacemaker systems."
   }
 ]
