@@ -1,5 +1,58 @@
 [
   {
+    "title": "Direct His/LBB Pacing as an Alternative to Biventricular Pacing in Patients With HFrEF and a Typical LBBB: The His-Alternative II Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007784?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788229485.837807,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Delayed Ruptured Sinus of Valsalva: A Rare Late Complication of a Common Idiopathic PVC/VT Ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005386?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788229485.729481,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pacemaker-implantation and atrioventricular-node ablation vs pulmonary vein isolation for elderly patients with persistent atrial fibrillation: the ABLATE versus PACE trial",
+    "link": "https://doi.org/10.1093/eurheartj/ehag742",
+    "doi": "10.1093/eurheartj/ehag742",
+    "journal": "European Heart Journal",
+    "date": "Aug 31, 2026",
+    "date_ts": 1788134400.0,
+    "tags": [
+      "AFib",
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Population aging is increasing atrial fibrillation (AF) prevalence. In elderly patients with persistent AF, pulmonary-vein isolation (PVI) has limited success, but is widely used. Pacemaker-implantation with atrioventricular-node ablation (PM+AVNA) provides effective symptom control, but the relative effects of PM+AVNA versus PVI on hospitalisations and other outcomes in the elderly remain unknown.\n                  \n                  \n                    Methods\n                    This investigator-initiated, multicentre, open-label trial randomised patients aged\u226575 years with symptomatic persistent AF and normal left-ventricular ejection fraction to PM+AVNA or PVI treatment-strategies. The primary endpoint was a composite of hospitalisation for atrial arrhythmia or heart failure, outpatient electrical cardioversion or upgrade to cardiac resynchronisation therapy for left-ventricular dysfunction. Secondary endpoints included all-cause death, stroke, treatment-related complications and quality of life.\n                  \n                  \n                    Results\n                    Twelve centres in Germany and Austria randomised 196 patients (median age 82 years). At 12 months, a first primary endpoint event occurred in 24 of 98 patients (24%) assigned to PM+AVNA and 45 of 98 patients (46%) assigned to PVI (hazard ratio 0.45, 95% confidence interval 0.27 to 0.74; P=0.002). A total of 29 and 84 primary endpoint events occurred respectively, consisting principally of AF-hospitalisations and cardioversions in the PVI group (54 and 19 respectively, vs 3 and 1 in PM+AVNA group) and of heart failure-hospitalisations in the PM+AVNA Group (23, vs 11 in PVI group). The incidence of cardiovascular complications and mortality, as well as qualityof-life, were not statistically different.\n                  \n                  \n                    Conclusions\n                    In elderly patients with persistent AF, PM+AVNA was associated with fewer primary endpoint events than PVI over a 12-month follow-up period.",
+    "summary": "This multicenter randomized controlled trial of 196 patients aged \u226575 years with persistent AF compared pacemaker implantation with atrioventricular-node ablation (PM+AVNA) versus pulmonary-vein isolation (PVI), demonstrating that PM+AVNA resulted in significantly fewer composite hospitalizations for arrhythmia/heart failure or cardioversions at 12 months (24% vs 46%; HR 0.45, p=0.002), with no difference in mortality or quality of life between groups."
+  },
+  {
+    "title": "Safety and Efficacy of Nighttime Versus Daytime Radiofrequency Catheter Ablation for Atrial Fibrillation: A Multicenter Cohort Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70485?af=R",
+    "doi": "10.1111/jce.70485",
+    "journal": "J Cardiovasc EP",
+    "date": "Aug 31, 2026",
+    "date_ts": 1788158754.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Objective\n                    This study aimed to compare the incidence of post\u2011procedural complications in patients undergoing radiofrequency catheter ablation (RFCA) for atrial fibrillation (AF) performed during daytime versus nighttime hours.\n                  \n                  \n                    Methods\n                    \n                      This retrospective study included 2951 patients who underwent AF ablation at three centers between 2019 and 2024. Based on procedure start time, patients were assigned to a daytime group (08:00\u201316:00,\n                      n\n                      \u2009=\u20091503) or a nighttime group (16:00\u201324:00,\n                      n\n                      \u2009=\u20091301). Propensity score matching (PSM) was used to balance baseline characteristics. The primary outcome was any complication within 3 months post\u2011ablation. Secondary outcomes included in\u2011hospital and post\u2011discharge complications (within 3 months) and freedom from atrial arrhythmia recurrence at 12 months.\n                    \n                  \n                  \n                    Results\n                    \n                      Following 1:1 PSM, 1263 matched pairs were analyzed. The overall postoperative complication rate was significantly higher in the nighttime group than in the daytime group (4.99% vs. 2.30%; odds ratio [OR]: 2.23; 95% confidence interval [CI]: 1.43\u20133.49;\n                      p\n                      \u2009&lt;\u20090.001). This elevated risk was consistent for both in\u2010hospital complications (OR: 2.14; 95% CI: 1.23\u20133.72;\n                      p\n                      \u2009=\u20090.007) and post\u2010discharge complications (OR: 2.32; 95% CI: 1.10\u20134.90;\n                      p\n                      \u2009=\u20090.027). Furthermore, there was no significant difference in the 12\u2010month freedom from atrial arrhythmia recurrence between the two cohorts.\n                    \n                  \n                  \n                    Conclusions\n                    Nighttime AF ablation is associated with a significantly increased risk of overall postoperative complications, highlighting procedural timing as a critical determinant of perioperative patient safety.",
+    "summary": "This retrospective study of 2,951 patients (1,263 matched pairs after propensity score matching) found that radiofrequency catheter ablation for atrial fibrillation performed during nighttime hours (16:00\u201324:00) was associated with significantly higher postoperative complication rates compared to daytime procedures (4.99% vs. 2.30%; OR 2.23, p<0.001), with increased risk for both in-hospital and post-discharge complications, though 12-month arrhythmia recurrence rates were similar between groups."
+  },
+  {
     "title": "Very Late Recurrence After Atrial Fibrillation Ablation: Clinical Characteristics and Pulmonary Vein Reconnection Patterns",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027487?dgcid=rss_sd_all",
     "doi": null,
@@ -64,6 +117,92 @@
     "hot": false,
     "abstract": "Abstract\n                  \n                    Background and aims\n                    Randomized trials demonstrated that in patients with atrial fibrillation (AF) undergoing percutaneous coronary intervention (PCI) direct oral anticoagulants (DOAC) and a P2Y12 inhibitor reduce bleeding compared with vitamin K antagonist (VKA) plus dual antiplatelet therapy (DAPT) with no increase in ischemic risk; however, important gaps in knowledge remain, limiting certainty and generalizability of these findings.\n                  \n                  \n                    Methods\n                    In this patient-level meta-analysis of randomized trials evaluating antithrombotic strategies in patients with AF undergoing PCI, Cox proportional hazard models, stratified by trial, were used to estimate hazard ratios and 95% confidence intervals (HR, 95%CI). The primary efficacy and safety outcomes were the composite of cardiovascular death, myocardial infarction, or stroke, and TIMI major bleeding, respectively. The study was registered in PROSPERO (CRD420251130025).\n                  \n                  \n                    Results\n                    Six trials (10,634 patients) comparing DOAC plus P2Y12 inhibitor (4,083), VKA plus single antiplatelet therapy (SAPT, 1,247), VKA plus DAPT (3,715), and DOAC plus DAPT (1,589) were included. The transition from DAPT to SAPT was recommended at 1 (1-3) and 3 (1-7) days in the DOAC plus P2Y12 inhibitor and VKA plus SAPT groups, respectively. At 1 year, the risk of the primary efficacy outcome did not differ across the antithrombotic strategies (reference group: VKA plus DAPT; DOAC plus P2Y12 inhibitor: HR 1.16, 95%CI 0.97\u20131.41; VKA plus SAPT: 1.14, 0.85\u20131.54, DOAC plus DAPT: 0.99, 0.75\u20131.30), without any statistically significant interaction between treatment effects and all prespecified subgroups, including age, sex, bleeding risk, and thrombotic risk. However, 14-day landmark analysis showed an increased risk of myocardial infarction and definite/probable stent thrombosis in patients receiving DOAC plus P2Y12 inhibitor or VKA plus SAPT in the early phase after PCI. DOAC plus P2Y12 inhibitor reduced the risk of the primary safety outcome compared with VKA plus DAPT (0.48, 0.38\u2013 0.65) and VKA plus SAPT (0.62, 0.40\u20130.97); only a borderline reduction was observed compared to DOAC plus DAPT (0.66, 0.44\u20131.01). DOAC plus P2Y12 inhibitor reduced intracranial hemorrhage compared with VKA plus DAPT (0.21, 0.07\u20130.64).\n                  \n                  \n                    Conclusions\n                    In patients with AF undergoing PCI, the risk of cardiovascular death, myocardial infarction, or stroke did not significantly differ according to whether patients received a DOAC or VKA, whereas a modest increase in risk with single compared with dual antiplatelet therapy cannot be excluded, given the higher risk of early coronary events. DOACs compared with VKAs reduced the risk of bleeding across all severity grades, including intracranial hemorrhage, whereas omission of a second antiplatelet agent reduced the risk of TIMI major or minor bleeding.",
     "summary": "This patient-level meta-analysis of 6 randomized trials (10,634 patients with AF undergoing PCI) found no significant difference in cardiovascular death, myocardial infarction, or stroke at 1 year across antithrombotic strategies (DOAC plus P2Y12 inhibitor, VKA plus SAPT, VKA plus DAPT, or DOAC plus DAPT), though early landmark analysis suggested increased coronary risk with reduced dual antiplatelet therapy. DOAC-based regimens substantially reduced TIMI major bleeding and intracranial hemorrhage compared with VKA-based approaches, with the greatest bleeding reduction observed with"
+  },
+  {
+    "title": "Clinical Outcomes After Catheter Ablation in Patients With Structural Heart Disease and Ventricular Fibrillation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70488?af=R",
+    "doi": "10.1111/jce.70488",
+    "journal": "J Cardiovasc EP",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788114254.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    In patients with ischemic cardiomyopathy (ICM), recurrent VF may be treated with catheter ablation by targeting triggering premature ventricular complexes (PVCs) and/or ventricular scar homogenization. Data on optimal ablation strategies in patients with non\u2010ischemic cardiomyopathy (NICM) remain limited. This study aimed to compare ablation strategies and outcomes in patients with recurrent VF due to ICM versus NICM.\n                  \n                  \n                    Methods and Results\n                    \n                      We retrospectively analyzed consecutive patients with structural heart disease and recurrent VF undergoing catheter ablation. Catheter ablation was performed, including targeting the triggering and/or clinically frequent PVC, targeting any inducible ventricular tachycardia, and/or scar homogenization. Procedural characteristics, arrhythmogenic substrate features, and post\u2010ablation clinical outcomes were compared between ICM and NICM groups. Forty\u2010five patients were included (17 ICM, 28 NICM; mean age 60\u2009\u00b1\u200915 years; 87% male). PVC ablation was performed in 42% of ICM and 39% of NICM patients, while scar homogenization was undertaken in 76% and 57%, respectively. Left ventricular scar burden, assessed by bipolar and unipolar voltage mapping, was significantly greater in the ICM, whereas the prevalence of abnormal Purkinje potentials was similar between groups. VF\u2010free survival after multiple procedures did not differ between groups, with estimated 1\u2010year rates of 87\u2009\u00b1\u20099% in ICM and 85\u2009\u00b1\u20098% in NICM (log\u2010rank\n                      p\n                      \u2009=\u20090.93).\n                    \n                  \n                  \n                    Conclusions\n                    In patients with NICM and recurrent VF, catheter ablation targeting arrhythmogenic substrate\u2014including unipolar low\u2010voltage regions\u2014combined with PVC ablation yields outcomes comparable to those in ICM, supporting this approach as a reasonable treatment strategy.",
+    "summary": "This retrospective study of 45 patients (17 ICM, 28 NICM) with recurrent VF undergoing catheter ablation compared ablation strategies and outcomes between ischemic and non-ischemic cardiomyopathy groups, demonstrating comparable 1-year VF-free survival rates of 87% and 85%, respectively, supporting substrate-based ablation combined with PVC targeting in NICM patients."
+  },
+  {
+    "title": "Characteristics of Atrial Tachycardia Recurrence After Pulsed Field Ablation: Insights From Repeat Ablation Procedures",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70487?af=R",
+    "doi": "10.1111/jce.70487",
+    "journal": "J Cardiovasc EP",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788113903.0,
+    "tags": [
+      "AFib",
+      "SVT"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Pulmonary vein isolation (PVI) using pulsed field ablation (PFA) for atrial fibrillation (AF) is becoming increasingly widespread. However, characteristics of atrial tachycardia (AT) recurrence after PFA remain unclear. We aimed to investigate characteristics of AT recurrence in comparison with AF recurrence after PFA\u2010based PVI.\n                  \n                  \n                    Methods\n                    We analyzed 60 consecutive patients who underwent repeat ablation for recurrent atrial tachyarrhythmia after initial PVI alone performed with a pentaspline PFA system. Patients were classified into an AT group (at least one AT episode before repeat ablation) and an AF group (AF recurrence only). Baseline characteristics, pulmonary vein (PV) reconnections, and recurrence\u2010free rate after repeat ablation procedure were assessed.\n                  \n                  \n                    Results\n                    \n                      The AT group consisted of 34 patients (57%). In the multivariate analysis, absence of PV reconnections was independently associated with AT recurrence (\n                      p\n                      \u2009=\u20090.037). All mappable ATs were macro\u2010reentrant circuits and none were directly related to PVs. Recurrence\u2010free rate after repeat ablation did not differ between AT and AF groups (\n                      p\n                      \u2009=\u20090.277). However, patients presenting in AT at the beginning of the repeat procedure had the most favorable outcomes, whereas those in AF had the poorest (\n                      p\n                      \u2009=\u20090.042).\n                    \n                  \n                  \n                    Conclusions\n                    After PFA\u2010based PVI, AT recurrence was characterized by lower PV reconnection rates and macro\u2010reentrant circuits remote from the PVs, whereas AF recurrence was more frequently associated with PV reconnections. While overall outcomes after repeat ablation were comparable, baseline rhythm at the repeat procedure was associated with prognosis, underscoring the importance of tailored mapping and ablation strategies after PFA.",
+    "summary": "This retrospective study of 60 patients undergoing repeat ablation after pulsed field ablation-based pulmonary vein isolation found that atrial tachycardia recurrence (57% of patients) was characterized by absence of pulmonary vein reconnections and macro-reentrant circuits remote from the pulmonary veins, whereas atrial fibrillation recurrence was associated with pulmonary vein reconnections; notably, patients presenting in atrial tachycardia at repeat procedure had superior outcomes compared to those in atrial fibrillation. These findings suggest that post-PFA atrial tachyarrhythmia recurrences have distinct mechanisms requiring tailored"
+  },
+  {
+    "title": "Brugada Syndrome in the Pediatric Population: Diagnostic Challenges and Clinical Outcome\u2014Results of the German Multicenter Study COGIA",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70484?af=R",
+    "doi": "10.1111/jce.70484",
+    "journal": "J Cardiovasc EP",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788113756.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Diagnosis and treatment of children and adolescents with suspected Brugada syndrome (BrS) is challenging. Aim of the study was to evaluate the applicability of current diagnostic criteria for pediatric patients with suspected BrS in the German multicenter study COGIA and to assess clinical outcome.\n                  \n                  \n                    Methods\n                    Data analysis of 76 pediatric patients from 12 German tertiary care centers. Primary outcome was defined by the occurrence of a major arrhythmic event (MAE), secondary outcome by symptoms, pharmacotherapy and implantation of devices. MAE was defined as sudden cardiac death (SCD), aborted cardiac arrest (ACA) and appropriate implantable cardioverter\u2010defibrillator (ICD) therapy.\n                  \n                  \n                    Results\n                    \n                      Criteria for BrS diagnosis were fulfilled in 39/76 pediatric patients (51.3%) according to ESC Guidelines, including 34 patients (44.7%) according to Shanghai Score. Genetic testing identified a (likely) pathogenic\n                      SCN5A\n                      variant in 31/66 tested children (47.0%) (14/30 with clinical diagnosis (46.7%) and 17/36 without clinical diagnosis (47.2%)). Twenty\u2010four patients (31.6%) showed a spontaneous type 1 ECG pattern, in 6 patients (7.9%) it was induced by fever. Ajmaline challenge was positive in 19/25 patients (76.0%). Syncope occurred in 15 patients (19.7%) and an ICD was implanted in 7 pediatric patients (9.2%). Four patients (5.3%) experienced a MAE (ACA), all of them fulfilling diagnostic criteria. \u201cSymptoms at first consultation\u201d was identified as an independent risk factor for MAE in the whole cohort (HR\u2009=\u200911.3,\n                      p\n                      \u2009=\u20090.04).\n                    \n                  \n                  \n                    Conclusion\n                    Establishing the diagnosis of BrS remains challenging in the pediatric cohort. MAE occurred in 5.3% of patients with suspected BrS. Symptoms at first consultation increased risk for MAE.\n                    \n                      Clinical Trial Registration:\n                      The study is registered at the German Clinical Trial Register (DRKS) of the Federal Institute for Drugs and Medical Devices (BfArM), DRKS\u2010ID DRKS00028138.",
+    "summary": "This retrospective multicenter analysis of 76 pediatric patients with suspected Brugada syndrome found that diagnostic criteria were met in only 51.3% using ESC Guidelines, with major arrhythmic events occurring in 5.3% of the cohort, and symptomatic presentation at initial consultation identified as an independent risk factor for adverse outcomes (HR=11.3, p=0.04)."
+  },
+  {
+    "title": "Sub\u2010Acute Re\u2010Elevated Pacing Thresholds After Atrial Leadless Pacemaker Implantation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70478?af=R",
+    "doi": "10.1111/jce.70478",
+    "journal": "J Cardiovasc EP",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788113633.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    The safety and efficacy of the atrial leadless pacemaker (A\u2010LP) with helix fixation have been demonstrated. Usually, elevated acute thresholds decrease gradually and normalize within 24\u2009h. Here, we report a case of subacute re\u2010elevation of pacing thresholds after hospital discharge.\n                  \n                  \n                    Case Presentation\n                    An 80\u2010year\u2010old female with a history of bradycardia underwent A\u2010LP implantation. At the time of the procedure, the final pacing threshold (PT) was measured at 4.0\u2009V/0.4\u2009ms. On post\u2010procedural Day 1, the PT at 0.4\u2009ms pulse width decreased to 1.0\u2009V. On Day 4, the PT was 1.0\u2009V/0.4\u2009ms prior to the patient's discharge. However, on Day 5, she was readmitted to the hospital due to the loss of atrial capture at the maximum output available after an intravenous administration of 150\u2009mg amiodarone for atrial flutter. Over 3 days of monitoring, atrial PT was higher than 6\u2009V/1.5\u2009ms. A traditional DDD pacemaker was implanted due to recurrent sinus asystole associated with dizziness. At the 1\u2010month follow\u2010up, the PT of atrial A\u2010LP was 0.5\u2009V/0.4\u2009ms. Two months later, an ambulatory Holter confirmed the stable and normal atrial capture of the A\u2010LP after lowering the base rate of the DDD pacemaker. At the 3\u2010month follow\u2010up, PT of the A\u2010LP remained 0.5\u2009V/0.4\u2009ms.\n                  \n                  \n                    Conclusion\n                    Sub\u2010acute re\u2010elevated PT of the A\u2010LP during the perioperative period may persist for more than 1 week and then normalize within 1 month. If PT re\u2010elevation is suspected to be related to peri\u2010electrode inflammation, a conservative approach with continued monitoring of threshold changes may be considered.",
+    "summary": "This case report describes an 80-year-old patient with atrial leadless pacemaker who experienced subacute re-elevation of pacing thresholds (>6 V) five days post-implantation after amiodarone administration for atrial flutter, which subsequently normalized to 0.5 V/0.4 ms within one month with conservative management and temporary dual-chamber pacemaker support. The authors suggest that perioperative threshold re-elevation in atrial leadless pacemakers may persist beyond one week before normalizing, potentially related to peri-electrode inflammation, and may warrant conservative monitoring rather than immediate device replacement."
+  },
+  {
+    "title": "\u201cLeft Atrial Appendage Closure Versus Medical Therapy in Atrial Fibrillation: A Systematic Review and Meta\u2010Analysis of Randomized Controlled Trials\u201d",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70486?af=R",
+    "doi": "10.1111/jce.70486",
+    "journal": "J Cardiovasc EP",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788113265.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  We aim to compare the impact of left atrial appendage closure vs. medical therapy on clinical outcomes in patients with atrial fibrillation, focusing on key clinical outcomes relevant to thromboembolic prevention. We conducted a PRISMA\u2010guided systematic review and meta\u2010analysis of studies comparing LAAC with medical therapy in AF adults. PubMed, Embase, Scopus, ClinicalTrial. gov, and Cochrane Library were searched from inception to March 2026. Outcomes included all\u2010cause mortality, any stroke, ischemic stroke, hemorrhagic stroke, major bleeding, systemic embolism and cardiac death. Risk ratios (RRs) with 95% confidence intervals (CIs) were pooled using random\u2010effects models. Reconstructed individual patient\u2010level survival data from published Kaplan\u2013Meier curves were used for time\u2010to\u2010event analyses. Trial sequential analysis (TSA) assessed the conclusiveness of cumulative evidence. Six randomized controlled trials involving 7004 patients were included. LAAC demonstrated comparable outcomes to medical therapy for all\u2010cause mortality, any stroke, major bleeding, systemic embolism, and cardiac death. There was a non\u2010significant trend toward increased ischemic stroke and reduced hemorrhagic stroke with LAAC. Reconstructed time\u2010to\u2010event analyses showed similar cumulative incidence of stroke and bleeding outcomes over follow\u2010up. TSA demonstrated that the required information size was not reached for any major endpoint, indicating that current evidence remains underpowered and additional randomized trials are needed. LAAC provides similar overall efficacy and safety compared with medical therapy for stroke prevention in AF but should currently remain reserved for selected patients rather than replacing oral anticoagulation broadly. Further adequately powered trials with longer follow\u2010up are required.",
+    "summary": "This meta-analysis of 6 RCTs (n=7,004) comparing left atrial appendage closure with medical therapy in atrial fibrillation patients found comparable outcomes for all-cause mortality, stroke, major bleeding, and cardiac death between groups, though trial sequential analysis indicated the evidence remains underpowered to draw definitive conclusions. LAAC should remain reserved for selected patients rather than serve as first-line replacement for oral anticoagulation pending adequately powered trials with longer follow-up."
+  },
+  {
+    "title": "Leadless Atrial Pacing at Bachmann's Bundle Guided by Electroanatomic Mapping and Intracardiac Ultrasound",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70481?af=R",
+    "doi": "10.1111/jce.70481",
+    "journal": "J Cardiovasc EP",
+    "date": "Aug 30, 2026",
+    "date_ts": 1788113170.0,
+    "tags": [
+      "Devices",
+      "Imaging"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Leadless pacemakers (LPs) offer advantages over transvenous systems, but atrial LPs currently target the right atrial appendage (RAA), risking atrial dyssynchrony.\n                  \n                  \n                    Methods and Results\n                    We report five patients in whom electroanatomic mapping and intracardiac ultrasound guided LP implantation into Bachmann's bundle (BB), a site shown to improve interatrial conduction and reduce atrial fibrillation risk. In four of five patients, BB fixation was successful with low pacing thresholds and short P\u2010wave duration. One patient required conversion to RAA pacing due to high BB pacing thresholds. No intraprocedural complications occurred.\n                  \n                  \n                    Conclusions\n                    This series demonstrates the feasibility of leadless BB pacing, though technical challenges warrant further study.",
+    "summary": "This case series of five patients demonstrates the feasibility of implanting leadless pacemakers into Bachmann's bundle under electroanatomic mapping and ultrasound guidance, with successful fixation achieved in four patients showing improved pacing thresholds and shortened P-wave duration compared to conventional right atrial appendage pacing. Further investigation is needed to address technical challenges and establish the clinical benefits of this novel approach in reducing atrial dyssynchrony and potentially preventing atrial fibrillation."
   },
   {
     "title": "Low-Normal Peri-Procedural Potassium as a Prognostic Marker of Atrial Fibrillation and Stroke After CABG",
@@ -3688,6 +3827,55 @@
     "hot": false
   },
   {
+    "title": "Repeat catheter ablation vs. direct current cardioversion for recurrent atrial fibrillation after prior ablation: a propensity-matched analysis",
+    "link": "https://doi.org/10.1093/europace/euag199",
+    "doi": "10.1093/europace/euag199",
+    "journal": "EP Europace",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The weakest link in digital atrial fibrillation screening: a randomized comparison of self-applied ECG patch systems in older adults",
+    "link": "https://doi.org/10.1093/europace/euag192",
+    "doi": "10.1093/europace/euag192",
+    "journal": "EP Europace",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Comparative Spatial Analysis of Complex Signal Identification and Fractionated Signal Area in the Atrial Muscle for Non-Pulmonary Vein Triggers: A Five-Case Series",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.08.021",
+    "doi": "10.1016/j.hrcr.2026.08.021",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Approach to epicardial access for ventricular tachycardia ablation in a patient with an extra-vascular ICD",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.08.022",
+    "doi": "10.1016/j.hrcr.2026.08.022",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Aug 01, 2026",
+    "date_ts": 1785542400.0,
+    "tags": [
+      "VT",
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
     "title": "Population reach and participation rate in opportunistic vs. systematic atrial fibrillation screening: STROKESTOP III",
     "link": "https://doi.org/10.1093/europace/euag214",
     "doi": "10.1093/europace/euag214",
@@ -6090,181 +6278,5 @@
       "Devices"
     ],
     "hot": false
-  },
-  {
-    "title": "Incidence and Predictors of Tricuspid Regurgitation After Left Bundle Branch Area Pacing: A Korean Multicenter Registry Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026019?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 23, 2026",
-    "date_ts": 1784771010.832144,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Neurofilament Light Chain in Atrial Fibrillation",
-    "link": "https://doi.org/10.1001/jamacardio.2026.2149",
-    "doi": "10.1001/jamacardio.2026.2149",
-    "journal": "JAMA Cardiology",
-    "date": "Jul 22, 2026",
-    "date_ts": 1784678400.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Neurofilament Light Chain in Atrial Fibrillation\u2014Reply",
-    "link": "https://doi.org/10.1001/jamacardio.2026.2152",
-    "doi": "10.1001/jamacardio.2026.2152",
-    "journal": "JAMA Cardiology",
-    "date": "Jul 22, 2026",
-    "date_ts": 1784678400.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Atrial Fibrillation in Patients With Myocardial Infarction: Global Burden, Predictors, and Prognostic Impact",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70355?af=R",
-    "doi": "10.1111/pace.70355",
-    "journal": "PACE",
-    "date": "Jul 22, 2026",
-    "date_ts": 1784698808.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  Atrial fibrillation (AF) is the most prevalent sustained arrhythmia worldwide. Acute myocardial infarction (AMI) is closely intertwined with AF through a bidirectional relationship: pre\u2010existing AF is associated with increased risk of AMI, while AMI predisposes to new\u2010onset atrial fibrillation (NOAF). This narrative review synthesizes evidence on the global burden of AF in the setting of AMI: pre\u2010existing AF, NOAF following AMI, and the prognostic implications of AF in AMI, encompassing the \u2018past, present and future\u2019 of AF in AMI. Pre\u2010existing AF is present in 3%\u20134% of patients with AMI and has demonstrated an independent association with acute coronary syndromes, mediated by systemic inflammation, prothrombotic states, demand ischemia, and coronary thromboembolism. NOAF complicates 5%\u201320% of AMI cases, with peak onset within the first six months. Predictive factors include age, comorbidities such as chronic kidney disease, markers of inflammation (including systemic immune\u2010inflammation index and hs\u2010CRP), neurohormonal activation (NT\u2010proBNP), echocardiographic parameters of diastolic dysfunction and left atrial strain, and electrocardiographic features such as QRS fragmentation. Multiple predictive models for NOAF have been developed with varying discriminatory performance. Emerging research suggests that machine learning may provide superior risk stratification, though further study is needed. AF in the context of AMI confers substantially increased risk of mortality, stroke, bleeding, and heart failure, with NOAF showing particularly strong prognostic significance. Improved recognition of predictive markers, alongside development of tailored prognostic models, is essential to guide antithrombotic therapy and optimize outcomes in this high\u2010risk population.",
-    "summary": "This narrative review synthesizes evidence on the bidirectional relationship between atrial fibrillation and acute myocardial infarction, finding that pre-existing AF occurs in 3-4% of AMI patients with increased thrombotic risk, while new-onset AF complicates 5-20% of cases with peak onset within six months and is predicted by age, inflammation markers, neurohormonal activation, and echocardiographic parameters of diastolic dysfunction. AF in the setting of AMI substantially increases risk of mortality, stroke, bleeding, and heart failure, with emerging evidence suggesting machine learning may improve risk stratification beyond current predictive models."
-  },
-  {
-    "title": "Valve\u2010Sparing Pacing Strategies After Tricuspid TEER: An Imaging\u2010Guided Case Series",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70373?af=R",
-    "doi": "10.1111/pace.70373",
-    "journal": "PACE",
-    "date": "Jul 22, 2026",
-    "date_ts": 1784698229.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background\n                    Permanent pacing after tricuspid transcatheter edge\u2010to\u2010edge repair (TEER) may be technically challenging due to the risk of interaction between pacing systems and repair devices. Evidence guiding optimal pacing strategies in this setting remains limited.\n                  \n                  \n                    Methods\n                    We report a single\u2010center case series of three patients with previous tricuspid TEER who required permanent pacing. Device selection and procedural planning were guided by multimodality imaging, including transesophageal echocardiography (TEE) and intracardiac echocardiography (ICE). Valve\u2010sparing pacing strategies were selected according to individual clinical characteristics.\n                  \n                  \n                    Results\n                    Two elderly patients underwent implantation of a leadless pacemaker, while a third patient with dilated cardiomyopathy underwent left bundle branch area pacing (LBBAP) during cardiac resynchronization therapy upgrade. Imaging guidance allowed safe traversal of the repaired tricuspid valve while avoiding mechanical interaction with the TEER devices. All procedures were successful, with stable pacing parameters and no procedural complications. Tricuspid regurgitation remained unchanged in all patients during follow\u2010up. In the patient undergoing LBBAP, left ventricular ejection fraction improved from 30% to 57% at 6 months.\n                  \n                  \n                    Conclusions\n                    Valve\u2010sparing pacing strategies guided by multimodality imaging appear feasible and safe in patients with prior tricuspid TEER. Leadless pacemakers and conduction system pacing represent complementary options that can be tailored to individual clinical profiles.",
-    "summary": "This single-center case series of three patients with prior tricuspid TEER requiring permanent pacing demonstrates that valve-sparing pacing strategies (leadless pacemakers and left bundle branch area pacing) guided by multimodality imaging are feasible and safe, with successful procedures, stable pacing parameters, and no device-valve interactions at follow-up."
-  },
-  {
-    "title": "P-Wave Characteristics in Bay\u00e9s Syndrome Predict Feasibility of Anterior Mitral Line Ablation: The LA-BLOC Score",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003156?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jul 22, 2026",
-    "date_ts": 1784683409.290858,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A multicenter, randomized, controlled study to evaluate the efficacy of an artificial intelligence-based electrocardiography for the detection of atrial fibrillation in patients with suspected symptoms (DEEP-AF)",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003144?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jul 22, 2026",
-    "date_ts": 1784683409.290813,
-    "tags": [
-      "AFib",
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Relationship between Site Procedural Volumes and Outcomes of Left Bundle Branch Area Pacing Using Stylet-Driven Leads from the INSIGHT-LBBA Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003168?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jul 22, 2026",
-    "date_ts": 1784683409.290746,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Thermal Behavior During Pulsed Field Ablation with the Pentaspline Catheter: An <em>in vivo</em> and <em>in vitro</em> Evaluation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025919?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 22, 2026",
-    "date_ts": 1784683409.17584,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Genome-Wide Identification of a <em>MINK1</em> Variant Associated with Asymptomatic Paroxysmal Atrial Fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025907?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 22, 2026",
-    "date_ts": 1784683409.175798,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Interventional Cardiac Magnetic Resonance-Guided Flutter Ablation: Technical Evolution and Procedural Insights from Early Clinical Use",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025920?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 22, 2026",
-    "date_ts": 1784683409.175609,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Interatrial electrical dissociation resulting in pseudo-ventricular tachycardia on remote monitoring",
-    "link": "https://doi.org/10.1093/eurheartj/ehag552",
-    "doi": "10.1093/eurheartj/ehag552",
-    "journal": "European Heart Journal",
-    "date": "Jul 21, 2026",
-    "date_ts": 1784592000.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Hypertension with defective IGF1R-PI3K signalling may trigger atrial cardiomyopathy, atrial fibrillation, and stroke",
-    "link": "https://doi.org/10.1093/eurheartj/ehag546",
-    "doi": "10.1093/eurheartj/ehag546",
-    "journal": "European Heart Journal",
-    "date": "Jul 21, 2026",
-    "date_ts": 1784592000.0,
-    "tags": [
-      "AFib",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Refining Residual Ischemic Stroke Risk in Anticoagulated Atrial Fibrillation Using Index Outpatient LA Diameter: The CHA2DS2\u2010VALa Score",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70431?af=R",
-    "doi": "10.1111/jce.70431",
-    "journal": "J Cardiovasc EP",
-    "date": "Jul 21, 2026",
-    "date_ts": 1784631680.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    \n                      Atrial fibrillation (AF) increases ischemic stroke risk nearly fivefold. Although the CHA\n                      2\n                      DS\n                      2\n                      \u2010VA score is widely used for risk stratification, its predictive performance is limited, particularly in intermediate\u2010risk patients. Left atrial (LA) enlargement, a marker of structural remodeling, may improve risk prediction.\n                    \n                  \n                  \n                    Aims\n                    \n                      To evaluate whether adding LA diameter to CHA\n                      2\n                      DS\n                      2\n                      \u2010VA (creating CHA\n                      2\n                      DS\n                      2\n                      \u2010VALa) enhances ischemic stroke prediction in AF patients. We additionally derived a multivariable \u03b2\u2010weighted model and benchmarked its performance against CHA\n                      2\n                      DS\n                      2\n                      \u2010VA (and the simplified +1 LA rule).\n                    \n                  \n                  \n                    Methods\n                    \n                      This retrospective study included 1648 AF patients. LA diameter was measured by standardized echocardiography. A ROC\u2010derived cut\u2010off (&gt;\u20094.7\u2009cm) defined enlargement. Patients were followed for a mean of 4.18\u2009\u00b1\u20090.35 years. Imaging\u2010confirmed ischemic stroke events were identified through institutional hospital records and the electronic health registry, and were validated using hospitalization documentation, neurology consultation notes, discharge summaries, and available brain CT/MRI findings. Predictors were assessed using multivariable logistic regression, and Kaplan\u2013Meier/log\u2010rank analyses compared CHA\n                      2\n                      DS\n                      2\n                      \u2010VALa versus CHA\n                      2\n                      DS\n                      2\n                      \u2010VA.\n                    \n                  \n                  \n                    Results\n                    \n                      Imaging\u2010confirmed ischemic stroke events occurred more frequently in patients with LA\u2009&gt;\u20094.7\u2009cm (25 [3.8%] vs. 21 [2.1%],\n                      p\n                      \u2009&lt;\u20090.001). Elevated CRP, NT\u2010proBNP, diabetes, hypertension, CAD, and heart failure were also associated with stroke. LA\u2009&gt;\u20094.7\u2009cm independently predicted events (OR 1.97, 95% CI 1.36\u20132.86,\n                      p\n                      \u2009&lt;\u20090.001). ROC analysis showed strong discrimination for LA diameter (AUC 0.872; sensitivity 82%, specificity 85%). Kaplan\u2013Meier analysis demonstrated superior prediction with CHA\n                      2\n                      DS\n                      2\n                      \u2010VALa compared to CHA\n                      2\n                      DS\n                      2\n                      \u2010VA (log\u2010rank\n                      p\n                      \u2009&lt;\u20090.001).\n                    \n                  \n                  \n                    Conclusion\n                    \n                      The CHA\n                      2\n                      DS\n                      2\n                      \u2010VALa score significantly improves stroke risk stratification in AF by integrating LA diameter into conventional scoring. As echocardiographic measurement is widely available and reproducible, this modification offers a simple, pragmatic approach to refine residual stroke\u2010risk stratification and support closer evaluation and follow\u2010up in anticoagulated AF patients. Prospective validation in diverse populations is warranted.",
-    "summary": "This retrospective study of 1,648 AF patients over 4.18 years found that adding left atrial diameter >4.7 cm to the CHA\u2082DS\u2082-VA score (creating CHA\u2082DS\u2082-VALa) significantly improves ischemic stroke prediction, with LA enlargement independently predicting stroke (OR 1.97, p<0.001) and superior Kaplan-Meier discrimination compared to CHA\u2082DS\u2082-VA alone (p<0.001). The modification offers a simple, reproducible echocardiographic refinement to conventional risk stratification for anticoagulated AF patients, though prospective validation in"
   }
 ]
