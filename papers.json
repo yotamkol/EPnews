@@ -1,5 +1,46 @@
 [
   {
+    "title": "Magnetic Fields and Cardiac Implantable Electronic Devices: Clinical Mechanisms, Device Behaviour, and Occupational Risk Assessment",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027463?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 02, 2026",
+    "date_ts": 1788313565.294923,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Correlation Between EMS Agency Rates of Survival to Hospital Admission and Hospital Survival Outcomes for Cardiac Arrest",
+    "link": "https://doi.org/10.1161/circulationaha.126.079735",
+    "doi": "10.1161/circulationaha.126.079735",
+    "journal": "Circulation",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    Survival to hospital admission for out-of-hospital cardiac arrest is an important resuscitation outcome to gauge emergency medical service (EMS) agency performance. However, its correlation with EMS rates of survival to hospital discharge and favorable neurological survival is unclear.\n                  \n                  \n                    METHODS:\n                    Using the Cardiac Arrest Registry to Enhance Survival (CARES), we identified adults with nontraumatic out-of-hospital cardiac arrests during 2 periods: 2015 through 2019 (before the COVID-19 pandemic) and 2022 through 2024 (after the peak pandemic years). Multivariable hierarchical logistic regression was used to derive EMS agency-level risk-standardized survival rates for hospital admission, hospital discharge, and favorable neurological survival during each period. We then assessed the correlation between EMS agency rates of survival to admission versus discharge and favorable neurological survival using weighted linear regression, and whether the correlations differed by neighborhood income (above versus below median household income) and race and ethnicity (categorized as predominantly White [&gt;80% of residents], majority Black or Hispanic [&gt;50% of residents], or integrated).\n                  \n                  \n                    RESULTS:\n                    \n                      A total of 544\n                      \u2009\n                      296 events from 1838 EMS agencies met inclusion criteria (252\n                      \u2009\n                      137 pre-COVID; 292\n                      \u2009\n                      159 post-COVID). During the period of 2015 to 2019, EMS rates of survival to admission were strongly correlated with survival to discharge (weighted\n                      r\n                      =0.68 [95% CI, 0.64\u20130.72]) and favorable neurological survival (weighted\n                      r\n                      =0.54 [95% CI, 0.43\u20130.59]). These correlations were similar during the period of 2022 through 2024 (weighted\n                      r\n                      =0.63 [95% CI, 0.59\u20130.66] and weighted\n                      r\n                      =0.48 [95% CI, 0.44\u20130.53], respectively). Neighborhood racial and ethnic composition modified the correlation between EMS rates of survival to admission and survival outcomes at discharge in both periods (all interactions &lt;0.05), but the correlations remained strong in each neighborhood group. Similar findings were found for the interactions by neighborhood income strata.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    EMS agency rates of survival to hospital admission are strongly correlated with their rates of survival to hospital discharge and favorable neurological survival. These findings support the use of survival to hospital admission as a performance metric for EMS systems.",
+    "summary": "This retrospective cohort study using the CARES registry analyzed 544,296 out-of-hospital cardiac arrest events from 1,838 EMS agencies across two periods (2015-2019 and 2022-2024) and found that EMS agency rates of survival to hospital admission were strongly correlated with survival to hospital discharge (r=0.63-0.68) and favorable neurological survival (r=0.48-0.54), supporting survival to admission as a valid EMS performance metric. Correlations persisted across different neighborhood racial/ethnic and income strata, though neighborhood composition modified the strength of associations."
+  },
+  {
+    "title": "Bundle Branch Reentrant Tachycardia Concomitant With Atrial Tachycardia in Patients Without Structural Heart Disease",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70391?af=R",
+    "doi": "10.1111/pace.70391",
+    "journal": "PACE",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788244425.0,
+    "tags": [
+      "AFib",
+      "SVT"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Bundle branch reentry ventricular tachycardia (BBRT) in patients without structural heart disease (SHD) has been well\u2010documented. However, the occurrence of concomitant atrial tachycardia (AT) in this cohort remain poorly characterized. The study aimed to investigate the prevalence, clinical characteristics, and electrophysiological properties of concomitant AT in patients with BBRT.\n                  \n                  \n                    Methods\n                    Eighteen patients without SHD were enrolled. Detailed electrophysiological studies were performed to identify and characterize concomitant ATs. Catheter ablation was performed for both BBRT and atrial ATs.\n                  \n                  \n                    Results\n                    \n                      Among 18 patients with BBRT, 6 patients (33.3%; mean age 26.3 years) presented with a total of 7 ATs. Three patients had a history of AT ablation, two exhibited BBRT concomitant with AT during the index procedure, and two developed AT following BBRT ablation. All ATs originated from the right atrium, with the following distribution: coronary sinus ostium (CSO) (\n                      n\n                      = 4), typical atrial flutter (AFL) (\n                      n\n                      = 2) and mid\u2010crista terminalis (MCT) (\n                      n\n                      = 1). The mean tachycardia cycle length (TCL) was 337\u00b161\u00a0ms. Acute procedural success was achieved in all cases. During a mean follow\u2010up of 54.1\u00b126.0 months, all patients remained free from AT and BBRT recurrence. However, progressive deterioration of left ventricular function requiring cardiac resynchronization therapy occurred in one patient, and two patients developed ventricular enlargement.\n                    \n                  \n                  \n                    Conclusions\n                    Concomitant AT was observed in one\u2010third of patients with BBRT without SHD. Catheter ablation proved effective in treating both arrhythmias. Intensive long\u2010term monitoring of cardiac function is recommended in this population.",
+    "summary": "This retrospective case series of 18 patients without structural heart disease examined the prevalence and electrophysiological characteristics of concomitant atrial tachycardia (AT) in bundle branch reentry ventricular tachycardia (BBRT), finding AT in 33.3% of patients with origins predominantly at the coronary sinus ostium, and demonstrating acute procedural success with catheter ablation of both arrhythmias, though long-term follow-up revealed progressive ventricular dysfunction in some patients requiring close monitoring."
+  },
+  {
     "title": "Direct His/LBB Pacing as an Alternative to Biventricular Pacing in Patients With HFrEF and a Typical LBBB: The His-Alternative II Study",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007784?dgcid=rss_sd_all",
     "doi": null,
@@ -22,6 +63,20 @@
       "VT"
     ],
     "hot": false
+  },
+  {
+    "title": "Cryoballoon ablation versus antiarrhythmic drug therapy as initial treatment for persistent atrial fibrillation:\n                    <i>the multicenter randomized CEPAF trial</i>",
+    "link": "https://doi.org/10.1093/europace/euag230",
+    "doi": "10.1093/europace/euag230",
+    "journal": "EP Europace",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Evidence supporting first-line cryoballoon ablation (CBA) in treatment-naive persistent atrial fibrillation (PersAF) is limited. Consequently, we compared CBA with guideline-directed antiarrhythmic drug (AAD) therapy in this advanced form of disease.\n                  \n                  \n                    Methods\n                    This multicenter, prospective, randomized, open-label trial assigned 320 symptomatic, treatment-naive patients with PersAF (1:1) to CBA or AAD therapy. The primary endpoint was the first documented atrial tachyarrhythmia recurrence lasting at least 30 seconds during days 91-365. Secondary endpoints included recurrence during days 1-90 and 1-365, time-to-first recurrence, quality of life, and safety.\n                  \n                  \n                    Results\n                    In the intention-to-treat population, recurrence during days 91-365 occurred in 30/160 (18.8%) patients assigned to CBA and 71/160 (44.4%) assigned to AAD therapy (absolute difference, -25.6 percentage points; 95% confidence interval, -35.4 to -15.8; P&amp;lt;0.001). Supportive time-to-event analysis favored CBA (hazard ratio for AAD vs. CBA, 2.29; 95% confidence interval, 1.48-3.56; log-rank P&amp;lt;0.001). In CBA vs AAD comparisons, overall recurrence during days 1-365 was 23.8% vs. 55.6%, and early recurrence was 11.2% vs. 28.1% (both P&amp;lt;0.001; respectively). Improvement in AFEQT score was greater with CBA (17.3 vs. 6.6 points; P&amp;lt;0.001); whereas SF-12 component scores did not differ significantly. Adverse events recorded on event forms were infrequent in both cohorts.\n                  \n                  \n                    Conclusion\n                    In selected treatment-naive patients with PersAF, first-line CBA reduced atrial tachyarrhythmia recurrence and improved disease-specific quality of life compared with AAD therapy.",
+    "summary": "This multicenter randomized controlled trial of 320 treatment-naive patients with persistent atrial fibrillation compared first-line cryoballoon ablation (CBA) versus antiarrhythmic drug (AAD) therapy, finding that CBA significantly reduced atrial tachyarrhythmia recurrence during days 91-365 (18.8% vs. 44.4%; P<0.001) and improved disease-specific quality of life measures compared with AAD therapy. Overall recurrence rates favored CBA throughout the entire follow-up period (23.8% vs. 55.6% at days 1-365; P<0.001) with"
   },
   {
     "title": "Pacemaker-implantation and atrioventricular-node ablation vs pulmonary vein isolation for elderly patients with persistent atrial fibrillation: the ABLATE versus PACE trial",
@@ -6229,54 +6284,5 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Background\n                    The burden of atrial fibrillation/atrial flutter (AF/AFL) continues to increase globally, particularly in rapidly ageing regions such as Asia. However, the contributions of population aging, life expectancy, and lifestyle\u2010related risk factors to sex\u2010specific disparities in AF/AFL burden remain poorly understood.\n                  \n                  \n                    Objectives\n                    To investigate sex\u2010specific differences in AF/AFL burden across Asia and evaluate the contributions of population ageing, life expectancy, and modifiable risk factors using Global Burden of Disease (GBD) data.\n                  \n                  \n                    Methods and Results\n                    GBD data were used to assess AF/AFL prevalence, incidence, disability\u2010adjusted life years (DALYs), mortality, and attributable risk factors across 34 Asian countries and regions, stratified by sex and age. In 2023, AF/AFL affected 59.10 million individuals worldwide, with Asia accounting for nearly half of the global burden. Prevalence and incidence were consistently higher in males, whereas females, particularly at older ages, experienced a greater burden of DALYs and mortality. Marked heterogeneity was observed across Asian countries. Population ageing emerged as a major driver of AF/AFL burden, with most Asian countries classified as aging or aged societies. Hypertension was the leading attributable risk factor overall, while smoking and excessive alcohol consumption contributed disproportionately to the male burden. Forecasting analyzes projected a continued increase in AF/AFL burden through 2036.\n                  \n                  \n                    Conclusion\n                    AF/AFL remains a growing public health challenge across Asia. Although prevalence is higher in males, elderly females bear a disproportionately greater burden of disability and mortality. Population ageing, together with smoking and excessive alcohol consumption in men, may contribute substantially to these sex disparities. Sex\u2010 and age\u2010specific prevention and management strategies are needed to reduce the future burden of AF/AFL in Asia.",
     "summary": "This retrospective analysis of Global Burden of Disease data across 34 Asian countries and regions found that while AF/AFL prevalence and incidence are higher in males, elderly females experience greater disability-adjusted life years and mortality burden, with population aging and modifiable risk factors (hypertension, smoking, alcohol) identified as major contributors to these sex-specific disparities. The study projects continued increase in AF/AFL burden through 2036, supporting the need for sex- and age-targeted prevention strategies."
-  },
-  {
-    "title": "Listening to the Right Ventricle: Invasive Hemodynamics to Refine Risk Before Ventricular Tachycardia Ablation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70442?af=R",
-    "doi": "10.1111/jce.70442",
-    "journal": "J Cardiovasc EP",
-    "date": "Jul 23, 2026",
-    "date_ts": 1784805328.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Combined Impact of Paced QRS Duration and RV Pacing Burden on Heart Failure Admission: Identifying Clinical Progression to Stage C/D in Pacemaker Recipients:",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003181?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jul 23, 2026",
-    "date_ts": 1784771011.09242,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Supraventricular Arrhythmia Prematurity, and Risk of Incident Atrial Fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025981?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 23, 2026",
-    "date_ts": 1784771010.832411,
-    "tags": [
-      "AFib",
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Risk Factors of Acute Complications Related to Cardiac Implantable Electrical Devices: Analysis of the Japan Cardiac Device Treatment Registry Database",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602597X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 23, 2026",
-    "date_ts": 1784771010.83236,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
   }
 ]
