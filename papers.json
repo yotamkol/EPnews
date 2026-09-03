@@ -1,5 +1,41 @@
 [
   {
+    "title": "Atrial Arrhythmia and Anticoagulant Risks in Tetralogy of Fallot and Pulmonary Atresia with Intact Ventricular Septum",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005398?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Sep 03, 2026",
+    "date_ts": 1788400313.729618,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Radiotherapy for Resistant Ventricular Tachycardia: Report of Myocardial Changes after Two Months from the Treatment.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027190?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 03, 2026",
+    "date_ts": 1788400313.576454,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Corrigendum to \u201cCan Oral Anticoagulants Be Safely Discontinued Following Atrial Fibrillation Ablation? A Systematic Review and Meta-Analysis of Reconstructed Time-to-Event Data\u201d <em>Heart Rhythm</em>, Volume 23, Issue 8, 2026 e1329\u2013 e1346",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026895?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 03, 2026",
+    "date_ts": 1788400313.576269,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Magnetic Fields and Cardiac Implantable Electronic Devices: Clinical Mechanisms, Device Behaviour, and Occupational Risk Assessment",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027463?dgcid=rss_sd_all",
     "doi": null,
@@ -10,6 +46,20 @@
       "Other"
     ],
     "hot": false
+  },
+  {
+    "title": "Essential antiarrhythmic drug accessibility worldwide: A multi-survey study and comprehensive evaluation of access and supply challenges",
+    "link": "https://doi.org/10.1093/europace/euag220",
+    "doi": "10.1093/europace/euag220",
+    "journal": "EP Europace",
+    "date": "Sep 02, 2026",
+    "date_ts": 1788307200.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and aims\n                    Antiarrhythmic drugs (AADs) are essential for preventing symptoms, morbidity, and mortality associated with cardiac arrhythmias. However, concerns are increasing about their accessibility. We aimed to assess insights into current access to AADs.\n                  \n                  \n                    Methods\n                    Online surveys were distributed to members of the European Heart Rhythm Association (EHRA), the Association for European Paediatric and Congenital Cardiology, the European Reference Network GUARD-Heart, and national heart rhythm societies.\n                  \n                  \n                    Results\n                    Responses were obtained from 558 respondents across 80 countries. Among countries included in the main analysis (\u22655 respondents; 16 countries within and 7 outside the European Union, n=298 respondents), only 16\u201359% of surveyed AADs were considered readily accessible. Accessibility varied substantially by drug: oral flecainide and propranolol were available in 88% of countries, whereas mexiletine solution was available in only 10%. Marked differences in accessibility were reported both between and within countries, with availability also changing over time. Higher-income countries generally reported better access and a greater number of market authorization holders than lower-income countries. National societies\u2019 perception was that limited access negatively affected patients\u2019 quality of life (72%) and life expectancy (35%), while 73% expected these challenges to persist or worsen in the coming years.\n                  \n                  \n                    Conclusion\n                    Physicians worldwide frequently encounter problems accessing guideline recommended antiarrhythmic drugs for their patients, which putatively impacts on their patients\u2019 quality of life and life expectancy. This highlights systemic vulnerabilities that extend across national and institutional boundaries, urging close collaboration among clinicians, policymakers, manufacturers, and institutions to guarantee timely and equitable treatment for all patients.",
+    "summary": "This cross-sectional survey of 558 heart rhythm specialists across 80 countries found that accessibility to antiarrhythmic drugs varies markedly, with only 16\u201359% of surveyed agents readily available, ranging from 88% availability for oral flecainide to 10% for mexiletine solution, with higher-income countries reporting substantially better access than lower-income countries and 72% of respondents reporting negative impacts on patient quality of life. The findings highlight systemic inequities in AAD availability that warrant collaborative efforts among clinicians, policymakers, and manufacturers to ensure equitable global access."
   },
   {
     "title": "Correlation Between EMS Agency Rates of Survival to Hospital Admission and Hospital Survival Outcomes for Cardiac Arrest",
@@ -61,6 +111,31 @@
     "date_ts": 1788229485.729481,
     "tags": [
       "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "SCN5A Cardiomyopathy Presenting with Ventricular Arrhythmia and Conduction Disease: A Novel Splice Variant",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.08.023",
+    "doi": "10.1016/j.hrcr.2026.08.023",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed field ablation of incisional right atrial flutter in a repaired atrial septal defect patient avoiding right phrenic nerve injury: a case report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.08.024",
+    "doi": "10.1016/j.hrcr.2026.08.024",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "AFib"
     ],
     "hot": false
   },
@@ -6206,83 +6281,5 @@
       "Genetics"
     ],
     "hot": false
-  },
-  {
-    "title": "Long-Term Outcomes of Low Anterior Axillary Implantation for Cardiac Implantable Electronic Devices in Patients with Limited Pectoral Access: A Single-Center Experience",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600320X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jul 24, 2026",
-    "date_ts": 1784856459.559294,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "When lightning strikes? An interdisciplinary educational opportunity between cardiology and forensic pathology.",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025993?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 24, 2026",
-    "date_ts": 1784856459.414036,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Author's reply to Letter to the Editor: When lightning strikes? An interdisciplinary educational opportunity between cardiology and forensic pathology",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026007?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 24, 2026",
-    "date_ts": 1784856459.413863,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Electrophysiological Mechanisms of Typical Atrial Flutter After Atrial Switch Operation: Critical Role of the Septal Corridor",
-    "link": "https://doi.org/10.1161/circep.125.014777",
-    "doi": "10.1161/circep.125.014777",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Jul 24, 2026",
-    "date_ts": 1784851200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Peritricuspid, or cavotricuspid isthmus\u2013dependent, atrial flutter is the most common arrhythmia in patients with dextro-transposition of the great arteries treated with atrial switch surgery, but its underlying mechanisms remain poorly understood.\n                  \n                  \n                    METHODS:\n                    Twenty consecutive patients with prior atrial switch surgery referred for atrial flutter ablation were included. All underwent transbaffle puncture and high-density mapping. Anatomic barriers, activation patterns, conduction velocities, and low-voltage areas were assessed.\n                  \n                  \n                    RESULTS:\n                    In all cases of peritricuspid atrial flutter, surgical incisions defined the posterior boundary of the circuit. The narrowest segment of the reentry was consistently located within a septal corridor bounded posteriorly by the baffle incision and anteriorly by the tricuspid annulus. Slow conduction (&lt;30 cm/s) was identified in this septal corridor in 92% of peritricuspid flutters and in 85% of patients during sinus or paced rhythm. Low-voltage areas were limited and frequently colocalized with regions of slow conduction. No patient exhibited slow conduction or low voltage at the cavotricuspid isthmus. The septal corridor was also involved in 60% of nonperitricuspid reentrant atrial tachycardias. Programmed atrial stimulation with S2 mapping accentuated conduction delay in this region, with demonstration of functional block and induction of atrial flutter.\n                  \n                  \n                    CONCLUSIONS:\n                    In patients with dextro-transposition of the great arteries corrected by atrial switch, surgical incisions define posterior boundaries and create a narrow septal corridor, or baffle-tricuspid isthmus, characterized by slow conduction and a propensity for functional block. These anatomic and electrophysiological features likely underlie the high prevalence of peritricuspid reentry in this population, representing a ubiquitous critical substrate for arrhythmia initiation and maintenance. Systematic cavotricuspid isthmus ablation should, therefore, be considered in these patients.",
-    "summary": "This prospective observational study of 20 patients with prior atrial switch surgery for dextro-transposition of the great arteries undergoing high-density mapping demonstrated that surgical incisions create a narrow septal corridor (baffle-tricuspid isthmus) with slow conduction (<30 cm/s) that serves as the critical reentry substrate in 92% of peritricuspid atrial flutter cases, distinct from the cavotricuspid isthmus. These findings suggest that systematic ablation targeting this baffle-tricuspid isthmus, rather than the traditional cavotricuspid isthmus, may be the appropriate therapeutic approach for atrial flutter in this population."
-  },
-  {
-    "title": "Efficacy and Safety of Pulsed Field Ablation During Repeat Procedures for Treatment of Recurrent Atrial Arrhythmias After Pulmonary Vein Isolation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70458?af=R",
-    "doi": "10.1111/jce.70458",
-    "journal": "J Cardiovasc EP",
-    "date": "Jul 23, 2026",
-    "date_ts": 1784807886.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Little is known about the efficacy and safety of pulsed field ablation (PFA) for repeat ablation procedures for patients with recurrent atrial fibrillation (AF) after pulmonary vein (PV) isolation.\n                  \n                  \n                    Objective\n                    The purpose of this study was to evaluate and compare the efficacy and safety of PFA using a pentaspline ablation catheter with radiofrequency ablation (RFA) in repeat ablation procedures for atrial arrhythmia.\n                  \n                  \n                    Methods\n                    We compared 320 patients (mean age 71\u2009\u00b1\u200911 years, 61% male) who underwent repeat ablation procedures with PFA and RFA. Procedural data, including lesion set\u2010specific acute success, safety endpoints, and recurrence of atrial arrhythmia were compared between groups.\n                  \n                  \n                    Results\n                    \n                      Overall, 200 and 120 patients were treated with PFA and RFA during repeat ablation, respectively. Although the rate of baseline PV reconnection was comparable between groups, PV, posterior wall, and superior vena cava ablation were targeted in significantly more patients in the PFA group compared to the RFA group. In the PFA group, PV, posterior wall, and superior vena cava isolation were successfully achieved by PFA alone in 100% cases. Adjunctive RFA was required in 31% of anterior wall and 50% of lateral mitral isthmus PFA cases to achieve line of block. Procedure times were significantly shorter in the PFA group. Major complication rates were comparable between the groups (PFA vs. RFA, 0% vs. 1.7%,\n                      p\n                      \u2009=\u20090.067). Freedom from atrial arrhythmia recurrence at 1 year was similar between PFA and RFA groups (59% vs. 56%; log\u2010rank\n                      p\n                      \u2009=\u20090.71).\n                    \n                  \n                  \n                    Conclusion\n                    Use of PFA with a pentaspline catheter for repeat AF ablation was associated with more extensive ablation compared to RFA with low complication rates but did not result in increased freedom from AF recurrence.",
-    "summary": "This retrospective comparative study of 320 patients (200 PFA, 120 RFA) evaluated pulsed field ablation versus radiofrequency ablation for repeat atrial fibrillation ablation procedures, finding that PFA achieved shorter procedure times and more extensive lesion sets with comparable safety, but similar 1-year arrhythmia recurrence rates (59% vs. 56%)."
-  },
-  {
-    "title": "Unraveling Sex Disparities of Atrial Fibrillation/Flutter in Asia: Contributions of Lifestyle Factors (Smoking, Excessive Alcohol Intake) and Life Expectancy",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70462?af=R",
-    "doi": "10.1111/jce.70462",
-    "journal": "J Cardiovasc EP",
-    "date": "Jul 23, 2026",
-    "date_ts": 1784806823.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    The burden of atrial fibrillation/atrial flutter (AF/AFL) continues to increase globally, particularly in rapidly ageing regions such as Asia. However, the contributions of population aging, life expectancy, and lifestyle\u2010related risk factors to sex\u2010specific disparities in AF/AFL burden remain poorly understood.\n                  \n                  \n                    Objectives\n                    To investigate sex\u2010specific differences in AF/AFL burden across Asia and evaluate the contributions of population ageing, life expectancy, and modifiable risk factors using Global Burden of Disease (GBD) data.\n                  \n                  \n                    Methods and Results\n                    GBD data were used to assess AF/AFL prevalence, incidence, disability\u2010adjusted life years (DALYs), mortality, and attributable risk factors across 34 Asian countries and regions, stratified by sex and age. In 2023, AF/AFL affected 59.10 million individuals worldwide, with Asia accounting for nearly half of the global burden. Prevalence and incidence were consistently higher in males, whereas females, particularly at older ages, experienced a greater burden of DALYs and mortality. Marked heterogeneity was observed across Asian countries. Population ageing emerged as a major driver of AF/AFL burden, with most Asian countries classified as aging or aged societies. Hypertension was the leading attributable risk factor overall, while smoking and excessive alcohol consumption contributed disproportionately to the male burden. Forecasting analyzes projected a continued increase in AF/AFL burden through 2036.\n                  \n                  \n                    Conclusion\n                    AF/AFL remains a growing public health challenge across Asia. Although prevalence is higher in males, elderly females bear a disproportionately greater burden of disability and mortality. Population ageing, together with smoking and excessive alcohol consumption in men, may contribute substantially to these sex disparities. Sex\u2010 and age\u2010specific prevention and management strategies are needed to reduce the future burden of AF/AFL in Asia.",
-    "summary": "This retrospective analysis of Global Burden of Disease data across 34 Asian countries and regions found that while AF/AFL prevalence and incidence are higher in males, elderly females experience greater disability-adjusted life years and mortality burden, with population aging and modifiable risk factors (hypertension, smoking, alcohol) identified as major contributors to these sex-specific disparities. The study projects continued increase in AF/AFL burden through 2036, supporting the need for sex- and age-targeted prevention strategies."
   }
 ]
