@@ -1,5 +1,118 @@
 [
   {
+    "title": "Long-Term Outcomes of Single Atrial Lead Pacing in Sick Sinus Syndrome: Risk Stratification Using Wenckebach Block Rate",
+    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600543X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Sep 04, 2026",
+    "date_ts": 1788486372.293889,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Upfront tandem versus superior-first approaches for transvenous lead extraction: a propensity score overlap weighting analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005416?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Sep 04, 2026",
+    "date_ts": 1788486372.293849,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Bachmann Bundle Area Pacing: The Quest for Atrial Synchrony",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005404?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Sep 04, 2026",
+    "date_ts": 1788486372.293814,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Electromagnetic Interference and Thermal Effects of an Ultra-Low-Field MRI in Temporary and Permanent Pacemaker Systems: An Ex Vivo Evaluation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005441?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Sep 04, 2026",
+    "date_ts": 1788486372.293768,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Adjunctive Low-Voltage Area Ablation and Atrial Tachycardia Inducibility in Persistent Atrial Fibrillation: Insights from the SUPPRESS-AF Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005428?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Sep 04, 2026",
+    "date_ts": 1788486372.293564,
+    "tags": [
+      "AFib",
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Progressive QRS widening preceding delayed malignant ventricular arrhythmias after pulsed field ablation",
+    "link": "https://doi.org/10.1093/eurheartj/ehag692",
+    "doi": "10.1093/eurheartj/ehag692",
+    "journal": "European Heart Journal",
+    "date": "Sep 03, 2026",
+    "date_ts": 1788393600.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Ischaemic stroke in atrial flutter vs fibrillation: a Finnish nationwide study",
+    "link": "https://doi.org/10.1093/eurheartj/ehag681",
+    "doi": "10.1093/eurheartj/ehag681",
+    "journal": "European Heart Journal",
+    "date": "Sep 03, 2026",
+    "date_ts": 1788393600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Previous literature has suggested that the risk of ischaemic stroke (IS) is lower in patients with atrial flutter (AFL) compared with patients with atrial fibrillation (AF), but large-scale studies with electrocardiogram (ECG) documentation are not available.\n                  \n                  \n                    Methods\n                    The registry-linkage Finnish AntiCoagulation in Atrial Fibrillation study included all patients with AF and AFL in Finland from 2007 to 2018. Based on the digitally recorded ECGs, patients were categorized into AF-only, AFL-only, or combined AF and AFL groups. IS rates and adjusted incidence rate ratios (IRRs) were calculated.\n                  \n                  \n                    Results\n                    A total of 40 986 patients with new-onset AF/AFL and 532 041 digitally documented ECGs were identified. The AF-only group included 30 261 patients (48.2% women, mean age 71.8 years), the AFL-only group 2409 patients (38.8% women, mean age 70.8 years), and the AF &amp; AFL group 8316 patients (53.9% women, mean age 72.4 years). Of these, 31 795 (77.6%) initiated anticoagulation during a mean follow-up of 1.2 years. Overall, IS was observed in 3165 (7.7%) patients. The crude rate of IS was highest in the AF &amp; AFL group [2.1 per 100 patient-years, 95% confidence interval (CI) 1.9\u20132.2] compared to the AF-only group (1.9 per 100 patient-years, 95% CI 1.8\u20131.9) and AFL-only group (1.1 per 100 patient-years, 95% CI 0.9\u20131.3). Adjusted IRR of IS was lower in the AFL-only group (0.60, 95% CI 0.49\u20130.74) and slightly higher in the AF &amp; AFL group (1.11, 95% CI 1.02\u20131.20) compared with patients with AF-only. These findings were consistent in analyses restricted to follow-up time without anticoagulation and before catheter ablation, as well as across CHA2DS2-VA score categories.\n                  \n                  \n                    Conclusions\n                    In this large cohort of patients, those with AFL-only had a substantially lower risk of IS than patients with AF-only, suggesting clinically meaningful differences in thromboembolic risk between these arrhythmias.",
+    "summary": "This registry-linkage study of 40,986 Finnish patients with new-onset AF/AFL documented via ECG found that isolated atrial flutter carried substantially lower ischemic stroke risk (adjusted IRR 0.60) compared to atrial fibrillation alone, while combined AF and AFL carried slightly elevated risk (adjusted IRR 1.11), suggesting distinct thromboembolic profiles between these arrhythmias."
+  },
+  {
+    "title": "Weekly Journal Scan: A novel electrocardiogram biomarker predicting sudden cardiac death: ready for prime time?",
+    "link": "https://doi.org/10.1093/eurheartj/ehag682",
+    "doi": "10.1093/eurheartj/ehag682",
+    "journal": "European Heart Journal",
+    "date": "Sep 03, 2026",
+    "date_ts": 1788393600.0,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Association Between Global Longitudinal Strain and Pacing\u2010Induced Cardiomyopathy: A Systematic Review and Meta\u2010Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70417?af=R",
+    "doi": "10.1111/pace.70417",
+    "journal": "PACE",
+    "date": "Sep 03, 2026",
+    "date_ts": 1788418930.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    High right ventricular pacing burden is a well\u2010established risk factor for the development of left ventricular dysfunction and pacing\u2010induced cardiomyopathy (PICM). However, identification of post\u2010implant patients at risk for PICM remains challenging. This meta\u2010analysis evaluated the association between global longitudinal strain (GLS) by speckle tracking echocardiography (STE) and the risk of subsequent development of PICM in patients who undergo pacemaker implantation.\n                  \n                  \n                    Methods\n                    \n                      We searched the databases PubMed, Embase, and Web of Science for studies reporting an association between early (&lt;1 month) and late (&gt;1 month) post\u2010implant GLS measurement and subsequent development of PICM on long\u2010term follow\u2010up. The search was not restricted to time or publication status. Results were reported as mean difference (MD) with 95% confidence intervals (CIs) and\n                      p\n                      values.\n                    \n                  \n                  \n                    Results\n                    \n                      A total of 6 studies with 455 patients (74 with eventual PICM, 381 without PICM) met inclusion criteria. The mean follow\u2010up was 15 months, mean age was 69.2 years, and 48.6% were men. The mean ventricular pacing burden was 88.8%. Both early post\u2010implant GLS (MD 4.98, 95% CI 3.84\u20136.12;\n                      p\n                      &lt; 0.01) and long\u2010term post\u2010implant GLS (MD 5.35, 95% CI 3.83\u20136.88;\n                      p\n                      &lt; 0.01) were significantly reduced in patients who eventually developed PICM; a positive MD indicates a less negative (more impaired) GLS in the PICM group.\n                    \n                  \n                  \n                    Conclusions\n                    GLS values are significantly reduced both early and late after pacemaker implantation in patients who subsequently develop PICM. Impaired post\u2010implant GLS measured by STE was associated with an increased risk of subsequently developing PICM. Whether GLS can be used to identify at\u2010risk patients in clinical practice remains to be established in prospective studies.",
+    "summary": "This meta-analysis of 6 studies (455 patients, 74 with pacing-induced cardiomyopathy [PICM]) demonstrated that both early and late post-implant global longitudinal strain (GLS) by speckle tracking echocardiography was significantly reduced in patients who subsequently developed PICM compared to those who did not (MD 4.98 and 5.35, respectively; p<0.01 for both). Impaired post-implant GLS appears associated with increased PICM risk, though prospective studies are needed to establish clinical utility for patient risk stratification."
+  },
+  {
     "title": "Atrial Arrhythmia and Anticoagulant Risks in Tetralogy of Fallot and Pulmonary Atresia with Intact Ventricular Septum",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005398?dgcid=rss_sd_all",
     "doi": null,
@@ -30,6 +143,148 @@
     "journal": "Heart Rhythm",
     "date": "Sep 03, 2026",
     "date_ts": 1788400313.576269,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Incident heart failure in patients with screening-detected atrial fibrillation: a post hoc analysis of the STROKESTOP and STROKESTOP II studies",
+    "link": "https://doi.org/10.1093/europace/euag250",
+    "doi": "10.1093/europace/euag250",
+    "journal": "EP Europace",
+    "date": "Sep 03, 2026",
+    "date_ts": 1788393600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and aim\n                    Atrial fibrillation is associated with increased risks of stroke, heart failure, and death. While stroke prevention is a key focus, heart failure is more frequent and a major contributor to mortality in atrial fibrillation. This study aimed to assess the incidence and timing of heart failure in screening-detected atrial fibrillation.\n                  \n                  \n                    Methods\n                    This post hoc analysis included participants without prior heart failure from the STROKESTOP and STROKESTOP II randomized screening studies, in which individuals aged 75\u201376 years were invited to ECG-based atrial fibrillation screening. Incident heart failure diagnoses were obtained from national registries. Incidence rates were calculated per 100 person-years, and Cox regression was used to estimate hazard ratios (HRs).\n                  \n                  \n                    Results\n                    In STROKESTOP, 23% of participants with screening-detected atrial fibrillation developed heart failure (3.76 per 100 person-years), compared with 4.43 in patients with known atrial fibrillation and 1.08 in patients without atrial fibrillation. Screening-detected atrial fibrillation was associated with a threefold higher heart failure risk vs. no atrial fibrillation (adjusted HR 3.19) and a risk comparable to known atrial fibrillation (adjusted HR 2.86). In STROKESTOP II, 20% developed heart failure (4.19 per 100 person-years), compared with 3.52 in known atrial fibrillation and 0.93 without atrial fibrillation. Screening-detected atrial fibrillation was associated with a fourfold higher heart failure risk vs. no atrial fibrillation (adjusted HR 4.73) and a higher risk than known atrial fibrillation (adjusted HR 2.59).\n                  \n                  \n                    Conclusion\n                    Screening-detected atrial fibrillation is associated with a high risk of heart failure, comparable to known atrial fibrillation, and is not a benign condition.",
+    "summary": "This post hoc analysis of two randomized screening trials (STROKESTOP and STROKESTOP II; n not specified but elderly cohort aged 75-76 years) compared heart failure incidence in participants with screening-detected atrial fibrillation versus known atrial fibrillation and no atrial fibrillation, finding that screening-detected atrial fibrillation carried 3-4 fold increased heart failure risk comparable to known atrial fibrillation (20-23% developed heart failure during follow-up), challenging the notion that screen-detected atrial fibrillation is benign."
+  },
+  {
+    "title": "Selective Activation of Tetrodotoxin-Sensitive Sodium Channels by AaH-II Drives Arrhythmogenic Late Na+ Current in the Heart",
+    "link": "https://doi.org/10.1093/europace/euag249",
+    "doi": "10.1093/europace/euag249",
+    "journal": "EP Europace",
+    "date": "Sep 03, 2026",
+    "date_ts": 1788393600.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  Increased late sodium current (INaL) is a central mechanism underlying both inherited and acquired cardiac arrhythmias. Although Nav1.5 is the dominant cardiac sodium channel, multiple tetrodotoxin-sensitive (TTX-S) Nav isoforms are also expressed in cardiomyocytes, particularly within transverse tubules, where they influence excitation-contraction coupling. Whether these channels contribute directly to pathological INaL and arrhythmogenesis remains unresolved, in part because available pharmacological tools lack isoform selectivity. Herein, our objective was to determine the contribution of TTX-S Nav channels to pathological cardiac INaL and arrhythmia, and to establish selective pharmacological tools to dissect their role. Using automated patch-clamp and human Nav isoform profiling, we show that the reference INaL inducer ATX-II predominantly activates TTX-resistant Nav1.5 Nav channels. However, ATX-II lacks Nav isoform selectivity when inappropriately used, questioning the conclusions reached by numerous cardiac INaL studies. In contrast, AaH-II, a peptide from Androctonus australis hector scorpion venom, more selectively and potently enhances INaL through TTX-S Nav isoforms. In human iPS-derived cardiomyocytes TTX-S INaL leads to action potential prolongation. In adult ventricular cardiomyocytes, AaH-II induces abnormal Ca2+ handling and spontaneous Ca2+ release events. In isolated hearts and in vivo, selective TTX-S INaL activation produces conduction abnormalities, QT prolongation, and ventricular proarrhythmic events, which are prevented by nanomolar tetrodotoxin concentrations that spare Nav1.5. These findings demonstrate that TTX-S sodium channels are sufficient to generate arrhythmogenic late Na+ current in the heart, independently of Nav1.5. AaH-II provides a powerful new tool to selectively probe TTX-S INaL and reveals these channels as previously underappreciated contributors to cardiac electrical instability. Targeting TTX-S Nav channels may therefore represent a novel and potentially safer strategy for antiarrhythmic therapy.",
+    "summary": "This mechanistic study using automated patch-clamp electrophysiology, human iPS-derived cardiomyocytes, isolated hearts, and in vivo models demonstrates that tetrodotoxin-sensitive Nav isoforms (distinct from Nav1.5) are sufficient to generate pathological late sodium current and produce arrhythmias independent of the predominant cardiac sodium channel, suggesting TTX-sensitive Nav channels as a novel antiarrhythmic therapeutic target. The authors validated AaH-II scorpion venom peptide as a selective tool to probe these channels and showed that nanomolar tetrodotoxin selectively blocks their arrhythmogenic activity while sparing Nav1.5"
+  },
+  {
+    "title": "Incidence and Clinical Implications of Ventricular Tachycardia: A Population-based Approach",
+    "link": "https://doi.org/10.1093/europace/euag234",
+    "doi": "10.1093/europace/euag234",
+    "journal": "EP Europace",
+    "date": "Sep 03, 2026",
+    "date_ts": 1788393600.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Prognostic Value of Isolated PR Interval Prolongation After Transcatheter Aortic Valve Implantation",
+    "link": "https://doi.org/10.1093/europace/euag241",
+    "doi": "10.1093/europace/euag241",
+    "journal": "EP Europace",
+    "date": "Sep 03, 2026",
+    "date_ts": 1788393600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Combined Unipolar and Bipolar Voltage Mapping at Redo Ablation After Cryoballoon Pulmonary Vein Isolation: Associations With Subsequent Arrhythmia Recurrence",
+    "link": "https://doi.org/10.1093/europace/euag237",
+    "doi": "10.1093/europace/euag237",
+    "journal": "EP Europace",
+    "date": "Sep 03, 2026",
+    "date_ts": 1788393600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impaired Sinus Rate Behaviour During Ventricular Arrhythmia Is Associated With Adverse Outcomes in ICD Recipients",
+    "link": "https://doi.org/10.1093/europace/euag251",
+    "doi": "10.1093/europace/euag251",
+    "journal": "EP Europace",
+    "date": "Sep 03, 2026",
+    "date_ts": 1788393600.0,
+    "tags": [
+      "VT",
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Percutaneous Left Stellate Ganglion Block for Drug-Refractory Supraventricular Arrhythmias in Patients with Advanced Heart Failure and Cardiogenic Shock: A Pilot Study",
+    "link": "https://doi.org/10.1093/europace/euag243",
+    "doi": "10.1093/europace/euag243",
+    "journal": "EP Europace",
+    "date": "Sep 03, 2026",
+    "date_ts": 1788393600.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulmonary Vein Isolation Durability in a Randomized Trial comparing Fluoroscopy-only vs. Electroanatomic Mapping Strategies for Pulmonary Vein Isolation With Balloon-in-basket Pulsed-field Ablation",
+    "link": "https://doi.org/10.1093/europace/euag244",
+    "doi": "10.1093/europace/euag244",
+    "journal": "EP Europace",
+    "date": "Sep 03, 2026",
+    "date_ts": 1788393600.0,
+    "tags": [
+      "AFib",
+      "Imaging"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background\n                    Data on long-term durability of pulmonary vein isolation (PVI) with newer pulsed field ablation (PFA) platforms and incremental value of electroanatomic mapping (EAM) guidance remain limited. This study evaluated chronic PVI durability following ablation with a balloon-in-basket PFA catheter and compared outcomes of fluoroscopy-only versus fluoroscopy plus EAM workflows.\n                  \n                  \n                    Methods\n                    In this prospective, single-center trial, consecutive patients with paroxysmal or persistent atrial fibrillation (AF) underwent de novo PVI with a balloon-in-basket PFA catheter. Patients were randomized 1:1 to fluoroscopy-only or fluoroscopy plus EAM workflow. Systematic invasive remapping was planned &amp;gt;30 days after the index procedure. The dual primary efficacy endpoint was the proportion of pulmonary veins (PVs) and of patients with all PVs durably isolated. The prespecified secondary endpoint was the comparison of procedural characteristics and PVI durability between workflows. Safety outcomes included major adverse events within 30 days of index or remapping procedures.\n                  \n                  \n                    Results\n                    Ninety-six patients (67.4\u2009\u00b1\u20099.2 years, 44.8% female, 57.3% with paroxysmal AF) underwent index ablation. Fluoroscopy time and number of applications were 3.4 [2.4\u20134.6] minutes and 15 [13\u201316], respectively. Systematic remapping was performed in 86 patients at a median of 41 days, with per-vein and per-patient durability of 341/350 (97.4%), and 79/86 (91.9%) respectively. PVI durability and chronic remapping parameters were comparable between guidance strategies. No major adverse events occurred.\n                  \n                  \n                    Conclusion\n                    A standardized balloon-in-basket PFA workflow for PVI achieved high PVI durability. EAM guidance did not confer additional procedural or durability benefit over fluoroscopy-only guidance.",
+    "summary": "This prospective, single-center randomized trial of 96 patients with paroxysmal or persistent AF compared fluoroscopy-only versus fluoroscopy plus electroanatomic mapping guidance for pulmonary vein isolation using balloon-in-basket pulsed field ablation, demonstrating high chronic PVI durability (97.4% per-vein, 91.9% per-patient at median 41 days) with no significant difference between guidance strategies and no major adverse events. EAM guidance provided no additional procedural or durability benefit over fluoroscopy-only guidance."
+  },
+  {
+    "title": "Edoxaban Antithrombotic Therapy in Diabetic Patients with Atrial Fibrillation and Stable Coronary Artery Disease: The EPIC-CAD Trial",
+    "link": "https://doi.org/10.1093/europace/euag247",
+    "doi": "10.1093/europace/euag247",
+    "journal": "EP Europace",
+    "date": "Sep 03, 2026",
+    "date_ts": 1788393600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    The appropriate antithrombotic regimen for diabetic patients with atrial fibrillation (AF) and stable coronary artery disease (CAD) who are at high atherothrombotic risk remains uncertain. We evaluated whether the effects of different antithrombotic strategies differ according to diabetes status.\n                  \n                  \n                    Methods and Results\n                    The EPIC-CAD (Edoxaban versus Edoxaban with Antiplatelet Agent in Patients with Atrial Fibrillation and Chronic Stable Coronary Artery Disease) was a randomized trial comparing edoxaban monotherapy with dual antithrombotic therapy (edoxaban plus a single antiplatelet agent) in patients with AF and stable CAD. The primary outcome was a composite of death from any cause, myocardial infarction, stroke, systemic embolism, unplanned urgent revascularization, and major or clinically relevant nonmajor bleeding at 12 months. Among 1040 randomized patients, 421 (40.5%) had diabetes. There were no differences in the incidence of the primary outcome between diabetic and non-diabetic patients (9.7% vs. 11.6%; hazard ratio [HR] 0.82; 95% confidence interval [CI] 0.56-1.20; P=0.30). The incidence of the primary outcome at 12 months was significantly lower with edoxaban monotherapy than with dual antithrombotic therapy in both diabetic (6.3% vs. 13.7%; HR 0.44; 95% CI 0.23-0.83; P=0.01) and non-diabetic patients (6.7% vs. 16.3%; HR 0.39; 95% CI 0.23-0.65; P=0.001), with no significant interaction between diabetic status and randomized treatment strategy (P-for-interaction=0.78).\n                  \n                  \n                    Conclusions\n                    The risk of primary outcome was similar between diabetic and non-diabetic patients with AF and CAD. Irrespective of diabetes status, edoxaban monotherapy led to a lower risk of a primary outcome at 12 months than dual antithrombotic therapy.",
+    "summary": "This randomized controlled trial of 1,040 patients with atrial fibrillation and stable coronary artery disease (40.5% diabetic) compared edoxaban monotherapy versus edoxaban plus antiplatelet therapy, finding that edoxaban alone significantly reduced the composite primary outcome of death, MI, stroke, systemic embolism, urgent revascularization, or major bleeding at 12 months in both diabetic (6.3% vs. 13.7%) and non-diabetic patients (6.7% vs. 16.3%), with no differential effect by diabetes status. These findings suggest edoxaban monotherapy may be preferred over dual antithrombotic therapy"
+  },
+  {
+    "title": "Bleeding-Related Conditions, Procedural Safety, and Mortality After Left Atrial Appendage Closure",
+    "link": "https://doi.org/10.1093/europace/euag235",
+    "doi": "10.1093/europace/euag235",
+    "journal": "EP Europace",
+    "date": "Sep 03, 2026",
+    "date_ts": 1788393600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed-Field Ablation for Atrial Fibrillation with an Extended Protocol: the Extended PFA Dose Study",
+    "link": "https://doi.org/10.1093/europace/euag253",
+    "doi": "10.1093/europace/euag253",
+    "journal": "EP Europace",
+    "date": "Sep 03, 2026",
+    "date_ts": 1788393600.0,
     "tags": [
       "AFib"
     ],
@@ -6033,253 +6288,5 @@
     ],
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Background\n                    Reliable catheter\u2013tissue apposition is important for effective pulmonary vein isolation using pulsed field ablation. The contact index, derived from real\u2010time impedance rise on the EnSite X mapping system, may provide an objective surrogate for catheter contact; however, its utility with the PulseSelect catheter remains insufficiently defined.\n                  \n                  \n                    Methods\n                    In this single\u2010center pilot study, patients with paroxysmal atrial fibrillation undergoing pulmonary vein isolation with the PulseSelect catheter under general anesthesia were evaluated. High\u2010resolution transesophageal echocardiography was used as the reference standard to classify electrode\u2010level catheter apposition as contact or non\u2010contact. Contact index values from electrodes 3\u20137 were paired with transesophageal echocardiography findings, and receiver operating characteristic curve analysis was performed.\n                  \n                  \n                    Results\n                    \n                      A total of 316 paired imaging\u2013electrical data points were analyzed. Interobserver agreement for transesophageal echocardiography\u2010based contact assessment was excellent (Cohen's\n                      \u03ba\n                      = 0.86). Contact index values were higher at contact than non\u2010contact segments. A contact index cutoff of 10% yielded an area under the curve of 0.864, with 76.1% sensitivity and 82.9% specificity. In the central electrodes 4\u20136, the area under the curve was 0.871, with 80.1% sensitivity and 81.2% specificity.\n                    \n                  \n                  \n                    Conclusions\n                    Contact index was associated with transesophageal echocardiography\u2010confirmed catheter\u2013tissue apposition during pulsed field ablation using the PulseSelect catheter. A 10% threshold may be a useful candidate reference for real\u2010time apposition assessment, requiring validation in larger studies."
-  },
-  {
-    "title": "\u201cHybrid\u201d Voltage-Guided Endomyocardial Biopsy Performed Concurrently With Electrophysiology Procedures",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005797?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jul 26, 2026",
-    "date_ts": 1785029428.707122,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Catheter Ablation\u2013Related Severe Coronary Spasm Requiring Intracoronary Adrenaline",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005748?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jul 26, 2026",
-    "date_ts": 1785029428.707085,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Investigating the Association Between Atrial Fibrillation and Out-of-Hospital Cardiac Arrest: A Danish Nationwide Matched Cohort Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005578?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jul 26, 2026",
-    "date_ts": 1785029428.707031,
-    "tags": [
-      "AFib",
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Anticoagulation Decision Based on Atrial Fibrillation Ablation Outcomes and Long-Term Impact on Stroke. An ITHACA Database Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003235?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jul 26, 2026",
-    "date_ts": 1785029428.619337,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Awareness of the knowing\u2013doing gap in arrhythmia management: a clerkship-embedded multicomponent simulation package",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003223?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jul 26, 2026",
-    "date_ts": 1785029428.619298,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Epicardial Adipose Tissue as a Potential Modulator of Atrial and Ventricular Arrhythmogenesis: Mechanistic Insights and Clinical Implications",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003260?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jul 26, 2026",
-    "date_ts": 1785029428.619125,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Efficacy, Safety, and Procedural Outcomes of Pulsed\u2010Field Ablation for Paroxysmal Atrial Fibrillation: A Meta\u2010Analysis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70375?af=R",
-    "doi": "10.1111/pace.70375",
-    "journal": "PACE",
-    "date": "Jul 25, 2026",
-    "date_ts": 1784991625.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Pulsed\u2010field ablation (PFA) is a novel, nonthermal modality for the treatment of atrial fibrillation (AF) that may reduce procedural complications compared with conventional thermal ablation methods.\n                  \n                  \n                    Methods and Results\n                    \n                      A systematic literature review was conducted to identify studies comparing PFA with second\u2010generation cryoballoon ablation (2G\u2010CBA) and contact force\u2010sensing radiofrequency ablation (CF\u2010RFA) for paroxysmal AF (pAF) from the inception of PFA to January 2026. A single\u2010arm meta\u2010analysis was performed using random\u2010effects models, reporting the arcsine of the square root transformation (PAS) or mean (95% CI) for each intervention. Overall, 29 studies (9 randomized controlled trials and 20 observational studies) were included. Arrhythmia recurrence rates were comparable across all three interventions [PFA: 23.90% (PAS 0.24, 95% CI 0.19\u20130.29,\n                      p\n                      \u00a0&lt;\u00a00.0001); CF\u2010RFA: 23.72% (PAS 0.24, 95% CI 0.19\u20130.29,\n                      p\n                      \u00a0&lt;\u00a00.0001); 2G\u2010CBA: 25.56% (PAS 0.26, 95% CI 0.20\u20130.31,\n                      p\n                      \u00a0&lt;\u00a00.001)]. Overall procedure time was significantly shorter with PFA than with CF\u2010RFA and comparable to 2G\u2010CBA [PFA: mean 87.66\u00a0min (95% CI 74.29\u2013101.04,\n                      p\n                      \u00a0&lt;\u00a00.001); CF\u2010RFA: mean 137.54\u00a0min (95% CI 123.65\u2013151.43,\n                      p\n                      \u00a0&lt;\u00a00.001); 2G\u2010CBA: mean 105.56\u00a0min (95% CI 89.93\u2013121.18,\n                      p\n                      \u00a0&lt;\u00a00.001)]. Fluoroscopy time was shorter with PFA than with 2G\u2010CBA but comparable to CF\u2010RFA [PFA: mean 16.12\u00a0min (95% CI 12.36\u201319.88); CF\u2010RFA: mean 17.28\u00a0min (95% CI 13.59\u201320.98); 2G\u2010CBA: mean 22.08\u00a0min (95% CI 18.23\u201325.94)]. Overall complication rates did not differ significantly among the three interventions [PFA: 2.93% (95% CI 1.87\u20134.22%); CF\u2010RFA: 3.66% (95% CI 1.84\u20136.07%); 2G\u2010CBA: 6.52% (95% CI 4.41\u20139.00%)]. The incidence of phrenic nerve palsy was significantly higher with 2G\u2010CBA than with PFA or CF\u2010RFA.\n                    \n                  \n                  \n                    Conclusion\n                    PFA demonstrated comparable efficacy and safety to CF\u2010RFA and 2G\u2010CBA, with a numerically shorter procedure time than CF\u2010RFA and a lower incidence of phrenic nerve palsy than 2G\u2010CBA, supporting PFA as a viable alternative to established ablation techniques for pAF."
-  },
-  {
-    "title": "Cardiometabolic and Endocrine Correlates of Left Atrial Scar in Patients Undergoing Atrial Fibrillation Ablation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70374?af=R",
-    "doi": "10.1111/pace.70374",
-    "journal": "PACE",
-    "date": "Jul 25, 2026",
-    "date_ts": 1784991538.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Atrial fibrillation (AF) is increasingly conceptualized as a manifestation of atrial cardiomyopathy characterized by progressive fibrosis and structural remodeling. Systemic inflammation may contribute to AF progression and pathogenesis. Elevated inflammatory biomarkers may represent a pro\u2010inflammatory state, playing a possible role in AF. Left atrial (LA) scar burden serves as a surrogate for atrial fibrosis; however, its association with inflammatory markers is less well established.\n                  \n                  \n                    Objectives\n                    The objectives of the study are as follows:\n                    To evaluate a possible association between LA scar burden and inflammatory markers.\n                    To identify additional markers correlated with higher scar burden.\n                  \n                  \n                    Methods\n                    \n                      We retrospectively analyzed patients undergoing first\u2010time AF ablation to explore the association between systemic inflammatory markers and LA scar burden. Biomarkers included high\u2010sensitivity C\u2010reactive protein (hsCRP), neutrophil\u2010to\u2010lymphocyte ratio (NLR), and N\u2010terminal pro\u2010brain natriuretic peptide (NT\u2010proBNP). Demographics, comorbidities, and CHA\n                      2\n                      DS\n                      2\n                      \u2010VASc score were recorded. LA scar was quantified during electroanatomic voltage mapping using the BioSense Webster Oct array catheter D1609.\n                    \n                  \n                  \n                    Results\n                    \n                      A total of 229 patients with AF were included;107 (46.7%) demonstrated significant atrial scar, while 122 (53.3%) did not have significant scar burden. Of these, 147 patients with complete biomarker data were included in the final analysis. Scar\u2010present patients had significantly higher NT\u2010proBNP, hsCRP, and BMI, along with a higher prevalence of dyslipidemia, obstructive sleep apnoea, and hypothyroidism, and a significantly different AF type distribution (all\n                      p\n                      \u00a0&lt;\u00a00.05). On univariable logistic regression, significant predictors of atrial scar included NT\u2010proBNP, BMI, hypothyroidism, Longstanding persistent Atrial Fibrillation (AF LS\u2010persistent), dyslipidemia, obstructive sleep apnea, and CHA\n                      2\n                      DS\n                      2\n                      \u2010VASc score, with hsCRP demonstrating a borderline association (\n                      p\n                      = 0.076). On multivariable logistic regression, LS\u2010persistent AF was the only independent predictor of significant atrial scar (\n                      p\n                      = 0.026), while BMI and hypothyroidism showed borderline independent associations (\n                      p\n                      \u00a0&lt;\u00a00.10).\n                    \n                  \n                  \n                    Conclusions\n                    Our findings suggest a possible correlation of inflammatory markers and Left Atrial scar burden. The association of other comorbidities, like higher BMI, hypothyroidism, dyslipidemia, and sleep apnea, with a higher atrial scar burden may be related to myocardial stress. This suggests an interplay of inflammatory markers and comorbidities, which result in a significant scar burden either directly or indirectly"
-  },
-  {
-    "title": "Optimizing Pulsed Field Ablation: Results From a 1,000-Patient Cohort",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005591?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jul 25, 2026",
-    "date_ts": 1784942868.222921,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Effects of Pulsed Field Ablation for Pulmonary Vein Isolation on Vein of Marshall Electrograms",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005682?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jul 25, 2026",
-    "date_ts": 1784942868.222842,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Author's reply to: Methodological considerations in evaluating socioeconomic outcomes after atrial fibrillation ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003259?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jul 25, 2026",
-    "date_ts": 1784942868.082786,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Bachmann's Bundle Area Pacing in Korea: High Procedural Success and Stable Mid-Term Lead Performance in a Two-Center Cohort",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003193?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jul 25, 2026",
-    "date_ts": 1784942868.082746,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Combined Epicardial and Endocardial Ablation for Atrial Fibrillation: An Updated Best Practices Guide to Hybrid Convergent Procedures",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003211?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jul 25, 2026",
-    "date_ts": 1784942868.082705,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Long-Term Progression of Tricuspid Regurgitation After Transvenous Lead Extraction",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003272?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jul 25, 2026",
-    "date_ts": 1784942868.082636,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Concussion-AF Trial: Longitudinal Assessment of Brain Injury Biomarkers and Cognitive Decline in Elderly Patients with Atrial Fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025877?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 25, 2026",
-    "date_ts": 1784942867.964866,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intracardiac Echocardiography\u2013Guided Left Atrial Appendage Occlusion: A Comprehensive Narrative Review",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70319?af=R",
-    "doi": "10.1111/pace.70319",
-    "journal": "PACE",
-    "date": "Jul 24, 2026",
-    "date_ts": 1784896549.0,
-    "tags": [
-      "AFib",
-      "Imaging"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  Intracardiac echocardiography (ICE) is an alternative to transesophageal echocardiography for imaging guidance during left atrial appendage occlusion (LAAO) in patients with atrial fibrillation with intolerance to long\u2010term oral anticoagulation. This narrative review synthesizes contemporary evidence on ICE\u2010guided LAAO. Across observational studies, ICE provides real\u2010time high\u2010resolution imaging enabling accurate trans\u2010septal puncture, device sizing, and deployment under conscious sedation. Procedural success, peri\u2010device leak, and device\u2010related thrombus rates appear comparable between ICE\u2010 and TEE\u2010guided LAAO, while ICE may also shorten fluoroscopy time and avoid general anesthesia. Challenges with ICE include operator learning curve, need for additional venous access and intracardiac catheter manipulation, that may add to risks like pericardial effusions, vascular complications and higher costs. Emerging 3D/4D ICE and artificial\u2010intelligence\u2013integrated computed tomographic planning may improve efficiency and allow for combined ablation and LAAO procedures. Further randomized controlled trials and cost\u2010effectiveness studies are needed to define the role of ICE\u2010first approach.",
-    "summary": "This narrative review of observational studies demonstrates that intracardiac echocardiography provides comparable procedural success and safety outcomes to transesophageal echocardiography for left atrial appendage occlusion in anticoagulation-intolerant atrial fibrillation patients, with potential advantages of reduced fluoroscopy time and avoidance of general anesthesia, though limited by operator learning curve and increased costs. Randomized controlled trials are needed to establish the optimal role of ICE-guided LAAO."
-  },
-  {
-    "title": "More Disease, Fewer Arrhythmic Events: A Competing\u2010Risk Signal for SGLT2 Inhibitors in ICD Recipients",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70371?af=R",
-    "doi": "10.1111/pace.70371",
-    "journal": "PACE",
-    "date": "Jul 24, 2026",
-    "date_ts": 1784895845.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    SGLT2 inhibitors (SGLT2i) reduce heart failure events across the ejection fraction spectrum, but their association with device\u2010adjudicated ventricular arrhythmias in real\u2010world primary\u2010prevention ICD recipients remains poorly characterized.\n                  \n                  \n                    Methods and Results\n                    \n                      In a prospectively maintained primary\u2010prevention ICD registry (\n                      n\n                      = 62; January 2021 onward), 36 patients (58%) were receiving SGLT2i at implantation. The primary endpoint was first appropriate ICD shock for sustained ventricular tachyarrhythmia; death without prior shock was the pre\u2010specified competing event. Cumulative incidence functions were estimated by the Aalen\u2010Johansen method. Over a median follow\u2010up of 752 days, 22 first appropriate shocks occurred. SGLT2i\u2010treated patients had more advanced structural disease (median LVEF 31%\u00a0vs. 51%) and lower baseline arrhythmic burden (NSVT 36%\u00a0vs. 69%) than untreated patients. Cumulative incidence of appropriate shock differed significantly between groups (Gray test\n                      p\n                      = 0.008). In a cause\u2010specific Cox model adjusted for LVEF and amiodarone use, SGLT2i was associated with a lower hazard of appropriate shock (HR 0.34; 95% CI 0.13\u20100.91;\n                      p\n                      = 0.031), confirmed by Fine\u2010Gray subdistribution analysis (sHR 0.36; 95% CI 0.13\u20100.99;\n                      p\n                      = 0.047). Results were consistent in an HFrEF sub\u2010cohort (LVEF 35% or less; HR 0.24; 95% CI 0.06\u20100.92;\n                      p\n                      = 0.037). Adjustment for baseline NSVT attenuated the association to non\u2010significance (HR 0.43;\n                      p\n                      = 0.12), reflecting confounding by arrhythmic substrate.\n                    \n                  \n                  \n                    Conclusion\n                    In this single\u2010center competing\u2010risk analysis, SGLT2i use at ICD implantation was associated with fewer device\u2010adjudicated arrhythmic events. Whether this reflects direct electrophysiological modification or favorable patient selection requires confirmation in larger cohorts.",
-    "summary": "This single-center prospective ICD registry (n=62, 36 SGLT2i-treated) found that SGLT2 inhibitor use at implantation was associated with a significantly lower hazard of appropriate ICD shocks for sustained ventricular tachyarrhythmia over median 752-day follow-up (HR 0.34, p=0.031), though this association was attenuated when adjusting for baseline arrhythmic burden, suggesting confounding by underlying arrhythmic substrate rather than direct drug effect."
-  },
-  {
-    "title": "Late-Onset Initial Ventricular Tachyarrhythmias in Older Patients With Brugada Syndrome Not Having Coronary Artery Disease",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006535?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jul 24, 2026",
-    "date_ts": 1784856459.674085,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Incremental Innovation With Unanswered Questions: The Evolution of Left Atrial Appendage Closure Devices",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005426?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jul 24, 2026",
-    "date_ts": 1784856459.674047,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Beta-Blockers and Exercise in Young Patients With Long QT Syndrome: Rigor Brings Fresh Insights",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006523?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jul 24, 2026",
-    "date_ts": 1784856459.67398,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
   }
 ]
