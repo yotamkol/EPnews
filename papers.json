@@ -1,5 +1,113 @@
 [
   {
+    "title": "Long-term risk associated with atrial arrhythmias in the Malm\u00f6 Diet and Cancer Cohort",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005489?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Sep 06, 2026",
+    "date_ts": 1788658868.290265,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Bachmann Bundle Pacing Is a Promising Modality for Lowering Incident Atrial Fibrillation: A Network Meta-Analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005465?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Sep 06, 2026",
+    "date_ts": 1788658868.290223,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Timing of left atrial functional recovery and volumetric remodeling after radiofrequency catheter ablation for paroxysmal atrial fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005477?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Sep 06, 2026",
+    "date_ts": 1788658868.290161,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Catheter Ablation of Atrial Arrhythmias After Orthotopic Heart Transplantation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027608?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 06, 2026",
+    "date_ts": 1788658868.127972,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "2026 HRS/PACES scientific statement on the use of antiarrhythmic drugs in understudied clinical scenarios",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025804?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 06, 2026",
+    "date_ts": 1788658868.127932,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Imaging into the Conduction System: New Window and New Insights into the Conduction System from CT Images",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602761X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 06, 2026",
+    "date_ts": 1788658868.127872,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Leadless Pacemaker, Right Ventricular Pacing Burden, and Heart Failure",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027633?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 06, 2026",
+    "date_ts": 1788658868.127832,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Integration of Functional Mapping and Image-Guided Structural Information in Ventricular Tachycardia Ablation - Sense2 Mapping",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027529?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 06, 2026",
+    "date_ts": 1788658868.127786,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "PVCuRe: a machine-learning based tool to predict left ventricular systolic function recovery in patients undergoing ablation for premature ventricular contraction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027621?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 06, 2026",
+    "date_ts": 1788658868.127613,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Ablation of Typical Right Atrial Flutter Through the Arm: Evaluation of Safety and Efficacy",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007504?dgcid=rss_sd_all",
     "doi": null,
@@ -166,6 +274,32 @@
       "VT"
     ],
     "hot": false
+  },
+  {
+    "title": "Taking Full Advantage of the \u201cFifth Cardiac Chamber\u201d to Implant a VDD CRT\u2010D Through a Persistent Left Superior Vena Cava",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70426?af=R",
+    "doi": "10.1111/pace.70426",
+    "journal": "PACE",
+    "date": "Sep 04, 2026",
+    "date_ts": 1788516724.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Blanking Period Events Predict Long\u2010Term Recurrence After Substrate Modification Ablation for Atrial Fibrillation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70418?af=R",
+    "doi": "10.1111/pace.70418",
+    "journal": "PACE",
+    "date": "Sep 04, 2026",
+    "date_ts": 1788516569.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    The prognostic significance of blanking period arrhythmic events following extensive substrate modification ablation, such as the STABLE\u2010SR procedure, remains inadequately defined.\n                  \n                  \n                    Methods\n                    In this single\u2010center retrospective study, we analyzed data from 411 consecutive patients with non\u2010paroxysmal atrial fibrillation (AF) undergoing first\u2010time catheter ablation using the STABLE\u2010SR technique. The incidence and characteristics of blanking period events (within 3 months post\u2010ablation) were assessed. All patients were followed for 1 year to determine AF recurrence. Univariable and multivariable Logistic regression analyses were performed to identify predictors of recurrence.\n                  \n                  \n                    Results\n                    \n                      Among the 373 patients who completed follow\u2010up, blanking period events occurred in 106 patients (28.4%). The 1\u2010year recurrence rate was significantly higher in patients with blanking period events compared to those without (46.2%\u00a0vs. 16.9%,\n                      p\n                      &lt; 0.001). Multivariable analysis identified the presence of any blanking period event (odds ratio [OR] 2.73, 95% confidence interval [CI] 1.22\u20136.11,\n                      p\n                      = 0.014), adjunctive cavotricuspid isthmus ablation (OR 1.91, 95% CI 1.01\u20133.36,\n                      p\n                      = 0.047), and the need for end\u2010procedural electrical cardioversion (OR 3.10, 95% CI 1.01\u20139.48,\n                      p\n                      = 0.047) as independent predictors of long\u2010term recurrence.\n                    \n                  \n                  \n                    Conclusions\n                    In patients undergoing STABLE\u2010SR ablation for non\u2010paroxysmal AF, arrhythmias during the blanking period are common and constitute the strongest independent predictor of 1\u2010year recurrence. Specific procedural characteristics further stratify recurrence risk.",
+    "summary": "This single-center retrospective study of 373 patients with non-paroxysmal AF undergoing STABLE-SR ablation found that blanking period arrhythmic events (occurring in 28.4% of patients) were independently associated with significantly higher 1-year AF recurrence rates (46.2% vs. 16.9%, p<0.001), with an odds ratio of 2.73. Additional independent predictors of recurrence included adjunctive cavotricuspid isthmus ablation and need for end-procedural electrical cardioversion, suggesting that blanking period events represent a clinically meaningful prognostic marker rather than benign inflammatory phenomena."
   },
   {
     "title": "Long\u2010Term Performance of Single\u2010Chamber Atrioventricular\u2010Synchronous Leadless Pacing: Results From 4 Years of Serial Follow\u2010up",
@@ -600,6 +734,18 @@
     "date_ts": 1788229485.729481,
     "tags": [
       "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Ultra-selective chemical ablation via an over-the-wire microelectrode catheter for radiofrequency-refractory premature ventricular complexes arising from deep intramural outflow tract",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.09.001",
+    "doi": "10.1016/j.hrcr.2026.09.001",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Other"
     ],
     "hot": false
   },
@@ -6133,151 +6279,5 @@
       "AFib"
     ],
     "hot": false
-  },
-  {
-    "title": "Histopathology of the atrial tissue after pulsed-field ablation: A subacute-phase lesion in an autopsy heart",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001372?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.258079,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Detection of a retroaortic left circumflex artery with intracardiac echocardiography before ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001499?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.258044,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Ultrasound-guided S-ICD implantation: A proof-of-concept study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001013?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.258012,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Association between epicardial adipose tissue characteristics and ventricular fibrillation in Brugada syndrome",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001025?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.257979,
-    "tags": [
-      "VT",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Trends in ventricular arrhythmia-related mortality in the United States from 1979 to 2024: A CDC WONDER analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001062?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.257942,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsed field ablation for atrial fibrillation with a balloon-in-basket system under conscious sedation: A retrospective feasibility and safety analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001293?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.257903,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Integrated mapping-guided superior vena cava isolation with single-shot pulsed field ablation systems: Feasibility, workflow, and safety in a real-world patient cohort",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001384?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.257863,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Stylet-in-sheath: A new solution to an old problem?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001141?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.257828,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Response to the letter to the editor entitled \u201cStylet-in-sheath: A new solution to an old problem?\u201d",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001153?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.257778,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "In Memoriam: Eugene Braunwald, MD",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126023519?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.2576,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Artificial Intelligence-Enhanced Electrocardiography for Prediction of Cancer Therapy-Related Cardiac Dysfunction",
-    "link": "https://doi.org/10.1093/europace/euag191",
-    "doi": "10.1093/europace/euag191",
-    "journal": "EP Europace",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785283200.0,
-    "tags": [
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Innervation of the Human Atrioventricular Node via the Inferior Pyramidal Space: Characterization Using Intersectional Strategies",
-    "link": "https://doi.org/10.1161/circep.126.014978",
-    "doi": "10.1161/circep.126.014978",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785283200.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    The inferior pyramidal space (IPS), the epicardial adipose tissue extending from the inferior crux of the heart, contains the atrioventricular node (AVN) at its apex. However, innervation of the human AVN via the IPS remains unknown.\n                  \n                  \n                    METHODS:\n                    \n                      Seven whole-mount samples of the human IPS involving the AVN were obtained from hearts rejected for transplantation (85.7% male, 49.4\u00b112.8 years old). The IPS was further divided into the anterior (behind the floor of the triangle of Koch) and posterior (within the Eustachian ridge) fat pads relative to the coronary sinus. A whole-mount tissue-clearing method with immunohistochemical staining was applied to each fat pad to count and characterize the nerve fascicles \u226510 \u00b5m and ganglia \u22656000 \u00b5m\n                      2\n                      .\n                    \n                  \n                  \n                    RESULTS:\n                    \n                      Within the anterior fat pad, sympathetic nerve fascicles ascended towards the AVN along the AVN artery, whereas nonsympathetic nerve fascicles approached the AVN from the superior and posterior aspects without a consistent relationship to the AVN artery. Within the IPS, sympathetic nerve fascicles were thicker than nonsympathetic nerve fascicles (51.7\u00b132.8 versus 22.1\u00b110.6 \u00b5m;\n                      P\n                      &lt;0.001). The ganglia, which were mainly nonsympathetic, were found predominantly within the posterior fat pad compared with the anterior fat pad (63.2\u00b140.3 versus 5.8\u00b15.0;\n                      P\n                      &lt;0.01). The compact AVN regions were devoid of thick nerve fascicles and ganglionated plexuses but filled with a fine meshwork of both sympathetic and nonsympathetic nerve fibers.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    The human IPS exhibits a distinct pattern of autonomic innervation and distribution of ganglia. These neural structures are likely to contribute to the physiological control of the human AVN and could be a novel target for neuromodulation to restore normal AVN function."
   }
 ]
