@@ -1,5 +1,17 @@
 [
   {
+    "title": "Clinical outcomes of Left Cardiac Sympathetic Denervation for the treatment of pediatric inherited arrhythmias",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005532?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Sep 07, 2026",
+    "date_ts": 1788745117.016877,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
     "title": "Long-term risk associated with atrial arrhythmias in the Malm\u00f6 Diet and Cancer Cohort",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005489?dgcid=rss_sd_all",
     "doi": null,
@@ -6265,18 +6277,6 @@
     "date_ts": 1785288207.258145,
     "tags": [
       "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Enhanced contact of the PulseSelect catheter using the contact index during pulmonary vein isolation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027948?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.258113,
-    "tags": [
-      "AFib"
     ],
     "hot": false
   }
