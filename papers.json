@@ -1,5 +1,30 @@
 [
   {
+    "title": "Post AF Ablation Anticoagulation: Real World Practice and Predictors of Therapy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027645?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 09, 2026",
+    "date_ts": 1788918941.987739,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Patient-reported outcome measures for atrial fibrillation: a systematic review and evaluation of psychometric properties of symptom severity measures",
+    "link": "https://doi.org/10.1093/europace/euag252",
+    "doi": "10.1093/europace/euag252",
+    "journal": "EP Europace",
+    "date": "Sep 08, 2026",
+    "date_ts": 1788825600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  Collection of patient-reported outcomes (PROs) is advocated for benchmarking AF care, however, concerns over the robustness of patient-reported outcome measures (PROMs) limits use in clinical practice. This systematic review identified PROMs used to evaluate health related quality-of-life, physical, emotional and cognitive function, symptom severity, exercise tolerance and ability to work and appraised the measurement properties of symptom severity PROMs. Six bibliographic databases were searched from inception until 11-January-2025. Full-text publications in all languages investigating \u22651 measurement property of PROMs in AF patients aged \u226518 years were eligible. The Consensus based Standards for the selection of health Measurement Instruments (COSMIN) recommendations appraised and synthesised measurement properties and risk-of-bias of symptom severity PROMs. (PROSPERO ID: CRD42024523340). 709 eligible publications identified 101 PROMs: six symptom severity PROMs (AFSymp, AFS/B, AFSS, ASTA, AF6 and SCL) underwent psychometric property evaluation. ASTA, AFSymp and SCL indicated evidence of sufficient content validity and at least low-quality evidence for sufficient internal consistency. ASTA was the most validated PROM and exhibited the greatest level of certainty in evidence quality across assessed psychometric properties. COSMIN assessments revealed critical gaps in responsiveness and cross-cultural validity. ASTA emerged as the most robust symptom severity PROM. Further validation of PROMs identified for other PROs by COSMIN guidelines is recommended prior to their routine integration in AF care and future studies should address responsiveness, interpretability, feasibility and cross-cultural validity to ensure PROMs reliably reflect patients\u2019 experiences and detect meaningful clinical changes across diverse populations."
+  },
+  {
     "title": "Residual Surgical Left Atrial Appendage Leaks: Thromboembolic Risk and Anatomy\u2010Tailored Percutaneous Closure Strategies",
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70424?af=R",
     "doi": "10.1111/pace.70424",
@@ -875,6 +900,19 @@
       "VT"
     ],
     "hot": false
+  },
+  {
+    "title": "Programmed ventricular stimulation for risk stratification in symptomatic athletes with nonischemic left ventricular scar and preserved ejection fraction",
+    "link": "https://doi.org/10.1093/europace/euag160",
+    "doi": "10.1093/europace/euag160",
+    "journal": "EP Europace",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Non-ischaemic left ventricular (LV) scar is increasingly recognized in athletes with preserved left ventricular ejection fraction (LVEF) and may represent a substrate for malignant ventricular arrhythmias. The role of electrophysiological study (EPS) with programmed ventricular stimulation (PVS) for risk stratification in this population remains unclear. This study aimed to evaluate the prognostic value of inducibility at EPS in symptomatic athletes with non-ischaemic LV scar and preserved LVEF.\n                  \n                  \n                    Methods and results\n                    We prospectively enrolled 72 consecutive athletes (mean age 48.9 \u00b1 13.1 years; 66.7% male) with documented non-ischaemic LV scar, preserved LVEF (\u226550%), and arrhythmic symptoms (tachycardic palpitations, syncope/presyncope, and/or exercise-related ventricular arrhythmias) undergoing EPS. Inducibility was defined as sustained ventricular arrhythmias during PVS. The primary endpoint was the occurrence of major arrhythmic events (MAE), including sudden cardiac death, sustained ventricular tachycardia/ventricular fibrillation, or appropriate implantable cardioverter-defibrillator therapy. Twenty-three athletes (31.9%) were inducible (EPS+), while 49 (68.1%) were non-inducible (EPS\u2212). Baseline characteristics were largely comparable between groups, although QRS duration was longer in inducible athletes (104.6 \u00b1 15.2\u2005ms vs. 95.5 \u00b1 14.3\u2005ms; P = 0.019). Twenty-three inducible athletes underwent ICD implantation (18 transvenous and 5 subcutaneous devices), whereas 16 non-inducible athletes received an implantable loop recorder. During a median follow-up of 42 months, 11 major arrhythmic events occurred. Nine events occurred among inducible athletes and consisted of sustained ventricular arrhythmias (monomorphic VT, polymorphic VT, or ventricular fibrillation) successfully terminated by appropriate ICD therapy, whereas two major arrhythmic events occurred among non-inducible athletes and required successful resuscitation followed by ICD implantation. No arrhythmic deaths occurred during follow-up. Event-free survival at 50 months was 40.6% in inducible athletes and 95.9% in non-inducible athletes (log-rank P &amp;lt; 0.001).\n                  \n                  \n                    Conclusion\n                    In symptomatic athletes with non-ischaemic LV scar and preserved LVEF, inducibility at EPS identifies a subgroup at higher risk of MAE, whereas non-inducibility is associated with a low event rate. EPS may represent a useful adjunctive tool for arrhythmic risk stratification in athletes, particularly in those without conventional high-risk features."
   },
   {
     "title": "Identifying patients at low risk for atrial fibrillation after cryptogenic stroke: the PAVA score",
@@ -6247,43 +6285,6 @@
     "date_ts": 1785288207.258719,
     "tags": [
       "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A population-based study of trends in cardiac arrest and sudden death owing to long QT syndrome",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001566?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.258689,
-    "tags": [
-      "SCD",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "National detection strategies and long QT syndrome: How do we measure success in rare cardiogenetic disorders?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022319?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.258657,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Proteomic signatures for sudden cardiac death and related intermediate phenotypes",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001621?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.258625,
-    "tags": [
-      "SCD"
     ],
     "hot": false
   }
