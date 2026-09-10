@@ -1,5 +1,80 @@
 [
   {
+    "title": "Ring-Like Scar Architecture and Arrhythmic Outcomes of Patients With Nondilated Left Ventricular Cardiomyopathy Treated With Ventricular Tachycardia Ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007450?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Sep 10, 2026",
+    "date_ts": 1789005132.198199,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "High-Voltage Focal PFA Catheter for \u201cInstant\u201d Point-By-Point Ablation: The First-In-Human <em>FIELD-PULSE</em> Trial to Treat AF",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008571?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Sep 10, 2026",
+    "date_ts": 1789005132.198129,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed Field Ablation for Cavotricuspid Isthmus: Feasibility and Acute Outcomes with a Circular PFA Catheter",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005544?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Sep 10, 2026",
+    "date_ts": 1789005132.114527,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cost-effectiveness of a score-guided educational intervention to improve anticoagulation control in anticoagulant na\u00efve Thai patients with atrial fibrillation (TREATS-AF)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005362?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Sep 10, 2026",
+    "date_ts": 1789005132.114331,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sex-Specific Outcomes After Catheter Ablation for AF in Left Ventricular Systolic Dysfunction",
+    "link": "https://doi.org/10.1001/jamacardio.2026.3275",
+    "doi": "10.1001/jamacardio.2026.3275",
+    "journal": "JAMA Cardiology",
+    "date": "Sep 09, 2026",
+    "date_ts": 1788912000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "This cross-sectional study uses pool data from 3 randomized clinical trials to examine sex-specific outcomes after catheter ablation for atrial fibrillation (AF) in patients with left ventricular systolic dysfunction."
+  },
+  {
+    "title": "Electrogram\u2010Guided Driver Ablation Versus Posterior Wall Isolation in Persistent AF: A Propensity\u2010Matched Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70430?af=R",
+    "doi": "10.1111/pace.70430",
+    "journal": "PACE",
+    "date": "Sep 09, 2026",
+    "date_ts": 1788923856.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    The optimal adjunctive ablation strategy beyond pulmonary vein isolation (PVI) for persistent atrial fibrillation (PsAF) remains uncertain. This study compared the procedural characteristics, periprocedural safety, and 12\u2010month rhythm outcomes of driver\u2010guided ablation versus posterior wall isolation (PWI) in patients with PsAF.\n                  \n                  \n                    Methods\n                    \n                      This multicenter retrospective study included 303 consecutive patients with PsAF who underwent PVI plus driver\u2010guided ablation (\n                      n\n                      = 201) or PVI plus PWI (\n                      n\n                      = 102). Propensity score matching using prespecified clinical, cardiac structural, and atrial substrate variables yielded 102 matched pairs. An exploratory subgroup analysis was conducted according to left atrial low\u2010voltage area (LVA) burden.\n                    \n                  \n                  \n                    Results\n                    \n                      In the overall cohort, procedure time was shorter in the PWI group than in the driver group (154.56 \u00b1 38.85\u00a0vs. 189.70 \u00b1 39.45\u00a0min;\n                      p\n                      \u00a0&lt;\u00a00.001). At 12 months, the driver group showed higher rates of freedom from atrial arrhythmias (75.1%\u00a0vs. 63.7%;\n                      p\n                      = 0.038) and freedom from AF (80.1%\u00a0vs. 67.6%;\n                      p\n                      = 0.017), and a lower proportion of persistent atrial arrhythmia among patients with recurrence (28.0%\u00a0vs. 64.9%;\n                      p\n                      \u00a0&lt;\u00a00.001). Periprocedural complications were comparable between groups. In the matched cohort, these findings remained materially unchanged. In patients with LVA burden \u226510%, driver ablation was associated with a higher rate of freedom from atrial arrhythmias than PWI (68.2%\u00a0vs. 50.9%;\n                      p\n                      \u00a0=\u00a00.046), although no significant interaction was observed.\n                    \n                  \n                  \n                    Conclusion\n                    In patients with PsAF, PWI was associated with greater procedural efficiency, whereas driver\u2010guided ablation was associated with better 12\u2010month rhythm outcomes. These observational findings should be considered hypothesis\u2010generating and require prospective validation."
+  },
+  {
     "title": "Post AF Ablation Anticoagulation: Real World Practice and Predictors of Therapy",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027645?dgcid=rss_sd_all",
     "doi": null,
@@ -8,6 +83,57 @@
     "date_ts": 1788918941.987739,
     "tags": [
       "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Should Left Atrial Appendage Occlusion Devices Be Routinely Used Instead of Oral Anticoagulants to Prevent Thromboembolic Events, Stroke, and Bleeding for Patients With Non\u2010Valvular Atrial Fibrillation?",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70494?af=R",
+    "doi": "10.1111/jce.70494",
+    "journal": "J Cardiovasc EP",
+    "date": "Sep 08, 2026",
+    "date_ts": 1788892049.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Oral anticoagulants (OACs), preferably direct (D)/non\u2010vitamin K (N) dependent OACs [DOACs/NOACs] are recommended for the management of patients with non\u2010valvular atrial fibrillation (AF) at risk for thromboembolic events, including stroke. Left atrial appendage occlusion (LAAO) device implantation has been considered for patients who are unsuitable for OACs or prefer not to take them. Herein, we discuss the clinical evidence for routine use of LAAO instead of OACs for patients with AF at risk of thromboembolic events, stroke, and bleeding.\n                  \n                  \n                    Method\n                    From pertinent, recent, randomized clinical trials, the CHAMPION\u2010AF (Watchman Flx vs. NOAC for Embolic Protection in the Management of Patients with Non\u2010Valvular Atrial Fibrillation), and CLOSURE\u2010AF (Catheter\u2010Based Left Atrial Appendage Closure in Patients with Atrial Fibrillation at High Risk of Stroke and Bleeding as Compared with Best Medical Therapy) were selected for review.\n                  \n                  \n                    Results\n                    As interpreted by the authors of the CHAMPION\u2010AF trial, LAAOs were considered non\u2010inferior to NOACs at 3 years. In the CLOSURE\u2010AF trial, non\u2010inferiority criteria were not met. For safety, that is, bleeding, LAAO was considered superior in CHAMPION\u2010AF. We found several points related to both trials that are critical to interpret the results and clinical implications of these trials. These points are particularly related to the interpretation of non\u2010inferiority trial design, selection bias, combined primary endpoint, bleeding and peri\u2010procedural bleeding complications, serious adverse events, cross\u2010over rates, sub\u2010group analyses, conflicts of interest, and mechanism of stroke.\n                  \n                  \n                    Conclusion\n                    Data from the CHAMPION\u2010AF and CLOSURE trials do not favor routine and widespread use of LAAO devices in non\u2010valvular AF patients over use of OACs."
+  },
+  {
+    "title": "Differential Air Entrainment of Mini\u2010Basket and Circular Mapping Catheters Through the FARADRIVE Sheath: Mitigation With a Liquid\u2010Sealed Insertion Method",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70492?af=R",
+    "doi": "10.1111/jce.70492",
+    "journal": "J Cardiovasc EP",
+    "date": "Sep 08, 2026",
+    "date_ts": 1788891914.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Iatrogenic air entrainment is a preventable embolic hazard in pulsed field ablation (PFA). Mapping catheter insertion through large\u2010bore PFA sheaths may be a vulnerable step, but the roles of catheter geometry and liquid\u2010sealed insertion are unclear.\n                  \n                  \n                    Methods and Results\n                    \n                      In an ex vivo saline tank model, ORION mini\u2010basket and SPIRAL circular mapping catheters were inserted through the FARADRIVE steerable sheath using saline infusion only, continuous manual suction, or liquid\u2010sealed insertion with a custom Adapter Sink. The primary endpoint was macroscopic air recovered distally after each trial of 10 insertions; the trial was the unit of analysis, and 0.2\u2009mL was the smallest quantitatively reportable volume. In 60 trials (600 insertions), mitigation strategy significantly affected air entrainment (Kruskal\u2013Wallis\n                      p\n                      \u2009&lt;\u20090.001). Under saline infusion alone, ORION generated more air than SPIRAL (23.86\u2009\u00b1\u20093.63 vs. 7.20\u2009\u00b1\u20092.09\u2009mL per 10 insertions; 2.39 vs. 0.72\u2009mL per insertion; adjusted\n                      p\n                      \u2009&lt;\u20090.001). Manual suction reduced entrainment to 3.96\u2009\u00b1\u20091.01 and 1.02\u2009\u00b1\u20090.45\u2009mL per 10 insertions (0.40 and 0.10\u2009mL per insertion), but residual air persisted. With liquid\u2010sealed insertion, no visually detectable or quantitatively measurable macroscopic air was observed in any trial.\n                    \n                  \n                  \n                    Conclusions\n                    Air entrainment varied according to mapping\u2010catheter geometry and mitigation strategy. Timed manual suction substantially reduced, but did not abolish, measurable air. Liquid\u2010sealed insertion was associated with no measurable macroscopic air within this ex vivo model, warranting further evaluation under physiologic pressure conditions and in clinical PFA workflows."
+  },
+  {
+    "title": "Effect of Right Ventricular Endocardial Versus Epicardial Leads on Outcomes in Patients With Tricuspid Valve Prosthesis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70482?af=R",
+    "doi": "10.1111/jce.70482",
+    "journal": "J Cardiovasc EP",
+    "date": "Sep 08, 2026",
+    "date_ts": 1788891713.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Endocardial right ventricular (EnRV) leads are described as a potential cause of native tricuspid valve regurgitation (TR). Need for cardiac pacing after tricuspid valve surgery is common, but little is known about the postoperative consequences of EnRV compared to epicardial right ventricular (EpiRV) lead implantation after tricuspid valve repair (TVr) or bioprosthetic tricuspid valve replacement (bTVR). This study aimed to assess TR, lead function, and risk of infection in patients with a tricuspid valve prosthesis followed by EnRV versus EpiRV lead implant.\n                  \n                  \n                    Methods\n                    We retrospectively reviewed all patients with RV lead post\u2010TVr or bTVR at our hospital between January 2000 and January 2022. These were divided into two groups: Group 1 included patients with EnRV lead and Group 2 included patients with EpiRV lead. The primary outcome was the change in TR and RV lead function at follow\u2010up. Level of TR was scored as 0 = none/trivial, 1 = mild, 2 = moderate, and 3 = severe. Pacing threshold change (\u0394V\u2009\u00b1\u2009SD), need for revision or extraction, and death at follow\u2010up were noted.\n                  \n                  \n                    Results\n                    \n                      Sixty\u2010five patients were identified: Group 1 included 53 patients (56% female, 81% atrial fibrillation, 94% TVr, and 6% bTVR) and Group 2 included 12 patients (67% female, 42% atrial fibrillation, 42% TVr, and 58% bTVR). In Group 2, 58% had a prior RV lead extracted intraoperatively due to lead\u2010related TR versus 0% in Group 1. In Group 1, the mean time from surgery to RV lead implant, last echocardiogram, and last device interrogation were 24, 52, and 72 months respectively, versus 0, 62, and 63 months for Group 2, respectively. TR worsened in Group 1 in 55% of TVr patients (mean 0.97 level). When compared to Group 2, worsening TR was significantly higher in Group 1 versus Group 2 (\n                      p\n                      \u2009=\u20090.028), particularly after TVr and not bTVR. Nine patients (18%) in Group 1 had worsening TR to moderate severity compared to 0 patients in Group 2. RV lead threshold significantly worsened in Group 2 versus Group 1 (55.5% vs. 3.7%,\n                      p\n                      \u2009=\u20090.003); RV threshold increased significantly by \u0394 1.18\u2009\u00b1\u20092.05\u2009V versus \u0394 0.11\u2009\u00b1\u20090.34\u2009V (\n                      p\n                      \u2009=\u20090.026). The average threshold at follow\u2010up in Group 2 was 2.02\u2009\u00b1\u20092.13\u2009V versus 0.74\u2009\u00b1\u20090.27\u2009V for Group 1 (\n                      p\n                      \u2009=\u20090.003). Lead extraction occurred in 8% of patients in Group 1 (25% endocarditis and 75% lead failure/malfunction) and 17% in Group 2 (100% endocarditis). There was a total of 29 deaths (Group 1: 43%, mean follow\u2010up of 72 months vs. Group 2: 50%, mean follow\u2010up of 63 months,\n                      p\n                      \u2009=\u20090.754).\n                    \n                  \n                  \n                    Conclusion\n                    Presence of EnRV lead after TV surgery correlated with a mild increase in TR after TVr but not bTVR. Compared to EnRV leads, EpiRV lead threshold increased significantly over time compared to EnRV leads. EnRV lead is a suitable approach after TVr or bTVR."
+  },
+  {
+    "title": "Large Language Models for PVC Localization: Proof of Concept or Clinical Tool?",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70499?af=R",
+    "doi": "10.1111/jce.70499",
+    "journal": "J Cardiovasc EP",
+    "date": "Sep 08, 2026",
+    "date_ts": 1788891549.0,
+    "tags": [
+      "AI"
     ],
     "hot": false
   },
@@ -900,6 +1026,19 @@
       "VT"
     ],
     "hot": false
+  },
+  {
+    "title": "COnCOmitaNt pulsed field ablation-based pUlmonary vein isolation and lefT atrial appendage closure: the COCONUT study",
+    "link": "https://doi.org/10.1093/europace/euag198",
+    "doi": "10.1093/europace/euag198",
+    "journal": "EP Europace",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Atrial fibrillation (AF) ablation by pulmonary vein isolation (PVI) and left atrial appendage closure (LAAC) are increasingly performed as standalone procedures. Given that PVI and LAAC share the same access route, a combined approach of pulsed field ablation (PFA)-based PVI and LAAC might be beneficial. The COCONUT study focused on safety, efficacy, and outcomes combining PVI by PFA with LAAC in one procedure.\n                  \n                  \n                    Methods\n                    This is a retrospective, multinational registry study. The primary endpoints were the following: (1) primary safety endpoint: serious adverse events; and (2) primary efficacy endpoint: success of PVI and LAA closure defined as the ability to isolate all pulmonary veins and the successful closure of the LAA. For secondary endpoints, peri-procedural data and follow-up data were collected.\n                  \n                  \n                    Results\n                    A total of 155 patients from 22 centres of nine European countries were treated by concomitant pentaspline catheter PFA-based PVI and LAAC. The mean CHA2DS2-VA score was 3.1 \u00b1 1.4. The primary efficacy endpoint was achieved at 97.4% with successful PVI at 100% and successful LAAC in 151/155 patients (97.4%). The primary safety endpoint was observed in 3/155 patients (1.9%). Transoesophageal echocardiography and/or CCTA 67 \u00b1 26 days after the procedure showed no device embolization and no device-related thrombus, 24/151 (15.9%) patients showed peri-device gaps of &amp;lt;5\u2005mm while gaps of &amp;gt;5\u2005mm have been observed in 3/151 (2.0%). Among 137/155 patients with available arrhythmia, a follow-up &amp;gt;6 months at 78.1% showed sinus rhythm.\n                  \n                  \n                    Conclusion\n                    In this large multicentre study, concomitant PFA-based AF ablation and LAA closure proved to be feasible, effective, and safe and overall procedure duration was short."
   },
   {
     "title": "Programmed ventricular stimulation for risk stratification in symptomatic athletes with nonischemic left ventricular scar and preserved ejection fraction",
@@ -6153,138 +6292,6 @@
     "date_ts": 1785288207.259104,
     "tags": [
       "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Multipolar radiofrequency ablation: Early experience with a novel approach to target intramural ventricular arrhythmias",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027468?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.259069,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Rate-dependent abrupt QRS changes during pace mapping caused by unidirectional block in scar-related ventricular tachycardia",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000548?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.259035,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Identifying the optimal site for intentional right atrial appendage perforation for pericardial CO<sub>2</sub> insufflation: A cardiac CT anatomic evaluation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001487?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.258993,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A novel technique for accessing the pericardial space",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712502747X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.258965,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "EpiCO<sub>2</sub> epicardial access: Effective, safe, and\u2026 fast?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001086?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.258931,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Line of block: A simple pacing maneuver to distinguish AV nodal from accessory pathway ventriculoatrial conduction",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000469?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.258898,
-    "tags": [
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "High-frequency areas as an electrophysiological clue for accessory pathway ablation: Characterizing spatial dissociation with peak frequency mapping",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001104?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.258863,
-    "tags": [
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Is left bundle branch area pacing the optimal pacing strategy for bradyarrhythmia with preserved ejection fraction? A network meta-analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027596?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.258828,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left bundle branch area pacing preserves left ventricular ejection fraction in patients with preserved systolic function: A comparison with right ventricular pacing and the influence of left bundle branch capture",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027961?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.258787,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Implantation of standard defibrillator leads in the left bundle branch area: Experience from an international cohort",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021582?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.258753,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Persistent right ventricular conduction delay and low injury current during left bundle branch pacing",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001402?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.258719,
-    "tags": [
-      "Devices"
     ],
     "hot": false
   }
