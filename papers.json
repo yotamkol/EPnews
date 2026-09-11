@@ -1,5 +1,56 @@
 [
   {
+    "title": "[Articles] Catheter ablation for symptomatic atrial fibrillation (PVI-SHAM-AF): a randomised, double-blind, sham-controlled, multicentre trial",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01558-8/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)01558-8",
+    "journal": "Lancet",
+    "date": "Sep 11, 2026",
+    "date_ts": 1789091455.112041,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND\nGuidelines recommend catheter ablation for symptom relief in patients with atrial fibrillation. The aim of this trial was to ascertain whether catheter ablation improves atrial fibrillation-related quality of life more than a sham procedure.\n\n\nMETHODS\nPVI-SHAM-AF was a double-blind, multicentre, randomised trial conducted at nine study sites in Germany and Poland. Patients aged 18 years or older with symptomatic paroxysmal or persistent atrial fibrillation were randomly assigned in a 2:1 ratio to catheter ablation or a sham procedure using an automated online randomisation system with variable block sizes, stratified by trial site. The primary endpoint was the between-group difference in change from baseline to 6 months in the Atrial Fibrillation Effect on the Quality-of-life Questionnaire (AFEQT) summary score. The prespecified primary analysis was done in the intention-to-treat population and included all randomly assigned patients, with missing data handled by multiple imputation. This trial is registered with ClinicalTrials.gov (NCT05119231) and 12-month follow-up is ongoing.\n\n\nFINDINGS\nBetween Nov 12, 2021, and Nov 3, 2025, 1199 patients were invited to participate in the study and 262 patients consented and were randomly assigned: 173 patients to catheter ablation and 89 to sham. The median age was 67 years (IQR 62-73); 134 (51%) were female and 128 (49%) were male. Median follow-up was 184 days (IQR 181-191). At 6 months, the mean AFEQT summary score had increased from 61\u00b73 (SD 20\u00b71) to 81\u00b71 (16\u00b76) in the catheter ablation group and from 59\u00b72 (19\u00b70) to 74\u00b79 (19\u00b75) in the sham control group. The Hodges-Lehmann estimate of the between-group difference in change was 2\u00b76 (95% CI -2\u00b77 to 8\u00b70; p=0\u00b736). One death occurred in each group; neither was considered related to the study procedure. Serious adverse events adjudicated as related or possibly related to the study procedure occurred in ten unique patients: six patients in the catheter ablation group and four patients in the sham control group. One of these was an ischaemic stroke occurred in the sham control group.\n\n\nINTERPRETATION\nCatheter ablation did not demonstrate superiority over a sham procedure for improving atrial fibrillation-related quality of life at 6 months.\n\n\nFUNDING\nHelios Gesundheit (F\u00f6rderung Leipziger Herzmedizin)."
+  },
+  {
+    "title": "[Comment] Rethinking success after atrial fibrillation ablation: when sham is more than a placebo",
+    "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01651-X/fulltext?rss=yes",
+    "doi": "10.1016/S0140-6736(26)01651-X",
+    "journal": "Lancet",
+    "date": "Sep 11, 2026",
+    "date_ts": 1789091455.111856,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Physiological Left Atrial Staging and the Risk of New-Onset Atrial Fibrillation in Hypertrophic Cardiomyopathy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726074383?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Sep 11, 2026",
+    "date_ts": 1789091454.757166,
+    "tags": [
+      "AFib",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical Outcomes of Conduction System versus Right Ventricular Pacing after TAVR: A Systematic Review and Meta\u2010Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70433?af=R",
+    "doi": "10.1111/pace.70433",
+    "journal": "PACE",
+    "date": "Sep 10, 2026",
+    "date_ts": 1789009839.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Permanent pacemaker implantation is required in up to 25% of patients after transcatheter aortic valve replacement (TAVR). Conventional right ventricular pacing (RVP) may promote dyssynchrony, whereas conduction system pacing (CSP) preserves physiological activation.\n                  \n                  \n                    Research Question\n                    Does CSP improve clinical, echocardiographic, electrical, and procedural outcomes compared with RVP in patients requiring pacing after TAVR?\n                  \n                  \n                    Methods\n                    We conducted a PROSPERO\u2010registered systematic review and meta\u2010analysis following PRISMA 2020. PubMed, Embase, Scopus, and ClinicalTrials.gov were searched through June 2026 for randomized and comparative observational studies of CSP versus RVP after TAVR. Random\u2010effects models generated risk ratios (RRs) or mean differences (MDs) with 95% confidence intervals (CIs). Prediction intervals, cumulative meta\u2010analysis, leave\u2010one\u2010out analyses, and GRADE assessment were performed.\n                  \n                  \n                    Results\n                    \n                      Six studies, one randomized trial and five observational studies, enrolled 675 patients (CSP,\n                      n\n                      = 344; RVP,\n                      n\n                      = 331). CSP was associated with fewer heart\u2010failure hospitalizations (RR 0.49, 95% CI 0.29\u20130.83;\n                      p\n                      = 0.017;\n                      \n                        I\n                        2\n                      \n                      = 5%) and shorter paced QRS duration (MD \u221231.05\u00a0ms, 95% CI \u221234.07 to \u221228.02;\n                      p\n                      &lt; 0.001;\n                      \n                        I\n                        2\n                      \n                      = 0%). All\u2010cause mortality, cardiovascular death, and change in left ventricular ejection fraction did not differ significantly. Implantation success was modestly lower with CSP (RR 0.91;\n                      p\n                      = 0.014).\n                    \n                  \n                  \n                    Conclusion\n                    CSP was associated with fewer heart\u2010failure hospitalizations and shorter paced QRS duration than RVP after TAVR. Evidence was predominantly observational, and no significant differences were demonstrated in mortality or change in left ventricular ejection fraction. The potential clinical relevance of CSP when a high ventricular pacing burden is anticipated remains plausible but was not directly demonstrated by the available data; adequately powered randomized trials are required before routine adoption."
+  },
+  {
     "title": "Ring-Like Scar Architecture and Arrhythmic Outcomes of Patients With Nondilated Left Ventricular Cardiomyopathy Treated With Ventricular Tachycardia Ablation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007450?dgcid=rss_sd_all",
     "doi": null,
@@ -1024,6 +1075,30 @@
     "date_ts": 1788229485.729481,
     "tags": [
       "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Residual Conduction across the Supero-Septal Ablation Line during Mitral-Isthmus Dependent Atrial Flutter",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.09.004",
+    "doi": "10.1016/j.hrcr.2026.09.004",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A Shark Fin Heart - A Case of Fulminant Myocarditis",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.09.003",
+    "doi": "10.1016/j.hrcr.2026.09.003",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Other"
     ],
     "hot": false
   },
@@ -6219,79 +6294,6 @@
     "date_ts": 1785288207.259314,
     "tags": [
       "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Secondhand tobacco smoke and risk of atrial fibrillation: An observational epidemiologic and gene-environment interaction analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027638?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.25928,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Blood pressure and the risk of stroke in young patients with atrial fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001074?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.259248,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A novel electrocardiographic risk score for sudden cardiac arrest in patients with atrial fibrillation: The SCAAF-ERS",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712600127X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.259214,
-    "tags": [
-      "AFib",
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Frailty in patients undergoing percutaneous left atrial appendage closure: The Frail-LAAC study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001049?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.25918,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Incidence, predictors, and outcomes of atrial fibrillation and stroke after heart transplantation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001438?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.259147,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The role of His-Purkinje system activation in preventing malignant reentrant ventricular arrhythmias during left bundle branch area pacing: Reverse electrical remodeling or restored left ventricular activation?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021430?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.259104,
-    "tags": [
-      "VT"
     ],
     "hot": false
   }

@@ -253,6 +253,8 @@
   "https://doi.org/10.1016/j.hrcr.2026.08.025",
   "https://doi.org/10.1016/j.hrcr.2026.08.026",
   "https://doi.org/10.1016/j.hrcr.2026.09.001",
+  "https://doi.org/10.1016/j.hrcr.2026.09.003",
+  "https://doi.org/10.1016/j.hrcr.2026.09.004",
   "https://doi.org/10.1093/eurheartj/ehag056",
   "https://doi.org/10.1093/eurheartj/ehag185",
   "https://doi.org/10.1093/eurheartj/ehag206",
@@ -1208,6 +1210,7 @@
   "https://onlinelibrary.wiley.com/doi/10.1111/pace.70430?af=R",
   "https://onlinelibrary.wiley.com/doi/10.1111/pace.70431?af=R",
   "https://onlinelibrary.wiley.com/doi/10.1111/pace.70432?af=R",
+  "https://onlinelibrary.wiley.com/doi/10.1111/pace.70433?af=R",
   "https://www.medrxiv.org/content/10.1101/2020.01.03.19015602",
   "https://www.nature.com/articles/s41591-026-04629-7",
   "https://www.nature.com/articles/s44161-026-00806-6",
@@ -1258,6 +1261,7 @@
   "https://www.sciencedirect.com/science/article/pii/S0735109726063588?dgcid=rss_sd_all",
   "https://www.sciencedirect.com/science/article/pii/S0735109726065770?dgcid=rss_sd_all",
   "https://www.sciencedirect.com/science/article/pii/S073510972606657X?dgcid=rss_sd_all",
+  "https://www.sciencedirect.com/science/article/pii/S0735109726074383?dgcid=rss_sd_all",
   "https://www.sciencedirect.com/science/article/pii/S0735109726076059?dgcid=rss_sd_all",
   "https://www.sciencedirect.com/science/article/pii/S1547527125023215?dgcid=rss_sd_all",
   "https://www.sciencedirect.com/science/article/pii/S1547527125023318?dgcid=rss_sd_all",
@@ -2641,5 +2645,7 @@
   "https://www.sciencedirect.com/science/article/pii/S2666501826005532?dgcid=rss_sd_all",
   "https://www.sciencedirect.com/science/article/pii/S2666501826005544?dgcid=rss_sd_all",
   "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00665-3/fulltext?rss=yes",
-  "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00747-6/fulltext?rss=yes"
+  "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00747-6/fulltext?rss=yes",
+  "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01558-8/fulltext?rss=yes",
+  "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01651-X/fulltext?rss=yes"
 ]
