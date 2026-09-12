@@ -1,5 +1,90 @@
 [
   {
+    "title": "Strength-Based Exercise Is Not Associated With Ventricular Arrhythmia in Arrhythmogenic Cardiomyopathy\u2014Towards Safer Exercise Options",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600767X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Sep 12, 2026",
+    "date_ts": 1789178165.917278,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Silent Coronary Vasospasm During Radiofrequency-Mode Cavotricuspid Isthmus Ablation Using a Focal Lattice-Tip Catheter",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007589?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Sep 12, 2026",
+    "date_ts": 1789178165.91724,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical Impact of Arrhythmias Detected by an Implantable Cardiac Monitoring Device With Real-Time Transmission Among Patients With Early Reduced Left Ventricular Ejection Fraction After ST-Segment Elevation Acute Myocardial Infarction: The TeVeO Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007541?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Sep 12, 2026",
+    "date_ts": 1789178165.917194,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Multimodality Imaging and Pace-Mapping Patterns in Patients With Cardiac Sarcoidosis and Ongoing Inflammation Undergoing Ventricular Tachycardia Ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007462?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Sep 12, 2026",
+    "date_ts": 1789178165.917154,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Frequency and Extent of Leadless Pacemaker Encapsulation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007553?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Sep 12, 2026",
+    "date_ts": 1789178165.917119,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed Field Ablation and the Bystander Vein of Marshall: Collateral Benefit?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006572?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Sep 12, 2026",
+    "date_ts": 1789178165.917077,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Ambulatory Surgery Centers in Cardiac Electrophysiology: Current Status and Future Directions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007413?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Sep 12, 2026",
+    "date_ts": 1789178165.916864,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "[Articles] Catheter ablation for symptomatic atrial fibrillation (PVI-SHAM-AF): a randomised, double-blind, sham-controlled, multicentre trial",
     "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01558-8/fulltext?rss=yes",
     "doi": "10.1016/S0140-6736(26)01558-8",
@@ -36,6 +121,45 @@
       "Genetics"
     ],
     "hot": false
+  },
+  {
+    "title": "TPI Function in Pulsed Field Ablation for Atrial Fibrillation: Hemolysis Control and Organ Protection",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70398?af=R",
+    "doi": "10.1111/pace.70398",
+    "journal": "PACE",
+    "date": "Sep 11, 2026",
+    "date_ts": 1789109769.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    In pulsed field ablation (PFA), adequate catheter\u2010tissue contact is crucial as it can effectively reduce the occurrence of hemolysis. Activation of the tissue proximity\u2010indicating (TPI) function ensures effective catheter\u2010tissue apposition. However, to date, no relevant clinical studies have been reported on the correlation between TPI function activation and hemolysis during PFA for atrial fibrillation (AF).\n                  \n                  \n                    Objectives\n                    To investigate in depth the correlation between the \u201cTPI\u201d function of catheters and postoperative hemolysis following pulsed field ablation (PFA) for atrial fibrillation (AF) from hematological and pathological perspectives.\n                  \n                  \n                    Methods\n                    By applying PFA treatment in both TPI\u2010ON and TPI\u2010OFF modes to isolated porcine atrial myocardial tissue and in situ atrial myocardium from six pigs, the effects on hemolysis were observed under these two scenarios.\n                  \n                  \n                    Results\n                    \n                      In vitro, plasma free hemoglobin (fHb) increased with the number of applications and was lower with TPI\u2010ON than with TPI\u2010OFF at matched application numbers (\n                      p\n                      &lt; 0.05). In vivo, both groups achieved transmural lesions with comparable lesion depth. Mean fHb values at 5 and 30\u00a0min were numerically lower with TPI\u2010ON, but the group\u2010by\u2010time interaction was not significant (\n                      p\n                      = 0.153). CK and CK\u2010MB increased transiently within 24\u00a0h, whereas urea and creatinine showed no consistent between\u2010group pattern; none of the four biochemical group\u2010by\u2010time interactions remained significant after Holm correction. Renal histology showed no irreversible parenchymal injury in either group.\n                    \n                  \n                  \n                    Conclusion\n                    In this preclinical model, use of the impedance\u2010based TPI function was associated with lower post\u2010PFA hemolysis while preserving acute transmural lesion formation. These findings support further validation of TPI\u2010guided catheter positioning in clinical studies."
+  },
+  {
+    "title": "Advanced Conduction Disease After Incident Heart Failure in Myotonic Dystrophy Type 1",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70421?af=R",
+    "doi": "10.1111/pace.70421",
+    "journal": "PACE",
+    "date": "Sep 11, 2026",
+    "date_ts": 1789109040.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Myotonic dystrophy type 1 (DM1) is associated with progressive cardiac conduction disease, heart failure (HF) and increased mortality. However, the association of incident HF with conduction disease and survival in DM1 is not well defined.\n                  \n                  \n                    Objective\n                    To determine whether adults with pre\u2010existing DM1 who develop incident HF experience higher rates of advanced conduction disease, permanent pacemaker or ICD/CRT\u2010D implantation, and mortality compared with matched HF controls without DM1.\n                  \n                  \n                    Methods\n                    We performed a retrospective cohort study using the TriNetX database to identify adults with incident HF and pre\u2010existing DM1 from 2013\u20132023. Patients with DM1 were propensity matched 1:1 to HF controls without DM1. The primary outcome was incident advanced conduction disease. Secondary outcomes included permanent pacemaker implantation, ICD or CRT\u2010D implantation, bundle branch block or intraventricular conduction delay, ventricular tachycardia or fibrillation, cardiac arrest, and all\u2010cause mortality. Outcomes were assessed over three years using risk ratios and time\u2010to\u2010event analyses.\n                  \n                  \n                    Results\n                    The cohort included 815 DM1 patients matched to 815 HF patients without DM1. Compared with matched HF controls, patients with DM1 had higher risks of advanced conduction disease (RR 2.45, 95% CI 1.61\u20133.74) and ICD/CRT\u2010D implantation (RR 2.56, 95% CI 1.24\u20135.30), as well as higher all\u2010cause mortality (HR 1.82, 95% CI 1.45\u20132.29). Permanent pacemaker implantation did not differ significantly between groups (RR 1.22, 95% CI 0.53\u20132.80). Bundle branch block or intraventricular conduction delay was more frequent in DM1, while ventricular tachyarrhythmias and cardiac arrest did not differ significantly between groups.\n                  \n                  \n                    Conclusion\n                    Among patients with incident HF, those with DM1 represent a distinctly high\u2010risk subgroup with substantially elevated rates of advanced conduction disease, ICD/CRT\u2010D implantation, and mortality compared with matched HF controls. These findings identify the intersection of DM1 and HF as a clinical state warranting closer rhythm surveillance and earlier electrophysiology assessment."
+  },
+  {
+    "title": "Colchicine initiated before radiofrequency-induced injury attenuates left atrial inflammation, fibrosis, and susceptibility for atrial fibrillation",
+    "link": "https://doi.org/10.1093/europace/euag242",
+    "doi": "10.1093/europace/euag242",
+    "journal": "EP Europace",
+    "date": "Sep 11, 2026",
+    "date_ts": 1789084800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background\n                    Atrial fibrillation (AF) is the most frequently diagnosed cardiac arrhythmia. Catheter ablation using radiofrequency cauterization (CA-RFC) performed in the left atrium (LA) aims to isolate electrical sources of AF. This intervention is accompanied by frequent AF recurrences affecting 10% of patients at 30 days and 50% at one-year post-procedure. It has been suggested that inflammation could contribute to AF-recurrence post-CA-RFC. Given its anti-inflammatory and cardioprotective properties, colchicine has been proposed as a potential treatment to prevent AF recurrence post-CA-RFC.\n                  \n                  \n                    Hypothesis\n                    RFC can lead to atrial fibrosis, inflammation, and new onset AF, which may be mitigated by colchicine.\n                  \n                  \n                    Methods\n                    Male and female Wistar rats (225-275g) were divided into four groups: Sham or RFC, with or without colchicine (0.25 mg/kg/8h, intraperitoneally) starting 8 hours before surgery until D1 post-procedure. Sham animals underwent surgery without RFC. Electrophysiology and echocardiography assessments were performed on days 1 (D1) and 3 (D3) post-RFC.\n                  \n                  \n                    Results\n                    Colchicine significantly lowered RFC-induced AF vulnerability, improved LA conduction velocity, reduced LA fibrosis, and attenuated LA inflammation post-procedure. Colchicine also prevented RFC-induced CD11c+ macrophages while promoting CD206+ recruitment in the LA.\n                  \n                  \n                    Conclusion\n                    Colchicine started before RFC may be an innovative strategy to prevent the development of LA arrhythmogenic substrate post-procedure."
   },
   {
     "title": "Clinical Outcomes of Conduction System versus Right Ventricular Pacing after TAVR: A Systematic Review and Meta\u2010Analysis",
@@ -6171,127 +6295,6 @@
     "journal": "Heart Rhythm",
     "date": "Jul 29, 2026",
     "date_ts": 1785288207.259653,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Catheter ablation vs antiarrhythmic drug therapy for first-line treatment of atrial fibrillation in United States clinical practice",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027584?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.259619,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of wait times for atrial fibrillation ablation on cumulative health care costs",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001542?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.259588,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Prophylactic pulmonary vein isolation in patients with typical atrial flutter and heart failure",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712502764X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.259556,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Unipolar voltage mapping to predict lesion durability during pulsed field ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000445?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.259525,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Association between early and late atrial tachyarrhythmia recurrences after pulsed field ablation for atrial fibrillation: A systematic review and meta-analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000536?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.259485,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sex differences in recurrence after linear ablation for persistent atrial fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001475?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.259455,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A novel predictive model for left atrial low-voltage areas in paroxysmal atrial fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001098?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.259424,
-    "tags": [
-      "AFib",
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of atrial fibrillation ablation on biatrial strain: Differences between left and right atrial function",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001177?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.259378,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsed field vs thermal ablation for atrial fibrillation: A Bayesian meta-analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126001505?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.259347,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Hemolysis and renal safety of pulsed-field vs thermal ablation for atrial fibrillation: A systematic review and meta-analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000457?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.259314,
     "tags": [
       "AFib"
     ],
