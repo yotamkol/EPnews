@@ -12,6 +12,32 @@
     "hot": false
   },
   {
+    "title": "Left Bundle Branch Capture During Left Bundle Branch Area Pacing: A Diagnostic Accuracy Systematic Review",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70435?af=R",
+    "doi": "10.1111/pace.70435",
+    "journal": "PACE",
+    "date": "Sep 12, 2026",
+    "date_ts": 1789207795.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Left bundle branch area pacing (LBBAP) does not necessarily achieve true left bundle branch (LBB) capture, and misclassifying left ventricular septal pacing (LVSP) as LBB capture may bias procedural decisions and outcome interpretation. We evaluated the diagnostic accuracy of electrocardiographic (ECG) and electrophysiological criteria for confirming true LBB capture and distinguishing it from LVSP or deep septal pacing.\n                  \n                  \n                    Methods\n                    Following PRISMA\u2010DTA, we searched PubMed/MEDLINE, CENTRAL, the Cochrane Database of Systematic Reviews, and Google Scholar from inception to July 8, 2026. Eligible studies evaluated V6 R\u2010wave peak time (V6RWPT), V6\u2013V1 interpeak interval, aVL R\u2010wave peak time, morphologic criteria, combined ECG criteria, or ECG/electrogram algorithms against a stated reference standard. Risk of bias was assessed with QUADAS\u20102, emphasizing circularity.\n                  \n                  \n                    Results\n                    Of 332 records, 15 original studies were included; eight formed the primary diagnostic accuracy evidence set, of which four provided extractable criterion\u2010level 2\u00a0\u00d7\u00a02 data for exploratory pooling. The V6\u2013V1 interpeak interval and combined ECG criteria showed the most consistent rule\u2010in performance, whereas fixed V6RWPT thresholds were susceptible to baseline conduction disease and pacing\u2010site variability. ECG and electrogram (EGM) stepwise algorithms achieved the highest specificity but had limited applicability owing to heterogeneous reference standards.\n                  \n                  \n                    Conclusions\n                    The evidence supports a stepwise approach rather than any single ECG cutoff. High\u2010specificity ECG criteria aid rule\u2010in confirmation, whereas dynamic output\u2010dependent transitions and EGM\u2010based adjudication remain essential when ECG criteria are equivocal. Standardized definitions and reference standards are needed for future LBBAP trials."
+  },
+  {
+    "title": "A Reassessment of Prophylactic Antibiotics in Low\u2010Infection\u2010Risk Electrophysiology Procedures",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70427?af=R",
+    "doi": "10.1111/pace.70427",
+    "journal": "PACE",
+    "date": "Sep 12, 2026",
+    "date_ts": 1789207670.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  Certain electrophysiology (EP) procedures are associated with minimal tissue disruption and do not involve permanent transvenous leads. As a result, these interventions carry a lower risk of device\u2010 or procedure\u2010related infection. These procedures include placement of implantable cardiac monitors, leadless pacemakers, and left atrial appendage occlusion devices, as well as catheter ablation procedures in patients with preexisting cardiac implantable electronic device or prosthetic valve. Due to lack of clear guidelines regarding the use of prophylactic antibiotics in these procedures, clinical practice is variable. Therefore, we conducted a review of literature to evaluate the practice of prophylactic antibiotic administration and infection rates in low\u2010infection\u2010risk EP procedures. Available data indicate that periprocedural infection rates are low regardless of antibiotic use. Due to their observational design and limited power, existing studies are, however, insufficient to determine the benefit of routine antibiotic administration. At the same time, unnecessary antibiotic use may contribute to antimicrobial resistance and disrupt the patient's gut microbiome. Adequately powered randomized controlled trials are needed to determine whether routine prophylactic antibiotic administration is justified for low\u2010infection\u2010risk EP procedures."
+  },
+  {
     "title": "Strength-Based Exercise Is Not Associated With Ventricular Arrhythmia in Arrhythmogenic Cardiomyopathy\u2014Towards Safer Exercise Options",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600767X?dgcid=rss_sd_all",
     "doi": null,
@@ -1211,6 +1237,31 @@
     "date_ts": 1788229485.729481,
     "tags": [
       "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Late arrhythmias following Fontan completion: insights from a Korean Multicentre Fontan Registry of over 1000 extracardiac conduit surgeries",
+    "link": "https://doi.org/10.1093/europace/euag123",
+    "doi": "10.1093/europace/euag123",
+    "journal": "EP Europace",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Awareness of long-term arrhythmia complications after Fontan surgery is increasing, but the impact of surgical type and risk factors on arrhythmia development remain incompletely understood.\n                  \n                  \n                    Methods and results\n                    We retrospectively analysed 1492 Fontan patients from the Korean multicentre registry (1979\u20132019), categorized into atriopulmonary connection (AP) (n = 106), lateral tunnel (LT) (n = 234), and extracardiac conduit (ECC) (n = 1143) with a median follow-up of 14 years. Arrhythmias occurred in 13.3% of patients at a median age of 17.3 years (tachyarrhythmias 9.9%, bradyarrhythmias 6.8%). At 20 years, freedom from any arrhythmia, tachyarrhythmia, and bradyarrhythmia was 82.5%, 86.9%, and 90.5%, respectively. On multivariable analysis, AP (HR 5.89, 95% CI 3.75\u20139.25; P &amp;lt; 0.001) and LT (HR 2.85, 95% CI 1.93\u20134.21; P &amp;lt; 0.001) were associated with a higher risk of arrhythmia compared with ECC. Older age at Fontan surgery also independently increased arrhythmia risk (HR 1.06, 95% CI 1.03\u20131.10; P &amp;lt; 0.001). Compared with ECC Fontan, LT Fontan and AP Fontan were associated with a progressively higher risk of both tachyarrhythmias (HR 2.99 and 8.20, respectively) and bradyarrhythmias (HR 2.63 and 5.47, respectively; all P &amp;lt; 0.001). The all-cause mortality rate and Fontan failure rate were 9.3% (0.69 per 100 patient-years) and 20.0% (1.61 per 100 patient-years), respectively. Late-onset arrhythmias were associated with an increased risk of mortality and Fontan failure (P = 0.003 and P &amp;lt; 0.001).\n                  \n                  \n                    Conclusion\n                    This large, long-term registry shows that ECC Fontan confers a lower arrhythmia risk than LT or AP, and arrhythmias serve as a marker of Fontan failure and mortality in post-Fontan patients."
+  },
+  {
+    "title": "The latest Fontan paradox: when less is more (difficult)",
+    "link": "https://doi.org/10.1093/europace/euag239",
+    "doi": "10.1093/europace/euag239",
+    "journal": "EP Europace",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Other"
     ],
     "hot": false
   },
@@ -6249,54 +6300,6 @@
     "date_ts": 1785288207.259838,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Expanding the indications for flecainide: Good idea or CAST reprise?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125029236?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.259807,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Association between amiodarone and thyrotoxicosis in patients with atrial fibrillation and hypothyroidism",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027444?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.259773,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Risk of syncope and permanent pacing with rate vs rhythm control of atrial fibrillation: A systematic review and meta-analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027559?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.259739,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of sodium-glucose cotransporter 2 inhibitors on recurrence and cardiovascular outcomes after catheter ablation for atrial fibrillation in patients with chronic kidney disease",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125027560?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.259698,
-    "tags": [
-      "AFib"
     ],
     "hot": false
   }
