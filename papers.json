@@ -1,5 +1,17 @@
 [
   {
+    "title": "High-grade atrioventricular block in a post-stroke population",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005581?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Sep 16, 2026",
+    "date_ts": 1789524379.666096,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Letter by Xu et al Regarding Article, \u201cDapagliflozin to Reduce Early Recurrence After Catheter Ablation for Atrial Fibrillation: The DARE-AF Randomized Clinical Trial\u201d",
     "link": "https://doi.org/10.1161/circulationaha.126.080251",
     "doi": "10.1161/circulationaha.126.080251",
@@ -22,6 +34,32 @@
       "AFib"
     ],
     "hot": false
+  },
+  {
+    "title": "Pulsed Field Ablation for Perimitral Atrial Flutter With Involvement of the Vein of Marshall: A Case Report",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70419?af=R",
+    "doi": "10.1111/pace.70419",
+    "journal": "PACE",
+    "date": "Sep 14, 2026",
+    "date_ts": 1789387870.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Perimitral atrial flutter (PMF) involving the vein of Marshall (VOM) remains a therapeutic challenge. The role of pulsed field ablation (PFA) in the treatment of PMF is unclear.\n                  \n                  \n                    Case presentation\n                    A 65\u2010year\u2010old male was admitted with a 7\u2010year history of palpitations. He had undergone three previous radiofrequency ablation procedures for atrial fibrillation and atrial flutter (AFL). He was readmitted due to recurrent AFL, with an electrocardiogram indicating atypical AFL. A three\u2010dimensional electrophysiological activation map of the left atrium revealed a macro\u2010reentrant circuit consistent with clockwise PMF. This was characterized by gaps in color isochrones and a total mapped activation time that was shorter than the tachycardia cycle length. The earliest activation was observed at the CS 5\u20136 electrodes, where a distinct double atrial potential was also recorded. These findings suggested an epicardial connection from the VOM to the circuit. PFA using the VARIPULSE PFA was successfully used to terminate the AFL at the VOM's endocardial insertion site into the left atrium.\n                  \n                  \n                    Conclusion\n                    In our case, PFA appears to be a safe and effective strategy for targeting the endocardial insertion site of the VOM for VOM\u2010mediated PMF."
+  },
+  {
+    "title": "Effect of Ethanol Infusion via the Vein of Marshall on Atrial Tachyarrhythmia With Mitral Valve Surgical History",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70429?af=R",
+    "doi": "10.1111/pace.70429",
+    "journal": "PACE",
+    "date": "Sep 14, 2026",
+    "date_ts": 1789387535.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background:\n                    It is unclear whether ethanol infusion via the vein of Marshall (EIVOM) could help block mitral isthmus conduction and improve prognosis in atrial fibrillation/tachycardia (AF/AT) patients with mitral valve (MV) surgical history.\n                  \n                  \n                    Methods:\n                    This was a multicenter, retrospective, propensity\u2010matched study from January 2022\u2013April 2024. AF/AT patients with MV surgical history were divided into two groups according to ablation strategies: catheter ablation (CA) alone or combined with EIVOM. Efficacy and safety outcomes were analyzed.\n                  \n                  \n                    Results:\n                    \n                      53 patients underwent CA plus EIVOM (49 patients had successful EIVOM), and 53 patients were selected through the population who underwent CA alone through propensity score matching. There was no significant difference in baseline characteristics between the two groups. Bidirectional conduction block was achieved in 42 patients (79.2%) for the mitral isthmus in CA+EIVOM group, which was significantly higher than that in CA alone group (30, 56.6%) (\n                      p\u00a0\n                      =\u00a00.013). After 12 months, 36 of 53 patients (67.9%) assigned to undergo CA plus EIVOM and 24 of 53 patients (45.3%) assigned to undergo CA alone remained free from atrial arrhythmias without taking antiarrhythmic drugs. The HR was 0.53 (95% CI, 0.30\u20130.95;\n                      p\u00a0\n                      =\u00a00.029). The incidence of complications was similar between the two groups (CA + EIVOM: 4, 7.5%\u00a0vs. CA: 3, 5.7%;\n                      p\u00a0\n                      =\u00a01.000).\n                    \n                  \n                  \n                    Conclusions:\n                    Among AF/AT patients with MV surgical history, addition of EIVOM to CA, compared with CA alone, significantly improved the blocking rate of mitral isthmus, as well as freedom from atrial arrhythmias within 12 months."
   },
   {
     "title": "Deciphering an Unexpectedly Small Change in VA Interval With Parahisian Pacing",
@@ -1325,6 +1363,82 @@
     "date_ts": 1788229485.729481,
     "tags": [
       "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Skin Sympathetic Nerve Activity After Pulsed Field Pulmonary Vein Isolation for Paroxysmal Atrial Fibrillation: The NEU-PFA Study",
+    "link": "https://doi.org/10.1161/circep.126.015148",
+    "doi": "10.1161/circep.126.015148",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Long-Term Efficacy of Catheter Ablation for Reentrant Atrial Tachycardia in Dextro-Transposition of the Great Arteries Patients After Atrial Switch",
+    "link": "https://doi.org/10.1161/circep.125.014811",
+    "doi": "10.1161/circep.125.014811",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "AFib",
+      "SVT"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    Reentrant atrial tachycardias (ATs) are frequent after atrial switch for dextro-transposition of the great arteries and are associated with adverse prognosis. Catheter ablation is first-line therapy, yet long-term outcomes and predictors of recurrence remain poorly defined. Our aim was to characterize induced AT circuits, describe acute and long-term catheter ablation outcomes, and identify recurrence predictors in dextro-transposition of the great arteries.\n                  \n                  \n                    METHODS:\n                    Single-center ambispective cohort of consecutive adults with dextro-transposition of the great arteries undergoing a first AT ablation (2003\u20132025). Arrhythmias were mechanically induced with decremental pacing or extra stimuli. Acute success was defined as elimination of all clinical and reproducibly inducible tachycardias (cycle length &gt;200 ms), with bidirectional cavotricuspid isthmus block when applicable. Recurrence was defined as any documented AT &gt;30 seconds.\n                  \n                  \n                    RESULTS:\n                    \n                      Thirty-three patients underwent 46 procedures. During the index procedure, 66 ATs were induced; 51 (83%) were characterized: 32 (63%) were cavotricuspid isthmus-dependent and 11 (22%) incisional. Cavotricuspid isthmus block was achieved in 84%; acute noninducibility in 73%. Median follow-up was 7.0 years (interquartile range, 2.5\u201310.4). Overall, 15 patients (45.5%) recurred; 1-year freedom was 75%. Recurrence was strongly associated with failed or uncertain acute efficacy, severely impaired systemic right ventricular fractional shortening \u226422%, prolonged PR interval (220 ms), and greater number of inducible ATs (all\n                      P\n                      &lt;0.05). In multivariable modelling, these 4 variables yielded an optimism-corrected C-index of 0.85. Eleven (33%) underwent redo ablation; 8 achieved acute noninducibility, and only 3 recurred thereafter.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    In dextro-transposition of the great arteries postatrial switch, cavotricuspid isthmus-dependent flutter is most common, but scar-related circuits are frequent. Catheter ablation is safe and acutely effective, but long-term recurrence remains substantial. Failed acute efficacy, severely impaired systemic right ventricle contractility, prolonged PR interval, and multiple inducible ATs identify patients at highest risk and may guide follow-up and referral for early repeat ablation."
+  },
+  {
+    "title": "When Science Is Sidelined: Implications of US Vaccine Policy Rollbacks for Electrophysiology and Cardiovascular Health",
+    "link": "https://doi.org/10.1161/circep.126.015006",
+    "doi": "10.1161/circep.126.015006",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sodium-channel blocker challenge unmasks Brugada syndrome in a 54-year-old male presenting with recurrent syncope and chronic cannabis use",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.06.023",
+    "doi": "10.1016/j.hrcr.2026.06.023",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "Brugada syndrome (BrS) is an inherited arrhythmogenic channelopathy that predisposes structurally normal hearts to polymorphic ventricular tachycardia, ventricular fibrillation, and sudden cardiac death.1 The diagnosis hinges on the presence of a coved-type (Type 1) ST-segment elevation of \u22652 mm followed by a negative T wave in one or more right precordial leads (V1\u2013V2), either spontaneous or provoked. A Type 2 (saddleback) pattern\u2014J-point elevation \u22652 mm with ST-segment elevation \u22651 mm\u2014is suggestive but non-diagnostic in isolation, and in symptomatic patients requires unmasking by a sodium channel blocker challenge to establish the diagnosis."
+  },
+  {
+    "title": "Perisinus nodal atrial pacing at the right anterosuperior site using a leadless atrial pacemaker: A case series",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.01.020",
+    "doi": "10.1016/j.hrcr.2026.01.020",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Leadless pacemakers were developed to overcome the limitations and vascular complications associated with transvenous pacemaker leads,1 and dual-chamber leadless pacemakers have recently become available. The Aveir DR system (Abbott, Abbott Park, IL) consists of separate leadless pacemakers implanted in the right atrium and right ventricle, enabling individualized programming through i2i communication.2 The Aveir DR i2i study3 demonstrated the feasibility and safety of implantation, and subsequent follow-up studies have confirmed the reliability and safety of the communication system."
+  },
+  {
+    "title": "Transvenous Defibrillator Coil in the Coronary Sinus Combined with Conduction System Pacing: Retrospective review of Four Patients",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.09.002",
+    "doi": "10.1016/j.hrcr.2026.09.002",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Other"
     ],
     "hot": false
   },
@@ -6195,114 +6309,6 @@
     "date_ts": 1785288207.445883,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Full Issue PDF",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006213?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.445849,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "In Memoriam: Eugene Braunwald, MD",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26004639?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.445783,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "POlysaccharide haemostat for WounD haEmatomas Reduction in Cardiac Implantable Electronic Devices procedures: Rationale and Design of the POWDER-CIED trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003314?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.361505,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "First 1000 Cases of Dual-Energy Lattice-Tip Ablation for Atrial Fibrillation: Procedural Experience, Clinical Practice Impact, And Cost Analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026172?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.260236,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left Ventricular Lateral Wall Activation Differs Between Various Conduction Patterns and Septal Capture Types: Insights from Coronary Sinus Lead Measurements.",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026160?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.260197,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Editorial Board",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025476?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.260172,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Table Of Content",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025488?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.260147,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "When the pericardial space became accessible for electrophysiologists: The figure that changed ventricular tachycardia ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024793?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.260112,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Can oral anticoagulants be safely discontinued after atrial fibrillation ablation? A systematic review and meta-analysis of reconstructed time-to-event data",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000032?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Jul 29, 2026",
-    "date_ts": 1785288207.260075,
-    "tags": [
-      "AFib"
     ],
     "hot": false
   }
