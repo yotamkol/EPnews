@@ -1,5 +1,54 @@
 [
   {
+    "title": "cBIN1 Gene Therapy Restores Ventricular Synchrony in a Pre-Clinical Model of Ischemic Heart Failure",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027736?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 18, 2026",
+    "date_ts": 1789696612.279417,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Diagnostic and therapeutic challenges in Andersen-Tawil syndrome",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027943?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 18, 2026",
+    "date_ts": 1789696612.279381,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "High-Intensity Ultrasound Catheter Ablation: Transmural Ventricular Lesions Through Transducer-Tissue Contact Sensing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027712?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 18, 2026",
+    "date_ts": 1789696612.279217,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Tailoring the Atrioventricular Interval During Left Bundle Branch Pacing: Playing With Fusion",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70413?af=R",
+    "doi": "10.1111/pace.70413",
+    "journal": "PACE",
+    "date": "Sep 17, 2026",
+    "date_ts": 1789618519.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Optimization of biventricular pacing for cardiac resynchronization therapy (CRT) with fusion (fusion\u2010optimized intervals method) has been shown to improve left ventricular remodeling. However, information on programming the atrioventricular (AV) interval during left bundle branch pacing (LBBP) is scarce.\n                  \n                  \n                    Objective\n                    Assess with electrocardiographic imaging (ECGI) the electrical benefit of optimization of the AV interval during LBBP.\n                  \n                  \n                    Methods\n                    Retrospective analysis of prospectively collected data. Pilot study including patients who received LBBP with CRT indication, normal AV conduction, sinus rhythm, and left bundle branch block. ECGI was used to obtain non\u2010invasive activation maps, ventricular activation times, and QRS widths during the optimization of the AV interval.\n                  \n                  \n                    Results\n                    A total of 10 patients who received LBBP were included. Median age was 62 years (57\u201374 years), 40% were women, 20% had ischemic cardiomyopathy, and baseline LVEF was 29% (23%\u201336%). The baseline median QRS duration was 178\u00a0ms (168\u2013187\u00a0ms), with a left ventricular activation time (LVAT) of 99\u00a0ms (90\u2013109\u00a0ms), a right ventricular activation time (RVAT) of 42\u00a0ms (34\u201371\u00a0ms), and a total ventricular activation time (TAT) of 111\u00a0ms (105\u2013131\u00a0ms).\n                  \n                  \n                    \n                    A non\u2010tailored AV programming showed a QRS measured from intrinsic deflection of 142\u00a0ms (137\u2013149\u00a0ms); when a tailored AV was programmed, the median QRS decreased to 124\u00a0ms (116\u2013130\u00a0ms). Ventricular activation times showed shortening with a tailored approach.\n                  \n                  \n                    Conclusion\n                    AV interval adjustment during left bundle branch pacing may result in better resynchronization."
+  },
+  {
     "title": "Right Atrial Cardiomyopathy Assessed by Late Gadolinium Enhancement Cardiac MRI Following Pulmonary Vein Isolation in Patients with Atrial Fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S154752712602775X?dgcid=rss_sd_all",
     "doi": null,
@@ -1550,6 +1599,57 @@
     "date_ts": 1788229485.729481,
     "tags": [
       "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Response to the letter regarding \u2018Outcomes of functional ventricular tachycardia ablation vs. medical therapy in Chagas cardiomyopathy patients with implantable cardioverter-defibrillators: a competing risks analysis\u2019",
+    "link": "https://doi.org/10.1093/europace/euag175",
+    "doi": "10.1093/europace/euag175",
+    "journal": "EP Europace",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "VT",
+      "Devices",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Amiodarone dose to treat ventricular tachycardia in Chagas cardiomyopathy",
+    "link": "https://doi.org/10.1093/europace/euag142",
+    "doi": "10.1093/europace/euag142",
+    "journal": "EP Europace",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A Superior Solution: Pulmonary Vein Isolation and Linear Ablation via the Right Internal Jugular Approach Using a Lattice-Tip Catheter in Patients with Inferior Vena Cava Occlusion",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.09.006",
+    "doi": "10.1016/j.hrcr.2026.09.006",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Improvement of Exercise Oscillatory Ventilation Following Rhythm Control in Heart Failure with Reduced Ejection Fraction with Persistent Atrial Fibrillation",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.09.007",
+    "doi": "10.1016/j.hrcr.2026.09.007",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "AFib"
     ],
     "hot": false
   },
@@ -6214,104 +6314,6 @@
     "date_ts": 1785542400.0,
     "tags": [
       "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical Significance of Ultra-Low-Amplitude Electrograms During Lattice-Tip Atrial Mapping",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.07.024",
-    "doi": "10.1016/j.hrcr.2026.07.024",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Aug 01, 2026",
-    "date_ts": 1785542400.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Catheter Ablation of Premature Ventricular Complexes Originating from Papillary Muscles Using Dual-Energy Lattice-tip Focal Catheter",
-    "link": "https://doi.org/10.1093/europace/euag195",
-    "doi": "10.1093/europace/euag195",
-    "journal": "EP Europace",
-    "date": "Aug 01, 2026",
-    "date_ts": 1785542400.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Transient Defibrillation Threshold Elevation Associated With Air in the Generator Pocket After Extravascular ICD Implantation",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.07.022",
-    "doi": "10.1016/j.hrcr.2026.07.022",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Aug 01, 2026",
-    "date_ts": 1785542400.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Phenotypic Overlap between Long QT Syndrome Type 1 and Brugada Syndrome: Possible Insights into Monogenic and Polygenic Architecture",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.07.020",
-    "doi": "10.1016/j.hrcr.2026.07.020",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Aug 01, 2026",
-    "date_ts": 1785542400.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reconsidering routine switching from warfarin to direct oral anticoagulants in frail elderly patients with atrial fibrillation stable on warfarin",
-    "link": "https://doi.org/10.1093/eurheartj/ehag557",
-    "doi": "10.1093/eurheartj/ehag557",
-    "journal": "European Heart Journal",
-    "date": "Jul 31, 2026",
-    "date_ts": 1785456000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Tricuspid Valve Regurgitation Following Stylet Lumen\u2010Less Active Fixation Lead or Leadless Pacemaker Implantation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70372?af=R",
-    "doi": "10.1111/pace.70372",
-    "journal": "PACE",
-    "date": "Jul 31, 2026",
-    "date_ts": 1785481894.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Tricuspid valve regurgitation (TR) progression is a recognized complication of cardiac\u2010implantable electronic devices. Implanting a leadless pacemaker (LLPM) or using a 4.1Fr stylet lumen\u2010less transvenous lead may lower the risk of TR progression compared to conventional 5\u20137Fr transvenous leads; however, the optimal strategy remains unclear. This study aimed to evaluate TR progression following those two approaches.\n                  \n                  \n                    Methods\n                    \n                      A retrospective comparison was conducted between patients receiving an LLPM (\n                      n\n                      = 27) and those implanted with a 4.1Fr transvenous right ventricular lead (\n                      n\n                      = 190). The primary outcome was the prevalence of significant TR, defined as moderate or severe TR, at 12 months post\u2010implantation. The secondary outcome was the incidence of TR progression, defined as a worsening of \u22651 grade between baseline and 12 months post\u2010implantation.\n                    \n                  \n                  \n                    Results\n                    \n                      Baseline TR severity did not differ significantly between the two groups. At the 12\u2010month follow\u2010up, the prevalence of significant TR remained comparable between the LLPM and 4.1Fr lead groups (15%\u00a0vs. 12%, p = 0.54). While most patients in both groups experienced either no change or a one\u2010grade worsening in TR severity, the LLPM group demonstrated a significantly higher incidence of TR progression compared to the 4.1Fr lead group (33%\u00a0vs. 16%,\n                      p\n                      = 0.034). Multivariate analysis identified left ventricular ejection fraction &lt;50% as an independent predictor of TR progression (odds ratio 3.05, 95% confidence interval 1.08\u20138.61,\n                      p\n                      = 0.036).\n                    \n                  \n                  \n                    Conclusions\n                    Implantation of a 4.1Fr lead in the right ventricular septum may be an optimal strategy to minimize the risk of TR progression following pacemaker implantation."
-  },
-  {
-    "title": "First Reported Experience Using a Lattice-Tip Dual-Energy Catheter Within the Coronary Sinus to Achieve Bidirectional Mitral Annular Block",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003491?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jul 31, 2026",
-    "date_ts": 1785462213.605594,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Predictors of Appropriate ICD Therapy in Noncompaction Cardiomyopathy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600348X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Jul 31, 2026",
-    "date_ts": 1785462213.60539,
-    "tags": [
-      "Devices",
-      "Genetics"
     ],
     "hot": false
   }
