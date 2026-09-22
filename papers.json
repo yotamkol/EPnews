@@ -1,5 +1,139 @@
 [
   {
+    "title": "Response by Oldgren and Wallentin to Letter Regarding Article, \u201cBiomarker-Based ABC-AF Risk Scores for Personalized Treatment to Reduce Stroke or Death in Atrial Fibrillation: A Registry-Based, Multicenter, Randomized, Controlled Study\u201d",
+    "link": "https://doi.org/10.1161/circulationaha.126.080165",
+    "doi": "10.1161/circulationaha.126.080165",
+    "journal": "Circulation",
+    "date": "Sep 22, 2026",
+    "date_ts": 1790035200.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Letter by Zhao et al Regarding Article, \u201cBiomarker-Based ABC-AF Risk Scores for Personalized Treatment to Reduce Stroke or Death in Atrial Fibrillation: A Registry-Based, Multicenter, Randomized, Controlled Study\u201d",
+    "link": "https://doi.org/10.1161/circulationaha.125.078733",
+    "doi": "10.1161/circulationaha.125.078733",
+    "journal": "Circulation",
+    "date": "Sep 22, 2026",
+    "date_ts": 1790035200.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Patterns of Reconnection at Redo Ablation after Pulsed-Field Ablation for Atrial Fibrillation (REDO-PFA)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005672?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Sep 22, 2026",
+    "date_ts": 1790043140.24738,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Non-Invasive Median Nerve Stimulation with a Wearable Stimulator to Reduce Atrial Arrhythmia Recurrence after Atrial Fibrillation Ablation: The <em>NEUROPULSE</em> Pilot",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027773?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 22, 2026",
+    "date_ts": 1790043140.154303,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Electrical Stability and Capture Evolution with a Leadless Pacemaker for Conduction System Pacing: 6-Month Follow-up of <em>LEAP2</em>",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027657?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 22, 2026",
+    "date_ts": 1790043140.154264,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Quantitative CT Lead Localization Reveals Proximal Left Bundle Targeting Facilitates Superior Physiologic Pacing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027761?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 22, 2026",
+    "date_ts": 1790043140.154219,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "STAR Apollo\u2122 Map-Guided Redo Ablation for Recurrent Persistent Atrial Fibrillation after Prior Pulmonary Vein Isolation: Procedural Feasibility, Safety, and Twelve-Month Rhythm Outcomes from a Prospective Multicenter Study (NCT05826665)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027670?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 22, 2026",
+    "date_ts": 1790043140.154159,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Integrated Hemodynamic Sensing, Electrical Sensing, and Ventricular Pacing from a Novel Substernal Lead: An Acute Human Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027505?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 22, 2026",
+    "date_ts": 1790043140.153951,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Atrial fibrillation and sudden cardiac death: mechanisms, management, and new therapeutic targets",
+    "link": "https://doi.org/10.1093/eurheartj/ehag757",
+    "doi": "10.1093/eurheartj/ehag757",
+    "journal": "European Heart Journal",
+    "date": "Sep 21, 2026",
+    "date_ts": 1789948800.0,
+    "tags": [
+      "AFib",
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Electrophysiological and Histological Comparisons of Left Bundle Branch Pacing Versus Left Ventricular Septal Pacing in Canine Self-Controlled Models",
+    "link": "https://doi.org/10.1093/europace/euag267",
+    "doi": "10.1093/europace/euag267",
+    "journal": "EP Europace",
+    "date": "Sep 21, 2026",
+    "date_ts": 1789948800.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sphingomyelin as a key negative mediator in atrial fibrillation\n                    <i>via</i>\n                    lipid pro\ufb01ling analysis and functional identi\ufb01cation",
+    "link": "https://doi.org/10.1093/europace/euag270",
+    "doi": "10.1093/europace/euag270",
+    "journal": "EP Europace",
+    "date": "Sep 21, 2026",
+    "date_ts": 1789948800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Atrial fibrillation (AF) has emerged as one of the most prevalent cardiac arrhythmias globally, with its incidence continuously rising, thereby elevating it to a major public health concern. The heart is known for its high lipid content, and disorders or abnormalities in lipid metabolism are frequently associated with cardiovascular diseases. This study aims to investigate the regulatory roles of lipids in AF.\n                  \n                  \n                    Methods and results\n                    Using tree-based ensemble learning-assisted lipidomics, sphingomyelin was identified as a key differential metabolite and found to be significantly reduced in AF patients. Exogenous supplementation of sphingomyelin significantly attenuated Ach-CaCl2- and Ang II-induced AF, fibrosis, and inflammation in mice. Furthermore, decreased sphingomyelin levels were attributed to increased activity of sphingomyelin phosphodiesterases (SMPDs) under AF conditions. Mechanistically, RNA-Seq analysis demonstrated that sphingomyelin inhibits AF-induced activation of the Rap1 signaling pathway, a finding corroborated by overexpression and knockdown of RAP1 in vivo.\n                  \n                  \n                    Conclusion\n                    Together, these findings highlight the therapeutic potential of sphingomyelin and SMPD inhibitors in mitigating AF through inhibition of the Rap1 signaling pathway, thereby establishing the targeting of sphingomyelin metabolism as a viable and novel treatment strategy for AF."
+  },
+  {
     "title": "Quantitative Signal Processing to Distinguish Juvenile Anterior T-Wave Inversion From ARVC-Related T-Wave Inversion",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008352?dgcid=rss_sd_all",
     "doi": null,
@@ -2648,6 +2782,30 @@
     "date_ts": 1788229485.729481,
     "tags": [
       "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Delayed Septal Perforation of Left Bundle Branch Pacing Lead Causing Severe Mitral Regurgitation",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.09.012",
+    "doi": "10.1016/j.hrcr.2026.09.012",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Letter to the Editor: Acute intraventricular obstruction: An underrecognized trigger of pacemaker-related takotsubo syndrome",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.08.027",
+    "doi": "10.1016/j.hrcr.2026.08.027",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Devices"
     ],
     "hot": false
   },
@@ -6119,168 +6277,6 @@
     "date_ts": 1786149891.626917,
     "tags": [
       "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Arrhythmias in d-Transposition of the great arteries after Mustard- or Senning-type atrial redirection surgery \u2013 22 years of experience in catheter ablation and follow-up",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026639?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 08, 2026",
-    "date_ts": 1786149891.626721,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Feasibility and Safety of Medium\u2010Term Remote\u2010Only Monitoring in a Large Cohort of Biotronik Pacemaker Patients",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70389?af=R",
-    "doi": "10.1111/pace.70389",
-    "journal": "PACE",
-    "date": "Aug 07, 2026",
-    "date_ts": 1786082461.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Remote monitoring (RM) enables convenient follow\u2010up of patients with cardiac implantable electronic devices. In remote\u2010only monitoring (RM\u2010only), in\u2010person visits are only scheduled if needed based on RM findings. This study evaluated the feasibility and safety of medium\u2010term RM\u2010only of pacemaker (PM) patients.\n                  \n                  \n                    Methods\n                    All patients with Biotronik PM were included in the analysis. Data on the number and causes of additional in\u2010office device interrogations, actions due to the transmissions, hospitalizations and performance of RM were collected from a large cohort of PM patients followed by RM\u2010only.\n                  \n                  \n                    Results\n                    \n                      In total, 606 patients (302 females) with a mean age of 78 \u00b1 12 years were included in the analysis. During the mean follow\u2010up of 2.8 years, 445 additional in\u2010office device interrogations were made in 287 patients (0.3 interrogations/year), and in 110 (25%) of these cases, changes to device programming were made. In a subgroup analysis of 100 patients with at least one year of prior appointment\u2010based device monitoring, the need for in\u2010office visits was 6.9 times higher per follow\u2010up year than in RM (IRR = 6.9, 95% CI 4.9\u20139.9;\n                      p\n                      &lt; 0.001). The hospitalization rate in the entire cohort during RM was 0.3 / year with no difference in the rate of hospitalizations between the two monitoring methods (IRR 1, 95% CI 0.8\u20131.4,\n                      p\n                      = 0.8). The success of daily transmissions was 91.7%.\n                    \n                  \n                  \n                    Conclusion\n                    Our real\u2010world data indicate that RM\u2010only may be a viable option for long\u2010term follow\u2010up of PM patients. Portions of this manuscript contain text overlap with our previously published work because they describe the same methodology and standard clinical procedures. All overlapping material has been appropriately cited, and no previously published data, results, or conclusions have been duplicated without attribution.",
-    "summary": "This retrospective cohort study of 606 pacemaker patients demonstrated that remote-only monitoring is feasible and safe, requiring in-office interrogations in only 47% of patients over 2.8 years (0.3 interrogations/year) with no increase in hospitalization rates compared to appointment-based monitoring. Remote-only monitoring reduced the need for in-office visits 6.9-fold compared to traditional monitoring while maintaining a 91.7% daily transmission success rate."
-  },
-  {
-    "title": "Septal\u2013Inferior Vena Cava Angle and Accurate Septal Implantation of Leadless Pacemakers: Computed Tomography\u2010Based Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70385?af=R",
-    "doi": "10.1111/pace.70385",
-    "journal": "PACE",
-    "date": "Aug 07, 2026",
-    "date_ts": 1786082222.0,
-    "tags": [
-      "Devices",
-      "Imaging"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    The Micra leadless pacemaker (LPM) should ideally be implanted in the septal location to enhance safety. However, the probability of accurate septal implantation and its predictive factors have not been fully elucidated.\n                  \n                  \n                    Methods\n                    Eighty\u2010three consecutive patients who underwent computed tomography (CT) following LPM implantation were included. The ventricular septum was targeted using a standard fluoroscopic\u2010guided transfemoral approach. The LPM implantation site was classified as septal or non\u2010septal based on CT findings. The septal\u2013inferior vena cava (IVC) angle was evaluated as a patient\u2010specific anatomical parameter representing the relationship between IVC inflow and the ventricular septum.\n                  \n                  \n                    Results\n                    \n                      Accurate septal implantation was achieved in 44 patients (53.0%). The septal\u2013IVC angle was significantly larger in the septal group than in the non\u2010septal group (13.1 \u00b1 11.6\u00b0 vs. 2.7 \u00b1 10.6\u00b0,\n                      p\n                      &lt; 0.001). Multivariate logistic regression analysis indicated that the septal\u2013IVC angle (odds ratio, 1.09; 95% confidence interval, 1.03\u20131.14;\n                      p\n                      = 0.002) was independently associated with the incidence of septal implantation. The optimal cutoff value for the septal\u2013IVC angle was 6\u00b0, with a sensitivity of 77.3% and a specificity of 66.7% for predicting septal implantation. There were no cases of cardiac tamponade or pericardial effusion. No significant differences in long\u2010term outcomes, including all\u2010cause mortality, cardiac mortality, and heart failure hospitalization, were observed between the two groups.\n                    \n                  \n                  \n                    Conclusions\n                    Accurate septal implantation was observed in 53.0% of patients who had undergone LPM implantation with the standard femoral approach. A larger septal\u2013IVC angle was associated with accurate septal implantation.",
-    "summary": "This retrospective study of 83 patients examined predictors of septal implantation during Micra leadless pacemaker placement, finding that septal location was achieved in 53% of cases and was independently associated with a larger septal-IVC angle (cutoff 6\u00b0; sensitivity 77.3%, specificity 66.7%), with no differences in long-term clinical outcomes between septal and non-septal groups."
-  },
-  {
-    "title": "Photoplethysmography for Heart Rate and Rhythm Monitoring: Current Evidence and Clinical Applications",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006420?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 07, 2026",
-    "date_ts": 1786068081.015898,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "V-V-A Response in Fast-Slow AVNRT With a Bystander Concealed Nodoventricular Pathway",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005852?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 07, 2026",
-    "date_ts": 1786068081.015867,
-    "tags": [
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Successful Ablation of a Posteroseptal Accessory Pathway in a Right Ventricular Diverticulum",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600650X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 07, 2026",
-    "date_ts": 1786068081.015831,
-    "tags": [
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Subcutaneous Implantable Cardioverter-Defibrillator Therapy in Women",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005657?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 07, 2026",
-    "date_ts": 1786068081.015801,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Stereotactic Arrhythmia Radioablation of Recurrent Ventricular Tachycardia in Structural Heart Disease: Results of the Aborted STAR-VT-2020 Randomized Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006547?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 07, 2026",
-    "date_ts": 1786068081.015762,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Magnetocardiography for Arrhythmic Risk: A New Signal, or a New View of an Old One?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006493?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 07, 2026",
-    "date_ts": 1786068081.015724,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical Implications of Transmural Late Gadolinium Enhancement in Genotype-Positive Arrhythmogenic and Dilated Cardiomyopathy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005785?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 07, 2026",
-    "date_ts": 1786068081.015658,
-    "tags": [
-      "Genetics",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Inappropriate Sinus Tachycardia: Retrospective Analysis of a Single-Center Longitudinal Cohort Yielding Novel Clinical Diagnostic Criteria - the Fort Worth IST Score (FWIST)",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003533?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Aug 07, 2026",
-    "date_ts": 1786068080.897913,
-    "tags": [
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Early Experience in Extravascular Implantable Cardioverter-defibrillator implantation in Pediatric and Adolescent Patients: Procedure Adaptations and Short-Term Outcomes",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600303X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Aug 07, 2026",
-    "date_ts": 1786068080.897843,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Body mass index, acute atrial fibrillation termination, and long-term recurrence after catheter ablation for persistent atrial fibrillation: insights from a large contemporary cohort",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026627?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 07, 2026",
-    "date_ts": 1786068080.796429,
-    "tags": [
-      "AFib"
     ],
     "hot": false
   }
