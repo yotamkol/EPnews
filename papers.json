@@ -1,5 +1,55 @@
 [
   {
+    "title": "CLINICAL CHARACTERISTICS AND SHORT-TERM OUTCOMES OF PATIENTS WITH ATRIAL FIBRILLATION AT THREE RWANDAN REFERRAL HOSPITALS, KIGALI",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005593?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Sep 23, 2026",
+    "date_ts": 1790129549.994463,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Targeting trafficking defects in long QT syndrome type 2: a phase 2 clinical study with patient-specific cellular validation",
+    "link": "https://doi.org/10.1093/eurheartj/ehag753",
+    "doi": "10.1093/eurheartj/ehag753",
+    "journal": "European Heart Journal",
+    "date": "Sep 22, 2026",
+    "date_ts": 1790035200.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    A major component of long QT syndrome (LQTS) is LQT2 due to pathogenic variants in KCNH2, which frequently cause trafficking defects. Despite progress in therapeutic management, there is an unmet clinical need for mechanism-targeted therapies. It has been previously shown, using patient-specific human induced pluripotent stem cell-derived cardiomyocytes (hiPSC-CMs), that lumacaftor (LUM), currently used for cystic fibrosis, can partially correct hERG trafficking. A single-arm phase 2 study was conducted to determine whether LUM could shorten QTc in LQT2 patients with trafficking defects.\n                  \n                  \n                    Methods\n                    Sixteen adult patients with genetically confirmed trafficking-defective KCNH2 variants were enrolled. Participants were admitted to hospital and received LUM for 7 days under continuous telemetry. QTc was quantified on serial electrocardiograms and 12-lead Holter recordings. For mechanistic correlation, hiPSC-CMs were generated from the first five participants with distinct genetic variants and assessed for hERG maturation and trafficking.\n                  \n                  \n                    Results\n                    Overall, lumacaftor produced a significant QTc shortening (P &amp;lt; .001). The per-patient change averaged 31 \u00b1 21\u2005ms. Patients with baseline QTc \u2265500\u2005ms exhibited the most substantial effect, with 75% achieving reductions \u226540\u2005ms. No ventricular arrhythmias occurred, and adverse effects were primarily gastrointestinal and self-limited. In hiPSC-CMs, LUM restored hERG trafficking in three out of five variants, mirroring the clinical observations.\n                  \n                  \n                    Conclusions\n                    Short-term LUM therapy is safe and yields a significant QTc shortening in LQT2 patients with a trafficking defect. Concordance between cellular and clinical findings reinforces the value of a mechanism-based, variant-informed approach and supports the feasibility of trafficking-correction strategies within a precision-medicine framework for inherited arrhythmia syndromes."
+  },
+  {
+    "title": "Unexpected cardiac arrest in young adults and athletes: the underappreciated impact of autoimmunity",
+    "link": "https://doi.org/10.1093/eurheartj/ehag752",
+    "doi": "10.1093/eurheartj/ehag752",
+    "journal": "European Heart Journal",
+    "date": "Sep 22, 2026",
+    "date_ts": 1790035200.0,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Real-World Experience With the Extravascular Implantable Cardioverter Defibrillator Through 1 Year: The Enlighten Post Approval Registry Study",
+    "link": "https://doi.org/10.1161/circulationaha.126.080942",
+    "doi": "10.1161/circulationaha.126.080942",
+    "journal": "Circulation",
+    "date": "Sep 22, 2026",
+    "date_ts": 1790035200.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    The extravascular implantable cardioverter defibrillator (EV-ICD) was developed to provide defibrillation and antitachycardia pacing therapy without the need for intravascular lead placement. Premarket clinical trials reported EV-ICD safety and efficacy through 3 years, but a real-world assessment of the Aurora EV-ICD system, which includes a novel sensing discriminator, is needed. The objective of this analysis was to assess real-world therapy efficacy and safety of the EV-ICD through 1 year.\n                  \n                  \n                    METHODS:\n                    Enlighten: The EV-ICD Post Approval Registry is a prospective, global, real-world registry that included patients who underwent an EV-ICD implantation attempt. The main safety analysis was freedom from all system- or procedure-related major complications through 1 year. Event rates at 1 year were calculated using the Kaplan-Meier method.\n                  \n                  \n                    RESULTS:\n                    EV-ICD system implantation was attempted by 168 implanters in 787 patients (49.1\u00b115.2 years old; 28.7% women; 34.1% secondary prevention). Tunneling and lead placement in the substernal space were achieved in 781 of 787 patients (99.2%), with 758 patients (96.3%) remaining implanted following defibrillation and electrical testing. One-year freedom from major system- or procedure-related complications was 89.1% (95% CI, 86.3%\u201391.3%). The 1-year rate of first appropriate therapy (shock, antitachycardia pacing, or both) was 7.3% (95% CI, 5.5\u20139.6). Shock success for discrete spontaneous episodes was 100% (61 of 61), and the generalized estimating equations antitachycardia pacing success rate, to account for multiple episodes per patient, was 74.2% for monomorphic ventricular tachycardia. The 1-year rate of first inappropriate shock was 7.1% (95% CI, 5.4\u20139.4), with noncardiac oversensing as the main cause (40.5% of inappropriately shocked episodes).\n                  \n                  \n                    CONCLUSIONS:\n                    In the largest prospective worldwide cohort of patients with an EV-ICD to date, both antitachycardia pacing and shock therapy were effective, while the rate of major complications agreed with the premarket experience through 1 year. These data demonstrate that positive outcomes of the EV-ICD are retained in everyday clinical practice in a large, global cohort with an expanded number of implanters.\n                  \n                  \n                    REGISTRATION:\n                    \n                      URL:\n                      https://www.clinicaltrials.gov\n                      ; Unique identifier: NCT06048731."
+  },
+  {
     "title": "Response by Oldgren and Wallentin to Letter Regarding Article, \u201cBiomarker-Based ABC-AF Risk Scores for Personalized Treatment to Reduce Stroke or Death in Atrial Fibrillation: A Registry-Based, Multicenter, Randomized, Controlled Study\u201d",
     "link": "https://doi.org/10.1161/circulationaha.126.080165",
     "doi": "10.1161/circulationaha.126.080165",
@@ -22,6 +72,45 @@
       "AFib"
     ],
     "hot": false
+  },
+  {
+    "title": "Epicardial Use of Medtronic 3830 Lead in Pediatric Cardiac Resynchronization Therapy with Elevated Thresholds",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70349?af=R",
+    "doi": "10.1111/pace.70349",
+    "journal": "PACE",
+    "date": "Sep 22, 2026",
+    "date_ts": 1790049799.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Epicardial pacing is standard in children, but conventional leads often fail due to high thresholds, fractures, or poor sensing after multiple surgeries.\n                  \n                  \n                    Case\n                    A 10\u2010year\u2010old with restrictive cardiomyopathy and prior mitral valve replacement presented with loss of capture from fractured epicardial leads. Redo sternotomy attempts with conventional leads produced thresholds up to 8.0\u00a0V. A Medtronic SelectSecure 3830 lead was implanted epicardially, achieving improved thresholds (2.7\u00a0V \u2192 1.1\u00a0V) and stable cardiac resynchronization therapy (CRT) pacemaker function. At 2 months, thresholds and impedances remained low and stable.\n                  \n                  \n                    Conclusion\n                    Epicardial Medtronic SelectSecure 3830 lead implantation may be a feasible alternative in complex pediatric redo cases."
+  },
+  {
+    "title": "Loss of Septal Q Waves Is Associated With QRS Widening After Transcatheter Aortic Valve Implantation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70450?af=R",
+    "doi": "10.1111/pace.70450",
+    "journal": "PACE",
+    "date": "Sep 22, 2026",
+    "date_ts": 1790048133.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Conduction disturbances remain a common complication following transcatheter aortic valve implantation (TAVI). While baseline conduction abnormalities are well\u2010established predictors of post\u2010procedural conduction disease or permanent pacemaker implantation, risk stratification in patients without baseline PR or QRS prolongation remains limited. Loss of septal Q waves (LSQ) may reflect underlying conduction system vulnerability but has not been systematically evaluated in this setting.\n                  \n                  \n                    Methods\n                    We conducted a retrospective observational study of consecutive patients undergoing TAVI at a single tertiary center between 2018 and 2024. Patients without baseline PR or QRS prolongation were included. LSQ was defined as the absence of Q waves in leads I, V5, and V6. The primary outcome was an increase in QRS duration \u00a0\u2265\u00a020\u00a0ms.\n                  \n                  \n                    Results\n                    \n                      Among 87 patients without baseline PR or QRS prolongation, 86 were evaluable for the primary outcome and QRS widening \u226520\u00a0ms occurred in 31 patients (36.0%). LSQ was present in 40.2% of patients. LSQ was associated with increased odds of QRS widening in unadjusted analysis (OR 2.71, 95% CI 1.09\u20106.74;\n                      p\n                      = 0.031). The association remained significant after adjustment for AF (adjusted OR 2.76, 95% CI 1.07\u20107.11;\n                      p\n                      = 0.035) (Table\u00a02). AF was also independently associated with QRS widening (adjusted OR 3.79, 95% CI 1.10\u201013.08;\n                      p\n                      = 0.035).\n                    \n                  \n                  \n                    Conclusion\n                    LSQ on pre\u2010procedural ECG was independently associated with post\u2010procedural QRS widening in patients undergoing TAVI without baseline PR or QRS prolongation. LSQ may serve as a simple, non\u2010invasive marker of conduction system vulnerability with potential utility in risk stratification and post\u2010procedural monitoring. These findings are hypothesis generating and warrant validation in larger prospective cohorts."
+  },
+  {
+    "title": "How Should an Embolized Atrial Leadless Pacemaker Be Retrieved From the Pulmonary Artery?",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70447?af=R",
+    "doi": "10.1111/pace.70447",
+    "journal": "PACE",
+    "date": "Sep 22, 2026",
+    "date_ts": 1790047976.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "The authors declare no conflicts of interest. All data relevant to this case are included in the article and its supplementary material. Please note: The publisher is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article."
   },
   {
     "title": "Patterns of Reconnection at Redo Ablation after Pulsed-Field Ablation for Atrial Fibrillation (REDO-PFA)",
@@ -94,6 +183,19 @@
       "Other"
     ],
     "hot": false
+  },
+  {
+    "title": "Progressive Conduction System Disease Preceding Hypertrophy in IVS4 + 919G &amp;gt; A Fabry Variant: a Population-based Electrocardiographic Study",
+    "link": "https://doi.org/10.1093/europace/euag258",
+    "doi": "10.1093/europace/euag258",
+    "journal": "EP Europace",
+    "date": "Sep 22, 2026",
+    "date_ts": 1790035200.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background\n                    The IVS4\u2009+\u2009919G\u2009&amp;gt;\u2009A variant is the most prevalent late-onset Fabry variant in East Asian populations, but its electrophysiological trajectory remains incompletely defined.\n                  \n                  \n                    Methods\n                    From a regional genetic screening program, 905 IVS4\u2009+\u2009919G\u2009&amp;gt;\u2009A carriers were identified among 457,581 patients and matched 1:2 to controls by age and sex. Electrocardiographic (ECG) parameters were compared across decades, and echocardiography correlated structural changes with ECG findings.\n                  \n                  \n                    Results\n                    The cumulative prevalence of IVS4\u2009+\u2009919G\u2009&amp;gt;\u2009A was 0.198%. Age-specific prevalence in females was \u223c2.5-fold higher than in males (0.11\u20130.15%), without significant change throughout different age categories. Female carriers demonstrated the catch-up phenomenon after the age of 60. Males exhibited a 9-fold risk of right bundle branch block (RBBB) and pacemaker implantation (PPM) compared with male controls (RBBB, HR 9.286, 95% CI 5.16\u201316.70, P\u2009&amp;lt;\u20090.001; PPM, HR 9.197, 95% CI 2.88\u201329.31, P\u2009&amp;lt;\u20090.001), and this precedes the onset of echocardiographic left ventricular hypertrophy. Risk of stroke and atrial fibrillation (HR 1.435, 95% CI 0.69\u20132.96, P\u2009=\u20090.289) was similar between male carriers and controls. PR interval was not shortening and prolongs instead. Combining left ventricular hypertrophy with conduction abnormalities, ECG detection achieved 88% sensitivity, exceeding echocardiographic criteria alone (51.5%).\n                  \n                  \n                    Conclusions\n                    IVS4\u2009+\u2009919G\u2009&amp;gt;\u2009A variant is characterized by a progressive electrical phenotype dominated by conduction system disease preceding hypertrophy without excess major arrhythmic events. Electrocardiographic surveillance and phenotype-based risk stratification may be more informative than structural assessment alone for identifying individuals at risk of device therapy."
   },
   {
     "title": "Atrial fibrillation and sudden cardiac death: mechanisms, management, and new therapeutic targets",
@@ -6179,104 +6281,6 @@
     "tags": [
       "AFib",
       "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Racial Disparities in Cardiac Implantable Electronic Device Monitoring and Outcomes: The Mediating Role of Consensus-recommended Follow-Up",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004964?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Aug 09, 2026",
-    "date_ts": 1786236506.713553,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reply to Letter Re: Steam Pops during Temperature Controlled Irrigated Radiofrequency Ablation using the Lattice-tip Catheter",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026603?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 09, 2026",
-    "date_ts": 1786236506.402808,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Prevalence and Periprocedural Value of Current of Injury at the Implantation of a Passive Fixation Leadless Pacemaker",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70338?af=R",
-    "doi": "10.1111/pace.70338",
-    "journal": "PACE",
-    "date": "Aug 08, 2026",
-    "date_ts": 1786206062.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background\n                    Current of injury (COI) predicts stability and acute improvement in electrical parameters in transvenous pacing or high\u2010voltage leads; however, the periprocedural value of this marker in leadless pacemakers (LLPs) is unknown.\n                  \n                  \n                    Methods\n                    From March 2021 to October 2022, 66 consecutive Micra LLP pacemaker candidates were enrolled. Electrograms (EGMs) and electrical measures were acquired immediately after the deployment and 5\u00a0min after. The primary outcomes were an acute reduction in pacing threshold and, conversely, a need for device repositioning.\n                  \n                  \n                    Results\n                    \n                      Fifty\u2010one patients were included in the final analysis after excluding poor\u2010quality EGMs and pacemaker\u2010dependent cases (\n                      n\n                      = 15). COI was identified in 32 (62%). There were no differences in the initial electrical measures between the COI+ and COI\u2212 groups (\n                      p\n                      value = 0.33, 0.37, 0.89 for impedance, pacing threshold, and sensing, respectively). Notably, the capture threshold significantly improved only in the COI+ group within 5 min (\n                      p\n                      = 0.002). A subgroup analysis of COI+ revealed that the saddleback type of injury (Type 2) was associated with a more significant acute reduction in the capture threshold (\n                      p\n                      = 0.02). Repositioning occurred in three subjects, and acute dislodgment at the tug\u2010test occurred in two patients, all from the COI\u2013 group.\n                    \n                  \n                  \n                    Conclusions\n                    COI is associated with an acute improvement of capture threshold, particularly when a Type 2 pattern is noted. The absence of injury, in contrast, could reflect inadequate fixation and a need for repositioning.",
-    "summary": "This prospective observational study of 51 Micra leadless pacemaker candidates found that current of injury (COI) on electrograms predicted acute reduction in capture threshold at 5 minutes post-deployment (p=0.002), with Type 2 saddleback pattern showing the most significant improvement, while absence of COI was associated with need for repositioning or acute dislodgment. These findings suggest COI is a valuable periprocedural marker for assessing lead stability and adequacy of fixation in leadless pacemakers."
-  },
-  {
-    "title": "Long-term performance of VDD vs. VVI ICD leads: a single-manufacturer analysis based on product performance report",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003570?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Aug 08, 2026",
-    "date_ts": 1786149891.703559,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Non-invasive Vagus Nerve Stimulation in Patients Undergoing Electrophysiological Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003569?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Aug 08, 2026",
-    "date_ts": 1786149891.703519,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pharmacist Management of Oral Anticoagulation for Atrial Fibrillation in the Community The APOTHECARY AF Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600317X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Aug 08, 2026",
-    "date_ts": 1786149891.703449,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Potential anatomical impact on steam pop risk with the Sphere 9 lattice-tip catheter.",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026597?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 08, 2026",
-    "date_ts": 1786149891.626963,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Association of Angiotensin Receptor Neprilysin Inhibitors Duration with Latent Remodeling Following Implantable Cardioverter Defibrillator Implantation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026561?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 08, 2026",
-    "date_ts": 1786149891.626917,
-    "tags": [
-      "Devices"
     ],
     "hot": false
   }
