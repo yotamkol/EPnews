@@ -1,5 +1,29 @@
 [
   {
+    "title": "Biatrial catheter ablation for persistent atrial fibrillation: Prospective registry-based observational study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005684?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Sep 24, 2026",
+    "date_ts": 1790215235.853004,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Correction to: Atrial fibrillation density as a biomarker for ischaemic stroke risk prediction",
+    "link": "https://doi.org/10.1093/eurheartj/ehag771",
+    "doi": "10.1093/eurheartj/ehag771",
+    "journal": "European Heart Journal",
+    "date": "Sep 23, 2026",
+    "date_ts": 1790121600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "CLINICAL CHARACTERISTICS AND SHORT-TERM OUTCOMES OF PATIENTS WITH ATRIAL FIBRILLATION AT THREE RWANDAN REFERRAL HOSPITALS, KIGALI",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005593?dgcid=rss_sd_all",
     "doi": null,
@@ -10,6 +34,44 @@
       "AFib"
     ],
     "hot": false
+  },
+  {
+    "title": "Safety of Catheter Ablation for Atrial Fibrillation During Hospitalisation for Acute Heart Failure: A Nationwide Analysis From the JROAD-DPC Database",
+    "link": "https://doi.org/10.1093/europace/euag273",
+    "doi": "10.1093/europace/euag273",
+    "journal": "EP Europace",
+    "date": "Sep 23, 2026",
+    "date_ts": 1790121600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Effect of Pulsed Field Timing Sequence and Electrode Cooling on Ablation Safety and Efficacy Surrogates: A Preclinical Study",
+    "link": "https://doi.org/10.1161/circep.126.015042",
+    "doi": "10.1161/circep.126.015042",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Sep 23, 2026",
+    "date_ts": 1790121600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    \n                      The variable loop circular catheter has been shown to be a safe, effective pulsed field ablation catheter for atrial fibrillation treatment. After the commercial launch of the initial waveform (Seq1), a new waveform (Seq2\n                      30 mL/min\n                      ) was developed that reduces electrode surface temperature and ablation delivery time (20\u20133.8 seconds). This study compares the safety and efficacy of Seq1 versus Seq2 across 2 irrigation rates and 2 dosing conditions.\n                    \n                  \n                  \n                    METHODS:\n                    \n                      Twenty-four Yorkshire pigs were treated with pulsed field ablation using the variable loop circular catheter. Subjects were randomized into 3 pulse recipe/irrigation arms (Seq1\n                      4 mL/min\n                      , Seq1\n                      30 mL/min\n                      , and Seq 2\n                      30\n                      mL/min\n                      ). Each group was split into a 1\u00d7 nominal and a 2\u00d7-dose group, resulting in 6 total study groups. Animals were monitored for 28\u00b12 days postablation for follow-up remapping procedures before euthanization. Gross necropsy and histopathology were performed on day 28\u00b12.\n                    \n                  \n                  \n                    RESULTS:\n                    \n                      In all groups, 100% acute and chronic pulmonary vein isolation effectiveness was observed, as indicated by transmural, circumferential, pulmonary vein lesions with no evidence of collateral injury. Transmurality in the left atrial appendage, LA roof, and posterior wall was 75% to 100% across all groups and absent at the mitral isthmus. No catheter thrombus/char was observed at Seq2\n                      30 mL/min\n                      or Seq1\n                      30 mL/min\n                      . With Seq1\n                      4 mL/min\n                      , thrombus/char occurred in 25% (1\u00d7) and 100% (2\u00d7). Hemolysis and myocardial injury marker changes were similar between all groups, with a notable increase in the 2\u00d7 groups. On echocardiography, Seq2\n                      30 mL/min\n                      microbubbles were rated as few or none, while Seq1\n                      4 mL/min\n                      and Seq1\n                      30 mL/min\n                      were mostly rated moderate or shower.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    \n                      Consistently durable pulmonary vein isolation was observed across all groups, including Seq1\n                      4 mL/min\n                      , Seq2\n                      30 mL/min\n                      , and Seq1\n                      30 mL/min\n                      across both dosing conditions. Seq2\n                      30 mL/min\n                      was associated with a reduced ablation delivery time (3.8 seconds), zero catheter thrombus formation, and few microbubbles. Higher irrigation flow in Seq1\n                      30 mL/min\n                      also mitigated catheter thrombus formation but did not reduce microbubble generation."
+  },
+  {
+    "title": "PFKFB2 Gates a Relationship Between Cardiac Glycolytic Regulation and Electrophysiological Function",
+    "link": "https://doi.org/10.1161/circep.126.014860",
+    "doi": "10.1161/circep.126.014860",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Sep 23, 2026",
+    "date_ts": 1790121600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    The cardiac isoform of PFKFB2 (phosphofructokinase-2/fructose 2,6-bisphosphatase) is the heart\u2019s strongest glycolytic regulator but is degraded in the absence of insulin signaling. This makes PFKFB2 loss critical to understand in metabolic heart disease, of which impaired insulin signaling is a hallmark. Prolongation of the QT interval, risk of arrhythmia, and sudden cardiac death are also augmented in metabolic heart disease, raising a question as to whether crosstalk between glycolytic dysregulation and electrophysiological dysfunction exists.\n                  \n                  \n                    METHODS:\n                    \n                      We, therefore, assessed the impact of PFKFB2 loss on cardiac electrophysiology using a cardiomyocyte-specific PFKFB2 knockout mouse model (cKO) and litter-matched controls. To do so, we employed electrocardiography in the fed state and following 12 hours of fasting, examining physiology both at baseline and in the presence of an acute stimulant stress. To further investigate the arrhythmia mechanism, we used patch-clamp electrophysiology and IonOptix Ca\n                      2+\n                      transient measurements in ventricular cardiomyocytes isolated from controls and cKO hearts.\n                    \n                  \n                  \n                    RESULTS:\n                    \n                      The hearts of cKO mice exhibited prolonged repolarization, marked by QT and action potential duration prolongations. This occurred with impaired Ca\n                      2+\n                      reuptake and increased spontaneous Ca\n                      2+\n                      release events in ventricular cardiomyocytes. The latter were upregulated via O-GlcNAcylation, a posttranslational modification enhanced in the fed state in cKO hearts. Ultimately, these changes culminated in ventricular tachyarrhythmia in cKO mice, which was enhanced in the fed relative to the fasted state.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    These data suggest that in the presence of sufficient glucose availability, cardiac glycolytic dysregulation at the phosphofructokinase nexus is sufficient to promote cardiac electrophysiological instability."
   },
   {
     "title": "Targeting trafficking defects in long QT syndrome type 2: a phase 2 clinical study with patient-specific cellular validation",
@@ -2884,6 +2946,30 @@
     "date_ts": 1788229485.729481,
     "tags": [
       "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Purkinje De-networking to Treat Suspected Purkinje Originated PVC-triggered Ventricular Fibrillation.",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.09.014",
+    "doi": "10.1016/j.hrcr.2026.09.014",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cardioneuroablation Reverses Inspiratory-Mediated Bradycardia and Syncope",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.09.013",
+    "doi": "10.1016/j.hrcr.2026.09.013",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Other"
     ],
     "hot": false
   },
@@ -6194,94 +6280,5 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Objective\n                    To identify sex\u2010based differences in meeting left bundle branch (LBB) capture criteria on postimplant ECGs.\n                  \n                  \n                    Background\n                    Despite differences in QRS duration (QRSd) between males and females, no sex\u2010based criteria have been established for defining LBB capture during LBB area pacing (LBBAP).\n                  \n                  \n                    Methods\n                    Patients aged &gt;18 y.o. with a pacing indication and dual\u2010chamber LBBAP pacemaker implantation from 2020 to 2023 were studied. Baseline and postoperative day 1 (POD1) ECGs were assessed for electrical dyssynchrony (QRS\u2010area, sum\u2010absolute integral of QRS\u2010T (SAI QRS\u2010T)), with LBB capture defined based on R\u2010wave peak times (RWPT) per the EHRA 2023 Consensus algorithm.\n                  \n                  \n                    Results\n                    \n                      The cohort included 222 patients (143 males/79 females, age 74.5\u00b11.1 years, LVEF 53.7\u00b10.4%). Baseline QRSd was significantly shorter among females than males (median 122\u00a0ms [90,134] vs 126\u00a0ms [102,146];\n                      p\n                      = 0.018). LBB capture criteria were met in 83 (58.0%) male and 56 (70.9%) female patients (\n                      p\n                      = 0.058). Baseline and POD1 dyssynchrony were similar between sexes. However, RWPTs measured in leads V\n                      6\n                      /I/aVL were \u223c7\u00a0ms\n                      shorter\n                      in females than males (V\n                      6\n                      \u2010RWPT: 66.3 \u00b1 1.6\u00a0ms vs. 73.7 \u00b1 1.4\u00a0ms,\n                      p\n                      = 0.0008). Adjusting V\n                      6\n                      \u2010RWPT up by 7\u00a0ms in females resulted in 7/56 patients (12.5%) no longer meeting LBB capture criteria. Significant differences were eliminated when normalizing RWPTs to size parameters (LV size, height, body surface area (BSA)), with no significant correlation between V\n                      6\n                      \u2010RWPT and size.\n                    \n                  \n                  \n                    Conclusions\n                    \n                      Females with LBB capture exhibit shorter V\n                      6\n                      \u2010RWPTs despite similar measures of electrical dyssynchrony. This difference disappears when normalizing for the smaller size of female hearts. Additional studies are warranted to establish sex\u2010specific LBB capture criteria.",
     "summary": "This retrospective observational study of 222 patients (143 male, 79 female) undergoing left bundle branch area pacing (LBBAP) found that females had significantly shorter R-wave peak times in lead V6 (~7 ms shorter) compared to males despite similar electrical dyssynchrony measures, a difference that was eliminated when normalized to cardiac size parameters. The authors conclude that sex-specific LBB capture criteria may be warranted, as current EHRA criteria may not adequately account for anatomic differences between sexes."
-  },
-  {
-    "title": "Cardiac Implantable Electronic Device Infection: Nationwide Trends in Extraction Utilization and In\u2010Hospital Outcomes",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70386?af=R",
-    "doi": "10.1111/pace.70386",
-    "journal": "PACE",
-    "date": "Aug 10, 2026",
-    "date_ts": 1786358276.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Contemporary, real\u2010world adherence to guideline\u2010directed transvenous cardiac implantable electronic device (CIED) extraction for patients with CIED infections in the US remains incompletely characterized. As such, we sought to evaluate national trends in CIED extraction and identify factors associated with extraction and in\u2010hospital mortality.\n                  \n                  \n                    Methods\n                    A retrospective analysis of adult hospitalizations with CIED infection using the National Inpatient Sample from 2016 to 2022 was performed. National trends in extraction, factors associated with extraction, and predictors of in\u2010hospital mortality were evaluated. Multivariable logistic regression and propensity score matching were used to estimate adjusted associations with mortality.\n                  \n                  \n                    Results\n                    \n                      Among 47,835 adults hospitalized with a CIED infection, 10,905 (22.8%) underwent extraction. National extraction rates increased modestly from 16.2% in 2016 to 23.8% in 2022 (\n                      p\n                      &lt; 0.001) but remained low overall. Unadjusted in\u2010hospital mortality was lower among patients who underwent extraction compared with those who did not (2.8%\u00a0vs. 4.4%;\n                      p\n                      = 0.001). After adjustment, extraction was independently associated with lower mortality (OR 0.59 [95% CI, 0.44\u20130.80]). Higher mortality was associated with increasing age, greater comorbidity burden, and markers of acute illness severity, including acute kidney injury, cardiogenic shock, and respiratory failure. Among patients who underwent extraction, markers of acute organ failure remained associated with adjusted in\u2010hospital mortality.\n                    \n                  \n                  \n                    Conclusions\n                    In this contemporary, multi\u2010payor, national cohort of patients with CIED infections, CIED extraction was independently associated with lower in\u2010hospital mortality, but\u00a0was significantly underutilized despite guideline recommendations. Mortality among those who underwent extraction was driven primarily by acute illness severity, emphasizing the need for early recognition and timely intervention. System\u2010level strategies to improve access to extraction may help align real\u2010world practice with guidelines.",
-    "summary": "This retrospective analysis of 47,835 adults hospitalized with CIED infections from the National Inpatient Sample (2016-2022) found that only 22.8% underwent extraction despite guideline recommendations, though extraction rates increased modestly from 16.2% to 23.8%. Extraction was independently associated with significantly lower in-hospital mortality (OR 0.59), suggesting substantial underutilization of a protective intervention, with mortality among extracted patients driven primarily by acute organ failure markers rather than the infection itself."
-  },
-  {
-    "title": "Redefining response to Cardiac Resynchronisation Therapy: A Post-hoc Analysis of the MORE-CRT MPP trial",
-    "link": "https://doi.org/10.1093/europace/euag209",
-    "doi": "10.1093/europace/euag209",
-    "journal": "EP Europace",
-    "date": "Aug 10, 2026",
-    "date_ts": 1786320000.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background\n                    Cardiac resynchronization therapy (CRT) response is commonly assessed at 6 months using left ventricular end-systolic volume (LVESV) and clinical endpoints. Some initial non-responders may improve or stabilize by 12 months.\n                  \n                  \n                    Objectives\n                    To determine outcomes and predictors of echocardiographic response trajectories and evaluate the clinical course of patients who stabilised or deteriorated after 6 months.\n                  \n                  \n                    Methods\n                    This post-hoc analysis of the MORE-CRT MPP trial included patients receiving conventional biventricular pacing only. Patients were classified as non-responders (&amp;lt;15% LVESV reduction at 6 and 12 months), early responders (&amp;gt;15% reduction at 6 months), or delayed responders (&amp;lt;15% reduction at 6 months but &amp;gt;15% at 12 months). Six-month non-responders were further classified as stabilised (LVESV reduction at 12 months) or deteriorated (LVESV increase at 12 months). Heart failure hospitalization (HFH) or death was analysed using restricted mean survival time and adjusted accelerated failure time models.\n                  \n                  \n                    Results\n                    Among 2,732 patients (69.4% male; 62.8% non-ischaemic), event-free survival differed between early, delayed, and non-responders (p&amp;lt;0.001). Non-responders had 52% shorter event-free survival than early responders (p&amp;lt;0.001), and 38% shorter than delayed responders (p=0.025). Early and delayed responders had similar outcomes (p=0.221). Among non-responders, 39.0% stabilised and 61.0% deteriorated; outcomes diverged after 6 months (p&amp;lt;0.001). The deterioration group had 59% shorter event-free survival (p&amp;lt;0.001). Ischaemic aetiology, non-LBBB, and lower baseline LVEF predicted delayed response.\n                  \n                  \n                    Conclusions\n                    Delayed responders demonstrated similarly favourable clinical outcomes to early responders over the duration of follow-up. These findings support 12-month assessment and trajectory-based definitions of CRT response.",
-    "summary": "This post-hoc analysis of the MORE-CRT MPP trial (n=2,732) examined CRT response trajectories and found that delayed responders (>15% LVESV reduction at 12 months but not at 6 months) had similarly favorable outcomes to early responders, while non-responders had 52% shorter event-free survival; notably, among non-responders, those who stabilized had better outcomes than those who deteriorated after 6 months (p<0.001). The findings support extending CRT response assessment to 12 months rather than the standard 6-month evaluation, as some initial non-responders achieve delayed response."
-  },
-  {
-    "title": "The Emergence of Sports Electrophysiology: Care of Athletes With Arrhythmias, From the ACC\u2019s Sports and Exercise Cardiology Leadership Council",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005815?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 09, 2026",
-    "date_ts": 1786236506.84428,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Atrial Fibrillation Initiation Arises From Reentry at Patient-Specific Regions With Steep Repolarization Gradients Identified During Sinus Rhythm",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006481?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 09, 2026",
-    "date_ts": 1786236506.844239,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cryoablation for Para-Hisian Premature Ventricular Contractions Guided by Para-Hisian Pacing With a High-Density Grid Catheter",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006456?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 09, 2026",
-    "date_ts": 1786236506.844198,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "LMNA Deficiency Reveals a Role for SK3 Channel Dysfunction in Atrioventricular Block",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006432?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 09, 2026",
-    "date_ts": 1786236506.844137,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Evaluation of Esophageal Injury after Very High-Power Short-Duration Pulmonary Vein Isolation Using Late Gadolinium Enhancement MRI",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826003557?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Aug 09, 2026",
-    "date_ts": 1786236506.713627,
-    "tags": [
-      "AFib",
-      "Imaging"
-    ],
-    "hot": false
   }
 ]
