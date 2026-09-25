@@ -1,5 +1,126 @@
 [
   {
+    "title": "Cardiac Radioablation: When Evidence Challenges Enthusiasm",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007565?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Sep 25, 2026",
+    "date_ts": 1790302533.079089,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Acute Modulation of Arrhythmogenic Ventricular Substrate Following Cardiac Stereotactic Body Radiation Therapy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007796?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Sep 25, 2026",
+    "date_ts": 1790302533.079056,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Stellate Ganglion Block Reduces the Incidence of Postoperative Atrial Fibrillation After Coronary Artery Bypass Grafting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006687?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Sep 25, 2026",
+    "date_ts": 1790302533.079019,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Programmed Ventricular Stimulation for Risk Stratification in Nonischemic Cardiomyopathy With Preserved or Mildly Reduced LVEF",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007814?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Sep 25, 2026",
+    "date_ts": 1790302533.078981,
+    "tags": [
+      "SCD",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Expanding the Scope of Permissible Exercise in Arrhythmogenic Cardiomyopathy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008303?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Sep 25, 2026",
+    "date_ts": 1790302533.078947,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Abrupt Wall Thickness Transitions Amid Ischemic Re-Entrant Ventricular Tachycardia",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007590?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Sep 25, 2026",
+    "date_ts": 1790302533.078906,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Who Gets the Most Benefit From the Marshall Plan?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008297?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Sep 25, 2026",
+    "date_ts": 1790302533.078853,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pre-Procedural Electrical Cardioversion as a Predictor of Atrial Fibrillation Recurrence After Catheter Ablation in Persistent Atrial Fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027979?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 25, 2026",
+    "date_ts": 1790302532.880675,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Peri-Procedural Ischemic Stroke in Patients Undergoing Ventricular Tachycardia Ablation: Incidence, Predictors, and Impact on Mortality",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027980?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 25, 2026",
+    "date_ts": 1790302532.880628,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Electrosurgical Energy-Traction Coupling for Assisted Release of Entrapped Septal Pacing Leads: An Ex Vivo Mechanical Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028006?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 25, 2026",
+    "date_ts": 1790302532.880465,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Biatrial catheter ablation for persistent atrial fibrillation: Prospective registry-based observational study",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005684?dgcid=rss_sd_all",
     "doi": null,
@@ -10,6 +131,45 @@
       "AFib"
     ],
     "hot": false
+  },
+  {
+    "title": "Atrial Flutter in Partially Anomalous Pulmonary Venous Return: Electrophysiological Insights in Holt\u2010Oram Syndrome",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70442?af=R",
+    "doi": "10.1111/pace.70442",
+    "journal": "PACE",
+    "date": "Sep 24, 2026",
+    "date_ts": 1790213147.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  Partially anomalous pulmonary vein return (PAPVR) is a heterogeneous group of congenital heart defects. Here, we describe a 51\u2010year\u2010old patient with corrected PAPVR (cPAPVR) and atrioventricular canal defect who presented for AFL ablation. The right pulmonary veins were isolated, and the OP was heterogeneously fibrotic. Three left AFL and one cavo\u2010tricuspid isthmus (CTI)\u2010dependent AFL were induced and mapped using activation and Ablation at each site terminated the AFL. Subsequently, the entire OP was isolated. Post\u2010ablation, she had no atrial arrhythmia at 6 months follow up. Genetic testing identified a pathological mutation in the TBX5 gene, consistent with Holt\u2010Oram syndrome."
+  },
+  {
+    "title": "Late\u2010Onset Atrioventricular Block and Significant Conduction Disturbances After Cardiac Interventions in Children",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70449?af=R",
+    "doi": "10.1111/pace.70449",
+    "journal": "PACE",
+    "date": "Sep 24, 2026",
+    "date_ts": 1790212966.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Late\u2010onset postoperative atrioventricular (AV) block is a rare condition with a reported incidence ranging between 0.3% and 0.7%, and it may be associated with high mortality rates (28%\u2013100%). The aim of this study was to evaluate the clinical characteristics of pediatric patients who developed late AV block at our center.\n                  \n                  \n                    Methods\n                    In this retrospective case series, pediatric patients evaluated for permanent pacemaker implantation during the study period were retrospectively reviewed. Patients who developed late\u2010onset (&gt;1 month) atrioventricular block or another clinically significant conduction disturbance requiring consideration of permanent pacing following surgical, transcatheter, or electrophysiological cardiac interventions between 2007 and 2025 were included. Patients with early postoperative block (&lt;1 month), congenital AV block, congenitally corrected transposition of the great arteries (CCTGA), or atrial isomerism were excluded. Demographic data, underlying congenital heart disease, type and timing of the prior intervention, symptoms at presentation, pre\u2010block rhythm data when available, electrocardiographic and Holter findings, heart rate, type of block, temporary pacing requirement, pacemaker implantation status, and follow\u2010up outcomes were collected from electronic medical records.\n                  \n                  \n                    Results\n                    A total of 14 patients were included. The median age was 4.75 years (interquartile range [IQR]: 2.33\u20138.75)the mean body weight was 20.7 \u00b1 16.8\u00a0kg. Seven patients were male. The mean age at the initial cardiac intervention was 2.17 \u00b1 3.40 years (range: 0\u201312). The median interval between the index cardiac intervention and development of late conduction disease was 3.0 years (IQR: 1.75\u20134.62). At presentation, six patients were asymptomatic, three presented with syncope, four with signs of heart failure, and one was referred after resuscitated cardiac arrest. The index intervention was cardiac surgery in 10 patients, transcatheter structural intervention in three, and repeated AVNRT ablation in one. Nine patients had persistent complete AV block, four had intermittent complete AV block, and one had left bundle branch block with clinicallysignificantventricular pauses. Three patients had Down syndrome. Permanent pacemakers were implanted in 12 patients; one patient died after cardiac arrest, and one patient did not undergo implantation because of parental refusal. At the most recent available device interrogation, most implanted patients had a high ventricular pacing burden, generally ranging from approximately 72% to 100%, whereas two patients had low ventricular pacing burdens of approximately 1%\u20132% and 0.7%\u20132.5%, respectively\n                  \n                  \n                    Conclusion\n                    Late\u2010onset postoperative AV block is a rare but potentially fatal condition that may occur even years after cardiac interventions. Although it is most commonly observed after surgeries involving regions close to the AV node, such as atrioventricular septal defect or ventricular septal defect repair, it may also occur following atrial septal defect repair or transcatheter procedures. It may present as persistent or intermittent block. Down syndrome was observed in three patients; however, because of the small sample size, no conclusions regarding an independent association can be drawn. Routine electrocardiographic evaluation of the conduction system should be performed during follow\u2010up after surgical, transcatheter, or ablation procedures, and additional assessments such as Holter monitoring should be considered, particularly in symptomatic patients."
+  },
+  {
+    "title": "Leadless Pacemaker Use Following Transcatheter Aortic Valve Replacement: National Trends and Predictors, 2019\u20132023",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70448?af=R",
+    "doi": "10.1111/pace.70448",
+    "journal": "PACE",
+    "date": "Sep 24, 2026",
+    "date_ts": 1790212900.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    New\u2010onset conduction abnormalities requiring permanent pacemaker implantation are common following transcatheter aortic valve replacement (TAVR). Leadless pacemakers may reduce procedure\u2010related complications in this high\u2010risk population, however, national adoption and predictors of use remain poorly characterized. The objective of this study was to identify predictors and patterns of leadless versus conventional transvenous pacemaker implantation following TAVR in a nationally representative cohort.\n                  \n                  \n                    Methods\n                    Using the 2019\u20132023 National Inpatient Sample, we identified TAVR hospitalizations with same\u2010admission pacemaker implantation. Survey\u2010weighted logistic regression evaluated predictors of leadless versus transvenous device selection, adjusting for demographics, payer, income, comorbidity burden, hospital characteristics, and procedure year.\n                  \n                  \n                    Results\n                    \n                      Among 427,080 weighted TAVR hospitalizations, 28,580 (6.7%) included pacemaker implantation, with 3255 (11.4%) receiving a leadless device. Leadless use rose from 6.1% of pacemaker implants in 2019 to 14.3% in 2021, followed by stabilization through 2023. Temporal trends were the strongest independent predictor of leadless implantation (2021\u00a0vs. 2019: aOR 2.66 [95% CI 1.87\u20133.77];\n                      p\n                      &lt; 0.001). Higher comorbidity burden independently increased likelihood of leadless use (aOR 1.10 per 5\u2010point Elixhauser increase;\n                      p\n                      &lt; 0.001). Large hospitals (by bed size) were associated with higher odds of leadless implantation versus small hospitals (aOR 1.58 [1.13\u20132.21];\n                      p\n                      = 0.007). Age, sex, payer, and income were not associated with device type.\n                    \n                  \n                  \n                    Conclusion\n                    Leadless pacemaker adoption after TAVR increased substantially through 2021 and subsequently stabilized, with real\u2010world usage associated with temporal trends, comorbidity burden, and institutional volume rather than patient demographics or socioeconomic factors. This suggests relatively equitable patient\u2010level but institutionally uneven uptake of this emerging technology."
   },
   {
     "title": "Correction to: Atrial fibrillation density as a biomarker for ischaemic stroke risk prediction",
@@ -2946,6 +3106,42 @@
     "date_ts": 1788229485.729481,
     "tags": [
       "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Response to \u2018Upgrade procedures of pacemakers or implantable cardioverter-defibrillators require creative clinical decision making and careful planning that begins at the first implantation\u2019",
+    "link": "https://doi.org/10.1093/europace/euag240",
+    "doi": "10.1093/europace/euag240",
+    "journal": "EP Europace",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Upgrade procedures of pacemakers or implantable cardioverter-defibrillators require creative clinical decision making and careful planning that begins at the first implantation",
+    "link": "https://doi.org/10.1093/europace/euag174",
+    "doi": "10.1093/europace/euag174",
+    "journal": "EP Europace",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed Field Ablation in Proximity to a Retained Metallic Pericardial Foreign Body: Feasibility and Procedural Considerations",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.09.015",
+    "doi": "10.1016/j.hrcr.2026.09.015",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Other"
     ],
     "hot": false
   },
@@ -6062,223 +6258,5 @@
       "Other"
     ],
     "hot": false
-  },
-  {
-    "title": "Response by Rogers et al to Letter Regarding, \u201cDeep Learning-Based Continuous QT Monitoring to Identify High-Risk Prolongation Events After Class III Antiarrhythmic Initiation\u201d",
-    "link": "https://doi.org/10.1161/circulationaha.126.080755",
-    "doi": "10.1161/circulationaha.126.080755",
-    "journal": "Circulation",
-    "date": "Aug 11, 2026",
-    "date_ts": 1786406400.0,
-    "tags": [
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Letter by Li et al Regarding Article, \u201cDeep Learning-Based Continuous QT Monitoring to Identify High-Risk Prolongation Events After Class III Antiarrhythmic Initiation\u201d",
-    "link": "https://doi.org/10.1161/circulationaha.126.079996",
-    "doi": "10.1161/circulationaha.126.079996",
-    "journal": "Circulation",
-    "date": "Aug 11, 2026",
-    "date_ts": 1786406400.0,
-    "tags": [
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Postcardiac Arrest Inflammatory Response: Mechanisms and Therapeutic Targets",
-    "link": "https://doi.org/10.1161/circulationaha.126.080096",
-    "doi": "10.1161/circulationaha.126.080096",
-    "journal": "Circulation",
-    "date": "Aug 11, 2026",
-    "date_ts": 1786406400.0,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false,
-    "abstract": "Postcardiac arrest syndrome is a complex multisystem disorder that evolves after return of spontaneous circulation and remains a major determinant of morbidity and mortality following out-of-hospital cardiac arrest. Beyond anoxic brain injury and transient myocardial dysfunction, many patients develop a systemic ischemia/reperfusion response with endothelial and microvascular dysfunction, vasoplegia, and immune dysregulation\u2014features that contribute to shock and organ failure. Hemodynamic instability is often mixed with low systemic vascular resistance despite preserved or recovering cardiac output, but management is still largely supportive and centered on achieving a target mean arterial pressure. An increasing understanding of the central role of inflammation, including gastrointestinal barrier disruption, cytokine release, complement activation, nitric oxide\u2013cGMP signaling, and immune phenotypic heterogeneity has prompted evaluation of targeted adjunctive therapies. However, randomized trials of immunomodulators and other vasoactive strategies have yielded mixed results, reflecting biological heterogeneity and limited phenotypic stratification. This review synthesizes contemporary understanding of the inflammatory and hemodynamic mechanisms underpinning postcardiac arrest syndrome, examines current and emerging pharmacologic strategies, and highlights priorities for future investigation, including mechanistic phenotyping, prospective biobanking, and prospective trial requirements to guide more precise management strategies in postcardiac arrest care.",
-    "summary": "This narrative review synthesizes the pathophysiology of postcardiac arrest syndrome, highlighting the central roles of systemic inflammation, endothelial dysfunction, and vasoplegia in determining outcomes, and discusses current and emerging pharmacologic interventions while emphasizing the need for mechanistic phenotyping and biomarker-guided strategies to improve the efficacy of targeted therapies in this heterogeneous patient population."
-  },
-  {
-    "title": "Implantation of a Leadless Pacemaker Via a Trans\u2010Iliac Vein Stent Approach: A Case Report",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70390?af=R",
-    "doi": "10.1111/pace.70390",
-    "journal": "PACE",
-    "date": "Aug 11, 2026",
-    "date_ts": 1786441058.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Leadless pacemakers (Micra) are typically implanted via the right femoral venous approach. However, in patients with a prior iliac vein stent, the conventional access route may carry a potential risk of stent injury. Reports of leadless pacemaker implantation through the lumen of an iliac vein stent remain limited.\n                  \n                  \n                    Case presentation\n                    An 83\u2010year\u2010old woman was admitted with recurrent palpitations and syncope. Ambulatory electrocardiographic monitoring revealed frequent sinus pauses, meeting the indication for permanent pacing therapy. The patient had previously undergone left iliac vein stent implantation. Intraoperative fluoroscopy demonstrated partial protrusion of the stent into the inferior vena cava. To avoid possible stent damage associated with the conventional right femoral venous approach, a decision was made to implant a VVI leadless pacemaker via the left iliac vein through the stent lumen. Under multi\u2010angle fluoroscopic guidance, the guidewire position was carefully confirmed within the central lumen of the stent, and the delivery sheath was advanced slowly across the stented segment. The device was successfully deployed in the right ventricle. Post\u2010procedural pacing parameters were satisfactory, and no vascular or cardiac complications occurred.\n                  \n                  \n                    Conclusion\n                    With careful patient selection and meticulous procedural technique, implantation of a leadless pacemaker via the lumen of an iliac vein stent appears to be technically feasible without immediate complications. This approach may provide an alternative therapeutic option for elderly patients with a history of iliac vein stenting who are unsuitable for the conventional femoral venous approach and are at high bleeding risk.",
-    "summary": "This case report describes successful implantation of a VVI leadless pacemaker (Micra) through the lumen of a previously placed left iliac vein stent in an 83-year-old woman with symptomatic bradycardia, demonstrating that careful procedural technique using multiangle fluoroscopy can enable this alternative approach in patients with iliac vein stents who are at high bleeding risk for conventional femoral access."
-  },
-  {
-    "title": "Diagnostic Accuracy of 12\u2010Lead ECG Algorithms for Accessory Pathway Localization in WPW: A Meta\u2010Analysis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70387?af=R",
-    "doi": "10.1111/pace.70387",
-    "journal": "PACE",
-    "date": "Aug 11, 2026",
-    "date_ts": 1786440899.0,
-    "tags": [
-      "SVT",
-      "AI"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    In Wolff\u2013Parkinson\u2013White (WPW) syndrome, accurate localization of accessory pathways before catheter ablation can improve procedural planning and efficiency. Several 12\u2010lead electrocardiographic (ECG) algorithms have been proposed, but their diagnostic performance has not been consistently established. We performed a systematic review and meta\u2010analysis to assess the accuracy of ECG\u2010based algorithms for accessory pathway localization in manifest WPW.\n                  \n                  \n                    Methods\n                    Following PRISMA\u2010DTA recommendations, PubMed, EMBASE, Cochrane CENTRAL, Web of Science, and Scopus were searched from January 1990 to January 2026. Studies enrolling adult or pediatric patients with manifest pre\u2010excitation who underwent electrophysiological study (EPS) and catheter ablation were included. Successful localization during EPS/ablation served as the reference standard. Random\u2010effects models were used to calculate pooled diagnostic accuracy, sensitivity, specificity, and diagnostic odds ratios (DOR). Summary receiver operating characteristic and leave\u2010one\u2010out sensitivity analyses were also performed.\n                  \n                  \n                    Results\n                    \n                      Seventeen studies involving 3159 patients met inclusion criteria. The pooled diagnostic accuracy of ECG algorithms was 0.91 (95% CI 0.85\u20130.94), although heterogeneity was substantial (I\n                      2\n                      = 91.4%). Pooled sensitivity was 0.87 (95% CI 0.73\u20130.94), and pooled specificity was 0.98 (95% CI 0.95\u20130.99; I\n                      2\n                      = 0%). The pooled DOR was 297.17 (95% CI 46.33\u20131906.19;\n                      p\n                      &lt;0.0001). Sensitivity analyses showed stable results after sequential exclusion of individual studies.\n                    \n                  \n                  \n                    Conclusion\n                    Twelve\u2010lead ECG algorithms provide high diagnostic performance for accessory pathway localization in manifest WPW and may be useful adjuncts for pre\u2010ablation planning, although invasive electrophysiological mapping remains essential.",
-    "summary": "This meta-analysis of 17 studies (3,159 patients) evaluated 12-lead ECG algorithms for accessory pathway localization in manifest WPW syndrome, demonstrating pooled diagnostic accuracy of 91% (sensitivity 87%, specificity 98%), suggesting ECG-based algorithms are useful adjuncts for pre-ablation planning though electrophysiological mapping remains the reference standard."
-  },
-  {
-    "title": "A Stepwise ECG Algorithm to Resolve Identical Precordial Transition in Idiopathic Outflow Tract Ventricular Arrhythmias",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70381?af=R",
-    "doi": "10.1111/pace.70381",
-    "journal": "PACE",
-    "date": "Aug 11, 2026",
-    "date_ts": 1786439748.0,
-    "tags": [
-      "VT",
-      "AI"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Accurate pre\u2010procedural differentiation of right (RVOT) versus left ventricular outflow tract (LVOT) origin in idiopathic outflow tract ventricular arrhythmias may facilitate procedural planning and mapping strategy. However, existing 12\u2010lead ECG criteria show variable performance and often fail to provide clear discrimination when the precordial transition during sinus rhythm and ventricular ectopy is identical.\n                  \n                  \n                    Objective\n                    To develop and evaluate a pragmatic, stepwise 12\u2010lead ECG algorithm integrating amplitude\u2010 and duration\u2010based parameters to discriminate RVOT from LVOT origin, with specific focus on identical precordial transitional patterns.\n                  \n                  \n                    Methods\n                    In this single\u2010center retrospective study, consecutive patients undergoing successful catheter ablation for idiopathic outflow tract ventricular arrhythmias were included. The reference standard was the documented site of successful ablation (RVOT vs. LVOT). A stepwise ECG algorithm was developed, incorporating morphology\u2010based criteria followed by a binary logistic regression model in patients with identical precordial transition. Diagnostic performance was assessed relative to the ablation site, and the regression model was internally validated using bootstrap resampling.\n                  \n                  \n                    Results\n                    \n                      A total of 133 patients were included (RVOT\n                      n\n                      = 76; LVOT\n                      n\n                      = 57). The 4\u2010step algorithm correctly classified 131 of 133 patients (98.5%). In the subgroup with identical transitions during sinus rhythm and PVCs (\n                      n\n                      = 48), Step 4 demonstrated complete apparent classification, with an optimism\u2010corrected accuracy of 96.1% and an AUC of 0.958 after bootstrap validation. The estimated optimism\u2010corrected overall algorithm accuracy was 97%.\n                    \n                  \n                  \n                    Conclusion\n                    A probability\u2010based, stepwise ECG algorithm enables accurate discrimination between RVOT and LVOT origin, particularly in diagnostically challenging transitional patterns. If confirmed in external cohorts, this structured approach may support pre\u2010procedural localization and hypothesis\u2010driven mapping strategies in patients with idiopathic outflow tract ventricular arrhythmias.",
-    "summary": "This single-center retrospective study of 133 patients (76 RVOT, 57 LVOT) evaluated a novel stepwise 12-lead ECG algorithm incorporating morphologic and regression-based criteria to discriminate right from left ventricular outflow tract origin in idiopathic outflow tract arrhythmias, achieving 98.5% overall accuracy (97% optimism-corrected) with particularly strong performance in the challenging subgroup with identical precordial transitions (96.1% accuracy). If externally validated, this algorithm could improve pre-procedural localization and mapping strategy in patients undergoing catheter ablation for these arrhythmias."
-  },
-  {
-    "title": "Impact of a Mobile Reference Application on the Efficiency and Accuracy of CIED Data Retrieval: A Comparative Pilot Study",
-    "link": "https://doi.org/10.1093/europace/euag206",
-    "doi": "10.1093/europace/euag206",
-    "journal": "EP Europace",
-    "date": "Aug 11, 2026",
-    "date_ts": 1786406400.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "High-Probability HFpEF Phenotype in Atrial Fibrillation Patients Undergoing Ablation: Insights from RECAP",
-    "link": "https://doi.org/10.1093/europace/euag211",
-    "doi": "10.1093/europace/euag211",
-    "journal": "EP Europace",
-    "date": "Aug 11, 2026",
-    "date_ts": 1786406400.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Terminal S Wave Pattern in Lead V3 as a Simple Marker for Ventricular Tachycardia Risk Stratification in Patients With Repaired Tetralogy of Fallot",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70468?af=R",
-    "doi": "10.1111/jce.70468",
-    "journal": "J Cardiovasc EP",
-    "date": "Aug 10, 2026",
-    "date_ts": 1786387132.0,
-    "tags": [
-      "VT",
-      "SCD"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Patients with repaired tetralogy of Fallot (rTOF) remain at risk of ventricular tachycardia (VT). This risk is most commonly related to slow conduction within the septal isthmus, which is defined as the region between the ventricular septal defect (VSD) patch and adjacent valvular annuli. While assessment of septal isthmus conduction currently requires invasive electrophysiological mapping, the 12\u2010lead electrocardiogram (ECG) may offer a noninvasive alternative. Therefore, the present study aimed to identify ECG markers reflecting septal isthmus conduction properties and evaluate their ability to predict isthmus conduction characteristics and VT inducibility.\n                  \n                  \n                    Methods and Results\n                    \n                      In five patients with rTOF undergoing septal isthmus ablation, 12\u2010lead ECGs obtained before and after ablation were compared to identify candidate ECG markers. The identified marker was validated in an independent cohort of 23 patients stratified according to septal isthmus conduction properties into normal conduction (Normal,\n                      n\n                      \u2009=\u20095), slow\u2010conducting isthmus (SCI,\n                      n\n                      \u2009=\u200910), and conduction block (Block,\n                      n\n                      \u2009=\u20098) groups. The results indicated that the terminal S wave (TSW) in lead V3 became more prominent after ablation compared with that before ablation. In the validation cohort, V3 TSW was categorized as absent, small (&lt;\u20090.1\u2009mV), or large (\u2265\u20090.1\u2009mV), and the TSW patterns differed significantly among the groups (\n                      p\n                      \u2009&lt;\u20090.001). Specifically, absent TSW was dominant in the Normal group (4/5, 80%), small TSW was the most frequent in the SCI group (7/10, 70%), and large TSW was predominant in the Block group (7/8, 87.5%). Small TSW predicted SCI with 70% sensitivity and 85% specificity (\n                      p\n                      \u2009=\u20090.013), whereas large TSW predicted Block with 88% sensitivity and 80% specificity (\n                      p\n                      \u2009=\u20090.006). Moreover, large TSW predicted VT non\u2010inducibility with high specificity and high positive predictive value (\n                      p\n                      \u2009=\u20090.019).\n                    \n                  \n                  \n                    Conclusion\n                    This study indicates that V3 TSW is a simple, noninvasive ECG marker reflecting septal isthmus conduction properties in rTOF, suggesting its potential utility for VT risk stratification.",
-    "summary": "This prospective study of 28 patients with repaired tetralogy of Fallot identified terminal S wave (TSW) amplitude in ECG lead V3 as a noninvasive marker of septal isthmus conduction properties, with large TSW (\u22650.1 mV) predicting conduction block and VT non-inducibility with 88% sensitivity and 80% specificity. The findings suggest V3 TSW may facilitate risk stratification for ventricular tachycardia without invasive electrophysiological mapping."
-  },
-  {
-    "title": "Advantages of the QDOT MICRO Catheter in Finding Conduction Gaps in Pulmonary Vein Isolation Compared With the Conventional 3.5\u2010mm Tip Electrode",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70472?af=R",
-    "doi": "10.1111/jce.70472",
-    "journal": "J Cardiovasc EP",
-    "date": "Aug 10, 2026",
-    "date_ts": 1786386860.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Pulmonary vein isolation (PVI) remains a cornerstone treatment for atrial fibrillation; however, residual conduction gaps often hinder first\u2010pass success and contribute to late reconnection, leading to arrhythmia recurrence. The QDOT MICRO catheter (Biosense Webster Inc., CA, USA) is equipped with three microelectrodes at its tip. Their small size and short inter\u2010electrode spacing allow for a more detailed recording of intracardiac potentials. This study evaluated the utility of the QDOT MICRO catheter in detecting conduction gaps during PVI.\n                  \n                  \n                    Methods\n                    Forty\u2010four\u00a0gaps in 40 patients undergoing initial PVI were analyzed by comparing electrograms recorded using microelectrodes and conventional 3.5\u2010mm tip electrodes.\n                  \n                  \n                    Results\n                    \n                      At the gap sites, the local electrogram voltage recorded by microelectrodes was significantly higher than that by 3.5\u2010mm tip electrodes (median, 0.449 vs. 0.195\u2009mV,\n                      p\n                      \u2009&lt;\u20090.001), representing a 2.3\u2010fold amplification. The prevalence of fragmented potentials at the gap sites was significantly higher with microelectrodes than with 3.5\u2010mm tip electrodes (61% vs. 30%,\n                      p\n                      \u2009&lt;\u20090.001). In 36% of gaps, fragmented potentials were detected with microelectrodes, whereas the 3.5\u2010mm electrodes recorded nonfragmented signals, contributing to accurate gap detection. In 11% of gaps, the amplitude was extremely low with 3.5\u2010mm tip electrodes [median 0.107 (IQR 0.088\u20130.112)\u2009mV], rendering the interpretation of local electrogram challenging. However, microelectrodes amplified the signal [median 0.215 (IQR 0.176\u20130.283)\u2009mV], allowing for accurate identification and interpretation.\n                    \n                  \n                  \n                    Conclusion\n                    Microelectrodes enhance the detection and characterization of conduction gaps, particularly under low\u2010voltage or in scarred tissue, thereby improving ablation accuracy.",
-    "summary": "This prospective observational study of 40 patients undergoing pulmonary vein isolation compared microelectrode versus conventional electrode recordings at 44 conduction gaps, finding that microelectrodes demonstrated 2.3-fold higher electrogram voltage and superior detection of fragmented potentials (61% vs 30%, p<0.001), particularly improving gap identification in low-voltage tissue. The enhanced signal characterization with microelectrodes may improve ablation accuracy and reduce reconnection-related arrhythmia recurrence."
-  },
-  {
-    "title": "Unmasking Brugada ECG Pattern in Myotonic Dystrophy Type 2 With an ANK2 Variant",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70191?af=R",
-    "doi": "10.1111/pace.70191",
-    "journal": "PACE",
-    "date": "Aug 10, 2026",
-    "date_ts": 1786386374.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Brugada syndrome has been reported in myotonic dystrophy type 1, whereas its association with myotonic dystrophy type 2 (DM2) remains largely unexplored.\n                  \n                  \n                    Case Summary\n                    \n                      We report a patient with genetically confirmed DM2 who presented with an electrocardiogram showing a Brugada type\u20102 ECG\u00a0pattern. Sodium\u2010channel blocker testing unmasked a diagnostic type 1 Brugada pattern. Genetic analysis excluded\n                      SCN5A\n                      variants and identified a rare heterozygous\n                      ANK2\n                      missense variant, a gene involved in cardiac electrical stability.\n                    \n                  \n                  \n                    Conclusion\n                    This case expands the spectrum of Brugada phenotypes to DM2 and highlights the importance of not underestimating suspicious Brugada\u2010like ECG findings in patients with muscular dystrophies.",
-    "summary": "This case report describes a patient with genetically confirmed myotonic dystrophy type 2 who presented with a Brugada type-2 ECG pattern that unmasked a diagnostic type-1 pattern after sodium-channel blocker challenge, with genetic analysis identifying a rare ANK2 missense variant rather than typical SCN5A mutations. The case expands the known association between myotonic dystrophies and Brugada syndrome to DM2 and underscores the clinical importance of investigating Brugada-like ECG findings in patients with muscular dystrophies."
-  },
-  {
-    "title": "SLL\u2010Type CCTGA With Dual AV Conduction System: Anterior AV Node\u2010Origin Atrial Tachycardia From RVOT",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70174?af=R",
-    "doi": "10.1111/pace.70174",
-    "journal": "PACE",
-    "date": "Aug 10, 2026",
-    "date_ts": 1786386374.0,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Congenitally corrected transposition of the great arteries (ccTGA) involves atrio\u2010ventricular/ventriculo\u2010arterial discordance, leading to AV node\u2010His bundle variations that complicate RVOT anterior AV node\u2010origin atrial tachycardia (AT).\n                  \n                  \n                    Case Summary\n                    A 16\u2010year\u2010old male with 3\u2010year paroxysmal palpitations (worsened 6 months) had narrow QRS tachycardia. Echocardiography/CTA confirmed SLL\u2010type ccTGA. Electrophysiologic study revealed dual AV conduction system (RVOT His potentials) and RVOT as the earliest activation site. Radiofrequency ablation succeeded, with no recurrence/AV block at 12\u2010month follow\u2010up.\n                  \n                  \n                    Conclusion\n                    In ccTGA, pulmonary artery/RVOT is adjacent to the anteroseptum (aortic sinuses distant); redefining localization/ablation strategies ensures safety and success.",
-    "summary": "This case report describes successful radiofrequency ablation of right ventricular outflow tract atrial tachycardia in a 16-year-old with congenitally corrected transposition of the great arteries, achieved by recognizing the altered cardiac anatomy and dual AV conduction system to guide ablation strategy, with no recurrence or AV block at 12-month follow-up."
-  },
-  {
-    "title": "Delayed Partial Protrusion of the Lead After Left Bundle Branch Pacing: The Importance of Programming\u2014A Case Report",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70188?af=R",
-    "doi": "10.1111/pace.70188",
-    "journal": "PACE",
-    "date": "Aug 10, 2026",
-    "date_ts": 1786386374.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  Delayed lead perforation into the left ventricular (LV) cavity after left bundle branch area pacing (LBBAP) is less common than in the acute setting and could be associated with severe adverse events. We present the case of a young patient with symptomatic second\u2010degree atrioventricular block who developed partial protrusion of the LBBAP lead into the LV cavity after discharge. While adequate conduction system capture was still seen with bipolar pacing, this potentially serious complication was self\u2010diagnosed by the patient due to the initial ventricular pacing programming in a unipolar setting, which revealed the complete loss of capture.",
-    "summary": "This case report describes a young patient with second-degree atrioventricular block who experienced delayed left ventricular lead perforation after left bundle branch area pacing, which was detected when unipolar pacing programming revealed loss of capture despite maintained bipolar capture. The complication highlights the importance of comprehensive pacing threshold testing in both unipolar and bipolar configurations to identify potentially serious lead malpositions that may not be apparent with standard bipolar assessment alone."
-  },
-  {
-    "title": "Issue Information",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70384?af=R",
-    "doi": "10.1111/pace.70384",
-    "journal": "PACE",
-    "date": "Aug 10, 2026",
-    "date_ts": 1786386374.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Real\u2010World Treatment of Patients With Sinus Node Dysfunction and Heart Failure With Preserved Ejection Fraction",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70172?af=R",
-    "doi": "10.1111/pace.70172",
-    "journal": "PACE",
-    "date": "Aug 10, 2026",
-    "date_ts": 1786386374.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Permanent pacemaker (PPM) implantation is recommended in patients with sinus node dysfunction (SND). In patients with coexisting heart failure with preserved ejection fraction (HFpEF), clinicians may be hesitant to treat SND due to concerns about exacerbating heart failure. Little is known about real\u2010world PPM utilization and disease burden in the HFpEF population that has been assumed to benefit from low heart rates. This study aims to characterize the disease burden and PPM utilization in patients with SND+HFpEF versus SND\u2010only in a Medicare population.\n                  \n                  \n                    Methods\n                    Patients diagnosed with SND were identified in the Medicare administrative claims database and stratified by presence or abscence of prior evidence of HFpEF. Rates of the following clinical outcomes were compared between the cohorts during follow\u2010up: PPM implant, HF hospitalization, atrial fibrillation (AF) hospitalization, second/third\u2010degree AV block or HFrEF, myocardial infarction (MI), ischemic stroke, and all\u2010cause mortality.\n                  \n                  \n                    Results\n                    \n                      SND+HFpEF (\n                      N\u00a0\n                      =\u00a026,986) patients were older (81.1\u00a0vs. 78.5,\n                      p\n                      \u00a0&lt;\u00a00.0001) and more likely to be female (63.5%\u00a0vs. 49.9%,\n                      p\n                      \u00a0&lt;\u00a00.0001) than SND\u2010only patients (\n                      N\n                      \u00a0=\u00a074,269). Median follow\u2010up time was 884 days (IQR 476\u20131408). The PPM implant rate during follow\u2010up was lower in the SND+HFpEF population (HR\u00a0=\u00a00.811,\n                      p\n                      \u00a0&lt;\u00a00.0001). The SND+HFpEF population had higher HF and AF hospitalizations (HR\u00a0=\u00a02.229 and HR\u00a0=\u00a01.174, both p\u00a0&lt;\u00a00.0001), and higher incidence of second/third\u2010degree AV block and HFrEF (HR\u00a0=\u00a01.364 and HR\u00a0=\u00a01.640, both\n                      p\n                      \u00a0&lt;\u00a00.0001) than the SND\u2010only population.\n                    \n                  \n                  \n                    Conclusions\n                    PPM implant rates were lower, and overall disease burden was greater in HFpEF+SND patients compared to SND\u2010only patients. Future work should focus on optimizing treatment pathways for patients with HFpEF and SND.",
-    "summary": "This retrospective Medicare claims analysis of 26,986 patients with sinus node dysfunction and heart failure with preserved ejection fraction (SND+HFpEF) versus 74,269 with SND-only found that SND+HFpEF patients had significantly lower permanent pacemaker implantation rates (HR=0.811) despite higher disease burden, including increased heart failure hospitalizations, atrial fibrillation hospitalizations, progression to advanced AV block, and heart failure with reduced ejection fraction. The findings suggest potential undertreatment of SND in the HFpEF population and highlight the need for optimized management strategies in this high-risk cohort."
-  },
-  {
-    "title": "Sex\u2010Based Differences in Left Bundle Branch Capture During Left Bundle Branch Area Pacing",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70181?af=R",
-    "doi": "10.1111/pace.70181",
-    "journal": "PACE",
-    "date": "Aug 10, 2026",
-    "date_ts": 1786386374.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Objective\n                    To identify sex\u2010based differences in meeting left bundle branch (LBB) capture criteria on postimplant ECGs.\n                  \n                  \n                    Background\n                    Despite differences in QRS duration (QRSd) between males and females, no sex\u2010based criteria have been established for defining LBB capture during LBB area pacing (LBBAP).\n                  \n                  \n                    Methods\n                    Patients aged &gt;18 y.o. with a pacing indication and dual\u2010chamber LBBAP pacemaker implantation from 2020 to 2023 were studied. Baseline and postoperative day 1 (POD1) ECGs were assessed for electrical dyssynchrony (QRS\u2010area, sum\u2010absolute integral of QRS\u2010T (SAI QRS\u2010T)), with LBB capture defined based on R\u2010wave peak times (RWPT) per the EHRA 2023 Consensus algorithm.\n                  \n                  \n                    Results\n                    \n                      The cohort included 222 patients (143 males/79 females, age 74.5\u00b11.1 years, LVEF 53.7\u00b10.4%). Baseline QRSd was significantly shorter among females than males (median 122\u00a0ms [90,134] vs 126\u00a0ms [102,146];\n                      p\n                      = 0.018). LBB capture criteria were met in 83 (58.0%) male and 56 (70.9%) female patients (\n                      p\n                      = 0.058). Baseline and POD1 dyssynchrony were similar between sexes. However, RWPTs measured in leads V\n                      6\n                      /I/aVL were \u223c7\u00a0ms\n                      shorter\n                      in females than males (V\n                      6\n                      \u2010RWPT: 66.3 \u00b1 1.6\u00a0ms vs. 73.7 \u00b1 1.4\u00a0ms,\n                      p\n                      = 0.0008). Adjusting V\n                      6\n                      \u2010RWPT up by 7\u00a0ms in females resulted in 7/56 patients (12.5%) no longer meeting LBB capture criteria. Significant differences were eliminated when normalizing RWPTs to size parameters (LV size, height, body surface area (BSA)), with no significant correlation between V\n                      6\n                      \u2010RWPT and size.\n                    \n                  \n                  \n                    Conclusions\n                    \n                      Females with LBB capture exhibit shorter V\n                      6\n                      \u2010RWPTs despite similar measures of electrical dyssynchrony. This difference disappears when normalizing for the smaller size of female hearts. Additional studies are warranted to establish sex\u2010specific LBB capture criteria.",
-    "summary": "This retrospective observational study of 222 patients (143 male, 79 female) undergoing left bundle branch area pacing (LBBAP) found that females had significantly shorter R-wave peak times in lead V6 (~7 ms shorter) compared to males despite similar electrical dyssynchrony measures, a difference that was eliminated when normalized to cardiac size parameters. The authors conclude that sex-specific LBB capture criteria may be warranted, as current EHRA criteria may not adequately account for anatomic differences between sexes."
   }
 ]
