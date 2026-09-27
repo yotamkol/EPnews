@@ -1,5 +1,55 @@
 [
   {
+    "title": "Epicardial Adipose Tissue Attenuation on Cardiac Computed Tomography Is Associated with Recurrent Ventricular Fibrillation in Patients with Brugada Syndrome",
+    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600557X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Sep 27, 2026",
+    "date_ts": 1790475392.276389,
+    "tags": [
+      "VT",
+      "Genetics",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Functional heterogeneity of arrhythmogenic KCNQ1 S1 mutants reveals dependence on the number of KCNE1 subunits in the <em>I</em><sub>Ks</sub> channel complex.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028134?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 27, 2026",
+    "date_ts": 1790475392.064858,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Is It Time to Target Epicardial Adipose Tissue in Atrial Fibrillation?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028146?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 27, 2026",
+    "date_ts": 1790475392.064812,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Complications After Permanent Pacemaker Implantation in Patients with Congenital Complete Atrioventricular Block: A Systematic Review and Meta-analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028158?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Sep 27, 2026",
+    "date_ts": 1790475392.064603,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
     "title": "Conduction System Pacing in Children: Not Just Little Adults?",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008327?dgcid=rss_sd_all",
     "doi": null,
@@ -470,6 +520,45 @@
       "AFib"
     ],
     "hot": false
+  },
+  {
+    "title": "Vascular Closure Devices After Femoral Access in Adult EP Procedures: Updated Systematic Review and Meta\u2010Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70445?af=R",
+    "doi": "10.1111/pace.70445",
+    "journal": "PACE",
+    "date": "Sep 26, 2026",
+    "date_ts": 1790387828.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Femoral vascular access is integral to diagnostic and therapeutic electrophysiology (EP) procedures but is associated with bleeding and access\u2010site complications. Manual compression and figure\u2010of\u2010eight sutures remain widely used for hemostasis; however, they are resource intensive and delay ambulation. Vascular closure devices (VCDs) have been introduced to facilitate rapid hemostasis and improve procedural efficiency, yet evidence specific to adult EP procedures remain conflicting.\n                  \n                  \n                    Objectives\n                    To systematically evaluate the safety and efficacy of vascular closure devices compared with manual compression or figure\u2010of\u2010eight sutures for femoral access\u2010site closure in adult electrophysiology procedures.\n                  \n                  \n                    Methods\n                    A systematic review and meta\u2010analysis were conducted in accordance with PRISMA 2020 guidelines. PubMed/MEDLINE, Embase, Cochrane CENTRAL, and Scopus were searched from inception through January 2026. Randomized controlled trials and observational studies enrolling adults (\u2265 18 years) undergoing diagnostic electrophysiology studies or catheter ablation with femoral access were included. Structural and valvular interventions were excluded. Random\u2010effects meta\u2010analyses were performed. Safety outcomes were summarized using risk ratios (RRs), and efficiency outcomes using standardized mean differences (SMDs) with 95% confidence intervals (CIs).\n                  \n                  \n                    Results\n                    Eighteen studies (10 randomized controlled trials and 8 observational studies) involving 40,632 patients were included. Compared with manual compression, VCD was associated with significantly lower risks of access\u2010site hematoma (RR, 0.59; 95% CI, 0.46\u20130.71), major bleeding (RR, 0.72; 95% CI, 0.55\u20130.88), minor bleeding (RR, 0.55; 95% CI, 0.17\u20130.93), and pseudoaneurysm formation (RR, 0.69; 95% CI, 0.54\u20130.83), with minimal heterogeneity for these outcomes. Absolute risk reductions were modest (number needed to treat: 90 for hematoma; 430 for pseudoaneurysm). VCDs significantly reduced time to hemostasis (SMD, \u22122.90; 95% CI, \u22123.71 to \u22122.08), time to ambulation (SMD, \u22121.84; 95% CI, \u22122.45 to \u22121.24), and time to hospital discharge (SMD, \u22121.12; 95% CI, \u22121.66 to \u22120.58), although heterogeneity for time\u2010based outcomes was high. No significant differences were observed in infection or hospital readmission rates.\n                  \n                  \n                    Conclusions\n                    In adult electrophysiology procedures, vascular closure devices are associated with modest reductions in access\u2010site complications and substantial improvements in procedural efficiency. These findings support selective adoption of VCDs to optimize patient recovery and workflow, particularly in high\u2010volume EP centers."
+  },
+  {
+    "title": "Ability of the HALP Score to Predict Cardiac Implantable Electronic Device\u2010Related Complications",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70441?af=R",
+    "doi": "10.1111/pace.70441",
+    "journal": "PACE",
+    "date": "Sep 25, 2026",
+    "date_ts": 1790325312.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    The hemoglobin, albumin, lymphocyte, and platelet score (HALP) is a recently defined score that indicates patients' inflammation and nutritional status. This score is associated with poor outcomes in cardiovascular diseases. We aimed to examine the relationship between the HALP score and complications related to cardiac implantable electronic devices (CIED) in patients undergoing CIED procedures.\n                  \n                  \n                    Methods\n                    Our study included 998 patients who underwent CIED implantation in our hospital between January 2019 and May 2022. Patients were divided into two groups according to the median HALP score. The low HALP score group consisted of patients with a HALP score &lt; 40.63, and the high HALP score group consisted of patients with a HALP score \u226540.63. There were 499 patients in both groups. The endpoint of our study was cumulative events, including infection, pneumothorax, and hematoma secondary to CIED.\n                  \n                  \n                    Results\n                    \n                      The mean age of the population was 63.9 \u00b1 13.8 years, and 61.5% (615) of the population were male patients. In the multivariate logistic regression analyses, hypertension (OR = 4.216,\n                      p\n                      &lt; 0.001), biventricular ICD implantation (OR = 16.894,\n                      p\n                      &lt; 0.001), and HALP score (OR = 0.973,\n                      p\n                      &lt; 0.001) were independent predictors of cumulative event. In the ROC curve analysis, the HALP score cut\u2010off value of 40.03 was 60.8% sensitive and 52.4% specific for cumulative events (AUC = 59.5%,\n                      p\n                      = 0.007).\n                    \n                  \n                  \n                    Conclusion\n                    Our study observed that the HALP score was an independent predictor of cumulative complications related to CIED procedures. In light of this study, we think that the easily calculated HALP score may be useful in predicting complications in physicians performing CIED procedures."
+  },
+  {
+    "title": "Safety of Pulsed Field Ablation: Established Evidence, Emerging Risks, and Knowledge Gaps",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70446?af=R",
+    "doi": "10.1111/pace.70446",
+    "journal": "PACE",
+    "date": "Sep 25, 2026",
+    "date_ts": 1790324812.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  Pulsed field ablation (PFA) has rapidly emerged as an important ablation technology for atrial arrhythmias and is increasingly being explored for ventricular arrhythmias. As clinical experience expands, a precise understanding of its safety profile is essential. This review summarizes contemporary evidence on the safety of PFA, distinguishes procedure\u2010related complications from those attributable to electroporation, and highlights areas in which evidence remains limited."
   },
   {
     "title": "Cardiac Radioablation: When Evidence Challenges Enthusiasm",
@@ -3660,6 +3749,30 @@
     "hot": false
   },
   {
+    "title": "Thoracoscopic tunneling tool-assisted substernal extravascular ICD implantation in a patient with prior sternotomy",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.09.018",
+    "doi": "10.1016/j.hrcr.2026.09.018",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulmonary Vein Gap-Related Reentrant Atrial Flutter Early After Pulsed Field Ablation",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.09.016",
+    "doi": "10.1016/j.hrcr.2026.09.016",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Sep 01, 2026",
+    "date_ts": 1788220800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Response to \u2018Upgrade procedures of pacemakers or implantable cardioverter-defibrillators require creative clinical decision making and careful planning that begins at the first implantation\u2019",
     "link": "https://doi.org/10.1093/europace/euag240",
     "doi": "10.1093/europace/euag240",
@@ -6123,125 +6236,5 @@
     "hot": false,
     "abstract": "Abstract\n                  \n                    Background\n                    Prior reports of internal jugular vein (IJV) access for implantation of leadless pacemakers (LLPM) are primarily small series and for ventricular LLPM.\n                  \n                  \n                    Objectives\n                    To describe outcomes of consecutive patients undergoing IJV access for both atrial and ventricular LLPM implantation.\n                  \n                  \n                    Methods\n                    This observational multicenter study included 32 consecutive patients (17 female; 69 \u00b1 14 years; range 17\u201391) undergoing LLPM implantation via IJV access. Dual chamber LLPM was implanted in 16 patients, right ventricular (RV) only in 13, and right atrial (RA) only in 3. Electrical parameters were measured at implantation, 7\u201310 days post implantation, and at last follow\u2010up (mean 215 \u00b1 98 days).\n                  \n                  \n                    Results\n                    IJV access was successful in all patients. Mean procedure and fluoroscopy times were 82 \u00b1 40 and 16 \u00b1 9 min, respectively. RV implant required 1.3 \u00b1 0.6 deployments with mean of 21 min and RA implant required 1.6 \u00b1 0.9 deployments with mean of 31 min. Electrical parameters were excellent. Current of injury for the RA LLPM is the primary indicator of engagement of the atrial myocardium. Two device\u2010related complications occurred without clinical sequelae; no late complications were observed. Fifteen patients were discharged the same day.\n                  \n                  \n                    Conclusions\n                    IJV access for atrial and ventricular LLPM implantation is safe and effective across a broad age range and is an alternative to FV access, enabling same\u2010day discharge and early ambulation. Elevated acute atrial capture thresholds with robust current of injury should not prompt repositioning, as thresholds significantly improve at early follow\u2010up.",
     "summary": "This observational multicenter study of 32 consecutive patients demonstrated that internal jugular vein access for leadless pacemaker implantation (including dual-chamber, ventricular-only, and atrial-only devices) was successful in all cases with excellent electrical parameters, minimal complications, and 47% same-day discharge rates, supporting IJV as a safe alternative to femoral vein access. Mean procedure time was 82 minutes with favorable early and late outcomes across a broad age range (17-91 years)."
-  },
-  {
-    "title": "Lead\u2010Associated Superior Vena Cava Syndrome: Diagnostic Delay and the Role of Invasive Pressure Measurements",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70399?af=R",
-    "doi": "10.1111/pace.70399",
-    "journal": "PACE",
-    "date": "Aug 19, 2026",
-    "date_ts": 1787111775.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  Superior vena cava (SVC) syndrome is an uncommon complication of transvenous cardiac device leads. Diagnosis may be challenging due to gradually developing and nonspecific symptoms. Furthermore, anatomical imaging does not always reflect the hemodynamic significance of venous stenosis. We retrospectively evaluated seven patients treated for lead\u2010associated SVC syndrome. Diagnostic delay was at least ten months in five patients. Computed tomography (CT) established the diagnosis in five patients, whereas invasive pressure measurement of the right atrium and SVC was performed in two patients for diagnostic certainty. In one patient, resting pressure measurements were non\u2010diagnostic, while exercise provoked symptoms and an increase in SVC pressure. These findings highlight that SVC syndrome is a hemodynamical disorder rather than solely an anatomical stenosis. Invasive pressure measurements, including symptom provocation, may provide important diagnostic value.",
-    "summary": "This retrospective case series of seven patients with lead-associated superior vena cava syndrome demonstrates that invasive pressure measurements, particularly with exercise provocation, provide superior diagnostic value compared to anatomical imaging alone, as hemodynamic significance rather than anatomical stenosis determines clinical manifestations."
-  },
-  {
-    "title": "Left ventricular origin of arrhythmia predicts severe outcome in mitral valve prolapse: Insights from long-term cardiac monitoring",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005179?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Aug 19, 2026",
-    "date_ts": 1787099622.459461,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Atrial remodeling of excitation and Ca<sup>2+</sup> handling in male mice with cardiac steatosis induced by perilipin 2 overexpression",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026883?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 19, 2026",
-    "date_ts": 1787099622.196247,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Incremental Value of Electroanatomical Mapping During Pentaspline Pulsed Field Pulmonary Vein Isolation: The MAP-PFA Pilot Randomised Trial",
-    "link": "https://doi.org/10.1093/europace/euag222",
-    "doi": "10.1093/europace/euag222",
-    "journal": "EP Europace",
-    "date": "Aug 19, 2026",
-    "date_ts": 1787097600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Ventricular Pulsed Field Ablation from Bench to Bedside: Preclinical and Clinical Evidence from a Systematic Review and Meta-Analysis",
-    "link": "https://doi.org/10.1093/europace/euag221",
-    "doi": "10.1093/europace/euag221",
-    "journal": "EP Europace",
-    "date": "Aug 19, 2026",
-    "date_ts": 1787097600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Evidence supporting the use of pulsed field ablation (PFA) for ventricular arrhythmia (VA) ablation remains limited and heterogeneous, and the relationship between preclinical lesion characteristics and clinical outcomes is incompletely defined. We sought to systematically summarize preclinical lesion metrics and clinical outcomes of ventricular PFA.\n                  \n                  \n                    Methods\n                    We performed a systematic review and meta-analysis of preclinical and clinical studies of ventricular PFA. Preclinical studies reporting lesion depth or transmurality and clinical studies detailing procedural efficacy and safety were included. Random-effects models were used to pool lesion characteristics and clinical outcomes.\n                  \n                  \n                    Results\n                    Seventy-five studies were included (33 preclinical, 43 clinical; 355 patients). In preclinical models, mean lesion depth was 5.96mm(95%CI,5.07\u20136.84) in healthy endocardium and 5.19mm (95%CI,2.58\u20137.79) in healthy epicardium. Notably, lesion depth was quantitatively similar in models of scarred myocardium (5.96mm; 95%CI,5.39-6.53). Lesion transmurality was variable in healthy tissues (32%; 95%CI,15%-52%) but higher within scar (53%; 95%CI,36%-70%). Consistently, lesion depth was similar between PFA and RF in healthy myocardium, but greater with PFA in scarred models (within-study mean depth difference, 2.09mm; 95%CI,0.84-3.34). Greater contact force, repeated applications, and higher energy/duration settings were associated with increased lesion depth. Clinically, acute success was high for both premature ventricular complexes (PVCs,90%; 95%CI,83%-96%) and ventricular tachycardia (VT;92%; 95%CI,87%-96%) in studies with \u22653patients. Over a mean follow-up of approximately 5months, recurrence rates were 19% (95%CI,12%-28%) for PVCs and 21% (95%CI,10%-35%) for VT. The overall complication rate was 10% (95%CI,5%-17%) in studies with \u22653patients, with coronary artery spasm and conduction disturbances representing the most frequent adverse events.\n                  \n                  \n                    Conclusion\n                    Ventricular PFA demonstrates high acute efficacy and encouraging mid-term outcomes, supported by preclinical evidence of favorable lesion penetration within scarred myocardium. Safety considerations-particularly coronary and conduction system effects-and the heterogeneity of preclinical evidence highlight the need for further investigation.",
-    "summary": "This systematic review and meta-analysis of 75 studies (33 preclinical, 42 clinical; 355 patients) demonstrates that pulsed field ablation for ventricular arrhythmias achieves high acute success rates (90-92%) with modest mid-term recurrence (19-21%) and a 10% complication rate, with preclinical evidence supporting superior lesion penetration in scarred tissue compared to radiofrequency ablation. Key safety concerns include coronary artery spasm and conduction disturbances, warranting further investigation."
-  },
-  {
-    "title": "The evolution of Extravascular Cardioverter Defibrillator implantation: feasibility in a purely electrophysiologic setting",
-    "link": "https://doi.org/10.1093/europace/euag217",
-    "doi": "10.1093/europace/euag217",
-    "journal": "EP Europace",
-    "date": "Aug 19, 2026",
-    "date_ts": 1787097600.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background\n                    extravascular implantable cardioverter-defibrillator (EV-ICD) is a novel non-transvenous system delivering defibrillation shocks and anti-tachycardia pacing through a substernal lead. Despite proven efficacy, implantation has traditionally required general anesthesia and cardiothoracic surgical backup, limiting widespread adoption.\n                  \n                  \n                    Objectives\n                    To evaluate feasibility, safety, and workflow efficiency of EV-ICD implantation under cardiologist-directed sedation without anesthesiology support.\n                  \n                  \n                    Methods\n                    Prospective observational study including 115 consecutive patients undergoing EV-ICD implantation across two European centers. Three procedural settings were explored sequentially: general anesthesia (GA, n=46), analgosedation without anesthesiology supervision (AS, n=28), and regional block with limited sedation (RBS, n=41). The primary endpoint was successful implantation without conversion to respiratory or circulatory support. Secondary endpoints included procedure duration, procedure-related complications, and device performance at follow-up.\n                  \n                  \n                    Results\n                    Overall implantation success was 97% (112/115) in a predominantly young population (50\u00b117 years; 70% male). All procedures performed without anesthesiology supervision were completed without conversion to GA or emergency support, with comparable complication rates across groups. RBS was associated with a 27-minute reduction in procedural duration versus GA (p&amp;lt;0.001) and earlier mobilization (97% ambulating within 3 hours vs. 65% after 6 hours with GA; p&amp;lt;0.001). Over a median follow-up of 20 [10-30] months, appropriate ICD therapy was delivered in 13% of patients with 100% arrhythmia termination. Inappropriate therapy occurred in 8.9%, predominantly during the early learning phase.\n                  \n                  \n                    Conclusions\n                    EV-ICD implantation can be safely and effectively performed under cardiologist-directed sedation without anesthesiology supervision, achieving a fully electrophysiology-driven workflow. Procedural simplification substantially reduces resource utilization and may facilitate broader adoption of this technology.",
-    "summary": "This prospective observational study of 115 patients demonstrates that extravascular ICD implantation can be safely performed under cardiologist-directed sedation without anesthesiology support, with 97% implantation success, comparable complication rates across anesthetic approaches, and regional anesthesia reducing procedure time by 27 minutes and enabling earlier mobilization compared to general anesthesia. The findings support an electrophysiology-driven workflow that may expand EV-ICD accessibility by reducing resource requirements and procedural complexity."
-  },
-  {
-    "title": "Pulsed Field Ablation Therapy Parameters: Enhancing Lesion Depth While Reducing Musculoskeletal Stimulation and Thermal Response in an Irrigated Tip Catheter: A Comprehensive Study Using In Silico, In Vitro, and In Vivo Models",
-    "link": "https://doi.org/10.1161/circep.126.014955",
-    "doi": "10.1161/circep.126.014955",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Aug 19, 2026",
-    "date_ts": 1787097600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Pulsed field ablation therapies need to be optimized to maximize lesion depth while mitigating heat and musculoskeletal stimulation. We describe the adjustment of biphasic pulsed field ablation parameters for an irrigated tip catheter.\n                  \n                  \n                    METHODS:\n                    Experimental models all used an 8F, flexible-tip, irrigated ablation catheter. Computer simulation models were designed to assess the effects of bipolar versus monopolar applications. A vegetal (potato) model was used to assess the effects of voltage, pulse width, and number of pulses per burst on lesion depth. In-vitro testing on bovine cardiac muscle was performed with temperature sensors at the surface and 3 and 7 mm beneath the surface to measure temperature rises. Finally, an in vivo canine model was used to assess for musculoskeletal stimulation caused by the pulsed field ablation therapies established with the vegetal/in vitro testing.\n                  \n                  \n                    RESULTS:\n                    Monopolar delivery consistently delivered more tissue depth than bipolar configurations. Adjustments from n to n+1.0 \u00b5s and increasing pulses per burst from 50 to 250 increased lesion depth but also increased musculoskeletal stimulation. The optimized burst count was 5 R-wave-gated bursts over 4 to 9 seconds. The optimized therapy had a minimal observed depth of &gt;5 mm and minimized musculoskeletal stimulation. Final selected therapies did create temperature rises, which were completely offset by irrigation rates of 7 to 13 mL/min.\n                  \n                  \n                    CONCLUSIONS:\n                    Pulse width and number of pulses per burst are important contributors to lesion depth, musculoskeletal stimulation, and incident heating. Even small adjustments in these parameters can alter lesion depth, muscle stimulation, and thermal effects, which will differentiate optimal from suboptimal pulsed field ablation.",
-    "summary": "This experimental study (using computational models, vegetal/in vitro testing, and in vivo canine models) optimized biphasic pulsed field ablation parameters for an irrigated-tip catheter, finding that monopolar delivery with 5 R-wave-gated bursts over 4-9 seconds achieved >5 mm lesion depth while minimizing musculoskeletal stimulation and thermal effects (offset by 7-13 mL/min irrigation). Small adjustments to pulse width and burst parameters significantly impact lesion efficacy, adverse effects, and safety profile."
-  },
-  {
-    "title": "Association of Clonal Hematopoiesis With Silent Brain Lesions and Cognitive Decline in Patients With Atrial Fibrillation",
-    "link": "https://doi.org/10.1161/circulationaha.126.079459",
-    "doi": "10.1161/circulationaha.126.079459",
-    "journal": "Circulation",
-    "date": "Aug 18, 2026",
-    "date_ts": 1787011200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Clonal hematopoiesis of indeterminate potential (CHIP) has been associated with cardiovascular disease, but its relationship with silent brain lesions and cognitive decline in patients with atrial fibrillation (AF) is unclear.\n                  \n                  \n                    METHODS:\n                    \n                      In this prospective, multicenter cohort study, we included 1572 patients with AF enrolled between 2014 and 2017. All participants underwent deep-targeted sequencing for CHIP-associated sequence variations, brain magnetic resonance imaging, and standardized cognitive assessments. CHIP carrier status (overall,\n                      DNMT3A\n                      carrier, and non-\n                      DNMT3A\n                      carrier) was evaluated in relation to prevalent and incident silent brain lesions. Silent brain lesions were defined as large noncortical or cortical infarcts, small noncortical infarcts, microbleeds, and white matter lesions (WMLs), and were assessed at baseline and after 2 years with magnetic resonance imaging. Cross-sectional analyses were externally validated in a cohort of 199 patients with AF. Cognitive function was evaluated through 7 years using the Montreal Cognitive Assessment. Associations were analyzed using multivariable-adjusted logistic and linear regression models.\n                    \n                  \n                  \n                    RESULTS:\n                    \n                      Among 1572 patients with AF (mean\u00b1SD age, 72.5\u00b18.3 years; 26% women), 342 (22%) carried CHIP sequence variations, most commonly in\n                      DNMT3A\n                      (49.4%) and\n                      TET2\n                      (28.3%). CHIP carriers had significantly higher odds of cerebral microbleeds (odds ratio [OR], 1.45 [95% CI, 1.09 to 1.93]) and WMLs (OR, 1.56 [95% CI, 1.20 to 2.04]) at baseline, particularly with non-\n                      DNMT3A\n                      sequence variations (microbleeds: OR, 1.79 [95% CI, 1.25 to 2.55]; WMLs: OR, 1.80 [95% CI, 1.25 to 2.62]). A similar trend was observed in an independent AF patient cohort from Korea limited to\n                      TET2\n                      sequence variations. Presence of multiple CHIP sequence variations further increased the odds of microbleeds (OR, 1.36 [95% CI, 1.10 to 1.69]) and WMLs (OR, 1.41 [95% CI, 1.15 to 1.75]), and large CHIP clones (variant allele frequency &gt;10%) were associated with higher WML volumes. At 2-year follow-up, CHIP was associated with new cerebral microbleed counts and greater WML volume. Over 7 years, CHIP carriers exhibited greater cognitive decline, with a lower Montreal Cognitive Assessment score compared with noncarriers (\u03b2 \u22120.53 [95% CI, \u22121.02 to \u22120.03]). The decline was more pronounced in\n                      DNMT3A\n                      and\n                      ASXL1\n                      sequence variation carriers.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    In patients with AF, CHIP was independently associated with a greater burden and progression of silent brain lesions and with accelerated cognitive decline.",
-    "summary": "This prospective, multicenter cohort study of 1,572 patients with atrial fibrillation found that clonal hematopoiesis of indeterminate potential (CHIP) carriers (22% of cohort) had significantly higher odds of cerebral microbleeds (OR 1.45) and white matter lesions (OR 1.56) at baseline, with greater progression at 2-year follow-up and accelerated cognitive decline over 7 years compared to noncarriers. The association was particularly strong in non-DNMT3A CHIP variants and correlated with larger clonal burden."
-  },
-  {
-    "title": "Stepwise Electrosurgical Bailout During Difficult Left Bundle Branch Area Pacing",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70403?af=R",
-    "doi": "10.1111/pace.70403",
-    "journal": "PACE",
-    "date": "Aug 18, 2026",
-    "date_ts": 1787038881.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  Electrosurgical energy may facilitate difficult septal lead advancement during left bundle branch area pacing (LBBAP), but procedural feedback after each application is poorly defined. A 63\u2010year\u2010old woman with complete atrioventricular block had persistent left ventricular septal pacing (LVSP) despite deep septal engagement and prolonged mechanical rotation. Two brief 20\u2010W AUTO CUT cycles were delivered through a stylet\u2010driven pacing lead. The first was followed by no meaningful COI or mechanical change. The second was followed by a decrease in COI and renewed lead advancement. Output decrement subsequently demonstrated transition from nonselective to selective LBB capture, with S\u2013V separation of 25\u00a0ms and shortening of V6 R\u2010wave peak time from 90 to 73\u00a0ms.One\u2010month imaging and electrical parameters remained stable.",
-    "summary": "This case report describes a 63-year-old patient with complete atrioventricular block in whom electrosurgical energy (40 W total AUTO CUT applied via stylet-driven pacing lead) successfully facilitated left bundle branch area pacing achievement after failed mechanical advancement, resulting in selective capture with improved electrical parameters and one-month stability. The case suggests electrosurgical-assisted lead positioning may be a useful technique for overcoming anatomic obstacles during LBBAP procedures, though procedural feedback optimization remains needed."
   }
 ]
