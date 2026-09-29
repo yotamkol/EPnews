@@ -1,5 +1,54 @@
 [
   {
+    "title": "Anticoagulation for Atrial Fibrillation with a Single Risk Factor for Stroke",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMe2610344?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMe2610344",
+    "journal": "NEJM",
+    "date": "Sep 29, 2026",
+    "date_ts": 1790651084.220323,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Anticoagulation for Atrial Fibrillation with Intermediate Stroke Risk",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2607978?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMoa2607978",
+    "journal": "NEJM",
+    "date": "Sep 29, 2026",
+    "date_ts": 1790651084.220211,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND\nCurrent U.S. and European guidelines recommend oral anticoagulation as a class IIa indication in patients with atrial fibrillation at intermediate risk for stroke; however, evidence from randomized trials is needed.\n\n\nMETHODS\nWe conducted a multicenter, open-label, adjudicator-masked superiority trial in South Korea involving patients with atrial fibrillation and an intermediate risk of stroke (a score of 1 in men and 2 in women on the CHA2DS2-VASc scale; range, 0 to 9, with higher scores indicating a greater risk of stroke). Patients were randomly assigned in a 1:1 ratio to receive either direct oral anticoagulant (DOAC) therapy or no anticoagulation. The primary end point was a composite of stroke, systemic embolism, major bleeding, or death from cardiovascular causes at 24 months.\n\n\nRESULTS\nOf 1803 patients who underwent randomization, 902 were assigned to receive DOAC therapy and 901 were assigned to receive no anticoagulant therapy. The mean age of the patients was 60.4 years, and 23.7% were women. At 24 months, a primary end-point event had occurred in 4 patients (cumulative incidence, 0.5%) in the DOAC group and in 13 (cumulative incidence, 1.5%) in the no-anticoagulant group (difference, -1.0 percentage points; 95% confidence interval [CI], -2.0 to -0.1; P\u2009=\u20090.03; hazard ratio, 0.31; 95% CI, 0.10 to 0.94). Stroke occurred in 3 patients (cumulative incidence, 0.3%) in the DOAC group and in 10 (cumulative incidence, 1.1%) in the no-anticoagulant group. The incidence of systemic embolism and major bleeding appeared to be similar in the two trial groups, and no deaths from cardiovascular causes occurred in either group. Serious adverse events occurred in 80 patients (8.9%) in the DOAC group and in 84 (9.3%) in the no-anticoagulant group.\n\n\nCONCLUSIONS\nAmong patients with atrial fibrillation at intermediate risk for stroke, DOAC therapy led to a lower risk of stroke, systemic embolism, major bleeding, or death from cardiovascular causes at 24 months than no anticoagulation. (Funded by the Ministry of Health and Welfare, South Korea, and others; SINGLE-AF ClinicalTrials.gov number, NCT04437654.)."
+  },
+  {
+    "title": "Optimizing Safety of Pulsed Field Ablation for Atrial Fibrillation: Much Accomplished, Still More to Do",
+    "link": "https://doi.org/10.1161/circulationaha.126.082070",
+    "doi": "10.1161/circulationaha.126.082070",
+    "journal": "Circulation",
+    "date": "Sep 29, 2026",
+    "date_ts": 1790640000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Procedural and Clinical Outcomes of Very High-Power Short-Duration versus Ablation Index-Guided Pulmonary Vein Isolation: The Q-POWER Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005738?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Sep 29, 2026",
+    "date_ts": 1790651083.285844,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Forecasting 1-year atrial fibrillation risk from sinus rhythm ECGs in Arrhythmia Na\u00efve Patients",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005702?dgcid=rss_sd_all",
     "doi": null,
@@ -34,6 +83,123 @@
       "AFib"
     ],
     "hot": false
+  },
+  {
+    "title": "Pulsed Field Ablation Is Associated With Favorable Outcomes After Atrial Fibrillation Ablation: Insights From the Polish National Ablation Registry (POL\u2010AR)",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70514?af=R",
+    "doi": "10.1111/jce.70514",
+    "journal": "J Cardiovasc EP",
+    "date": "Sep 27, 2026",
+    "date_ts": 1790532376.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    The Polish National Ablation Registry (POL\u2010AR), mandatory for all centers performing catheter ablation and integrated with National Health Fund data, enables prospective analysis of a nationwide cohort with complete inclusion of all consecutive patients.\n                  \n                  \n                    Objective\n                    We aimed to assess real\u2010world safety profiles and clinical outcomes of atrial fibrillation (AF) ablation modalities\u2014radiofrequency (RF), cryoballoon (CRYO), and pulsed\u2010field ablation (PFA)\u2014and to report the first\u2010year PFA experience in Poland.\n                  \n                  \n                    Methods\n                    All AF ablations in 2023 were prospectively analyzed in POL\u2010AR and cross\u2010referenced with National Health Fund data. Only centers with complete reporting were included. Patients were grouped by modality. Major complications, unplanned hospitalizations, cardioversions, repeat ablations, and deaths were assessed at 1 year. Multivariate analysis identified independent predictors of outcomes.\n                  \n                  \n                    Results\n                    \n                      Twenty\u2010eight centers reported 3430 patients (CRYO: 2125; RF: 1098; PFA: 207). Procedure time was longest for RF (median 120\u2009min) versus CRYO (75\u2009min) and PFA (65\u2009min); (\n                      p\n                      \u2009&lt;\u20090.001). No major complications occurred with PFA. Phrenic nerve injury persisted in 1.51% of CRYO, 0.09% of RF, and 0% of PFA patients (\n                      p\n                      \u2009&lt;\u20090.001). Pericardial effusion was more frequent after RF (0.91% vs. 0.34% for CRYO\u2009+\u2009PFA;\n                      p\n                      \u2009=\u20090.032). Overall complication rates were lowest with PFA (0% vs. RF: 2.19%, CRYO: 2.59%). PFA patients required fewer cardioversions during follow\u2010up (\n                      p\n                      \u2009=\u20090.017). Predictors of poor outcome included age, female sex, left atrium (LA) size, hypertension, and hypertrophic cardiomyopathy (HCM). Favorable outcome was independently associated with higher left ventricular ejection fraction (LVEF), paroxysmal AF, and PFA use (HR 0.70,\n                      p\n                      \u2009=\u20090.04).\n                    \n                  \n                  \n                    Conclusion\n                    In the POL\u2010AR registry, PFA was independently associated with favorable outcomes after AF ablation."
+  },
+  {
+    "title": "Crista Caval Line: Lattice\u2010Tip Pulsed Field Ablation for Right Atrial Substrate Modification",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70520?af=R",
+    "doi": "10.1111/jce.70520",
+    "journal": "J Cardiovasc EP",
+    "date": "Sep 27, 2026",
+    "date_ts": 1790532297.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Pulmonary vein isolation remains central to atrial fibrillation (AF) ablation, yet right atrial substrate modification remains incompletely defined. The crista terminalis (CT) region lies close to the right phrenic nerve and may exhibit anisotropic conduction and native or functional conduction block, while also serving as a potential non\u2010pulmonary\u2010vein trigger site. We evaluated the acute feasibility and electroanatomic endpoint of the Crista Caval Line (CCL), a CT\u2010guided, sinoatrial node (SN)\u2013sparing lesion set created with lattice\u2010tip pulsed field ablation (PFA).\n                  \n                  \n                    Methods and Results\n                    We prospectively enrolled 36 consecutive patients undergoing CCL creation during repeat AF ablation or ablation for non\u2010paroxysmal AF. Pre\u2010CCL sinus\u2010rhythm high\u2010density right atrial activation mapping was performed in all patients. CT\u2010related conduction delay or block was observed in 27 patients (75.0%). In 14 patients (38.9%) with an apparent CT block line, the inferior application\u2010set edge was aligned to the block line; in the remaining 22 patients without an apparent block, placement was primarily guided by intracardiac echocardiography. The CCL was positioned posterior to the CT, with the lateral margin of its superior application set kept approximately 15\u2009mm posterolateral to the earliest mapped sinus activation site for SN protection. The CCL measured 78.8 [66.4\u201386.0]\u2009mm from first to last tag and required 26 [22\u201330] PFA applications over 370 [282\u2013481]\u2009s. First\u2010pass bidirectional transverse conduction block was confirmed in all patients by postablation activation mapping and differential pacing from both sides of the CCL. Next\u2010day inspiratory/expiratory chest radiography showed no abnormality suggestive of phrenic nerve palsy; no pacemaker\u2010requiring SN dysfunction or other clinically apparent collateral injury occurred.\n                  \n                  \n                    Conclusions\n                    A CT\u2010guided, SN\u2010sparing CCL can be reproducibly created with lattice\u2010tip PFA, producing a first\u2010pass bidirectional transverse conduction block without clinically apparent phrenic nerve palsy. These findings establish acute feasibility and an electroanatomic endpoint; lesion durability, arrhythmia recurrence, and incremental clinical benefit require further study."
+  },
+  {
+    "title": "A Comparison of Safety and Outcome Using Three Different Sedation Strategies During Pulsed Field Ablation for Atrial Fibrillation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70516?af=R",
+    "doi": "10.1111/jce.70516",
+    "journal": "J Cardiovasc EP",
+    "date": "Sep 27, 2026",
+    "date_ts": 1790532237.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Pulsed field ablation (PFA) is an emerging modality for atrial fibrillation (AF) ablation. However, adequate sedation of patients during treatment is imperative.\n                  \n                  \n                    Objective\n                    Our aim was to compare safety and outcome after deep sedation (DS) managed by electrophysiology staff (EP\u2010DS), DS by an anaesthesia nurse (AN\u2010DS), and general anaesthesia (GA) during PFA AF ablation.\n                  \n                  \n                    Methods\n                    All Danish patients undergoing first\u2010time AF ablation with pentaspline PFA technique from 2021 to 2024 were included. Patients were stratified according to sedation strategy. EP\u2010DS and AN\u2010DS were defined as sedation without assisted ventilation managed by EP staff and an anaesthesia nurse, respectively. Patients in GA underwent endotracheal intubation and were monitored by anaesthesia staff. Patient selection for the sedation strategy was based on the institutional practice.\n                  \n                  \n                    Results\n                    Of 1269 patients, 661 (52%) underwent EP\u2010DS, 173 (14%) underwent AN\u2010DS, and 435 (34%) underwent GA. Overall, sedation complications were few, and no procedures were abandoned due to adverse effects of sedation. In the EP\u2010DS group, the anaesthesiologist was unexpectedly called for back\u2010up in 1 (0.2%) patient due to prolonged hypotension during the procedure. In the AN\u2010DS group, the anaesthesiologist was called due to desaturation in 1 patient (0.6%) but without the need for escalation to intubation. In the GA group, no periprocedural sedation complications occurred. We found no difference in 1\u2010year atrial tachycardia recurrence between sedation groups.\n                  \n                  \n                    Conclusion\n                    In this nationwide cohort, EP staff\u2010administered deep sedation was feasible and associated with few clinically significant sedation\u2010related adverse events during PFA. No significant differences in observed atrial tachyarrhythmia recurrence rates were identified between sedation strategies."
+  },
+  {
+    "title": "Real\u2010World Experience With the Balloon\u2010in\u2010Basket Pulsed Field Ablation System for Pulmonary Vein Isolation and Ablation of Extra\u2010Pulmonary Vein Sites",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70509?af=R",
+    "doi": "10.1111/jce.70509",
+    "journal": "J Cardiovasc EP",
+    "date": "Sep 27, 2026",
+    "date_ts": 1790532156.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    A novel balloon\u2010in\u2010basket pulsed field ablation (PFA) system integrated with electroanatomical mapping has recently been introduced. However, real\u2010world data on this technology, particularly for adjunctive posterior wall isolation (PWI) and extra\u2010pulmonary vein sites, remain limited.\n                  \n                  \n                    Objective\n                    To evaluate the acute performance, safety, and feasibility of pulmonary vein isolation (PVI) and adjunctive lesions using a balloon\u2010in\u2010basket PFA system.\n                  \n                  \n                    Methods\n                    Consecutive patients with symptomatic paroxysmal or persistent AF undergoing ablation with the balloon\u2010in\u2010basket PFA system between February 2024 and February 2026 were included. Acute efficacy, procedural parameters, complications, exploratory haemolysis and renal biomarkers, and follow\u2010up outcomes were assessed.\n                  \n                  \n                    Results\n                    A total of 133 patients were included; 94 (70.7%) had paroxysmal AF and 39 (29.3%) persistent AF. Acute PVI was achieved in 96.2% of cases. Adjunctive PWI was performed in 25.6% of patients, and additional extra\u2010PV lesion sets were performed in 12 patients. Mean procedure, left atrial dwelling, and fluoroscopy times were 65.6\u2009\u00b1\u200916.4, 45.4\u2009\u00b1\u200915.4, and 12.7\u2009\u00b1\u20097.3\u2009min, respectively, with no significant differences between PVI\u2010only and PVI\u2009+\u2009PWI procedures. Two periprocedural complications occurred (1.5%; femoral arterial pseudoaneurysm, pericarditis). Exploratory biomarker analyses showed no evident haemolysis\u2010related renal safety signal. Among 82 patients with \u2265\u20096 months of follow\u2010up, late clinically documented atrial arrhythmia recurrence occurred in 14.6%.\n                  \n                  \n                    Conclusion\n                    In this real\u2010world experience, the balloon\u2010in\u2010basket PFA system showed high acute efficacy, low complication rates, and efficient workflow. Adjunctive PWI appeared feasible in selected patients, with exploratory comparisons showing no evident increase in procedural burden or additional biomarker safety signal."
+  },
+  {
+    "title": "Long\u2010Term Progression to Permanent Atrial Fibrillation After Cryoballoon Pulmonary Vein Isolation: Insights From the Multicenter 1STOP Project",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70510?af=R",
+    "doi": "10.1111/jce.70510",
+    "journal": "J Cardiovasc EP",
+    "date": "Sep 27, 2026",
+    "date_ts": 1790532088.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Atrial fibrillation (AF) often progresses from paroxysmal to persistent forms, culminating in permanent AF, a transition associated with increased risks of stroke, heart failure, and hospitalization. Cryoballoon pulmonary vein isolation (CB\u2010PVI) is an established rhythm\u2010control strategy; however, long\u2010term data on AF progression following ablation remain limited. This study aimed to assess the incidence of progression to permanent AF after CB\u2010PVI and to identify clinical predictors of such progression to guide patient management.\n                  \n                  \n                    Methods\n                    We analyzed 1330 consecutive patients enrolled in the prospective, multicenter 1STOP registry who underwent CB\u2010PVI between 2012 and 2018 across 13 Italian centers, with \u2265\u20095 years of follow\u2010up. Baseline clinical, echocardiographic, and procedural characteristics were prospectively collected.\n                  \n                  \n                    Results\n                    \n                      During a median follow\u2010up of 81 months, 93 patients (7.0%) progressed to permanent AF. Independent predictors of progression included baseline persistent AF (HR\u2009\u2248\u20092.2,\n                      p\n                      \u2009&lt;\u20090.001), need for cardioversion during index procedure (HR\u2009\u2248\u20092.2,\n                      p\n                      \u2009=\u20090.001), and older age (HR 1.05 per year,\n                      p\n                      \u2009&lt;\u20090.001). Patients progressing to permanent AF had larger left atrium dimensions, higher CHA\n                      2\n                      DS\n                      2\n                      \u2010VA scores, and a greater burden of comorbidities. Among patients experiencing AF recurrence, those undergoing repeat ablation had lower rates of progression compared to those without reintervention (11.0% vs. 17.6%).\n                    \n                  \n                  \n                    Conclusion\n                    In this large multicenter cohort, long\u2010term progression to permanent AF after CB\u2010PVI was relatively uncommon (7%). Baseline AF type, age, and intra\u2010procedural cardioversion independently predicted progression.\n                    Early rhythm\u2010control strategies and individualized risk stratification may help delay the transition to permanent AF and improve long\u2010term rhythm outcomes."
+  },
+  {
+    "title": "Validation of Cardiorespiratory\u2010Gated Proton Beam Delivery for Stereotactic Arrhythmia Radioablation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70512?af=R",
+    "doi": "10.1111/jce.70512",
+    "journal": "J Cardiovasc EP",
+    "date": "Sep 27, 2026",
+    "date_ts": 1790532049.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Aims\n                    Stereotactic arrhythmia radioablation (STAR) is a promising noninvasive therapy for refractory ventricular tachycardia. Using scanned proton beams for STAR enables precisely focused, high doses of ionizing radiation. Effective mitigation of target motion is critical for safety but remains challenging due to the complex interplay between beam scanning and cardiorespiratory motion. We evaluated the safety and feasibility of accurately delivering gated scanned proton beams to a ventricular myocardial target and compared lesion outcomes of respiratory (single)\u2010 and cardiorespiratory (dual)\u2010gated proton beams.\n                  \n                  \n                    Methods\n                    Six pigs (the first two used as a test of the protocol) underwent baseline CT for treatment planning with a single fractional dose of 35\u2009Gy to a myocardial target in the left ventricular free wall. They were subsequently treated with either single\u2010 or dual\u2010gated delivery using scanned proton beams. Treatment response was evaluated by echocardiography, blood analysis and positron emission tomography (PET)\u2010CT at baseline and 14\u221215 weeks after irradiation. Lesions were assessed at termination, and tissues were harvested for histopathology.\n                  \n                  \n                    Results\n                    \n                      Average target expansion for intrafractional motion was lower with dual compared to single gating (16%\u221223% vs. 48%\u221272%,\n                      N\n                      \u2009=\u20092 in each arm). The irradiated area was distinguishable in vivo on PET\u2010CT and ex vivo in necropsy at the expected location in all animals. Visual lesion transmurality was confirmed by histology. Lesion sizes were not far from the expected volumes in dual\u2010gated animals but were larger in single\u2010gated animals (\n                      p\n                      \u2009=\u20090.3 for between\u2010group comparison,\n                      N\n                      \u2009=\u20092 in each arm).\n                    \n                  \n                  \n                    Conclusions\n                    The results confirmed the feasibility of the workflow. Dual\u2010gated irradiation was associated with reduced radiation exposure of the myocardium outside the target volume, and with lesion sizes closer to those planned."
+  },
+  {
+    "title": "Left Atrial Voltage Attenuation Beyond Ablation Sites After Unipolar Pulsed\u2010Field Ablation for Atrial Fibrillation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70511?af=R",
+    "doi": "10.1111/jce.70511",
+    "journal": "J Cardiovasc EP",
+    "date": "Sep 27, 2026",
+    "date_ts": 1790531901.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Unlike most pulsed\u2010field ablation (PFA) systems, Affera (Medtronic) delivers unipolar energy between a lattice\u2010tip catheter and a cutaneous return patch, potentially generating a broader electric field. We hypothesized that this may attenuate voltage beyond ablated regions and tested this using spatially matched pre\u2010 and post\u2010ablation maps.\n                  \n                  \n                    Methods and Results\n                    \n                      We retrospectively studied five consecutive patients undergoing primary atrial fibrillation ablation with the Affera system. Pre\u2010 and immediate post\u2010ablation voltage maps were generated using CARTO 3 and OCTARAY (Biosense Webster) with identical settings during right atrial pacing. Because Affera lacks point\u2010level 3D coordinates for spatial matching, coordinates (x, y, z) and bipolar voltages were extracted from CARTO 3. Pre\u2010 and post\u2010ablation points\u2014outside energy delivery sites, excluding the annulus and left atrial appendage\u2014were spatially matched using a 2\u2009mm mutual nearest\u2010neighbor criterion. This yielded 3772 pairs. Bipolar voltages were averaged by case. Mean bipolar voltage decreased in all cases from 1.01\u2009\u00b1\u20090.61 to 0.56\u2009\u00b1\u20090.29\u2009mV, representing a 40.2% reduction (95% CI, 24.6%\u201355.8%;\n                      p\n                      \u2009=\u20090.044). In a distance\u2010stratified analysis, residual bipolar voltage (post/pre \u00d7 100) was lowest just beyond the ablated zone and increased progressively with distance from the nearest application tag center (16.5% at 10\u201315\u2009mm to 57.8% at 25\u201330\u2009mm; all\n                      p\n                      \u2009&lt;\u20090.001), becoming numerically comparable to baseline beyond approximately 30\u2009mm.\n                    \n                  \n                  \n                    Conclusions\n                    Affera\u2010based unipolar ablation produced acute bipolar voltage attenuation that extended into non\u2010ablated myocardium adjacent to the lesion set but diminished with distance and was largely confined within approximately 30\u2009mm of the application sites."
+  },
+  {
+    "title": "Learning Curve of Pentaspline Pulsed\u2010Field Ablation With Posterior Wall Isolation for Persistent Atrial Fibrillation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70515?af=R",
+    "doi": "10.1111/jce.70515",
+    "journal": "J Cardiovasc EP",
+    "date": "Sep 27, 2026",
+    "date_ts": 1790531749.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Pentaspline pulsed\u2010field ablation (PFA) has emerged as a novel modality for pulmonary vein isolation (PVI) and posterior wall isolation (PWI) in persistent atrial fibrillation (AF). However, the learning curve associated with combined PVI\u2009+\u2009PWI and the contribution of anatomical factors to acute lesion completeness remain incompletely defined.\n                  \n                  \n                    Methods\n                    We analyzed 182 consecutive patients with persistent AF undergoing fluoroscopy\u2010 and intracardiac echocardiography\u2013guided PFA. Acute incomplete lesions were defined as residual conduction requiring additional PFA applications after systematic remapping. Learning phases were identified using segmented logistic regression and sequential block analysis. Multivariable models evaluated procedural phase, left atrial volume (LAV), and posterior wall geometry.\n                  \n                  \n                    Results\n                    A learning curve was observed, with the greatest reduction in incomplete lesion formation occurring during the first 20 procedures. Incomplete lesions occurred in 55% of cases 1\u201320 (early phase), 32% of cases 21\u2013160 (intermediate phase), and 4.8% of cases \u2265\u2009161 (late phase). Procedural phase was the dominant determinant of incomplete lesions, with approximately 24\u2010fold and 9\u2010fold higher odds during the early and intermediate phases, respectively. Larger LAV showed a modest independent association (OR 1.009 per mL), whereas posterior wall geometry was not independently associated. Mid\u2010term arrhythmia recurrence did not differ across phases, although follow\u2010up duration was shorter in the late phase.\n                  \n                  \n                    Conclusions\n                    Lesion completeness during pentaspline PFA with PVI\u2009+\u2009PWI improves progressively with increasing procedural experience. Although larger LAV may contribute modestly to incomplete lesion formation, procedural experience appears to play the predominant role. Systematic electroanatomical remapping remains important for identifying and correcting incomplete lesions even after substantial procedural experience has been accumulated."
+  },
+  {
+    "title": "Low Energy Bipolar Radiofrequency Ablation Combined With a Needle Electrode Connected in a Parallel Electrical Circuit to Create an Isolated Intramyocardial Lesion",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70508?af=R",
+    "doi": "10.1111/jce.70508",
+    "journal": "J Cardiovasc EP",
+    "date": "Sep 27, 2026",
+    "date_ts": 1790530935.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    An ideal ablation method to create lesions inside the thick myocardium has not been well established. This experimental study was performed to assess whether low energy bipolar (BIP) radiofrequency (RF) ablation combined with a needle electrode can create an isolated intramyocardial lesion with minimum risk of steam\u2010pop.\n                  \n                  \n                    Methods\n                    A coronary perfused porcine myocardial segment was placed in an experimental setting, and two irrigation catheters were placed on the opposite endocardial and epicardial surfaces. An originally made plastic needle (equipped with a 3\u2010mm electrode tip and a temperature sensor) was inserted into the middle myocardial region, approximately in line with and centered between the two ablation catheters. Cable\u2010ends of the epicardial catheter and the plastic needle electrode were together plugged into the cutaneous electrode connector, whereas the cable\u2010end of the endocardial catheter was plugged into the catheter connector of the generator. 10\u2009W for either 60 or 90\u2009s (18 applications each) was delivered simultaneously between the distal tips of the two ablation catheters and between the needle electrode and the endocardial ablation catheter.\n                  \n                  \n                    Results\n                    All 36 applications were successfully accomplished without steam\u2010pop, and created an isolated intramyocardial lesion. Vertical/horizontal lesion diameters and maximum intramyocardial temperature were 7.3\u2009\u00b1\u20090.8/6.3\u2009\u00b1\u20090.7\u2009mm and 87.9\u00b0C\u2009\u00b1\u20096.2\u00b0C in the 60\u2010second, and 9.1\u2009\u00b1\u20091.0/8.0\u2009\u00b1\u20091.1\u2009mm and 95.6\u00b0C\u2009\u00b1\u20094.7\u00b0C in the 90\u2010second applications. No visual lesion was created on the myocardial surface.\n                  \n                  \n                    Conclusions\n                    Although the present study is a first step in this ablation method, BIP ablation combined with a needle electrode may have the potential to create an isolated intramural lesion with minimum risk of steam\u2010pop under local temperature monitoring."
   },
   {
     "title": "Epicardial Adipose Tissue Attenuation on Cardiac Computed Tomography Is Associated with Recurrent Ventricular Fibrillation in Patients with Brugada Syndrome",
@@ -6066,171 +6232,5 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Young\u2010onset atrial fibrillation (AF) is increasingly recognized as a clinically distinct entity and heritable mechanisms may contribute to disease onset. Although pathogenic monogenic variants are increasingly identified in this population, their clinical phenotype and prognostic significance remain incompletely defined.\n                  \n                  \n                    Aims\n                    We sought to characterize the spectrum of genetic variants in patients with young\u2010onset AF diagnosed at age 45 years or younger, identify clinical predictors of pathogenic variants, and evaluate their association with long\u2010term clinical outcomes.\n                  \n                  \n                    Methods\n                    This multicentre retrospective cohort study included adults with AF first diagnosed at age 45 years or younger who underwent clinical genetic testing across three tertiary centers in Melbourne, Australia. Variants were re\u2010assessed using contemporary American College of Medical Genetics and Genomics/Association for Molecular Pathology criteria and classified as pathogenic/likely pathogenic (P/LP) or negative/variant of uncertain significance (VUS). Baseline clinical characteristics, electrocardiographic findings, cardiac imaging, and long\u2010term outcomes were compared between groups.\n                  \n                  \n                    Results\n                    \n                      Among 58 patients who underwent genetic testing, 30 (52%) had a pathogenic or likely pathogenic monogenic variant. The most frequent variants involved\n                      TTN\n                      (\n                      n\n                      \u2009=\u20098, 13.8%) and\n                      LMNA\n                      (\n                      n\n                      \u2009=\u20096, 10.3%), followed by\n                      MYBPC3\n                      and\n                      MYH7\n                      (each\n                      n\n                      \u2009=\u20093, 5.2%). Family history of AF or cardiomyopathy was more common in the P/LP than the negative/VUS group (76.7% vs. 46.4%,\n                      p\n                      \u2009=\u20090.030) and was independently associated with a pathogenic variant (OR 3.90; 95% CI 1.28\u201313.0;\n                      p\n                      \u2009=\u20090.020). Patients with pathogenic variants more frequently had first\u2010degree atrioventricular block (20.0% vs. 0.0%;\n                      p\n                      \u2009=\u20090.024). Implantable cardioverter\u2010defibrillator implantation was more frequent in P/LP patients (53.6% vs. 25.0%;\n                      p\n                      \u2009=\u20090.05), whereas mortality, stroke, post\u2010ablation AF recurrence, and pacemaker implantation were similar.\n                    \n                  \n                  \n                    Conclusions\n                    In this highly selected young\u2010onset AF cohort referred for genetic testing, pathogenic monogenic variants were common. There was a significant proportion of patients suffering adverse long\u2010term events.",
     "summary": "This retrospective cohort study of 58 young patients (\u226445 years) with atrial fibrillation who underwent genetic testing found that 52% carried pathogenic/likely pathogenic monogenic variants, most commonly in TTN and LMNA genes, with family history of AF or cardiomyopathy and first-degree atrioventricular block being independent predictors of pathogenic variants. Despite higher rates of implantable cardioverter-defibrillator implantation in patients with pathogenic variants, long-term outcomes including mortality, stroke, and AF recurrence were similar between groups."
-  },
-  {
-    "title": "Left Bundle Branch Area Pacing in Congenital Heart Disease: Current Evidence, Challenges, and Future Directions",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70402?af=R",
-    "doi": "10.1111/pace.70402",
-    "journal": "PACE",
-    "date": "Aug 20, 2026",
-    "date_ts": 1787199913.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Left bundle branch area pacing (LBBAP) has emerged as a promising alternative to right ventricular apical pacing in patients with congenital heart disease (CHD), yet its application in this population remains underexplored despite unique anatomical and physiological challenges. This review synthesizes current evidence on LBBAP in CHD, including anatomical considerations of the conduction system, lead selection between lumenless and stylet\u2010driven leads, technical modifications for different substrates, and clinical outcomes. In congenitally corrected transposition of the great arteries (CCTGA), the paradoxically anterior conduction system creates favorable anatomy for LBBAP, with reported success rates of 86%\u2013100% in small observational series. CHD\u2010specific data from Moore et\u00a0al. demonstrated superior QRS narrowing with conduction system pacing (CSP) compared to conventional CRT (35 vs. 14\u00a0ms;\n                    p\n                    \u00a0=\u00a00.04). One randomized trial and multiple meta\u2010analyses comparing lumenless and stylet\u2010driven leads demonstrate comparable success rates but distinct safety profiles, with implications for lead choice in CHD patients requiring lifelong pacing. The 2023 HRS/APHRS/LAHRS and 2025 ACC/AHA guidelines now recognize CSP as a therapeutic option in selected patients, though these endorsements are not specific to LBBAP in CHD. CHD\u2010specific evidence remains limited to case series and small observational studies. This review provides a practical framework for patient selection, lead choice, and procedural planning while identifying key research priorities for this growing patient population.",
-    "summary": "This narrative review synthesizes evidence on left bundle branch area pacing (LBBAP) in congenital heart disease patients, demonstrating superior QRS narrowing with conduction system pacing versus conventional cardiac resynchronization therapy (35 vs. 14 ms; p=0.04) and high success rates (86-100%) particularly in congenitally corrected transposition of the great arteries, though current evidence remains limited to case series and small observational studies without large randomized controlled trials specific to this population."
-  },
-  {
-    "title": "Real\u2010World Safety of Two Pulsed Field Ablation Catheters for Atrial Fibrillation: A MAUDE Analysis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70396?af=R",
-    "doi": "10.1111/pace.70396",
-    "journal": "PACE",
-    "date": "Aug 20, 2026",
-    "date_ts": 1787198104.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Two pulsed field ablation (PFA) catheter systems for atrial fibrillation (AF) are widely adopted: the Affera Sphere\u20109 (Medtronic) and the Varipulse (Biosense Webster). Their comparative real\u2010world safety is unknown.\n                  \n                  \n                    Methods\n                    We searched the FDA MAUDE database (June 27, 2026) for all reports naming either catheter since U.S. release. After excluding duplicates and non\u2010catheter components, 743 Affera and 361 Varipulse reports remained. Reports were classified by FDA Event Type (device\u2010 vs. patient\u2010related) and complication status, with complications grouped by organ system. Proportions were compared with chi\u2010square or Fisher exact tests in R 4.3.3.\n                  \n                  \n                    Results\n                    \n                      Neurologic events were far more frequent among Varipulse reports (44.3\u00a0%\u00a0vs. 14.8%;\n                      P\n                      \u00a0&lt;\u00a00.001), driven by stroke (38.0%\u00a0vs. 9.7%;\n                      P\u00a0\n                      &lt;\u00a00.001). Cardiovascular events predominated among Affera reports (43.2%\u00a0vs. 29.1%;\n                      P\n                      \u00a0&lt;\u00a00.001), including ventricular fibrillation (52\u00a0vs. 1), heart block (8.7%\u00a0vs. 1.4%; P\u00a0&lt;\u00a00.001), and hypotension (5.5%\u00a0vs. 0.8%;\n                      P\n                      &lt;0.001); effusion/tamponade was more frequent with Varipulse (15.2%\u00a0vs. 9.0%;\n                      P\n                      = 0.003). Complication\u2010free reports were more frequent with Affera (35.3%\u00a0vs. 21.1%;\n                      P\n                      \u00a0&lt;\u00a00.001). Deaths did not differ (2.6%\u00a0vs 1.4%;\n                      P\n                      = 0.30).\n                    \n                  \n                  \n                    Conclusions\n                    These PFA systems show distinct reported safety signatures: neurologic/stroke\u2010predominant for Varipulse and cardiovascular/arrhythmic (ventricular fibrillation, heart block) for Affera. Because MAUDE lacks procedural denominators, these proportions describe reported events, not incidence. Prospective, patient\u2010level studies are needed to establish causation.",
-    "summary": "This retrospective analysis of FDA MAUDE database reports (743 Affera Sphere-9 and 361 Varipulse cases since U.S. release) identified distinct safety signatures between the two pulsed field ablation catheter systems: Varipulse demonstrated higher rates of neurologic events and stroke (44.3% vs. 14.8%, P<0.001), while Affera showed higher cardiovascular complications including ventricular fibrillation, heart block, and hypotension (43.2% vs. 29.1%, P<0.001), with no significant difference in mortality between systems. The authors acknowledge that without procedural denominators,"
-  },
-  {
-    "title": "Management of Left Atrial Appendage Thrombi and Spontaneous Echo Contrast",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70404?af=R",
-    "doi": "10.1111/pace.70404",
-    "journal": "PACE",
-    "date": "Aug 20, 2026",
-    "date_ts": 1787197976.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    To analyze the efficacy and safety of various anticoagulation strategies/regimen used for managing thrombus or spontaneous echo contrast in the left atrial appendage.\n                  \n                  \n                    Methods\n                    Thrombus or spontaneous echo contrast in the left atrial appendage was detected via transesophageal echocardiography in 83 patients, most often during a stroke assessment. The chosen anticoagulants were compared, and follow\u2010up was conducted with repeated transesophageal echocardiograms.\n                  \n                  \n                    Results\n                    \n                      Heparin and vitamin K antagonists (VKAs) were the most commonly selected treatment regimens. The initial resolution rate was approximately 30% across all treatment regimens after a follow\u2010up of 8\u00a0\u00b1\u00a08 weeks (DOACs 30%, VKAs 30%, heparin 25%,\n                      p\n                      \u00a0 = \u00a00.9). Continuing the same protocol or switching to a direct oral anticoagulant (DOAC) were the main alternatives when the thrombus persisted after the first echocardiographic control. An additional 22% of patients with repeated controls experienced resolution after 23\u00a0\u00b1\u00a014 weeks of anticoagulant treatment. Major bleeding events were observed in 3% of patients.\n                    \n                  \n                  \n                    Conclusion\n                    Resolution of thrombi/echo contrasts was noted in a significant proportion of patients with our management approach, without apparent significant differences between treatment regimens (difficult to interpret due to the low number of patients under DOACs). Bleeding complications remain significant.",
-    "summary": "This retrospective observational study of 83 patients with left atrial appendage thrombus or spontaneous echo contrast found that initial resolution rates were approximately 30% across all anticoagulation strategies (DOACs, VKAs, heparin) at 8 weeks, with an additional 22% achieving resolution after continued or switched therapy at 23 weeks, though major bleeding occurred in 3% of patients. No significant differences in efficacy were observed between anticoagulation regimens, though the study was underpowered to detect differences in DOAC use."
-  },
-  {
-    "title": "Depolarization and Repolarization Mapping in VT: Catching the Wavefront by the Tail",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006663?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 20, 2026",
-    "date_ts": 1787185999.058912,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Computed Tomography\u2013Derived Abrupt Wall-Thickness Transitions as Complementary Markers of Ventricular Tachycardia Substrate in Ischemic Cardiomyopathy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006651?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 20, 2026",
-    "date_ts": 1787185999.058868,
-    "tags": [
-      "VT",
-      "Genetics",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Long-Term Electrophysiologic Comorbidities After Anatomically Repaired Congenitally Corrected Transposition of the Great Arteries: Atrial Tachyarrhythmias",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005724?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 20, 2026",
-    "date_ts": 1787185999.058832,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Functional Substrate Mapping and Its Correlation With Ventricular Tachycardia Critical Sites: A Blinded Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006675?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 20, 2026",
-    "date_ts": 1787185999.058799,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cardioneuroablation for Symptomatic Bradycardia in Heterotaxy Syndrome With Interrupted Inferior Vena Cava: A Novel Case",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006560?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 20, 2026",
-    "date_ts": 1787185999.058762,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Late Arrhythmia Burden in Adult Patients With Ebstein Anomaly",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006754?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 20, 2026",
-    "date_ts": 1787185999.058719,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Computed Tomography\u2013Defined Ridges and Functional Mapping in Ablation of Postinfarction Ventricular Tachycardia",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006742?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 20, 2026",
-    "date_ts": 1787185999.058669,
-    "tags": [
-      "VT",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Delayed Pericardial Effusion Following Ethanol Infusion of the Vein of Marshall: Clinical Course, Management, and Recurrence",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600664X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 20, 2026",
-    "date_ts": 1787185999.058583,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cardiovascular Implantable Electronic Device Infections Requiring Extraction: A National Analysis of Contemporary Trends, Clinical Predictors, and Economic Burden, 2016\u20132022",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026871?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 20, 2026",
-    "date_ts": 1787185998.5747,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Latent Transforming Growth Factor Beta Binding Protein 4 as a Biomarker of Arrhythmia-Induced Cardiomyopathy in Atrial Fibrillation: Insights from a High-Throughput Proteomic Analysis",
-    "link": "https://doi.org/10.1093/europace/euag224",
-    "doi": "10.1093/europace/euag224",
-    "journal": "EP Europace",
-    "date": "Aug 20, 2026",
-    "date_ts": 1787184000.0,
-    "tags": [
-      "AFib",
-      "Genetics"
-    ],
-    "hot": false
   }
 ]
