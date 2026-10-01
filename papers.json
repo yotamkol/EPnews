@@ -1,5 +1,80 @@
 [
   {
+    "title": "Does Timing Matter in the PFA Era? Early versus Late First-Line Pulsed Field Ablation and 1-Year Outcomes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005726?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790823155.499912,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Underdiagnosis of unusual underlying diseases in patients referred for catheter ablation of atrial fibrillation: A single-center experience in Japan",
+    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600574X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790823155.499839,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Atrial Leadless Pacemaker Implantation in the Setting of an Active Infection",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028225?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790823155.273074,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A Prediction Score for Cardiovascular Implantable Electronic Device Infection in Non\u2013Staphylococcus aureus Bacteremia",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70456?af=R",
+    "doi": "10.1111/pace.70456",
+    "journal": "PACE",
+    "date": "Sep 30, 2026",
+    "date_ts": 1790750707.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    \n                      Patients with cardiovascular implantable electronic devices (CIEDs) who develop bacteremia require risk stratification for device infection. Although prediction scores exist for\n                      Staphylococcus aureus\n                      bacteremia, no comparable CIED\u2010specific tool exists for non\u2013\n                      S. aureus\n                      bacteremia. Our study aimed to estimate the probability of definite CIED infection in adults with non\u2013\n                      S. aureus\n                      bacteremia without pocket infection.\n                    \n                  \n                  \n                    Methods\n                    \n                      We performed a prediction\u2010model analysis of adults with CIEDs and non\u2013\n                      S. aureus\n                      bacteremia, comprising gram\u2010negative bacteremia (GNB) and gram\u2010positive cocci other than\n                      S. aureus\n                      (GPC) bacteremia, at Mayo Clinic Rochester during 2012\u20132019. Patients with pocket infection were excluded. Definite CIED infection was classified using 2019 European Heart Rhythm Association criteria. Penalized logistic regression was used to construct two prediction models for definite infection: a full model with nine prespecified predictors, and a reduced model from which a point\u2010based risk score could be obtained.\n                    \n                  \n                  \n                    Results\n                    \n                      A total of 282 patients with CIEDs developed non\u2013\n                      S. aureus\n                      bacteremia. Median age was 75 years; 69% were men. GPC bacteremia occurred in 156 patients (55%) and GNB in 126 (45%). Sixty patients (21%) had definite CIED infection. Both the full and reduced models demonstrated excellent predictive discrimination (apparent area under receiver operating characteristic curve 0.946 and 0.940). The reduced model retained four predictors: GPC bacteremia, persistent bacteremia, longer time to positivity, and unknown bacteremia source.\n                    \n                  \n                  \n                    Conclusion\n                    A four\u2010variable risk score incorporating organism category, persistent bacteremia, time to positivity, and unknown bacteremia source may guide early device\u2010focused evaluation, but external validation is required before clinical adoption."
+  },
+  {
+    "title": "Long\u2010Term Outcomes of AV Node Ablation Plus CRT Compared to AF Catheter Ablation in Patients With AF and HFrEF",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70423?af=R",
+    "doi": "10.1111/pace.70423",
+    "journal": "PACE",
+    "date": "Sep 30, 2026",
+    "date_ts": 1790740489.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Catheter ablation is an established rhythm\u2010control strategy for atrial fibrillation (AF) and heart failure with reduced ejection fraction (HFrEF), while atrioventricular node ablation with cardiac resynchronization therapy (AVNA+CRT) is often used in older patients with advanced disease when durable rhythm control is less feasible. Comparative long\u2010term outcomes remain unclear.\n                  \n                  \n                    Methods\n                    Using the TriNetX Research Network, we identified adults with HFrEF and AF from 2016 who underwent AF ablation or AVNA+CRT from 2016\u20132023 and 2016\u20132020 for the 2\u2010 and 5\u2010year analysis, respectively. Propensity score matching was performed separately using 58 prespecified covariates. Outcomes included embolic events (stroke/systemic embolism), all\u2010cause mortality, heart failure (HF) hospitalization, and heart transplant/left ventricular assist device (LVAD) implantation.\n                  \n                  \n                    Results\n                    \n                      The 2\u2010year cohort included 16,276 patients (2899 AVNA+CRT; 13,377 AF ablation); the 5\u2010year cohort included 7370 patients (1463 AVNA+CRT; 5907 AF Ablation). After matching, AVNA+CRT was associated with higher all\u2010cause mortality (RR 1.580, 95% CI 1.389\u20131.799), HF hospitalization (RR 1.106, 95% CI 1.040\u20131.176), and heart transplant/LVAD implantation (RR 2.381, 95% CI 1.142\u20134.975), with no difference in embolic events at 2 years. At 5 years, AVNA+CRT remained associated with higher mortality (RR 1.350, 95% CI 1.198\u20131.522;\n                      p\n                      \u00a0&lt;\u00a00.001), while HF hospitalization, embolic events, and heart transplant/LVAD implantation did not differ significantly.\n                    \n                  \n                  \n                    Conclusion\n                    In a large propensity matched HFrEF\u2010AF cohort, AVNA+CRT was associated with higher mortality at 2 and 5 years than AF ablation, with excess HF hospitalization and transplant/LVAD at 2 years, whereas HF hospitalization rates were similar at 5 years. Prospective studies are needed to refine patient selection in older, medically complex patients."
+  },
+  {
+    "title": "Affordable and Efficient Anatomy Mapping for LBBAP in Dextrocardia With Complete Heart Block",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70443?af=R",
+    "doi": "10.1111/pace.70443",
+    "journal": "PACE",
+    "date": "Sep 30, 2026",
+    "date_ts": 1790739996.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  We reported the case of a 77\u2010year\u2010old woman with dextrocardia and complete heart block, demonstrating the effectiveness of simplified anatomical mapping imaging and modified catheter techniques to achieve selective left bundle branch pacing (LBBP)."
+  },
+  {
     "title": "Editorial Board",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007826?dgcid=rss_sd_all",
     "doi": null,
@@ -71,6 +146,19 @@
       "AFib"
     ],
     "hot": false
+  },
+  {
+    "title": "Lead\u2010to\u2010Vein Ratio and Long\u2010Term Vascular Safety After Transvenous Pacing in Children Weighing \u226415 Kg",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70454?af=R",
+    "doi": "10.1111/pace.70454",
+    "journal": "PACE",
+    "date": "Sep 29, 2026",
+    "date_ts": 1790680299.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Transvenous pacing in low\u2010weight children is technically feasible, but its clinical use depends on long\u2010term venous patency, system performance, and ventricular function. We aimed to describe imaging\u2010defined venous abnormalities and clinically overt vascular events after first transvenous pacemaker implantation and to explore whether the lead\u2010to\u2010vein ratio provides anatomical information beyond body weight.\n                  \n                  \n                    Methods\n                    This prospective observational cohort included 35 children weighing \u226415\u00a0kg undergoing first transvenous pacemaker implantation between 2010 and 2020. The primary vascular endpoint was imaging\u2010defined venous thrombosis, occlusion, or stenosis \u226550%; clinical impact was recorded separately. Device\u2010related safety, minimum venous diameter, lead\u2010to\u2010vein ratio, ventricular function, synchrony, and paced QRS duration were analyzed using non\u2010parametric, exact, and exploratory univariable tests.\n                  \n                  \n                    Results\n                    \n                      Median follow\u2010up was 6.7 [4.5\u20138.2] years. Eleven patients weighed &lt;10\u00a0kg and 3 weighed &lt;5\u00a0kg. The imaging\u2010defined vascular endpoint occurred in 6/35 patients; 5 were asymptomatic surveillance findings and 1 was clinically symptomatic. The lead\u2010to\u2010vein ratio was higher in patients with the endpoint than in those without events (0.59 [0.55\u20130.63] vs. 0.47 [0.43\u20130.51];\n                      p\n                      = 0.003). A ratio &gt;0.55 was associated with more frequent imaging\u2010defined endpoints (4/8\u00a0vs. 2/27; odds ratio 12.5; 95% confidence interval 1.7\u201392.3). Left ventricular ejection fraction remained preserved.\n                    \n                  \n                  \n                    Conclusion\n                    During the first transvenous system lifespan, imaging\u2010defined venous abnormalities were relatively frequent but mostly asymptomatic, whereas clinically overt vascular complications were uncommon. The lead\u2010to\u2010vein ratio may support anatomical pre\u2010implant risk stratification, although multicenter validation and follow\u2010up beyond generator replacement are required."
   },
   {
     "title": "Multiple Accessory Pathways in Children: Electrophysiological Features and Catheter Ablation Outcomes",
@@ -6130,93 +6218,6 @@
     "date_ts": 1787531689.879331,
     "tags": [
       "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "REAL-WORLD MANAGEMENT AND LONG-TERM OUTCOMES AFTER THE FIRST HOSPITALIZATION FOR SUSTAINED VENTRICULAR TACHYCARDIA IN PATIENTS WITH PRIMARY PREVENTION IMPLANTABLE DEFIBRILLATORS: A GLOBAL COHORT ANALYSIS",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027256?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 23, 2026",
-    "date_ts": 1787445376.136053,
-    "tags": [
-      "VT",
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Prognostic Value of CMR Late Gadolinium Enhancement in Phospholamban p.(Arg14del)-Positive Individuals",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602727X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 23, 2026",
-    "date_ts": 1787445376.136008,
-    "tags": [
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Evaluation of Atrial Fibrillation Polygenic Risk Scores for the Prediction of Arrhythmia Recurrence after Atrial Fibrillation Ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027232?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 23, 2026",
-    "date_ts": 1787445376.135794,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Recurrent Takotsubo Syndrome Following Permanent Pacemaker Implantation: Further Considerations",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70407?af=R",
-    "doi": "10.1111/pace.70407",
-    "journal": "PACE",
-    "date": "Aug 22, 2026",
-    "date_ts": 1787392310.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Internal Jugular Access for Aveir Leadless Pacemaker Implantation: Feasible, but for Whom?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70409?af=R",
-    "doi": "10.1111/pace.70409",
-    "journal": "PACE",
-    "date": "Aug 22, 2026",
-    "date_ts": 1787392220.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulmonary Vein Isolation (PVI) Versus PVI With Posterior Wall Isolation With PFA for Paroxysmal Atrial Fibrillation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70401?af=R",
-    "doi": "10.1111/pace.70401",
-    "journal": "PACE",
-    "date": "Aug 22, 2026",
-    "date_ts": 1787392118.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    The value of additional lesion sets beyond pulmonary vein isolation (PVI) for atrial fibrillation (AF) ablation is unclear. However, existing studies evaluated the utility of substrate modification with conventional energy sources. There is limited data evaluating PVI with posterior wall isolation (PWI) using pulsed field ablation (PFA).\n                  \n                  \n                    Methods\n                    We studied consecutive cases of patients with paroxysmal AF undergoing first\u2010time ablation with PFA between May 6, 2024 and March 10, 2025. Procedural data collected included the number of PFA applications administered, total procedure time, and major periprocedural complications. Clinical data collected included atrial tachyarrhythmia (ATA) recurrence, stroke, and major bleeding at 1\u2010year follow\u2010up. Outcomes were compared in patients undergoing PVI alone versus PVI plus PWI.\n                  \n                  \n                    Results\n                    \n                      A total of 249 patients were included in this study (104 PVI alone, 145 PVI plus PWI). There was no difference in ATA recurrence by Kaplan\u2013Meier survival analysis comparing PVI alone versus PVI plus PWI (log rank test\n                      p\n                      = 0.89). When comparing PVI alone versus PVI plus PWI, there was no difference in ATA recurrence at 1 year (16%\u00a0vs. 16%;\n                      p\n                      = 0.92), AF burden on continuous monitoring (2%\u00a0vs. 2%;\n                      p\n                      = 0.81), total procedure time (114\u00a0vs. 107\u00a0min;\n                      p\n                      = 0.14), or major periprocedural complications (0\u00a0vs. 3;\n                      p\n                      = 0.14).\n                    \n                  \n                  \n                    Conclusion\n                    PFA for paroxysmal AF with PVI alone or PVI plus PWI produces similar sinus rhythm maintenance without affecting procedure times or complication rates.",
-    "summary": "This retrospective observational study of 249 patients with paroxysmal AF undergoing first-time pulsed field ablation found no significant difference in 1-year atrial tachyarrhythmia recurrence (16% in both groups), procedure time, or major complications between pulmonary vein isolation (PVI) alone versus PVI with posterior wall isolation. The authors conclude that PFA with PVI monotherapy is equivalent to combination PVI-PWI for paroxysmal AF ablation."
-  },
-  {
-    "title": "Defining \u201cHigh\u2010Risk\u201d and Procedural Considerations in Leadless Pacemaker Implantation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70406?af=R",
-    "doi": "10.1111/pace.70406",
-    "journal": "PACE",
-    "date": "Aug 22, 2026",
-    "date_ts": 1787391998.0,
-    "tags": [
-      "Devices"
     ],
     "hot": false
   }
