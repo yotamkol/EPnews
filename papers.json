@@ -75,6 +75,44 @@
     "hot": false
   },
   {
+    "title": "Clinical relevance of lead-induced tricuspid regurgitation after transvenous ICD implantation in arrhythmogenic cardiomyopathy",
+    "link": "https://doi.org/10.1093/europace/euag284",
+    "doi": "10.1093/europace/euag284",
+    "journal": "EP Europace",
+    "date": "Oct 03, 2026",
+    "date_ts": 1790985600.0,
+    "tags": [
+      "Devices",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Delayed structural myocardial injury after stereotactic arrhythmia radioablation: A serial CMR study in a porcine model",
+    "link": "https://doi.org/10.1093/europace/euag283",
+    "doi": "10.1093/europace/euag283",
+    "journal": "EP Europace",
+    "date": "Oct 03, 2026",
+    "date_ts": 1790985600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Outcomes of a Simplified Two\u2010Catheter Approach for Catheter Ablation of SVT in Pediatric Patients",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70458?af=R",
+    "doi": "10.1111/pace.70458",
+    "journal": "PACE",
+    "date": "Oct 02, 2026",
+    "date_ts": 1790949860.0,
+    "tags": [
+      "SVT"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Catheter ablations are an established treatment for supraventricular tachycardia (SVT) in pediatric patients with high success and low complication rates typically. This study evaluated the procedural outcomes, safety, and recurrence rates of pediatric patients undergoing SVT ablation using a two\u2010catheter approach.\n                  \n                  \n                    Methods\n                    A retrospective review was performed of 150 pediatric patients who underwent electrophysiology studies and catheter ablation for SVT. All patients were younger than 21 years, with arrhythmia mechanisms including atrioventricular nodal reentrant tachycardia (AVNRT), ectopic atrial tachycardia (EAT), atrial flutter, and other accessory pathway\u2010mediated tachycardias. All electrophysiology (EP) studies and catheter ablations were performed using a two\u2010catheter access approach at the University of California at Davis by a sole operator with typically just a catheter in the coronary sinus and a second linear catheter (right atrial/ ventricular/ His) to start. All patients had follow\u2010up of one year or if recurrence than 1 year from subsequent ablation.\n                  \n                  \n                    Results\n                    Acute procedural success was achieved in all patients. The median age at the time of ablation was 13 years (IQR: 8\u201316 years). The median weight and height were 53.9\u00a0kg (IQR: 34.6\u201367.6\u00a0kg) and 157.3\u00a0cm (IQR: 137\u2013170\u00a0cm), respectively. No intraprocedural complications were observed, including vascular access complications. Additionally, no postprocedural complications occurred, including pericardial effusion, cardiac tamponade, air embolism, thrombus formation, or heart block. Two patients experienced arrhythmia recurrence within 12 months of follow\u2010up, corresponding to a recurrence rate of 1.3% and an overall success rate of 98.7%. Recurrence occurred in one patient with a Mahaim pathway and one patient with a left posterolateral accessory pathway.\n                  \n                  \n                    Conclusion\n                    A two\u2010catheter access approach may be safely performed with good short\u2010and medium\u2010term outcomes in pediatric patients."
+  },
+  {
     "title": "Atrial Standstill: From Molecular Genetics to Clinical Management \u2014 A Narrative Review",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028031?dgcid=rss_sd_all",
     "doi": null,
@@ -145,6 +183,18 @@
     "date_ts": 1790823155.273074,
     "tags": [
       "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Transient Cardiac Arrest with Loss of Ventricular Pacing Capture During Pulsed Field Ablation: A Case Report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.09.024",
+    "doi": "10.1016/j.hrcr.2026.09.024",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "SCD"
     ],
     "hot": false
   },
@@ -6160,57 +6210,5 @@
       "AFib"
     ],
     "hot": false
-  },
-  {
-    "title": "Atrial fibrillation modifies the association between CT-derived epicardial adipose tissue volume and left atrial remodeling in valvular heart disease",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027220?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787704518.66396,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical Outcomes of Catheter Ablation versus Transcatheter Edge-to-Edge Repair as the Initial Intervention Strategy in Patients with Atrial Fibrillation and Functional Mitral Regurgitation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602730X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787704518.663748,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Practical Guide on the Use of the PulseSelect Pulsed Field Ablation System for Atrial Fibrillation Ablation Procedures",
-    "link": "https://doi.org/10.1093/europace/euag227",
-    "doi": "10.1093/europace/euag227",
-    "journal": "EP Europace",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787702400.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  Pulsed field ablation (PFA), which employs intermittent short-duration high-voltage electrical impulses to induce cellular membrane pore formation, is one of the most substantial innovations in the field of cardiac electrophysiology. In contrast to thermal ablation using radiofrequency or cryoenergy, PFA is theoretically capable of preferential tissue destruction, avoiding the negative effects of thermal energy and minimizing the risk of collateral damage. The optimal use of PFA requires operators to adapt their procedural approach to the novel catheter and energy source. The purpose of this manuscript is to summarize the best practice procedural considerations related to PFA with the PulseSelect ablation catheter, within the context of the contemporary evidence-base and with a focus on a predominantly fluoroscopy-based workflow. A foundational approach to pulmonary vein isolation with the PulseSelect catheter would reduce procedural heterogeneity, ultimately improving patient outcomes through the adoption of standardized evidence-based practices.",
-    "summary": "This is a narrative review summarizing best practice procedural considerations for pulsed field ablation (PFA) using the PulseSelect catheter for pulmonary vein isolation, emphasizing a fluoroscopy-based workflow with the goal of standardizing techniques to improve outcomes in atrial fibrillation ablation. PFA offers theoretical advantages over thermal ablation methods by inducing selective tissue destruction through non-thermal mechanisms, thereby reducing collateral damage."
-  },
-  {
-    "title": "Outcomes of Amulet Occluder Implantation Following Watchman Screen Failure in the ADVANCE LAA Study: A Real-World Analysis of Procedural Success and Safety",
-    "link": "https://doi.org/10.1093/europace/euag228",
-    "doi": "10.1093/europace/euag228",
-    "journal": "EP Europace",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787702400.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Structured Abstract\n                  \n                    Background and Aims\n                    The Watchman device is widely used for left atrial appendage occlusion (LAAO) but may be unsuitable in patients with complex anatomies resulting in screening failures. The Amulet occluder, with its dual-seal design, may overcome these limitations. The aim of this analysis is to evaluate procedural success, closure, and clinical outcomes of Amulet occluder implantation in patients who failed Watchman screening.\n                  \n                  \n                    Methods\n                    This analysis from the ADVANCE LAA study included patients ineligible for Watchman (Screen Fail) compared to patients eligible for Amulet and Watchman (Device Eligible). Baseline characteristics, procedural details, cardiac imaging, and clinical events were assessed through 1 year. The safety endpoint composite was a composite of all-cause death, ischemic stroke, systemic embolism, or device/procedure-related events requiring open cardiac surgery or major endovascular intervention within hospital discharge or 7 days post-implant. Independent core laboratory and clinical events committee adjudicated imaging and adverse events, respectively.\n                  \n                  \n                    Results\n                    A total of 609 patients underwent Amulet implantation (Screen Fail: n\u2009=\u200997; Device Eligible: n\u2009=\u2009512). Screen Fail patients had more complex anatomy and higher CHA2DS2-VASc and HAS-BLED scores. Despite these differences, implant success was high (96.9% vs. 98.0%; p\u2009=\u20090.446). Clinically relevant closure on transesophageal echocardiography (\u22643\u2005mm peri-device leak) was achieved in \u226597% of patients in both groups at implant and 1-3 months. The peri-procedural safety endpoint composite rate was similar in both groups (3.1% vs. 2.7% (OR: 1.14 [0.32, 4.03]; p\u2009=\u20090.742). One-year rates of stroke (1.1% vs. 1.0%), major bleeding (9.6% vs. 6.2%), cardiovascular/unknown death (2.1% vs. 5.2%) and all-cause death (6.3% vs. 6.6%) were similar between groups (p\u2009&amp;gt;\u20090.05).\n                  \n                  \n                    Conclusion\n                    Amulet occluder implantation was feasible, safe and effective in patients with or without failed Watchman screening, providing a viable option for both anatomically simple and complex anatomies.",
-    "summary": "This retrospective analysis from the ADVANCE LAA study of 609 patients (97 Watchman screen-failures, 512 device-eligible) demonstrated that Amulet occluder implantation achieved high procedural success (96.9-98.0%) with effective closure (\u226597%) and comparable safety outcomes between groups, including similar peri-procedural safety composite rates (3.1% vs. 2.7%) and 1-year clinical event rates. The Amulet device appears to be a viable alternative for left atrial appendage occlusion in patients with complex anatomies unsuitable for Watchman."
   }
 ]
