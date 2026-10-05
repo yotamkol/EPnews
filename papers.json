@@ -1,5 +1,42 @@
 [
   {
+    "title": "Measuring a moving target: analytic considerations for atrial fibrillation density",
+    "link": "https://doi.org/10.1093/eurheartj/ehag549",
+    "doi": "10.1093/eurheartj/ehag549",
+    "journal": "European Heart Journal",
+    "date": "Oct 05, 2026",
+    "date_ts": 1791158400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Atrial fibrillation density and stroke risk: a promising advance that now needs predictive validation",
+    "link": "https://doi.org/10.1093/eurheartj/ehag548",
+    "doi": "10.1093/eurheartj/ehag548",
+    "journal": "European Heart Journal",
+    "date": "Oct 05, 2026",
+    "date_ts": 1791158400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Atrial Substrate and Electrogram Characterization in Patients with Atrial Fibrillation and Hypertrophic Cardiomyopathy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005921?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Oct 05, 2026",
+    "date_ts": 1791168462.833824,
+    "tags": [
+      "AFib",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
     "title": "Impact of Interelectrode Spacing on Ventricular Tachycardia Substrate Mapping: Insights Into 3-Dimensional Characteristics of the Arrhythmogenic Substrate",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600842X?dgcid=rss_sd_all",
     "doi": null,
@@ -6172,42 +6209,6 @@
     "date_ts": 1787704518.84445,
     "tags": [
       "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "REPLY: Prematurity Index in Brugada Syndrome More Than a Matter of Coupling Interval",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26005505?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787704518.84441,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Full Issue PDF",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007358?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787704518.844328,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical Frailty Scale and Clinical Outcomes After Left Atrial Appendage Closure: Insights From the OCEAN-LAAC Registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005180?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787704518.759718,
-    "tags": [
-      "AFib"
     ],
     "hot": false
   }
