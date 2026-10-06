@@ -1,5 +1,18 @@
 [
   {
+    "title": "Implantable Cardioverter Defibrillators in Hypertrophic Cardiomyopathy: Global Insights From Worldwide Registries",
+    "link": "https://doi.org/10.1161/circulationaha.126.079687",
+    "doi": "10.1161/circulationaha.126.079687",
+    "journal": "Circulation",
+    "date": "Oct 06, 2026",
+    "date_ts": 1791244800.0,
+    "tags": [
+      "Devices",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
     "title": "Measuring a moving target: analytic considerations for atrial fibrillation density",
     "link": "https://doi.org/10.1093/eurheartj/ehag549",
     "doi": "10.1093/eurheartj/ehag549",
@@ -24,6 +37,19 @@
     "hot": false
   },
   {
+    "title": "Contemporary Advances of Leadless Pacing and Conduction System Pacing in Children With Congenital Heart Disease",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70452?af=R",
+    "doi": "10.1111/pace.70452",
+    "journal": "PACE",
+    "date": "Oct 05, 2026",
+    "date_ts": 1791171273.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  The management of bradyarrhythmias requiring permanent pacing in pediatric patients and those with congenital heart disease (CHD) remains uniquely challenging due to continuous somatic growth, complex cardiac anatomy, limited vascular access, and long\u2010term risks associated with conventional cardiac implantable electronic devices. Traditional transvenous endocardial and surgical epicardial pacing systems are associated with high rates of lead failure, venous occlusion, infection, and ventricular dyssynchrony. Leadless pacemakers and conduction system pacing have emerged as promising alternatives that overcome many of these historical limitations. This review provides a comprehensive, updated overview of the technical principles, clinical applications, advantages, limitations, and appropriate patient selection strategies for these two innovative modalities in the pediatric and CHD population. Critical clarifications are provided regarding venous access requirements, age\u2010adjusted interpretation of QRS duration, ventricular dyssynchrony evaluation, and indications for device therapy according to pediatric\u2010specific guidelines rather than adult\u2010derived criteria. Clinical decision\u2010making is integrated into a structured framework based on age, body size, clinical symptoms, ventricular synchrony, and arrhythmic risk stratification."
+  },
+  {
     "title": "Atrial Substrate and Electrogram Characterization in Patients with Atrial Fibrillation and Hypertrophic Cardiomyopathy",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005921?dgcid=rss_sd_all",
     "doi": null,
@@ -33,6 +59,31 @@
     "tags": [
       "AFib",
       "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Percutaneous Left Atrial Appendage Closure: The CHAMPION-like vs CLOSURE-like Patient Phenotype Framework",
+    "link": "https://doi.org/10.1093/europace/euag286",
+    "doi": "10.1093/europace/euag286",
+    "journal": "EP Europace",
+    "date": "Oct 05, 2026",
+    "date_ts": 1791158400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    The near-simultaneous publication of CHAMPION-AF and CLOSURE-AF produced apparently discordant evidence regarding percutaneous left atrial appendage closure (LAAC) for stroke prevention in atrial fibrillation. We aimed to reconcile these findings through a phenotype-based framework and identify the determinants of net clinical benefit.\n                  \n                  \n                    Methods and results\n                    This narrative review integrates randomized trials, registries, consensus documents, and guidelines, focusing on patient selection, procedural risk, post-implant antithrombotic therapy, endpoint construction, competing mortality, and time to benefit. CHAMPION-AF evaluated LAAC against direct oral anticoagulation in an elective, anticoagulation-eligible population with lower bleeding risk, demonstrating non-inferior thromboembolic protection and less non-procedural bleeding. Conversely, CLOSURE-AF enrolled an older, multimorbid population with substantial renal dysfunction, previous bleeding, and high competing mortality. Although implantation success and stroke rates were comparable between treatment groups, early procedural and antithrombotic-related bleeding, a composite endpoint incorporating procedural events, and limited survival reduced the opportunity for delayed benefit. The highly selective recruitment pathway further limits generalisability. These findings define a continuum from the \u201cCHAMPION-like\u201d patient, with sufficient physiological reserve and life expectancy to realise long-term benefit, to the \u201cCLOSURE-like\u201d patient, in whom frailty and competing risk may outweigh the advantage of appendage exclusion.\n                  \n                  \n                    Conclusion\n                    LAAC efficacy is not determined by device performance alone but by matching the intervention to patient phenotype and time horizon. Selection should integrate thromboembolic and bleeding risk, frailty, renal function, post-implant treatment tolerance, and expected survival. Future trials require transparent screening data, time-sensitive endpoints, landmark analyses, and competing-risk methods."
+  },
+  {
+    "title": "Life\n                    <i>Rhythms</i>\n                    : The continuous commitment of the European Heart Rhythm Association in the field of arrhythmias and electrophysiology",
+    "link": "https://doi.org/10.1093/europace/euag285",
+    "doi": "10.1093/europace/euag285",
+    "journal": "EP Europace",
+    "date": "Oct 05, 2026",
+    "date_ts": 1791158400.0,
+    "tags": [
+      "Other"
     ],
     "hot": false
   },
@@ -220,6 +271,18 @@
     "date_ts": 1790823155.273074,
     "tags": [
       "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Correction to: Electrical reconnection after pulsed field ablation with a circular over-the-wire catheter in atrial fibrillation",
+    "link": "https://doi.org/10.1093/europace/euag281",
+    "doi": "10.1093/europace/euag281",
+    "journal": "EP Europace",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "AFib"
     ],
     "hot": false
   },
@@ -6148,68 +6211,5 @@
     "hot": false,
     "abstract": "Importance\n                    In patients with atrial fibrillation (AF), oral anticoagulation (OAC) is the gold standard for preventing ischemic stroke, at the expense of a higher risk of bleeding. Catheter-based left atrial appendage closure (LAAC) has been proposed as an alternative strategy to prevent stroke, but the efficacy and safety compared to OAC are uncertain.\n                  \n                  \n                    Objective\n                    To evaluate the efficacy and safety of catheter-based LAAC compared to OAC in patients with AF at high risk of stroke.\n                  \n                  \n                    Data Sources\n                    PubMed, Cochrane Central, and Web of Science were screened up to March 2026. The websites of leading cardiology societies, news outlets, and reference lists of each eligible study were also inspected.\n                  \n                  \n                    Study Selection\n                    Studies enrolling patients with AF randomly assigned to catheter-based LAAC or OAC and reporting at least 1 outcome of interest were included.\n                  \n                  \n                    Data Extraction and Synthesis\n                    Two investigators independently extracted data of interest and assessed data quality. Catheter-based LAAC vs OAC comparisons were pooled as incidence rate ratios (IRRs) using a frequentist random-effect model.\n                  \n                  \n                    Main Outcomes and Measures\n                    Primary and coprimary outcomes were long-term stroke and major bleeding. Secondary outcomes included the composite of cardiovascular death, stroke, or systemic embolism, all-cause death, the single components of the composite end point, ischemic stroke, hemorrhagic stroke, and nonprocedural major bleeding. Periprocedural events (ie, stroke, major bleeding, death, device embolization, and pericardial effusion) were also combined.\n                  \n                  \n                    Results\n                    Eight trials (7434 patients) were included in the meta-analysis. After a weighted mean follow-up of 37.9 months, no significant differences were detected for stroke (IRR, 1.08; 95% CI, 0.82-1.41) and major bleeding (IRR, 0.96; 95% CI, 0.81-1.14). However, catheter-based LAAC was associated with a higher risk of ischemic stroke (IRR, 1.34; 95% CI, 1.01-1.77) and a lower risk of nonprocedural major bleeding (IRR, 0.73; 95% CI, 0.58-0.92) compared with OAC. Periprocedural events per 1000 patients were 5 strokes, 9 episodes of bleeding, 1 death, 5 episodes of device embolization, and 9 pericardial effusions.\n                  \n                  \n                    Conclusions and Relevance\n                    In patients with AF, at long-term follow-up, transcatheter LAAC was associated with similar rates of any type of stroke and major bleeding compared with OAC, while increasing the risk of ischemic stroke and lowering the risk of nonprocedure-related major bleeding. These findings do not support the routine use of LAAC as a first-line strategy for stroke prevention in patients with AF at moderate to high risk of stroke.",
     "summary": "This meta-analysis of 8 randomized controlled trials (7434 patients) compared catheter-based left atrial appendage closure (LAAC) to oral anticoagulation (OAC) for stroke prevention in atrial fibrillation and found no significant differences in overall stroke or major bleeding rates at mean 37.9-month follow-up, though LAAC was associated with higher ischemic stroke risk (IRR 1.34) and lower nonprocedural bleeding risk (IRR 0.73). The findings do not support LAAC as first-line therapy for moderate to high-risk AF patients, despite comparable aggregate safety profiles."
-  },
-  {
-    "title": "Bachmann's Bundle Versus Right Atrial Appendage Pacing: A Systematic Review and Meta\u2010Analysis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70397?af=R",
-    "doi": "10.1111/pace.70397",
-    "journal": "PACE",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787753409.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Right atrial appendage (RAA) pacing remains the default atrial lead position despite evidence that non\u2010physiological atrial activation promotes interatrial dyssynchrony. Bachmann's bundle pacing (BBp) targets the interatrial conduction pathway. We evaluated whether BBp improves electrophysiologic markers of atrial synchrony and whether this is accompanied by a reduction in atrial fibrillation (AF) incidence compared with RAA pacing.\n                  \n                  \n                    Methods\n                    Systematic review and meta\u2010analysis of studies comparing BBp with RAA pacing. PubMed, Embase, Scopus, Cochrane Library, ClinicalTrials.gov, and reference lists were searched (December 2025). Primary outcome: P\u2010wave duration change. Secondary: AF incidence. Safety: lead dislodgement. Random\u2010effects (REML) models.\n                  \n                  \n                    Results\n                    \n                      Eight studies comprising 731 patients were analyzed. BBp was associated with a consistent reduction in P\u2010wave duration (primary analysis, 5 independent\u2010group studies: MD \u221234.61\u00a0ms; 95% CI \u221239.84 to \u221229.38;\n                      p\n                      &lt; 0.001;\n                      I\n                      2\n                      = 0%; 6\u2010study sensitivity including Vedage et\u00a0al.: MD \u221235.24\u00a0ms;\n                      I\n                      2\n                      = 0%), indicating a shortening of global atrial activation time. BBp was also associated with a lower AF incidence across three RCTs (RR 0.59; 95% CI 0.37\u20130.94;\n                      p\n                      = 0.026); however, this estimate was imprecise and sensitive to removal of the dominant contributing trial. Atrial lead dislodgement was rare and events were insufficient for formal pooled analysis; no excess dislodgement signal was observed, but comparative safety remains uncertain given event sparsity.\n                    \n                  \n                  \n                    Conclusions\n                    BBp consistently reduced P\u2010wave duration across diverse paced populations and generated a fragile signal toward lower AF incidence. Comparative lead safety is uncertain due to sparse events. These findings support investigation in prospective trials but do not justify immediate practice change.\n                  \n                  \n                    PROSPERO Registration\n                    CRD420261282981.",
-    "summary": "This meta-analysis of 8 studies (731 patients) comparing Bachmann's bundle pacing (BBp) versus right atrial appendage pacing found that BBp consistently reduced P-wave duration by approximately 35 ms (p<0.001), indicating improved atrial synchrony, and showed a potentially reduced atrial fibrillation incidence (RR 0.59; p=0.026) across 3 RCTs, though this AF benefit was imprecise and sensitive to individual trial removal. The authors conclude that while BBp demonstrates electrophysiologic promise, current evidence does not support immediate practice change pending larger prospective trials."
-  },
-  {
-    "title": "The neglected role of lethal arrhythmia in the sudden death of stroke survivors",
-    "link": "https://www.nature.com/articles/s44161-026-00868-6",
-    "doi": "10.1038/s44161-026-00868-6",
-    "journal": "Nature Cardiovasc Res",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787704520.390909,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Editorial Board",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006766?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787704518.844544,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical Characteristics and Outcomes of Patients With Biventricular and Left-Dominant Arrhythmogenic Cardiomyopathy With Ring-Like Late Gadolinium Enhancement Pattern",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26002136?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787704518.844503,
-    "tags": [
-      "Genetics",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Prematurity Index in Brugada Syndrome: More Than a Matter of Coupling Interval",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600544X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 26, 2026",
-    "date_ts": 1787704518.84445,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
   }
 ]
