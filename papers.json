@@ -1,5 +1,17 @@
 [
   {
+    "title": "The Indispensable Role of Sham Controls in Evaluating Interventional Therapies: The Need for Objective Rigor in Atrial Fibrillation Ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028614?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 09, 2026",
+    "date_ts": 1791516421.159636,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Clinical Implications of Hemolysis after Pulsed Field Ablation - What Can We Learn from Benchtop Models and Preclinical Experiments",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028584?dgcid=rss_sd_all",
     "doi": null,
@@ -82,6 +94,59 @@
       "AFib"
     ],
     "hot": false
+  },
+  {
+    "title": "Electrophysiologist-Led Deep Sedation for Pulsed Field Ablation of Atrial Fibrillation Using a Bipolar Contact Force Focal Catheter: The DEEP-PFA Randomized Controlled Trial",
+    "link": "https://doi.org/10.1161/circep.126.015420",
+    "doi": "10.1161/circep.126.015420",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Oct 08, 2026",
+    "date_ts": 1791417600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Value of Left Ventricular Low Voltage Area and Ejection Fraction in Predicting End-Stage Heart Failure Outcomes After Ventricular Tachycardia Ablation in Patients With Non-Ischemic Cardiomyopathy",
+    "link": "https://doi.org/10.1161/circep.126.014886",
+    "doi": "10.1161/circep.126.014886",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Oct 08, 2026",
+    "date_ts": 1791417600.0,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    Patients with nonischemic cardiomyopathy (NICM) and ventricular tachycardia are at increased risk for adverse HF outcomes, and abnormal left ventricular (LV) substrate identified by endocardial unipolar and bipolar low-voltage areas (LVAs) may aid in risk stratification. This study assessed the association of LV unipolar and bipolar LVAs with end-stage HF outcomes in patients with NICM undergoing ventricular tachycardia ablation.\n                  \n                  \n                    METHODS:\n                    \n                      Patients with NICM and LV ejection fraction (EF) &lt;50% undergoing ventricular tachycardia ablation from 2019 to 2023 were included. Endocardial voltage mapping defined confluent (&gt;2 cm\n                      2\n                      ) unipolar LVAs as &lt;8.27 mV and bipolar LVAs as &lt;1.5 mV during sinus or paced rhythm. End-stage HF outcomes included HF death, LV assist device implantation, or heart transplant. Multivariable Cox proportional hazards regression analysis assessed associations between unipolar/bipolar LVAs and end-stage HF outcomes.\n                    \n                  \n                  \n                    RESULTS:\n                    \n                      One hundred eleven patients with NICM (mean age, 64.6\u00b19.8 years; 81.1% male; mean LVEF, 33.8\u00b111.7%) were included. During a median follow-up of 28.1 months (interquartile range, 18\u201346), 28 (25.2%) patients experienced end-stage HF outcomes. Unipolar LVA (hazard ratio, 1.03 per 1% increase [95% CI, 1.01\u20131.05];\n                      P\n                      =0.002) and LVEF (hazard ratio, 1.04 per 1% decrease [95% CI, 1.00\u20131.09];\n                      P\n                      =0.03) were independently associated with higher end-stage HF risk, while bipolar LVA was not (hazard ratio, 0.98, 1% increase [95% CI, 0.96\u20131.01];\n                      P\n                      =0.25). A 3-point risk score based on the Youden index, unipolar LVA \u226570% (2 points), 35% to 70% (1 point), and LVEF \u226425% (1 point), had 82.1% sensitivity and 77.1% specificity for predicting end-stage HF in scores \u22652.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    In patients with NICM undergoing ventricular tachycardia ablation, unipolar LVA and LVEF are independent predictors of end-stage HF outcomes. Integrating these predictors yields a prognostic score to identify patients at the highest risk of end-stage HF outcomes."
+  },
+  {
+    "title": "Serial Artificial Intelligence ECG-Derived Atrial Fibrillation Probability and Recurrence Risk After Pulsed Field Ablation",
+    "link": "https://doi.org/10.1161/circep.126.015183",
+    "doi": "10.1161/circep.126.015183",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Oct 08, 2026",
+    "date_ts": 1791417600.0,
+    "tags": [
+      "AFib",
+      "AI"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    Pulsed field ablation is now widely used for atrial fibrillation (AF) ablation, but atrial tachyarrhythmia recurrence remains common and postablation risk tools are limited. We assessed whether a validated sinus\u2011rhythm artificial intelligence\u2014 enabled ECG AF probability score, and its early postablation change, predicts recurrence after pulsed field ablation.\n                  \n                  \n                    METHODS:\n                    We studied consecutive patients undergoing index pulsed field ablation across 3 Mayo Clinic sites (February 2024\u2013March 2025) with \u22651 sinus\u2011rhythm ECG within 180 days preprocedure. Baseline artificial intelligence\u2014enabled ECG AF score (range 0\u20131) was the mean across baseline ECGs. Recovery indices (RI30/60/90), defined as mean postprocedure artificial intelligence\u2014enabled ECG score within days 1\u201330/60/90 minus baseline, predicted post\u2011blanking recurrence using corresponding 30\u2011, 60\u2011, and 90\u2011day blanking windows. The primary outcome was time to first documented AF/atrial flutter/atrial tachycardia episode &gt;30 seconds, ascertained via clinic ECGs, ambulatory monitoring, and device interrogations. Cox regression adjusted for prespecified clinical and echocardiographic covariates assessed associations; Harrell C\u2011statistic quantified discrimination.\n                  \n                  \n                    RESULTS:\n                    \n                      Among 1052 patients (67\u00b110 years; 33% women), median baseline score was 0.35; 320 (30%) recurred over 188 days. Higher baseline score independently predicted recurrence (hazard ratio per 0.1 increase, 1.08 [95% CI, 1.03\u20131.14]). Scores rose on day 0 after ablation, then declined over subsequent weeks, with persistently higher, less\u2011improving trajectories among patients who recurred (time\u00d7recurrence interaction\n                      P\n                      &lt;0.001). Day 0 score was not independently associated with recurrence after adjustment. Attenuated early recovery (higher recovery index) was independently associated with recurrence, most robustly for RI-90 (hazard ratio per 0.1 increase, 1.15 [95% CI, 1.07\u20131.24]), and improved discrimination beyond baseline and covariates (C\u2011statistic, 0.63\u20130.67; \u0394C=0.04). Findings were consistent in a historical thermal ablation cohort.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    Baseline and early postablation dynamics of a sinus\u2011rhythm artificial intelligence\u2014enabled ECG AF probability score are associated with pulsed field ablation recurrence and may aid multivariable risk stratification; prospective validation is warranted."
+  },
+  {
+    "title": "Evolving Mechanisms on Mortality in Atrial Fibrillation: A 25\u2010Year National Death\u2010Certificate Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70524?af=R",
+    "doi": "10.1111/jce.70524",
+    "journal": "J Cardiovasc EP",
+    "date": "Oct 07, 2026",
+    "date_ts": 1791382775.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Atrial fibrillation (AF) prevalence has risen alongside an aging US population and wider adoption of contemporary therapies, yet population\u2010level changes in mechanisms of death among people with AF remain incompletely characterized. We used National Death Certificate Trends in AF Mortality data to assess 25\u2010year trends in AF\u2010related mortality and the contribution of heart failure (HF), stroke, myocardial infarction (MI), and dementia.\n                  \n                  \n                    Methods\n                    We conducted a retrospective analysis of CDC WONDER records for US decedents aged \u2265\u200935 years with AF listed as a contributing cause of death from 1999 to 2023, coinciding with the implementation of ICD\u201010 coding in the CDC database. We quantified all\u2010cause and cause\u2010specific mortality rates per 100\u2009000 and stratified trends by age, sex, and race. The analytic cohort included decedents with AF and at least one of four cardiovascular conditions (stroke, dementia, HF, or MI) listed as a primary or contributing cause of death. Confidence intervals were obtained from CDC WONDER outputs or calculated per CDC guidance.\n                  \n                  \n                    Results\n                    Among 3\u2009273\u2009015 decedents with AF noted on the death certificate, 461\u2009321 had HF, dementia, stroke, or MI listed as a contributing cause. HF emerged as the leading cause/contributor with a steep rise beginning in approximately 2008. Stroke rates were stable or declining, MI\u2010related mortality remained low and stable, while dementia, particularly stroke\u2010free dementia, increased significantly in adults \u2265\u200985 (outpacing stroke among the oldest White decedents since early 2000s). Non\u2010White groups exhibited higher stroke and HF mortality trends; women \u2265\u200985 had higher stroke\u2010related mortality than men.\n                  \n                  \n                    Conclusions\n                    Over 25 years, AF\u2010associated mortality patterns shifted toward HF and stroke\u2010free dementia while ischemic stroke and MI declined or stabilized. Findings highlight the need to expand AF care beyond stroke prevention to prioritize HF prevention/management, cognitive health, equitable AF\u2010care pathways to ensure broad access to therapies, and additional studies of targeted interventions to mitigate disease risks."
   },
   {
     "title": "The Cardiac Calcium Handling Machinery is Remodeled in Friedreich\u2019s Ataxia",
@@ -648,6 +713,55 @@
     "date_ts": 1790823155.273074,
     "tags": [
       "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Improved patient value after implementing same day discharge for patients undergoing pulmonary vein isolation",
+    "link": "https://doi.org/10.1093/europace/euag155",
+    "doi": "10.1093/europace/euag155",
+    "journal": "EP Europace",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Pulmonary vein isolation (PVI) is an effective intervention to treat atrial fibrillation, which is increasingly prevalent. Same-day discharge (SDD) is a strategic approach to limit procedure-related costs. This study aimed to compare healthcare utilization, costs, and clinical outcomes before and after implementation of an SDD protocol.\n                  \n                  \n                    Methods and results\n                    This retrospective study included 2987 patients undergoing PVI between 1 January 2016 and 1 April 2021. Baseline characteristics, pre-, peri-, and post-procedure healthcare utilization and clinical outcomes were compared before (cohort A; n = 1379) and after (Cohort B; n = 1608) implementation of the SDD protocol using bivariate and multivariate analyses. show that cohort B vs. cohort A had lower all-cause 90-day mortality (0% vs. 0.3%, P = 0.031), no differences in re-ablation &amp;lt; 1 year (P = 0.286), as well as in complications: bleedings (P = 0.177), tamponade &amp;lt; 30 days (P = 0.157), phrenic nerve injury (P = 0.984), thromboembolic complication &amp;lt; 72 h (P = 0.212), or vascular complications (P = 0.290). In terms of healthcare utilization and costs, cohort B had significantly less peri-procedure hospital admission costs (\u20ac721.52 vs. \u20ac1011.78, P &amp;lt; 0.001) and less total peri- and post-procedure costs (\u20ac840.37 vs. \u20ac1152.94, P &amp;lt; 0.001). Adjusted for all baseline characteristics, the post-implementation cohort showed on average \u20ac315 lower total costs per patient.\n                  \n                  \n                    Conclusion\n                    The implementation of the SDD protocol was associated with comparable complication rates while significantly reducing both peri- and post-procedure healthcare utilization and costs, thereby enhancing patient value. This indicates a potential margin for further cost reductions and increased efficiency."
+  },
+  {
+    "title": "Electromagnetic Interference with Device-to-Device Communication in a Dual-Chamber Leadless Pacemaker During Temporary Mechanical Circulatory Support: Clinical and Experimental Evidence",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.10.006",
+    "doi": "10.1016/j.hrcr.2026.10.006",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Potential Mechanisms of Transient Sinus Node Dysfunction During Pulsed Field Ablation: Autonomic Activation, Direct Sinus Node Effects, and Possible Sinoatrial Nodal Artery Vasospasm",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.10.005",
+    "doi": "10.1016/j.hrcr.2026.10.005",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pseudo Mobitz II and Intra-Hisian Block Abolished by Cardioneuroablation",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.10.004",
+    "doi": "10.1016/j.hrcr.2026.10.004",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
     ],
     "hot": false
   },
@@ -6109,116 +6223,6 @@
     "journal": "Heart Rhythm",
     "date": "Aug 27, 2026",
     "date_ts": 1787808628.296827,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of pulsed field ablation-based pulmonary vein isolation on atrial fibrillation triggers originating from the superior vena cava",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602165X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787808628.296794,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Ethanol infusion of the vein of Marshall in catheter ablation of persistent atrial fibrillation in patients with mitral valve replacement",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125028371?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787808628.296759,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Adjunctive ablation at the mitral isthmus in patients with left ventricular pacing leads: A retrospective multicenter analysis of safety and feasibility",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126002092?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787808628.29672,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Safety and effectiveness of zero-fluoroscopy atrial fibrillation ablation in community hospitals vs tertiary centers",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021399?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787808628.296686,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Electrical impedance spectroscopy facilitates quantitative depth monitoring of pulsed field ablation: An impedimetric approach with preclinical validation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125029273?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787808628.296649,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Hemolysis and kidney injury after catheter ablation for atrial fibrillation: Microsecond vs nanosecond pulsed field ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126022241?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787808628.296615,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Double figure-of-eight reentry during atrial tachycardia using 4 critical boundaries: A unique topological finding",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126000238?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787808628.29658,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Activation signature valleys are predictive of macroreentrant atrial tachycardia bottlenecks where uniform low voltage and uniform slow conduction reside",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126002158?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787808628.296545,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left atrial appendage occlusion and concomitant catheter ablation procedures",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021156?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787808628.296513,
     "tags": [
       "AFib"
     ],
