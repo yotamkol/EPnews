@@ -1,5 +1,125 @@
 [
   {
+    "title": "Impact of Early Atrial Tachyarrhythmia Within the Blanking Period on Late Recurrence After Pulsed Field Ablation of Atrial Fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008455?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 10, 2026",
+    "date_ts": 1791601599.847105,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Radiofrequency-Facilitated Left Bundle Branch Area Pacing as a Bailout Strategy in Patients With Septal Resistance",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008467?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 10, 2026",
+    "date_ts": 1791601599.847071,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Acute Regional Atrial Metabolic Inflexibility in Atrial Fibrillation: Evidence From Human Vein of Marshall Arteriovenous Samplings",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008534?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 10, 2026",
+    "date_ts": 1791601599.847035,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Increased Heart Failure Risk After Low-Voltage-Area Ablation in Patients With Paroxysmal Atrial Fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008431?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 10, 2026",
+    "date_ts": 1791601599.847001,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Adjunctive Low-Voltage Area Ablation Reduces Atrial Fibrillation Recurrence in Persistent Atrial Fibrillation: A Systematic Review, Meta-Analysis, and Trial Sequential Analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008443?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 10, 2026",
+    "date_ts": 1791601599.846961,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Four Distinct Morphologies of Bundle Branch Reentrant Ventricular Tachycardia Eliminated by Right Bundle Branch Ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008522?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 10, 2026",
+    "date_ts": 1791601599.846921,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Effects of Dual-Energy Lattice-Tip Catheter Ablation of Ventricular Arrhythmias on Cardiac Implantable Electronic Device Performance",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008510?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 10, 2026",
+    "date_ts": 1791601599.846839,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A Simplified Scoring System to Predict Progression of Clinical Atrial Fibrillation from Atrial High-Rate Episodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005957?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Oct 10, 2026",
+    "date_ts": 1791601599.664171,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Guidewire-Assisted 3D Mapping and Ablation of Intramural Premature Ventricular Complexes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005969?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Oct 10, 2026",
+    "date_ts": 1791601599.664094,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cardiac Magnetic Resonance-derived Ablation Footprint after Sequential Unipolar Radiofrequency, Focal Pulsed Field, and Bipolar Radiofrequency Ablation of Resistant Left Ventricular Summit VT",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028596?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 10, 2026",
+    "date_ts": 1791601599.351123,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
     "title": "The Indispensable Role of Sham Controls in Evaluating Interventional Therapies: The Need for Objective Rigor in Atrial Fibrillation Ablation",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028614?dgcid=rss_sd_all",
     "doi": null,
@@ -711,6 +831,18 @@
     "journal": "Heart Rhythm",
     "date": "Oct 01, 2026",
     "date_ts": 1790823155.273074,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Outcomes of leadless pacing with the Micra VR beyond 10 years",
+    "link": "https://doi.org/10.1093/europace/euag271",
+    "doi": "10.1093/europace/euag271",
+    "journal": "EP Europace",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
     "tags": [
       "Devices"
     ],
@@ -6093,138 +6225,6 @@
     "tags": [
       "AFib",
       "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Single\u2010Center Case Series: EV\u2010ICD Function After Left Ventricular Assist Device Implantation via Median Sternotomy",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70411?af=R",
-    "doi": "10.1111/pace.70411",
-    "journal": "PACE",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787855193.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "T\u2010Wave Changes After Left Bundle Branch Area Pacing for Cardiac Resynchronization Therapy",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70412?af=R",
-    "doi": "10.1111/pace.70412",
-    "journal": "PACE",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787855083.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "MRI-guided multipolar functional substrate mapping identifies intramural conduction corridors: The TRAMPOLINE VT study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027268?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787808628.297189,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "First Deflection Annotation and Emphasis Function of Electroanatomical Mapping Highlight the Target Area of Ventricular Fibrillation Ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027359?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787808628.29715,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Editorial Board",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026202?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787808628.297126,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Table Of Content",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126026214?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787808628.2971,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of blood pressure on the risk of stroke and all-cause mortality in patients with atrial fibrillation across different age groups: A nationwide population-based study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126021727?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787808628.297064,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Association of atrial high-rate episodes daily burden with the risk of cardiovascular death, heart failure hospitalization, and stroke",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126002067?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787808628.297027,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Updated evidence on peri-operative neutrophil-to-lymphocyte ratio in cardiac surgery: A dual analysis of prognostic and diagnostic value for post-operative atrial fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125029297?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787808628.296988,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Early rhythm control and mental health-related hospitalizations in young and middle-aged patients with atrial fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527125028723?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787808628.296946,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Early recurrence of atrial arrhythmias and its impact on late recurrence after pulmonary vein isolation using pulsed field ablation of paroxysmal atrial fibrillation: A long-term follow-up study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126002055?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 27, 2026",
-    "date_ts": 1787808628.296827,
-    "tags": [
-      "AFib"
     ],
     "hot": false
   }
