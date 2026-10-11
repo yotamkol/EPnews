@@ -1,5 +1,139 @@
 [
   {
+    "title": "Chronic Impact of Cavo-tricuspid Isthmus Ablation on the Adjacent Right Coronary Artery: Pulsed-Field vs Radiofrequency vs No Ablation in the IMPACT-CTI Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26009497?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 11, 2026",
+    "date_ts": 1791686316.106119,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Real-World Performance and Diagnostic Yield Gains of a Next Generation Patch-Based 14-day Uninterrupted Ambulatory ECG Monitor",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005970?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Oct 11, 2026",
+    "date_ts": 1791686316.002975,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of Atrial Fibrillation on Clinical Outcome in Patients with Peripartum Cardiomyopathy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005982?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Oct 11, 2026",
+    "date_ts": 1791686316.002913,
+    "tags": [
+      "AFib",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Substrate Comprising Fibrosis and Epicardial Adipose Tissue-Associated Electrophysiological Remodeling Can Sustain Atrial Fibrillation Drivers: Insights from Image-Personalized Computational Simulations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602864X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 11, 2026",
+    "date_ts": 1791686315.893477,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Conduction System Recovery After Pulsed Field Ablation of a Para-Hisian PVC",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028651?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 11, 2026",
+    "date_ts": 1791686315.893443,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Nuclear magnetic resonance-derived lipoprotein profile and risk of atrial tachyarrhythmia recurrence after catheter ablation: a case-cohort design within the PREDIMAR trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028626?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 11, 2026",
+    "date_ts": 1791686315.893398,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Clinical Characteristics and Transplacental Treatment of Fetal Ventricular Tachycardia: A Nationwide Survey in Japan",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028663?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 11, 2026",
+    "date_ts": 1791686315.893346,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Differences in Tricuspid Valve Insufficiency, Mechanical Synchrony, and Cardiac Remodeling Between Left Bundle Branch Area Pacing and Right Ventricular Pacing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028638?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 11, 2026",
+    "date_ts": 1791686315.893298,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A Rounding Error Dressed as Reform: The Implications of a Large Private Health Insurance Company\u2019s Prior Authorization Concession for the Electrophysiology Patient",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028675?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 11, 2026",
+    "date_ts": 1791686315.893092,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Arrhythmia and dementia: time to think beyond atrial fibrillation",
+    "link": "https://doi.org/10.1093/eurheartj/ehag391",
+    "doi": "10.1093/eurheartj/ehag391",
+    "journal": "European Heart Journal",
+    "date": "Oct 10, 2026",
+    "date_ts": 1791590400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left Atrial Appendage Occlusion vs Oral Anticoagulation for Stroke Prevention in Atrial Fibrillation: A Meta\u2010Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70465?af=R",
+    "doi": "10.1111/pace.70465",
+    "journal": "PACE",
+    "date": "Oct 10, 2026",
+    "date_ts": 1791615254.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Left atrial appendage occlusion (LAAO) has emerged as a non\u2010pharmacological alternative to oral anticoagulation (OAC) for stroke prevention in patients with atrial fibrillation (AF). Following the publication of recent CHAMPION\u2010AF and CLOSURE\u2010AF trials, an updated synthesis of evidence is warranted to clarify the long\u2010term comparative efficacy and safety of LAAO versus OAC in patients with AF.\n                  \n                  \n                    Methods\n                    We conducted a systematic review and meta\u2010analysis of randomized controlled trials (RCTs) comparing LAAO with OAC in adults with AF. A comprehensive search of major databases was performed from inception to April 2026. The primary efficacy outcomes were major adverse cardiovascular events (MACE) and stroke. The primary safety outcome was non\u2013procedure\u2010related bleeding. Random\u2010effects models were used to calculate pooled risk ratios (RRs) with 95% confidence intervals (CIs).\n                  \n                  \n                    Results\n                    \n                      Six RCTs including 7,004 patients (3,681 LAAO; 3,323 OAC) were analyzed. No statistically significant difference was observed for MACE (7.5% vs 6.9%; RR 1.03, 95% CI 0.79\u20101.34) or stroke (3.7% vs 3.2%; RR 1.07, 95% CI 0.80\u20101.43). LAAO was associated with a significantly lower risk of non\u2010procedure\u2010related bleeding (9.8% vs 16.7%; RR 0.63, 95% CI 0.52\u20100.77), corresponding to an absolute risk reduction of 6.9% and an approximate number needed to treat of 15 based on crude pooled event rates over the observed trial follow\u2010up. Trial sequential analysis indicated that the accumulated evidence for MACE and stroke remained inconclusive. Comparator\u2010type subgroup analyses showed no significant interaction for MACE (\n                      p\n                      = 0.67) or stroke (\n                      p\n                      = 0.81) between contemporary predominantly\u2010DOAC and VKA comparator trials.\n                    \n                  \n                  \n                    Conclusions\n                    LAAO was associated with lower non\u2010procedure\u2010related bleeding, while no statistically significant differences were observed for MACE or stroke. The available efficacy evidence remains inconclusive regarding equivalence or non\u2010inferiority, and larger trials are needed. These findings support individualized consideration of LAAO when the long\u2010term bleeding burden of anticoagulation is clinically important."
+  },
+  {
     "title": "Impact of Early Atrial Tachyarrhythmia Within the Blanking Period on Late Recurrence After Pulsed Field Ablation of Atrial Fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008455?dgcid=rss_sd_all",
     "doi": null,
@@ -6080,151 +6214,6 @@
     "date_ts": 1787978202.045116,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "When 300 Seconds is Not the Same Platform- and Cartridge Dependent Variability of Activated Clotting Time during Left-sided Ablation Procedures",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027414?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 29, 2026",
-    "date_ts": 1787978202.045076,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Invasive and non-invasive mapping of the cardiac electromechanical substrate in pulmonary arterial hypertension",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027396?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 29, 2026",
-    "date_ts": 1787978202.045035,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Proposed new classification of peri-mitral flutter",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027384?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 29, 2026",
-    "date_ts": 1787978202.044857,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Development and Validation of the GLORIA-AF Stroke Weighted Risk Score for Patients with Atrial Fibrillation",
-    "link": "https://doi.org/10.1093/europace/euag236",
-    "doi": "10.1093/europace/euag236",
-    "journal": "EP Europace",
-    "date": "Aug 29, 2026",
-    "date_ts": 1787961600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Accurate stroke-risk stratification is central to anticoagulation decision-making in patients with atrial fibrillation (AF), but conventional scores may not fully capture risk heterogeneity. We aimed to develop and externally validate an interpretable weighted score using a time-to-event framework.\n                  \n                  \n                    Methods\n                    GLORIA-AF Phase II/III data were used to evaluate 17 baseline predictors using LASSO-penalized Cox regression with stability selection; coefficients were converted into integer weights. Performance was assessed using discrimination, calibration, integrated discrimination improvement (IDI), continuous net reclassification improvement (NRI), and decision-curve analysis. External validation was performed in EORP-AF and APHRS-AF registries.\n                  \n                  \n                    Results\n                    Among 20,517 patients included in the derivation cohort (mean [SD] age, 69.9 [10.3] years; 9,196 women [44.8%]), 487 (2.4%) had stroke, and 17,397 (84.8%) were receiving anticoagulation at baseline. Ten selected predictors formed a 0-23-point score. The derived score achieved a C-index of 0.661 (95% CI, 0.636\u20130.685), higher than CHA2DS2-VA (0.626; P &amp;lt; 0.001), CHA2DS2-VASc (0.615; P &amp;lt; 0.001), and the unweighted score (P = 0.016), with no significant difference from the full Cox or machine learning models. In external validation (8,309 patients; 147 strokes), the C-index was 0.652 (95% CI, 0.614\u20130.690) versus 0.616 for CHA2DS2-VA (95%CI, 0.598-0.634; P &amp;lt; 0.001). IDI/NRI, calibration, and decision-curve analyses supported improved risk differentiation, close calibration, and generally greater net benefit than CHA2DS2-VA. The score retained higher discrimination than CHA2DS2-VA among patients without baseline anticoagulation (P &amp;lt; 0.001).\n                  \n                  \n                    Conclusion\n                    The GLORIA-AF Stroke Weighted Risk Score provides risk refinement beyond CHA2DS2-VA while retaining discrimination consistent with more complex models. External validation supports its transportability and potential adjunctive role in guideline-directed thromboembolic risk assessment.",
-    "summary": "This prospective cohort study derived and externally validated a 10-variable weighted stroke-risk score (GLORIA-AF Stroke Weighted Risk Score, 0-23 points) in 20,517 AF patients from GLORIA-AF registry, demonstrating superior discrimination (C-index 0.661) compared to CHA2DS2-VA (0.626) and maintaining performance in external validation (n=8,309; C-index 0.652 vs 0.616 for CHA2DS2-VA). The score provides improved risk stratification for anticoagulation decision-making in AF patients while remaining simpler than complex machine learning models."
-  },
-  {
-    "title": "Safety and Effectiveness of a Novel Dual-Energy Radiofrequency/Pulsed Field Ablation Catheter: 12 Month Results of the FlexPulse Study",
-    "link": "https://doi.org/10.1093/europace/euag238",
-    "doi": "10.1093/europace/euag238",
-    "journal": "EP Europace",
-    "date": "Aug 29, 2026",
-    "date_ts": 1787961600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Pulsed field (PF) ablation is increasingly used to treat paroxysmal atrial fibrillation (PAF). FlexPulse (NCT06676072) was conducted to evaluate safety and effectiveness of a novel dual-energy, flexible-tip focal ablation catheter with radiofrequency and PF for treatment of symptomatic, drug-refractory PAF.\n                  \n                  \n                    Methods\n                    FlexPulse was a global, prospective, single arm, multicentre study. The ablation procedures targeted pulmonary vein isolation (PVI) and adjunctive ablation at operators\u2019 discretion. The primary safety endpoint was occurrence of pre-defined safety events within 7-days of any ablation procedure. The primary effectiveness endpoint was freedom from a composite of recurrent AF/atrial tachycardia/atrial flutter, repeat procedure, new use or escalation of class I/III AAD, and/or cardioversion through 12-months.\n                  \n                  \n                    Results\n                    Overall, 180 subjects underwent PAF ablation. Successful PVI was achieved in all participants. Additional non-PV ablations were performed in 37.2% (67/180) of subjects. The primary safety endpoint event rate was 1.7%. The primary effectiveness endpoint was 74.6% at 12-months, and freedom from documented AF/AFL/AT recurrence was 77.4% (92.6% without weekly transtelephonic monitoring). In 15 subjects who underwent repeat ablation after the blanking period, remapping indicated that 79.7% (47/59) of the PVs were durably isolated from the index procedures. Retrospective analysis found that workflows with PFA Index (PI) \u226530 and AutoMark distance up to 6 mm target had a 12-month freedom from AF/AFL/AT of 84.6%.\n                  \n                  \n                    Conclusions\n                    In this trial, ablation with TactiFlex Duo in patients with symptomatic, drug-refractory PAF was safe and effective.",
-    "summary": "FlexPulse was a prospective, single-arm, multicenter study of 180 patients with symptomatic, drug-refractory paroxysmal atrial fibrillation treated with a novel dual-energy (radiofrequency and pulsed field) flexible-tip ablation catheter targeting pulmonary vein isolation, demonstrating a 1.7% safety event rate at 7 days and 74.6% freedom from recurrent arrhythmia at 12 months."
-  },
-  {
-    "title": "Mortality reduction with implanted defibrillator for primary prevention of sudden death after Myocardial Infarction: temporal trends in the PROFID study",
-    "link": "https://doi.org/10.1093/eurheartj/ehag706",
-    "doi": "10.1093/eurheartj/ehag706",
-    "journal": "European Heart Journal",
-    "date": "Aug 28, 2026",
-    "date_ts": 1787875200.0,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aim\n                    Randomized trials conducted in the early 2000s established the survival benefit of primary prevention implantable cardioverter-defibrillator (ICD) therapy in patients with reduced left ventricular ejection fraction (LVEF) after myocardial infarction. However, management of myocardial infarction and heart failure has substantially evolved since that time. We investigated whether the estimated association between primary prevention ICD implantation in post-myocardial infarction patients with reduced LVEF and mortality reduction has changed over time.\n                  \n                  \n                    Methods\n                    We analyzed individual participant data from 32,214 patients with LVEF \u226435% after myocardial infarction included in the PROFID pooled cohort, comprising 7,477 patients carrying a primary prevention ICD (ICD patients) and 24,737 patients without an ICD (non-ICD patients). The primary endpoint was all-cause mortality. Propensity scores were estimated using multivariable logistic regression including age, sex, LVEF, renal function, and diabetes, and overlap weighting was applied to balance treatment groups. Time period-specific analyses were performed across three prespecified time periods defined by inclusion year: 1995\u20132004, 2005\u20132014, and 2015\u20132020. Weighted cumulative mortality curves were generated for each time period. Temporal changes in the estimated association between ICD implantation and mortality reduction were assessed using a weighted Cox proportional hazards model.\n                  \n                  \n                    Results\n                    A total of 12,097 deaths occurred during a mean follow-up of 43.7 months. The estimated association between ICD implantation and mortality changed significantly across time (P for interaction &amp;lt;0.001). In weighted time period-specific analyses, the estimated mortality reduction associated with ICD implantation progressively decreased over more recent periods. The hazard ratio for ICD versus non-ICD patients was 0.54 (95% CI 0.47\u20130.62; P&amp;lt;0.001) in 1995\u20132004, 0.67 (95% CI 0.62\u20130.72; P&amp;lt;0.001) in 2005\u20132014, and 0.89 (95% CI 0.73\u20131.07; P=0.221) in 2015\u20132020, with negligible separation of the weighted cumulative mortality curves in the most recent time period.\n                  \n                  \n                    Conclusions\n                    In this analysis including a large cohort of post-myocardial infarction patients with reduced LVEF, the estimated mortality reduction associated with primary prevention ICD implantation progressively decreased over time.",
-    "summary": "This retrospective pooled cohort analysis of 32,214 post-myocardial infarction patients with LVEF \u226435% (7,477 with primary prevention ICD, 24,737 without) found that the mortality benefit of ICD implantation significantly declined over three decades, with hazard ratios of 0.54 (1995\u20132004), 0.67 (2005\u20132014), and 0.89 (2015\u20132020; not significant), suggesting that improved medical management and revascularization strategies have narrowed the survival advantage previously demonstrated for primary prevention ICD therapy."
-  },
-  {
-    "title": "Non-linear associations between blood pressure and clinical outcomes in atrial fibrillation: A systematic review and dose-response meta-analysis",
-    "link": "https://doi.org/10.1093/europace/euag223",
-    "doi": "10.1093/europace/euag223",
-    "journal": "EP Europace",
-    "date": "Aug 28, 2026",
-    "date_ts": 1787875200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Hypertension carries the highest attributable risk for atrial fibrillation (AF) and strongly influences clinical outcomes such as stroke and death; however, the optimal blood pressure targets in individuals with AF remain poorly defined. We aimed to characterise the dose-response relationship between systolic blood pressure (SBP) and diastolic blood pressure (DBP) and ischaemic stroke, all-cause mortality, and intracranial haemorrhage.\n                  \n                  \n                    Methods\n                    We systematically searched MEDLINE, Embase, and Scopus for studies reporting outcomes in AF stratified by SBP and DBP. A two-stage dose-response meta-analysis used restricted cubic splines to model non-linearity, with within-study correlation handled by the Greenland\u2013Longnecker method.\n                  \n                  \n                    Results\n                    Twenty-three studies (17 cohorts; n\u2009=\u2009476,750) were included. SBP demonstrated a U-shaped association with all-cause mortality, with the lowest risk at 134\u2005mmHg (RR 0.92, 0.86\u20130.98 versus 120\u2005mmHg). DBP exhibited a J-shaped association, with the lowest risk at 83\u2005mmHg (RR 0.99, 0.97\u20131.02). In contrast to mortality, the risks of ischaemic stroke, intracranial haemorrhage, and stroke or systemic embolism rose progressively with SBP, with a steepening gradient. At 140 versus 120\u2005mmHg, the RR was 1.51 for intracranial haemorrhage against 1.08 for ischaemic stroke, reaching 1.99 versus 1.14 at 150\u2005mmHg.\n                  \n                  \n                    Conclusion\n                    Systolic blood pressure exhibits a U-shaped relationship with all-cause mortality in patients with AF, balancing against a monotonic increase in ischemic stroke and intracranial haemorrhage at higher pressures. A pragmatic target SBP of 120\u2013130\u2005mmHg with DBP kept above approximately 75\u201380\u2005mmHg, appears to optimize the balance between stroke prevention, bleeding risk, and survival.",
-    "summary": "This dose-response meta-analysis of 23 studies (n=476,750) examined the relationship between systolic and diastolic blood pressure and outcomes in atrial fibrillation patients, demonstrating a U-shaped association between systolic blood pressure and all-cause mortality (lowest risk at 134 mmHg) with a monotonic increase in ischemic stroke and intracranial hemorrhage at higher pressures, suggesting an optimal target systolic blood pressure of 120\u2013130 mmHg to balance mortality, stroke prevention, and bleeding risk."
-  },
-  {
-    "title": "Cognitive Function and Telemedicine-based, Village Doctor-led Care for Atrial Fibrillation",
-    "link": "https://doi.org/10.1093/europace/euag233",
-    "doi": "10.1093/europace/euag233",
-    "journal": "EP Europace",
-    "date": "Aug 28, 2026",
-    "date_ts": 1787875200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Cognitive impairment is common among older patients with atrial fibrillation (AF). We aimed to evaluate whether baseline cognitive function modifies the effectiveness of a telemedicine-based, village doctor-led integrated care in older patients with AF.\n                  \n                  \n                    Methods\n                    This was a post hoc subgroup analysis of the MIRACLE-AF cluster-randomized trial conducted across 30 village clinics in China from December 2020 to May 2024. Rural participants aged \u226565 years with AF received telemedicine-based, village doctor-led integrated AF care or usual care. Participants were categorized by baseline Mini-Mental State Examination (MMSE) score into severe cognitive impairment (MMSE &amp;lt;18), mild-to-moderate cognitive impairment (MMSE 18\u201323), and preserved cognition (MMSE \u226524). The primary outcome was a composite of cardiovascular death, all stroke, hospitalization for worsening heart failure or acute coronary syndrome, and emergency visits for AF.\n                  \n                  \n                    Results\n                    Among 1,039 participants enrolled in the MIRACLE-AF trial (mean [SD] age, 75.8 [5.7] years; 460 women [44.3%]), 1,028 (98.9%) had baseline MMSE assessed (388 with MMSE &amp;lt;18, 305 with MMSE 18\u201323, and 335 with MMSE \u226524). Compared with control, the intervention reduced the risk of the primary outcome among patients with MMSE 18\u201323 (adjusted hazard ratio [HR], 0.56; 95% CI, 0.34\u20130.92), MMSE \u226524 (adjusted HR, 0.55; 95% CI, 0.32\u20130.93), and MMSE &amp;lt;18 (adjusted HR, 0.86; 95% CI, 0.54\u20131.35). P for interaction was 0.336.\n                  \n                  \n                    Conclusion\n                    A telemedicine-based, village doctor-led integrated care model was associated with favorable outcomes across baseline cognitive strata, warranting further evaluation among cognitively vulnerable adults with AF in rural settings.\n                  \n                  \n                    Clinical Trial Registration\n                    ClinicalTrials.gov (identifier NCT04622514).",
-    "summary": "This post hoc subgroup analysis of the MIRACLE-AF cluster-randomized trial (n=1,028 rural Chinese adults \u226565 years with AF) found that telemedicine-based, village doctor-led integrated AF care reduced the composite outcome of cardiovascular death, stroke, and AF-related hospitalizations/emergency visits in patients with mild-to-moderate cognitive impairment (HR 0.56) and preserved cognition (HR 0.55), but showed attenuated benefit in those with severe cognitive impairment (HR 0.86), though the interaction was not statistically significant. The intervention demonstrated benefit across all cognitive strata, supporting its application in rural AF populations regardless"
-  },
-  {
-    "title": "Elimination of Epicardial Late Potentials by Endocardial Ablation in Arrhythmogenic Right Ventricular Cardiomyopathy",
-    "link": "https://doi.org/10.1093/europace/euag231",
-    "doi": "10.1093/europace/euag231",
-    "journal": "EP Europace",
-    "date": "Aug 28, 2026",
-    "date_ts": 1787875200.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Long-term incidence of infective endocarditis according to the type of cardiac implantable electronic device: a nationwide comparison with moderate- and high-risk patient groups",
-    "link": "https://doi.org/10.1093/europace/euag232",
-    "doi": "10.1093/europace/euag232",
-    "journal": "EP Europace",
-    "date": "Aug 28, 2026",
-    "date_ts": 1787875200.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Structured Abstract\n                  \n                    Background and Aims\n                    According to ESC guidelines, patients with a cardiac implantable electronic device (CIED) are considered at moderate risk of infective endocarditis (IE), irrespective of CIED type. However, comparative data across CIED types and IE risk groups are limited. We examined IE rates according to CIED type compared with moderate- and high-risk groups.\n                  \n                  \n                    Methods\n                    Danish nationwide registries were used to identify patients with first-time CIED implantation and reference populations at moderate and high risk of IE (2000\u20132022), based on ESC guidelines. The high-risk group included patients with a left-sided prosthetic valve. Patients with prior IE or left-sided prosthetic valve were excluded from the CIED group. The primary outcome was incident IE within 10 years.\n                  \n                  \n                    Results\n                    The study included 84,171 CIED recipients, 127,966 moderate-risk patients, and 23,505 high-risk patients. Pacemakers were the most common CIED type (74.9%), followed by ICD (16.6%), CRT-D (4.6%), and CRT-P (3.9%). Pacemaker recipients were the oldest (median 78.2 years) and most frail. The 10-year cumulative incidence of IE was lowest in pacemaker recipients (1.0% [95% CI:0.9-1.1]) and highest in CRT-D recipients (2.2% [95% CI:1.7-2.9]). In adjusted analyses, all CIED types were associated with higher IE rates than the moderate-risk group but lower than the high-risk group.\n                  \n                  \n                    Conclusion\n                    In this nationwide cohort, IE risk differed across CIED types, highest in CRT-D and lowest in pacemaker recipients. All CIED types were associated with higher risk than moderate-risk patients but lower risk than high-risk patients, supporting ESC classification. CRT-D recipients may warrant further evaluation of preventive strategies.",
-    "summary": "This Danish nationwide cohort study (2000\u20132022) of 84,171 CIED recipients and comparison groups found that infective endocarditis risk varied significantly by device type, with 10-year cumulative incidence ranging from 1.0% in pacemaker recipients to 2.2% in CRT-D recipients, positioning all CIED types between moderate- and high-risk ESC classifications. CRT-D recipients demonstrated the highest IE risk and may warrant enhanced preventive strategies."
-  },
-  {
-    "title": "Algorithm-guided personalized pulsed field ablation for persistent atrial fibrillation: a prospective multicenter study with matched external comparison",
-    "link": "https://doi.org/10.1093/europace/euag225",
-    "doi": "10.1093/europace/euag225",
-    "journal": "EP Europace",
-    "date": "Aug 28, 2026",
-    "date_ts": 1787875200.0,
-    "tags": [
-      "AFib",
-      "AI"
     ],
     "hot": false
   }
