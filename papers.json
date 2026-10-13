@@ -1,5 +1,18 @@
 [
   {
+    "title": "Blanking Period after Atrial Fibrillation Catheter Ablation: A Systematic Review and Meta\u2010Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70467?af=R",
+    "doi": "10.1111/pace.70467",
+    "journal": "PACE",
+    "date": "Oct 12, 2026",
+    "date_ts": 1791780548.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Atrial arrhythmias that recur within the first 3 months after atrial fibrillation (AF) catheter ablation are conventionally attributed to a \u201cblanking period\u201d and not classified as procedural failure. Accumulating evidence suggests that such early recurrences of atrial tachyarrhythmias (ERAT) may instead predict late recurrence, raising concern that the conventional 3\u2010month window overestimates the duration during which recurrences are benign.\n                  \n                  \n                    Objective\n                    To assess the association between ERAT during each of the first 3 months after AF catheter ablation and late recurrence of atrial tachyarrhythmias (LRAT), and whether this association differs by ablation energy source.\n                  \n                  \n                    Methods\n                    We searched Ovid MEDLINE, Embase, and Web of Science without restriction on date or publication status for studies of AF catheter ablation reporting ERAT during defined intervals of the blanking period, stratified by subsequent LRAT status. Ablation energy sources included radiofrequency, cryoballoon, and pulsed field. The exposure was ERAT during the first, second, and third months after ablation, and the outcome was LRAT. Odds ratios (ORs) with 95% confidence intervals (CIs) were pooled using random\u2010effects models.\n                  \n                  \n                    Results\n                    \n                      Twelve studies comprising 7,751 patients (2,505 with LRAT, 5,246 without) were included. Mean follow\u2010up was 22.0 months, mean age 60.7 years, 25.8% were women, 52.5% had paroxysmal AF, mean CHA\n                      2\n                      DS\n                      2\n                      \u2010VASc score was 2.1, mean left atrial diameter 42.6\u00a0mm, and mean left ventricular ejection fraction 58.1%. ERAT was associated with subsequent LRAT, and the strength of this association increased across the blanking period: month 1 (12 studies; OR 1.76, 95% CI 1.01\u20133.08;\n                      p\n                      = 0.05), month 2 (10 studies; OR 3.46, 95% CI 2.15\u20135.57;\n                      p\n                      &lt; 0.001), and month 3 (10 studies; OR 21.4, 95% CI 10.9\u201342.2;\n                      p\n                      &lt; 0.001). The graded association was reproduced within the radiofrequency and cryoballoon subgroups.\n                    \n                  \n                  \n                    Conclusion\n                    ERAT was associated with subsequent LRAT throughout the blanking period, with a graded relationship that strengthened month by month and was strongest in the third month. These findings support a blanking period shorter than the conventional 3 months."
+  },
+  {
     "title": "Long-term outcome following idiopathic ventricular fibrillation and potential emerging etiologies",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26009448?dgcid=rss_sd_all",
     "doi": null,
@@ -10,6 +23,98 @@
       "VT"
     ],
     "hot": false
+  },
+  {
+    "title": "Multichannel Dysfunction Associated With a Dominant-Negative\n                    <i>KCNH2</i>\n                    Missense Variant, p.G604S, Results in Action Potential Duration Prolongation and Early Afterdepolarizations in a Patient-Specific, Reengineered Cardiomyocyte Model of Type 2 Long-QT Syndrome",
+    "link": "https://doi.org/10.1161/circep.126.014919",
+    "doi": "10.1161/circep.126.014919",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Oct 12, 2026",
+    "date_ts": 1791763200.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    \n                      Type 2 long-QT syndrome results from\n                      KCNH2\n                      -encoded Kv11.1 loss-of-function, but whether secondary inward-current dysfunction amplifies dysfunction remains unclear.\n                    \n                  \n                  \n                    METHODS:\n                    \n                      We characterized sodium (\n                      SCN5A\n                      , I\n                      Na\n                      ) and L-type calcium channel (\n                      CACNA1C\n                      , I\n                      Ca\n                      ) function in KCNH2-G604S and variant-corrected isogenic control induced pluripotent stem cell\u2013derived cardiomyocytes (iPSC-CMs). Whole-cell patch-clamp measured action potential duration at 90% repolarization (APD90), and potassium (I\n                      Kr\n                      ), sodium (I\n                      Na\n                      ), and calcium (I\n                      Ca, L\n                      ) currents. Fluo-4 imaging quantified calcium transients. A modified Kernik-Clancy iPSC-CM model incorporated experimentally measured persistent I\n                      Na,L\n                      and I\n                      Ca,L\n                      fractions and simulated isolated and combined current defects.\n                    \n                  \n                  \n                    RESULTS:\n                    \n                      KCNH2-G604S caused severe I\n                      Kr\n                      loss-of-function (72.5% reduction). APD90 was prolonged in G604S-iPSC-CMs (765\u00b158 ms) compared with isogenic controls (368\u00b137 ms;\n                      P\n                      &lt;0.005), with early afterdepolarizations in 50% of G604S cells. Nifedipine, verapamil, and mexiletine successfully shortened APD90 and abolished early afterdepolarizations. Compared with isogenic control, I\n                      Na,L\n                      (0.60\u00b10.1% versus 0.26\u00b10.06%;\n                      P\n                      &lt;0.01), persistent I\n                      Ca,L\n                      (2.88\u00b10.55% versus 1.26\u00b10.35%;\n                      P\n                      &lt;0.05), and calcium transient decay times (\n                      P\n                      &lt;0.0001) were greater in G604S iPSC-CMs. Increased persistent I\n                      Ca,L\n                      was phenocopied by E-4031 in isogenic controls and reduced by nifedipine in G604S iPSC-CMs. In silico modeling revealed that the I\n                      Kr\n                      defect alone prolonged APD90 to only 620 ms. The addition of the observed I\n                      Na,L\n                      defect had a small additive effect (+20 ms); however, incorporating persistent I\n                      Ca,L\n                      synergistically extended APD90 to 758 ms, replicating the experimental phenotype. Flux dynamics analysis indicated that this persistent Ca\n                      2+\n                      entry suppresses the forward-mode sodium-calcium exchanger, forcing a compensatory reliance on sarcoplasmic-endoplasmic reticulum Ca-ATPase that primes for calcium instability.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    \n                      The KCNH2-G604S variant drives a severe multihit phenotype via primary I\n                      Kr\n                      loss-of-function and secondary state-dependent gain-of-function in persistent I\n                      Ca,L\n                      . These comprehensive validations demonstrate that the remodeled persistent I\n                      Ca,L\n                      acts as the essential amplifier driving extreme action potential duration prolongation and Ca\n                      2+\n                      mishandling."
+  },
+  {
+    "title": "Left Atrial Appendage Closure Versus Oral Anticoagulation for Prevention of Stroke or Systemic Embolism in Patients With Atrial Fibrillation: An Updated Meta\u2010Analysis of 7004 Patients Across Six Randomized Trials",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70523?af=R",
+    "doi": "10.1111/jce.70523",
+    "journal": "J Cardiovasc EP",
+    "date": "Oct 11, 2026",
+    "date_ts": 1791738447.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Left atrial appendage closure (LAAC) is an emerging alternative for stroke prevention in patients with atrial fibrillation (AF) who are unsuitable for long\u2010term oral anticoagulants (OACs). However, its efficacy and safety relative to OACs remain uncertain.\n                  \n                  \n                    Methods\n                    Three databases were searched up to April 7, 2026, for randomized controlled trials comparing LAAC with OAC in patients with AF. Risk ratios with 95% confidence intervals were pooled using a random\u2010effects model.\n                  \n                  \n                    Results\n                    \n                      Six RCTs (\n                      n\n                      \u2009=\u20097004 patients) were analyzed. The risk of stroke or systemic embolism (SSE) did not differ significantly between the LAAC and OAC groups (RR: 1.10 [0.87\u20131.39];\n                      p\n                      \u2009=\u20090.42). The risk of ischemic SSE was significantly increased with LAAC (RR: 1.41 [1.07\u20131.85];\n                      p\n                      \u2009=\u20090.02) compared with OAC. No significant differences were observed in all\u2010cause mortality (RR: 0.94 [0.81\u20131.09]), cardiovascular mortality (RR: 0.91 [0.69\u20131.21]), non\u2010cardiovascular mortality (RR: 0.91 [0.75\u20131.12]), or hemorrhagic stroke (RR: 0.58 [0.29\u20131.17]). LAAC was associated with a similar risk of overall major bleeding (RR: 0.92 [0.77\u20131.09]) and low risk of non\u2010procedural bleeding (RR: 0.61 [0.52\u20130.73];\n                      p\n                      \u2009&lt;\u20090.001) compared with OAC. Upon sensitivity analysis comparing LAAC with DOACs, the findings remained consistent across most clinical outcomes.\n                    \n                  \n                  \n                    Conclusion\n                    LAAC demonstrates comparable risks of SSE and major bleeding to OACs, but is associated with a higher risk of ischemic SSE\u00a0and reduced non\u2010procedural bleeding, supporting its use in selected patients at high risk for long\u2010term bleeding while emphasizing individualized shared decision\u2010making."
+  },
+  {
+    "title": "Development and Validation of a Novel Contact Force\u2010Integrated Pulsed Field Quantization Index for Pulmonary Vein Isolation in a Porcine Model",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70527?af=R",
+    "doi": "10.1111/jce.70527",
+    "journal": "J Cardiovasc EP",
+    "date": "Oct 11, 2026",
+    "date_ts": 1791738371.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    There is no bipolar\u2010specific quantitative ablation index currently available to guide pulsed field ablation (PFA). We aimed to develop and validate a novel contact force (CF)\u2010integrated pulsed field quantization index (PFQI) for real\u2010time lesion depth prediction during bipolar PFA.\n                  \n                  \n                    Methods and Results\n                    \n                      In total, 27 healthy Yorkshire swine were included in a two\u2010phase preclinical study. In Phase I, a nonlinear multivariable model was developed to derive a novel PFQI incorporating real\u2010time CF, pulse train number, delivery voltage, and impedance variation. In Phase II, the PFQI was prospectively validated by comparing predicted with actual lesion depth, followed by PFQI\u2010guided circumferential pulmonary vein isolation (PVI). Acute procedural success, 30\u2010day PVI durability, and extracardiac safety were evaluated using serial electroanatomic mapping and blinded histopathological examination. Lesion depth was strongly associated with CF, pulse train number, voltage, and impedance change. The PFQI predicted actual depth with high accuracy (\n                      R\n                      \u2009=\u20090.94,\n                      R\n                      2\n                      \u2009=\u20090.88; validation\n                      R\n                      2\n                      \u2009=\u20090.82, slope\u2009=\u20091.014). In the validation cohort, 92% of predicted depths fell within \u00b10.75\u2009mm of measured values. PFQI\u2010guided PVI achieved 100% (6/6) acute isolation and 100% 30\u2010day durable electrical isolation, with contiguous transmural fibrosis on histology. No collateral phrenic nerve, esophageal, or pulmonary vein injury occurred, and phrenic capture thresholds remained unchanged.\n                    \n                  \n                  \n                    Conclusion\n                    The PFQI is the first bipolar\u2010specific, CF\u2010integrated quantitative metric for PFA, enabling accurate, real\u2010time lesion depth prediction. PFQI\u2010guided PVI achieved consistent, durable, and safe PVI in a porcine model, providing a promising operator\u2010independent quantitative strategy to optimize clinical bipolar PFA for atrial fibrillation."
+  },
+  {
+    "title": "Procedural Outcomes of Leadless Pacemaker Extraction and Retrieval: A Systematic Review and Meta\u2010Analysis With Descriptive Synthesis of Post\u2010Implant Management",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70531?af=R",
+    "doi": "10.1111/jce.70531",
+    "journal": "J Cardiovasc EP",
+    "date": "Oct 11, 2026",
+    "date_ts": 1791738283.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Leadless pacemakers reduce lead\u2010 and pocket\u2010related complications, but pooled evidence on the procedural outcomes of their extraction and retrieval remains limited.\n                  \n                  \n                    Methods and Results\n                    A systematic review and meta\u2010analysis (PROSPERO CRD420261397097) evaluated leadless pacemaker extraction or retrieval. The primary analysis pooled independent full\u2010text studies reporting at least three attempted removals using a random\u2010effects binomial\u2010normal generalized linear mixed model. Outcomes were procedural success and major retrieval\u2010related procedural events. Eight studies contributed 303 removal attempts to the primary success analysis, and six studies contributed 293 subjects or procedures to the safety analysis. Pooled procedural success was 89.1% (95% CI, 85.1% to 92.2%), and major retrieval\u2010related procedural events occurred in 3.8% (95% CI, 2.1% to 6.7%); between\u2010study heterogeneity was not detected for either outcome. Sensitivity estimates for major events ranged from 3.3% to 4.1%. Reported dwell time before removal ranged from intraprocedural retrieval to 9 years. A secondary descriptive synthesis of 96 clinical publications and five cohorts with complete denominators characterized post\u2010implant management without cross\u2010study pooling.\n                  \n                  \n                    Conclusion\n                    Leadless pacemaker removal was successful in approximately nine of 10 attempts, while qualifying major retrieval\u2010related events occurred in approximately four of 100 safety denominators. The certainty of evidence was very low. Post\u2010implant management patterns varied across cohorts and could not be pooled."
+  },
+  {
+    "title": "Changes in Lead Parameters of Cardiac Implantable Electronic Devices After VT/VF Ablation Using a Dual\u2010Energy Lattice\u2010Tip Catheter",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70528?af=R",
+    "doi": "10.1111/jce.70528",
+    "journal": "J Cardiovasc EP",
+    "date": "Oct 11, 2026",
+    "date_ts": 1791736905.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Interactions between cardiac implantable electronic devices (CIEDs) and pulsed field ablation (PFA) have been studied mainly in the context of atrial ablation, whereas the effects of ventricular ablation using a dual\u2010energy lattice\u2010tip catheter on ventricular leads remain unclear.\n                  \n                  \n                    Methods\n                    This retrospective study involved 79 patients (mean age 60.9\u2009\u00b1\u200913.6 years) with an implantable cardioverter\u2010defibrillator or cardiac resynchronization therapy defibrillator who underwent ventricular ablation using a lattice\u2010tip catheter between February 2024 and November 2025. Pacing thresholds were assessed before, immediately after, and 3 months after ablation and standardized to a pulse width of 0.4\u2009ms using the Lapicque\u2013Weiss model. Marked acute threshold elevation was defined as an increase in pacing threshold of \u2265\u20091.0\u2009V immediately after ablation. The anatomical relationship between ablation sites and ventricular lead locations was assessed based on the American Heart Association 17\u2010segment model of the left ventricle and classified as corresponding when ablation involved the same or opposing ventricular region as the lead location, adjacent when ablation involved a directly adjacent region, and remote otherwise.\n                  \n                  \n                    Results\n                    Marked acute pacing\u2010threshold elevation occurred in 5 of 79 right ventricular (RV) leads (6.3%) and 2 of 22 evaluable left ventricular (LV) leads (9.1%). For RV leads, marked threshold elevation occurred in 4 of 14 patients (28.6%) in the corresponding group, 1 of 19 (5.3%) in the adjacent group, and none of 46 (0%) in the remote group. When threshold change was analyzed as a continuous variable, the acute increase was significantly greater in the corresponding group (+\u20090.74\u2009V; 95%CI 0.465\u20131.018) than in the adjacent (+\u20090.31\u2009V; 95%CI 0.076\u20130.550) and remote (+\u20090.007\u2009V; 95%CI\u2009\u2212\u20090.145\u20130.160) groups. For LV leads, the pacing threshold increased significantly after ablation involving the corresponding segment (+\u20090.71\u2009V; 95%CI 0.167\u20131.245), although the overall association between anatomical relationship and threshold change was not significant. At 3 months, pacing thresholds in the corresponding groups were not significantly different from baseline for either RV or LV leads.\n                  \n                  \n                    Conclusion\n                    Marked acute pacing\u2010threshold elevation was observed in both RV and LV leads after ventricular arrhythmia ablation using a dual\u2010energy lattice\u2010tip catheter. However, both RV and LV thresholds were no longer significantly different from baseline at 3 months. These findings suggest the importance of considering the anatomical relationship between ablation sites and CIED leads and of careful peri\u2010procedural assessment of lead function during ventricular ablation."
+  },
+  {
+    "title": "Electrical Alternans With Alternating Left Ventricular Apical Ballooning Mimicking Takotsubo Cardiomyopathy in a Patient With Extreme QT Prolongation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70501?af=R",
+    "doi": "10.1111/jce.70501",
+    "journal": "J Cardiovasc EP",
+    "date": "Oct 11, 2026",
+    "date_ts": 1791736830.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    We report unique and rare findings of coupled electrical and mechanical alternans in a patient with extreme QT prolongation.\n                  \n                  \n                    Methods\n                    A 5\u2010year\u2010old girl with congenital long QT syndrome type 3 developed alternate left ventricular apical ballooning precipitated by mycoplasma pneumonia and azithromycin exposure.\n                  \n                  \n                    Results\n                    During atrial pacing, electrocardiography showed beat\u2010to\u2010beat alternation not only in T\u2010wave morphology but also in QRS configuration, ST segment, and QT interval. These electrical changes were tightly associated with mechanical alternans: beats with markedly prolonged QT intervals showed normal left ventricular (LV) contraction, whereas beats with shorter QT intervals and ST elevation exhibited LV apical ballooning. Treatment with mexiletine shortened the QT interval, abolished both electrical and mechanical alternans, and restored normal LV function.\n                  \n                  \n                    Conclusions\n                    Alternate LV apical ballooning mimicking Takosubo cardiomyopathy can be seen in a patient with extreme QT prolongation. These findings probably reflected a functional intraventricular conduction block due to marked spatial heterogeneity of repolarization between the LV base and apex."
+  },
+  {
+    "title": "Pulmonary Artery Approach for Radiofrequency Catheter Ablation of Atrial Tachycardia Originating From Left Atrial Post Wall: A Case Report",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70480?af=R",
+    "doi": "10.1111/jce.70480",
+    "journal": "J Cardiovasc EP",
+    "date": "Oct 11, 2026",
+    "date_ts": 1791731649.0,
+    "tags": [
+      "AFib",
+      "SVT"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Due to limitations in ablation energy delivery and myocardial wall thickness, endocardial ablation of atrial tachycardia can sometimes be challenging.\n                  \n                  \n                    Methods and Results\n                    In this case, ablation of the left atrial posterior wall shifted the earliest endocardial breakthrough site from the posterior wall to the roof, suggesting a potential epicardial origin near left atrial roof. The atrial arrhythmia was successfully eliminated via a right pulmonary artery approach.\n                  \n                  \n                    Conclusion\n                    The right pulmonary artery approach may be an effective strategy for ablating epicardial atrial arrhythmias, particularly those originating from the left atrial posterior roof."
   },
   {
     "title": "Chronic Impact of Cavo-tricuspid Isthmus Ablation on the Adjacent Right Coronary Artery: Pulsed-Field vs Radiofrequency vs No Ablation in the IMPACT-CTI Study",
@@ -6116,104 +6221,6 @@
     "date_ts": 1787978202.597317,
     "tags": [
       "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Steep Repolarization Gradients: Mapping Where Atrial Fibrillation Begins",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007401?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 29, 2026",
-    "date_ts": 1787978202.597285,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Catheter Ablation for Atrial Fibrillation in Patients With Left Ventricular Dysfunction",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007425?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 29, 2026",
-    "date_ts": 1787978202.597248,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Atrial Tachycardia: A Novel Classification and Contemporary Management",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006699?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Aug 29, 2026",
-    "date_ts": 1787978202.597176,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Understanding EV-ICD sensing during ventricular tachycardia: two illustrative cases of beat-to-beat ventricular signal variability",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027372?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 29, 2026",
-    "date_ts": 1787978202.045322,
-    "tags": [
-      "VT",
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Safety, efficacy and functional outcomes using a novel, small-diameter defibrillation lead for left bundle branch area pacing: Final results of the LEADR LBBAP clinical trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027335?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 29, 2026",
-    "date_ts": 1787978202.045279,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Real-Time Visualization of Bachmann Bundle Pacing by Non-Invasive ECG Mapping",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027347?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 29, 2026",
-    "date_ts": 1787978202.045245,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Atrial Fibrillation After Typical Atrial Flutter Ablation by Race and Sex: A Population-Based Cohort Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027402?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 29, 2026",
-    "date_ts": 1787978202.045208,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Detection yield, not positive predictive value, is the relevant metric for screening claims",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027281?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 29, 2026",
-    "date_ts": 1787978202.045174,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
