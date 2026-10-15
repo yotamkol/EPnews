@@ -1,5 +1,65 @@
 [
   {
+    "title": "Remifentanil-Based Conscious Sedation for Pulsed Field Ablation of Atrial Fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006008?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Oct 15, 2026",
+    "date_ts": 1792030215.649913,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Procedural Time Predictability with Pulsed Field Ablation Compared with Thermal Ablation: Real-World Evidence in Paroxysmal and Persistent Atrial Fibrillation.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005945?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Oct 15, 2026",
+    "date_ts": 1792030215.649867,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Combined Cardiac and Autonomic remodeling facilitates Torsade de Pointes arrhythmias in anesthetized, chronic AV-block dogs",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005994?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Oct 15, 2026",
+    "date_ts": 1792030215.64966,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Issue Information",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70533?af=R",
+    "doi": "10.1111/jce.70533",
+    "journal": "J Cardiovasc EP",
+    "date": "Oct 14, 2026",
+    "date_ts": 1791949258.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed Field Ablation as First-Line Therapy for the Treatment of Atrial Fibrillation: a FARADISE Sub-Analysis",
+    "link": "https://doi.org/10.1093/europace/euag275",
+    "doi": "10.1093/europace/euag275",
+    "journal": "EP Europace",
+    "date": "Oct 14, 2026",
+    "date_ts": 1791936000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Correction to: Standard-dose direct oral anticoagulants for Asian patients with atrial fibrillation: the definitive case from COMBINE AF",
     "link": "https://doi.org/10.1093/eurheartj/ehag847",
     "doi": "10.1093/eurheartj/ehag847",
@@ -10,6 +70,19 @@
       "AFib"
     ],
     "hot": false
+  },
+  {
+    "title": "Progression of Tricuspid Regurgitation After Cardiac Implantable Electronic Device Implantation and Its Impact on Mortality and Hospitalization: A Single\u2010Center Cohort Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70532?af=R",
+    "doi": "10.1111/jce.70532",
+    "journal": "J Cardiovasc EP",
+    "date": "Oct 13, 2026",
+    "date_ts": 1791896691.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Tricuspid regurgitation (TR) progression is a recognized complication of cardiac implantable electronic device (CIED) implantation, yet its prognostic impact on long\u2010term clinical outcomes remains incompletely defined.\n                  \n                  \n                    Methods and Results\n                    \n                      In this single\u2010center retrospective cohort, 303 patients undergoing CIED implantation between 2005 and 2023 were followed for a median of 4.8 years. TR severity was assessed echocardiographically at baseline and 12 months. The primary endpoint was TR progression (\u2265\u20091\u2010grade worsening); secondary endpoints were all\u2010cause mortality, cardiovascular hospitalization, their composite, and progression to severe TR, analyzed by Kaplan\u2013Meier and Cox regression. TR progressed in 103 patients (34.0%), regressed in 33 (10.9%), and remained stable in 167 (55.1%), a net rightward shift (\n                      p\n                      \u2009&lt;\u20090.001). Progression differed by device type (\n                      p\n                      \u2009=\u20090.031): among the larger subgroups, VVI\u2010ICD showed the greatest net progression (31.8% worsened vs. 6.9% improved;\n                      p\n                      \u2009&lt;\u20090.001) and CRT\u2010D the highest regression (18.8%). During follow\u2010up, 67 patients (22.1%) died and 164 (54.1%) were hospitalized. Overall TR progression was not independently associated with mortality (HR 1.118,\n                      p\n                      \u2009=\u20090.693) but independently predicted cardiovascular hospitalization (HR 1.640,\n                      p\n                      \u2009=\u20090.003) and the composite endpoint (HR 1.480,\n                      p\n                      \u2009=\u20090.014). On unadjusted analysis, progression specifically to severe TR (\n                      n\n                      \u2009=\u200915) was associated with increased mortality (HR 1.99,\n                      p\n                      \u2009=\u20090.024) and cardiovascular hospitalization (HR 2.45,\n                      p\n                      \u2009&lt;\u20090.001).\n                    \n                  \n                  \n                    Conclusion\n                    TR progression occurs in approximately one\u2010third of CIED recipients within the first year and independently predicts cardiovascular hospitalization. Progression to severe TR identifies a higher\u2010risk subset, supporting routine post\u2010implant echocardiographic surveillance."
   },
   {
     "title": "Association Between Baseline Cognitive Impairment and Atrial Fibrillation Recurrence After Catheter Ablation",
@@ -1124,6 +1197,57 @@
       "Devices"
     ],
     "hot": false
+  },
+  {
+    "title": "Electrode perforation of a silicone breast implant in a subcutaneous implantable cardioverter-defibrillator carrier: A previously unreported device complication",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.018",
+    "doi": "10.1016/j.hrcr.2026.07.018",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Subcutaneous implantable cardioverter-defibrillators (S-ICDs) eliminate intravascular lead-related risks but require parasternal and lateral electrode tunneling.1 Submuscular breast implants alter chest wall anatomy, particularly through expansion of the lower breast pole.2 Whether these subfascial anatomy alterations carry the risk of conflict between the S-ICD electrode trajectory and the implant capsule has not been investigated yet."
+  },
+  {
+    "title": "How to individualize device therapy in transthyretin cardiac amyloidosis: A dyssynchrony-based case report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.015",
+    "doi": "10.1016/j.hrcr.2026.07.015",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Cardiac amyloidosis is frequently complicated by conduction system disease, ventricular arrhythmias, and progressive heart failure. However, selecting the optimal device strategy remains challenging, particularly in patients with only mildly prolonged QRS duration. This case highlights how advanced ventricular dyssynchrony assessment using ultra-high-frequency ECG influenced device selection and guided an individualized cardiac physiologic pacing strategy in a patient with transthyretin cardiac amyloidosis."
+  },
+  {
+    "title": "Not all Block is a lack of electrical impulse: Recognizing pseudo-atrioventricular block from His extrasystoles",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.008",
+    "doi": "10.1016/j.hrcr.2026.07.008",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Novel method for displaying the contact index in fixed-loop pulsed field ablation catheters",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.07.017",
+    "doi": "10.1016/j.hrcr.2026.07.017",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Adequate electrode\u2013tissue contact is considered important for effective pulsed field ablation (PFA) in patients with atrial fibrillation (AF) using a fixed-loop PFA catheter (PulseSelect PFA Loop catheter, Medtronic, Minneapolis, MN, USA). The Contact Index (CI) in EnSite X Software (Abbott, Abbott Park, IL, USA) helps visualize tissue contact through impedance elevation. (1) However, CI was originally designed for a spline-based PFA catheter (FARAWAVE, Boston Scientific, Marlborough, MA). When applied to a fixed-loop PFA catheter, only odd-numbered electrodes are displayed, making comprehensive assessment of all nine electrodes difficult."
   },
   {
     "title": "Thirty years of percutaneous epicardial access: reflections on the evolution of ventricular tachycardia substrate mapping and ablation",
@@ -6098,132 +6222,5 @@
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Introduction\n                    The safety and efficacy of the atrial leadless pacemaker (A\u2010LP) with helix fixation have been demonstrated. Usually, elevated acute thresholds decrease gradually and normalize within 24\u2009h. Here, we report a case of subacute re\u2010elevation of pacing thresholds after hospital discharge.\n                  \n                  \n                    Case Presentation\n                    An 80\u2010year\u2010old female with a history of bradycardia underwent A\u2010LP implantation. At the time of the procedure, the final pacing threshold (PT) was measured at 4.0\u2009V/0.4\u2009ms. On post\u2010procedural Day 1, the PT at 0.4\u2009ms pulse width decreased to 1.0\u2009V. On Day 4, the PT was 1.0\u2009V/0.4\u2009ms prior to the patient's discharge. However, on Day 5, she was readmitted to the hospital due to the loss of atrial capture at the maximum output available after an intravenous administration of 150\u2009mg amiodarone for atrial flutter. Over 3 days of monitoring, atrial PT was higher than 6\u2009V/1.5\u2009ms. A traditional DDD pacemaker was implanted due to recurrent sinus asystole associated with dizziness. At the 1\u2010month follow\u2010up, the PT of atrial A\u2010LP was 0.5\u2009V/0.4\u2009ms. Two months later, an ambulatory Holter confirmed the stable and normal atrial capture of the A\u2010LP after lowering the base rate of the DDD pacemaker. At the 3\u2010month follow\u2010up, PT of the A\u2010LP remained 0.5\u2009V/0.4\u2009ms.\n                  \n                  \n                    Conclusion\n                    Sub\u2010acute re\u2010elevated PT of the A\u2010LP during the perioperative period may persist for more than 1 week and then normalize within 1 month. If PT re\u2010elevation is suspected to be related to peri\u2010electrode inflammation, a conservative approach with continued monitoring of threshold changes may be considered.",
     "summary": "This case report describes an 80-year-old patient with atrial leadless pacemaker who experienced subacute re-elevation of pacing thresholds (>6 V) five days post-implantation after amiodarone administration for atrial flutter, which subsequently normalized to 0.5 V/0.4 ms within one month with conservative management and temporary dual-chamber pacemaker support. The authors suggest that perioperative threshold re-elevation in atrial leadless pacemakers may persist beyond one week before normalizing, potentially related to peri-electrode inflammation, and may warrant conservative monitoring rather than immediate device replacement."
-  },
-  {
-    "title": "\u201cLeft Atrial Appendage Closure Versus Medical Therapy in Atrial Fibrillation: A Systematic Review and Meta\u2010Analysis of Randomized Controlled Trials\u201d",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70486?af=R",
-    "doi": "10.1111/jce.70486",
-    "journal": "J Cardiovasc EP",
-    "date": "Aug 30, 2026",
-    "date_ts": 1788113265.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  We aim to compare the impact of left atrial appendage closure vs. medical therapy on clinical outcomes in patients with atrial fibrillation, focusing on key clinical outcomes relevant to thromboembolic prevention. We conducted a PRISMA\u2010guided systematic review and meta\u2010analysis of studies comparing LAAC with medical therapy in AF adults. PubMed, Embase, Scopus, ClinicalTrial. gov, and Cochrane Library were searched from inception to March 2026. Outcomes included all\u2010cause mortality, any stroke, ischemic stroke, hemorrhagic stroke, major bleeding, systemic embolism and cardiac death. Risk ratios (RRs) with 95% confidence intervals (CIs) were pooled using random\u2010effects models. Reconstructed individual patient\u2010level survival data from published Kaplan\u2013Meier curves were used for time\u2010to\u2010event analyses. Trial sequential analysis (TSA) assessed the conclusiveness of cumulative evidence. Six randomized controlled trials involving 7004 patients were included. LAAC demonstrated comparable outcomes to medical therapy for all\u2010cause mortality, any stroke, major bleeding, systemic embolism, and cardiac death. There was a non\u2010significant trend toward increased ischemic stroke and reduced hemorrhagic stroke with LAAC. Reconstructed time\u2010to\u2010event analyses showed similar cumulative incidence of stroke and bleeding outcomes over follow\u2010up. TSA demonstrated that the required information size was not reached for any major endpoint, indicating that current evidence remains underpowered and additional randomized trials are needed. LAAC provides similar overall efficacy and safety compared with medical therapy for stroke prevention in AF but should currently remain reserved for selected patients rather than replacing oral anticoagulation broadly. Further adequately powered trials with longer follow\u2010up are required.",
-    "summary": "This meta-analysis of 6 RCTs (n=7,004) comparing left atrial appendage closure with medical therapy in atrial fibrillation patients found comparable outcomes for all-cause mortality, stroke, major bleeding, and cardiac death between groups, though trial sequential analysis indicated the evidence remains underpowered to draw definitive conclusions. LAAC should remain reserved for selected patients rather than serve as first-line replacement for oral anticoagulation pending adequately powered trials with longer follow-up."
-  },
-  {
-    "title": "Leadless Atrial Pacing at Bachmann's Bundle Guided by Electroanatomic Mapping and Intracardiac Ultrasound",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70481?af=R",
-    "doi": "10.1111/jce.70481",
-    "journal": "J Cardiovasc EP",
-    "date": "Aug 30, 2026",
-    "date_ts": 1788113170.0,
-    "tags": [
-      "Devices",
-      "Imaging"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Leadless pacemakers (LPs) offer advantages over transvenous systems, but atrial LPs currently target the right atrial appendage (RAA), risking atrial dyssynchrony.\n                  \n                  \n                    Methods and Results\n                    We report five patients in whom electroanatomic mapping and intracardiac ultrasound guided LP implantation into Bachmann's bundle (BB), a site shown to improve interatrial conduction and reduce atrial fibrillation risk. In four of five patients, BB fixation was successful with low pacing thresholds and short P\u2010wave duration. One patient required conversion to RAA pacing due to high BB pacing thresholds. No intraprocedural complications occurred.\n                  \n                  \n                    Conclusions\n                    This series demonstrates the feasibility of leadless BB pacing, though technical challenges warrant further study.",
-    "summary": "This case series of five patients demonstrates the feasibility of implanting leadless pacemakers into Bachmann's bundle under electroanatomic mapping and ultrasound guidance, with successful fixation achieved in four patients showing improved pacing thresholds and shortened P-wave duration compared to conventional right atrial appendage pacing. Further investigation is needed to address technical challenges and establish the clinical benefits of this novel approach in reducing atrial dyssynchrony and potentially preventing atrial fibrillation."
-  },
-  {
-    "title": "Low-Normal Peri-Procedural Potassium as a Prognostic Marker of Atrial Fibrillation and Stroke After CABG",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005350?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Aug 30, 2026",
-    "date_ts": 1788055692.665506,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Shaped by Age: The Right Atrium in Atrial Septal Defect",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005349?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Aug 30, 2026",
-    "date_ts": 1788055692.665473,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulmonary Vein Reconnection Patterns After Pulsed-Field Ablation: Exploratory Insights from Repeat Procedures Across Three Platforms",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600512X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Aug 30, 2026",
-    "date_ts": 1788055692.66543,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulmonary vein reconduction after pentaspline pulsed field ablation: patterns and predictors from a nationwide cohort",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005374?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Aug 30, 2026",
-    "date_ts": 1788055692.665373,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Spatial Association Between CT-Derived Myocardial Deformation and Stereotactic Radioablation Targets in Ventricular Tachycardia: Insights from the RAVENTA Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602744X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 30, 2026",
-    "date_ts": 1788055692.414467,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Concomitant Versus Sequential Atrial Fibrillation Ablation and Left Atrial Appendage Occlusion",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027438?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 30, 2026",
-    "date_ts": 1788055692.414431,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Incidence of Atrial Fibrillation in Pacemaker Patients with Left Bundle Branch Area Pacing Versus Right Ventricular Pacing Leads",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027426?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 30, 2026",
-    "date_ts": 1788055692.414394,
-    "tags": [
-      "AFib",
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Quantification of atrial fibrillation\u2013related imaging markers using spectral photon-counting computed tomography",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126024860?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 30, 2026",
-    "date_ts": 1788055692.414349,
-    "tags": [
-      "AFib",
-      "Imaging"
-    ],
-    "hot": false
   }
 ]
