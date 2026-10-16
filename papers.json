@@ -1,5 +1,32 @@
 [
   {
+    "title": "Open\u2010Irrigated Versus Non\u2010Irrigated Catheters in SVT Ablation: Substrate\u2010Specific Outcomes in AVRT and AVNRT",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70471?af=R",
+    "doi": "10.1111/pace.70471",
+    "journal": "PACE",
+    "date": "Oct 15, 2026",
+    "date_ts": 1792046665.0,
+    "tags": [
+      "VT",
+      "SVT"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Open\u2010irrigated catheters (OIC) provide improved cooling, deeper lesion formation, and enhanced safety during radiofrequency catheter ablation (RFCA). However, comparative evidence regarding substrate\u2010specific outcomes with OIC versus non\u2010irrigated catheters (NIC) for supraventricular tachycardia (SVT) remains limited. This study compared acute ablation success (AAS) and recurrence after first\u2010time RFCA using OIC versus NIC, with particular emphasis on differential outcomes in atrioventricular re\u2010entrant tachycardia (AVRT) and atrioventricular re\u2010entrant tachycardia (AVNRT).\n                  \n                  \n                    Methods\n                    A retrospective cohort of consecutive patients undergoing first\u2010time RFCA for AVNRT or AVRT between 2017 and 2023 was analyzed. Patients were categorized by catheter type (OIC vs. NIC). Primary outcomes were AAS and SVT recurrence during 24\u2010month follow\u2010up. Multivariate logistic regression and Cox proportional hazards models were used for adjusted analyses. Subgroup analyses were performed for AVNRT and AVRT.\n                  \n                  \n                    Results\n                    \n                      Among 302 procedures, OIC were used in 113 (37.4%). Overall AAS was achieved in 85.4% of cases (92.0% OIC vs. 81.5% NIC;\n                      p\n                      = 0.012). Recurrence occurred in 17.9% (7.1% OIC vs. 24.3% NIC;\n                      p\n                      &lt; 0.001). In multivariable analyses, OIC use was independently associated with higher AAS (adjusted RR 1.12; 95% CI 1.05\u20131.20;\n                      p\n                      = 0.001) and lower recurrence (adjusted HR 0.24; 95% CI 0.12\u20130.52;\n                      p\n                      &lt; 0.001). In the AVRT subgroup, OIC use was associated with higher AAS (89.9%\u00a0vs. 76.6%;\n                      p\n                      = 0.014) and lower recurrence (adjusted HR 0.25; 95% CI 0.11\u20130.57;\n                      p\n                      &lt; 0.001), whereas no significant differences were observed in AVNRT.\n                    \n                  \n                  \n                    Conclusions\n                    In this cohort, OIC use was associated with higher AAS and lower recurrence, with the favorable association primarily observed in AVRT rather than AVNRT. These findings support further evaluation of substrate\u2010specific catheter selection, particularly for accessory pathway ablation."
+  },
+  {
+    "title": "Pulsed Field Versus Radiofrequency Ablation of Atrial Fibrillation: Esophageal Lesions and Suspected Gastroparesis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70472?af=R",
+    "doi": "10.1111/pace.70472",
+    "journal": "PACE",
+    "date": "Oct 15, 2026",
+    "date_ts": 1792038344.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Esophageal mucosal injury and gastroparesis are clinically important complications of radiofrequency ablation (RFA) of atrial fibrillation (AF). Pulsed\u2010field ablation (PFA) is a non\u2010thermal modality that may spare these complications due to its myocardial tissue selectivity.\n                  \n                  \n                    Objectives\n                    We aimed to compare the incidence of endoscopically detected esophageal lesions (EDELs) and suspected gastroparesis between RFA and PFA as the primary endpoints. Secondary endpoints included perioperative complications, procedural parameters, and 365\u2010day clinical outcomes.\n                  \n                  \n                    Methods\n                    Between July 2023 and July 2025, patients undergoing a first\u2010time AF ablation with RFA or PFA were enrolled. RFA was performed using either a QDOT MICRO catheter (Biosense Webster, Inc., Irvine, CA, USA) or a TactiFlex Ablation Catheter, Sensor Enabled (Abbott, Abbott Park, IL, USA), while PFA was performed using the FARAPULSE system or the PulseSelect system. All patients underwent upper gastrointestinal endoscopy on the day after ablation. An EDEL was defined as esophageal erythema, erosion, ulcer, or atrio\u2010esophageal fistula. Suspected gastroparesis was defined as gastric food residue after &gt; 12 h of overnight fasting. Clinical follow\u2010up was performed with 12\u2010lead or Holter electrocardiography.\n                  \n                  \n                    Results\n                    \n                      A total of 84 patients were included (RFA:\n                      n\n                      = 43; PFA:\n                      n\n                      = 41). Esophageal erosion was observed in 2 patients in the RFA group (4.7%) and in none in the PFA group (\n                      p\n                      = 0.49). Suspected gastroparesis occurred in 15 patients treated with RFA (34.9%) and in none treated with PFA (\n                      P\n                      &lt;0.001). All patients were asymptomatic during endoscopy. No other procedural complications were observed in either group. The total procedure time was significantly shorter with PFA (158.5 \u00b1 40.8\u00a0vs. 193.8 \u00b1 38.3\u00a0min,\n                      p\n                      &lt; 0.001), while the fluoroscopy time was longer. At 365 days, atrial arrhythmia recurrence rates were comparable between the two groups (\n                      p\n                      = 0.47).\n                    \n                  \n                  \n                    Conclusions\n                    In this single\u2010center cohort, PFA was associated with a significantly lower incidence of suspected gastroparesis than RFA, and no EDELs were observed in the PFA group. PFA may reduce gastrointestinal injury associated with AF ablation. Further studies are needed to confirm these findings and clarify their clinical significance."
+  },
+  {
     "title": "Remifentanil-Based Conscious Sedation for Pulsed Field Ablation of Atrial Fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006008?dgcid=rss_sd_all",
     "doi": null,
@@ -34,6 +61,19 @@
       "Other"
     ],
     "hot": false
+  },
+  {
+    "title": "Leadless Pacemakers After Transcatheter Aortic Valve Replacement: A Meta\u2010analysis With Time\u2010to\u2010Event Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70468?af=R",
+    "doi": "10.1111/pace.70468",
+    "journal": "PACE",
+    "date": "Oct 14, 2026",
+    "date_ts": 1791992193.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Permanent pacemaker implantation is a common complication after transcatheter aortic valve replacement (TAVR). Leadless pacemakers (LPs) may reduce lead\u2010 and pocket\u2010related complications, but their clinical outcomes after TAVR remain uncertain. This systematic review and meta\u2010analysis evaluated the safety and effectiveness of LPs compared with transvenous pacemakers (TVPs).\n                  \n                  \n                    Methods\n                    PubMed, Scopus, and ScienceDirect were searched from inception to June 10, 2026. Randomized and observational studies were included. Random\u2010effects meta\u2010analyses pooled proportions, risk ratios (RRs), and mean differences (MDs). Reconstructed Kaplan\u2013Meier data were used to estimate hazard ratios (HRs).\n                  \n                  \n                    Results\n                    Ten studies involving 10,809 patients (1030 LP and 9779 TVP recipients) were included. The pooled procedural success rate of LP implantation was 98% (95% CI 95%\u201399%). Implantation success was comparable between LP and TVP (RR 1.00, 95% CI 0.98\u20131.02). Sensitivity analysis demonstrated a shorter hospital stay with LP (MD \u22121.37 days, 95% CI \u22122.33 to \u22120.41) and a lower risk of heart failure hospitalization (RR 0.37, 95% CI 0.14\u20130.96). Overall survival did not differ between groups (HR 1.05, 95% CI 0.44\u20131.23), although reconstructed survival curves showed late separation favoring LP. Device\u2010related and vascular complications were comparable between LP and TVP.\n                  \n                  \n                    Conclusions\n                    LP implantation after TAVR demonstrates excellent procedural success and clinical outcomes comparable to TVPs. LPs may reduce hospital stay and heart failure hospitalization, supporting their use as an alternative pacing strategy in appropriately selected patients."
   },
   {
     "title": "Issue Information",
@@ -1195,6 +1235,43 @@
     "date_ts": 1790823155.273074,
     "tags": [
       "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Successful ablation of a permanent form of junctional reciprocating tachycardia involving multiple adjacent accessory pathways with and without decremental properties. \u2013 an \u201cirregular\u201d supraventricular tachycardia",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.10.010",
+    "doi": "10.1016/j.hrcr.2026.10.010",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "VT",
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Successful Combined Catheter and Surgical Ablation for Refractory, Life-threatening Ventricular Tachycardia in a Patient with Isolated Right Ventricle Hypoplasia: A Case Report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.10.008",
+    "doi": "10.1016/j.hrcr.2026.10.008",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Intra-articular injection and left atrial appendage closure device infection: a case report and literature review",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.10.009",
+    "doi": "10.1016/j.hrcr.2026.10.009",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "AFib"
     ],
     "hot": false
   },
@@ -6137,90 +6214,5 @@
       "AFib"
     ],
     "hot": false
-  },
-  {
-    "title": "Increasing plasma potassium and risk of atrial fibrillation: the POTCAST trial",
-    "link": "https://doi.org/10.1093/eurheartj/ehag436",
-    "doi": "10.1093/eurheartj/ehag436",
-    "journal": "European Heart Journal",
-    "date": "Aug 30, 2026",
-    "date_ts": 1788048000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Hypokalaemia and low-normal plasma potassium levels are associated with increased risk of atrial fibrillation. This study examined if potassium-increasing treatment reduces the risk of atrial fibrillation-related clinical events.\n                  \n                  \n                    Methods\n                    This is a prespecified analysis of the POTCAST trial. Adults with an implantable cardioverter-defibrillator (ICD) or cardiac resynchronization therapy-defibrillator (CRT-D) and plasma potassium \u22644.3\u2005mmol/L were randomized to potassium-increasing treatment and standard care (high-normal potassium group) or standard care alone (control group). The endpoint was a composite of acute hospitalizations due to atrial fibrillation leading to a change in pharmacological treatment or due to inappropriate shock therapy, hospitalization for electrical cardioversion or ablation of atrial fibrillation, and loading with amiodarone for atrial fibrillation. The endpoint was evaluated in time-to-first-event analyses with death as competing risk.\n                  \n                  \n                    Results\n                    Among 1200 participants [600 in each group, median age 64 years (interquartile range, 56\u201372), 80.3% male], 390 (32.5%) had a history of atrial fibrillation. Plasma potassium increased by .3\u2005mmol/L after uptitration in the high-normal potassium group compared with the controls. After a median follow-up of 3.3 person-years, the endpoint had occurred in 48 participants in the high-normal potassium group (8.0%, 2.80 events per 100 person-years), when compared with 73 participants in the control group (12.2%, 4.30 events per 100 person-years) (subdistribution hazard ratio, .65; 95% confidence interval, .45\u2013.93, P = .02). The treatment effect appeared similar across subgroups, including those with vs without a history of atrial fibrillation.\n                  \n                  \n                    Conclusions\n                    In adults with any cardiac disease, treated with an ICD or CRT-D, uptitration of plasma potassium levels within the normal range reduced the risk of atrial fibrillation-related clinical events.",
-    "summary": "This prespecified analysis of the POTCAST randomized controlled trial (n=1,200) demonstrated that potassium-increasing treatment to achieve high-normal plasma potassium levels (increase of 0.3 mmol/L) reduced atrial fibrillation-related clinical events by 35% compared to standard care alone (8.0% vs 12.2%; subdistribution hazard ratio 0.65, P=0.02) over a median 3.3-year follow-up in patients with implantable defibrillators and baseline potassium \u22644.3 mmol/L."
-  },
-  {
-    "title": "Antithrombotic therapy after percutaneous coronary intervention in patients with atrial fibrillation: an individual patient data network meta-analysis",
-    "link": "https://doi.org/10.1093/eurheartj/ehag740",
-    "doi": "10.1093/eurheartj/ehag740",
-    "journal": "European Heart Journal",
-    "date": "Aug 30, 2026",
-    "date_ts": 1788048000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and aims\n                    Randomized trials demonstrated that in patients with atrial fibrillation (AF) undergoing percutaneous coronary intervention (PCI) direct oral anticoagulants (DOAC) and a P2Y12 inhibitor reduce bleeding compared with vitamin K antagonist (VKA) plus dual antiplatelet therapy (DAPT) with no increase in ischemic risk; however, important gaps in knowledge remain, limiting certainty and generalizability of these findings.\n                  \n                  \n                    Methods\n                    In this patient-level meta-analysis of randomized trials evaluating antithrombotic strategies in patients with AF undergoing PCI, Cox proportional hazard models, stratified by trial, were used to estimate hazard ratios and 95% confidence intervals (HR, 95%CI). The primary efficacy and safety outcomes were the composite of cardiovascular death, myocardial infarction, or stroke, and TIMI major bleeding, respectively. The study was registered in PROSPERO (CRD420251130025).\n                  \n                  \n                    Results\n                    Six trials (10,634 patients) comparing DOAC plus P2Y12 inhibitor (4,083), VKA plus single antiplatelet therapy (SAPT, 1,247), VKA plus DAPT (3,715), and DOAC plus DAPT (1,589) were included. The transition from DAPT to SAPT was recommended at 1 (1-3) and 3 (1-7) days in the DOAC plus P2Y12 inhibitor and VKA plus SAPT groups, respectively. At 1 year, the risk of the primary efficacy outcome did not differ across the antithrombotic strategies (reference group: VKA plus DAPT; DOAC plus P2Y12 inhibitor: HR 1.16, 95%CI 0.97\u20131.41; VKA plus SAPT: 1.14, 0.85\u20131.54, DOAC plus DAPT: 0.99, 0.75\u20131.30), without any statistically significant interaction between treatment effects and all prespecified subgroups, including age, sex, bleeding risk, and thrombotic risk. However, 14-day landmark analysis showed an increased risk of myocardial infarction and definite/probable stent thrombosis in patients receiving DOAC plus P2Y12 inhibitor or VKA plus SAPT in the early phase after PCI. DOAC plus P2Y12 inhibitor reduced the risk of the primary safety outcome compared with VKA plus DAPT (0.48, 0.38\u2013 0.65) and VKA plus SAPT (0.62, 0.40\u20130.97); only a borderline reduction was observed compared to DOAC plus DAPT (0.66, 0.44\u20131.01). DOAC plus P2Y12 inhibitor reduced intracranial hemorrhage compared with VKA plus DAPT (0.21, 0.07\u20130.64).\n                  \n                  \n                    Conclusions\n                    In patients with AF undergoing PCI, the risk of cardiovascular death, myocardial infarction, or stroke did not significantly differ according to whether patients received a DOAC or VKA, whereas a modest increase in risk with single compared with dual antiplatelet therapy cannot be excluded, given the higher risk of early coronary events. DOACs compared with VKAs reduced the risk of bleeding across all severity grades, including intracranial hemorrhage, whereas omission of a second antiplatelet agent reduced the risk of TIMI major or minor bleeding.",
-    "summary": "This patient-level meta-analysis of 6 randomized trials (10,634 patients with AF undergoing PCI) found no significant difference in cardiovascular death, myocardial infarction, or stroke at 1 year across antithrombotic strategies (DOAC plus P2Y12 inhibitor, VKA plus SAPT, VKA plus DAPT, or DOAC plus DAPT), though early landmark analysis suggested increased coronary risk with reduced dual antiplatelet therapy. DOAC-based regimens substantially reduced TIMI major bleeding and intracranial hemorrhage compared with VKA-based approaches, with the greatest bleeding reduction observed with"
-  },
-  {
-    "title": "Clinical Outcomes After Catheter Ablation in Patients With Structural Heart Disease and Ventricular Fibrillation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70488?af=R",
-    "doi": "10.1111/jce.70488",
-    "journal": "J Cardiovasc EP",
-    "date": "Aug 30, 2026",
-    "date_ts": 1788114254.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    In patients with ischemic cardiomyopathy (ICM), recurrent VF may be treated with catheter ablation by targeting triggering premature ventricular complexes (PVCs) and/or ventricular scar homogenization. Data on optimal ablation strategies in patients with non\u2010ischemic cardiomyopathy (NICM) remain limited. This study aimed to compare ablation strategies and outcomes in patients with recurrent VF due to ICM versus NICM.\n                  \n                  \n                    Methods and Results\n                    \n                      We retrospectively analyzed consecutive patients with structural heart disease and recurrent VF undergoing catheter ablation. Catheter ablation was performed, including targeting the triggering and/or clinically frequent PVC, targeting any inducible ventricular tachycardia, and/or scar homogenization. Procedural characteristics, arrhythmogenic substrate features, and post\u2010ablation clinical outcomes were compared between ICM and NICM groups. Forty\u2010five patients were included (17 ICM, 28 NICM; mean age 60\u2009\u00b1\u200915 years; 87% male). PVC ablation was performed in 42% of ICM and 39% of NICM patients, while scar homogenization was undertaken in 76% and 57%, respectively. Left ventricular scar burden, assessed by bipolar and unipolar voltage mapping, was significantly greater in the ICM, whereas the prevalence of abnormal Purkinje potentials was similar between groups. VF\u2010free survival after multiple procedures did not differ between groups, with estimated 1\u2010year rates of 87\u2009\u00b1\u20099% in ICM and 85\u2009\u00b1\u20098% in NICM (log\u2010rank\n                      p\n                      \u2009=\u20090.93).\n                    \n                  \n                  \n                    Conclusions\n                    In patients with NICM and recurrent VF, catheter ablation targeting arrhythmogenic substrate\u2014including unipolar low\u2010voltage regions\u2014combined with PVC ablation yields outcomes comparable to those in ICM, supporting this approach as a reasonable treatment strategy.",
-    "summary": "This retrospective study of 45 patients (17 ICM, 28 NICM) with recurrent VF undergoing catheter ablation compared ablation strategies and outcomes between ischemic and non-ischemic cardiomyopathy groups, demonstrating comparable 1-year VF-free survival rates of 87% and 85%, respectively, supporting substrate-based ablation combined with PVC targeting in NICM patients."
-  },
-  {
-    "title": "Characteristics of Atrial Tachycardia Recurrence After Pulsed Field Ablation: Insights From Repeat Ablation Procedures",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70487?af=R",
-    "doi": "10.1111/jce.70487",
-    "journal": "J Cardiovasc EP",
-    "date": "Aug 30, 2026",
-    "date_ts": 1788113903.0,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Pulmonary vein isolation (PVI) using pulsed field ablation (PFA) for atrial fibrillation (AF) is becoming increasingly widespread. However, characteristics of atrial tachycardia (AT) recurrence after PFA remain unclear. We aimed to investigate characteristics of AT recurrence in comparison with AF recurrence after PFA\u2010based PVI.\n                  \n                  \n                    Methods\n                    We analyzed 60 consecutive patients who underwent repeat ablation for recurrent atrial tachyarrhythmia after initial PVI alone performed with a pentaspline PFA system. Patients were classified into an AT group (at least one AT episode before repeat ablation) and an AF group (AF recurrence only). Baseline characteristics, pulmonary vein (PV) reconnections, and recurrence\u2010free rate after repeat ablation procedure were assessed.\n                  \n                  \n                    Results\n                    \n                      The AT group consisted of 34 patients (57%). In the multivariate analysis, absence of PV reconnections was independently associated with AT recurrence (\n                      p\n                      \u2009=\u20090.037). All mappable ATs were macro\u2010reentrant circuits and none were directly related to PVs. Recurrence\u2010free rate after repeat ablation did not differ between AT and AF groups (\n                      p\n                      \u2009=\u20090.277). However, patients presenting in AT at the beginning of the repeat procedure had the most favorable outcomes, whereas those in AF had the poorest (\n                      p\n                      \u2009=\u20090.042).\n                    \n                  \n                  \n                    Conclusions\n                    After PFA\u2010based PVI, AT recurrence was characterized by lower PV reconnection rates and macro\u2010reentrant circuits remote from the PVs, whereas AF recurrence was more frequently associated with PV reconnections. While overall outcomes after repeat ablation were comparable, baseline rhythm at the repeat procedure was associated with prognosis, underscoring the importance of tailored mapping and ablation strategies after PFA.",
-    "summary": "This retrospective study of 60 patients undergoing repeat ablation after pulsed field ablation-based pulmonary vein isolation found that atrial tachycardia recurrence (57% of patients) was characterized by absence of pulmonary vein reconnections and macro-reentrant circuits remote from the pulmonary veins, whereas atrial fibrillation recurrence was associated with pulmonary vein reconnections; notably, patients presenting in atrial tachycardia at repeat procedure had superior outcomes compared to those in atrial fibrillation. These findings suggest that post-PFA atrial tachyarrhythmia recurrences have distinct mechanisms requiring tailored"
-  },
-  {
-    "title": "Brugada Syndrome in the Pediatric Population: Diagnostic Challenges and Clinical Outcome\u2014Results of the German Multicenter Study COGIA",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70484?af=R",
-    "doi": "10.1111/jce.70484",
-    "journal": "J Cardiovasc EP",
-    "date": "Aug 30, 2026",
-    "date_ts": 1788113756.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Diagnosis and treatment of children and adolescents with suspected Brugada syndrome (BrS) is challenging. Aim of the study was to evaluate the applicability of current diagnostic criteria for pediatric patients with suspected BrS in the German multicenter study COGIA and to assess clinical outcome.\n                  \n                  \n                    Methods\n                    Data analysis of 76 pediatric patients from 12 German tertiary care centers. Primary outcome was defined by the occurrence of a major arrhythmic event (MAE), secondary outcome by symptoms, pharmacotherapy and implantation of devices. MAE was defined as sudden cardiac death (SCD), aborted cardiac arrest (ACA) and appropriate implantable cardioverter\u2010defibrillator (ICD) therapy.\n                  \n                  \n                    Results\n                    \n                      Criteria for BrS diagnosis were fulfilled in 39/76 pediatric patients (51.3%) according to ESC Guidelines, including 34 patients (44.7%) according to Shanghai Score. Genetic testing identified a (likely) pathogenic\n                      SCN5A\n                      variant in 31/66 tested children (47.0%) (14/30 with clinical diagnosis (46.7%) and 17/36 without clinical diagnosis (47.2%)). Twenty\u2010four patients (31.6%) showed a spontaneous type 1 ECG pattern, in 6 patients (7.9%) it was induced by fever. Ajmaline challenge was positive in 19/25 patients (76.0%). Syncope occurred in 15 patients (19.7%) and an ICD was implanted in 7 pediatric patients (9.2%). Four patients (5.3%) experienced a MAE (ACA), all of them fulfilling diagnostic criteria. \u201cSymptoms at first consultation\u201d was identified as an independent risk factor for MAE in the whole cohort (HR\u2009=\u200911.3,\n                      p\n                      \u2009=\u20090.04).\n                    \n                  \n                  \n                    Conclusion\n                    Establishing the diagnosis of BrS remains challenging in the pediatric cohort. MAE occurred in 5.3% of patients with suspected BrS. Symptoms at first consultation increased risk for MAE.\n                    \n                      Clinical Trial Registration:\n                      The study is registered at the German Clinical Trial Register (DRKS) of the Federal Institute for Drugs and Medical Devices (BfArM), DRKS\u2010ID DRKS00028138.",
-    "summary": "This retrospective multicenter analysis of 76 pediatric patients with suspected Brugada syndrome found that diagnostic criteria were met in only 51.3% using ESC Guidelines, with major arrhythmic events occurring in 5.3% of the cohort, and symptomatic presentation at initial consultation identified as an independent risk factor for adverse outcomes (HR=11.3, p=0.04)."
-  },
-  {
-    "title": "Sub\u2010Acute Re\u2010Elevated Pacing Thresholds After Atrial Leadless Pacemaker Implantation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70478?af=R",
-    "doi": "10.1111/jce.70478",
-    "journal": "J Cardiovasc EP",
-    "date": "Aug 30, 2026",
-    "date_ts": 1788113633.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    The safety and efficacy of the atrial leadless pacemaker (A\u2010LP) with helix fixation have been demonstrated. Usually, elevated acute thresholds decrease gradually and normalize within 24\u2009h. Here, we report a case of subacute re\u2010elevation of pacing thresholds after hospital discharge.\n                  \n                  \n                    Case Presentation\n                    An 80\u2010year\u2010old female with a history of bradycardia underwent A\u2010LP implantation. At the time of the procedure, the final pacing threshold (PT) was measured at 4.0\u2009V/0.4\u2009ms. On post\u2010procedural Day 1, the PT at 0.4\u2009ms pulse width decreased to 1.0\u2009V. On Day 4, the PT was 1.0\u2009V/0.4\u2009ms prior to the patient's discharge. However, on Day 5, she was readmitted to the hospital due to the loss of atrial capture at the maximum output available after an intravenous administration of 150\u2009mg amiodarone for atrial flutter. Over 3 days of monitoring, atrial PT was higher than 6\u2009V/1.5\u2009ms. A traditional DDD pacemaker was implanted due to recurrent sinus asystole associated with dizziness. At the 1\u2010month follow\u2010up, the PT of atrial A\u2010LP was 0.5\u2009V/0.4\u2009ms. Two months later, an ambulatory Holter confirmed the stable and normal atrial capture of the A\u2010LP after lowering the base rate of the DDD pacemaker. At the 3\u2010month follow\u2010up, PT of the A\u2010LP remained 0.5\u2009V/0.4\u2009ms.\n                  \n                  \n                    Conclusion\n                    Sub\u2010acute re\u2010elevated PT of the A\u2010LP during the perioperative period may persist for more than 1 week and then normalize within 1 month. If PT re\u2010elevation is suspected to be related to peri\u2010electrode inflammation, a conservative approach with continued monitoring of threshold changes may be considered.",
-    "summary": "This case report describes an 80-year-old patient with atrial leadless pacemaker who experienced subacute re-elevation of pacing thresholds (>6 V) five days post-implantation after amiodarone administration for atrial flutter, which subsequently normalized to 0.5 V/0.4 ms within one month with conservative management and temporary dual-chamber pacemaker support. The authors suggest that perioperative threshold re-elevation in atrial leadless pacemakers may persist beyond one week before normalizing, potentially related to peri-electrode inflammation, and may warrant conservative monitoring rather than immediate device replacement."
   }
 ]
