@@ -1,5 +1,202 @@
 [
   {
+    "title": "Left Bundle Branch Pacing or Left Bundle Branch Area Pacing: Is It Time to Abandon the \u201cArea\u201d?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008662?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 17, 2026",
+    "date_ts": 1792202110.04967,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Electrophysiological Manifestations of Suspected Bachmann's Bundle Infarction Due to Occlusion of the Right Sinus Node Artery",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008558?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 17, 2026",
+    "date_ts": 1792202110.049635,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Psychosocial Vulnerability and Immediate Emotional Triggers Preceding Sudden Cardiac Arrest",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008674?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 17, 2026",
+    "date_ts": 1792202110.049601,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Computed Tomography to Assist in Evaluation of Retrievability of Leadless Pacemakers: To the Moon and Back",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600873X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 17, 2026",
+    "date_ts": 1792202110.049566,
+    "tags": [
+      "Devices",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Oscillatory Epicardial Delayed Potentials and Associated Unipolar Voltage Gradients in Brugada Syndrome",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008753?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 17, 2026",
+    "date_ts": 1792202110.049532,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A Thousand Lesions Before We Understood",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008728?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 17, 2026",
+    "date_ts": 1792202110.049502,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Durability and Safety of Superior Vena Cava Isolation With a Lattice-Tip Pulsed Field Ablation Catheter: Focal Versus Circumferential Lesion Sets",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008686?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 17, 2026",
+    "date_ts": 1792202110.049462,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Arrhythmic Risk in Titin Cardiomyopathy: More Than a Question of Phenotype",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008716?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 17, 2026",
+    "date_ts": 1792202110.049428,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Ventricular Tachycardia Ablation in Nonischemic Cardiomyopathy: The Importance of Ring-Like Scar Architecture",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008480?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 17, 2026",
+    "date_ts": 1792202110.049391,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Silencing the Storm Lazarus, Come Forth! We Found the Purkinje Potentials",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008741?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 17, 2026",
+    "date_ts": 1792202110.049354,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Targeting Transmural Substrate: Noninvasive Radioablation for Refractory Chagasic VT",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008595?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 17, 2026",
+    "date_ts": 1792202110.049311,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Machine Learning Integration of Ablation Quality Metrics for Predicting Atrial Fibrillation Recurrence: A Multicenter Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008649?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 17, 2026",
+    "date_ts": 1792202110.04924,
+    "tags": [
+      "AFib",
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Can a Wrist-Worn Stimulator Improve the Results of an AF Ablation?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028766?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 17, 2026",
+    "date_ts": 1792202109.823731,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "First use of empagliflozin to treat a patient with congenital long QT syndrome type III.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028687?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 17, 2026",
+    "date_ts": 1792202109.823546,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Coexistance of Carotid Sinus Hypersensitivity and Orthostatic Hypotension in Patients with Unexplained Syncope",
+    "link": "https://doi.org/10.1093/europace/euag295",
+    "doi": "10.1093/europace/euag295",
+    "journal": "EP Europace",
+    "date": "Oct 16, 2026",
+    "date_ts": 1792108800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background\n                    Carotid sinus hypersensitivity (CSH) and orthostatic hypotension (OH) are established causes of syncope but are often considered separate entities. However, evidence suggests that CSH and OH may coexist and jointly contribute to syncope. This study investigates the relationship between CSH and OH in patients with unexplained syncope.\n                  \n                  \n                    Methods\n                    A total of 1,908 patients aged \u226540 years (age, 63.7\u2009\u00b1\u200913.0 years; men, 45.3%) with unexplained syncope underwent carotid sinus massage (CSM) and head-up tilt testing (HUT). Occurrence of CSH in classical and delayed OH, including asystolic CSM responses was analysed.\n                  \n                  \n                    Results\n                    Six-hundred-and-eighteen patients (32.4%, 68.9\u2009\u00b1\u200911.3 years) had OH, while CSH was present in 320 patients (16.8%, 72.2\u2009\u00b1\u20099.9 years), and was more common in patients with OH than without OH (24.1% vs. 13.3%, p\u2009&amp;lt;\u20090.001). Among patients with CSH, 46.6% also had OH. CSH occurred equally in both classical OH (62/275, 22.5%) and delayed OH (87/345, 25.2%). Among OH patients, CSH was associated with older age, male sex, lower supine diastolic blood pressure, hypertension, and syncope-related hospital admission. An asystolic CSM response was observed more often in OH patients (n\u2009=\u200942; 6.8%) compared with non-OH patients (n\u2009=\u200944, 3.4%, p\u2009&amp;lt;\u20090.001) and was associated with older age and lower resting heart rate.\n                  \n                  \n                    Conclusions\n                    CSH and OH frequently coexist in adults over 40 years evaluated for syncope. CSM may reveal a clinically relevant cardioinhibitory reflex in a subgroup of OH patients, supporting comprehensive cardiovascular autonomic testing in unexplained syncope."
+  },
+  {
+    "title": "Safety and Outcomes of Percutaneous Vegetation Aspiration During Transvenous Lead Extraction: A Multicenter Experience",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70530?af=R",
+    "doi": "10.1111/jce.70530",
+    "journal": "J Cardiovasc EP",
+    "date": "Oct 15, 2026",
+    "date_ts": 1792071148.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Transvenous lead extraction (TLE) for cardiac implantable electronic device infection has high procedural success, but with a 1\u2010year mortality approaching 25%. Potential mechanisms include septic embolization and persistent infected lead casts or \u201cghosts.\u201d Percutaneous mechanical aspiration of lead\u2010related vegetations during TLE is a potential strategy to reduce vegetation burden, but safety and outcomes data are limited.\n                  \n                  \n                    Objectives\n                    To describe a multicenter experience utilizing percutaneous vegetation aspiration during TLE, including vegetation characteristics, procedural techniques, complications, and outcomes.\n                  \n                  \n                    Methods\n                    A retrospective multicenter registry included patients undergoing aspiration of lead\u2010related masses at the time of TLE between 2016 and 2024 across six institutions. Clinical, microbiologic, and procedural data were collected. Vegetation size and outcomes were assessed using transesophageal or intracardiac echocardiography.\n                  \n                  \n                    Results\n                    Fifty\u2010three patients (62\u2009\u00b1\u200914 years, 28% female) underwent aspiration of 63 vegetations during extraction of 114 leads (mean dwell time 9.0\u2009\u00b1\u20098.2 years). Indications included bacteremia in 44 (83%), fungemia in 4 (8%), fever of unknown origin in 1 (2%), and aseptic thrombus debulking in 4 (8%). Mean vegetation size was 2.8\u2009\u00b1\u20091.8\u2009cm. Aspiration devices included Penumbra Indigo (34%), Inari FlowTriever (30%), and AngioVac (36%). Complete aspiration occurred in 40 patients (75%). TLE achieved complete success in 49 (92%) and clinical success in 52 (98%). Major complications related to aspiration occurred in 2 patients (4%). After a median follow\u2010up of 139 days, 10 patients (19%) died.\n                  \n                  \n                    Conclusions\n                    Percutaneous vegetation aspiration during TLE appears feasible and generally safe. However, mortality following extraction for device\u2010related infection remains substantial, and the impact of adjunctive aspiration on outcomes requires further study."
+  },
+  {
     "title": "Open\u2010Irrigated Versus Non\u2010Irrigated Catheters in SVT Ablation: Substrate\u2010Specific Outcomes in AVRT and AVNRT",
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70471?af=R",
     "doi": "10.1111/pace.70471",
@@ -1235,6 +1432,18 @@
     "date_ts": 1790823155.273074,
     "tags": [
       "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Correction to: Outcomes of simplified left atrial appendage occlusion using the WATCHMAN FLX device: the ROSE-FLX study",
+    "link": "https://doi.org/10.1093/europace/euag287",
+    "doi": "10.1093/europace/euag287",
+    "journal": "EP Europace",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "AFib"
     ],
     "hot": false
   },
@@ -5995,223 +6204,6 @@
     "date_ts": 1788220800.0,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Residual Conduction across the Supero-Septal Ablation Line during Mitral-Isthmus Dependent Atrial Flutter",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.09.004",
-    "doi": "10.1016/j.hrcr.2026.09.004",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Shark Fin Heart - A Case of Fulminant Myocarditis",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.09.003",
-    "doi": "10.1016/j.hrcr.2026.09.003",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "COnCOmitaNt pulsed field ablation-based pUlmonary vein isolation and lefT atrial appendage closure: the COCONUT study",
-    "link": "https://doi.org/10.1093/europace/euag198",
-    "doi": "10.1093/europace/euag198",
-    "journal": "EP Europace",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Aims\n                    Atrial fibrillation (AF) ablation by pulmonary vein isolation (PVI) and left atrial appendage closure (LAAC) are increasingly performed as standalone procedures. Given that PVI and LAAC share the same access route, a combined approach of pulsed field ablation (PFA)-based PVI and LAAC might be beneficial. The COCONUT study focused on safety, efficacy, and outcomes combining PVI by PFA with LAAC in one procedure.\n                  \n                  \n                    Methods\n                    This is a retrospective, multinational registry study. The primary endpoints were the following: (1) primary safety endpoint: serious adverse events; and (2) primary efficacy endpoint: success of PVI and LAA closure defined as the ability to isolate all pulmonary veins and the successful closure of the LAA. For secondary endpoints, peri-procedural data and follow-up data were collected.\n                  \n                  \n                    Results\n                    A total of 155 patients from 22 centres of nine European countries were treated by concomitant pentaspline catheter PFA-based PVI and LAAC. The mean CHA2DS2-VA score was 3.1 \u00b1 1.4. The primary efficacy endpoint was achieved at 97.4% with successful PVI at 100% and successful LAAC in 151/155 patients (97.4%). The primary safety endpoint was observed in 3/155 patients (1.9%). Transoesophageal echocardiography and/or CCTA 67 \u00b1 26 days after the procedure showed no device embolization and no device-related thrombus, 24/151 (15.9%) patients showed peri-device gaps of &amp;lt;5\u2005mm while gaps of &amp;gt;5\u2005mm have been observed in 3/151 (2.0%). Among 137/155 patients with available arrhythmia, a follow-up &amp;gt;6 months at 78.1% showed sinus rhythm.\n                  \n                  \n                    Conclusion\n                    In this large multicentre study, concomitant PFA-based AF ablation and LAA closure proved to be feasible, effective, and safe and overall procedure duration was short."
-  },
-  {
-    "title": "Programmed ventricular stimulation for risk stratification in symptomatic athletes with nonischemic left ventricular scar and preserved ejection fraction",
-    "link": "https://doi.org/10.1093/europace/euag160",
-    "doi": "10.1093/europace/euag160",
-    "journal": "EP Europace",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Aims\n                    Non-ischaemic left ventricular (LV) scar is increasingly recognized in athletes with preserved left ventricular ejection fraction (LVEF) and may represent a substrate for malignant ventricular arrhythmias. The role of electrophysiological study (EPS) with programmed ventricular stimulation (PVS) for risk stratification in this population remains unclear. This study aimed to evaluate the prognostic value of inducibility at EPS in symptomatic athletes with non-ischaemic LV scar and preserved LVEF.\n                  \n                  \n                    Methods and results\n                    We prospectively enrolled 72 consecutive athletes (mean age 48.9 \u00b1 13.1 years; 66.7% male) with documented non-ischaemic LV scar, preserved LVEF (\u226550%), and arrhythmic symptoms (tachycardic palpitations, syncope/presyncope, and/or exercise-related ventricular arrhythmias) undergoing EPS. Inducibility was defined as sustained ventricular arrhythmias during PVS. The primary endpoint was the occurrence of major arrhythmic events (MAE), including sudden cardiac death, sustained ventricular tachycardia/ventricular fibrillation, or appropriate implantable cardioverter-defibrillator therapy. Twenty-three athletes (31.9%) were inducible (EPS+), while 49 (68.1%) were non-inducible (EPS\u2212). Baseline characteristics were largely comparable between groups, although QRS duration was longer in inducible athletes (104.6 \u00b1 15.2\u2005ms vs. 95.5 \u00b1 14.3\u2005ms; P = 0.019). Twenty-three inducible athletes underwent ICD implantation (18 transvenous and 5 subcutaneous devices), whereas 16 non-inducible athletes received an implantable loop recorder. During a median follow-up of 42 months, 11 major arrhythmic events occurred. Nine events occurred among inducible athletes and consisted of sustained ventricular arrhythmias (monomorphic VT, polymorphic VT, or ventricular fibrillation) successfully terminated by appropriate ICD therapy, whereas two major arrhythmic events occurred among non-inducible athletes and required successful resuscitation followed by ICD implantation. No arrhythmic deaths occurred during follow-up. Event-free survival at 50 months was 40.6% in inducible athletes and 95.9% in non-inducible athletes (log-rank P &amp;lt; 0.001).\n                  \n                  \n                    Conclusion\n                    In symptomatic athletes with non-ischaemic LV scar and preserved LVEF, inducibility at EPS identifies a subgroup at higher risk of MAE, whereas non-inducibility is associated with a low event rate. EPS may represent a useful adjunctive tool for arrhythmic risk stratification in athletes, particularly in those without conventional high-risk features."
-  },
-  {
-    "title": "Identifying patients at low risk for atrial fibrillation after cryptogenic stroke: the PAVA score",
-    "link": "https://doi.org/10.1093/europace/euag183",
-    "doi": "10.1093/europace/euag183",
-    "journal": "EP Europace",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Aims\n                    Continuous cardiac monitoring with implantable loop recorders (ILRs) is recommended after cryptogenic stroke to detect occult atrial fibrillation (AF). We aimed to develop and validate a dedicated risk score for AF detection in patients undergoing ILR monitoring after cryptogenic stroke.\n                  \n                  \n                    Methods and results\n                    This multicentre study enrolled 1002 consecutive patients (mean age 66.0 \u00b1 12.3 years, 57.9% male) who received an ILR after cryptogenic stroke. The primary outcome was a first episode of AF or atrial tachycardia (AT). A score was developed in a randomly split development cohort and validated internally, accounting for competing risks, missing data imputation, and hazard ratio-based weighting. Among the 668 patients in the development cohort, cumulative incidences of AF/AT at 1, 2, and 3 years were 20.3%, 28.9%, and 33.0%, respectively. Four independent predictors were identified: premature atrial contractions &amp;gt; 200/24\u2005h on Holter-ECG (2 points), age &amp;gt;58\u201378 years (3 points) or &amp;gt; 78 years (4 points), significant valvular heart disease (1 point), and left atrial dilatation (2 points), forming the PAVA (premature atrial contractions, age, significant valvular heart disease, and left atrial dilatation) score. Discrimination was good in both the development and validation cohorts (c-index 0.73 and 0.79, respectively). The 3-year areas under the curve were 0.800 and 0.905, respectively. A PAVA score \u2264 2, observed in 23.6% of patients, yielded negative predictive values of 89.2% and 100% in the development and validation cohorts. ROC-curve analysis confirmed superior clinical utility over existing scores (Brown ESUS-AF [Brown embolic stroke of undetermined source-atrial fibrillation], HAVOC).\n                  \n                  \n                    Conclusion\n                    A PAVA score \u2264 2 demonstrates a high negative predictive value for AF/AT on ILR after cryptogenic stroke, offering a practical tool to optimize patient prioritization for ILR implantation."
-  },
-  {
-    "title": "Rethinking Pacing in Tricuspid Valve Replacement: A Dual-Chamber Solution",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.08.026",
-    "doi": "10.1016/j.hrcr.2026.08.026",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Successful Catheter Ablation of Ventricular Tachycardia After Biologic Ventricular Assist Tissue Transplantation",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.08.025",
-    "doi": "10.1016/j.hrcr.2026.08.025",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Ultra-selective chemical ablation via an over-the-wire microelectrode catheter for radiofrequency-refractory premature ventricular complexes arising from deep intramural outflow tract",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.09.001",
-    "doi": "10.1016/j.hrcr.2026.09.001",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sex-associated differences in lesion delivery and atrial fibrillation recurrence after cryoballoon ablation",
-    "link": "https://doi.org/10.1093/europace/euag189",
-    "doi": "10.1093/europace/euag189",
-    "journal": "EP Europace",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "SCN5A Cardiomyopathy Presenting with Ventricular Arrhythmia and Conduction Disease: A Novel Splice Variant",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.08.023",
-    "doi": "10.1016/j.hrcr.2026.08.023",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "VT",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsed field ablation of incisional right atrial flutter in a repaired atrial septal defect patient avoiding right phrenic nerve injury: a case report",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.08.024",
-    "doi": "10.1016/j.hrcr.2026.08.024",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cryoballoon ablation versus antiarrhythmic drug therapy as initial treatment for persistent atrial fibrillation:\n                    <i>the multicenter randomized CEPAF trial</i>",
-    "link": "https://doi.org/10.1093/europace/euag230",
-    "doi": "10.1093/europace/euag230",
-    "journal": "EP Europace",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Evidence supporting first-line cryoballoon ablation (CBA) in treatment-naive persistent atrial fibrillation (PersAF) is limited. Consequently, we compared CBA with guideline-directed antiarrhythmic drug (AAD) therapy in this advanced form of disease.\n                  \n                  \n                    Methods\n                    This multicenter, prospective, randomized, open-label trial assigned 320 symptomatic, treatment-naive patients with PersAF (1:1) to CBA or AAD therapy. The primary endpoint was the first documented atrial tachyarrhythmia recurrence lasting at least 30 seconds during days 91-365. Secondary endpoints included recurrence during days 1-90 and 1-365, time-to-first recurrence, quality of life, and safety.\n                  \n                  \n                    Results\n                    In the intention-to-treat population, recurrence during days 91-365 occurred in 30/160 (18.8%) patients assigned to CBA and 71/160 (44.4%) assigned to AAD therapy (absolute difference, -25.6 percentage points; 95% confidence interval, -35.4 to -15.8; P&amp;lt;0.001). Supportive time-to-event analysis favored CBA (hazard ratio for AAD vs. CBA, 2.29; 95% confidence interval, 1.48-3.56; log-rank P&amp;lt;0.001). In CBA vs AAD comparisons, overall recurrence during days 1-365 was 23.8% vs. 55.6%, and early recurrence was 11.2% vs. 28.1% (both P&amp;lt;0.001; respectively). Improvement in AFEQT score was greater with CBA (17.3 vs. 6.6 points; P&amp;lt;0.001); whereas SF-12 component scores did not differ significantly. Adverse events recorded on event forms were infrequent in both cohorts.\n                  \n                  \n                    Conclusion\n                    In selected treatment-naive patients with PersAF, first-line CBA reduced atrial tachyarrhythmia recurrence and improved disease-specific quality of life compared with AAD therapy.",
-    "summary": "This multicenter randomized controlled trial of 320 treatment-naive patients with persistent atrial fibrillation compared first-line cryoballoon ablation (CBA) versus antiarrhythmic drug (AAD) therapy, finding that CBA significantly reduced atrial tachyarrhythmia recurrence during days 91-365 (18.8% vs. 44.4%; P<0.001) and improved disease-specific quality of life measures compared with AAD therapy. Overall recurrence rates favored CBA throughout the entire follow-up period (23.8% vs. 55.6% at days 1-365; P<0.001) with"
-  },
-  {
-    "title": "Pacemaker-implantation and atrioventricular-node ablation vs pulmonary vein isolation for elderly patients with persistent atrial fibrillation: the ABLATE versus PACE trial",
-    "link": "https://doi.org/10.1093/eurheartj/ehag742",
-    "doi": "10.1093/eurheartj/ehag742",
-    "journal": "European Heart Journal",
-    "date": "Aug 31, 2026",
-    "date_ts": 1788134400.0,
-    "tags": [
-      "AFib",
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Population aging is increasing atrial fibrillation (AF) prevalence. In elderly patients with persistent AF, pulmonary-vein isolation (PVI) has limited success, but is widely used. Pacemaker-implantation with atrioventricular-node ablation (PM+AVNA) provides effective symptom control, but the relative effects of PM+AVNA versus PVI on hospitalisations and other outcomes in the elderly remain unknown.\n                  \n                  \n                    Methods\n                    This investigator-initiated, multicentre, open-label trial randomised patients aged\u226575 years with symptomatic persistent AF and normal left-ventricular ejection fraction to PM+AVNA or PVI treatment-strategies. The primary endpoint was a composite of hospitalisation for atrial arrhythmia or heart failure, outpatient electrical cardioversion or upgrade to cardiac resynchronisation therapy for left-ventricular dysfunction. Secondary endpoints included all-cause death, stroke, treatment-related complications and quality of life.\n                  \n                  \n                    Results\n                    Twelve centres in Germany and Austria randomised 196 patients (median age 82 years). At 12 months, a first primary endpoint event occurred in 24 of 98 patients (24%) assigned to PM+AVNA and 45 of 98 patients (46%) assigned to PVI (hazard ratio 0.45, 95% confidence interval 0.27 to 0.74; P=0.002). A total of 29 and 84 primary endpoint events occurred respectively, consisting principally of AF-hospitalisations and cardioversions in the PVI group (54 and 19 respectively, vs 3 and 1 in PM+AVNA group) and of heart failure-hospitalisations in the PM+AVNA Group (23, vs 11 in PVI group). The incidence of cardiovascular complications and mortality, as well as qualityof-life, were not statistically different.\n                  \n                  \n                    Conclusions\n                    In elderly patients with persistent AF, PM+AVNA was associated with fewer primary endpoint events than PVI over a 12-month follow-up period.",
-    "summary": "This multicenter randomized controlled trial of 196 patients aged \u226575 years with persistent AF compared pacemaker implantation with atrioventricular-node ablation (PM+AVNA) versus pulmonary-vein isolation (PVI), demonstrating that PM+AVNA resulted in significantly fewer composite hospitalizations for arrhythmia/heart failure or cardioversions at 12 months (24% vs 46%; HR 0.45, p=0.002), with no difference in mortality or quality of life between groups."
-  },
-  {
-    "title": "Safety and Efficacy of Nighttime Versus Daytime Radiofrequency Catheter Ablation for Atrial Fibrillation: A Multicenter Cohort Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70485?af=R",
-    "doi": "10.1111/jce.70485",
-    "journal": "J Cardiovasc EP",
-    "date": "Aug 31, 2026",
-    "date_ts": 1788158754.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Objective\n                    This study aimed to compare the incidence of post\u2011procedural complications in patients undergoing radiofrequency catheter ablation (RFCA) for atrial fibrillation (AF) performed during daytime versus nighttime hours.\n                  \n                  \n                    Methods\n                    \n                      This retrospective study included 2951 patients who underwent AF ablation at three centers between 2019 and 2024. Based on procedure start time, patients were assigned to a daytime group (08:00\u201316:00,\n                      n\n                      \u2009=\u20091503) or a nighttime group (16:00\u201324:00,\n                      n\n                      \u2009=\u20091301). Propensity score matching (PSM) was used to balance baseline characteristics. The primary outcome was any complication within 3 months post\u2011ablation. Secondary outcomes included in\u2011hospital and post\u2011discharge complications (within 3 months) and freedom from atrial arrhythmia recurrence at 12 months.\n                    \n                  \n                  \n                    Results\n                    \n                      Following 1:1 PSM, 1263 matched pairs were analyzed. The overall postoperative complication rate was significantly higher in the nighttime group than in the daytime group (4.99% vs. 2.30%; odds ratio [OR]: 2.23; 95% confidence interval [CI]: 1.43\u20133.49;\n                      p\n                      \u2009&lt;\u20090.001). This elevated risk was consistent for both in\u2010hospital complications (OR: 2.14; 95% CI: 1.23\u20133.72;\n                      p\n                      \u2009=\u20090.007) and post\u2010discharge complications (OR: 2.32; 95% CI: 1.10\u20134.90;\n                      p\n                      \u2009=\u20090.027). Furthermore, there was no significant difference in the 12\u2010month freedom from atrial arrhythmia recurrence between the two cohorts.\n                    \n                  \n                  \n                    Conclusions\n                    Nighttime AF ablation is associated with a significantly increased risk of overall postoperative complications, highlighting procedural timing as a critical determinant of perioperative patient safety.",
-    "summary": "This retrospective study of 2,951 patients (1,263 matched pairs after propensity score matching) found that radiofrequency catheter ablation for atrial fibrillation performed during nighttime hours (16:00\u201324:00) was associated with significantly higher postoperative complication rates compared to daytime procedures (4.99% vs. 2.30%; OR 2.23, p<0.001), with increased risk for both in-hospital and post-discharge complications, though 12-month arrhythmia recurrence rates were similar between groups."
-  },
-  {
-    "title": "Very Late Recurrence After Atrial Fibrillation Ablation: Clinical Characteristics and Pulmonary Vein Reconnection Patterns",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027487?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Aug 31, 2026",
-    "date_ts": 1788141825.48398,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Dual antithrombotic therapy using potent antiplatelet inhibitors in atrial fibrillation and acute coronary syndrome: a randomized controlled trial",
-    "link": "https://www.nature.com/articles/s41591-026-04629-7",
-    "doi": "10.1038/s41591-026-04629-7",
-    "journal": "Nature Medicine",
-    "date": "Aug 30, 2026",
-    "date_ts": 1788055694.913692,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    The selection of the optimal antithrombotic regimen in patients with atrial fibrillation and acute coronary syndrome remains challenging. Previous trials have demonstrated that dual antithrombotic therapy (DAT), consisting of direct oral anticoagulants (DOACs) plus a P2Y12 inhibitor, reduces bleeding compared to a triple-therapy regimen using vitamin K antagonists. However, subsequent meta-analyses have suggested an increased risk of ischemic events with DAT, particularly within the first month of treatment. Clopidogrel has been the predominant P2Y12 inhibitor used across these studies, despite the risk of high on-treatment platelet reactivity when using this drug. In this study, we conducted an open-label, randomized controlled trial (EPIDAURUS) in patients with atrial fibrillation and acute coronary syndrome, designed to assess the efficacy and safety of a 1-month regimen of DOAC plus potent P2Y12 inhibitor (prasugrel or ticagrelor) compared to DOAC plus clopidogrel and in-hospital aspirin. The primary outcomes of the trial were an efficacy endpoint, recurrent ischemic events and safety endpoints, including death and major bleeding, which were evaluated 6\u2009weeks after randomization using separate win\u2212loss ratio analyses. The study was prematurely terminated after enrollment of 602 patients (154 female) of an expected 1,474 patients, owing to safety concerns raised by the Data and Safety Monitoring Board. Exploratory analyses of secondary safety endpoints, including bleeding type \u22652 and \u22653 according to the Bleeding Academic Research Consortium scale, revealed that, compared to clopidogrel and in-hospital aspirin, treatment with a potent P2Y12 inhibitor was associated with higher bleeding rates without a clear reduction in the risk of ischemic complications. These findings do not support the routine use of potent P2Y12 inhibitors in combination with DOACs in this patient population. ClinicalTrials.gov identifier:\n                    NCT04981041\n                    .",
-    "summary": "This open-label RCT (EPIDAURUS) of 602 patients with atrial fibrillation and acute coronary syndrome compared DOAC plus potent P2Y12 inhibitors (prasugrel/ticagrelor) versus DOAC plus clopidogrel with aspirin, but was terminated early due to safety concerns; potent P2Y12 inhibitors were associated with higher bleeding rates without reduction in ischemic events, not supporting their routine use in this population."
-  },
-  {
-    "title": "Effectiveness of Bivalent RSV Prefusion F Protein-based Vaccine in Individuals With and Without Atrial Fibrillation: A Prespecified Analysis of the DAN-RSV Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726076059?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC",
-    "date": "Aug 30, 2026",
-    "date_ts": 1788055694.052202,
-    "tags": [
-      "AFib"
     ],
     "hot": false
   }
