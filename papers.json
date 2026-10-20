@@ -1,5 +1,53 @@
 [
   {
+    "title": "Letter by Fauchier et al Regarding Article, \u201cPolycystic Ovarian Syndrome and the Long-Term Risk of Arrhythmias\u201d",
+    "link": "https://doi.org/10.1161/circulationaha.126.080602",
+    "doi": "10.1161/circulationaha.126.080602",
+    "journal": "Circulation",
+    "date": "Oct 20, 2026",
+    "date_ts": 1792454400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Response by Reinert and Havers-Borgersen to Letter Regarding Article, \u201cPolycystic Ovarian Syndrome and the Long-Term Risk of Arrhythmias\u201d",
+    "link": "https://doi.org/10.1161/circulationaha.126.081468",
+    "doi": "10.1161/circulationaha.126.081468",
+    "journal": "Circulation",
+    "date": "Oct 20, 2026",
+    "date_ts": 1792454400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cardioneuroablation in Cardioinhibitory Vasovagal Syncope: Insights From Iodine-123 Metaiodobenzylguanidine Imaging and Heart Rate Variability",
+    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600601X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Oct 20, 2026",
+    "date_ts": 1792463181.716536,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Real-World Experience with Combined Leadless Pacemaker and Subcutaneous Implantable Cardioverter-Defibrillator Therapy: A Multicenter Study in Japan",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006021?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Oct 20, 2026",
+    "date_ts": 1792463181.716325,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
     "title": "Corrigendum to \u201cDesign and rationale of pulsed field ablation for postinfarction ventricular tachycardia: The ASCEND-VT pilot study\u201d, <em>Heart Rhythm O</em><sup><em>2</em></sup>, Volume 7, Issue 8 (2026) p1564-1572",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005933?dgcid=rss_sd_all",
     "doi": null,
@@ -6147,56 +6195,6 @@
     "tags": [
       "VT",
       "Devices",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Amiodarone dose to treat ventricular tachycardia in Chagas cardiomyopathy",
-    "link": "https://doi.org/10.1093/europace/euag142",
-    "doi": "10.1093/europace/euag142",
-    "journal": "EP Europace",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "VT",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "A Superior Solution: Pulmonary Vein Isolation and Linear Ablation via the Right Internal Jugular Approach Using a Lattice-Tip Catheter in Patients with Inferior Vena Cava Occlusion",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.09.006",
-    "doi": "10.1016/j.hrcr.2026.09.006",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Improvement of Exercise Oscillatory Ventilation Following Rhythm Control in Heart Failure with Reduced Ejection Fraction with Persistent Atrial Fibrillation",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.09.007",
-    "doi": "10.1016/j.hrcr.2026.09.007",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The second beat matters: coupling intervals and sudden cardiac death risk in hypertrophic cardiomyopathy",
-    "link": "https://doi.org/10.1093/europace/euag246",
-    "doi": "10.1093/europace/euag246",
-    "journal": "EP Europace",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "SCD",
       "Genetics"
     ],
     "hot": false
