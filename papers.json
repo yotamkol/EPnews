@@ -1,5 +1,41 @@
 [
   {
+    "title": "Twenty Years at the Crossroads: Is Clinical Cardiac Electrophysiology Science, Procedure, or Both?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008856?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 21, 2026",
+    "date_ts": 1792549209.819191,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Temporal Changes in LGE-CMR Enhancement After Monopolar Biphasic Focal Pulsed Field Ablation for Pulmonary Vein Isolation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028833?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 21, 2026",
+    "date_ts": 1792549209.550591,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "High-Frequency Electrograms Abolition as a Valuable Target for Remap During Ventricular Tachycardia Ablation. The HF REMAP Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028821?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 21, 2026",
+    "date_ts": 1792549209.550453,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
     "title": "Letter by Fauchier et al Regarding Article, \u201cPolycystic Ovarian Syndrome and the Long-Term Risk of Arrhythmias\u201d",
     "link": "https://doi.org/10.1161/circulationaha.126.080602",
     "doi": "10.1161/circulationaha.126.080602",
@@ -1602,6 +1638,18 @@
     "date_ts": 1790823155.273074,
     "tags": [
       "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Early-onset atrial fibrillation leading to the diagnosis of Alstr\u00f6m syndrome: A case report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.10.011",
+    "doi": "10.1016/j.hrcr.2026.10.011",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "AFib"
     ],
     "hot": false
   },
@@ -6145,57 +6193,6 @@
     "date_ts": 1788220800.0,
     "tags": [
       "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Successful Pulsed Field Ablation for Paroxysmal Atrial Fibrillation in a Patient with Type 1 von Willebrand Disease under Perioperative Recombinant Human von Willebrand Factor Supplementation",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.09.011",
-    "doi": "10.1016/j.hrcr.2026.09.011",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Author's reply to \u201cAcute intraventricular obstruction: An underrecognized trigger of pacemaker-related takotsubo syndrome.\"",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.09.008",
-    "doi": "10.1016/j.hrcr.2026.09.008",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "We thank Dr. Yalta et al. for their thoughtful Letter to the Editor regarding our report of Takotsubo syndrome (TTS) complicated by dynamic left ventricular outflow tract obstruction (LVOTO) following left bundle branch area pacing (LBBAP) in an 81-year-old woman with a sigmoid septum1. We agree that the temporal relationship among LBBAP, LVOTO, and TTS raises intriguing mechanistic questions. Baseline echocardiography showed no resting intraventricular gradient, whereas LVOTO was documented only after symptom onset, when a new grade III/VI systolic murmur and acute heart failure developed."
-  },
-  {
-    "title": "Snare-induced deflection of a powered mechanical sheath for refractory right ventricular lead extraction with severe distal adhesion: the SIT-DOWN technique",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.09.009",
-    "doi": "10.1016/j.hrcr.2026.09.009",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Response to the letter regarding \u2018Outcomes of functional ventricular tachycardia ablation vs. medical therapy in Chagas cardiomyopathy patients with implantable cardioverter-defibrillators: a competing risks analysis\u2019",
-    "link": "https://doi.org/10.1093/europace/euag175",
-    "doi": "10.1093/europace/euag175",
-    "journal": "EP Europace",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "VT",
-      "Devices",
-      "Genetics"
     ],
     "hot": false
   }
