@@ -1,5 +1,68 @@
 [
   {
+    "title": "Atrial Cardiomyopathy in Hypertrophic Cardiomyopathy: From Compensation to Atrial Fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726077041?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Oct 22, 2026",
+    "date_ts": 1792635301.697804,
+    "tags": [
+      "AFib",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Running to a Type 1 \u2013 Exercise-Provoked Brugada",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008650?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 22, 2026",
+    "date_ts": 1792635300.654339,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Durability of a Posterior Mitral Line after Pulsed-Field Ablation with a Pentaspline Catheter: Insight from Redo Procedures",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006082?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Oct 22, 2026",
+    "date_ts": 1792635300.543363,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Non-Sustained Ventricular Tachycardia on Long Term Ambulatory ECG Monitoring in the Pediatric Population Without Prior Cardiac Diagnosis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006070?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Oct 22, 2026",
+    "date_ts": 1792635300.543318,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Radiofrequency Catheter Ablation for Paroxysmal Atrial Fibrillation and Supraventricular Tachycardia in Non-Fluoroscopic Versus Traditional DSA Catheterization Laboratories: Design and Rationale of the FREE-DSA Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006057?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Oct 22, 2026",
+    "date_ts": 1792635300.543126,
+    "tags": [
+      "AFib",
+      "VT",
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
     "title": "Twenty Years at the Crossroads: Is Clinical Cardiac Electrophysiology Science, Procedure, or Both?",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008856?dgcid=rss_sd_all",
     "doi": null,
@@ -36,6 +99,30 @@
     "hot": false
   },
   {
+    "title": "First-tier copy-number variant analysis in inherited cardiomyopathy: reconsidering the case for second-tier triage",
+    "link": "https://doi.org/10.1093/europace/euag291",
+    "doi": "10.1093/europace/euag291",
+    "journal": "EP Europace",
+    "date": "Oct 21, 2026",
+    "date_ts": 1792540800.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Nationwide assessment of early hospitalizations and mortality after pulsed field ablation",
+    "link": "https://doi.org/10.1093/europace/euag300",
+    "doi": "10.1093/europace/euag300",
+    "journal": "EP Europace",
+    "date": "Oct 21, 2026",
+    "date_ts": 1792540800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Letter by Fauchier et al Regarding Article, \u201cPolycystic Ovarian Syndrome and the Long-Term Risk of Arrhythmias\u201d",
     "link": "https://doi.org/10.1161/circulationaha.126.080602",
     "doi": "10.1161/circulationaha.126.080602",
@@ -56,6 +143,30 @@
     "date_ts": 1792454400.0,
     "tags": [
       "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A Puzzling Supraventricular Rhythm: A Diagnostic and Therapeutic Challenge",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70537?af=R",
+    "doi": "10.1111/jce.70537",
+    "journal": "J Cardiovasc EP",
+    "date": "Oct 20, 2026",
+    "date_ts": 1792520469.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Performing Catheter Ablation for Atrial Fibrillation Without On\u2010Site Cardiothoracic Surgery: Time to Step on the Pedal or Pump the Brakes?",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70534?af=R",
+    "doi": "10.1111/jce.70534",
+    "journal": "J Cardiovasc EP",
+    "date": "Oct 20, 2026",
+    "date_ts": 1792519904.0,
+    "tags": [
+      "AFib"
     ],
     "hot": false
   },
@@ -1640,6 +1751,149 @@
       "Devices"
     ],
     "hot": false
+  },
+  {
+    "title": "Foreword: An educational reference for pulsed field ablation",
+    "link": "https://doi.org/10.1093/europace/euag245",
+    "doi": "10.1093/europace/euag245",
+    "journal": "EP Europace",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The perspective of combining pulsed field ablation and left atrial appendage closure",
+    "link": "https://doi.org/10.1093/europace/euag202",
+    "doi": "10.1093/europace/euag202",
+    "journal": "EP Europace",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  Pulsed field ablation (PFA) and left atrial appendage closure (LAAC) are increasingly discussed as complementary strategies in atrial fibrillation (AF) care, addressing rhythm control and long-term thromboembolic risk. The rationale is attractive, but the current evidence base is uneven. Randomized evidence for LAAC around AF ablation is strongest for thermal-ablation-era workflows, particularly the OPTION trial, which showed lower non-procedure-related major or clinically relevant non-major bleeding with LAAC than with oral anticoagulation (OAC) and non-inferiority for death, stroke, or systemic embolism. Dedicated PFA-specific evidence remains limited to feasibility studies and early observational experience, and no trial has demonstrated that combined ablation-LAAC procedures are clinically superior when the ablation component is performed with PFA rather than radiofrequency or cryoballoon ablation. In parallel, OAC-withdrawal trials after apparently successful ablation, including OCEAN and ALONE-AF, have reported low thromboembolic event rates in selected lower-risk populations, whereas CLOSURE-AF cautions against simple extrapolation of LAAC benefit to older, frailer patients at high stroke and bleeding risk. This review therefore positions combined PFA-LAAC as a potential option for carefully selected patients rather than an established routine strategy. We summarize procedural workflow, patient selection, trial populations, device-platform considerations, reimbursement and organizational issues, and the main uncertainties that should guide future prospective studies."
+  },
+  {
+    "title": "Sedation and anaesthesia in pulsed-field ablation for atrial fibrillation: mechanisms, procedural requirements, and real-world practice",
+    "link": "https://doi.org/10.1093/europace/euag127",
+    "doi": "10.1093/europace/euag127",
+    "journal": "EP Europace",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  Pulsed-field ablation (PFA) has rapidly emerged as an important energy source for atrial fibrillation ablation, offering tissue selectivity and procedural efficiency while introducing specific anaesthetic and sedation requirements. This narrative review examines the rationale for anaesthesia and sedation during PFA, the mechanisms underlying pain, involuntary movement, and neuromuscular stimulation, and the implications of catheter design, waveform characteristics, and patient-related factors for peri-procedural management. Available evidence indicates that both deep sedation and general anaesthesia can provide safe and effective procedural conditions when supported by appropriate monitoring, airway rescue capability, and experienced multidisciplinary teams. Deep sedation may offer advantages in workflow, recovery, and patient-centred care, particularly for standard pulmonary vein isolation procedures using contemporary biphasic systems with reduced muscle activation, whereas general anaesthesia remains appropriate for complex procedures, patients with substantial comorbidity, or settings in which complete immobility and airway control are essential. Current real-world practice is highly heterogeneous across regions and institutions, reflecting differences in regulations, staffing models, procedural complexity, and local expertise rather than a universally accepted standard. Overall, anaesthetic strategy in PFA should be individualised according to patient risk profile, expected procedural demands, and device-specific stimulation burden. Further prospective comparative studies are needed to define optimal sedation depth, standardise monitoring and outcome measures, and clarify how emerging technologies may enable lighter yet still effective sedation pathways."
+  },
+  {
+    "title": "Pulsed field ablation: from concepts to technology",
+    "link": "https://doi.org/10.1093/europace/euag205",
+    "doi": "10.1093/europace/euag205",
+    "journal": "EP Europace",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Pulsed field ablation (PFA) has emerged as a transformative approach for treating cardiac arrhythmias by exploiting irreversible electroporation to preferentially injure myocardium while limiting collateral damage. Translating this biophysical principle into safe and effective clinical systems requires careful integration of waveform design, catheter engineering, computational and experimental modelling, safety testing, and procedural workflow.\n                  \n                  \n                    Objective\n                    This review summarizes the fundamental physical and engineering principles that govern cardiac PFA and examines how these principles influence efficacy, safety, lesion formation, and clinical usability.\n                  \n                  \n                    Biophysical and technical considerations\n                    Electroporation is governed primarily by the local electric field and waveform-dependent lethal thresholds rather than generator voltage alone. Key waveform variables include monophasic vs. biphasic pulses, microsecond vs. nanosecond pulse widths, duty cycle, and total application duration. Catheter design further determines electric field distribution, lesion geometry, current density, and applicability across anatomic targets, with important distinctions between bipolar and monopolar configurations.\n                  \n                  \n                    Modelling and safety\n                    Experimental and computational approaches used to investigate PFA include finite element simulations, cell culture systems, vegetal substrates, and in vivo animal models, each with distinct strengths and limitations. High-voltage pulse delivery can also produce unintended effects, including Joule heating, electrochemical reactions, bubble formation, arcing, and interactions with implanted electronic devices. These phenomena highlight the importance of optimized waveform design, electrode configuration, and safety monitoring.\n                  \n                  \n                    Clinical usability\n                    Clinical adoption depends not only on biological efficacy and safety but also on workflow efficiency, catheter versatility, procedure duration, mapping integration, anaesthesia requirements, and adaptability to differing clinical practices and geographic settings.\n                  \n                  \n                    Conclusions\n                    The performance of a PFA system reflects the interaction of biophysics, waveform characteristics, catheter design, modelling, safety controls, and procedural usability. Understanding these interconnected principles is essential for developing PFA technologies that are effective, safe, predictable, and practical for contemporary electrophysiology laboratories."
+  },
+  {
+    "title": "Safety considerations and clinical monitoring during pulsed field ablation",
+    "link": "https://doi.org/10.1093/europace/euag248",
+    "doi": "10.1093/europace/euag248",
+    "journal": "EP Europace",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  Pulsed field ablation (PFA) has emerged as a transformative technology in cardiac electrophysiology, offering a potentially superior safety profile compared with thermal ablation due to its non-thermal mechanism of irreversible electroporation. Clinical experience confirms a substantial reduction in traditional complications such as pulmonary vein stenosis, atrio-oesophageal fistula, and permanent phrenic nerve injury, though PFA introduces a distinct spectrum of physiologic effects requiring consideration. Coronary vasospasm is the most characteristic phenomenon, ranging from transient, subclinical constriction to rare ischaemic or arrhythmic events; mitigation relies on coronary anatomical awareness, optimized lesion placement, and prophylactic vasodilators. Haemolysis, caused by red blood cell electroporation, varies with catheter design and pulse burden and is typically mild, though high exposure and inadequate hydration may rarely lead to acute kidney injury. Silent cerebral lesions could result from procedural and/or energy-related factors, including gas formation, air ingress, catheter manipulation, and anticoagulation management, with uncertain long-term clinical impact but opportunities for technique-driven reduction. Interactions between PFA and cardiac implantable electronic devices are system- and context-dependent, with monopolar configurations and catheter-lead proximity influencing the risk of transient interference and rare permanent damage."
+  },
+  {
+    "title": "Controlling pulsed field ablation efficacy during ablation procedures",
+    "link": "https://doi.org/10.1093/europace/euag188",
+    "doi": "10.1093/europace/euag188",
+    "journal": "EP Europace",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  Pulsed field ablation (PFA) has rapidly emerged as a promising ablation modality for the treatment of cardiac arrhythmias because of its myocardial tissue preferential ablation and favourable safety profile. However, procedural control of lesion formation and reliable assessment of lesion durability remain important challenges. This review summarizes the main determinants of PFA efficacy and current approaches for intraprocedural lesion assessment. Experimental and clinical studies indicate that PFA lesion formation results from the interaction between delivered electrical energy, catheter design, tissue coupling, and application strategy. Lesion size and geometry are primarily determined by electric field distribution and cumulative electroporation exposure, while excessive energy delivery may induce unwanted thermal or electrochemical effects. Procedural efficacy also depends on stable catheter positioning, adequate tissue proximity, and sufficient lesion overlap. Unlike thermal ablation technologies, conventional procedural markers such as electrogram attenuation, impedance changes, and pacing threshold variation correlate poorly with durable irreversible electroporation. Multiparametric lesion estimation models integrating electrical, mechanical, and positional data have shown encouraging preclinical results, although clinical validation remains limited. Emerging strategies combining electroanatomical mapping, imaging, and automated electrogram analysis may improve real-time evaluation of lesion continuity and durability. Current PFA workflows rely mainly on standardized energy delivery protocols, optimized catheter positioning, and lesion overlap rather than real-time titration of energy. Although robust intraprocedural markers of irreversible electroporation are still lacking, ongoing advances in catheter technology, imaging, and lesion assessment tools are expected to improve procedural reproducibility and long-term lesion durability. Further studies are needed to establish validated endpoints for durable PFA lesion formation."
+  },
+  {
+    "title": "The future of PFA in cardiac ablation procedures",
+    "link": "https://doi.org/10.1093/europace/euag210",
+    "doi": "10.1093/europace/euag210",
+    "journal": "EP Europace",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  Pulsed field ablation (PFA) has rapidly emerged as a major development in catheter ablation, with increasing clinical adoption driven by procedural efficiency and a favorable safety profile compared with thermal energies. This article summarizes the future directions of PFA in electrophysiology, focusing on technological innovation, and how these advances are expected to expand PFA clinical indications. Additionally, this article provides a perspective on current gaps and future challenges of PFA. A perspective on future developments in new waveforms, catheter architectures, and integration with electroanatomical mapping systems for PFA is summarized. The document discusses novel waveform configurations and catheter design concepts that may improve lesion quality, procedural versatility, and safety. Additionally, this article also reviews how parallel advances in electroanatomical mapping integration, artificial intelligence, and robotic navigation are expected to enhance procedural guidance and enable individualized therapy. This manuscript summarizes the potential applications of PFA beyond pulmonary vein isolation and how emerging evidence supports its feasibility for linear atrial lesions, substrate modification, treatment of complex atrial tachycardias, and ventricular arrhythmia ablation. In addition, this article provides insights on how PFA may facilitate catheter ablation in new patient populations including elderly patients and those with higher procedural risks. Finally, this manuscript provides an outlook at major remaining challenges and knowledge gaps for PFA. The lack of homogenous procedural endpoints definitions and lesion durability assessment are discussed. Furthermore, this article highlights the need for standardized terminology and reporting in an environment where the high heterogeneity between available commercial systems complicates comparison across technologies."
+  },
+  {
+    "title": "Long-term predictors of outcome in Brugada syndrome patients after implantable cardioverter-defibrillator implant",
+    "link": "https://doi.org/10.1093/europace/euag278",
+    "doi": "10.1093/europace/euag278",
+    "journal": "EP Europace",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Devices",
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Various clinical risk factors impact the natural history of Brugada syndrome (BrS) and establish the basis of current clinical practice guidelines (CPG) indications for implantable cardioverter-defibrillator (ICD). Due to the time-dependent expressivity of BrS, their performance in predicting the actual occurrence of arrhythmic events after ICD implantation remains unknown.\n                  \n                  \n                    Objectives\n                    To assess the occurrence of arrhythmic events based on the CPG indications and whether the genetic substrate can add to the prediction of arrhythmic events at follow-up.\n                  \n                  \n                    Methods and results\n                    We enrolled consecutive patients who underwent ICD implant either for primary or secondary prevention. Prospective clinical data included arrhythmic history, electrocardiographic findings, therapies, SCN5A gene mutations, and genotyping of three BrS-associated single nucleotide variants. Eleven per cent of 551 patients experienced life-threatening arrhythmic events (LAE) over a median follow-up of 8.1 years. Patients with ESC class IIA indication had a similar risk profile as those implanted for secondary prevention. The recently developed BrS 5-year risk score, including clinical and genetic variables, was a determinant of outcome in the whole cohort and in patients implanted for primary prevention: 26.93 \u00b1 3.33 vs. 4.41 \u00b1 0.61 and 11.67 \u00b1 1.52 vs. 5.36 \u00b1 0.99 in patients with LAEs compared with those without events (P &amp;lt; 0.0001).\n                  \n                  \n                    Conclusion\n                    CPG class IIa and I had a similar rate of ICD shock at follow-up. We also provide robust evidence indicating that the quantification of the BrS arrhythmic risk score at the moment of ICD implant may improve the identification of patients who will benefit from ICD at follow-up."
+  },
+  {
+    "title": "Treatment of paroxysmal and persistent atrial fibrillation with pulsed field ablation",
+    "link": "https://doi.org/10.1093/europace/euag194",
+    "doi": "10.1093/europace/euag194",
+    "journal": "EP Europace",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  Pulsed field ablation has emerged as a novel energy source for atrial fibrillation ablation, offering preferential myocardial ablation with a favourable safety profile. Contemporary paroxysmal AF clinical studies demonstrate 12-month freedom from atrial arrhythmia recurrence in approximately 75-85% of patients, with major complication rates generally ranging from 1 to 3%. Compared with thermal ablation, PFA offers comparable efficacy and streamlined procedural workflows. In persistent AF, PVI remains the foundation of ablation, while additional adjunctive strategies are increasingly evaluated. Current evidence suggests that PFA can achieve 12-month arrhythmia-free outcomes generally ranging from approximately 60-75% in persistent AF populations. Major procedure-related complications typically occur in &amp;lt;3% of cases, supporting the feasibility of broader lesion sets with an acceptable safety profile. However, the incremental benefit of adjunctive ablation beyond PVI and the optimal lesion set for persistent AF remain to be assessed further Outcome assessment after PFA requires consideration of evolving endpoints. The clinical relevance of the traditional post-ablation blanking period is being re-evaluated, while continuous rhythm monitoring and AF burden are increasingly incorporated alongside conventional recurrence endpoints. Patient-reported outcomes are an important component of PFA evaluation. Compared with thermal ablation, PFA is associated with improved procedural tolerability, reduced analgesic requirements, rapid recovery, and the potential for same-day discharge. These features, together with favourable efficacy and safety outcomes, may contribute to broader adoption of PFA across both paroxysmal and persistent AF populations."
+  },
+  {
+    "title": "Biophysical principles of pulsed field ablation",
+    "link": "https://doi.org/10.1093/europace/euag229",
+    "doi": "10.1093/europace/euag229",
+    "journal": "EP Europace",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  Pulsed field ablation (PFA) is emerging as a major advance in cardiac ablation because it induces irreversible electroporation rather than relying primarily on thermal injury. This article provides an overview of the core biophysical principles underlying PFA, focusing on concepts broadly relevant across systems and clinical applications. Externally applied pulsed electric fields interact with biological tissues and affect their transmembrane potential. When a critical threshold is exceeded, nanoscale aqueous pores form in the lipid bilayer, initiating electroporation. Depending on pulse amplitude, duration, number, repetition frequency, waveform, and tissue characteristics, membrane permeabilization may remain reversible or progress to irreversible injury and cell death. This article focuses on the fundamental biophysical principles of electroporation that underpin PFA. The article outlines how membrane charging, cell geometry, and tissue heterogeneity influence electric field distribution and biological response and explains why lesion formation depends on both field intensity and exposure conditions. It also summarizes the molecular basis of pore formation, the potential contribution of lipid peroxidation and membrane proteins, and the downstream processes linking sustained permeability to loss of homeostasis and delayed cell death. Finally, it places cardiac PFA in the broader context of electroporation-based therapies developed in oncology, drug delivery, and gene transfer, while highlighting the remaining need for cardiomyocyte-specific mechanistic evidence to further optimize safety, precision, and durability."
+  },
+  {
+    "title": "Specific effects of Pulsed Field Ablation on the cardiac tissue, the nervous system and the conduction system in experimental and clinical studies",
+    "link": "https://doi.org/10.1093/europace/euag208",
+    "doi": "10.1093/europace/euag208",
+    "journal": "EP Europace",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Pulsed field ablation (PFA) has emerged as a novel ablation modality for the treatment of cardiac arrhythmias and has rapidly reshaped contemporary electrophysiology practice. This article provides a comprehensive analysis on the mechanisms underlying the specific effects of PFA on myocardial, neural tissue structures, and the cardiac conduction system, integrating biophysical principles with preclinical and clinical evidence relevant to contemporary electrophysiology practice.\n                  \n                  \n                    Methods and results\n                    This document provides an exhaustive mechanistic explanation for the preferential effects of PFA on myocardium and the limits of the \u2018tissue-selectivity\u2019 concept. The complex interplay between cellular and tissue-level biophysics, biological responses, and tissue regenerative capacity that determines differential susceptibility to electroporation across tissues is analysed. Distinct patterns of lesion formation and maturation following PFA are also reviewed, highlighting the temporal and histopathological differences compared with radiofrequency ablation. Additionally, lesion formation in heterogeneous substrates is analysed, including fibrotic and adipose-rich myocardium, where local electric field distribution critically influences lesion durability.\n                  \n                  \n                    Conclusion\n                    The article further examines the interaction between pulsed electric fields and neural tissue, with emphasis on the phrenic nerve and intrinsic cardiac autonomic nervous system. While nerve stimulation and transient reversible conduction disturbances produced by reversible electroporation can occur during ablation, permanent neural injury appears extremely rare in current clinical experience. Finally, this manuscript examines current understanding regarding the specific effects of PFA on the cardiac conduction system, which according to the limited available evidence appear strongly dependent on electric field dose and anatomical proximity."
   },
   {
     "title": "Early-onset atrial fibrillation leading to the diagnosis of Alstr\u00f6m syndrome: A case report",
@@ -5944,255 +6198,6 @@
     "date_ts": 1788393600.0,
     "tags": [
       "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Magnetic Fields and Cardiac Implantable Electronic Devices: Clinical Mechanisms, Device Behaviour, and Occupational Risk Assessment",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027463?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 02, 2026",
-    "date_ts": 1788313565.294923,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Essential antiarrhythmic drug accessibility worldwide: A multi-survey study and comprehensive evaluation of access and supply challenges",
-    "link": "https://doi.org/10.1093/europace/euag220",
-    "doi": "10.1093/europace/euag220",
-    "journal": "EP Europace",
-    "date": "Sep 02, 2026",
-    "date_ts": 1788307200.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and aims\n                    Antiarrhythmic drugs (AADs) are essential for preventing symptoms, morbidity, and mortality associated with cardiac arrhythmias. However, concerns are increasing about their accessibility. We aimed to assess insights into current access to AADs.\n                  \n                  \n                    Methods\n                    Online surveys were distributed to members of the European Heart Rhythm Association (EHRA), the Association for European Paediatric and Congenital Cardiology, the European Reference Network GUARD-Heart, and national heart rhythm societies.\n                  \n                  \n                    Results\n                    Responses were obtained from 558 respondents across 80 countries. Among countries included in the main analysis (\u22655 respondents; 16 countries within and 7 outside the European Union, n=298 respondents), only 16\u201359% of surveyed AADs were considered readily accessible. Accessibility varied substantially by drug: oral flecainide and propranolol were available in 88% of countries, whereas mexiletine solution was available in only 10%. Marked differences in accessibility were reported both between and within countries, with availability also changing over time. Higher-income countries generally reported better access and a greater number of market authorization holders than lower-income countries. National societies\u2019 perception was that limited access negatively affected patients\u2019 quality of life (72%) and life expectancy (35%), while 73% expected these challenges to persist or worsen in the coming years.\n                  \n                  \n                    Conclusion\n                    Physicians worldwide frequently encounter problems accessing guideline recommended antiarrhythmic drugs for their patients, which putatively impacts on their patients\u2019 quality of life and life expectancy. This highlights systemic vulnerabilities that extend across national and institutional boundaries, urging close collaboration among clinicians, policymakers, manufacturers, and institutions to guarantee timely and equitable treatment for all patients.",
-    "summary": "This cross-sectional survey of 558 heart rhythm specialists across 80 countries found that accessibility to antiarrhythmic drugs varies markedly, with only 16\u201359% of surveyed agents readily available, ranging from 88% availability for oral flecainide to 10% for mexiletine solution, with higher-income countries reporting substantially better access than lower-income countries and 72% of respondents reporting negative impacts on patient quality of life. The findings highlight systemic inequities in AAD availability that warrant collaborative efforts among clinicians, policymakers, and manufacturers to ensure equitable global access."
-  },
-  {
-    "title": "Correlation Between EMS Agency Rates of Survival to Hospital Admission and Hospital Survival Outcomes for Cardiac Arrest",
-    "link": "https://doi.org/10.1161/circulationaha.126.079735",
-    "doi": "10.1161/circulationaha.126.079735",
-    "journal": "Circulation",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Survival to hospital admission for out-of-hospital cardiac arrest is an important resuscitation outcome to gauge emergency medical service (EMS) agency performance. However, its correlation with EMS rates of survival to hospital discharge and favorable neurological survival is unclear.\n                  \n                  \n                    METHODS:\n                    Using the Cardiac Arrest Registry to Enhance Survival (CARES), we identified adults with nontraumatic out-of-hospital cardiac arrests during 2 periods: 2015 through 2019 (before the COVID-19 pandemic) and 2022 through 2024 (after the peak pandemic years). Multivariable hierarchical logistic regression was used to derive EMS agency-level risk-standardized survival rates for hospital admission, hospital discharge, and favorable neurological survival during each period. We then assessed the correlation between EMS agency rates of survival to admission versus discharge and favorable neurological survival using weighted linear regression, and whether the correlations differed by neighborhood income (above versus below median household income) and race and ethnicity (categorized as predominantly White [&gt;80% of residents], majority Black or Hispanic [&gt;50% of residents], or integrated).\n                  \n                  \n                    RESULTS:\n                    \n                      A total of 544\n                      \u2009\n                      296 events from 1838 EMS agencies met inclusion criteria (252\n                      \u2009\n                      137 pre-COVID; 292\n                      \u2009\n                      159 post-COVID). During the period of 2015 to 2019, EMS rates of survival to admission were strongly correlated with survival to discharge (weighted\n                      r\n                      =0.68 [95% CI, 0.64\u20130.72]) and favorable neurological survival (weighted\n                      r\n                      =0.54 [95% CI, 0.43\u20130.59]). These correlations were similar during the period of 2022 through 2024 (weighted\n                      r\n                      =0.63 [95% CI, 0.59\u20130.66] and weighted\n                      r\n                      =0.48 [95% CI, 0.44\u20130.53], respectively). Neighborhood racial and ethnic composition modified the correlation between EMS rates of survival to admission and survival outcomes at discharge in both periods (all interactions &lt;0.05), but the correlations remained strong in each neighborhood group. Similar findings were found for the interactions by neighborhood income strata.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    EMS agency rates of survival to hospital admission are strongly correlated with their rates of survival to hospital discharge and favorable neurological survival. These findings support the use of survival to hospital admission as a performance metric for EMS systems.",
-    "summary": "This retrospective cohort study using the CARES registry analyzed 544,296 out-of-hospital cardiac arrest events from 1,838 EMS agencies across two periods (2015-2019 and 2022-2024) and found that EMS agency rates of survival to hospital admission were strongly correlated with survival to hospital discharge (r=0.63-0.68) and favorable neurological survival (r=0.48-0.54), supporting survival to admission as a valid EMS performance metric. Correlations persisted across different neighborhood racial/ethnic and income strata, though neighborhood composition modified the strength of associations."
-  },
-  {
-    "title": "Bundle Branch Reentrant Tachycardia Concomitant With Atrial Tachycardia in Patients Without Structural Heart Disease",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70391?af=R",
-    "doi": "10.1111/pace.70391",
-    "journal": "PACE",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788244425.0,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Bundle branch reentry ventricular tachycardia (BBRT) in patients without structural heart disease (SHD) has been well\u2010documented. However, the occurrence of concomitant atrial tachycardia (AT) in this cohort remain poorly characterized. The study aimed to investigate the prevalence, clinical characteristics, and electrophysiological properties of concomitant AT in patients with BBRT.\n                  \n                  \n                    Methods\n                    Eighteen patients without SHD were enrolled. Detailed electrophysiological studies were performed to identify and characterize concomitant ATs. Catheter ablation was performed for both BBRT and atrial ATs.\n                  \n                  \n                    Results\n                    \n                      Among 18 patients with BBRT, 6 patients (33.3%; mean age 26.3 years) presented with a total of 7 ATs. Three patients had a history of AT ablation, two exhibited BBRT concomitant with AT during the index procedure, and two developed AT following BBRT ablation. All ATs originated from the right atrium, with the following distribution: coronary sinus ostium (CSO) (\n                      n\n                      = 4), typical atrial flutter (AFL) (\n                      n\n                      = 2) and mid\u2010crista terminalis (MCT) (\n                      n\n                      = 1). The mean tachycardia cycle length (TCL) was 337\u00b161\u00a0ms. Acute procedural success was achieved in all cases. During a mean follow\u2010up of 54.1\u00b126.0 months, all patients remained free from AT and BBRT recurrence. However, progressive deterioration of left ventricular function requiring cardiac resynchronization therapy occurred in one patient, and two patients developed ventricular enlargement.\n                    \n                  \n                  \n                    Conclusions\n                    Concomitant AT was observed in one\u2010third of patients with BBRT without SHD. Catheter ablation proved effective in treating both arrhythmias. Intensive long\u2010term monitoring of cardiac function is recommended in this population.",
-    "summary": "This retrospective case series of 18 patients without structural heart disease examined the prevalence and electrophysiological characteristics of concomitant atrial tachycardia (AT) in bundle branch reentry ventricular tachycardia (BBRT), finding AT in 33.3% of patients with origins predominantly at the coronary sinus ostium, and demonstrating acute procedural success with catheter ablation of both arrhythmias, though long-term follow-up revealed progressive ventricular dysfunction in some patients requiring close monitoring."
-  },
-  {
-    "title": "Direct His/LBB Pacing as an Alternative to Biventricular Pacing in Patients With HFrEF and a Typical LBBB: The His-Alternative II Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007784?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788229485.837807,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Delayed Ruptured Sinus of Valsalva: A Rare Late Complication of a Common Idiopathic PVC/VT Ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005386?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788229485.729481,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Association of the EHRA/HRS/APHRS/LHRS definition of atrial cardiomyopathy with incident atrial fibrillation, heart failure, and stroke",
-    "link": "https://doi.org/10.1093/europace/euag259",
-    "doi": "10.1093/europace/euag259",
-    "journal": "EP Europace",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "AFib",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Non-Pulmonary Vein Atrial Fibrillation Originating From a Left Atrial Roof Diverticulum",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.09.021",
-    "doi": "10.1016/j.hrcr.2026.09.021",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Unusual Findings in a Patient with Vagally Mediated Atrioventricular Block and Atrial Fibrillation",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.09.022",
-    "doi": "10.1016/j.hrcr.2026.09.022",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Dual-Energy Lattice-Tip Catheter Ablation for Post-Surgical Right Atrial Tachycardias: A Case Series",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.09.017",
-    "doi": "10.1016/j.hrcr.2026.09.017",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Challenging Transseptal Puncture for Atrial Fibrillation Ablation in a Patient with Complete Transposition of the Great Arteries and Left Juxtaposition of Bifid Right Atrial Appendage",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.09.019",
-    "doi": "10.1016/j.hrcr.2026.09.019",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Thoracoscopic tunneling tool-assisted substernal extravascular ICD implantation in a patient with prior sternotomy",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.09.018",
-    "doi": "10.1016/j.hrcr.2026.09.018",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulmonary Vein Gap-Related Reentrant Atrial Flutter Early After Pulsed Field Ablation",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.09.016",
-    "doi": "10.1016/j.hrcr.2026.09.016",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Response to \u2018Upgrade procedures of pacemakers or implantable cardioverter-defibrillators require creative clinical decision making and careful planning that begins at the first implantation\u2019",
-    "link": "https://doi.org/10.1093/europace/euag240",
-    "doi": "10.1093/europace/euag240",
-    "journal": "EP Europace",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Upgrade procedures of pacemakers or implantable cardioverter-defibrillators require creative clinical decision making and careful planning that begins at the first implantation",
-    "link": "https://doi.org/10.1093/europace/euag174",
-    "doi": "10.1093/europace/euag174",
-    "journal": "EP Europace",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsed Field Ablation in Proximity to a Retained Metallic Pericardial Foreign Body: Feasibility and Procedural Considerations",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.09.015",
-    "doi": "10.1016/j.hrcr.2026.09.015",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Purkinje De-networking to Treat Suspected Purkinje Originated PVC-triggered Ventricular Fibrillation.",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.09.014",
-    "doi": "10.1016/j.hrcr.2026.09.014",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Cardioneuroablation Reverses Inspiratory-Mediated Bradycardia and Syncope",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.09.013",
-    "doi": "10.1016/j.hrcr.2026.09.013",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Delayed Septal Perforation of Left Bundle Branch Pacing Lead Causing Severe Mitral Regurgitation",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.09.012",
-    "doi": "10.1016/j.hrcr.2026.09.012",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Letter to the Editor: Acute intraventricular obstruction: An underrecognized trigger of pacemaker-related takotsubo syndrome",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.08.027",
-    "doi": "10.1016/j.hrcr.2026.08.027",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Sep 01, 2026",
-    "date_ts": 1788220800.0,
-    "tags": [
-      "Devices"
     ],
     "hot": false
   }
