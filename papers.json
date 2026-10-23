@@ -1,5 +1,128 @@
 [
   {
+    "title": "Pulsed Field Ablation for Persistent Atrial Fibrillation",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMc2610073?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMc2610073",
+    "journal": "NEJM",
+    "date": "Oct 23, 2026",
+    "date_ts": 1792722051.988013,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "To the Editor: In the AVANT GUARD trial, Wazni et al. (June 25 issue) 1 report that pulsed field ablation (PFA) was superior to antiarrhythmic drugs as the initial treatment for persistent atrial fibrillation (hazard ratio for composite treatment failure, 0.46). However, safety related to this approach requires scrutiny. The trial was paused after six procedure-related strokes occurred. Before the trial pause, stroke occurred in 3.3% of the patients (6 of 183) assigned to the PFA group, a far greater percentage than the 0 to 0.1% observed in previous studies. 2,3 After resumption of the trial, the protocol excluded patients with a . . ."
+  },
+  {
+    "title": "Severe Atrial Compression Detected During Electroanatomical Mapping",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26009576?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 23, 2026",
+    "date_ts": 1792722050.877784,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Zero-Exchange Pulsed Field Ablation Using a Variable Loop Circular Catheter Without a Dedicated Mapping Catheter: An Interim Analysis From the Real-AF Registry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006100?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Oct 23, 2026",
+    "date_ts": 1792722050.768173,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Phenotype-Dependent Outcomes after Percutaneous Left Atrial Appendage Occlusion: A Single Health-System Retrospective Cohort Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006045?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Oct 23, 2026",
+    "date_ts": 1792722050.768097,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Incidence, Modifiable Risk Factors, and Management of Cardiomyopathy After Ventricular Leadless Pacemaker Implantation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028845?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 23, 2026",
+    "date_ts": 1792722050.668425,
+    "tags": [
+      "Devices",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of Surrounding Fluid Impedance on Contact Sensing Vulnerabilities and Staining Depth During Pulsed Field Ablation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028882?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 23, 2026",
+    "date_ts": 1792722050.66838,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulmonary Vein Isolation With Contact-Force-Sensing Large-Tip Focal Pulsed Field Ablation Catheter With 3D Mapping for Paroxysmal Atrial Fibrillation: Omny-IRE 12-month Results",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028699?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 23, 2026",
+    "date_ts": 1792722050.668293,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Mitral Valve Prolapse and Ventricular Arrhythmia Risk in TTN-Mediated Cardiomyopathy: A Single Center Experience",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029127?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 23, 2026",
+    "date_ts": 1792722050.668248,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Undiagnosed Arrhythmogenic Cardiomyopathy Hidden in Explanted Hearts: Insights from a Single Tertiary Center",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029115?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 23, 2026",
+    "date_ts": 1792722050.668203,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Zero-fluoroscopy approach to left atrial appendage closure using intracardiac echo guidance",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028961?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 23, 2026",
+    "date_ts": 1792722050.667991,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Atrial Cardiomyopathy in Hypertrophic Cardiomyopathy: From Compensation to Atrial Fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726077041?dgcid=rss_sd_all",
     "doi": null,
@@ -6072,133 +6195,5 @@
     "hot": false,
     "abstract": "Abstract\n                  \n                    Background and aim\n                    Atrial fibrillation is associated with increased risks of stroke, heart failure, and death. While stroke prevention is a key focus, heart failure is more frequent and a major contributor to mortality in atrial fibrillation. This study aimed to assess the incidence and timing of heart failure in screening-detected atrial fibrillation.\n                  \n                  \n                    Methods\n                    This post hoc analysis included participants without prior heart failure from the STROKESTOP and STROKESTOP II randomized screening studies, in which individuals aged 75\u201376 years were invited to ECG-based atrial fibrillation screening. Incident heart failure diagnoses were obtained from national registries. Incidence rates were calculated per 100 person-years, and Cox regression was used to estimate hazard ratios (HRs).\n                  \n                  \n                    Results\n                    In STROKESTOP, 23% of participants with screening-detected atrial fibrillation developed heart failure (3.76 per 100 person-years), compared with 4.43 in patients with known atrial fibrillation and 1.08 in patients without atrial fibrillation. Screening-detected atrial fibrillation was associated with a threefold higher heart failure risk vs. no atrial fibrillation (adjusted HR 3.19) and a risk comparable to known atrial fibrillation (adjusted HR 2.86). In STROKESTOP II, 20% developed heart failure (4.19 per 100 person-years), compared with 3.52 in known atrial fibrillation and 0.93 without atrial fibrillation. Screening-detected atrial fibrillation was associated with a fourfold higher heart failure risk vs. no atrial fibrillation (adjusted HR 4.73) and a higher risk than known atrial fibrillation (adjusted HR 2.59).\n                  \n                  \n                    Conclusion\n                    Screening-detected atrial fibrillation is associated with a high risk of heart failure, comparable to known atrial fibrillation, and is not a benign condition.",
     "summary": "This post hoc analysis of two randomized screening trials (STROKESTOP and STROKESTOP II; n not specified but elderly cohort aged 75-76 years) compared heart failure incidence in participants with screening-detected atrial fibrillation versus known atrial fibrillation and no atrial fibrillation, finding that screening-detected atrial fibrillation carried 3-4 fold increased heart failure risk comparable to known atrial fibrillation (20-23% developed heart failure during follow-up), challenging the notion that screen-detected atrial fibrillation is benign."
-  },
-  {
-    "title": "Selective Activation of Tetrodotoxin-Sensitive Sodium Channels by AaH-II Drives Arrhythmogenic Late Na+ Current in the Heart",
-    "link": "https://doi.org/10.1093/europace/euag249",
-    "doi": "10.1093/europace/euag249",
-    "journal": "EP Europace",
-    "date": "Sep 03, 2026",
-    "date_ts": 1788393600.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  Increased late sodium current (INaL) is a central mechanism underlying both inherited and acquired cardiac arrhythmias. Although Nav1.5 is the dominant cardiac sodium channel, multiple tetrodotoxin-sensitive (TTX-S) Nav isoforms are also expressed in cardiomyocytes, particularly within transverse tubules, where they influence excitation-contraction coupling. Whether these channels contribute directly to pathological INaL and arrhythmogenesis remains unresolved, in part because available pharmacological tools lack isoform selectivity. Herein, our objective was to determine the contribution of TTX-S Nav channels to pathological cardiac INaL and arrhythmia, and to establish selective pharmacological tools to dissect their role. Using automated patch-clamp and human Nav isoform profiling, we show that the reference INaL inducer ATX-II predominantly activates TTX-resistant Nav1.5 Nav channels. However, ATX-II lacks Nav isoform selectivity when inappropriately used, questioning the conclusions reached by numerous cardiac INaL studies. In contrast, AaH-II, a peptide from Androctonus australis hector scorpion venom, more selectively and potently enhances INaL through TTX-S Nav isoforms. In human iPS-derived cardiomyocytes TTX-S INaL leads to action potential prolongation. In adult ventricular cardiomyocytes, AaH-II induces abnormal Ca2+ handling and spontaneous Ca2+ release events. In isolated hearts and in vivo, selective TTX-S INaL activation produces conduction abnormalities, QT prolongation, and ventricular proarrhythmic events, which are prevented by nanomolar tetrodotoxin concentrations that spare Nav1.5. These findings demonstrate that TTX-S sodium channels are sufficient to generate arrhythmogenic late Na+ current in the heart, independently of Nav1.5. AaH-II provides a powerful new tool to selectively probe TTX-S INaL and reveals these channels as previously underappreciated contributors to cardiac electrical instability. Targeting TTX-S Nav channels may therefore represent a novel and potentially safer strategy for antiarrhythmic therapy.",
-    "summary": "This mechanistic study using automated patch-clamp electrophysiology, human iPS-derived cardiomyocytes, isolated hearts, and in vivo models demonstrates that tetrodotoxin-sensitive Nav isoforms (distinct from Nav1.5) are sufficient to generate pathological late sodium current and produce arrhythmias independent of the predominant cardiac sodium channel, suggesting TTX-sensitive Nav channels as a novel antiarrhythmic therapeutic target. The authors validated AaH-II scorpion venom peptide as a selective tool to probe these channels and showed that nanomolar tetrodotoxin selectively blocks their arrhythmogenic activity while sparing Nav1.5"
-  },
-  {
-    "title": "Incidence and Clinical Implications of Ventricular Tachycardia: A Population-based Approach",
-    "link": "https://doi.org/10.1093/europace/euag234",
-    "doi": "10.1093/europace/euag234",
-    "journal": "EP Europace",
-    "date": "Sep 03, 2026",
-    "date_ts": 1788393600.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Prognostic Value of Isolated PR Interval Prolongation After Transcatheter Aortic Valve Implantation",
-    "link": "https://doi.org/10.1093/europace/euag241",
-    "doi": "10.1093/europace/euag241",
-    "journal": "EP Europace",
-    "date": "Sep 03, 2026",
-    "date_ts": 1788393600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Combined Unipolar and Bipolar Voltage Mapping at Redo Ablation After Cryoballoon Pulmonary Vein Isolation: Associations With Subsequent Arrhythmia Recurrence",
-    "link": "https://doi.org/10.1093/europace/euag237",
-    "doi": "10.1093/europace/euag237",
-    "journal": "EP Europace",
-    "date": "Sep 03, 2026",
-    "date_ts": 1788393600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impaired Sinus Rate Behaviour During Ventricular Arrhythmia Is Associated With Adverse Outcomes in ICD Recipients",
-    "link": "https://doi.org/10.1093/europace/euag251",
-    "doi": "10.1093/europace/euag251",
-    "journal": "EP Europace",
-    "date": "Sep 03, 2026",
-    "date_ts": 1788393600.0,
-    "tags": [
-      "VT",
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Percutaneous Left Stellate Ganglion Block for Drug-Refractory Supraventricular Arrhythmias in Patients with Advanced Heart Failure and Cardiogenic Shock: A Pilot Study",
-    "link": "https://doi.org/10.1093/europace/euag243",
-    "doi": "10.1093/europace/euag243",
-    "journal": "EP Europace",
-    "date": "Sep 03, 2026",
-    "date_ts": 1788393600.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulmonary Vein Isolation Durability in a Randomized Trial comparing Fluoroscopy-only vs. Electroanatomic Mapping Strategies for Pulmonary Vein Isolation With Balloon-in-basket Pulsed-field Ablation",
-    "link": "https://doi.org/10.1093/europace/euag244",
-    "doi": "10.1093/europace/euag244",
-    "journal": "EP Europace",
-    "date": "Sep 03, 2026",
-    "date_ts": 1788393600.0,
-    "tags": [
-      "AFib",
-      "Imaging"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background\n                    Data on long-term durability of pulmonary vein isolation (PVI) with newer pulsed field ablation (PFA) platforms and incremental value of electroanatomic mapping (EAM) guidance remain limited. This study evaluated chronic PVI durability following ablation with a balloon-in-basket PFA catheter and compared outcomes of fluoroscopy-only versus fluoroscopy plus EAM workflows.\n                  \n                  \n                    Methods\n                    In this prospective, single-center trial, consecutive patients with paroxysmal or persistent atrial fibrillation (AF) underwent de novo PVI with a balloon-in-basket PFA catheter. Patients were randomized 1:1 to fluoroscopy-only or fluoroscopy plus EAM workflow. Systematic invasive remapping was planned &amp;gt;30 days after the index procedure. The dual primary efficacy endpoint was the proportion of pulmonary veins (PVs) and of patients with all PVs durably isolated. The prespecified secondary endpoint was the comparison of procedural characteristics and PVI durability between workflows. Safety outcomes included major adverse events within 30 days of index or remapping procedures.\n                  \n                  \n                    Results\n                    Ninety-six patients (67.4\u2009\u00b1\u20099.2 years, 44.8% female, 57.3% with paroxysmal AF) underwent index ablation. Fluoroscopy time and number of applications were 3.4 [2.4\u20134.6] minutes and 15 [13\u201316], respectively. Systematic remapping was performed in 86 patients at a median of 41 days, with per-vein and per-patient durability of 341/350 (97.4%), and 79/86 (91.9%) respectively. PVI durability and chronic remapping parameters were comparable between guidance strategies. No major adverse events occurred.\n                  \n                  \n                    Conclusion\n                    A standardized balloon-in-basket PFA workflow for PVI achieved high PVI durability. EAM guidance did not confer additional procedural or durability benefit over fluoroscopy-only guidance.",
-    "summary": "This prospective, single-center randomized trial of 96 patients with paroxysmal or persistent AF compared fluoroscopy-only versus fluoroscopy plus electroanatomic mapping guidance for pulmonary vein isolation using balloon-in-basket pulsed field ablation, demonstrating high chronic PVI durability (97.4% per-vein, 91.9% per-patient at median 41 days) with no significant difference between guidance strategies and no major adverse events. EAM guidance provided no additional procedural or durability benefit over fluoroscopy-only guidance."
-  },
-  {
-    "title": "Edoxaban Antithrombotic Therapy in Diabetic Patients with Atrial Fibrillation and Stable Coronary Artery Disease: The EPIC-CAD Trial",
-    "link": "https://doi.org/10.1093/europace/euag247",
-    "doi": "10.1093/europace/euag247",
-    "journal": "EP Europace",
-    "date": "Sep 03, 2026",
-    "date_ts": 1788393600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Aims\n                    The appropriate antithrombotic regimen for diabetic patients with atrial fibrillation (AF) and stable coronary artery disease (CAD) who are at high atherothrombotic risk remains uncertain. We evaluated whether the effects of different antithrombotic strategies differ according to diabetes status.\n                  \n                  \n                    Methods and Results\n                    The EPIC-CAD (Edoxaban versus Edoxaban with Antiplatelet Agent in Patients with Atrial Fibrillation and Chronic Stable Coronary Artery Disease) was a randomized trial comparing edoxaban monotherapy with dual antithrombotic therapy (edoxaban plus a single antiplatelet agent) in patients with AF and stable CAD. The primary outcome was a composite of death from any cause, myocardial infarction, stroke, systemic embolism, unplanned urgent revascularization, and major or clinically relevant nonmajor bleeding at 12 months. Among 1040 randomized patients, 421 (40.5%) had diabetes. There were no differences in the incidence of the primary outcome between diabetic and non-diabetic patients (9.7% vs. 11.6%; hazard ratio [HR] 0.82; 95% confidence interval [CI] 0.56-1.20; P=0.30). The incidence of the primary outcome at 12 months was significantly lower with edoxaban monotherapy than with dual antithrombotic therapy in both diabetic (6.3% vs. 13.7%; HR 0.44; 95% CI 0.23-0.83; P=0.01) and non-diabetic patients (6.7% vs. 16.3%; HR 0.39; 95% CI 0.23-0.65; P=0.001), with no significant interaction between diabetic status and randomized treatment strategy (P-for-interaction=0.78).\n                  \n                  \n                    Conclusions\n                    The risk of primary outcome was similar between diabetic and non-diabetic patients with AF and CAD. Irrespective of diabetes status, edoxaban monotherapy led to a lower risk of a primary outcome at 12 months than dual antithrombotic therapy.",
-    "summary": "This randomized controlled trial of 1,040 patients with atrial fibrillation and stable coronary artery disease (40.5% diabetic) compared edoxaban monotherapy versus edoxaban plus antiplatelet therapy, finding that edoxaban alone significantly reduced the composite primary outcome of death, MI, stroke, systemic embolism, urgent revascularization, or major bleeding at 12 months in both diabetic (6.3% vs. 13.7%) and non-diabetic patients (6.7% vs. 16.3%), with no differential effect by diabetes status. These findings suggest edoxaban monotherapy may be preferred over dual antithrombotic therapy"
-  },
-  {
-    "title": "Bleeding-Related Conditions, Procedural Safety, and Mortality After Left Atrial Appendage Closure",
-    "link": "https://doi.org/10.1093/europace/euag235",
-    "doi": "10.1093/europace/euag235",
-    "journal": "EP Europace",
-    "date": "Sep 03, 2026",
-    "date_ts": 1788393600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pulsed-Field Ablation for Atrial Fibrillation with an Extended Protocol: the Extended PFA Dose Study",
-    "link": "https://doi.org/10.1093/europace/euag253",
-    "doi": "10.1093/europace/euag253",
-    "journal": "EP Europace",
-    "date": "Sep 03, 2026",
-    "date_ts": 1788393600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
   }
 ]
