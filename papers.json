@@ -1,5 +1,53 @@
 [
   {
+    "title": "Author's reply to Targeting the Vein of Marshall in the Modern Era: Do We Still Need Ethanol?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028791?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 25, 2026",
+    "date_ts": 1792893911.287819,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Distal-to-Proximal Conduction System Ablation as a Bailout Strategy in Refractory Multi-Exit Purkinje-Related Premature Ventricular Contractions and Ventricular Fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029140?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 25, 2026",
+    "date_ts": 1792893911.287773,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Targeting the Vein of Marshall in the Modern Era: Do We Still Need Ethanol?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602878X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 25, 2026",
+    "date_ts": 1792893911.28773,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A Novel Method for Assessing Left Bundle Branch Capture Using the Bidirectional Conduction Time Difference Between Left Bundle Branch Area Pacing and Coronary Sinus Leads",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028894?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 25, 2026",
+    "date_ts": 1792893911.287539,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Cardiac Resynchronization Therapy Using a Conduction System Pacing Defibrillation Lead in Patients Meeting CRT-D Indications: Six-Month Clinical Outcomes Results From the ASCEND CSP Study",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26009527?dgcid=rss_sd_all",
     "doi": null,
@@ -2259,6 +2307,42 @@
     "date_ts": 1790823155.273074,
     "tags": [
       "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Generator-Impedance Mapping Delineates a Left Atrial Appendage Occluder Invisible on Voltage Maps",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.10.018",
+    "doi": "10.1016/j.hrcr.2026.10.018",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Remote Monitoring Failed to Predict Sudden Pacemaker Failure in a Recalled Device: A Case Report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.10.017",
+    "doi": "10.1016/j.hrcr.2026.10.017",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Wolf Parkinson White Syndrome After Orthotopic Heart Transplant: A Case Report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.10.019",
+    "doi": "10.1016/j.hrcr.2026.10.019",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
     ],
     "hot": false
   },
@@ -6099,90 +6183,5 @@
     ],
     "hot": false,
     "abstract": "ABSTRACT\n                  \n                    Background\n                    Pulsed field ablation (PFA) has emerged as a promising energy source for atrial fibrillation (AF) catheter ablation. This study aimed to describe the adoption and workflow optimization of a novel balloon\u2010in\u2010basket PFA catheter using a two rings balloon and pear strategy for pulmonary vein isolation (PVI), the pear workflow.\n                  \n                  \n                    Methods\n                    Consecutive all\u2010comer patients with AF underwent PFA using the balloon\u2010in\u2010basket PFA catheter under deep sedation. The pear workflow comprised a two\u2010step PVI protocol: (1) four antral PFA applications guided by initial PV angiography to confirm PV occlusion and lesion overlap through rotational deployment, followed by (2) two distal, pear\u2010shaped balloon applications targeting the PV sleeves. Three\u2010dimensional electroanatomic mapping with impedance\u2010based contact assessment was utilized. Procedural parameters, acute efficacy, and safety were analyzed.\n                  \n                  \n                    Results\n                    \n                      Fifty patients (62% paroxysmal AF, 42% female, mean age 68\u2009\u00b1\u200910 years) were enrolled. All PVs were successfully isolated. Median procedural and fluoroscopy times were 50\u2009min (IQR 41\u201350) and 7.2\u2009min (IQR 5.8\u201311.4), respectively, without significant change over the study course (50 vs. 47\u2009min for patients 1\u221225 and 26\u221250, respectively,\n                      p\n                      \u2009=\u20090.26). Additional ablation was performed in four patients, and concomitant left atrial appendage closure was performed in three. No major or minor complications occurred. Transient phrenic nerve stunning was observed in two patients, resolving before procedure completion.\n                    \n                  \n                  \n                    Conclusion\n                    The pear two\u2010step strategy enables rapid, efficient, and safe PVI using a balloon\u2010in\u2010basket PFA catheter, which, despite its anatomically based design, offers procedural versatility through integrated mapping with a minimal learning curve."
-  },
-  {
-    "title": "Time\u2010Dependent Diagnostic Yield and Therapeutic Impact of Implantable Loop Recorders, Brugada Syndrome as the Exception",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70469?af=R",
-    "doi": "10.1111/jce.70469",
-    "journal": "J Cardiovasc EP",
-    "date": "Sep 06, 2026",
-    "date_ts": 1788719415.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    The optimal duration of implantable loop recorder (ILR) monitoring remains uncertain and may differ according to the indication for implantation. We evaluated whether the time\u2010dependent diagnostic yield and clinical relevance of ILR\u2010detected arrhythmias differ among patients implanted for syncope, palpitations, cryptogenic stroke, or Brugada syndrome.\n                  \n                  \n                    Objective\n                    This study sought to define the time\u2010dependent diagnostic yield of ILRs across clinical indications and to assess whether early and late diagnoses differed in their impact on clinical management.\n                  \n                  \n                    Methods and Results\n                    We retrospectively analyzed 1734 consecutive patients undergoing ILR implantation at 5 Italian centers for unexplained syncope, palpitations, cryptogenic stroke, or Brugada syndrome. Diagnosis of interest was defined according to the implant indication: pauses for syncope, supraventricular tachycardia or atrial fibrillation for palpitations, atrial fibrillation for cryptogenic stroke, and ventricular tachycardia or pauses for Brugada syndrome. Median follow\u2010up was 34 months. Maximally selected rank statistics identified 26 months as the global threshold separating early from late diagnoses, while indication\u2010specific optimal diagnostic windows were 14 months for syncope, 13 months for palpitations, 16 months for cryptogenic stroke, and 55 months for Brugada syndrome. In syncope and palpitations, most actionable diagnoses occurred early, and diagnostic efficiency declined markedly after 26 months, with late findings often less clearly related to the index presentation. In cryptogenic stroke, atrial fibrillation detection was most frequent early but could still lead to changes in antithrombotic management later, supporting an individualized \u201cgray\u2010zone\u201d approach to prolonged monitoring. By contrast, Brugada syndrome showed sustained diagnostic yield over extended follow\u2010up, with late ventricular arrhythmias or pauses retaining major prognostic and therapeutic implications, including implantable cardioverter\u2010defibrillator implantation and device\u2010type selection.\n                  \n                  \n                    Conclusions\n                    The value of ILR monitoring is strongly time\u2010 and indication\u2010dependent. Prolonged routine monitoring or reimplantation appears to have limited incremental value in syncope and palpitations when early follow\u2010up is unrevealing, whereas extended surveillance may remain justified in Brugada syndrome and should be individualized after cryptogenic stroke. These observations support indication\u2010driven ILR follow\u2010up strategies rather than a uniform approach based on device longevity alone."
-  },
-  {
-    "title": "Long-term risk associated with atrial arrhythmias in the Malm\u00f6 Diet and Cancer Cohort",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005489?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 06, 2026",
-    "date_ts": 1788658868.290265,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Bachmann Bundle Pacing Is a Promising Modality for Lowering Incident Atrial Fibrillation: A Network Meta-Analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005465?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 06, 2026",
-    "date_ts": 1788658868.290223,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Timing of left atrial functional recovery and volumetric remodeling after radiofrequency catheter ablation for paroxysmal atrial fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005477?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 06, 2026",
-    "date_ts": 1788658868.290161,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Catheter Ablation of Atrial Arrhythmias After Orthotopic Heart Transplantation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027608?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 06, 2026",
-    "date_ts": 1788658868.127972,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "2026 HRS/PACES scientific statement on the use of antiarrhythmic drugs in understudied clinical scenarios",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126025804?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 06, 2026",
-    "date_ts": 1788658868.127932,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Imaging into the Conduction System: New Window and New Insights into the Conduction System from CT Images",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602761X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 06, 2026",
-    "date_ts": 1788658868.127872,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
   }
 ]
