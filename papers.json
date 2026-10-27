@@ -1,5 +1,83 @@
 [
   {
+    "title": "From mechanism to medicine: lumacaftor for trafficking-deficient long QT syndrome type 2",
+    "link": "https://doi.org/10.1093/eurheartj/ehag795",
+    "doi": "10.1093/eurheartj/ehag795",
+    "journal": "European Heart Journal",
+    "date": "Oct 26, 2026",
+    "date_ts": 1792972800.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Coupling Interval Variability of Outflow Tract Premature Ventricular Contractions: A Poincar\u00e9 Plot\u2010Based Assessment",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70541?af=R",
+    "doi": "10.1111/jce.70541",
+    "journal": "J Cardiovasc EP",
+    "date": "Oct 25, 2026",
+    "date_ts": 1792954999.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Purpose\n                    Coupling interval variability (\u0394CI) of premature ventricular contractions (PVCs) may provide insight into their site of origin. This study evaluated whether \u0394CI, quantified by Poincar\u00e9 graph analysis, can distinguish PVCs arising from the right ventricular outflow tract (RVOT) compared to other locations.\n                  \n                  \n                    Methods\n                    We screened 117 patients undergoing electroanatomical mapping and catheter ablation for PVCs. Exclusion criteria included: failed ablation, low PVC burden on Holter ECG, non\u2010sinus baseline rhythm, or absence of a qualifying Holter recording. Sixty patients met these criteria: 34 with RVOT PVCs, 11 with left ventricular outflow tract (LVOT) PVCs, and 15 with non\u2010RVOT PVCs. \u0394CI was assessed using Poincar\u00e9 plots derived from the Holter ECG recordings.\n                  \n                  \n                    Results\n                    \n                      A \u0394CI\u2009&lt;\u2009100\u2009ms predicted RVOT origin with a specificity of 100% and a sensitivity of 25%. Poincar\u00e9 plots effectively visualized CI variability, with narrow PVC clusters (measured along the\n                      x\n                      \u2010axis) corresponding to RVOT origin. Broader clusters were observed in LVOT and other non\u2010RVOT PVCs, reflecting greater variability.\n                    \n                  \n                  \n                    Conclusions\n                    \u0394CI, represented by Poincar\u00e9 plots, is a reliable and time\u2010efficient marker of RVOT PVC origin. Narrow PVC clusters with low \u0394CI strongly suggest RVOT localization, offering a practical adjunct to vectographic mapping in clinical ablation strategies."
+  },
+  {
+    "title": "Cerebral Safety of Two Pulsed Field Ablation Workflows for Pulmonary Vein Isolation: Results From the Randomized TWOSOME MRI Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70544?af=R",
+    "doi": "10.1111/jce.70544",
+    "journal": "J Cardiovasc EP",
+    "date": "Oct 25, 2026",
+    "date_ts": 1792954734.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Data on silent cerebral events/lesions (SCE/SCL) following pulsed field ablation (PFA) for pulmonary vein isolation (PVI) are limited. This study aimed to assess the incidence of SCE/SCL using cerebral magnetic resonance imaging (cMRI) in atrial fibrillation (AF) patients undergoing PVI with two distinct PFA systems and workflows.\n                  \n                  \n                    Methods\n                    In this prospective, single\u2010center TWOSOME MRI substudy, patients with paroxysmal AF were randomized 1:1 to single\u2010shot or single\u2010tip PFA. Single\u2010shot PVI was performed using a pentaspline PFA catheter (single\u2010transseptal access, PV\u2010angiography, no 3D mapping) and single\u2010tip PVI using a PFA generator with a focal ablation catheter (double\u2010transseptal access, 3D mapping). A predefined consecutive cohort underwent 1.5\u2010T cMRI 24\u2009h after the procedure. SCE were defined as acute cMRI\u2010detected lesions resolving on 6\u2010week follow\u2010up cMRI, and SCL as persistent lesions. Baseline characteristics, neurological symptoms, procedural data, and cMRI findings were assessed.\n                  \n                  \n                    Results\n                    \n                      Fifty patients underwent cMRI (25 per group). Acute SCE were detected in 3/50 patients (6%; 95% CI 1.3\u201316.5), with 1/25 (4%) in the single\u2010shot group and 2/25 (8%) in the single\u2010tip group (\n                      p\n                      \u2009=\u20091.00). All SCE resolved on follow\u2010up imaging, with no evidence of persistent SCL. One symptomatic stroke occurred in the single\u2010shot group, unrelated to PFA, and was attributed to air embolization during transseptal puncture. No permanent neurological deficits occurred.\n                    \n                  \n                  \n                    Conclusions\n                    \n                      In this exploratory cMRI study, both PFA workflows showed a low incidence of SCE without evidence of SCL or PFA\u2010related neurological complications. Larger studies are required to compare cerebral safety profiles of PFA technologies.\n                      Trial Registration:\n                      NCT07175727 (\n                      clinicaltrials.gov\n                      )."
+  },
+  {
+    "title": "Preprocedural Computed Tomography Guidance Improves Accuracy of Right Ventricular Septal Lead Placement in Pacemaker Implantation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70545?af=R",
+    "doi": "10.1111/jce.70545",
+    "journal": "J Cardiovasc EP",
+    "date": "Oct 25, 2026",
+    "date_ts": 1792954490.0,
+    "tags": [
+      "Devices",
+      "Imaging"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Accurate right ventricular septal lead placement is crucial for optimal pacemaker performance and procedural safety, yet conventional fluoroscopy\u2010guided implantation is limited by inter\u2010individual anatomical variability. We therefore examined whether preprocedural computed tomography (CT) can provide patient\u2010specific anatomical guidance to enable precise lead positioning.\n                  \n                  \n                    Methods and Results\n                    \n                      We retrospectively analyzed 501 consecutive patients who underwent initial dual\u2010chamber pacemaker implantation for bradycardia pacing (non\u2010CT\u2010guided,\n                      n\n                      \u2009=\u2009243; CT\u2010guided,\n                      n\n                      \u2009=\u2009258). In the CT\u2010guided group, the midseptal target was determined preoperatively using multiplanar reconstruction of CT images, and reference lines were projected onto the scout image to guide lead placement. We evaluated the total procedure time, fluoroscopy time, right ventricular lead electrical parameters, implantation site, and complications. CT guidance was associated with a higher rate of septal lead placement than non\u2010CT guidance (93.0% vs. 55.6%,\n                      p\n                      \u2009&lt;\u20090.001), whereas free\u2010wall lead placement was less frequent (7.0% vs. 44.4%,\n                      p\n                      \u2009&lt;\u20090.001). The procedural radiation dose was lower with CT guidance (CT\u2010guided, 100.2\u2009\u00b1\u2009124.6 mGy vs. non\u2010CT\u2010guided, 169.1\u2009\u00b1\u2009152.4 mGy;\n                      p\n                      \u2009&lt;\u20090.001). Among patients with complete atrioventricular block and available postoperative paced QRS measurements (\n                      n\n                      \u2009=\u2009303), QRS duration was shorter in the CT\u2010guided group than in the non\u2010CT\u2010guided group (145.3\u2009\u00b1\u200922.3\u2009ms [\n                      n\n                      \u2009=\u2009165] vs. 155.4\u2009\u00b1\u200919.0\u2009ms [\n                      n\n                      \u2009=\u2009138],\n                      p\n                      \u2009&lt;\u20090.001). The association persisted after multivariable adjustment ((adjusted OR, 10.30; 95% CI, 5.91\u201317.97;\n                      p\n                      \u2009&lt;\u20090.001). The total procedure time, fluoroscopy time, and pacing parameters were comparable between the groups. Complication rates were low overall, and pocket hematoma was less frequent in the CT\u2010guided group (0.4% vs. 2.9%,\n                      p\n                      \u2009=\u20090.03).\n                    \n                  \n                  \n                    Conclusion\n                    Preprocedural CT guidance facilitated precise planning of the right ventricular lead target using scout images and was associated with accurate and reproducible placement at the intended septal site without prolonging procedural time or compromising electrical performance. This approach may represent a practical strategy for optimizing lead placement in bradycardia pacing."
+  },
+  {
+    "title": "Cavotricuspid Isthmus Ablation Using a Variable Loop Pulsed Field Ablation Catheter: A Single\u2010Center Descriptive Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70538?af=R",
+    "doi": "10.1111/jce.70538",
+    "journal": "J Cardiovasc EP",
+    "date": "Oct 25, 2026",
+    "date_ts": 1792954375.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Cavotricuspid isthmus (CTI) ablation is frequently performed concomitant with pulmonary vein isolation (PVI). Pulsed field ablation (PFA) has emerged as the preferred energy source for PVI, but it is unclear whether CTI ablation can be performed with PFA catheters.\n                  \n                  \n                    Methods\n                    We retrospectively analyzed data from patients who underwent PVI and CTI ablation using a variable\u2010loop PFA catheter for feasibility, efficacy, and safety.\n                  \n                  \n                    Results\n                    Twenty\u2010three patients (mean age 65 years, 57% male) were included in this analysis. Systemic intravenous nitroglycerin was administered to all subjects to prevent vasospasm. Acute CTI block could be documented in all patients at the end of the ablation procedure without complications and with low fluoroscopy exposure. We observed one symptomatic recurrence of possible typical atrial flutter during a mean follow\u2010up of 218 days.\n                  \n                  \n                    Conclusion\n                    CTI ablation using a variable\u2010loop PFA ablation catheter was feasible, efficient, and safe in the acute setting. Prospective studies with larger patient numbers are needed to evaluate the long\u2010term efficacy and safety of this approach."
+  },
+  {
+    "title": "Artifactual Contact Force Rise During High\u2010Power Radiofrequency Delivery With the QDOT MICRO Catheter: A Comparative Study Using Non\u2010Contact Tests",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70535?af=R",
+    "doi": "10.1111/jce.70535",
+    "journal": "J Cardiovasc EP",
+    "date": "Oct 25, 2026",
+    "date_ts": 1792954324.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Contact force (CF)\u2010sensing technology ensures effective lesion formation and safety during radiofrequency (RF) ablation; however, the potential for an artifactual rise in CF, a false elevation not attributed to physical contact, remains poorly understood. This study aimed to evaluate and compare the occurrence and magnitude of artifactual CF rise between the QDOT MICRO catheter (QMc) and the Thermocool SmartTouch SF catheter (STSFc) using a non\u2010contact RF delivery (NCRD) test.\n                  \n                  \n                    Methods and Results\n                    \n                      We retrospectively analyzed 135 patients who underwent NCRD testing in the right atrium (QMc,\n                      n\n                      \u2009=\u200993; STSFc,\n                      n\n                      \u2009=\u200942). The NCRD test was performed in a blood pool without tissue contact at power settings of 90, 50, and 40\u2009W for QMc and 50 and 40\u2009W for STSFc. The magnitude and incidence of CF rise (\u2265\u20095 and \u2265\u200910\u2009g) were compared.\n                    \n                    \n                      In the QMc group, a significant power\u2010dependent increase in CF was observed: 9\u2009g (IQR: 5\u201312\u2009g) at 90\u2009W, 3\u2009g (IQR: 1\u201310\u2009g) at 50\u2009W, and 2\u2009g (IQR: 1\u20133\u2009g) at 40\u2009W (\n                      p\n                      \u2009&lt;\u20090.001). At 90\u2009W, the incidence of CF rise \u2265\u20095\u2009g was 76%, and that of CF rise \u2265\u200910\u2009g was 46%, significantly higher than at lower settings. In contrast, the STSFc group exhibited stable CF measurements with no instances of CF rise \u2265\u20095\u2009g. QMc also showed significant power\u2010dependent elevation in electrode temperature.\n                    \n                  \n                  \n                    Conclusion\n                    QMc exhibited significant power\u2010dependent artifactual CF rise. These findings suggest that catheter\u2010specific design and thermal effects may influence CF stability during RF delivery. Preprocedural NCRD tests may help identify catheter\u2010specific CF instability before CF\u2010guided ablation."
+  },
+  {
     "title": "Author's reply to Targeting the Vein of Marshall in the Modern Era: Do We Still Need Ethanol?",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028791?dgcid=rss_sd_all",
     "doi": null,
@@ -2307,6 +2385,18 @@
     "date_ts": 1790823155.273074,
     "tags": [
       "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Exercise-Induced 2:1 Atrioventricular Block as an Early Manifestation of Cardiac Sarcoidosis in a Middle-Aged Man",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.10.021",
+    "doi": "10.1016/j.hrcr.2026.10.021",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "Other"
     ],
     "hot": false
   },
@@ -6095,93 +6185,5 @@
     ],
     "hot": false,
     "abstract": "ABSTRACT\n                  Premature atrial contractions (PACs) are not generally considered a cause of arrhythmia\u2010induced cardiomyopathy, although a high PAC burden has been reported to induce this entity in several cases. We present the case of a 36\u2010year\u2010old man who presented with severe left ventricular systolic dysfunction and was subsequently found to have frequent monomorphic PACs (28% burden). Cardiac magnetic resonance imaging excluded ischemic, infiltrative, and inflammatory cardiomyopathies. As the frequent PACs were considered a potential cause of the cardiomyopathy, electroanatomic mapping localized a single ectopic focus at the coronary sinus ostium, and radiofrequency catheter ablation was successfully performed. At 3\u2010month follow\u2010up, left ventricular ejection fraction improved to 50%, left ventricular dimensions decreased, and marked reverse remodeling was observed. This case highlights frequent PACs as a reversible cause of cardiomyopathy and emphasizes the importance of early recognition and catheter ablation in selected patients."
-  },
-  {
-    "title": "Pacemaker Implantation in Patients With Syncope, Bundle Branch Block and Negative Electrophysiological Study",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70425?af=R",
-    "doi": "10.1111/pace.70425",
-    "journal": "PACE",
-    "date": "Sep 07, 2026",
-    "date_ts": 1788751986.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    The long\u2011term need for permanent pacemaker (PM) implantation in patients with syncope, bundle branch block (BBB), and a negative electrophysiological study (EPS) is not well defined.\n                  \n                  \n                    Methods and Results\n                    \n                      We retrospectively analyzed consecutive patients undergoing EPS for syncope and any type of BBB between May 2012 and December 2023 at our Institution. Only individuals with a negative EPS and no pre\u2011existing indication for pacing were included. The primary endpoint was PM implantation during follow\u2011up. Eighty\u2010nine patients with a negative EPS were included (median age 80 years; 63% male). An implantable loop recorder (ILR) was used in 57 patients (64%). At the time of EPS, 36 patients (40%) reported a single lifetime syncope, whereas 53 (60%) had multiple episodes (\u22652). Over a median follow\u2010up of 29.5 months, 33 patients (37%) underwent PM implantation, with cumulative rates of 28%, 32%, and 35% at 1, 2, and 3 years, respectively, reaching 46% at 7 years. On multivariate analysis, a history of multiple syncope (hazard ratio 2.39, 95% CI 1.03\u20135.53,\n                      p\n                      = 0.042) and ILR use (hazard ratio 2.44, 95% CI 1.04\u20135.73,\n                      p\n                      = 0.040) independently predicted PM implantation, while baseline conduction abnormalities and HV interval did not.\n                    \n                  \n                  \n                    Conclusion\n                    Our findings highlighted the limited negative predictive value of EPS in patients with syncope and BBB. During extended follow\u2010up, PM implantation is frequent and found to be associated with a clinical history of recurrent syncope and the use of ILR."
-  },
-  {
-    "title": "Clues From the Device: Individualized Programming to Solve a Pacing\u2010Facilitated AVNRT",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70416?af=R",
-    "doi": "10.1111/pace.70416",
-    "journal": "PACE",
-    "date": "Sep 07, 2026",
-    "date_ts": 1788751949.0,
-    "tags": [
-      "SVT"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  A dual\u2010chamber pacemaker patient with sick sinus syndrome presented with a slow, long\u2010RP\u2032 tachycardia. Device interrogation revealed that a spontaneous PVC reset the tachycardia, excluding atrial tachycardia. A subsequent atrial paced beat advanced the next QRS, excluding junctional tachycardia and implicating the slow pathway in the reentrant circuit. Diagnosis of AVNRT was confirmed. Shortening the AV delay terminated all episodes. This case demonstrates the diagnostic utility of pacemaker algorithms and the value of individualized programming."
-  },
-  {
-    "title": "Chlorhexidine or Povidone\u2010Iodine for CIED Procedures? Lessons From CHLOVIS and WRAP\u2010IT",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70422?af=R",
-    "doi": "10.1111/pace.70422",
-    "journal": "PACE",
-    "date": "Sep 07, 2026",
-    "date_ts": 1788751882.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Spontaneous Termination of an SVT. What Is The Mechanism?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70432?af=R",
-    "doi": "10.1111/pace.70432",
-    "journal": "PACE",
-    "date": "Sep 07, 2026",
-    "date_ts": 1788751724.0,
-    "tags": [
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Predictors of Early Versus Late Atrial Tachyarrhythmia Recurrence After Cryoballoon Ablation by Atrial Fibrillation Type",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70420?af=R",
-    "doi": "10.1111/pace.70420",
-    "journal": "PACE",
-    "date": "Sep 07, 2026",
-    "date_ts": 1788751262.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Patient characteristics and predictors of early (ERAT) and late (LRAT) recurrence of atrial tachyarrhythmia by atrial fibrillation (AF) type after cryoballoon ablation (CBA) remain poorly defined.\n                  \n                  \n                    Methods\n                    Using the Korean Heart Rhythm Cryoballoon Registry (12 centers, 2018\u20132022), 2051 patients undergoing CBA for drug\u2010refractory AF were stratified by AF type. ERAT was defined as atrial tachyarrhythmia within the 3\u2010month blanking period and LRAT as recurrence beyond 3 months. Independent predictors of ERAT (all patients) and LRAT (patients without ERAT) were identified.\n                  \n                  \n                    Results\n                    \n                      ERAT occurred in 631 patients (30.8%; 17.6% in paroxysmal and 40.4% in persistent AF). Among 1420 patients without ERAT, LRAT occurred in 311 (21.9%; 16.7% paroxysmal, 27.2% persistent). In paroxysmal AF, coronary artery disease (HR 1.60; 95% CI, 1.00\u20132.56;\n                      p\n                      = 0.048) and LA enlargement (HR 1.07; 95% CI, 1.04\u20131.10;\n                      p\n                      &lt; 0.001) predicted ERAT, whereas hypertrophic cardiomyopathy (HR 5.01; 95% CI, 2.20\u201311.42;\n                      p\n                      &lt; 0.001) and LA enlargement (HR 1.04; 95% CI, 1.01\u20131.08;\n                      p\n                      = 0.019) predicted LRAT. In persistent AF, AF duration (HR 1.04; 95% CI, 1.02\u20131.06;\n                      p\n                      &lt; 0.001) and LA enlargement (HR 1.03; 95% CI, 1.02\u20131.04;\n                      p\n                      &lt; 0.001) predicted ERAT, and LA enlargement (HR 1.03; 95% CI, 1.01\u20131.05;\n                      p\n                      = 0.010) independently predicted LRAT.\n                    \n                  \n                  \n                    Conclusion\n                    Predictors of ERAT and LRAT differed between patients with paroxysmal and those with persistent AF. LA enlargement was the most consistently shared predictor across recurrence phenotypes."
-  },
-  {
-    "title": "Clinical outcomes of Left Cardiac Sympathetic Denervation for the treatment of pediatric inherited arrhythmias",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005532?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 07, 2026",
-    "date_ts": 1788745117.016877,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Pear Strategy for Two\u2010Ring Pulmonary Vein Isolation: Antral and Sleeve Ablation Using a Balloon\u2010in\u2010Basket Pulsed Field Ablation Catheter",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70489?af=R",
-    "doi": "10.1111/jce.70489",
-    "journal": "J Cardiovasc EP",
-    "date": "Sep 06, 2026",
-    "date_ts": 1788719666.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Pulsed field ablation (PFA) has emerged as a promising energy source for atrial fibrillation (AF) catheter ablation. This study aimed to describe the adoption and workflow optimization of a novel balloon\u2010in\u2010basket PFA catheter using a two rings balloon and pear strategy for pulmonary vein isolation (PVI), the pear workflow.\n                  \n                  \n                    Methods\n                    Consecutive all\u2010comer patients with AF underwent PFA using the balloon\u2010in\u2010basket PFA catheter under deep sedation. The pear workflow comprised a two\u2010step PVI protocol: (1) four antral PFA applications guided by initial PV angiography to confirm PV occlusion and lesion overlap through rotational deployment, followed by (2) two distal, pear\u2010shaped balloon applications targeting the PV sleeves. Three\u2010dimensional electroanatomic mapping with impedance\u2010based contact assessment was utilized. Procedural parameters, acute efficacy, and safety were analyzed.\n                  \n                  \n                    Results\n                    \n                      Fifty patients (62% paroxysmal AF, 42% female, mean age 68\u2009\u00b1\u200910 years) were enrolled. All PVs were successfully isolated. Median procedural and fluoroscopy times were 50\u2009min (IQR 41\u201350) and 7.2\u2009min (IQR 5.8\u201311.4), respectively, without significant change over the study course (50 vs. 47\u2009min for patients 1\u221225 and 26\u221250, respectively,\n                      p\n                      \u2009=\u20090.26). Additional ablation was performed in four patients, and concomitant left atrial appendage closure was performed in three. No major or minor complications occurred. Transient phrenic nerve stunning was observed in two patients, resolving before procedure completion.\n                    \n                  \n                  \n                    Conclusion\n                    The pear two\u2010step strategy enables rapid, efficient, and safe PVI using a balloon\u2010in\u2010basket PFA catheter, which, despite its anatomically based design, offers procedural versatility through integrated mapping with a minimal learning curve."
   }
 ]
