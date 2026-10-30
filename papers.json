@@ -1,5 +1,80 @@
 [
   {
+    "title": "Revisiting the Ischemic Cascade Using the Lens of Generative Artificial Intelligence",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008698?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 30, 2026",
+    "date_ts": 1793330302.509933,
+    "tags": [
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Anatomical Insight Into Idiopathic Ventricular Arrhythmias Originating From the Papillary Muscles",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600887X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Oct 30, 2026",
+    "date_ts": 1793330302.509865,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Stroke Risk Prediction in Patients with Atrial Fibrillation: Simplicity, Complexity, and the Modern Paradigm Shift",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029139?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 30, 2026",
+    "date_ts": 1793330302.311517,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed field, cryoballoon or radiofrequency catheter ablation of atrial fibrillation in hypertrophic cardiomyopathy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029292?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Oct 30, 2026",
+    "date_ts": 1793330302.311351,
+    "tags": [
+      "AFib",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Concomitant Aveir AR and Micra AV2 Hybrid Leadless Implantation During Infected Pacemaker Extraction",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70487?af=R",
+    "doi": "10.1111/pace.70487",
+    "journal": "PACE",
+    "date": "Oct 29, 2026",
+    "date_ts": 1793244188.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  Leadless pacing is an important option for patients with device\u2010related infections. In those requiring dual\u2010chamber support, reduced atrial battery longevity due to continuous implant\u2010to\u2010implant (i2i) communication remains a concern. While recent software updates now allow for the disablement of i2i communication when clinically appropriate, this mode does not provide atrioventricular synchronous pacing. We describe a case of a hybrid leadless system combining an atrial leadless pacemaker (Aveir AR, Abbott) and a second leadless pacemaker capable of atrial mechanical\u2010sensed ventricular pacing (Micra AV2, Medtronic) in the setting of extraction of an infected transvenous pacemaker, providing atrial pacing with ventricular backup capability while preserving atrial device longevity."
+  },
+  {
+    "title": "Insertable Cardiac Monitoring in Pediatric Patients: A Real\u2010World Single\u2010Center Experience With a New\u2010Generation Device",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70485?af=R",
+    "doi": "10.1111/pace.70485",
+    "journal": "PACE",
+    "date": "Oct 29, 2026",
+    "date_ts": 1793244053.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Insertable cardiac monitors (ICMs) are increasingly used in pediatric patients, yet data on new\u2010generation devices remain limited. The aim of this retrospective study was to describe a single\u2010center real\u2010world experience with a new\u2010generation ICM in pediatric patients, focusing on procedural feasibility, sensing performance, transmission burden, and user experience.\n                  \n                  \n                    Methods\n                    Consecutive patients aged \u226418 years undergoing LUX\u2010Dx ICM implantation between 2023 and 2025 were included. Procedural characteristics, sensing parameters, transmission patterns, diagnostic yield, reprogramming strategies, and patient/caregiver\u2010reported experience were analyzed. Data are reported as median (25th\u201375th percentile) or mean\u00a0\u00b1\u00a0standard deviation.\n                  \n                  \n                    Results\n                    Twenty\u2010nine patients underwent ICM implantation. Procedures were brief (6\u00a0\u00b1\u00a02\u00a0min) and complication\u2010free. Electrical parameters were satisfactory and stable at discharge. Follow\u2010up was 18 (6\u201323) months. A median of 2.7 transmissions per patient\u2010month were received, of which 55% were alerts. Time from arrhythmia detection to transmission was 15 (3\u201321) hours. The number of episodes per patient was 4.8 (3.1\u201315.9) per month, with substantial inter\u2010patient variability and bradycardia being the most frequent detection (80%). A diagnostic conclusion was reached in 79% of patients (positive: 45%, negative: 34%) at a median of 3 months. Reprogramming was performed in 90% of patients, mainly remotely (77%), and was predominantly directed toward reducing detection sensitivity. Patient and caregiver acceptance of remote monitoring was high.\n                  \n                  \n                    Conclusions\n                    In pediatric patients, new\u2010generation ICM implantation was safe, well tolerated, and associated with stable sensing performance. Remote monitoring and reprogramming enabled timely diagnosis and individualized optimization, supporting the clinical utility of contemporary ICMs in this population."
+  },
+  {
     "title": "In Memoriam: David S. Cannom, MD, FHRS, 1940\u20132026",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26009412?dgcid=rss_sd_all",
     "doi": null,
@@ -287,6 +362,71 @@
       "Other"
     ],
     "hot": false
+  },
+  {
+    "title": "Feasibility of Left Bundle Branch Pacing and Management of Jailed Leads After Transcatheter Tricuspid Valve Implantation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70464?af=R",
+    "doi": "10.1111/pace.70464",
+    "journal": "PACE",
+    "date": "Oct 29, 2026",
+    "date_ts": 1793243697.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  Atrioventricular conduction disturbances and the need for cardiac implantable electronic device (CIED) therapy are frequently required after transcatheter tricuspid valve implantation (TTVI). The interaction between the annulus, transcatheter heart valve and the leads is often complex and the optimal management under debate. We prospectively included 36 patients undergoing TTVI between June 2021 and January 2025. 14 patients had a preexisting CIED. 11 patients experienced right ventricular lead\u2010jailing without signs for early or delayed lead failure after one year, one patient underwent lead extraction and two patients had a leadless pacemaker. In four patients, a pacemaker in LBBAP was successfully implanted due to new\u2010onset postoperative atrioventricular block. The device measurements as well as the valve function remained stable over a follow\u2010up of at least one up to 2.5 years with persistent LBB\u2010capture. This case series demonstrates that LBBAP following TTVI is feasible with encouraging early outcomes. Careful patient selection and dedicated follow\u2010up are essential for patients with CIED treated with TTVI."
+  },
+  {
+    "title": "Malignant Ventricular Arrhythmias following Pulsed Field Ablation for Atrial Fibrillation: A systematic review of published cases and mechanistic insights",
+    "link": "https://doi.org/10.1093/europace/euag303",
+    "doi": "10.1093/europace/euag303",
+    "journal": "EP Europace",
+    "date": "Oct 29, 2026",
+    "date_ts": 1793232000.0,
+    "tags": [
+      "AFib",
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left Atrial Appendage Occlusion Versus Oral Anticoagulation in Atrial Fibrillation: A Comprehensive Evidence Synthesis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70476?af=R",
+    "doi": "10.1111/pace.70476",
+    "journal": "PACE",
+    "date": "Oct 28, 2026",
+    "date_ts": 1793188825.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Oral anticoagulation (OAC) remains the cornerstone of stroke prevention in atrial fibrillation (AF) but is limited by bleeding risk. Left atrial appendage occlusion (LAAO) devices offer an alternative; however, recent randomized trials have reported inconsistent efficacy compared with OAC.\n                  \n                  \n                    Methods\n                    We conducted a systematic review and meta\u2010analysis of randomized controlled trials (RCTs) comparing LAAO with OAC through April 1, 2026, using MEDLINE, EMBASE, and Cochrane CENTRAL. Eligible studies enrolled adults (\u226518 years) with AF randomized to LAAO or OAC. Primary and secondary outcomes were pooled as risk ratios (RR) with 95% confidence intervals (CIs). Individual patient\u2010level data (IPD) were reconstructed from published Kaplan\u2013Meier curves for time\u2010to\u2010event sensitivity analyses.\n                  \n                  \n                    Results\n                    \n                      Six RCTs (\n                      n\n                      = 7,004; mean age 72 years; CHA\n                      2\n                      DS\n                      2\n                      \u2011VASc 3.9; HAS\u2011BLED 1.7; mean follow\u2010up 38 months) were included. LAAO showed no significant difference in ischemic stroke (RR 1.20, 95% CI 0.82\u20131.76), major bleeding (RR 0.77, 95% CI 0.50\u20131.17), or all\u2010cause mortality (RR 0.96, 95% CI 0.82\u20131.13) compared with OAC. Hemorrhagic stroke risk was significantly lower with LAAO (RR 0.53, 95% CI 0.30\u20130.93). Reconstructed IPD demonstrated similar stroke and bleeding risks (HR 1.24 and 0.84, respectively) but lower all\u2010cause mortality with LAAO (HR 0.70, 95% CI 0.52\u20130.95).\n                    \n                  \n                  \n                    Conclusion\n                    LAAO provides comparable ischemic stroke prevention and major bleeding outcomes to OAC and reduces hemorrhagic stroke risk. Reconstructed IPD analyses suggest a possible mortality benefit that warrants further investigation. Future studies using contemporary devices and post\u2010ablation populations are needed to refine patient selection and further characterize the comparative clinical outcomes of LAAO and OAC in AF patients."
+  },
+  {
+    "title": "Ventricular False Tendons and Ventricular Arrhythmias: Distinguishing Incidental Findings From Culprit Substrates",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70483?af=R",
+    "doi": "10.1111/pace.70483",
+    "journal": "PACE",
+    "date": "Oct 28, 2026",
+    "date_ts": 1793179086.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  Ventricular false tendons are fibrous or fibromuscular cords that cross the ventricular cavity. Some contain Purkinje tissue and have been implicated in premature ventricular complexes, left posterior fascicular ventricular tachycardia, and, rarely, ventricular fibrillation. However, false tendons are also common in healthy hearts, so their visibility does not establish causality. This narrative review critically appraises the evidence and addresses three unresolved mechanistic questions. First, it is unclear whether a posteroseptal tendon forms the circuit of fascicular tachycardia or carries part of the adjacent Purkinje network. Control data are lacking, and ablation lesions involve both structures. Second, the slow, decremental, and verapamil\u2010sensitive conduction of the P1 pathway may reflect abnormal Purkinje tissue, reduced electrical coupling, or mixed tissue composition. Third, successful ablation sites cluster at tendon insertions. We propose a junctional hypothesis in which the insertion, where a thin Purkinje\u2010containing cord must depolarize a large myocardial mass, may form an arrhythmogenic interface. This model is untested but may account for insertion\u2010based targets, verapamil sensitivity, and exit shifts. We also propose a graded framework that classifies a tendon as an unlikely, possible, probable, or definite culprit. A definite grade requires concordant anatomical, electrical, imaging, and procedural evidence plus at least one observation that separates the tendon from adjacent tissue. By these criteria, most reported culprit tendons are probable rather than definite. A false tendon is best regarded as a visible segment of the Purkinje network whose arrhythmogenic potential may depend on how and where it couples to the myocardium."
+  },
+  {
+    "title": "Outcomes of Subcutaneous Implantable Cardioverter Defibrillators in Patients Being Considered for Heart Transplantation: A Retrospective Cohort Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70469?af=R",
+    "doi": "10.1111/pace.70469",
+    "journal": "PACE",
+    "date": "Oct 28, 2026",
+    "date_ts": 1793177222.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Subcutaneous implantable cardioverter defibrillators (S\u2010ICD) are an alternative to transvenous devices (TV\u2010ICD) in patients not requiring bradycardia pacing, resynchronization (CRT) or anti\u2010tachycardia pacing (ATP). At our center, S\u2010ICDs are often preferred in patients being considered for heart transplantation (HTx) without pacing/CRT/ATP needs, as their removal post\u2010HTx avoids retained transvenous leads which can preclude MRI surveillance for graft rejection. We assessed outcomes of S\u2010ICDs in this population.\n                  \n                  \n                    Methods\n                    We retrospectively reviewed 201 S\u2010ICD implants at our center; July 2016 \u2010 March 2025.\n                  \n                  \n                    Results\n                    \n                      We identified 33 patients (22 male; age\u00a046\u00a0\u00b1\u00a013 years) who, at time of S\u2010ICD implant, had been referred for HTx evaluation or were referred at any time thereafter. Etiologies were nonischemic cardiomyopathy (\n                      n\n                      = 18), hypertrophic cardiomyopathy (\n                      n\n                      = 5), ischemic cardiomyopathy (\n                      n\n                      = 4), congenital heart disease (\n                      n\n                      = 4), and myocarditis (\n                      n\n                      = 2). Median follow\u2010up was 296 days [IQR = 72\u2013798]. Two patients died, both non\u2010arrhythmic. Four patients received appropriate S\u2010ICD therapies and three had inappropriate shocks due to P\u2010 or T\u2010wave oversensing (TWOS) (\n                      n\n                      = 2), or a rapidly conducted atrial arrhythmia (\n                      n\n                      = 1). Three patients, all with hypertrophic cardiomyopathy, received transvenous device upgrades: one to CRT\u2010P for disease progression, one to TV\u2010ICD for ATP\u2010terminable ventricular tachycardia and one to TV\u2010ICD due to inappropriate shocks from TWOS. Thirteen patients underwent HTx at median 257 days [IQR = 130\u2013453] post S\u2010ICD; three of whom were bridged with HeartMate 3 LVADs. One LVAD patient needed S\u2010ICD deactivation due to electromagnetic interference. There were no retained device components following HTx and S\u2010ICD extraction.\n                    \n                  \n                  \n                    Conclusion\n                    In selected pre\u2010HTx patients, S\u2010ICDs offer arrhythmic protection while avoiding retained leads post\u2010HTx."
   },
   {
     "title": "Editorial Board",
@@ -3012,6 +3152,56 @@
     "date_ts": 1790823155.273074,
     "tags": [
       "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of obesity on clinical outcomes and the treatment effect of catheter ablation in atrial fibrillation: insights from CABANA",
+    "link": "https://doi.org/10.1093/europace/euag293",
+    "doi": "10.1093/europace/euag293",
+    "journal": "EP Europace",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Obesity and atrial fibrillation (AF) are global epidemics, often co-existing and compounding cardiovascular risk. While catheter ablation has emerged as an effective strategy for rhythm control in symptomatic AF, it remains unclear whether obesity modifies its benefit. This post hoc analysis of the CABANA trial investigates the influence of baseline obesity on clinical outcomes after catheter ablation vs. drug therapy in AF patients.\n                  \n                  \n                    Methods and results\n                    A total of 2170 CABANA participants with available body mass index (BMI) were included. Obesity was defined by BMI \u2265 30\u2005kg/m2, and Class II obesity by BMI \u2265 35\u2005kg/m2. Adverse outcomes, AF recurrence, and functional status were analysed using Cox, mixed-effects, and generalized estimating equation models, assessing treatment-by-obesity interactions. Obese patients exhibited higher comorbidity burden, worse baseline functional status, and more persistent AF compared to non-obese counterparts. Higher BMI was associated with increased cardiovascular hospitalization and a higher New York Heart Association functional class. Catheter ablation significantly reduced the risk of AF recurrence and improved symptom burden and functional capacity, irrespective of obesity status. No significant interaction was found between BMI and treatment effect on the primary composite endpoint of cardiovascular hospitalization or all-cause mortality. However, patients with Class II obesity or higher had worse absolute outcomes despite similar relative benefits from ablation.\n                  \n                  \n                    Conclusion\n                    While obesity is associated with worse baseline status and outcomes, it was not shown to significantly alter the relative effectiveness of AF ablation compared to drug therapy. These findings support a multifaceted approach integrating rhythm control with upstream interventions targeting obesity-related atrial remodelling and comorbidity management."
+  },
+  {
+    "title": "Impact of obesity on procedural safety and 1-year outcomes after pulsed-field ablation for atrial fibrillation",
+    "link": "https://doi.org/10.1093/europace/euag288",
+    "doi": "10.1093/europace/euag288",
+    "journal": "EP Europace",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Obesity is associated with atrial fibrillation (AF), atrial remodelling, and cardiometabolic comorbidities. Whether baseline body mass index (BMI) influences procedural safety and effectiveness of pulsed-field ablation (PFA) remains uncertain. We evaluated the association of baseline BMI with procedural characteristics, periprocedural safety, and 1-year arrhythmia recurrence after first-time PFA for AF.\n                  \n                  \n                    Methods and results\n                    FRANCE-PFA is a nationwide registry including consecutive patients undergoing first-time AF ablation with a pentaspline PFA catheter. Patients with available BMI were categorized as &amp;lt;25, 25 to &amp;lt;30, 30 to &amp;lt;35, or \u226535\u2005kg/m2. Periprocedural complications and 1-year atrial arrhythmia recurrence were assessed across BMI categories. Among 5223 patients, BMI was available in 4573 (87.6%). Higher BMI was associated with greater cardiometabolic burden, more persistent AF, larger atria, and more extensive ablation strategies, including fewer pulmonary vein isolation-only procedures and more additional lesion sets (all P &amp;lt; 0.001). Periprocedural complications remained infrequent (1.0%), with no significant difference across BMI categories. At 1 year, recurrence was driven mainly by AF type rather than obesity. Within paroxysmal and non-paroxysmal AF, recurrence rates were comparable between patients with BMI &amp;lt; 35 and \u226535\u2005kg/m2 (13.8% vs. 9.1% and 22.9% vs. 23.3%, respectively; log-rank P = 0.925). Severe obesity was not associated with recurrence after multivariable adjustment (HR, 0.86; 95% CI, 0.65\u20131.14; P = 0.299), with similar findings when BMI was analysed continuously.\n                  \n                  \n                    Conclusion\n                    In this nationwide PFA cohort, higher BMI identified a more advanced AF phenotype and more extensive ablation strategies but was not independently associated with periprocedural complications or 1-year arrhythmia recurrence."
+  },
+  {
+    "title": "Correction to: Long-term reliability of the phospholamban (PLN) p.(Arg14del) risk model in predicting major ventricular arrhythmia: a landmark study",
+    "link": "https://doi.org/10.1093/europace/euag301",
+    "doi": "10.1093/europace/euag301",
+    "journal": "EP Europace",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The weight of evidence: does obesity really not matter for atrial fibrillation ablation? Lessons from CABANA",
+    "link": "https://doi.org/10.1093/europace/euag290",
+    "doi": "10.1093/europace/euag290",
+    "journal": "EP Europace",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "AFib"
     ],
     "hot": false
   },
@@ -5981,196 +6171,5 @@
       "Other"
     ],
     "hot": false
-  },
-  {
-    "title": "Diagnostic and therapeutic challenges in Andersen-Tawil syndrome",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027943?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 18, 2026",
-    "date_ts": 1789696612.279381,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "High-Intensity Ultrasound Catheter Ablation: Transmural Ventricular Lesions Through Transducer-Tissue Contact Sensing",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027712?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 18, 2026",
-    "date_ts": 1789696612.279217,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Early rhythm control in patients with atrial fibrillation and cancer: A subgroup analysis of the EAST-AFNET 4 trial",
-    "link": "https://doi.org/10.1093/europace/euag269",
-    "doi": "10.1093/europace/euag269",
-    "journal": "EP Europace",
-    "date": "Sep 18, 2026",
-    "date_ts": 1789689600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Early rhythm-control improves cardiovascular outcomes in patients with atrial fibrillation (AF). Its effectiveness in patients with cancer is unclear. This study evaluated the effects of cancer history on early rhythm-control in the EAST-AFNET 4 trial.\n                  \n                  \n                    Methods\n                    This secondary analysis of EAST-AFNET 4 compared patients with and without a history of cancer, including active cancer and cancer in remission. Outcomes included the primary outcome, a composite of cardiovascular death, stroke, or hospitalization for worsening heart failure or acute coronary syndrome; the safety outcome, a composite of death, stroke, and serious adverse events related to rhythm-control; and rhythm at 24 months.\n                  \n                  \n                    Results\n                    Cancer history was available in 2779/2789 patients (99.6%). Cancer history was present in 216/2779 (7.8%; 19 with active cancer; mean age, 73 years; 95 [44%] women; mean CHA2DS2-VASc score, 3.5). During a follow-up to 8.6 years, early rhythm control reduced the primary outcome in patients with and without a history of cancer (pinteraction = .23) with high rates of sinus rhythm at 24 months (cancer: 84.9%, without cancer: 81.8%; pinteraction = .60). In patients with a cancer history, there was a signal for more safety outcomes with early rhythm control (early rhythm control 36/116 [31%] patients with event, 22 deaths; usual care 20/100 [20%] patients with event, 18 deaths; pinteraction = .055).\n                  \n                  \n                    Conclusions\n                    Early rhythm control therapy appears effective in patients with AF and a history of cancer but may be less safe than in patients without cancer, in this hypothesis-generating analysis. This could be play of chance but warrants further research into the safety and efficacy of rhythm control therapy in patients with a cancer history."
-  },
-  {
-    "title": "Sex-specific trends in ventricular arrhythmias among European ICD recipients",
-    "link": "https://doi.org/10.1093/europace/euag268",
-    "doi": "10.1093/europace/euag268",
-    "journal": "EP Europace",
-    "date": "Sep 18, 2026",
-    "date_ts": 1789689600.0,
-    "tags": [
-      "VT",
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Yield of Atrial Fibrillation Screening according to Methodology and Patient Characteristics:\n                    <i>An Individual Participant Data Meta-Analysis of 34,165 Individuals Screened for Atrial Fibrillation within the AFFECT-EU/AF-SCREEN Collaboration</i>",
-    "link": "https://doi.org/10.1093/europace/euag256",
-    "doi": "10.1093/europace/euag256",
-    "journal": "EP Europace",
-    "date": "Sep 18, 2026",
-    "date_ts": 1789689600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Backgrounds and Aims\n                    Atrial fibrillation (AF) screening may reduce adverse outcomes through early initiation of preventive treatment. However, more data are warranted to inform the yield of different screening strategies. This study aimed to evaluate how patient characteristics and screening methodologies influence screening yield.\n                  \n                  \n                    Methods\n                    We conducted an individual participant data meta-analysis of 12 European and North American study cohorts, by using generalized linear mixed models with random intercept at study level.\n                  \n                  \n                    Results\n                    In this meta-analysis of 34,165 participants screened for AF (age 73.4\u2009\u00b1\u20097.5 years and 53.5% female), the screening yield increased with more intensive approaches, ranging from 0.83% [95% confidence interval (CI): 0.24-2.87] in single-timepoint screening, to 5.06% [95% CI: 3.55-7.17] in intermittent (i.e. repeated single-timepoint) screening, 4.81% [95% CI: 3.79-6.08] in short-term continuous monitoring (\u226430 days), and up to 30.39% [95% CI: 28.06-32.84] in long-term continuous monitoring (&amp;gt;30 days). Advanced age, male sex, hypertension, and heart failure (HF) were associated with detection. Significant interactions were observed between screening approach and age, sex, HF, CHADS2, and NT-proBNP. These risk factors had a stronger influence on AF detection with single-timepoint screening, compared with more intensive methods.\n                  \n                  \n                    Conclusions\n                    In this meta-analysis, AF screening yield varied substantially by patient characteristics and screening approach. Advanced age, male sex, and HF were independently associated with greater AF detection, particularly in those having single-timepoint screening. Our findings support tailoring the screening approach to the individual target population in clinical practice. Further studies to assess clinical outcomes following screening are needed and underway."
-  },
-  {
-    "title": "Nav1.5 Beyond Genetics: Loss of Cardiac Sodium-Channel Function in Brugada Syndrome",
-    "link": "https://doi.org/10.1093/europace/euag261",
-    "doi": "10.1093/europace/euag261",
-    "journal": "EP Europace",
-    "date": "Sep 18, 2026",
-    "date_ts": 1789689600.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  Brugada syndrome is usually interpreted through SCN5A genetics, yet many patients with a Brugada phenotype carry no clearly pathogenic SCN5A variant and penetrance among carriers is incomplete. Cardiac sodium-channel function is therefore not a direct readout of coding sequence but an integrated property shaped by the channelosome, transcriptional and epigenetic control, post-translational modification, metabolic state, and inflammatory signaling. Through these routes, oxidative stress, altered glycosylation, and Nedd4-2-dependent ubiquitination can reduce peak sodium current in experimental systems, potentially lowering conduction reserve; inflammatory mediators may additionally modify the regional substrate through other ionic pathways without altering the SCN5A coding sequence in the experimental system, converging on the loss-of-function phenotype that characterizes Brugada syndrome, in contrast to the late-current gain of function of long QT syndrome type 3. Epicardial adipose tissue may provide a regional context for such signals at the right ventricular outflow tract, where conduction reserve is low and the substrate preferentially localizes, and anti-Nav1.5 autoantibodies provide a humoral route to reduced channel availability. We examine sequence-independent modifiers that may dynamically reduce Nav1.5 function and define the experimental framework needed to establish their clinical weight."
-  },
-  {
-    "title": "Characteristics of Recurrent Atrial Arrhythmias and Lesion Assessment Late After Pulsed Field Ablation of Atrial Fibrillation",
-    "link": "https://doi.org/10.1161/circep.125.014506",
-    "doi": "10.1161/circep.125.014506",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Sep 18, 2026",
-    "date_ts": 1789689600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Pulsed field ablation (PFA) is a novel and rapidly expanding energy for the ablation of atrial fibrillation (AF). The relationships between the characteristics of pulmonary vein (PV) and extra-PV PFA applications, and the type of arrhythmia recurrence or durable lesion observed during redo procedures remain unclear.\n                  \n                  \n                    METHODS:\n                    In this substudy of the FRANCE PFA national exhaustive multicentric registry, we collected detailed data on PFA applications delivered during the initial AF ablation procedure. Among patients with arrhythmia recurrence undergoing redo procedures with 3-dimensional mapping (n=145), we analyzed the type of recurrence, rates of durable PV isolation (PVI), and the presence of complete block over the ablation lines.\n                  \n                  \n                    RESULTS:\n                    \n                      Recurrent arrhythmias comprised AF in 58%, atrial tachycardia in 28%, and typical atrial flutter in 8%. AF was less frequently observed when initial ablation targeted extra-PV areas (45 versus 71%;\n                      P\n                      =0.01) and when a 35-mm diameter catheter was used for PVI only (50 versus 77%;\n                      P\n                      =0.01). Complete durable PVI was observed in 42% of patients (69% to 76% for each separate PV), and durable roof/PW and mitral isthmus blocks were observed in 62% and 31% of cases, respectively. The rate of durable PVI increased with the number of PFA applications (\n                      P\n                      &lt;0.05), reaching 84% with &gt;12 applications. Similarly, roof/PW block rates increased to 88% with &gt;16 applications (\n                      P\n                      &lt;0.01). Mitral isthmus block rate remained low (31%) and was not significantly associated with application number.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    In patients undergoing redo procedures after an initial AF ablation using the pentaspline PFA catheter, AF was less frequently observed when ablation lesions were performed beyond PVs. A high rate of durable PVI or block was achieved with &gt;12 PFA applications per PV and &gt;16 for the roof/PW. Long-term durability of mitral isthmus block was poor using the Pentaspline PFA catheter."
-  },
-  {
-    "title": "Ventricular Fibrillation Mapping in a Large-Animal Model Using Dual Mechanical Circulatory Support: Electroanatomic Substrate Preservation Without Ischemic Changes",
-    "link": "https://doi.org/10.1161/circep.126.014954",
-    "doi": "10.1161/circep.126.014954",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Sep 18, 2026",
-    "date_ts": 1789689600.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Ventricular fibrillation (VF) remains a leading cause of sudden cardiac death with an incompletely characterized electrophysiological substrate. Traditional large-animal VF models are limited by hemodynamic collapse and myocardial ischemia. This study establishes a reproducible swine model using dual mechanical circulatory devices to enable high-density electroanatomic mapping under nonischemic conditions.\n                  \n                  \n                    METHODS:\n                    Five Yorkshire swine (55\u201365 kg) underwent sustained VF supported by venoarterial extracorporeal membrane oxygenation (2.5\u20133.0 L/min) and percutaneous left ventricular unloading (Impella CP, P-2\u2013P-4). High-density electroanatomic mapping using CARTO 7 was performed at baseline and after defibrillation. Bipolar voltage was acquired from 7 predefined ventricular regions (21 measurements per animal per time point; n=210 paired observations). Unipolar voltage mapping and continuous surface ECG monitoring were used to assess acute ischemic injury. Systemic perfusion was maintained at systolic arterial pressure \u226580 mm\u2009Hg. Linear mixed-effects modeling was used to analyze voltage changes from pre-VF to post-VF.\n                  \n                  \n                    RESULTS:\n                    \n                      Sustained VF (10\u00b11 minutes) was reproducibly induced and maintained with consistent hemodynamics (systolic arterial pressure, 90\u00b15 mm\u2009Hg; extracorporeal membrane oxygenation flow, 2.5\u00b10.5 L/min). All animals were successfully defibrillated. High-density mapping was feasible in all experiments (1000\u00b1300 points per chamber). Bipolar voltage showed no change from pre-VF (5.86\u00b12.56 mV) to post-VF (6.53\u00b12.22 mV; mean difference, 0.67 mV [95% CI, \u20130.31 to 1.65];\n                      P\n                      =0.15). Both left (\n                      P\n                      =0.17) and right ventricles (\n                      P\n                      =0.08) demonstrated voltage preservation. Regional analysis showed no significant changes (all\n                      P\n                      &gt;0.05); post-VF voltages remained above viability thresholds (&gt;1.5 mV). Unipolar voltage maps recovered toward baseline, with no ECG injury pattern identified after defibrillation.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    Dual mechanical circulatory support with venoarterial extracorporeal membrane oxygenation and Impella CP enables reproducible, high-fidelity electroanatomic mapping and preserves myocardial substrate after sustained VF in a large-animal model. This platform overcomes key technical barriers in VF research, providing a nonischemic foundation for future mechanistic and translational studies."
-  },
-  {
-    "title": "Incorporating a Shortened Long-Term Effectiveness END Point Into Catheter Ablation Trials: Statistical Properties and Implications",
-    "link": "https://doi.org/10.1161/circep.125.014773",
-    "doi": "10.1161/circep.125.014773",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Sep 18, 2026",
-    "date_ts": 1789689600.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Evidence regarding the use of a 6-month effectiveness end point for trials of atrial fibrillation ablation is limited. This study aims to evaluate the relationship between ablation effectiveness end point detection and follow-up duration, with the secondary goal of informing the design of clinical trials of paroxysmal atrial fibrillation ablation.\n                  \n                  \n                    METHODS:\n                    Patient-level data from 4 prospective studies were aggregated. Long-term effectiveness end points were calculated with (1) a 3-month blanking period and 12-month follow-up (current) and (2) a 2-month blanking period and 6-month follow-up (proposed). Sensitivity, specificity, and agreement were calculated for each study under the current and proposed end points. A linear approximation method was used to extrapolate the 6-month survival estimate to 12 months, and the predicted 12-month survival rates were compared with the actual 12-month survival rates. Using the linear approximation, a new performance goal was derived and compared against the 6-month survival of each study.\n                  \n                  \n                    RESULTS:\n                    The comparative analysis between the current and proposed end points demonstrated concordances ranging from 83% to 92% and sensitivities ranging from 57% to 76% across the 4 recent clinical trials. The linear approximation method produced an estimated 12-month survival rate of the 4 pooled studies of 72.5%, compared with the true 12-month survival rate of 71.0% (\u22121.5% error). When compared against the true 12-month survival rate in each study individually, the estimated 12-month survival rate resulted in errors ranging from \u22123.6% to 0.3%. A new performance goal of 56.2% is proposed for trials using a 6-month end point.\n                  \n                  \n                    CONCLUSIONS:\n                    The proposed end point of a 6-month follow-up duration, inclusive of a 2-month blanking period, demonstrated reasonable levels of agreement with the current 12-month effectiveness end point. Enabling historical comparison, a 12-month survival rate can be reliably extrapolated from a 6-month survival rate using linear approximation."
-  },
-  {
-    "title": "Tailoring the Atrioventricular Interval During Left Bundle Branch Pacing: Playing With Fusion",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70413?af=R",
-    "doi": "10.1111/pace.70413",
-    "journal": "PACE",
-    "date": "Sep 17, 2026",
-    "date_ts": 1789618519.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Optimization of biventricular pacing for cardiac resynchronization therapy (CRT) with fusion (fusion\u2010optimized intervals method) has been shown to improve left ventricular remodeling. However, information on programming the atrioventricular (AV) interval during left bundle branch pacing (LBBP) is scarce.\n                  \n                  \n                    Objective\n                    Assess with electrocardiographic imaging (ECGI) the electrical benefit of optimization of the AV interval during LBBP.\n                  \n                  \n                    Methods\n                    Retrospective analysis of prospectively collected data. Pilot study including patients who received LBBP with CRT indication, normal AV conduction, sinus rhythm, and left bundle branch block. ECGI was used to obtain non\u2010invasive activation maps, ventricular activation times, and QRS widths during the optimization of the AV interval.\n                  \n                  \n                    Results\n                    A total of 10 patients who received LBBP were included. Median age was 62 years (57\u201374 years), 40% were women, 20% had ischemic cardiomyopathy, and baseline LVEF was 29% (23%\u201336%). The baseline median QRS duration was 178\u00a0ms (168\u2013187\u00a0ms), with a left ventricular activation time (LVAT) of 99\u00a0ms (90\u2013109\u00a0ms), a right ventricular activation time (RVAT) of 42\u00a0ms (34\u201371\u00a0ms), and a total ventricular activation time (TAT) of 111\u00a0ms (105\u2013131\u00a0ms).\n                  \n                  \n                    \n                    A non\u2010tailored AV programming showed a QRS measured from intrinsic deflection of 142\u00a0ms (137\u2013149\u00a0ms); when a tailored AV was programmed, the median QRS decreased to 124\u00a0ms (116\u2013130\u00a0ms). Ventricular activation times showed shortening with a tailored approach.\n                  \n                  \n                    Conclusion\n                    AV interval adjustment during left bundle branch pacing may result in better resynchronization."
-  },
-  {
-    "title": "Right Atrial Cardiomyopathy Assessed by Late Gadolinium Enhancement Cardiac MRI Following Pulmonary Vein Isolation in Patients with Atrial Fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602775X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 17, 2026",
-    "date_ts": 1789611008.955694,
-    "tags": [
-      "AFib",
-      "Genetics",
-      "Imaging"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Velocity Vector Analysis for Slowly Conducting Anatomical Isthmuses in Patients with Tetralogy of Fallot",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027724?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 17, 2026",
-    "date_ts": 1789611008.955664,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Rhythm-Guided Pill-in-the-Pocket Anticoagulation Following Cryoballoon Ablation: A COMPARE-CRYO post-hoc analysis",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027700?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 17, 2026",
-    "date_ts": 1789611008.955636,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Avoid It or Reach It? The Cardiac Conduction Axis as a Common yet Divergent Determinant of Patient Outcomes in Transcatheter Aortic Valve Replacement and Conduction-System Pacing",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027748?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 17, 2026",
-    "date_ts": 1789611008.955487,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Left Ventricular Pacing\u2010Associated Cardiomyopathy Revealing Myocardial Vulnerability in Congenital Complete Heart Block",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70437?af=R",
-    "doi": "10.1111/pace.70437",
-    "journal": "PACE",
-    "date": "Sep 16, 2026",
-    "date_ts": 1789531094.0,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Mechanisms underlying cardiac manifestations of immune\u2010mediated congenital complete heart block (CCHB) remain unclear. Dilated cardiomyopathy (DCM) in immune\u2010mediated CCHB has been associated with RV pacing, whereas reports of LV pacing\u2010associated DCM are lacking.\n                  \n                  \n                    Case summary\n                    A girl with immune\u2010mediated CCHB showed endocardial fibroelastosis (EFE) at 20 weeks of gestation before heart block developed at 22 weeks. After LV basal\u2010lateral pacing, she developed DCM with LV dyssynchrony. Cardiac resynchronization therapy (CRT) improved LV function and induced reverse remodeling.\n                  \n                  \n                    Conclusions\n                    Myocardial injury may precede conduction system involvement in immune\u2010mediated CCHB. Subclinical immune\u2010mediated myocardial vulnerability and pacing\u2010related dyssynchrony may contribute to DCM progression."
   }
 ]
