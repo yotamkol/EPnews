@@ -49,6 +49,83 @@
     "hot": false
   },
   {
+    "title": "Atrial Leadless Pacing: A Potential Strategy for Cardioinhibitory Vasovagal Syncope",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70492?af=R",
+    "doi": "10.1111/pace.70492",
+    "journal": "PACE",
+    "date": "Oct 30, 2026",
+    "date_ts": 1793329623.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  Cardioinhibitory vasovagal syncope (VVS) may be associated with prolonged sinus pauses and recurrent syncope despite conservative therapy or cardioneuroablation (CNA). Although permanent pacing may be considered in selected patients, the role of leadless pacing, particularly atrial leadless pacing, remains poorly established; however, it may represent a potential therapeutic option in carefully selected patients."
+  },
+  {
+    "title": "Obesity and Atrial Fibrillation: Integrating Lifestyle, Pharmacotherapy and Ablation",
+    "link": "https://doi.org/10.1093/europace/euag307",
+    "doi": "10.1093/europace/euag307",
+    "journal": "EP Europace",
+    "date": "Oct 30, 2026",
+    "date_ts": 1793318400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Whole\u2010Exome Sequencing Identifies a Rare CSRP3 Variant Associated With Familial Brugada Syndrome in a Lebanese Family",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70546?af=R",
+    "doi": "10.1111/jce.70546",
+    "journal": "J Cardiovasc EP",
+    "date": "Oct 29, 2026",
+    "date_ts": 1793299093.0,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    \n                      Brugada syndrome (BrS) is an inherited arrhythmia associated with an increased risk of sudden cardiac death. Although traditionally regarded as a primary cardiac channelopathy, pathogenic variants in\n                      SCN5A\n                      account for only 20%\u201330% of clinically diagnosed cases, leaving most patients genetically unresolved. Emerging evidence suggests that structural cardiac genes may also contribute to BrS susceptibility. We investigated the genetic basis of BrS in a consanguineous Lebanese family with three affected brothers.\n                    \n                  \n                  \n                    Methods and Results\n                    \n                      Whole\u2010exome sequencing was performed in all affected individuals, followed by variant calling, annotation, and phenotype\u2010driven prioritization using Franklin (Genoox). Candidate variants were evaluated according to allele frequency, inheritance model, segregation, and ACMG/AMP classification. Evolutionary conservation, AlphaMissense prediction, protein domain annotation, and structural modeling were performed to assess the potential functional impact of the prioritized variant. Whole\u2010exome sequencing identified a rare homozygous\n                      CSRP3\n                      missense variant (NM_003476.5:c.56\u2009A\u2009&gt;\u2009G; p.His19Arg) shared by all three affected siblings. Following exome\u2010wide filtering under a recessive inheritance model,\n                      CSRP3\n                      represented the only rare homozygous coding variant, while no pathogenic or likely pathogenic variants were identified in established Brugada syndrome\u2010associated genes. The variant was absent from public population databases and an internal cohort of Lebanese exomes. His19 was highly conserved across vertebrate species, AlphaMissense classified the variant as likely pathogenic (score = 0.942), and structural modeling predicted alterations within the N\u2010terminal LIM domain that may affect protein stability and local residue interactions.\n                    \n                  \n                  \n                    Conclusions\n                    \n                      Our findings nominate\n                      CSRP3\n                      as a candidate susceptibility gene for Brugada syndrome and support the emerging role of structural cardiac genes in inherited arrhythmia syndromes. Although functional validation is required to establish causality, this study highlights the value of whole\u2010exome sequencing in consanguineous and underrepresented populations for identifying rare candidate variants contributing to BrS susceptibility."
+  },
+  {
+    "title": "Transient Lung\u2010Volume Reduction Improves First\u2010Shock Cardioversion Success by Reducing Transthoracic Impedance in Patients With Persistent Atrial Fibrillation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70548?af=R",
+    "doi": "10.1111/jce.70548",
+    "journal": "J Cardiovasc EP",
+    "date": "Oct 29, 2026",
+    "date_ts": 1793299061.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Transthoracic impedance (TTI) is an important determinant of the efficacy of direct\u2010current cardioversion (DCCV), as increased impedance may reduce myocardial current delivery. Because lung volume influences thoracic electrical properties, transient lung\u2010volume reduction (TLVR) may represent a simple strategy for acutely lowering TTI and improving cardioversion efficacy. This study evaluated the effect of a standardized TLVR maneuver on TTI and first\u2010shock cardioversion success in patients with persistent atrial fibrillation (AF).\n                  \n                  \n                    Methods\n                    \n                      This prospective, randomized study included 116 patients with persistent AF scheduled for first\u2010time radiofrequency ablation. Patients were randomized 1:1 to conventional mechanical ventilation (standard CV group,\n                      n\n                      \u2009=\u200958) or a standardized TLVR maneuver immediately before cardioversion (TLVR CV group,\n                      n\n                      \u2009=\u200958). Baseline TTI was measured before the intervention, and post\u2010TLVR TTI was additionally measured in the TLVR group. All patients underwent anterior\u2013posterior cardioversion with an initial 200\u2009J shock. First\u2010shock success was defined as maintenance of sinus rhythm for at least 1\u2009min. Multivariable linear and hierarchical logistic regression analyses were performed to investigate determinants of impedance reduction and first\u2010shock success.\n                    \n                  \n                  \n                    Results\n                    \n                      First\u2010shock cardioversion success was significantly higher in the TLVR CV group than in the standard CV group (53.4% vs. 29.3%,\n                      p\n                      \u2009=\u20090.008), whereas cumulative success after up to three shocks was similar (96.6% vs. 91.4%,\n                      p\n                      \u2009=\u20090.242). The impedance reduction rate was significantly higher among patients with successful first\u2010shock cardioversion (9.09% vs. 5.00%,\n                      p\n                      \u2009&lt;\u20090.001). In multivariable linear regression, TLVR independently increased the impedance reduction rate by 1.75 percentage points (\n                      B\n                      \u2009=\u20091.751,\n                      p\n                      \u2009=\u20090.001), while a higher Body Roundness Index was associated with a lower reduction (\n                      \u03b2\n                      \u2009=\u2009\u22120.468,\n                      p\n                      \u2009&lt;\u20090.001). In the mechanistic logistic regression model, each 1% increase in impedance reduction was associated with a 2.23\u2010fold higher likelihood of first\u2010shock success (OR\u2009=\u20092.226,\n                      p\n                      \u2009&lt;\u20090.001). Model explanatory power increased from 56.3% to 74.9% after the incorporation of impedance reduction.\n                    \n                  \n                  \n                    Conclusion\n                    A standardized TLVR maneuver immediately before cardioversion was associated with greater TTI reduction and an approximately twofold increase in first\u2010shock cardioversion success in patients with persistent AF. The impedance reduction rate emerged as a strong independent predictor of successful initial cardioversion, supporting a potential physiological mechanism linking acute lung\u2010volume reduction to improved electrical cardioversion efficacy."
+  },
+  {
+    "title": "Omnipolar Technology Near Field Versus Fragmentation Signals Mapping at Anatomically Defined Ganglionated Plexi Sites During Cardioneuroablation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70549?af=R",
+    "doi": "10.1111/jce.70549",
+    "journal": "J Cardiovasc EP",
+    "date": "Oct 29, 2026",
+    "date_ts": 1793298955.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Cardioneuroablation (CNA) is an established catheter\u2010based therapy for refractory vasovagal syncope (VVS), targeting atrial ganglionated plexi (GPs) by radiofrequency ablation. Omnipolar Technology Near Field (OTNF) is a novel automated spectral mapping algorithm integrated within the EnSite X system; its systematic comparison with fragmentation mapping during CNA has not previously been reported.\n                  \n                  \n                    Objectives\n                    To evaluate the feasibility, safety, and efficacy of a streamlined, imaging\u2010free anatomically guided CNA approach and to compare real\u2010time OTNF mapping at three spectral thresholds with fractionation analysis in detecting GPs at anatomically consistent locations.\n                  \n                  \n                    Methods\n                    Twenty\u2010six consecutive patients (mean age 43.9\u2009\u00b1\u200916.4 years; 69% female; \u2265\u20093 VVS episodes/year) were enrolled prospectively at two French centres. All procedures used an HD Grid catheter for bilateral OTNF and fractionation mapping, followed by sequential ablation of five GP sites. Acute success was defined as heart rate increase &gt;\u200950% from baseline and blunted atropine response (&lt;\u200925% increment). Directional discordance between fractionation and OTNF map was assessed by McNemar's exact test.\n                  \n                  \n                    Results\n                    \n                      Acute procedural success was achieved in 22 out of 26 patients (84.6%), with no complications. Mean procedure time was 95.2\u2009\u00b1\u200920.5\u2009min. CNA produced significant vagal denervation: heart rate increased from 60.2\u2009\u00b1\u200912.9 to 88.1\u2009\u00b1\u200918.2\u2009bpm (\n                      p\n                      \u2009&lt;\u20090.003), AH interval shortened from 97.6\u2009\u00b1\u200922.9 to 78.2\u2009\u00b1\u200921.7\u2009ms (\n                      p\n                      \u2009=\u20090.007), Wenckebach cycle length decreased from 441.5\u2009\u00b1\u2009118.9 to 330.0\u2009ms (\n                      p\n                      \u2009&lt;\u20090.003) and SNRT decreased from 1235.0\u2009\u00b1\u2009273.7 to 1028.4\u2009\u00b1\u2009235.1\u2009ms (\n                      p\n                      \u2009=\u20090.003). At 400\u2009Hz, OTNF showed significantly higher signal positivity than fractionation mapping at the LSGP (concordance 57.7%) and RIGP (concordance 65.4%). At 500 and 600\u2009Hz, no directional asymmetry was detected while concordance remained below 70% at these sites. At a median follow\u2010up of 20.2\u2009\u00b1\u20097.6 months, 81% of patients were free from syncope.\n                    \n                  \n                  \n                    Conclusions\n                    A simplified, anatomical CNA approach is safe, feasible, and effective. OTNF and fragmentation signals mapping shows modest concordance at five anatomically consistent GP locations, confirming that those strategies capture partially non\u2010overlapping electrophysiological information."
+  },
+  {
+    "title": "Validation of a Four\u2010Extrastimulus Ventricular Stimulation Protocol for Arrhythmic Risk Stratification in Tetralogy of Fallot",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70550?af=R",
+    "doi": "10.1111/jce.70550",
+    "journal": "J Cardiovasc EP",
+    "date": "Oct 29, 2026",
+    "date_ts": 1793298875.0,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Risk stratification for sustained ventricular arrhythmias (SVA) in adults with repaired Tetralogy of Fallot (TOF) remains challenging. Although programmed ventricular stimulation (PVS) has shown a high negative predictive value, the prognostic performance of a four\u2010extrastimulus PVS protocol\u2014validated in ischemic heart disease\u2014has not been systematically evaluated in congenital heart disease.\n                  \n                  \n                    Methods and Results\n                    \n                      We retrospectively included 41 consecutive adults with repaired TOF who underwent EPS using a standardized four\u2010extrastimulus PVS protocol at two right ventricular sites. Inducibility of SVA was assessed. The primary endpoint was the occurrence of clinical SVA during follow\u2010up. Kaplan\u2013Meier analysis and Firth\u2010penalized Cox regression were used to evaluate prognostic performance, and diagnostic accuracy metrics were calculated. Inducibility was observed in 18 patients (44%). During a median follow\u2010up of 1.68 years, SVA occurred exclusively in inducible patients (5/18; 28%), all corresponding to sustained monomorphic ventricular tachycardia. No non\u2010inducible patient developed SVA. Inducibility was associated with significantly lower SVA\u2010free survival (log\u2010rank\n                      p\n                      \u2009=\u20090.015) and an increased risk of events (HR 13.6; 95% CI 1.5\u20131804;\n                      p\n                      \u2009=\u20090.017) in univariate analysis. The four\u2010extrastimulus protocol demonstrated a sensitivity of 100% and specificity of 64%.\n                    \n                  \n                  \n                    Conclusions\n                    In adults with repaired TOF and risk factors for sudden cardiac death, the four\u2010extrastimulus PVS protocol identified a subgroup at high arrhythmic risk while reliably excluding events in non\u2010inducible individuals. These findings support the potential value of PVS as part of multimodal risk stratification, particularly for identifying patients in whom ICD implantation may be deferred."
+  },
+  {
     "title": "Concomitant Aveir AR and Micra AV2 Hybrid Leadless Implantation During Infected Pacemaker Extraction",
     "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70487?af=R",
     "doi": "10.1111/pace.70487",
@@ -3156,6 +3233,18 @@
     "hot": false
   },
   {
+    "title": "Superior Vena Cava Approach with Integrated Transseptal Crossing for Pentaspline Pulsed Field Pulmonary Vein Ablation: Case Report and Comparison of Transseptal Crossing Techniques",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.10.023",
+    "doi": "10.1016/j.hrcr.2026.10.023",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Oct 01, 2026",
+    "date_ts": 1790812800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Impact of obesity on clinical outcomes and the treatment effect of catheter ablation in atrial fibrillation: insights from CABANA",
     "link": "https://doi.org/10.1093/europace/euag293",
     "doi": "10.1093/europace/euag293",
@@ -6082,91 +6171,6 @@
     "journal": "Heart Rhythm",
     "date": "Sep 19, 2026",
     "date_ts": 1789783308.383499,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Current of injury amplitude during left bundle branch area pacing: impact of recording system",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027888?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 19, 2026",
-    "date_ts": 1789783308.383463,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "First Successful Resuscitation of a Commotio Cordis Victim",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027955?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 19, 2026",
-    "date_ts": 1789783308.383425,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sodium\u2013Glucose Cotransporter-2 Inhibitor Use and Lower Left Atrial Epicardial Adipose Tissue Volume Across Metabolic Phenotypes in Atrial Fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027876?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 19, 2026",
-    "date_ts": 1789783308.383354,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Periatrial Epicardial Adipose Tissue as a Predictor of Substrate Distribution and Atrial Arrhythmia Recurrence in Patients with Early Atrial Remodeling",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027906?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 19, 2026",
-    "date_ts": 1789783308.383302,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The Effect of Glucagon-Like Peptide-1 Receptor Agonists versus Sodium-Glucose Cotransporter-2 Inhibitors Alone and in Combination on AF Recurrence and Cardiovascular Outcomes after Catheter Ablation for Atrial Fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602792X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 19, 2026",
-    "date_ts": 1789783308.383133,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Characteristics of Low\u2010Voltage Zones in Patients With Heart Failure With Preserved Ejection Fraction",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70415?af=R",
-    "doi": "10.1111/pace.70415",
-    "journal": "PACE",
-    "date": "Sep 18, 2026",
-    "date_ts": 1789704224.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Atrial fibrillation (AF) frequently coexists with heart failure with preserved ejection fraction (HFpEF), and low\u2010voltage zones (LVZs) in the atria represent atrial remodeling. However, the impact of HFpEF on the extent and distribution of LVZs and ablation outcomes remains unknown.\n                  \n                  \n                    Objective\n                    To characterize LVZs in patients with HFpEF undergoing AF ablation and evaluate their association with arrhythmia recurrence.\n                  \n                  \n                    Methods\n                    A total of 128 consecutive patients (66\u00b112 years) who underwent AF ablation for the first time were retrospectively analyzed. HFpEF was defined as a left ventricular ejection fraction &gt;50% with a history of heart failure treatment or an HFA\u2010PEFF score \u22655. Meanwhile, LVZs were defined as bipolar voltage &lt;0.5\u00a0mV and quantified across five left atrial regions.\n                  \n                  \n                    Results\n                    \n                      Forty\u2010seven patients (36.7%) were diagnosed with HFpEF. LVZs were significantly more extensive in the overall left atrium in the HFpEF group (16.3\u00b113.5\u00a0vs. 8.2\u00b17.6 cm\n                      2\n                      ,\n                      p\n                      &lt; 0.001), with the greatest difference being observed in the anterior wall (5.6\u00b15.4\u00a0vs. 2.3\u00b12.8 cm\n                      2\n                      ,\n                      p\n                      &lt; 0.001). During 9\u00b14 months, arrhythmia recurrence rates did not differ significantly between HFpEF and non\u2010HFpEF groups (12.8%\u00a0vs. 13.6%,\n                      p\n                      = 0.310). Posterior wall isolation was more frequently performed in the HFpEF group (27.6%\u00a0vs. 4.9%,\n                      p\n                      &lt; 0.001). In multivariable analysis, HFpEF, age, and persistent AF were independent determinants of LVZ extent.\n                    \n                  \n                  \n                    Conclusions\n                    AF patients with HFpEF exhibit more extensive LVZs, indicating advanced atrial remodeling. Despite differences in atrial substrate and ablation strategy, arrhythmia recurrence rates were comparable between patients with and without HFpEF."
-  },
-  {
-    "title": "cBIN1 Gene Therapy Restores Ventricular Synchrony in a Pre-Clinical Model of Ischemic Heart Failure",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027736?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 18, 2026",
-    "date_ts": 1789696612.279417,
     "tags": [
       "Other"
     ],
