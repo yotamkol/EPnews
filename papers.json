@@ -1,5 +1,56 @@
 [
   {
+    "title": "Atrial Leadless Pacemaker Implantation at the Superior Right Atrial Site",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029310?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793501847.657714,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Heterogeneity of Treatment Effect of ABC Pathway\u2013Based Care in Older Atrial Fibrillation: Insights from the mAFA-II and MIRACLE-AF Trials Using a Causal Machine Learning Approach",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029309?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793501847.65754,
+    "tags": [
+      "AFib",
+      "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Subcutaneous Defibrillator for Primary Prevention in Chronic Kidney Disease Stage 3\u20135: The Single\u2010Arm STEADIED Study",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70489?af=R",
+    "doi": "10.1111/pace.70489",
+    "journal": "PACE",
+    "date": "Oct 31, 2026",
+    "date_ts": 1793431919.0,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Prospective data on the subcutaneous implantable cardioverter\u2010defibrillator (S\u2010ICD) in chronic kidney disease (CKD) are lacking. We estimated the rate of appropriate ICD therapy with the S\u2010ICD in CKD stage 3\u20135 with left ventricular ejection fraction (LVEF)\u00a0\u2264\u00a035%.\n                  \n                  \n                    Methods\n                    \n                      In this single\u2010arm exploratory study, adults with CKD stage 3\u20135 and a guideline\u2010based primary\u2010prevention indication received an EMBLEM MRI S\u2010ICD at eight Korean centers. The primary endpoint, appropriate ICD therapy, was hypothesized at 18% versus a historical rate of 7.8% (\n                      \u03b1\n                      = 0.05, 80% power, planned\n                      N\n                      = 77; exact binomial test).\n                    \n                  \n                  \n                    Results\n                    \n                      The study was terminated early after 39 patients (51% of target; achieved power \u224861%). Mean LVEF was 27.8% and median eGFR 11.7\u00a0mL/min/1.73 m\n                      2\n                      ; 71.8% had CKD stage 5 and 69.2% were on hemodialysis. Over a median follow\u2010up of 361 days, appropriate ICD therapy occurred in 2 patients (5.1%; 95% CI, 1.4\u201316.9), significantly below the hypothesized 18% (\n                      p\n                      = 0.036). Inappropriate shocks occurred in 5 patients (12.8%; 95% CI, 5.6\u201326.7; 8 shocks), a proportion 2.5 times that of appropriate therapy, from external electromagnetic interference (2 patients), multiple counting after automatic SMART Pass deactivation (2), and supraventricular misclassification (1). Three deaths (7.7%) occurred, none device\u2010related or documented as arrhythmic (one undetermined); all hospitalizations were for heart failure, and no systemic device infection occurred.\n                    \n                  \n                  \n                    Conclusions\n                    In this exploratory single\u2010arm study, appropriate ICD therapy was infrequent and exceeded by inappropriate shocks, while non\u2010arrhythmic competing mortality dominated the clinical course. These hypothesis\u2010generating findings support cautious patient selection, verification of filter status during follow\u2010up, and larger comparative studies.\n                  \n                  \n                    Trial Registration\n                    Clinical Research Information Service (CRIS), Republic of Korea; identifier KCT0005596"
+  },
+  {
+    "title": "Vascular Brain Injury in Patients with Atrial Fibrillation and Heart Failure",
+    "link": "https://doi.org/10.1093/europace/euag305",
+    "doi": "10.1093/europace/euag305",
+    "journal": "EP Europace",
+    "date": "Oct 31, 2026",
+    "date_ts": 1793404800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Patients with heart failure (HF) and atrial fibrillation (AF) are at higher risk of vascular brain lesions. Whether AF and HF synergistically amplify this risk is unclear. In this study, we explored the association of HF and AF and their interaction with the prevalence of MRI-detected vascular brain lesions.\n                  \n                  \n                    Methods\n                    We analysed 2,712 participants from the Swiss-AF study who underwent standardized brain-MRI and categorised them based on their AF diagnosis and history of HF. In the brain-MRI, we assessed large non-cortical and cortical infarcts (LNCCI), small non-cortical infarcts (SNCI) and white matter hyperintensities (WMH). Logistic regression models were used to analyse associations between AF, HF and their interaction with vascular brain lesions, adjusting for pre-selected covariates.\n                  \n                  \n                    Results\n                    Mean age was 73 years and 30.8% were female. The prevalence of ischemic brain infarcts and WMH increased across groups defined by AF and HF status (brain infarcts: AF-/HF- 22.8%, AF-/HF+ 30.2%, AF+/HF- 34.6%, AF+/HF+ 44.6%; WMH: AF-/HF- 43.2% AF-/HF+ 49.7%, AF+/HF- 50.4%, AF+/HF+ 65.6%). No significant interaction between AF and HF was observed for any brain lesion subtype. Both AF and HF (OR, 95% CI, p-value) were independently associated with brain infarcts (AF: 1.78, 1.48-2.16, p&amp;lt;0.001; HF: 1.32, 1.06-1.64, p&amp;lt;0.001) and WMH (AF: 1.71, 1.44-2.03, p&amp;lt;0.001; HF: 1.45, 1.17-1.80, p&amp;lt;0.001).\n                  \n                  \n                    Conclusions\n                    AF and HF are independently associated with a higher prevalence of ischemic brain lesions, with the greatest burden observed in patients with both conditions. No interaction was found between AF and HF with regards to vascular brain lesions."
+  },
+  {
     "title": "Revisiting the Ischemic Cascade Using the Lens of Generative Artificial Intelligence",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008698?dgcid=rss_sd_all",
     "doi": null,
@@ -6124,55 +6175,6 @@
     "date_ts": 1789783308.546167,
     "tags": [
       "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Predicting Self-Terminating Ventricular Tachycardia Using Cycle-Length Variability: External Validation of a Machine Learning Model",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005611?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 19, 2026",
-    "date_ts": 1789783308.465116,
-    "tags": [
-      "VT",
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "The long QT syndrome type 2-associated Kv11.1 R56Q<sup>+/-</sup> variant induces discordant alternans and premature activity in human stem cell-derived cardiomyocyte monolayers",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600560X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 19, 2026",
-    "date_ts": 1789783308.465059,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Methods to Enhance Atrioventricular Synchrony and Improve Longevity with Dual Chamber Leadless Pacemakers",
-    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602789X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 19, 2026",
-    "date_ts": 1789783308.383533,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Proximal Ring Electrode Mineralization in Left Bundle Branch Area Pacing Leads",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027967?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 19, 2026",
-    "date_ts": 1789783308.383499,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
