@@ -1,5 +1,54 @@
 [
   {
+    "title": "TCT-1454 New-Onset Atrial Fibrillation in the CELEBRATE Trial: Prognosis and Effect of Pre-Hospital Zalunfiban",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726095756?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793588741.887755,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "TCT-1460 Cardiac unloading via a transvalvular pump reduces microvascular obstruction & arrhythmias following myocardial ischemia / reperfusion by preserving coronary microcirculation and cardiomyocyte nanostructure",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0735109726095823?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793588741.887636,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Anemia Is a Strong Predictor of Non\u2013Procedure-Related Major Bleeding After Left Atrial Appendage Occlusion: Insights From the Amulet IDE Trial",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26009552?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793588740.534462,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Behavior-Based Electrogram Mapping Identifies Potential Functional Substrates in Atrial Fibrillation: The KSP-AF Randomized Study",
+    "link": "https://doi.org/10.1093/europace/euag308",
+    "doi": "10.1093/europace/euag308",
+    "journal": "EP Europace",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793577600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Conventional substrate mapping during atrial fibrillation (AF) may fail to capture dynamic electrogram behavior. Key spatiotemporal potentials (KSPs) are electrogram patterns identified by their temporal behavior during AF. We evaluated whether KSP-guided ablation improves outcomes beyond pulmonary vein isolation (PVI) and characterized their short-term frequency consistency.\n                  \n                  \n                    Methods\n                    In this single-center randomized study, 100 patients with paroxysmal or persistent AF undergoing first-time ablation were assigned to PVI plus KSP-guided ablation or PVI alone. The primary endpoint was 24-month single-procedure freedom from documented AF recurrence without antiarrhythmic drugs. Dominant frequency (DF) analysis included 93 KSP regions from 18 patients, assessed across four consecutive 5-second epochs.\n                  \n                  \n                    Results\n                    Acute AF termination occurred in 68% of patients with PVI + KSP versus 26% with PVI alone (P &amp;lt; 0.001). At 24 months, freedom from AF recurrence was 74% versus 48% (HR 0.38, 95% CI 0.18\u20130.79; P = 0.010), and freedom from AF/atrial tachycardia recurrence was 68% versus 46% (HR 0.49, 95% CI 0.25\u20130.97; P = 0.040). Within-recording temporal DF variability was low (coefficient of variation, 4.8 \u00b1 1.2%).\n                  \n                  \n                    Conclusion\n                    Adding KSP-guided ablation to PVI improved acute and 24-month rhythm outcomes in this single-center trial. These findings support further evaluation of behavior-based mapping to identify potential functional AF substrates and require multicenter confirmation."
+  },
+  {
     "title": "Atrial Leadless Pacemaker Implantation at the Superior Right Atrial Site",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029310?dgcid=rss_sd_all",
     "doi": null,
@@ -6126,55 +6175,6 @@
     "date_ts": 1789783308.546337,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Wolff-Parkinson-White Syndrome With Atrial Fibrillation Associated With a Spectacled Coronary Sinus Diverticulum",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600770X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Sep 19, 2026",
-    "date_ts": 1789783308.546302,
-    "tags": [
-      "AFib",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "When the VT Lies Between the Struts: Left Coronary Cusp Tachycardia After TAVR",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007772?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Sep 19, 2026",
-    "date_ts": 1789783308.546268,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Evolution in Functional Mapping for Ventricular Tachycardia: Can We Focus Better on the Target?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007681?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Sep 19, 2026",
-    "date_ts": 1789783308.546229,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Unexpected P\u2011Wave Oversensing After Cardiac Resynchronization Therapy-Defibrillator Implantation With an Integrated Bipolar Defibrillation Lead",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007711?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Sep 19, 2026",
-    "date_ts": 1789783308.546167,
-    "tags": [
-      "Devices"
     ],
     "hot": false
   }
