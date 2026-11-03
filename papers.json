@@ -1,5 +1,18 @@
 [
   {
+    "title": "Selective blockade of microRNA-31-5p\u2212calcitonin receptor interaction reverses established atrial fibrosis and atrial arrhythmia burden",
+    "link": "https://www.nature.com/articles/s44161-026-00897-1",
+    "doi": "10.1038/s44161-026-00897-1",
+    "journal": "Nature Cardiovasc Res",
+    "date": "Nov 03, 2026",
+    "date_ts": 1793679830.604179,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Atrial fibrillation (AF) is the most common sustained cardiac arrhythmia and is promoted by atrial fibrosis, a form of structural remodelling for which effective therapies are lacking. MicroRNA-31-5p (miR-31-5p), an aging-associated, atrial-enriched microRNA, has been linked to AF, but its role in atrial fibrosis is unknown. Here we show that atrial fibroblasts from patients with persistent AF exhibit increased miR-31-5p expression and reduced expression of the calcitonin receptor (CTR, encoded by\n                    CALCR\n                    ). MiR-31-5p directly represses CTR and promotes pro-fibrotic fibroblast responses, whereas its inhibition restores CTR expression. Fibroblast-specific overexpression of miR-31 in mice reduces atrial CTR expression, increases atrial fibrosis and enhances arrhythmia susceptibility. Selective disruption of miR-31-5p\u2212\n                    CALCR\n                    binding using a locked nucleic acid target site blocker restores atrial CTR expression, prevents fibrosis progression and reduces arrhythmia burden. In mice with established atrial remodeling, this strategy promotes fibrosis regression, identifying the miR-31-5p\u2212CTR axis as a potential therapeutic target in AF."
+  },
+  {
     "title": "TCT-1454 New-Onset Atrial Fibrillation in the CELEBRATE Trial: Prognosis and Effect of Pre-Hospital Zalunfiban",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726095756?dgcid=rss_sd_all",
     "doi": null,
@@ -24,6 +37,31 @@
     "hot": false
   },
   {
+    "title": "Lower ischaemic stroke risk in atrial flutter vs fibrillation? The jury is still out",
+    "link": "https://doi.org/10.1093/eurheartj/ehag788",
+    "doi": "10.1093/eurheartj/ehag788",
+    "journal": "European Heart Journal",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793577600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed Field\u00a0Versus\u00a0Contact\u00a0Force Radiofrequency Ablation\u00a0in Persistent\u00a0Atrial Fibrillation: A Meta\u2010Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70480?af=R",
+    "doi": "10.1111/pace.70480",
+    "journal": "PACE",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793593908.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Atrial fibrillation (AF) remains a challenging arrhythmia to manage, and catheter ablation is a cornerstone therapy. Pulsed Field Ablation (PFA) has recently emerged as a novel non\u2010thermal alternative to Contact Force Radiofrequency (CF\u2010RF) ablation. This meta\u2010analysis compares the efficacy, safety, and procedural efficiency of PFA versus CF\u2010RF in patients with persistent atrial fibrillation.\n                  \n                  \n                    Methods\n                    A systematic review and meta\u2010analysis were conducted using randomized controlled trials and cohort studies identified from MEDLINE, Embase, and Cochrane databases. Primary outcomes included 12\u2010month freedom from atrial arrhythmia (AF, atrial flutter, or atrial tachycardia), procedure duration, fluoroscopy time, and major complications. Subgroup analyses were performed based on PFA device type (Farapulse vs. HT\u20109000Pro) and patient characteristics, including left atrial size and AF duration.\n                  \n                  \n                    Results\n                    \n                      Seventeen studies met inclusion criteria. PFA was associated with significantly higher 12\u2010month freedom from atrial arrhythmia compared with CF\u2010RF (OR = 1.36, 95% CI 1.26\u20131.47,\n                      p\n                      &lt; 0.001). Procedure time was markedly shorter with PFA (MD = \u221240.5 minutes,\n                      p\n                      &lt; 0.001), while fluoroscopy time also showed a significant reduction (MD = \u22121.8 minutes,\n                      p\n                      = 0.001). Major complications were significantly lower with PFA (1.2% vs. 2.8%; OR = 0.44, 95% CI 0.35\u20130.57,\n                      p\n                      &lt; 0.001).\n                    \n                  \n                  \n                    Conclusion\n                    In persistent AF, PFA, demonstrates superior efficacy, safety, and procedural efficiency compared with CF\u2010RFA, supporting its role as a potential first\u2010line ablation strategy. Larger multicenter trials with long\u2010term follow\u2010up are needed to confirm durability and device\u2010specific outcomes."
+  },
+  {
     "title": "Anemia Is a Strong Predictor of Non\u2013Procedure-Related Major Bleeding After Left Atrial Appendage Occlusion: Insights From the Amulet IDE Trial",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26009552?dgcid=rss_sd_all",
     "doi": null,
@@ -34,6 +72,45 @@
       "AFib"
     ],
     "hot": false
+  },
+  {
+    "title": "Remote activity and rhythm monitoring using patient-owned consumer devices after first-time pulmonary vein isolation",
+    "link": "https://doi.org/10.1093/europace/euag310",
+    "doi": "10.1093/europace/euag310",
+    "journal": "EP Europace",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793577600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Structured abstract\n                  \n                    Background and Aims\n                    Passively collected physical activity data from consumer devices could provide a scalable, objective measure of functional status in patients with atrial fibrillation (AF). This study assessed the feasibility of remotely collecting activity and rhythm data from patients undergoing index pulmonary vein isolation (PVI).\n                  \n                  \n                    Methods\n                    AF patients enrolled in the prospective TRUST registry who underwent index PVI and reported owning an eligible smartphone were re-contacted to provide informed consent and share their smartphone- and smartwatch-generated data. Pre-specified feasibility criteria were participation rate, technical success, and temporal data coverage. The primary functional outcome was the mean daily step-count change between the one-year pre-PVI and two-year post-PVI windows. Exploratory analyses examined associations of daily activity with AF recurrence and AF burden.\n                  \n                  \n                    Results\n                    Of 280 eligible patients, 172 (61%) attempted and 154/172 (90%) completed data transfer, of whom 123 met pre-specified completeness criteria. Median monitoring duration was 6.0 [3.6, 6.6] years, with 98% [77, 100] coverage. Mean daily step count increased from 5731\u00b12808 to 6220\u00b12816 steps/day after PVI (+488 steps/day [187, 789]; p=0.002). In 35 smartwatch users, AF burden decreased from 3.6% [1.6, 10.8] to 0.0% [0.0, 0.3] after PVI (p&amp;lt;0.001). Baseline AF burden was inversely correlated with daily step count (\u03c1=-0.36, p=0.035).\n                  \n                  \n                    Conclusion\n                    Remote collection of activity and rhythm data from consumer smartphones and smartwatches is feasible, yielding high-coverage, multi-year research data. This enables scalable, objective quantification of longitudinal functional outcomes. Daily step count increased after PVI in this exploratory cohort and was inversely related to baseline AF burden."
+  },
+  {
+    "title": "Controversy: Anticoagulants need to be maintained after catheter ablation of atrial fibrillation in patients at risk of stroke\u2014Pro and Contra",
+    "link": "https://doi.org/10.1093/europace/euag311",
+    "doi": "10.1093/europace/euag311",
+    "journal": "EP Europace",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793577600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  The pillars of atrial fibrillation (AF) management include stroke prevention, patient-centred symptom directed decisions on rhythm or rate control, and the proactive management of comorbidities and lifestyle changes. These pillars are not in isolation; they are complementary to each other. While oral anticoagulants (OACs) are highly effective for reducing stroke and all-cause mortality in patients with AF, these drugs confer a risk of major bleeding, including intracranial bleeding.\n                  Evidence from clinical trials and observational data shows that early rhythm control, especially with catheter ablation, results in a reduction in stroke risk and/or the reduction in AF burden. The question arises therefore, whether in patients with intermediate or low stroke risk after successful catheter ablation, whether or not to continue or discontinue OAC. Recent randomized trials and observational data have created some debate about whether OAC can be routinely stopped after a successful catheter ablation procedure, without a higher risk of thromboembolism.\n                  In this pro/contra article, we will debate the arguments for and against the cessation of anti-coagulation after catheter ablation, in the context of recent evidence from clinical trials, observational data, and meta-analysis."
+  },
+  {
+    "title": "Role of reverse remodelling in recurrence of atrial fibrillation after patient-tailored catheter ablation",
+    "link": "https://doi.org/10.1093/europace/euag312",
+    "doi": "10.1093/europace/euag312",
+    "journal": "EP Europace",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793577600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and aims\n                    Catheter ablation (CA) is a curative treatment for atrial fibrillation (AF), yet success rates remain sub-optimal, with \u223c50% of patients with persistent AF experiencing recurrence after 1 year. This may be due to the self-perpetuating nature of AF, which remodels atrial structure and cellular properties, while successful treatment can induce reverse remodelling (RR). This study develops a patient-specific CA strategy to directly target re-entrant drivers (RDs) and investigates the role of RR in AF recurrence.\n                  \n                  \n                    Methods\n                    Left atrial (LA) models were reconstructed from LGE-MRI scans of AF patients (n\u2009=\u200915) and coupled with the Courtemanche-Ramirez-Nattel (CRN) electrophysiology model. RDs were induced via pacing, identified using DGM analysis, and targeted ablation was performed in-silico. Pulmonary vein isolation (PVI) was applied as a reference. Following termination, AF recurrence was tested under three levels of electrical reverse remodelling (ERR: 0%, 50%, and 100%), with and without structural reverse remodelling (SRR).\n                  \n                  \n                    Results\n                    Targeted ablation acutely terminated AF in all patient-specific models. After the first procedure, AF recurrence decreased progressively from 55% at 0% ERR to 36.7% at 50% ERR and 5% at 100% ERR; with additional SRR, recurrence was further reduced to 46.7%, 26.7%, and 0%, respectively. After the second CA procedure, AF recurrence rate was 42.9%, 17.9%, and 0% without SRR and 25%, 14.3%, and 0% with SRR.\n                  \n                  \n                    Conclusion\n                    This study highlights the importance of RR for therapy success, with a novel targeted CA technique ensuring &amp;lt;5% AF recurrence in patient-specific simulations. After clinical validation, this approach can help improve long-term patient outcomes."
   },
   {
     "title": "Behavior-Based Electrogram Mapping Identifies Potential Functional Substrates in Atrial Fibrillation: The KSP-AF Randomized Study",
@@ -47,6 +124,32 @@
     ],
     "hot": false,
     "abstract": "Abstract\n                  \n                    Background and Aims\n                    Conventional substrate mapping during atrial fibrillation (AF) may fail to capture dynamic electrogram behavior. Key spatiotemporal potentials (KSPs) are electrogram patterns identified by their temporal behavior during AF. We evaluated whether KSP-guided ablation improves outcomes beyond pulmonary vein isolation (PVI) and characterized their short-term frequency consistency.\n                  \n                  \n                    Methods\n                    In this single-center randomized study, 100 patients with paroxysmal or persistent AF undergoing first-time ablation were assigned to PVI plus KSP-guided ablation or PVI alone. The primary endpoint was 24-month single-procedure freedom from documented AF recurrence without antiarrhythmic drugs. Dominant frequency (DF) analysis included 93 KSP regions from 18 patients, assessed across four consecutive 5-second epochs.\n                  \n                  \n                    Results\n                    Acute AF termination occurred in 68% of patients with PVI + KSP versus 26% with PVI alone (P &amp;lt; 0.001). At 24 months, freedom from AF recurrence was 74% versus 48% (HR 0.38, 95% CI 0.18\u20130.79; P = 0.010), and freedom from AF/atrial tachycardia recurrence was 68% versus 46% (HR 0.49, 95% CI 0.25\u20130.97; P = 0.040). Within-recording temporal DF variability was low (coefficient of variation, 4.8 \u00b1 1.2%).\n                  \n                  \n                    Conclusion\n                    Adding KSP-guided ablation to PVI improved acute and 24-month rhythm outcomes in this single-center trial. These findings support further evaluation of behavior-based mapping to identify potential functional AF substrates and require multicenter confirmation."
+  },
+  {
+    "title": "Variation in Anticoagulation Practice for Atrial High\u2010Rate Episodes: A Nationwide Cross\u2010Sectional Survey",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70542?af=R",
+    "doi": "10.1111/jce.70542",
+    "journal": "J Cardiovasc EP",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793558170.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Atrial high\u2010rate episodes (AHRE) detected by cardiac implantable electronic devices (CIEDs) are associated with increased thromboembolic risk, yet their clinical significance and optimal anticoagulation strategy remain uncertain, particularly in the absence of electrocardiogram (ECG)\u2010confirmed atrial fibrillation.\n                  \n                  \n                    Methods\n                    \n                      We conducted a nationwide cross\u2010sectional survey of UK clinicians involved in CIED follow\u2010up. The survey assessed anticoagulation decision\u2010making in AHRE, including episode\u2010duration thresholds, cumulative burden, CHA\n                      2\n                      DS\n                      2\n                      \u2010VA use, additional ECG monitoring, and anticoagulant choice. Only responses from UK\u2010based consultant clinicians were included and analysed descriptively.\n                    \n                  \n                  \n                    Results\n                    \n                      A total of 51 responses were received; 38 met the inclusion criteria and were analysed. Most respondents (86.8%) reported having reviewed AHRE alerts within the preceding 6 months, indicating that AHRE are commonly encountered in clinical practice. A\u2009\u2265\u200924\u2010h episode was the most common threshold for anticoagulation (44.7%), although many clinicians reported lower thresholds or individualised approaches. Nearly half (44.7%) did not consider cumulative AHRE burden in decision\u2010making. CHA\n                      2\n                      DS\n                      2\n                      \u2010VA thresholds also varied, most commonly \u2265\u20092 or \u2265\u20091. Additional ECG monitoring was infrequently performed. Direct oral anticoagulants were universally preferred, with apixaban the most commonly selected agent (73.7%).\n                    \n                  \n                  \n                    Conclusion\n                    There is substantial variation in UK clinical practice regarding anticoagulation for AHRE, reflecting ongoing uncertainty and lack of clear guidance. These findings highlight the need for evidence\u2010based thresholds to support consistent and informed clinical decision\u2010making."
+  },
+  {
+    "title": "Electrophysiological Characteristics of Fasciculoventricular Pathways",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70552?af=R",
+    "doi": "10.1111/jce.70552",
+    "journal": "J Cardiovasc EP",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793558023.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Fasciculoventricular (FV) accessory pathways are rare variants of pre\u2010excitation, connecting the His\u2013Purkinje system to ventricular myocardium. Though typically benign and not participating in tachycardia circuits, they can mimic septal accessory pathways on ECG, creating diagnostic challenges.\n                  \n                  \n                    Objective\n                    To assess the prevalence, ECG characteristics, electrophysiological features, and atypical properties of FV pathways in patients undergoing EP study at a tertiary center.\n                  \n                  \n                    Methods\n                    This retrospective observational study analyzed all patients undergoing EP study from 2010 to 2024. FV pathways were diagnosed by subtle pre\u2010excitation, short and fixed HV interval, and lack of change in pre\u2010excitation during atrial pacing.\n                  \n                  \n                    Results\n                    Of 2836 patients undergoing EP study for supraventricular tachycardia, 668 had accessory pathways; 15 (2.2%) had FV pathways. The mean age was 26.5 years, with 53% male. Four patients (27%) were asymptomatic. Coexisting arrhythmias included AV accessory pathways (40%), AVNRT (20%), and atrial arrhythmias (15%).\n                    All patients showed subtle pre\u2010excitation (mean PR 101\u2009\u00b1\u200918.7\u2009ms, QRS 105\u2009\u00b1\u200914.4\u2009ms). EP study revealed a short fixed HV interval (mean 17.6\u2009\u00b1\u20095.85\u2009ms) with persistent pre\u2010excitation during atrial pacing. Atypical features included intermittent FV conduction (13%), gap phenomenon (7%), and retrograde conduction (20%). FV pathways were not involved in any tachycardia circuit.\n                  \n                  \n                    Conclusion\n                    FV pathways are uncommon (2.2% of accessory pathways) with characteristic ECG and EP findings. The presence of gap phenomenon, intermittent antegrade conduction, and retrograde conduction suggests that a subset of these pathways may possess functional, discrete myocardial properties rather than passive insulation defects; however, further structural and electroanatomical studies are needed to confirm this hypothesis."
   },
   {
     "title": "Atrial Leadless Pacemaker Implantation at the Superior Right Atrial Site",
@@ -6074,105 +6177,6 @@
     "journal": "Heart Rhythm O2",
     "date": "Sep 20, 2026",
     "date_ts": 1789869965.777385,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Epicardial adipose tissue in paroxysmal and persistent atrial fibrillation ablation using photon counting CT and automated 3D atrial segmentation: The Prospective AFAT Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027931?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.649405,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Isolated Phrenic and Vagus Nerve Stimulation and Conduction Suppression Induced by Electroporation Pulses",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027918?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.649198,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Paradoxical Response to Para\u2010Hisian Pacing; What Is the Mechanism?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70507?af=R",
-    "doi": "10.1111/jce.70507",
-    "journal": "J Cardiovasc EP",
-    "date": "Sep 19, 2026",
-    "date_ts": 1789846717.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Safety and Efficacy of Right\u2010 Versus Left\u2010Sided Transvenous Lead Extraction",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70497?af=R",
-    "doi": "10.1111/jce.70497",
-    "journal": "J Cardiovasc EP",
-    "date": "Sep 19, 2026",
-    "date_ts": 1789845897.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background and Aims\n                    Transvenous lead extraction (TLE) is increasingly performed for malfunction or infection of cardiac implantable electronic devices. Because of anatomic differences, TLE for right\u2010sided (RS) electrodes may differ in outcome. This study aimed to evaluate whether RS TLE differs in patient characteristics and outcomes compared to left\u2010sided TLE.\n                  \n                  \n                    Methods\n                    We retrospectively analyzed patients who underwent TLE at the University Hospital Zurich from 2013 until 2023 regarding clinical and radiological success and complications.\n                  \n                  \n                    Results\n                    \n                      A total of 556 patients underwent 568 TLE from January 2013 until December 2023. Patients with RS TLE procedures (\n                      n\n                      \u2009=\u2009147, 25.9%) were older, more often PM\u2010dependent, had longer lead dwell time, more leads with passive fixation and were more often extracted for infection. RS TLE procedures had a longer procedure duration (130 vs. 108\u2009min,\n                      p\n                      \u2009=\u20090.002), more often needed a snare\u2010bailout strategy (22% vs. 10%,\n                      p\n                      \u2009=\u20090.0.45), resulted in lower radiological success rates (88.4% vs. 93.8%,\n                      p\n                      \u2009=\u20090.045) and more major as well as minor complication rates.\n                    \n                  \n                  \n                    Conclusion\n                    In our retrospective single\u2010center analysis, RS TLE Procedures were more challenging concerning patient characteristics and resulted in lower TLE success as well as higher complication rates."
-  },
-  {
-    "title": "Left Bundle Branch Area Pacing Versus Biventricular Pacing for Cardiac Resynchronization Therapy: A Meta\u2010Analysis of RCTs",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70444?af=R",
-    "doi": "10.1111/pace.70444",
-    "journal": "PACE",
-    "date": "Sep 19, 2026",
-    "date_ts": 1789836016.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Left bundle branch area pacing (LBBAP) has emerged as an alternative to conventional biventricular pacing (BiVP) for cardiac resynchronization therapy (CRT). While observational studies have suggested potential advantages of LBBAP in some domains. However, recent randomized controlled trials (RCTs) have reported conflicting results, and contemporary evidence has not been yet synthesized.\n                  \n                  \n                    Objective\n                    To compare the efficacy and safety of LBBAP/conduction system pacing (CSP) versus conventional BiVP for CRT using currently available randomized controlled trial data.\n                  \n                  \n                    Methods\n                    A systematic review and meta\u2010analysis was performed in accordance with PRISMA guidelines. PubMed, Cochrane Library, Google Scholar, and major cardiovascular conference proceedings were searched from January 2016 through May 2026. Randomized controlled trials comparing LBBAP/CSP with BiVP in patients undergoing CRT were included. The primary outcome was all\u2010cause mortality. Secondary outcomes included heart failure hospitalization, change in left ventricular ejection fraction (LVEF), QRS duration, clinical/echocardiographic response, pacing capture threshold, and procedural complications. Random\u2010effects models with restricted maximum likelihood estimation and Hartung\u2010Knapp adjustment were used.\n                  \n                  \n                    Results\n                    \n                      Six fully published randomized trials comprising 792 patients (401 assigned to LBBAP/CSP and 391 to BiVP) were included in the primary analysis. All\u2010cause mortality was similar between strategies (RR 0.56, 95% CI 0.12\u20132.72;\n                      p\n                      = 0.37;\n                      I\n                      2\n                      = 51%). Likewise, no significant differences were observed in heart failure hospitalization (RR 0.67, 95% CI 0.24\u20131.89;\n                      p\n                      = 0.34), clinical/echocardiographic response (RR 0.99, 95% CI 0.89\u20131.11;\n                      p\n                      = 0.87), or change in LVEF (MD 0.54%, 95% CI \u22123.61 to 4.69;\n                      p\n                      = 0.75). LBBAP/CSP was associated with significantly narrower paced QRS duration (MD \u22127.88\u00a0ms, 95% CI \u221214.89 to \u22120.88;\n                      p\n                      = 0.03) and lower pacing capture thresholds (MD \u22120.38\u00a0V, 95% CI \u22120.67 to \u22120.09;\n                      p\n                      = 0.02). Procedural complication rates were comparable between groups (RR 0.97, 95% CI 0.64\u20131.48;\n                      p\n                      = 0.87). Subgroup analysis demonstrated a significant improvement in LVEF among trials employing a pure left bundle branch pacing protocol (MD 5.57%, 95% CI 4.86\u20136.28), whereas mixed CSP strategies showed no significant advantage (\n                      P\n                      &lt; 0.0001 for interaction).\n                    \n                  \n                  \n                    Conclusions\n                    LBBAP/CSP provides superior electrical resynchronization characterized by narrower paced QRS duration and lower capture thresholds while maintaining a safety profile comparable to conventional BiVP. However, these mechanistic advantages did not translate into significant improvements in mortality, heart failure hospitalization, CRT response, or overall LVEF in currently available randomized trials. Larger adequately powered studies are needed to determine whether the physiological benefits of LBBAP result in meaningful long\u2010term clinical advantages."
-  },
-  {
-    "title": "Delayed Right Atrial Lead Perforation: Discrepancy Between Preoperative Findings and Surgical Inspection",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70440?af=R",
-    "doi": "10.1111/pace.70440",
-    "journal": "PACE",
-    "date": "Sep 19, 2026",
-    "date_ts": 1789835926.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  An 87\u2010year\u2010old man presented with chest pain and pericardial effusion two years after dual\u2010chamber implantable cardioverter\u2010defibrillator implantation. Computed tomography suggested delayed right atrial lead perforation, although the pacing threshold was initially unchanged. Five days later, the threshold increased from 0.875 to 2.0\u00a0V/0.4\u00a0ms, raising concern for progression of the perforation. However, surgical exploration revealed hemorrhagic pericardial effusion without active bleeding and only minimal protrusion of the screw tip. The right atrial wall was reinforced with felt and sutured without lead extraction or repositioning. The pacing threshold subsequently returned to baseline, and no further lead intervention was required."
-  },
-  {
-    "title": "Targeting the Cardiac Neuroaxis for Prevention of Postoperative Atrial Fibrillation: Are We Ready for Prime Time?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007759?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Sep 19, 2026",
-    "date_ts": 1789783308.546367,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "When Less Can Be More in Cardioneuroablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007747?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Sep 19, 2026",
-    "date_ts": 1789783308.546337,
     "tags": [
       "Other"
     ],
