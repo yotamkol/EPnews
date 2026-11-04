@@ -13,6 +13,19 @@
     "abstract": "Abstract\n                  \n                    Atrial fibrillation (AF) is the most common sustained cardiac arrhythmia and is promoted by atrial fibrosis, a form of structural remodelling for which effective therapies are lacking. MicroRNA-31-5p (miR-31-5p), an aging-associated, atrial-enriched microRNA, has been linked to AF, but its role in atrial fibrosis is unknown. Here we show that atrial fibroblasts from patients with persistent AF exhibit increased miR-31-5p expression and reduced expression of the calcitonin receptor (CTR, encoded by\n                    CALCR\n                    ). MiR-31-5p directly represses CTR and promotes pro-fibrotic fibroblast responses, whereas its inhibition restores CTR expression. Fibroblast-specific overexpression of miR-31 in mice reduces atrial CTR expression, increases atrial fibrosis and enhances arrhythmia susceptibility. Selective disruption of miR-31-5p\u2212\n                    CALCR\n                    binding using a locked nucleic acid target site blocker restores atrial CTR expression, prevents fibrosis progression and reduces arrhythmia burden. In mice with established atrial remodeling, this strategy promotes fibrosis regression, identifying the miR-31-5p\u2212CTR axis as a potential therapeutic target in AF."
   },
   {
+    "title": "Efficacy of fludrocortisone for symptom relief in patients with autonomic syncope and hypotensive phenotype",
+    "link": "https://doi.org/10.1093/europace/euag304",
+    "doi": "10.1093/europace/euag304",
+    "journal": "EP Europace",
+    "date": "Nov 03, 2026",
+    "date_ts": 1793664000.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aim\n                    To assess the efficacy of fludrocortisone therapy in patients with autonomic syncope and hypotensive phenotype\n                  \n                  \n                    Methods and results\n                    Multicentre, prospective, non-randomized study. Fludrocortisone therapy was guided by clinician experience and supported by two 24-hour ambulatory blood pressure monitoring (ABPM) assessments\u2014one before treatment start (ABPM 1) and one after drug optimization (ABPM 2). Primary endpoint: reduction of the syncope burden and presyncopal symptoms based on validated semi structured questionnaires. Secondary endpoint: hypotensive episodes on ABPM. In a cohort of 94 patients treated with fludrocortisone (median age 38 [IQR 21-57]) years, 83% females), 16 patients stopped therapy due to side effects, occurring during optimization (#11) or follow-up (#5). A total of 83 patients were analysed. The average 24-hour systolic blood pressure (SBP) increased from 106.3\u2009\u00b1\u20098.2\u2005mmHg at ABPM 1 to 112.3\u2009\u00b1\u20099.3 at ABPM 2 (p\u2009=\u20090.0001). The number of daytime SBP drops &amp;lt;90\u2005mmHg and &amp;lt;100\u2005mmHg decreased by 61%, and 45% respectively (p\u2009&amp;lt;\u20090.001 for both). The annual syncope burden was reduced by 50.2%, from 2.0 (IQR 1.0-4.0) before therapy to 0.0 (IQR 0.0\u20131.8) episodes during a median follow-up of 12.9 months (p\u2009=\u20090.0001). Subjective symptom improvement was reported by 85.6% of patients. The frequency of syncope/presyncope decreased significantly, p\u2009=\u20090.009. The outcome was similar in 42 younger (23\u2009\u00b1\u20096 yrs) and in 41 older (56\u2009\u00b1\u200912 yrs) patients.\n                  \n                  \n                    Conclusion\n                    Fludrocortisone therapy was associated with reduced hypotension and the burden of symptoms both in younger and in older patients. Side effects lead to discontinuation of therapy in 17% of cases."
+  },
+  {
     "title": "TCT-1454 New-Onset Atrial Fibrillation in the CELEBRATE Trial: Prognosis and Effect of Pre-Hospital Zalunfiban",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726095756?dgcid=rss_sd_all",
     "doi": null,
@@ -173,6 +186,18 @@
     "tags": [
       "AFib",
       "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Sensing instability associated with substernal air entrapment after EV-ICD implantation: contrasting chronic sensing behavior in two cases",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.10.025",
+    "doi": "10.1016/j.hrcr.2026.10.025",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793491200.0,
+    "tags": [
+      "Devices"
     ],
     "hot": false
   },
@@ -1742,6 +1767,18 @@
       "AFib",
       "VT",
       "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "First Multicentre Experience With the Seq2 Sequence of the Variable Loop Circular Catheter: Insights from VARIPURE",
+    "link": "https://doi.org/10.1093/europace/euag297",
+    "doi": "10.1093/europace/euag297",
+    "journal": "EP Europace",
+    "date": "Oct 22, 2026",
+    "date_ts": 1792627200.0,
+    "tags": [
+      "Other"
     ],
     "hot": false
   },
@@ -6143,42 +6180,6 @@
     "date_ts": 1789869965.777533,
     "tags": [
       "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Predicting Ablation Difficulty for Idiopathic Ventricular Premature Contractions: The Role of the Distance Between Earliest Activation Sites Identified by Near-Field and First-Deflection Annotations",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005660?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.777489,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Frailty Before, Not Only After, Left Atrial Appendage Closure",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005647?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.77745,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Superior vena cava epicardial adipose tissue predicts unintended low-voltage changes after pulsed field ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005659?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.777385,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
