@@ -1,5 +1,96 @@
 [
   {
+    "title": "Characteristics and Mechanisms of Septal Myocardial Injury and Repair Following Left Bundle Branch Area Pacing",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029358?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 05, 2026",
+    "date_ts": 1793851203.812639,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pacing Performance of a Modular Communicative Leadless Pacing-Defibrillator System",
+    "link": "https://doi.org/10.1093/europace/euag309",
+    "doi": "10.1093/europace/euag309",
+    "journal": "EP Europace",
+    "date": "Nov 05, 2026",
+    "date_ts": 1793836800.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    MODULAR ATP is an ongoing trial assessing the efficacy of a subcutaneous implantable cardioverter defibrillator (S-ICD) in communication with a leadless pacemaker (LP) that can deliver bradycardia pacing and antitachycardia pacing. The objective of this study was to assess safety and pacing performance of the investigational LP.\n                  \n                  \n                    Methods\n                    The study enrolled patients with an ICD indication and at high risk for monomorphic ventricular tachycardia. Pacemaker dependent patients were excluded. Primary safety endpoint 2 was the percentage of patients free from major LP-related complications at 12 months. The secondary effectiveness endpoint assessed the rate response performance of the LP under workload. Parameters related to the pacing performance were also measured.\n                  \n                  \n                    Results\n                    In 297 patients, the mean age was 59\u00b112 years, the mean left ventricular ejection fraction was 35.3\u00b113.1%, and 17.5% were female. LP implant was attempted in 286 patients and was successful in 100%. The major LP-related complication free rate at 12 months was 97.2% (one-sided 97.5% LCL 94.5%), surpassing the performance goal of 81%. There were no LP-related complications following Implant. For the secondary effectiveness endpoint, the slope of the normalized sensor rate versus the normalized workload was 0.96 (95% LCL 0.91, 95% UCL 1.02), within the performance goal range of 0.65-1.35. At 12 months, 96.8% of patients had a pacing capture threshold \u2264 2V @ 0.4ms pulse width.\n                  \n                  \n                    Conclusions\n                    The performance of the modular pacing-defibrillator system at one year demonstrated a low complication rate and reliable pacing functionality."
+  },
+  {
+    "title": "<i>Controversy:</i>\n                    Atrial fibrillation ablation should be performed in patients with HFpEF",
+    "link": "https://doi.org/10.1093/europace/euag313",
+    "doi": "10.1093/europace/euag313",
+    "journal": "EP Europace",
+    "date": "Nov 05, 2026",
+    "date_ts": 1793836800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  The role of atrial fibrillation (AF) ablation in the management of heart failure with preserved ejection fraction (HFpEF) remains an under investigated issue with no robust clinical trials data. This controversy reviews the evidence for and against AF ablation in this complex condition from two different perspectives reviewing mechanistic and observational evidence aswell as proposing future directions for research in the field."
+  },
+  {
+    "title": "Ebstein Anomaly With Pre-excited Atrial Fibrillation",
+    "link": "https://doi.org/10.1001/jamacardio.2026.4241",
+    "doi": "10.1001/jamacardio.2026.4241",
+    "journal": "JAMA Cardiology",
+    "date": "Nov 04, 2026",
+    "date_ts": 1793750400.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "This case report discusses a diagnosis of pre-excited atrial fibrillation in a man aged 30 years who presented with palpitations and presyncope and exhibited a fast, broad, and irregular pattern on electrocardiography."
+  },
+  {
+    "title": "Safety of Bioelectric Impedance Analysis Testing in Pediatric Patients With Cardiac Implantable Electronic Devices",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70486?af=R",
+    "doi": "10.1111/pace.70486",
+    "journal": "PACE",
+    "date": "Nov 04, 2026",
+    "date_ts": 1793779188.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Bioelectric impedance analysis (BIA) is a useful clinical tool in pediatric heart disease, but concerns regarding cardiac implanted electronic devices (CIEDs) limit its use. This study's goal was to assess the impact of BIA on CIED settings in pediatric patients.\n                  \n                  \n                    Methods\n                    \n                      This single\u2010center cohort study included two groups: a retrospective cohort of patients under 21 years old who had CIED interrogation within 12 months before and after BIA use, and a smaller prospective cohort who had CIED interrogation immediately before and after BIA use. The prospective group also underwent real\u2010time monitoring for electrical interference during BIA. Exclusion criteria included age, implanted loop recorders, and incomplete data. Analysis used either a paired\n                      t\n                      \u2010test or a Wilcoxon signed\u2010rank test as appropriate, with\n                      p\n                      \u2010value &lt; 0.05 considered statistically significant.\n                    \n                  \n                  \n                    Results\n                    \n                      The retrospective cohort included 55 patients with 80 total tests. A statistically but not clinically significant difference in lead impedance was observed (513 [456, 627] v 513 [399, 593] ohms,\n                      p\n                      &lt; 0.0001), though no differences were found in electrogram amplitudes, thresholds, or programmed output. When patients with multiple tests were analyzed, there remained a statistically significant difference in lead impedance (513 [399, 614] v 513 [375, 592] ohms,\n                      p\n                      = 0.0002) but not in other CIED parameters. In the prospective cohort (\n                      n\n                      = 10), no electrical interference was appreciated during BIA, and there were no before\u2010and\u2010after differences in CIED sensing amplitudes. No inappropriate shocks or premature device failures occurred.\n                    \n                  \n                  \n                    Conclusions\n                    BIA was not associated with adverse events or meaningful changes in CIED function in this pediatric cohort."
+  },
+  {
+    "title": "Primary Prevention ICD in a Contemporary Underserved Population: Factors Associated With Underutilization and Mortality",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70491?af=R",
+    "doi": "10.1111/pace.70491",
+    "journal": "PACE",
+    "date": "Nov 04, 2026",
+    "date_ts": 1793778895.0,
+    "tags": [
+      "SCD",
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background\n                    Registry studies from 2000\u20132010 demonstrated underutilization of primary prevention ICD therapy. As heart failure therapies have reduced sudden cardiac death, investigators have questioned guidelines derived from trials conducted two decades prior, particularly in non\u2010ischemic cardiomyopathy (NICM) and elderly subgroups. We characterized contemporary referral determinants, decision\u2010making processes, and outcomes of primary prevention ICD therapy in a diverse, under\u2010represented population.\n                  \n                  \n                    Methods\n                    In this retrospective single\u2010center cohort study, we reviewed records of all patients meeting Class I criteria for primary prevention ICD in 2019. Multivariable logistic regression identified factors associated with ICD referral, and time\u2010varying Cox models compared all\u2010cause mortality by implantation status through 2022.\n                  \n                  \n                    Results\n                    Of 559 eligible patients, 345 (62%) were referred and 227 (41%) underwent implantation. Referral was associated with male gender, care coordination by a cardiologist rather than a generalist, and lower social vulnerability index (SVI) score. No decision\u2010making rationale was documented for a plurality of non\u2010referred and non\u2010implanted patients; documented rationales identified potential intervention targets. ICD implantation was not associated with all\u2010cause mortality (aHR 0.74, 95% CI 0.49\u20131.12). In exploratory analyses stratified by cardiomyopathy type, implantation was associated with lower mortality in ischemic cardiomyopathy (aHR 0.51, 95% CI 0.27\u20130.95) but not in NICM (aHR 1.11, 95% CI 0.63\u20131.95).\n                  \n                  \n                    Conclusion\n                    Many eligible patients are never referred for ICD therapy. Female gender, generalist care coordination, and high SVI were associated with non\u2010referral. The exploratory association of implantation with lower mortality in ischemic cardiomyopathy was not significant in propensity score overlap\u2010weighted analyses. The NICM estimate was imprecise."
+  },
+  {
+    "title": "Bachmann Bundle Pacing and Acute Changes in Left Atrial Mechanical Function in Patients With Interatrial Block: A Within\u2010Subject Echocardiography Analysis",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70547?af=R",
+    "doi": "10.1111/jce.70547",
+    "journal": "J Cardiovasc EP",
+    "date": "Nov 04, 2026",
+    "date_ts": 1793771431.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Interatrial block (IAB) is associated with atrial electromechanical dysfunction and adverse cardiovascular outcomes. Bachmann bundle pacing (BBP) has emerged as a physiological atrial pacing strategy capable of restoring interatrial conduction synchrony. However, its impact on left atrial (LA) mechanical function and hemodynamics remains unclear.\n                  \n                  \n                    Objective\n                    To evaluate the acute effects of BBP on atrial mechanical parameters in patients with IAB.\n                  \n                  \n                    Methods\n                    In this prospective single\u2010center study, 31 patients with IAB who underwent successful BBP implantation were enrolled. A standardized postoperative evaluation protocol was performed under intrinsic sinus rhythm (SR), right atrial septal pacing (RASP) at atrial lead threshold +0.5\u2009V/0.4\u2009ms, and BBP at 5\u2009V/0.4\u2009ms using a within\u2010subject repeated\u2010measures design. Electrocardiographic and echocardiographic parameters were analyzed using linear mixed\u2010effects models, with additional adjustment for heart rate.\n                  \n                  \n                    Results\n                    \n                      BBP produced significantly greater P wave duration (PWD) shortening than RASP (\n                      p\n                      \u2009&lt;\u20090.001). Compared with SR, BBP was associated with lower LA volume indices and higher LA emptying fraction and LA expansion index (all\n                      p\n                      \u2009&lt;\u20090.001), with consistent superiority over RASP at acute postoperative phase. These associations remained significant after heart rate adjustment. The observed acute changes were consistent across partial and advanced IAB subgroups without significant interaction effects.\n                    \n                  \n                  \n                    Conclusions\n                    In patients with IAB, electrical resynchronization during BBP was accompanied by acute changes in LA mechanical parameters compared with SR and RASP. These findings suggest that BBP may represent a promising physiological pacing strategy for patients with atrial conduction disease."
+  },
+  {
     "title": "Selective blockade of microRNA-31-5p\u2212calcitonin receptor interaction reverses established atrial fibrosis and atrial arrhythmia burden",
     "link": "https://www.nature.com/articles/s44161-026-00897-1",
     "doi": "10.1038/s44161-026-00897-1",
@@ -186,6 +277,31 @@
     "tags": [
       "AFib",
       "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A randomized comparison of comprehensive weight loss intervention vs. usual care on recurrences of atrial fibrillation in obese patients after catheter ablation: HOBIT-AF trial",
+    "link": "https://doi.org/10.1093/europace/euag178",
+    "doi": "10.1093/europace/euag178",
+    "journal": "EP Europace",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793491200.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    Obesity is one of the strongest risk factors for the development of atrial fibrillation (AF), and its reduction is associated with the alleviation of AF burden. The HOBIT-AF study aimed to evaluate the impact of complex weight loss interventions on AF recurrence rate in obese individuals after catheter ablation (CA).\n                  \n                  \n                    Methods and results\n                    The HOBIT-AF was a randomized controlled trial with a 15-month treatment period (3\u201318 months post CA) involving complex weight-reducing interventions in the active arm. The primary outcome was the change in AF/atrial tachycardia (AT) burden assessed from baseline and the final 14-day Holter monitoring. A total of 167 individuals (aged 59 years, body mass index of 35.6\u2005kg/m2) were randomized into the active (n = 85) and control group (n = 82). At the end of the treatment period, a mean reduction of 6.8 \u00b1 7.0% of the initial body weight accompanied by improvement of metabolic parameters was achieved in the active group. The AF/AT burden change was 0.6 \u00b1 2.5% (95% CI: \u22124.2\u20135.5%) in the active group and \u22120.9 \u00b1 1.8% (95% CI: \u22124.5\u20133.0%) in the control group. The AF/AT recurrence-free survival during the 3\u201318-month follow-up period was comparable between groups (70.4% vs. 69.6%).\n                  \n                  \n                    Conclusion\n                    HOBIT-AF trial showed that despite the beneficial effect of body weight reduction on metabolic profile of obese patients with predominantly paroxysmal AF after CA, no reduction in AF/AT recurrence was observed in comparison with control patients. This may be likely due to low AF burden after previous CA, limiting further improvement."
+  },
+  {
+    "title": "Venous Ethanol Ablation for Left Ventricular Summit Arrhythmias in the Presence of Persistent Left Superior Vena Cava",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.10.026",
+    "doi": "10.1016/j.hrcr.2026.10.026",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793491200.0,
+    "tags": [
+      "Other"
     ],
     "hot": false
   },
@@ -6072,114 +6188,6 @@
     "date_ts": 1789869965.77791,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4580936 A VIRTUAL ATRIAL FIBRILLATION CLINIC INTEGRATING WEARABLES TO DELIVER SCALABLE LIFESTYLE RISK FACTOR MODIFICATION",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004630?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.777876,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4573625 REAL-TIME DIGITAL TWINS FOR INTRAPROCEDURAL DECISION SUPPORT: MULTI-CENTER VALIDATION OF A CROSS-PLATFORM FRAMEWORK",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004654?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.777842,
-    "tags": [
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4573644 ATTEMPTED CONDUCTION SYSTEM PACING AND MORTALITY: INSIGHTS FROM THE CONSPIRE REGISTRY WITH CORE LAB ADJUDICATION",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004666?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.777808,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4573658 A NOVEL CARDIO-RESPIRATORY PHYSIOLOGICAL ASSIST TECHNOLOGY FOR SYNCHRONIZING THE HEART RHYTHM TO RESPIRATORY DYNAMICS FOR ALLEVIATING PULMONARY CONGESTION IN PATIENTS WITH CHRONIC HEART FAILURE, FIRST-IN-HUMAN STUDY",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004678?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.777767,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4580222 INTERIM RESULTS OF A POINT PFA CATHETER IN THE TREATMENT OF FOCAL VENTRICULAR ARRHYTHMIAS (FOCUS-PFA)",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600468X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.777733,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4566486 GENERAL-PURPOSE LLMS FOR WCT CLASSIFICATION: NOT READY FOR PRIME TIME",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004691?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.7777,
-    "tags": [
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4566942 MOBILE ELECTROPHYSIOLOGY SYSTEM WITH MIXED REALITY VIRTUAL SCREENS FOR PEDIATRIC ABLATION",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004708?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.777663,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Bridging Circular and High-Density Grid Mapping Catheters for ExTRa Mapping in Persistent Atrial Fibrillation: A Within-Patient Spatial Concordance Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005635?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.777594,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Preexisting Atrial Fibrillation is Associated with Increased Risk of Delirium During Critical Illness: An Analysis of Incidence, Timing, and Risk Factors",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005623?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.777533,
-    "tags": [
-      "AFib"
     ],
     "hot": false
   }
