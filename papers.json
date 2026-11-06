@@ -1,5 +1,102 @@
 [
   {
+    "title": "Defining the Substrate in Scar-Related Ventricular Tachycardia: A Hierarchy of Evidence for Arrhythmogenicity",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26009436?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793937504.517653,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A Novel Bundle Branch Re-Entrant Ventricular Tachycardia Using a Septal Purkinje Network as the Retrograde Limb",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007723?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793937504.517587,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Three-Dimensional Visualization of Regional Epicardial Tissue Changes After Vein of Marshall Ethanol Infusion",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029322?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793937504.291147,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Exercise exposure and arrhythmic patterns in arrhythmogenic right ventricular cardiomyopathy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602936X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793937504.29112,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Microgravity and Cardiac Electrophysiology: Autonomic Remodeling, Arrhythmogenesis, and Implications for Long-Duration Spaceflight",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029383?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793937504.29109,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Impact of Infarct Type on Serious Arrhythmic Event Detection and Cardiovascular Outcomes During Telemedical Monitoring After Myocardial Infarction: A SMART-MI substudy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029346?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793937504.291055,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Corrigendum to \u201cComparison of far-field and peak frequency electrogram characteristics at the earliest activation sites during idiopathic ventricular arrhythmias: A novel index to predict ablation success\u201d <em>Heart Rhythm</em>, Volume 23, Issue 3, pp 645\u2013 653, March 2026",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028900?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793937504.291002,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Local Conformal Auditing Exposes and Restores Reliability of AI-ECG Atrial Fibrillation Detection Under External Deployment Shift",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029371?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793937504.290823,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Characteristics and Mechanisms of Septal Myocardial Injury and Repair Following Left Bundle Branch Area Pacing",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029358?dgcid=rss_sd_all",
     "doi": null,
@@ -6091,103 +6188,6 @@
     "date_ts": 1789869965.778186,
     "tags": [
       "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4567991 TRUSTECGANALYTICS: A QUALITY-AWARE AND RHYTHM-AWARE ECG ANALYTICS FRAMEWORK FOR TRUSTWORTHY CARDIAC ARRHYTHMIA RECOGNITION AND CONTINUOUS CARDIAC HEALTH MONITORING",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600454X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.77815,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4567170 SCALING LAWS IN ECG FOUNDATION MODELS: PRE-TRAINING DATA VOLUME DRIVES PERFORMANCE GAINS ACROSS RHYTHM, FORM, DIAGNOSIS, AND STRUCTURAL HEART DISEASE TASKS",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004551?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778115,
-    "tags": [
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4567935 THE TWO MINUTE FLOOR: MODELING THE STRUCTURAL ATRIAL FIBRILLATION BURDEN DETECTION ASYMMETRY BETWEEN IMPLANTABLE CARDIAC MONITORS AND CONTINUOUS E-TEXTILE WEARABLES",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004575?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778081,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4570788 VENTRICULAR TACHYCARDIA INCIDENCE DURING EXERCISE AND ACTIVITIES OF DAILY LIVING",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004587?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.77805,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4570451 A NON-RANDOMIZED CLINICAL TRIAL FOR THE VALIDATION OF A PHOTOPLETHYSMOGRAPHY BASED ALGORITHM FOR DETECTION OF ATRIAL FIBRILLATION VIA A WEARABLE DEVICE",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004599?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778014,
-    "tags": [
-      "AFib",
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4570466 CLINICAL TRANSLATIONAL RESEARCH ON BLOCKING THE VICIOUS CYCLE OF ATRIAL FIBRILLATION, HEART FAILURE, AND SLEEP APNEA IN THE ELDERLY: BASED ON THE NATIONAL STANDARDIZED DATABASE LED BY OUR TEAM AND THE SELF-DEVELOPED DUAL-MODAL AI WEARABLE SYSTEM",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004605?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.777973,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4566259 CONTACTLESS BED-BASED BODYSEISMOGRAPHY FOR SLEEP STAGING AND SLEEP APNEA MONITORING",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004617?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.777941,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4566289 CONTEXT-AWARE CONTACTLESS AFIB DETECTION FROM BED-BASED BODYSEISMOGRAPHY",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004629?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.77791,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
