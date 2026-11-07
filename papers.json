@@ -1,5 +1,53 @@
 [
   {
+    "title": "Electrocardiographic and Echocardiographic Markers of Atrial and Ventricular Remodeling Allow Identification of Cardiac Sarcoidosis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600945X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Nov 07, 2026",
+    "date_ts": 1794022420.25021,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Conduction System Pacing in Pediatric Patients: Outcomes From a Multicenter International Cohort",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26009655?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Nov 07, 2026",
+    "date_ts": 1794022420.250152,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Comparison of Electrogram-Guided Bachmann Bundle Pacing in Patients With and Without Interatrial Block",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006422?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Nov 07, 2026",
+    "date_ts": 1794022420.156882,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Normative Values for QRS Duration in Athletes aged 12-35 years undergoing Pre-participation Exams",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029334?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 07, 2026",
+    "date_ts": 1794022420.064441,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Defining the Substrate in Scar-Related Ventricular Tachycardia: A Hierarchy of Evidence for Arrhythmogenicity",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26009436?dgcid=rss_sd_all",
     "doi": null,
@@ -95,6 +143,57 @@
       "AFib"
     ],
     "hot": false
+  },
+  {
+    "title": "Issue Information",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70490?af=R",
+    "doi": "10.1111/pace.70490",
+    "journal": "PACE",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793933484.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Ablation of Twin Atrioventricular Node\u2010Mediated Macroreentrant Tachycardia in a Patient With Complex Heterotaxy Syndrome",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70497?af=R",
+    "doi": "10.1111/pace.70497",
+    "journal": "PACE",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793933470.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  Twin atrioventricular (AV) nodes constitute a rare and highly complex electrophysiological substrate for tachycardia in heterotaxy syndrome (complex cardiac heart disease). We present the case of an 18\u2010year\u2010old male with right atrial isomerism, asplenia, univentricular physiology, and a Glenn shunt, who presented with a regular wide\u2010QRS tachycardia associated with severe hemodynamic decompensation. High\u2010density electroanatomical mapping identified two distinct His bundle recordings separated by 20.3\u00a0mm. Together with two non\u2010preexcited QRS morphologies and different conduction properties, these findings supported suspected twin AV node\u2010mediated macroreentry, with proposed anterograde conduction via the inferior\u2010posterior system and retrograde conduction through the superior\u2010anterior system; complete circuit mapping and entrainment were not possible. Following an initial procedure complicated by pulseless electrical activity clinically attributed to post\u2010cardioversion myocardial stunning, a second electrophysiological study prioritized functional characterization during sinus rhythm and atrial pacing without preablation reinduction of the clinical tachycardia. Selective ablation of the superior\u2010anterior His region preserved AV conduction and was followed by noninducibility of the clinical tachycardia. A separate isthmus\u2010dependent flutter was also ablated. At two months, clinical assessment, ECG, and 24\u2010hour Holter monitoring showed no documented recurrence or new AV block."
+  },
+  {
+    "title": "Syncope with right bundle branch block without left hemiblock: lower risk, but not benign.",
+    "link": "https://doi.org/10.1093/europace/euag314",
+    "doi": "10.1093/europace/euag314",
+    "journal": "EP Europace",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793923200.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The Art Behind the Algorithm: Hybrid Ablation and the Need for a Lifetime Strategy in Non-Paroxysmal Atrial Fibrillation",
+    "link": "https://doi.org/10.1093/europace/euag306",
+    "doi": "10.1093/europace/euag306",
+    "journal": "EP Europace",
+    "date": "Nov 06, 2026",
+    "date_ts": 1793923200.0,
+    "tags": [
+      "AFib",
+      "AI"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  The management of persistent and long-standing persistent atrial fibrillation remains highly variable in clinical practice, despite increasingly refined guidelines and an expanding ablation armamentarium. Treatment sequencing is frequently driven by local program infrastructure and institutional culture, and hybrid ablation is often deferred until multiple endocardial procedures have failed, by which point progressive atrial remodeling may have already narrowed the therapeutic window.\n                  Randomized and registry data support a meaningful role for hybrid ablation earlier in the disease course of selected patients with non-paroxysmal AF, particularly those with enlarged atria, prolonged AF duration, advanced substrate, or failed prior endocardial ablation. Contemporary pulsed-field ablation technology has improved procedural safety and efficiency, yet freedom from recurrence at one year in persistent AF remains substantially lower than in paroxysmal AF across all current energy platforms, reflecting the complexity of atrial substrate over time.\n                  This ongoing myocardial remodeling places non-paroxysmal AF closer to a chronic structural cardiac disease than to a discrete procedural target and demands a lifetime management strategy rather than a sequence of isolated procedural decisions. The mindset for other progressive structural cardiac diseases has already moved in this direction\u2014aortic valve stenosis is now managed through a multidisciplinary team that integrates anatomy, timing, procedural durability, and long-term risk across the full patient trajectory. We propose an AF Heart Team framework for non-paroxysmal AF in which catheter-based, hybrid, and surgical strategies are selected according to disease phenotype and lifetime trajectory, with the goal of intervening before advanced remodeling reduces the likelihood of durable rhythm control."
   },
   {
     "title": "Characteristics and Mechanisms of Septal Myocardial Injury and Repair Following Left Bundle Branch Area Pacing",
@@ -238,6 +337,87 @@
     "hot": false
   },
   {
+    "title": "Abstract 10435: Right Atrial Volume Index Improves Risk Stratification for New-Onset Atrial Fibrillation After Acute Myocardial Infarction",
+    "link": "https://doi.org/10.1161/circ.154.suppl_1.10435",
+    "doi": "10.1161/circ.154.suppl_1.10435",
+    "journal": "Circulation",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793577600.0,
+    "tags": [
+      "AFib",
+      "SCD"
+    ],
+    "hot": false,
+    "abstract": "Background:\n                    New-onset atrial fibrillation (NOAF) is a frequent, prognostically important complication of myocardial infarction (MI), yet risk stratification remains limited. Left atrial volume index (LAVi) is an established predictor of AF, but the prognostic significance of right atrial volume index (RAVi) as a marker of post-MI atrial remodeling remains uncertain.\n                  \n                  \n                    Hypothesis:\n                    We hypothesized that RAVi independently predicts post-MI NOAF and provides incremental predictive value beyond established clinical and echocardiographic risk factors.\n                  \n                  \n                    Methods:\n                    We conducted a retrospective cohort study of 2,091 patients admitted with MI and no prior AF who underwent index admission echocardiography. Sequential multivariable Cox proportional hazards models were constructed: Model 1 (clinical variables, including age, sex, comorbidities, STEMI, and moderate-or-greater [\u2265+2] mitral and tricuspid regurgitation), Model 2 (Model 1 + LAVi + LVEF), and Model 3 (Model 2 + RAVi). Discrimination was assessed by the concordance index (C-index), and incremental value was evaluated by likelihood ratio testing (LRT). Kaplan-Meier analysis was stratified by a RAVi threshold of 28 mL/m\n                    2\n                    , derived from maximally selected rank statistics. A prespecified sensitivity analysis was performed in the subgroup with available percutaneous coronary intervention (PCI) outcome data.\n                  \n                  \n                    Results:\n                    NOAF occurred in 248 patients (11.9%) over 3 years. Patients who developed NOAF were older, had more prior heart failure, and lower successful PCI rates. Patients with RAVi \u226528 mL/m\n                    2\n                    had significantly lower NOAF-free survival over 3 years than those with RAVi &lt;28 mL/m\n                    2\n                    (Figure 1). Model discrimination improved from a C-index of 0.697 for the clinical model to 0.718 after addition of LAVi and LVEF (\u0394LRT p&lt;0.001) and to 0.727 after inclusion of RAVi (\u0394LRT p=0.003). In the fully adjusted model, both LAVi (HR 1.018 per mL/m\n                    2\n                    , 95% CI 1.007-1.029, p=0.002) and RAVi (HR 1.019 per mL/m\n                    2\n                    , 95% CI 1.007-1.031, p=0.003) independently predicted NOAF (Figure 2). Moderate-or-greater mitral regurgitation was also independently associated with NOAF (HR 1.77, 95% CI 1.25-2.51, p=0.001). In a sensitivity analysis restricted to patients with available PCI outcome data (n=1,295; 143 NOAF events), successful PCI was independently associated with a lower NOAF risk (HR 0.56, 95% CI 0.40-0.80, p=0.001), and RAVi remained independently predictive (HR 1.020 per mL/m\n                    2\n                    , 95% CI 1.002-1.038, p=0.030).\n                  \n                  \n                    Conclusions:\n                    RAVi independently predicts NOAF following MI and provides incremental predictive information beyond established clinical risk factors, LAVi, and LVEF. These findings suggest that right atrial remodeling represents a distinct pathophysiologic process that is not fully captured by left atrial measurements alone. RAVi may serve as a useful echocardiographic marker for identifying patients at increased risk of NOAF following MI."
+  },
+  {
+    "title": "Abstract 15755: Artificial Intelligence Electrocardiographic Detection of Diastolic Dysfunction and Incident Atrial Fibrillation in a Population-Based Cohort",
+    "link": "https://doi.org/10.1161/circ.154.suppl_1.15755",
+    "doi": "10.1161/circ.154.suppl_1.15755",
+    "journal": "Circulation",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793577600.0,
+    "tags": [
+      "AFib",
+      "AI"
+    ],
+    "hot": false,
+    "abstract": "Background:\n                    Diastolic dysfunction reflects abnormalities in ventricular filling and may capture early atrial remodeling that precedes atrial fibrillation. Artificial intelligence applied to standard electrocardiograms may enable scalable identification of this latent cardiovascular phenotype, but its relevance for future atrial fibrillation in the general population remains uncertain.\n                  \n                  \n                    Methods:\n                    We studied 43,394 UK Biobank participants with available 12-lead electrocardiograms and no prior atrial fibrillation, heart failure, or stroke. A previously developed artificial intelligence electrocardiographic model for echocardiographic diastolic dysfunction was applied without retraining. Participants were classified by a prespecified model threshold and by tertiles of the model output. Cox proportional hazards models were used to evaluate associations with incident atrial fibrillation. Predictive performance was assessed using Harrell\u2019s C-index and net reclassification improvement when the artificial intelligence electrocardiographic measure was added to a clinical risk score.\n                  \n                  \n                    Results:\n                    The mean age was 55.0 \u00b1 7.6 years, and 47.4% were men. Overall, 7,232 participants were classified as having artificial intelligence electrocardiographic evidence of diastolic dysfunction. During a median follow-up of 3.6 years, 683 incident atrial fibrillation events occurred. The 7-year cumulative incidence of atrial fibrillation was 6.4% among participants with artificial intelligence electrocardiographic evidence of diastolic dysfunction and 2.1% among those without it. In multivariable-adjusted analysis, artificial intelligence electrocardiographic evidence of diastolic dysfunction was associated with a higher risk of incident atrial fibrillation, with a hazard ratio of 2.04 and 95% confidence interval of 1.73 to 2.41. A graded relationship was observed across tertiles of the model output, with hazard ratios of 1.30 for the middle tertile and 2.02 for the highest tertile compared with the lowest tertile. The artificial intelligence electrocardiographic measure showed discrimination comparable to a clinical risk score and improved prediction when added to it, with an increase in C-index of 0.041 and net reclassification improvement of 19.1%.\n                  \n                  \n                    Conclusion:\n                    In a large population-based cohort, artificial intelligence electrocardiographic evidence of diastolic dysfunction identified individuals at increased risk for incident atrial fibrillation. These findings support electrocardiographic artificial intelligence as a scalable marker of subclinical cardiac remodeling relevant to atrial fibrillation prevention."
+  },
+  {
+    "title": "Abstract 15453: Outcomes of New Onset Atrial Fibrillation Following Hematopoietic Stem Cell Transplantation: A Single Center Retrospective Study",
+    "link": "https://doi.org/10.1161/circ.154.suppl_1.15453",
+    "doi": "10.1161/circ.154.suppl_1.15453",
+    "journal": "Circulation",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793577600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Background:\n                    Atrial fibrillation (AF) is the most common cardiovascular complication following hematopoietic stem cell transplantation (HSCT).\n                  \n                  \n                    Objective:\n                    We evaluate the incidence of stroke, management strategies, and survival outcomes among patients who developed AF following HSCT (onset &lt;30 days versus &gt;30 days).\n                  \n                  \n                    Methods:\n                    We performed a single-center retrospective cohort study of adult patients who developed new-onset AF following HSCT at Saint Louis University between 2018 and 2025. Comparisons between groups were performed using the Wilcoxon rank-sum test for continuous variables and Fisher\u2019s exact test for categorical variables. Cox proportional hazards regression was used to evaluate the association between the timing of AF onset (\u226430 vs &gt;30 days after HSCT) and mortality, adjusting for age and sex. We used R software for statistical analysis.\n                  \n                  \n                    Results:\n                    Of 607 patients who underwent HSCT, 46 (7.57%) patients had new-onset AF. Median time from HSCT to AF onset was 33 days (IQR 9-376), with 54.3% occurring within 30 days of transplantation. Median age at HSCT was 69 years (IQR 64-73), 67.4% were male, and 73.9% underwent autologous HSCT. The most common indications for HSCT were multiple myeloma (47.8%) and non-Hodgkin lymphoma (23.9%) (Table 1). Median CHA\n                    2\n                    DS\n                    2\n                    -VASc score was 3 (IQR 1.2-4.0); 45.7% of patients received long-term prophylactic anticoagulation, and 67.4% needed rate control only.During a median follow-up of 733 days (IQR 49-1115) after AF diagnosis, 2 patients (4.3%) experienced ischemic stroke and 23 (50.0%) died. Over 98.8 person-years of follow-up, the ischemic stroke incidence was 2.03 per 100 person-years (95% CI 0.25-7.32). Patients who developed AF within 30 days of HSCT had significantly improved overall survival compared with those who developed AF more than 30 days after transplantation (adjusted HR, 0.17; 95% CI, 0.06-0.45) (Figure 1).Among 21 patients who developed AF within 30 days of HSCT, 7 (33.3%) experienced recurrent AF after discharge (Figure 2). Among patients with recurrent AF, the median time to recurrence was 6.1 months (IQR, 1.9-12.4 months). Most recurrences (71.4%) occurred within the first year after AF onset.\n                  \n                  \n                    Conclusion:\n                    AF onset &gt;30 days after transplantation was associated with significantly worse survival independent of age and sex, suggesting that AF timing may serve as an important prognostic marker. Larger multicenter studies are needed to validate these findings."
+  },
+  {
+    "title": "Abstract 13419: Stroke-Related Mortality Associated with Atrial Fibrillation: Rising Burden, Recent Declines, and Persistent Disparities in the United States, 1999-2024",
+    "link": "https://doi.org/10.1161/circ.154.suppl_1.13419",
+    "doi": "10.1161/circ.154.suppl_1.13419",
+    "journal": "Circulation",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793577600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Background:\n                    Atrial fibrillation (AF) is the most common sustained cardiac arrhythmia and is a major risk factor for ischemic stroke, contributing substantially to stroke-related disability and mortality in the United States. Despite advances in anticoagulation therapy and stroke prevention strategies, the long-term population-level burden of stroke-related mortality among individuals with AF remains incompletely characterized. Evaluating temporal trends and disparities may identify vulnerable populations and inform targeted prevention efforts.\n                  \n                  \n                    Research Question:\n                    How have stroke-related mortality rates among U.S. adults with atrial fibrillation changed over time, and do these trends differ by sex, age, race/ethnicity, and geographic location?\n                    Methods\n                    We analyzed CDC WONDER mortality data from 1999-2024 for U.S. adults aged \u226525 years with stroke (ICD-10: I60-I69) and AF (ICD-10: I48) listed on death certificates. Age-adjusted mortality rates (AAMRs) were stratified by sex, age group, race/ethnicity, census region, and urbanization status. Temporal trends were assessed using Joinpoint regression and annual percent changes (APCs). Statistical significance was defined as p&lt;0.05.\n                  \n                  \n                    Results:\n                    A total of 713,308 stroke-related deaths associated with AF were identified. Overall mortality declined from 1999-2008 (APC, \u20130.52%, p&gt;0.05), increased from 2008-2018 (APC, 1.37%, p&lt;0.05), rose from 2018-2021 (APC, 6.93%, p&lt;0.05), and declined from 2021-2024 (APC, \u20132.63%, p&lt;0.05). Men had higher mortality than women (AAMR: 12.3 vs. 11.7 per 100,000). Among men, mortality increased from 2008-2018 (APC, 2.10%, p&lt;0.05) and 2018-2021 (APC, 9.16%, p&lt;0.05), then declined from 2021-2024 (APC, \u20132.79%, p&lt;0.05). Among women, mortality increased from 2007-2018 (APC, 0.75%, p&lt;0.05) and 2018-2021 (APC, 5.36%, p&lt;0.05), followed by a decline. Mortality was highest among older adults. White individuals had the highest AAMRs, followed by Black/African American, Asian/Pacific Islander, Hispanic, and American Indian/Alaska Native populations. Mortality was also higher in non-metropolitan areas and the Western census region.\n                  \n                  \n                    Conclusions:\n                    Stroke-related mortality associated with AF increased for more than a decade before declining after 2021, highlighting persistent opportunities for improved prevention and management. Men, older adults, and residents of non-metropolitan regions experienced a disproportionate mortality burden. These findings underscore the need for enhanced AF detection, equitable access to evidence-based anticoagulation, and targeted stroke prevention strategies to reduce ongoing demographic and geographic disparities."
+  },
+  {
+    "title": "Abstract 17151: Novel Guideline-Directed Medical Therapy and Ventricular Arrhythmia Risk in Diabetes with Non-Ischemic Cardiomyopathy",
+    "link": "https://doi.org/10.1161/circ.154.suppl_1.17151",
+    "doi": "10.1161/circ.154.suppl_1.17151",
+    "journal": "Circulation",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793577600.0,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false,
+    "abstract": "Introduction:\n                    The Analysis of Both Sex and Device Specific Factors on Outcomes in Patients with Non-Ischemic Cardiomyopathy (BIO-LIBRA) study studied contemporary outcomes implantable cardioverter defibrillators (ICD) or cardiac resynchronization therapy (CRT-D) in non-ischemic cardiomyopathy (NICM) patients with guideline-directed medical therapy (GDMT) including SGLT2 inhibitor (SGLT2i) and ARNI. However, the risk of ventricular arrhythmias (VT/VF) was not assessed by diabetes and novel GDMT.\n                  \n                  \n                    Objective:\n                    We aimed to examine the risk of VT/VF/Death by diabetes and novel GDMTs in NICM patients with ICD or CRT-D.\n                  \n                  \n                    Methods:\n                    We included 1000 patients from BIO-LIBRA, enrolling 336 (34%) patients with diabetes, further stratified by SGLT2i or ARNI use. Rates of VT/VF and death alone were assessed by Kaplan-Meier analyses. Multivariate Cox-proportional analyses were performed to assess the risk of the primary endpoint of VT/VF or death alone by diabetes and by novel GDMTs.\n                  \n                  \n                    Results:\n                    Patients with diabetes prescribed SGLT2i had the lowest rate of VT/VF compared to no SGLT2i (Figure A, 3% vs. 10%, log-rank p=0.023), linked to an 80% lower risk of VT/VF (HR=0.20, CI=0.03-1.50, p=0.12). Patients without diabetes had similar rates and risk of VT/VF with or without SGLT2i (Fig. A, HR=1.00, CI=0.14-7.43). Patients with diabetes and ARNI had a lower rate of death compared to no ARNI (Figure B, 8% vs. 17%, log-rank p=0.03) with a significant, 54% lower risk of death (HR=0.58, CI:0.36-0.94, p=0.025). Patients without diabetes had similar rates and risk of Death with or without ARNI as patients with diabetes and ARNI. Similar findings were found for VT/VF/death, but not for VT/VF only in patients with ARNI.\n                  \n                  \n                    Conclusion:\n                    Among NICM patients, the use of novel GDMT, SGLT2i was linked to a lower rate of VT/VF, while the use of ARNI was linked to a significantly lower risk of death in patients with diabetes, highlighting the importance of incorporating these new medications into their treatment regimen prior to an ICD or CRT-D implantation to improve outcomes."
+  },
+  {
+    "title": "Abstract 11605: Effect of Respiratory Sinus Arrhythmia-Guided Right Ventricular Pacing on Cardiac Output and Stroke Volume",
+    "link": "https://doi.org/10.1161/circ.154.suppl_1.11605",
+    "doi": "10.1161/circ.154.suppl_1.11605",
+    "journal": "Circulation",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793577600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Background:\n                    Respiratory sinus arrhythmia (RSA) increases heart rate and slightly decreases stroke volume during inspiration, with the opposite physiological effects occurring during expiration. RSA improves ventilation-perfusion matching in the lungs and optimizes cardiac performance both at rest and during exercise. Patients with pacemaker (PM) -dependency completely lose the beneficial effects of RSA, resulting in impaired hemodynamics. Small neural networks known as central pattern generators (CPGs) are increasingly being recognized for their ability to re-establish physiological heart rate feedback responses in pathological conditions such as heart failure.\n                  \n                  \n                    Research Question:\n                    The aim of this study was to restore physiological heart rate modulation driven by autonomic neural activity using our newly developed RSA-guided pacemaker and to investigate the effects of RSA-guided pacing on cardiac output (CO) and stroke volume (SV) in a translational animal model.\n                  \n                  \n                    Methods:\n                    A total of 36 healthy pigs were included in the study (50% male, body weight 38+/-11 kg). Following induction of general anesthesia, pressure-volume loop (PVL) measurements were performed by inserting a pressure-volume catheter into the left ventricle. Cardiac output and stroke volume were measured invasively in 30 pigs. Ten of these animals received a temporary PM inserting the PM electrode into the RV apex, and underwent RV pacing at predefined single-lead pacing rates. Repeated PVL measurements were performed. In the second phase of the study, an additional six pigs were anesthetized, and respiratory sensors were implanted subcutaneously within the intercostal spaces. After achievement of adequate respiratory signals, PVL measurements were performed during RSA-guided right ventricular pacing at progressively increasing pacing rates. PVL measurements were repeated three times under each experimental condition. Results. Increasing heart rate resulted in a physiological increase in CO and a decrease in SV. Continuous RV pacing without RSA modulation at increasing pacing rates resulted in lower CO and SV compared with non-paced healthy pigs (Fig. 1). In contrast, stepwise enhancement of RSA-guided modulation during continuous pacing led to a gradual increase in CO, while the adverse effect of pacing on SV was attenuated (Fig. 2). Electrocardiographic recordings successfully demonstrated respiration-dependent heart rate variability during constant pacing rates when RSA guidance was applied (Fig. 3).\n                  \n                  \n                    Conclusions:\n                    Full RSA-modulated pacing using our neuronal-network-based pacemaker resulted in superior CO progression and higher SV at increasing heart rates compared with conventional constant-rate pacing in animals. These findings suggest that RSA-guided pacemaker therapy may improve both resting and exercise-related cardiac performance in patients with cardiovascular disease."
+  },
+  {
     "title": "Lower ischaemic stroke risk in atrial flutter vs fibrillation? The jury is still out",
     "link": "https://doi.org/10.1093/eurheartj/ehag788",
     "doi": "10.1093/eurheartj/ehag788",
@@ -374,6 +554,31 @@
     "tags": [
       "AFib",
       "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Beyond anticoagulation: defining the role of left atrial appendage closure in stroke prevention for atrial fibrillation",
+    "link": "https://doi.org/10.1093/europace/euag296",
+    "doi": "10.1093/europace/euag296",
+    "journal": "EP Europace",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793491200.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  Oral anticoagulation has a very strong evidence base for stroke prevention in patients with atrial fibrillation (AF) at elevated thromboembolic risk. Direct oral anticoagulants have improved the safety and convenience of treatment, yet important limitations remain, including residual ischaemic stroke, major bleeding, treatment discontinuation, and patient refusal. Left atrial appendage closure (LAAC) offers an alternative strategy for selected patients by excluding the principal anatomical source of AF-related cardiac thrombi. However, the appropriate role of LAAC remains controversial, particularly in patients who can and do tolerate anticoagulation. This viewpoint argues for a more individualized approach that distinguishes absolute contraindications from modifiable bleeding risks, treatment refusal or non-persistence, and stroke occurring despite adequate anticoagulation."
+  },
+  {
+    "title": "Fluoroscopy-free transseptal access after patent foramen ovale closure guided by three-dimensional intracardiac echocardiographic reconstruction",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.11.001",
+    "doi": "10.1016/j.hrcr.2026.11.001",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793491200.0,
+    "tags": [
+      "Other"
     ],
     "hot": false
   },
@@ -5995,199 +6200,6 @@
     "date_ts": 1789869965.778734,
     "tags": [
       "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4569917 SMARTWATCH-DERIVED BIOMETRICS ENABLE EARLY, CLINICALLY RELEVANT DETECTION OF IMPENDING EMERGENCY VISITS: FINDINGS FROM THE HEARTBEAT STUDY",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004356?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.7787,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4570532 DYNAMIC EVOLUTION OF SERIAL PPG-DERIVED AF RISK SCORES AFTER AF ABLATION IDENTIFIES PATIENTS AT RISK OF RECURRENCE",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004368?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778667,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4570452 PERSONALIZING THE BLANKING PERIOD THROUGH MACHINE-LEARNED AF BURDEN PROFILES",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600437X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778637,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4570395 SUPERVISED PRETRAINING ENABLES DIASTOLIC BLOOD PRESSURE SCREENING FROM PASSIVE WEARABLE PPG",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004381?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778605,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4567303 EVALUATION OF CLOUD BASED AGGREGATION PLATFORMS IN A PEDIATRIC CARDIAC DEVICE REMOTE MONITORING CLINIC",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004393?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778569,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4570458 ULTRA-LOW ENERGY ATRIAL CARDIOVERSION BY LEFT ATRIAL MULTI-SITE PACING: A NOVEL PARADIGM FOR FUNCTIONAL SINUS RHYTHM RESTORATION",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004423?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778518,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4570830 ROBOTIC MAGNETIC NAVIGATION FOR COMPLEX PVC ABLATION IN A COHORT AT HIGH RISK FOR RECURRENCE",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004435?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778486,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4570454 A CALL TO ACTION: ALIGNMENT OF IMPLANTABLE CARDIOVERTER DEFIBRILLATOR DEFAULTS WITH GUIDELINES RECOMMENDATIONS TO IMPROVE OUTCOMES",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004447?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778453,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4571003 COMPARISON OF RHYTHM MONITORING STRATEGIES FOR DETECTION OF ATRIAL ARRHYTHMIA RECURRENCE FOLLOWING PULSED FIELD ABLATION IN PATIENTS WITH ATRIAL FIBRILLATION",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004459?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778418,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4580958 INTEGRATING CTI AND PVI ON A SINGLE PFA PLATFORM: FIRST CLINICAL EXPERIENCE WITH A NOVEL LINEAR-TIP CATHETER",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004460?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778384,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4568025 EAST VS. WEST IN AI DIAGNOSTICS: BENCHMARKING INTERNATIONAL LLMS IN DIFFERENTIATING VENTRICULAR TACHYCARDIA",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004472?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778352,
-    "tags": [
-      "VT",
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4567538 ARTIFICIAL INTELLIGENCE DETECTION OF CARDIAC AMYLOIDOSIS USING ELECTROCARDIOGRAMS: INTERIM RESULTS FROM THE MULTICENTER CONCERTO STUDY",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004496?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778319,
-    "tags": [
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4570898 ROBUST COLLECTION OF ECG SIGNALS FROM A NON-TRADITIONAL LOCATION, REGARDLESS OF PATIENT SELF-ADJUSTMENT",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004502?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778285,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4571002 INTER-ANNOTATOR AGREEMENT IN AMBULATORY ECG RHYTHM ANNOTATION: A LARGE-SCALE STUDY OF CLASSIFICATION RELIABILITY, TRANSITION TIMING, AND PVC LOCALIZATION ACROSS 19 CLINICIANS",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004514?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778248,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4570995 NO CATH, NO PROBLEM? ELECTROCARDIOGRAPHIC ARTIFICIAL INTELLIGENCE (ECG-AI) FOR NON-INVASIVE CLASSIFICATION OF MEAN PULMONARY CAPILLARY WEDGE PRESSURE",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004526?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778216,
-    "tags": [
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4566926 CHASING PERFECTION IN ECG AI: IMPACT OF VALIDATION METHODS AND DATASETS",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004538?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778186,
-    "tags": [
-      "AI"
     ],
     "hot": false
   }
