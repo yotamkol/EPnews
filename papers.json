@@ -1,5 +1,162 @@
 [
   {
+    "title": "Prognostic Value of Left Atrial Appendage Enhancement on Late-Phase Prone-Position Computed Tomography for Recurrence After Cryoballoon-Based Ablation of Non-Paroxysmal Atrial Fibrillation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006379?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Nov 08, 2026",
+    "date_ts": 1794107001.388654,
+    "tags": [
+      "AFib",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Comprehensive Assessment of Contact Sensing Using a Mapping-Integrated Pentaspline Pulsed Field Ablation Catheter",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006410?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Nov 08, 2026",
+    "date_ts": 1794107001.388628,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Association Between Hyponatremia and QRS Prolongation in Patients on Flecainide",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006392?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Nov 08, 2026",
+    "date_ts": 1794107001.388602,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Directional Topology Analysis of the Subsurface of the Triangle of Koch and Atrioventricular Septum",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006409?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Nov 08, 2026",
+    "date_ts": 1794107001.388573,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "VASOPRESSOR-SUPPORTED MAPPING OF SCAR-RELATED VENTRICULAR TACHYCARDIA: EFFICACY AND SAFETY OF A PRE-LOADING ABLATION STRATEGY",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006380?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Nov 08, 2026",
+    "date_ts": 1794107001.388541,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Routine Echocardiography After Pediatric and Congenital Arrhythmia Ablations: Clinical Utility and Cost Effectiveness",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006367?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Nov 08, 2026",
+    "date_ts": 1794107001.388464,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Ventricular Fibrillation During Pulsed Field Ablation With Dual-Energy Focal Catheters in Patients With Cardiac Implantable Electronic Devices",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029760?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 08, 2026",
+    "date_ts": 1794107001.307977,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Centralized Remote Monitoring Enables Detection of Institutional Outliers in Cardiac Implantable Electronic Device Longevity: A Case for National Benchmarking",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029747?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 08, 2026",
+    "date_ts": 1794107001.307945,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cardiac electrophysiology procedures must be performed exclusively by trained electrophysiologists: A statement from the Heart Rhythm Society and Heart Rhythm Advocates",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028213?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 08, 2026",
+    "date_ts": 1794107001.307911,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Metabolic Dysfunction-Associated Steatotic Liver Disease and Sudden Cardiac Death: Epidemiology, Mechanisms, Risk Stratification, and Prevention",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029759?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 08, 2026",
+    "date_ts": 1794107001.307874,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "From Rotational Activation to Reentry Initiation in Scar-Related Ventricular Tachycardia: Unidirectional Block at a Conducting Gap Along a Fixed Line of Block",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029735?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 08, 2026",
+    "date_ts": 1794107001.307705,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "AI-ECG Atrial Fibrillation Detection: Unlocking Secrets in Sinus Rhythm?",
+    "link": "https://doi.org/10.1161/circulationaha.126.083868",
+    "doi": "10.1161/circulationaha.126.083868",
+    "journal": "Circulation",
+    "date": "Nov 07, 2026",
+    "date_ts": 1794009600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "AI-ECG: Gatekeeper-in-Training for Population-level Atrial Fibrillation Screening",
+    "link": "https://doi.org/10.1161/circulationaha.126.083888",
+    "doi": "10.1161/circulationaha.126.083888",
+    "journal": "Circulation",
+    "date": "Nov 07, 2026",
+    "date_ts": 1794009600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Electrocardiographic and Echocardiographic Markers of Atrial and Ventricular Remodeling Allow Identification of Cardiac Sarcoidosis",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405500X2600945X?dgcid=rss_sd_all",
     "doi": null,
@@ -46,6 +203,19 @@
       "Other"
     ],
     "hot": false
+  },
+  {
+    "title": "Mapping and Outcome Implications of Left Atrial Low Voltage Regions as Determined by a Novel 122-electrode Spherical Mapping and Ablation Catheter",
+    "link": "https://doi.org/10.1093/europace/euag315",
+    "doi": "10.1093/europace/euag315",
+    "journal": "EP Europace",
+    "date": "Nov 07, 2026",
+    "date_ts": 1794009600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    A novel 122-electrode spherical mapping/pulsed field ablation (PFA) device is known to effectively ablate atrial fibrillation (AF). The aim of this study is threshold optimization of LVA for the unique geometry of the Globe electrodes and the prognostic association, to evaluate if the extent of low voltage areas could predict recurrence.\n                  \n                  \n                    Methods and Results\n                    The PULSAR study was an IDE trial of 183 patients undergoing first-time paroxysmal AF ablation with one-year outcomes of any atrial arrhythmia. During this study, a subset of patients (n=82) had detailed pre-ablation voltage maps performed with the catheter. Pulmonary vein isolation (PVI) was then performed with PFA. Patients were followed with weekly transtelephonic monitoring, ECG, and Holters at 3, 6, and 12 months. Recurrence was defined as any atrial arrhythmia (AA) &amp;gt; 30 seconds.\n                    Receiver operator curve (ROC) analysis revealed that a low voltage threshold of 1.0 mV had the highest value (0.735). The percentage LVA surface area resulting from a threshold of 1.0 mV that predicted AA recurrence was 11.6%. Univariate and multivariate analysis revealed the percentage LVA was the strongest predictor of AA recurrence. The 12-month freedom from AA was 84.6% and 52.9% for subjects under and over the low voltage area threshold respectively.\n                  \n                  \n                    Conclusions\n                    A voltage threshold of 1.0 mV is proposed as a threshold for defining LVA using the spherical catheter, but a range of approximately 0.5-1.5 mV yielded similar performance. Increased low voltage area in the pre-ablation atrial map was associated with a higher risk of AA recurrence."
   },
   {
     "title": "Defining the Substrate in Scar-Related Ventricular Tachycardia: A Hierarchy of Evidence for Arrhythmogenicity",
@@ -554,6 +724,44 @@
     "tags": [
       "AFib",
       "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Cardioneuroablation for Nocturnal Vagally Mediated Advanced Atrioventricular Block: A Case Report",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.11.005",
+    "doi": "10.1016/j.hrcr.2026.11.005",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793491200.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Takotsubo Syndrome with Ventricular Fibrillation Cardiac Arrest Following Uncomplicated Left Bundle Branch Area Pacing",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.11.004",
+    "doi": "10.1016/j.hrcr.2026.11.004",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793491200.0,
+    "tags": [
+      "VT",
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Small-Circuit Reentrant Atrial Tachycardia Successfully Treated with a Dual-energy Lattice-tip Catheter",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.11.003",
+    "doi": "10.1016/j.hrcr.2026.11.003",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793491200.0,
+    "tags": [
+      "AFib",
+      "SVT"
     ],
     "hot": false
   },
@@ -5994,212 +6202,6 @@
     "date_ts": 1789869965.779301,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4570966 DIGITAL ENGAGEMENT FACTORS ASSOCIATED WITH SUSTAINED 15% WEIGHT LOSS AT THREE YEARS: IMPLICATIONS FOR CARDIOVASCULAR RISK REDUCTION",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004137?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.779267,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4570971 CONCORDANCE OF SMARTWATCH AND 12-LEAD QTC MEASUREMENTS ACROSS CRITICAL THRESHOLDS IN ANTIARRHYTHMIC DRUG LOADING",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004149?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.779234,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4570991 EVALUATING ZERO-SHOT CAPABILITIES OF MULTIMODAL LARGE LANGUAGE MODELS FOR SINGLE-LEAD ECG INTERPRETATION FROM IMPLANTABLE LOOP RECORDERS",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004162?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.7792,
-    "tags": [
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4571006 HEART RATE VARIABILITY PATTERNS ACROSS AT/AF AND PVC STRATA FROM LONGITUDINAL IMPLANTABLE CARDIAC MONITOR DATA",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004174?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.779167,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4571014 VOLUMETRIC SOURCE IMAGING FOR THE NON-INVASIVE LOCALIZATION OF SEPTAL VENTRICULAR TACHYCARDIA CIRCUITS",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004186?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.779136,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4571048 CLINICAL VALIDATION OF INTELLIGENT FINGER-VIDEO PHOTOPLETHYSMOGRAPHY-BASED VITAL SENSING SYSTEM FOR AFFORDABLE UBIQUITOUS HEALTH MONITORING",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004198?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.779102,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4571044 CLINICAL VALIDATION OF WIRELESS SINGLE LEAD FOREARM PATCH AND FINGER CAP ELECTROCARDIOGRAM SENSORS AND QUALITY-AWARE DATA ANALYTICS FOR PERSONALIZED CARDIAC HEALTH MONITORING IN HOME HEALTHCARE",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004216?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.779064,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4580440 A MULTIMODAL WORLD MODEL INTEGRATING MRI FOR DYNAMIC TREATMENT OPTIMIZATION DURING THE BLANKING PERIOD AFTER ATRIAL FIBRILLATION ABLATION",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004228?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.77903,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4580874 UTILITY AND CLINICAL INTERPRETABILITY OF THE HEARTWATCH ARM-BASED ECG SYSTEM",
-    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600423X?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778999,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4573308 REAL-TIME ACTIVATION MAPPING OF UNIFORM WAVEFRONTS USING THE TAU20-RETROMAPPING SYSTEM TO GUIDE PERSISTENT ATRIAL FIBRILLATION ABLATION",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004241?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778965,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4570863 ARTIFICIAL INTELLIGENCE ASSISTED TRIAGE OF EMERGENT CONDITIONS DURING HOSPITAL ADMISSIONS",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004265?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778935,
-    "tags": [
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4570154 RHYTHMGUIDE: A CLINICIAN-SUPERVISED, SOURCE-GROUNDED AI ASSISTANT FOR ELECTROPHYSIOLOGY GUIDELINE NAVIGATION INTRODUCTION",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004277?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778902,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4570411 THE PATIENT HISTORY ASSISTANT FOR NAVIGATING TREATMENT AND OUTCOME MANAGEMENT (PHANTOM): A CONVERSATIONAL AI FRAMEWORK FOR ENHANCING ATRIAL FIBRILLATION DATA QUALITY AND RISK STRATIFICATION",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004289?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778862,
-    "tags": [
-      "AFib",
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4570455 LARGE LANGUAGE MODEL CLASSIFICATION OF CLINICAL NOTES TO FACILITATE LIFESTYLE INTERVENTION IN PATIENTS WITH ATRIAL FIBRILLATION",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004290?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.77883,
-    "tags": [
-      "AFib",
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4550527 PPG-DERIVED BURDEN-SURVIVAL CURVES AFTER AF ABLATION REVEAL RECURRENCE AND BURDEN DIFFERENCES BETWEEN ABLATION TECHNIQUES",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004307?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778797,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4566283 TRIAXIAL BODYSEISMOGRAPHY FOR CONTACTLESS BLOOD PRESSURE MONITORING USING PHYSICS-CONSTRAINED DEEP LEARNING",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004319?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778767,
-    "tags": [
-      "AI"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4571034 SMARTWATCH-DERIVED ATRIAL FIBRILLATION BURDEN IS ASSOCIATED WITH ALL-CAUSE HOSPITALIZATION IN THE HEARTBEAT STUDY",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004344?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.778734,
-    "tags": [
-      "AFib"
     ],
     "hot": false
   }
