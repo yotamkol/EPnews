@@ -1,5 +1,41 @@
 [
   {
+    "title": "Bringing Rapid Reperfusion to More Patients with Out-of-Hospital Cardiac Arrest",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMe2612650?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMe2612650",
+    "journal": "NEJM",
+    "date": "Nov 09, 2026",
+    "date_ts": 1794194748.219097,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Prehospital Extracorporeal Life Support in Refractory Out-of-Hospital Cardiac Arrest",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602919?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMoa2602919",
+    "journal": "NEJM",
+    "date": "Nov 09, 2026",
+    "date_ts": 1794194748.218952,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Defining the contributors to sudden cardiac death in sarcoidosis: a nationwide study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26010479?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Nov 09, 2026",
+    "date_ts": 1794194747.16875,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
     "title": "Prognostic Value of Left Atrial Appendage Enhancement on Late-Phase Prone-Position Computed Tomography for Recurrence After Cryoballoon-Based Ablation of Non-Paroxysmal Atrial Fibrillation",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006379?dgcid=rss_sd_all",
     "doi": null,
@@ -131,6 +167,19 @@
       "VT"
     ],
     "hot": false
+  },
+  {
+    "title": "Air Embolism During Cryoballoon Ablation for Atrial Fibrillation Under Different Respiratory Management Strategies",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70498?af=R",
+    "doi": "10.1111/pace.70498",
+    "journal": "PACE",
+    "date": "Nov 08, 2026",
+    "date_ts": 1794102852.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Coronary air embolism is a rare but potentially fatal complication during catheter ablation for atrial fibrillation (AF). Use of large\u2010bore sheaths, such as those required for balloon\u2010based catheter ablation, in the setting of unstable respiratory control may increase the risk.\n                  \n                  \n                    Methods\n                    \n                      We retrospectively evaluated consecutive patients who underwent first\u2010time cryoballoon ablation (CBA) for AF from January 2017 to December 2024. Patients were divided into two groups according to respiratory management strategy: adaptive servo\u2010ventilation (ASV,\n                      n\n                      = 266) and laryngeal mask with mechanical ventilation (LM,\n                      n\n                      = 225). The incidence of complications was compared, with a primary focus on air embolism.\n                    \n                  \n                  \n                    Results\n                    \n                      A total of 491 patients (median age 68 years, 71.3% male) were included. Coronary air embolism occurred in 5 patients (1.9%) in the ASV group and in none of the patients in the LM group (absolute risk difference, 1.9%; 95% CI, \u22120.1% to 4.3%;\n                      p\n                      = 0.066). In one patient with coronary air embolism, brain MRI performed on the day of the procedure incidentally revealed an asymptomatic acute cerebral embolic lesion. Other complications included two cases of cardiac tamponade in the ASV group and two cases of transient phrenic nerve palsy in the LM group.\n                    \n                  \n                  \n                    Conclusions\n                    Coronary air embolism was numerically less frequent in patients undergoing cryoballoon ablation with laryngeal mask ventilation than in those managed with ASV, although the difference did not reach statistical significance. Further prospective studies are warranted to clarify the potential role of respiratory management in procedural safety."
   },
   {
     "title": "AI-ECG Atrial Fibrillation Detection: Unlocking Secrets in Sinus Rhythm?",
@@ -505,6 +554,19 @@
       "Other"
     ],
     "hot": false
+  },
+  {
+    "title": "Abstract 10256: Safety and Performance of a Novel Torque Tool During Pediatric Electrophysiology Studies: First in-Human Clinical Evaluation",
+    "link": "https://doi.org/10.1161/circ.154.suppl_1.10256",
+    "doi": "10.1161/circ.154.suppl_1.10256",
+    "journal": "Circulation",
+    "date": "Nov 02, 2026",
+    "date_ts": 1793577600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Introduction:\n                    Pediatric electrophysiology (EP) studies and catheter ablations can be limited by manual catheter torque and stability, especially during long or complex cases. Peritorq is a novel tool designed to improve catheter maneuverability and stability by enhancing the surface area that grips the catheter. Prior bench-top and animal testing has demonstrated device safety and efficacy.\n                  \n                  \n                    Methods:\n                    This prospective, multi-center study was IRB approved and consent was obtained before proceeding. After the EP study and ablation procedure was performed at the operator\u2019s discretion, evaluation of the torque tool was performed. Initial testing consisted of obtaining baseline catheter measurements including sensing, capture threshold and impedance without the tool in place on all ablation and diagnostic catheters. After ensuring stable catheter position and securing the torque tool on each individual catheter, measurements were repeated. Next, the operators were tasked with reaching 5 intra-cardiac locations (SVC-RA junction, fossa ovalis, AV node slow pathway area, coronary sinus os and lateral tricuspid valve (TV) annulus) with the ablation catheter starting at the IVC-RA junction. Each case was randomized (with or without tool) by a coin flip and the time to reach each location was recorded. Operators were asked to objectively rate the ease of manipulating the tool, catheter stability, hand comfort and maneuverability. Measurements with and without the tool, time to reach locations and objective scoring of the tool were compared using Wilcoxon rank sum test.\n                  \n                  \n                    Results:\n                    A total of 21 patients (mean age 15.1 \u00b1 3 years) had testing across 2 participating institutions with a mean procedure length of 2.5 \u00b1 1 hrs. There was no statistically significant difference between catheter impedance, sensing or capture threshold across all ablation and diagnostic catheters with or without the tool. With the tool in place, the average time to reach all intra-cardiac locations was shorter, reaching statistical significance (p&lt;0.05) in all locations except the slow pathway of the AV node. The largest impact on shorter time to reach location with the tool was the lateral TV annulus with a mean difference of 6.6 \u00b1 6.8 sec (p&lt;0.001). Objective measures of the tool had positive scores with a median of 5/5 for stability, though there was less preference for the tool with longer sheaths. There were no adverse events related to tool usage.\n                  \n                  \n                    Conclusion:\n                    First in-human testing of a novel catheter torque tool demonstrated safety without any impact on measures of catheter integrity. There was more rapid achievement of catheter placement with the tool especially at the lateral TV annulus where reach and stability can be challenging. This study demonstrates that the torque tool can be beneficial in pediatric EP studies and ablation procedures."
   },
   {
     "title": "Abstract 10435: Right Atrial Volume Index Improves Risk Stratification for New-Onset Atrial Fibrillation After Acute Myocardial Infarction",
@@ -6141,67 +6203,6 @@
     "date_ts": 1789948800.0,
     "tags": [
       "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sphingomyelin as a key negative mediator in atrial fibrillation\n                    <i>via</i>\n                    lipid pro\ufb01ling analysis and functional identi\ufb01cation",
-    "link": "https://doi.org/10.1093/europace/euag270",
-    "doi": "10.1093/europace/euag270",
-    "journal": "EP Europace",
-    "date": "Sep 21, 2026",
-    "date_ts": 1789948800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Aims\n                    Atrial fibrillation (AF) has emerged as one of the most prevalent cardiac arrhythmias globally, with its incidence continuously rising, thereby elevating it to a major public health concern. The heart is known for its high lipid content, and disorders or abnormalities in lipid metabolism are frequently associated with cardiovascular diseases. This study aims to investigate the regulatory roles of lipids in AF.\n                  \n                  \n                    Methods and results\n                    Using tree-based ensemble learning-assisted lipidomics, sphingomyelin was identified as a key differential metabolite and found to be significantly reduced in AF patients. Exogenous supplementation of sphingomyelin significantly attenuated Ach-CaCl2- and Ang II-induced AF, fibrosis, and inflammation in mice. Furthermore, decreased sphingomyelin levels were attributed to increased activity of sphingomyelin phosphodiesterases (SMPDs) under AF conditions. Mechanistically, RNA-Seq analysis demonstrated that sphingomyelin inhibits AF-induced activation of the Rap1 signaling pathway, a finding corroborated by overexpression and knockdown of RAP1 in vivo.\n                  \n                  \n                    Conclusion\n                    Together, these findings highlight the therapeutic potential of sphingomyelin and SMPD inhibitors in mitigating AF through inhibition of the Rap1 signaling pathway, thereby establishing the targeting of sphingomyelin metabolism as a viable and novel treatment strategy for AF."
-  },
-  {
-    "title": "Quantitative Signal Processing to Distinguish Juvenile Anterior T-Wave Inversion From ARVC-Related T-Wave Inversion",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008352?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.887689,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4570873 PERFORMANCE OF CONCOMITANT LEFT AND RIGHT MICROAXIAL VENTRICULAR ASSIST CATHETERS FOR SUPPORT OF VENTRICULAR ARRHYTHMIAS IN A PORCINE CHRONIC INFARCT MODEL",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004095?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.779369,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4570907 ELLIPSOID-GUIDED TEMPLATE ADAPTATION AND GENERATION OF THE PATIENT-SPECIFIC VENTRICULAR MESH FOR ELECTROCARDIOGRAPHIC IMAGING (ECGI)",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004113?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.779334,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "ID: 4570949 LATE QTC PROLONGATION DURING ANTIARRHYTHMIC DRUG THERAPY: INCIDENCE AND DETECTION USING A NOVEL ECG SOFTWARE PLATFORM",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826004125?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 20, 2026",
-    "date_ts": 1789869965.779301,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
