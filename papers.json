@@ -1,5 +1,54 @@
 [
   {
+    "title": "Community and EMS Interventions to Improve Survival in Cardiac Arrest",
+    "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612757?af=R&rss=currentIssue",
+    "doi": "10.1056/NEJMoa2612757",
+    "journal": "NEJM",
+    "date": "Nov 10, 2026",
+    "date_ts": 1794286814.140397,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false,
+    "abstract": "Early cardiopulmonary resuscitation (CPR) and defibrillation improve survival after out-of-hospital cardiac arrest, but evidence from randomized trials about whether community-based implementation strategies improve outcomes is lacking. We conducted a registry-based, cluster-randomized trial involving adults with out-of-hospital cardiac arrest treated by emergency medical services (EMS) in North Carolina counties. The counties were grouped into clusters, which were then randomly assigned in a 1:1 ratio to implement a multifaceted intervention or administer usual care. The intervention included four components: training of 911 telecommunicators to improve rapid recognition of cardiac arrest, training of 911 telecommunicators to improve delivery of CPR instructions from telecommunicators to bystanders, community CPR training, and enhanced use of automated external defibrillators by first responders or bystanders before EMS arrival. Data were collected through the Cardiac Arrest Registry to Enhance Survival. The primary outcome was survival to hospital discharge with a good neurologic outcome (Cerebral Performance Category score of 1 or 2; range, 1 to 5, with higher scores indicating worse neurologic outcome). From July 1, 2022, to June 30, 2026, a total of 28 clusters comprising 11,615 patients were assigned to the intervention group, and 27 clusters comprising 10,844 patients were assigned to the usual-care group. The median age of the patients was 64.0 years, and 36.7% were women. The percentage of patients who survived to hospital discharge with a good neurologic outcome was 9.0% (1048 of 11,608 patients) in the intervention group and 9.4% (1017 of 10,839 patients) in the usual-care group (adjusted odds ratio, 0.97; 95% confidence interval, 0.75 to 1.26; P&#x2009;=&#x2009;0.80). Among adults with out-of-hospital cardiac arrest, implementation of a multifaceted strategy involving the community and EMS did not result in a greater percentage of patients who survived to hospital discharge with a favorable neurologic outcome than usual care. (Funded by the National Heart, Lung, and Blood Institute of the National Institutes of Health; RACE-CARS ClinicalTrials.gov number, NCT04660526.)."
+  },
+  {
+    "title": "Letter by Fan et al Regarding Article, \u201cSystemic Embolic Events in Atrial Fibrillation: An Individual Patient Data Meta-Analysis of 71\u2009683 Participants Randomized to NOAC Versus Warfarin\u201d",
+    "link": "https://doi.org/10.1161/circulationaha.126.080832",
+    "doi": "10.1161/circulationaha.126.080832",
+    "journal": "Circulation",
+    "date": "Nov 10, 2026",
+    "date_ts": 1794268800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Response by Al Said et al to Letter Regarding Article, \u201cSystemic Embolic Events in Atrial Fibrillation: An Individual Patient Data Meta-Analysis of 71\u2009683 Participants Randomized to NOAC Versus Warfarin\u201d",
+    "link": "https://doi.org/10.1161/circulationaha.126.081475",
+    "doi": "10.1161/circulationaha.126.081475",
+    "journal": "Circulation",
+    "date": "Nov 10, 2026",
+    "date_ts": 1794268800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Technology and Intelligence: Staying on Target for the Next Decade of Electrophysiology",
+    "link": "https://doi.org/10.1161/circulationaha.126.080523",
+    "doi": "10.1161/circulationaha.126.080523",
+    "journal": "Circulation",
+    "date": "Nov 10, 2026",
+    "date_ts": 1794268800.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Bringing Rapid Reperfusion to More Patients with Out-of-Hospital Cardiac Arrest",
     "link": "https://www.nejm.org/doi/full/10.1056/NEJMe2612650?af=R&rss=currentIssue",
     "doi": "10.1056/NEJMe2612650",
@@ -786,6 +835,18 @@
     "tags": [
       "AFib",
       "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed Field Ablation as a Salvage Strategy for an Arrhythmogenic Persistent Left Superior Vena Cava After Multiple Radiofrequency Ablation Procedures",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.11.002",
+    "doi": "10.1016/j.hrcr.2026.11.002",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793491200.0,
+    "tags": [
+      "Genetics"
     ],
     "hot": false
   },
@@ -6141,68 +6202,6 @@
     "date_ts": 1790043140.154219,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "STAR Apollo\u2122 Map-Guided Redo Ablation for Recurrent Persistent Atrial Fibrillation after Prior Pulmonary Vein Isolation: Procedural Feasibility, Safety, and Twelve-Month Rhythm Outcomes from a Prospective Multicenter Study (NCT05826665)",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027670?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 22, 2026",
-    "date_ts": 1790043140.154159,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Integrated Hemodynamic Sensing, Electrical Sensing, and Ventricular Pacing from a Novel Substernal Lead: An Acute Human Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027505?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 22, 2026",
-    "date_ts": 1790043140.153951,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Progressive Conduction System Disease Preceding Hypertrophy in IVS4 + 919G &amp;gt; A Fabry Variant: a Population-based Electrocardiographic Study",
-    "link": "https://doi.org/10.1093/europace/euag258",
-    "doi": "10.1093/europace/euag258",
-    "journal": "EP Europace",
-    "date": "Sep 22, 2026",
-    "date_ts": 1790035200.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background\n                    The IVS4\u2009+\u2009919G\u2009&amp;gt;\u2009A variant is the most prevalent late-onset Fabry variant in East Asian populations, but its electrophysiological trajectory remains incompletely defined.\n                  \n                  \n                    Methods\n                    From a regional genetic screening program, 905 IVS4\u2009+\u2009919G\u2009&amp;gt;\u2009A carriers were identified among 457,581 patients and matched 1:2 to controls by age and sex. Electrocardiographic (ECG) parameters were compared across decades, and echocardiography correlated structural changes with ECG findings.\n                  \n                  \n                    Results\n                    The cumulative prevalence of IVS4\u2009+\u2009919G\u2009&amp;gt;\u2009A was 0.198%. Age-specific prevalence in females was \u223c2.5-fold higher than in males (0.11\u20130.15%), without significant change throughout different age categories. Female carriers demonstrated the catch-up phenomenon after the age of 60. Males exhibited a 9-fold risk of right bundle branch block (RBBB) and pacemaker implantation (PPM) compared with male controls (RBBB, HR 9.286, 95% CI 5.16\u201316.70, P\u2009&amp;lt;\u20090.001; PPM, HR 9.197, 95% CI 2.88\u201329.31, P\u2009&amp;lt;\u20090.001), and this precedes the onset of echocardiographic left ventricular hypertrophy. Risk of stroke and atrial fibrillation (HR 1.435, 95% CI 0.69\u20132.96, P\u2009=\u20090.289) was similar between male carriers and controls. PR interval was not shortening and prolongs instead. Combining left ventricular hypertrophy with conduction abnormalities, ECG detection achieved 88% sensitivity, exceeding echocardiographic criteria alone (51.5%).\n                  \n                  \n                    Conclusions\n                    IVS4\u2009+\u2009919G\u2009&amp;gt;\u2009A variant is characterized by a progressive electrical phenotype dominated by conduction system disease preceding hypertrophy without excess major arrhythmic events. Electrocardiographic surveillance and phenotype-based risk stratification may be more informative than structural assessment alone for identifying individuals at risk of device therapy."
-  },
-  {
-    "title": "Atrial fibrillation and sudden cardiac death: mechanisms, management, and new therapeutic targets",
-    "link": "https://doi.org/10.1093/eurheartj/ehag757",
-    "doi": "10.1093/eurheartj/ehag757",
-    "journal": "European Heart Journal",
-    "date": "Sep 21, 2026",
-    "date_ts": 1789948800.0,
-    "tags": [
-      "AFib",
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Electrophysiological and Histological Comparisons of Left Bundle Branch Pacing Versus Left Ventricular Septal Pacing in Canine Self-Controlled Models",
-    "link": "https://doi.org/10.1093/europace/euag267",
-    "doi": "10.1093/europace/euag267",
-    "journal": "EP Europace",
-    "date": "Sep 21, 2026",
-    "date_ts": 1789948800.0,
-    "tags": [
-      "Devices"
     ],
     "hot": false
   }
