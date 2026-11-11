@@ -1,5 +1,30 @@
 [
   {
+    "title": "Predictors of Conduction Disturbances After Transcatheter Aortic Valve Replacement in Patients With Pre-Existing Right Bundle Branch Block: A Systematic Review and Meta-Analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006434?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Nov 11, 2026",
+    "date_ts": 1794368003.732693,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Preprocedural transesophageal echocardiography before cardioversion in hypertrophic cardiomyopathy-associated atrial fibrillation and thromboembolic risk: A follow-up, granular study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602802X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 11, 2026",
+    "date_ts": 1794368003.569546,
+    "tags": [
+      "AFib",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
     "title": "Community and EMS Interventions to Improve Survival in Cardiac Arrest",
     "link": "https://www.nejm.org/doi/full/10.1056/NEJMoa2612757?af=R&rss=currentIssue",
     "doi": "10.1056/NEJMoa2612757",
@@ -49,6 +74,18 @@
     "hot": false
   },
   {
+    "title": "Distinct Gut Microbial and Metabolic Biomarkers Related to Atrial Fibrillation in Low-Risk Patients",
+    "link": "https://doi.org/10.1093/europace/euag302",
+    "doi": "10.1093/europace/euag302",
+    "journal": "EP Europace",
+    "date": "Nov 10, 2026",
+    "date_ts": 1794268800.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Bringing Rapid Reperfusion to More Patients with Out-of-Hospital Cardiac Arrest",
     "link": "https://www.nejm.org/doi/full/10.1056/NEJMe2612650?af=R&rss=currentIssue",
     "doi": "10.1056/NEJMe2612650",
@@ -71,6 +108,70 @@
       "SCD"
     ],
     "hot": false
+  },
+  {
+    "title": "Adverse Event Profiles of Leadless Pacemaker Systems Reported to the FDA MAUDE Database (2021\u20132026)",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70540?af=R",
+    "doi": "10.1111/jce.70540",
+    "journal": "J Cardiovasc EP",
+    "date": "Nov 09, 2026",
+    "date_ts": 1794248154.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Leadless pacemakers represent a major advance in cardiac rhythm management. The Micra Transcatheter Pacing System (Medtronic) and Aveir Leadless Pacemaker (Abbott) are distinct leadless pacing platforms with different device architectures and implantation mechanics. The FDA Manufacturer and User Facility Device Experience (MAUDE) database provides a real\u2010world source of post\u2010market adverse event reports.\n                  \n                  \n                    Objective\n                    To characterize adverse event profiles of contemporary leadless pacing systems using structured MAUDE data from January 2021 to January 2026, and to assess temporal trends, device problem\u2013patient problem relationships, the timing and reported mechanisms of adverse events and deaths, and generational differences within the Micra platform.\n                  \n                  \n                    Methods\n                    Adverse event reports for Micra and Aveir were extracted from the FDA MAUDE database. Records with event dates before January 1, 2021, were excluded. Reports were deduplicated using a structured multi\u2010step process. Analyses were restricted to structured MAUDE fields, including event type, device\u2010problem codes, patient\u2010problem codes, brand name, and dates. Report narratives were additionally analyzed by rule\u2010based text classification with manual validation to clarify ambiguous FDA codes, event timing, and reported mechanisms of death. Each device platform was analyzed independently using descriptive statistics with 95% Wilson confidence intervals.\n                  \n                  \n                    Results\n                    \n                      A total of 14\u2009064 unique reports were included (9973 Micra; 4091 Aveir). Among Micra reports, 7.9% were deaths, 41.1% injuries, and 51.0% malfunctions; high capture threshold (23.7%) was the most frequent device problem, and pericardial effusion (9.0%), cardiac perforation (7.9%), and cardiac tamponade (7.3%) were the leading clinical patient problems. Among Aveir reports, 4.3% were deaths, 32.4% injuries, and 63.3% malfunctions. The leading Aveir device problems were stretching/deformation of the fixation helix (FDA code \u201cStretched\u201d; 18.3%)\u201497.7% intra\u2010procedural and 87.2% without clinical consequence\u2014and device dislodgement (18.0%). The code \u201cEmbolism/Embolus\u201d (14.0%) denoted device embolization in 97.5% of Aveir reports and was more frequent for the atrial than the ventricular device (20.6% vs. 13.2%,\n                      p\n                      \u2009&lt;\u20090.001), without decline over time. No clinical signs or symptoms were reported in 64.2% of Micra and 58.5% of Aveir reports. Events were intra\u2010procedural in 45.3% of Micra and 66.4% of Aveir reports, and perforation/effusion/tamponade was the leading reported mechanism of death (51.4% and 67.2%, respectively). Newer\u2010generation Micra devices showed lower reported death proportions than earlier models.\n                    \n                  \n                  \n                    Conclusions\n                    Leadless pacemaker systems show distinct reported adverse event patterns in real\u2010world post\u2010market surveillance. Micra was characterized mainly by perforation\u2010related complications, whereas Aveir was characterized by fixation\u2010helix damage, dislodgement with device embolization\u2014particularly of the atrial device\u2014and separation\u2010related events. For operators, these findings underscore the importance of device\u2010specific implantation technique, procedural experience, and ongoing learning curve effects in leadless pacing."
+  },
+  {
+    "title": "Protecting the Vulnerable Phase in Newly Diagnosed Heart Failure",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70561?af=R",
+    "doi": "10.1111/jce.70561",
+    "journal": "J Cardiovasc EP",
+    "date": "Nov 09, 2026",
+    "date_ts": 1794248077.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Predictors of Success in Fractured Electrode Extraction: The Impact of Fracture Location and Access Strategies",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70555?af=R",
+    "doi": "10.1111/jce.70555",
+    "journal": "J Cardiovasc EP",
+    "date": "Nov 09, 2026",
+    "date_ts": 1794247754.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Fractured or sheared cardiac implantable electronic device leads presents a unique clinical challenge in transvenous lead extraction. These cases are associated with clinical failure rates of up to 40% and a greater likelihood of retained fragments. The aim of this study was to characterize fractured lead extractions performed at a referral center and identify predictors of complete removal and clinical success.\n                  \n                  \n                    Methods\n                    We conducted a retrospective single center study including all consecutive patients who underwent TLE for electrodes fractured before or during extraction between October 2011 and December 2025. Clinical, echocardiographic, and procedural data were collected.\n                  \n                  \n                    Results\n                    \n                      A total of 46 procedures were analyzed. Mean age was 62.7 years and median lead dwell time was 9.0 years. The most frequent fracture site was the electrode body (67.4%). A rotational mechanical sheath was used in 84.8% of cases (39/46), and femoral snaring was used in 60.8%. Complete extraction occurred in 32.6% whereas clinical success was achieved in 80.4% of patients. Retained fragments &gt;\u20094\u2009cm were observed in 28.3%. In multivariate analysis, the use of a 13Fr sheath was independently associated with lower odds of clinical success (\n                      p\n                      \u2009=\u20090.011). Fracture location was the only consistent independent predictor of complete extraction (\n                      p\n                      \u2009=\u20090.031). Femoral access showed a favorable trend but did not reach statistical significance after adjustment.\n                    \n                  \n                  \n                    Conclusions\n                    In fractured lead extraction, fracture location is the strongest predictor of complete removal, surpassing clinical and procedural variables. These findings highlight the importance of preoperative planning and suggest that femoral access may play a key role in selected complex cases."
+  },
+  {
+    "title": "Deep Sedation in Single\u2010Shot Pulmonary Vein Isolation: A Head\u2010to\u2010Head Look at Two Pulsed Field Versus Cryoballoon Ablation Approaches",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70554?af=R",
+    "doi": "10.1111/jce.70554",
+    "journal": "J Cardiovasc EP",
+    "date": "Nov 09, 2026",
+    "date_ts": 1794247557.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Deep sedation (DS) is routinely used during single\u2010shot pulmonary vein isolation (PVI) to optimize patient comfort and procedural stability. However, data on sedative requirements and procedural tolerance of pulsed field ablation (PFA) under DS compared with thermal technologies remain limited.\n                  \n                  \n                    Methods\n                    In this single\u2010center study, consecutive patients underwent PVI with cryoballoon (CB), PFA using a pentaspline catheter (PC) or the balloon\u2010in\u2010basket catheter (BC). All procedures were performed under DS with midazolam, fentanyl, and propofol, administered by electrophysiology staff without anaesthesiologist supervision. Propensity score matching (1:1:1) was applied for age, sex, body mass index, and hypertension. Procedural characteristics, sedative/analgesic requirements, and complications were analyzed.\n                  \n                  \n                    Results\n                    \n                      Acute PVI without major complications was achieved in all 156 enrolled patients. PC procedures were associated with higher body\u2010weight\u2010 and time\u2010adjusted requirements for propofol (CB: 0.10\u2009\u00b1\u20090.04\u2009mg/kg/min; PC: 0.15\u2009\u00b1\u20090.04\u2009mg/kg/min; BC: 0.11\u2009\u00b1\u20090.03\u2009mg/kg/min;\n                      p\n                      \u2009&lt;\u20090.001) despite the lowest total dose of propofol used (CB: 440\u2009\u00b1\u2009144\u2009mg; PC: 348\u00b1\u200980\u2009mg; BC: 433\u2009\u00b1\u2009160\u2009mg;\n                      p\n                      \u2009=\u20090.00). Procedural times (CB: 47.5 [40\u201360]\u2009min, PC: 29 [25\u201335]\u2009min, BC: 47.5 [40\u201356]\u2009min,\n                      p\n                      \u2009&lt;\u20090.001) and fluoroscopy times (CB: 9.5 [6.3\u201313.6]\u2009min; PC: 6.2 [4.4\u20139]\u2009min; BC: 7.2 [6.1\u201311.2]\u2009min,\n                      p\n                      \u2009=\u20090.001) were shortest in the PC group. Sedation\u2010related hemodynamic stability was comparable across all cohorts.\n                    \n                  \n                  \n                    Conclusions\n                    The novel BC demonstrated excellent feasibility under DS, with reduced normalized sedative requirements compared with the PC and a safety profile comparable to CB ablation. These findings suggest that optimized waveform design and field homogeneity may enable safe and comfortable PVI under DS without the need for general anesthesia."
+  },
+  {
+    "title": "Expanded Characterization of Ventricular Electrogram in Selective Left Bundle Branch Pacing: A Cohort Study of Patients With/Without LBB Potential",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70557?af=R",
+    "doi": "10.1111/jce.70557",
+    "journal": "J Cardiovasc EP",
+    "date": "Nov 09, 2026",
+    "date_ts": 1794247526.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Aims\n                    The electrophysiological transition from non\u2010selective to selective capture with electrogram (EGM)\u2010splitting during threshold testing is the gold standard for verifying left\u2010bundle\u2010branch (LBB) capture in LBB\u2010area pacing. Our preliminary study identified distinct ventricular EGM morphologies in patients with recordable LBB potentials. The present study extends these observations to patients with and without LBB potentials and characterizes the electrophysiological features and potential mechanistic correlates of these EGM phenotypes during selective LBB (S\u2010LBB) pacing.\n                  \n                  \n                    Methods\n                    Patients with confirmed S\u2010LBB pacing were categorized into three groups based on the comparison between intrinsic and paced ventricular EGM morphologies: concordant (CE), similar (SE), and discordant (DE). Baseline characteristics, pacing indications, pacing parameters, and V6 R\u2010wave peak times (RWPTs) were analyzed.\n                  \n                  \n                    Results\n                    \n                      S\u2010LBB pacing was achieved in 387 patients (86.8%). After excluding patients with LBBB, an LBB potential was recorded in 276/341 patients (80.9%). Among patients with an LBB potential, V\u2010V6(P) RWPT and V\u2010V6(S) RWPT were strongly correlated in the CE (\n                      r\n                      \u2009=\u20090.889) and SE groups (\n                      r\n                      \u2009=\u20090.825), whereas V\u2010V6(S) RWPT was significantly shorter in the DE group. Among patients without an LBB potential, the DE group also showed a shorter V\u2010V6(S) RWPT. There was a strong correlation between V\u2010V6(P) RWPT and V\u2010V6(S) RWPT in the CE group (\n                      r\n                      \u2009=\u20090.815), while the DE group exhibited a poor correlation (\n                      r\n                      \u2009=\u20090.351).\n                    \n                  \n                  \n                    Conclusions\n                    Continuous recording using a 200\u2009Hz high\u2010pass filter effectively confirms S\u2010LBB pacing by revealing discrete EGM signals. Concordant or similar intrinsic and paced EGMs may suggest shared conduction pathways, whereas discordant EGMs might reflect distinct conduction routes."
   },
   {
     "title": "Defining the contributors to sudden cardiac death in sarcoidosis: a nationwide study",
@@ -835,6 +936,18 @@
     "tags": [
       "AFib",
       "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Long-term outcomes of intermuscular versus subcutaneous S-ICD implantation: extended follow-up of a propensity-matched multicentre analysis",
+    "link": "https://doi.org/10.1093/europace/euag294",
+    "doi": "10.1093/europace/euag294",
+    "journal": "EP Europace",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793491200.0,
+    "tags": [
+      "Devices"
     ],
     "hot": false
   },
@@ -6093,116 +6206,5 @@
     ],
     "hot": false,
     "abstract": "BACKGROUND:\n                    The extravascular implantable cardioverter defibrillator (EV-ICD) was developed to provide defibrillation and antitachycardia pacing therapy without the need for intravascular lead placement. Premarket clinical trials reported EV-ICD safety and efficacy through 3 years, but a real-world assessment of the Aurora EV-ICD system, which includes a novel sensing discriminator, is needed. The objective of this analysis was to assess real-world therapy efficacy and safety of the EV-ICD through 1 year.\n                  \n                  \n                    METHODS:\n                    Enlighten: The EV-ICD Post Approval Registry is a prospective, global, real-world registry that included patients who underwent an EV-ICD implantation attempt. The main safety analysis was freedom from all system- or procedure-related major complications through 1 year. Event rates at 1 year were calculated using the Kaplan-Meier method.\n                  \n                  \n                    RESULTS:\n                    EV-ICD system implantation was attempted by 168 implanters in 787 patients (49.1\u00b115.2 years old; 28.7% women; 34.1% secondary prevention). Tunneling and lead placement in the substernal space were achieved in 781 of 787 patients (99.2%), with 758 patients (96.3%) remaining implanted following defibrillation and electrical testing. One-year freedom from major system- or procedure-related complications was 89.1% (95% CI, 86.3%\u201391.3%). The 1-year rate of first appropriate therapy (shock, antitachycardia pacing, or both) was 7.3% (95% CI, 5.5\u20139.6). Shock success for discrete spontaneous episodes was 100% (61 of 61), and the generalized estimating equations antitachycardia pacing success rate, to account for multiple episodes per patient, was 74.2% for monomorphic ventricular tachycardia. The 1-year rate of first inappropriate shock was 7.1% (95% CI, 5.4\u20139.4), with noncardiac oversensing as the main cause (40.5% of inappropriately shocked episodes).\n                  \n                  \n                    CONCLUSIONS:\n                    In the largest prospective worldwide cohort of patients with an EV-ICD to date, both antitachycardia pacing and shock therapy were effective, while the rate of major complications agreed with the premarket experience through 1 year. These data demonstrate that positive outcomes of the EV-ICD are retained in everyday clinical practice in a large, global cohort with an expanded number of implanters.\n                  \n                  \n                    REGISTRATION:\n                    \n                      URL:\n                      https://www.clinicaltrials.gov\n                      ; Unique identifier: NCT06048731."
-  },
-  {
-    "title": "Response by Oldgren and Wallentin to Letter Regarding Article, \u201cBiomarker-Based ABC-AF Risk Scores for Personalized Treatment to Reduce Stroke or Death in Atrial Fibrillation: A Registry-Based, Multicenter, Randomized, Controlled Study\u201d",
-    "link": "https://doi.org/10.1161/circulationaha.126.080165",
-    "doi": "10.1161/circulationaha.126.080165",
-    "journal": "Circulation",
-    "date": "Sep 22, 2026",
-    "date_ts": 1790035200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Letter by Zhao et al Regarding Article, \u201cBiomarker-Based ABC-AF Risk Scores for Personalized Treatment to Reduce Stroke or Death in Atrial Fibrillation: A Registry-Based, Multicenter, Randomized, Controlled Study\u201d",
-    "link": "https://doi.org/10.1161/circulationaha.125.078733",
-    "doi": "10.1161/circulationaha.125.078733",
-    "journal": "Circulation",
-    "date": "Sep 22, 2026",
-    "date_ts": 1790035200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Epicardial Use of Medtronic 3830 Lead in Pediatric Cardiac Resynchronization Therapy with Elevated Thresholds",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70349?af=R",
-    "doi": "10.1111/pace.70349",
-    "journal": "PACE",
-    "date": "Sep 22, 2026",
-    "date_ts": 1790049799.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Epicardial pacing is standard in children, but conventional leads often fail due to high thresholds, fractures, or poor sensing after multiple surgeries.\n                  \n                  \n                    Case\n                    A 10\u2010year\u2010old with restrictive cardiomyopathy and prior mitral valve replacement presented with loss of capture from fractured epicardial leads. Redo sternotomy attempts with conventional leads produced thresholds up to 8.0\u00a0V. A Medtronic SelectSecure 3830 lead was implanted epicardially, achieving improved thresholds (2.7\u00a0V \u2192 1.1\u00a0V) and stable cardiac resynchronization therapy (CRT) pacemaker function. At 2 months, thresholds and impedances remained low and stable.\n                  \n                  \n                    Conclusion\n                    Epicardial Medtronic SelectSecure 3830 lead implantation may be a feasible alternative in complex pediatric redo cases."
-  },
-  {
-    "title": "Loss of Septal Q Waves Is Associated With QRS Widening After Transcatheter Aortic Valve Implantation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70450?af=R",
-    "doi": "10.1111/pace.70450",
-    "journal": "PACE",
-    "date": "Sep 22, 2026",
-    "date_ts": 1790048133.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Conduction disturbances remain a common complication following transcatheter aortic valve implantation (TAVI). While baseline conduction abnormalities are well\u2010established predictors of post\u2010procedural conduction disease or permanent pacemaker implantation, risk stratification in patients without baseline PR or QRS prolongation remains limited. Loss of septal Q waves (LSQ) may reflect underlying conduction system vulnerability but has not been systematically evaluated in this setting.\n                  \n                  \n                    Methods\n                    We conducted a retrospective observational study of consecutive patients undergoing TAVI at a single tertiary center between 2018 and 2024. Patients without baseline PR or QRS prolongation were included. LSQ was defined as the absence of Q waves in leads I, V5, and V6. The primary outcome was an increase in QRS duration \u00a0\u2265\u00a020\u00a0ms.\n                  \n                  \n                    Results\n                    \n                      Among 87 patients without baseline PR or QRS prolongation, 86 were evaluable for the primary outcome and QRS widening \u226520\u00a0ms occurred in 31 patients (36.0%). LSQ was present in 40.2% of patients. LSQ was associated with increased odds of QRS widening in unadjusted analysis (OR 2.71, 95% CI 1.09\u20106.74;\n                      p\n                      = 0.031). The association remained significant after adjustment for AF (adjusted OR 2.76, 95% CI 1.07\u20107.11;\n                      p\n                      = 0.035) (Table\u00a02). AF was also independently associated with QRS widening (adjusted OR 3.79, 95% CI 1.10\u201013.08;\n                      p\n                      = 0.035).\n                    \n                  \n                  \n                    Conclusion\n                    LSQ on pre\u2010procedural ECG was independently associated with post\u2010procedural QRS widening in patients undergoing TAVI without baseline PR or QRS prolongation. LSQ may serve as a simple, non\u2010invasive marker of conduction system vulnerability with potential utility in risk stratification and post\u2010procedural monitoring. These findings are hypothesis generating and warrant validation in larger prospective cohorts."
-  },
-  {
-    "title": "How Should an Embolized Atrial Leadless Pacemaker Be Retrieved From the Pulmonary Artery?",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70447?af=R",
-    "doi": "10.1111/pace.70447",
-    "journal": "PACE",
-    "date": "Sep 22, 2026",
-    "date_ts": 1790047976.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "The authors declare no conflicts of interest. All data relevant to this case are included in the article and its supplementary material. Please note: The publisher is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article."
-  },
-  {
-    "title": "Patterns of Reconnection at Redo Ablation after Pulsed-Field Ablation for Atrial Fibrillation (REDO-PFA)",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005672?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 22, 2026",
-    "date_ts": 1790043140.24738,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Non-Invasive Median Nerve Stimulation with a Wearable Stimulator to Reduce Atrial Arrhythmia Recurrence after Atrial Fibrillation Ablation: The <em>NEUROPULSE</em> Pilot",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027773?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 22, 2026",
-    "date_ts": 1790043140.154303,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Electrical Stability and Capture Evolution with a Leadless Pacemaker for Conduction System Pacing: 6-Month Follow-up of <em>LEAP2</em>",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027657?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 22, 2026",
-    "date_ts": 1790043140.154264,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Quantitative CT Lead Localization Reveals Proximal Left Bundle Targeting Facilitates Superior Physiologic Pacing",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027761?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 22, 2026",
-    "date_ts": 1790043140.154219,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
   }
 ]
