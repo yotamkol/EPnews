@@ -1,5 +1,139 @@
 [
   {
+    "title": "Association of Left Ventricular Epicardial Adipose Tissue and Lipomatous Metaplasia With Ventricular Tachycardia Circuitry and Recurrence Following Ablation in Patients With Non-Ischemic Cardiomyopathy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26009485?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Nov 13, 2026",
+    "date_ts": 1794542087.069385,
+    "tags": [
+      "VT",
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Long-Term Prognostic Value of Scar Characteristics in Cardiac Magnetic Resonance to Predict Appropriate Therapies in Primary Prevention",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26009473?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Nov 13, 2026",
+    "date_ts": 1794542087.069316,
+    "tags": [
+      "SCD",
+      "Imaging"
+    ],
+    "hot": false
+  },
+  {
+    "title": "High-frequency JET versus conventional ventilation for pulmonary veins isolation: A prospective, randomised, single blind study The JET-AF study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S266650182600646X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Nov 13, 2026",
+    "date_ts": 1794542086.949754,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Zero or Minimal Fluoroscopy Versus Conventional Fluoroscopy for Atrial Fibrillation Ablation: A Systematic Review and Meta-analysis with Trial Sequential and Certainty-of-Evidence Analyses",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006495?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Nov 13, 2026",
+    "date_ts": 1794542086.949688,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Comparative Clinical and Procedural Outcomes Among Three Pulsed Field Ablation Systems for Atrial Fibrillation: A Prospective Real-World Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029838?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 13, 2026",
+    "date_ts": 1794542086.805633,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Balloon perforation of a balloon-in-basket pulsed field ablation catheter during pulmonary vein isolation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029863?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 13, 2026",
+    "date_ts": 1794542086.805599,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "SUDDEN CARDIAC ARREST IN NEW SOUTH WALES (NSW), AUSTRALIA: A DATA LINKAGE STUDY",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029851?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 13, 2026",
+    "date_ts": 1794542086.805564,
+    "tags": [
+      "SCD"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulsed Field or Cryoballoon Pulmonary Vein Isolation for Atrial Fibrillation in Heart Failure with Reduced Ejection Fraction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602984X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 13, 2026",
+    "date_ts": 1794542086.805527,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Anticoagulation in Subclinical Atrial Fibrillation: An Evidence-Based Framework for Individualized Management",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029814?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 13, 2026",
+    "date_ts": 1794542086.805486,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Beyond Coronary Artery Disease: Etiologies and Outcomes of the Shark-Fin ECG Pattern: A Systematic Review",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029826?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 13, 2026",
+    "date_ts": 1794542086.805445,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Atrial Fibrillation Begets Atrial Fibrillation Revisited:Early Entrenchment of AF Episodes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602881X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 13, 2026",
+    "date_ts": 1794542086.80529,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Improved Alfentanil-Based Conscious Sedation Protocol for Pulsed Field Ablation Using a Balloon-in-Basket System",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006458?dgcid=rss_sd_all",
     "doi": null,
@@ -95,6 +229,45 @@
       "Other"
     ],
     "hot": false
+  },
+  {
+    "title": "Outcomes of Transvenous Lead Extraction for Infectious Versus Non\u2010Infectious Indications",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70496?af=R",
+    "doi": "10.1111/pace.70496",
+    "journal": "PACE",
+    "date": "Nov 12, 2026",
+    "date_ts": 1794452024.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background:\n                    Transvenous lead extraction (TLE) is performed for both infectious and non\u2010infectious cardiac implantable electronic device (CIED) indications. Infectious indications are associated with greater systemic illness, whereas non\u2010infectious leads are generally older and more fibrotic. Whether these competing factors differentially influence TLE outcomes remains unclear.\n                  \n                  \n                    Methods:\n                    We searched PubMed, Embase, Scopus, and CENTRAL through October 10, 2026 for studies directly comparing TLE outcomes between infectious and non\u2010infectious indications. Trial registries, conference abstracts, and preprint servers were screened. The primary outcome was all\u2010cause mortality. Secondary outcomes included procedural success and complications. Random\u2010effects models were used.\n                  \n                  \n                    Results:\n                    \n                      Fifteen observational studies comprising 53,086 patients were included. Infectious indications were associated with higher all\u2010cause mortality (OR 5.61, 95% CI 3.78\u20138.33; I\n                      2\n                      = 82.3%). The association was greater for short\u2010term than long\u2010term mortality (OR 8.57 vs. 2.67; p for interaction &lt; 0.001). Intermediate\u2010term mortality was also higher (OR 3.84, 95% CI 2.50\u20135.91). Pericardial complications were less frequent with infectious indications (OR 0.71, 95% CI 0.53\u20130.95). Clinical and complete procedural success and other complications did not differ significantly.\n                    \n                  \n                  \n                    Conclusion:\n                    Infectious indications were associated with higher mortality, particularly in the short term, whereas procedural success was comparable. Variation in follow\u2010up and infection phenotype likely contributed to heterogeneity."
+  },
+  {
+    "title": "Leadless Versus Transvenous Pacing: Propensity\u2010Matched 12\u2010Month Outcomes",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70502?af=R",
+    "doi": "10.1111/pace.70502",
+    "journal": "PACE",
+    "date": "Nov 12, 2026",
+    "date_ts": 1794451968.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Leadless pacemakers avoid the subcutaneous pocket and transvenous lead required for conventional pacing, but comparative real\u2010world evidence in patients at high cardiorenal risk remains limited.\n                  \n                  \n                    Methods\n                    We conducted a single\u2010center retrospective cohort study of de novo permanent pacemaker recipients between January 2021 and December 2024. The source cohort comprised 150 leadless and 410 transvenous pacemaker recipients. After 1:2 propensity score matching, 150 and 300 patients, respectively, were analyzed. The primary endpoint was the first occurrence of a prespecified 12\u2010month device\u2010related complication composite. A prespecified analysis evaluated patients aged 65 years or older with type 2 diabetes mellitus and chronic kidney disease.\n                  \n                  \n                    Results\n                    \n                      The primary endpoint occurred in 6.7% of leadless and 14.0% of transvenous recipients (risk ratio, 0.48; 95% confidence interval, 0.25\u20130.92;\n                      p\n                      = 0.028), an absolute difference of 7.3 percentage points (95% confidence interval, 1.1\u201312.6). The time\u2010to\u2010event association was similar (hazard ratio, 0.45; 95% confidence interval, 0.23\u20130.90;\n                      p\n                      = 0.024) and remained consistent after parsimonious adjustment and competing\u2010risk analysis. The difference was mainly driven by pocket\u2010, lead\u2010, and thoracic access\u2010related events. After pocket\u2010 and lead\u2010specific events were excluded, serious complication rates were 5.3% in both groups. Findings in the older diabetes plus chronic kidney disease subgroup were directionally consistent but imprecise.\n                    \n                  \n                  \n                    Conclusions\n                    The observed advantage of leadless pacing was primarily structural, reflecting avoidance of complications inherent to the transvenous pocket\u2010and\u2010lead system. Non\u2010pocket/non\u2010lead serious complications were similar between groups."
+  },
+  {
+    "title": "One\u2010Year Outcomes of Pulmonary Vein Isolation With a Novel Cryoballoon in Asian Population",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70501?af=R",
+    "doi": "10.1111/pace.70501",
+    "journal": "PACE",
+    "date": "Nov 12, 2026",
+    "date_ts": 1794451883.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Cryoballoon ablations for pulmonary vein isolation (PVI) to treat atrial fibrillation (AF) are well established. The POLAR SMART study was designed to collect prospective real\u2010world data on acute and 12\u2010month safety and effectiveness of the POLARx cryoballoon for de novo PVI.\n                  \n                  \n                    Methods\n                    POLAR SMART is a prospective, non\u2010randomized, multicenter study (NCT05282823) with patients enrolled across 19 centers (Japan and South Korea) and followed up to 12 months.\n                  \n                  \n                    Results\n                    \n                      AF ablation was performed in 293 patients, 181 receiving only PVI. In the PVI\u2010only cohort, acute PVI was achieved in 95.0% of patients, and 98.2% of pulmonary veins (PV) with the cryoballoon. Procedure time and fluoroscopy time were 75\u00a0\u00b1\u00a025\u00a0min and 18.5\u00a0\u00b1\u00a011.1\u00a0min, respectively. Time to isolation was 42\u00a0\u00b1\u00a032 s, with nadir temperature of \u221256.6\u00a0\u00b1\u00a06.9\u00b0C. The study met the primary safety endpoint with an event\u2010free rate of 97.3%. The study effectiveness event\u2010free rate at 12 months was 75.6% for entire cohort and 81.1% for PVI\u2010only cohort (POLARx,\n                      n\n                      = 116; 79.3% and POLARx FIT,\n                      n\n                      = 65; 84.4%). AF recurrence in PVI\u2010only cohort was 7.2% for POLARx and 6.2% for POLARx FIT. Ablation procedure increased heart rate (HR) significantly for entire cohort (\n                      p\n                      \u00a0&lt;\u00a00.001). The optimal HR value at predischarge for 12\u2010month outcome was calculated with 70\u00a0bpm (Predicted Probability 0.83). The effect of increased HR remained stable after 12 months for patients ablated with POLARx FIT.\n                    \n                  \n                  \n                    Conclusions\n                    The POLARx and POLARx FIT cryoballoon systems are safe and effective for PVI in real\u2010world use. POLARx FIT ablation was associated with a sustained HR increase over 12 months."
   },
   {
     "title": "Sudden Liberalization at F.A.A. and Concerns for Aviation Safety: Active Implantable\u2010Defibrillators in the Cockpit? Really?",
@@ -1059,6 +1232,18 @@
     "tags": [
       "AFib",
       "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Complete suppression with verapamil of a symptomatic accelerated idioventricular rhythm with a 70% arrhythmic burden",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.11.007",
+    "doi": "10.1016/j.hrcr.2026.11.007",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793491200.0,
+    "tags": [
+      "Other"
     ],
     "hot": false
   },
@@ -6013,193 +6198,6 @@
     "date_ts": 1790302533.079056,
     "tags": [
       "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Stellate Ganglion Block Reduces the Incidence of Postoperative Atrial Fibrillation After Coronary Artery Bypass Grafting",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26006687?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Sep 25, 2026",
-    "date_ts": 1790302533.079019,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Programmed Ventricular Stimulation for Risk Stratification in Nonischemic Cardiomyopathy With Preserved or Mildly Reduced LVEF",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007814?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Sep 25, 2026",
-    "date_ts": 1790302533.078981,
-    "tags": [
-      "SCD",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Expanding the Scope of Permissible Exercise in Arrhythmogenic Cardiomyopathy",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008303?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Sep 25, 2026",
-    "date_ts": 1790302533.078947,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Abrupt Wall Thickness Transitions Amid Ischemic Re-Entrant Ventricular Tachycardia",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26007590?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Sep 25, 2026",
-    "date_ts": 1790302533.078906,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Who Gets the Most Benefit From the Marshall Plan?",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008297?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Sep 25, 2026",
-    "date_ts": 1790302533.078853,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Pre-Procedural Electrical Cardioversion as a Predictor of Atrial Fibrillation Recurrence After Catheter Ablation in Persistent Atrial Fibrillation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027979?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 25, 2026",
-    "date_ts": 1790302532.880675,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Peri-Procedural Ischemic Stroke in Patients Undergoing Ventricular Tachycardia Ablation: Incidence, Predictors, and Impact on Mortality",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027980?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 25, 2026",
-    "date_ts": 1790302532.880628,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Electrosurgical Energy-Traction Coupling for Assisted Release of Entrapped Septal Pacing Leads: An Ex Vivo Mechanical Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028006?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 25, 2026",
-    "date_ts": 1790302532.880465,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Non-invasive assessment of left atrial activation using lead V8 during Bachmann bundle pacing",
-    "link": "https://doi.org/10.1093/europace/euag276",
-    "doi": "10.1093/europace/euag276",
-    "journal": "EP Europace",
-    "date": "Sep 25, 2026",
-    "date_ts": 1790294400.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and aims\n                    Bachmann bundle pacing (BBP) improves atrial synchrony by advancing LA activation, but quantifying inter-atrial synchronization remains challenging. This study evaluated whether lead V8 reflects posterolateral LA activation time and whether lead V8 can be used to assess the effect of BBP on LA activation.\n                  \n                  \n                    Methods\n                    Consecutive patients undergoing an electrophysiology study and ablation (Cohort 1) or BBP lead implantation (Cohort 2) were prospectively enrolled. Surface ECGs were recorded with the V5 electrode repositioned to the V8 location (2 cm below the inferior left scapula). LA activation was determined using the steepest negative downslope of the P-wave (NDAT-P-V8). Iso-V8 was defined as the time from P-wave onset to first positive deflection in lead V8. In Cohort 1, a coronary sinus (CS) catheter invasively determined activation timing at the posterolateral LA (mitral isthmus region). In Cohort 2, NDAT-P-V8 and iso-V8 were used to assess the effect of BBP on LA activation.\n                  \n                  \n                    Results\n                    In Cohort 1 (n=50), NDAT-P-V8 strongly correlated with the latest CS activation (r = 0.94, p&amp;lt;0.001). In Cohort 2 (n=50), lead V8 facilitated intra-procedural assessment of LA activation. IAB was corrected in 20/23 (87%), accompanied by shortening of NDAT-P-V8 (from 120\u00b125ms to 82\u00b117ms, p&amp;lt;0.001) and iso-V8 (from 51\u00b122ms to 18\u00b117ms, p&amp;lt;0.001), consistent with earlier LA activation.\n                  \n                  \n                    Conclusion\n                    NDAT-P-V8 closely reflects the invasively determined timing of the posterolateral LA activation and provides a simple non-invasive marker to assess the effect of BBP on LA activation. Lead V8 may therefore help to assess and optimize atrial activation with BBP."
-  },
-  {
-    "title": "Safety and Efficacy of Left Atrial Ablation After Percutaneous Left Atrial Appendage Occlusion in High-Bleeding-Risk Patients with Atrial Fibrillation: A Multicenter Analysis from the PROCEED-AF Ablation Registry",
-    "link": "https://doi.org/10.1093/europace/euag277",
-    "doi": "10.1093/europace/euag277",
-    "journal": "EP Europace",
-    "date": "Sep 25, 2026",
-    "date_ts": 1790294400.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Structured Abstract\n                  \n                    Background and Aims\n                    Patients with left atrial appendage (LAAO) devices are increasingly referred for AF ablation, yet anticoagulation strategies remain uncertain. The goal of this study was to evaluate the safety and efficacy of catheter ablation for atrial fibrillation (AF) in patients with pre-existing LAAO devices and to describe patterns in anticoagulation management after ablation in this unique population.\n                  \n                  \n                    Methods\n                    We collected data from 14 centers worldwide on patients with prior LAAO devices undergoing AF ablation. Each site provided clinical characteristics, procedural details, and information on complications and arrhythmia outcomes. Data were aggregated and analyzed centrally to evaluate procedural safety, efficacy, and variability in management strategies.\n                  \n                  \n                    Results\n                    A total of 198 patients (age 70 years, 37% female, 42% paroxysmal AF) with prior LAAO were included. Ablation was performed a median of 271 days after LAAO. After ablation, 84% of patients were on oral anticoagulation (OAC), most commonly for 2-3 months. Bleeding complications on OAC occurred in 6.7% of patients at a median of 20 (13, 70) days after ablation. Stroke or TIA occurred in 5 patients (2.6% of cases) within the follow-up period with 2 occurrences (1% of cases) the day after ablation. There were 2 cases of new or worsened peri-device leak after ablation.\n                  \n                  \n                    Conclusion\n                    In a large, international registry of patients undergoing catheter ablation for AF with pre-existing LAAO devices, ablation was feasible and device related complications were rare Despite higher bleeding risk in an LAAO population, 84% of patients with prior LAAO tolerated short term OAC post-ablation with bleeding events at expected rates for this population."
-  },
-  {
-    "title": "Virtual Heart\u2013Based Prediction of Ablation Outcomes in Persistent Atrial Fibrillation Based on Non\u2013Pulmonary Vein Drivers",
-    "link": "https://doi.org/10.1161/circep.125.014266",
-    "doi": "10.1161/circep.125.014266",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Sep 25, 2026",
-    "date_ts": 1790294400.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Clinical outcomes of driver-targeted ablation in persistent atrial fibrillation (AF) have been inconsistent, underscoring the need for virtual heart-based approaches to characterize AF driver dynamics and guide ablation strategies. We used virtual heart models from a large persistent AF cohort to define electrophysiological features of extra-pulmonary vein drivers associated with rhythm outcomes after AF ablation.\n                  \n                  \n                    METHODS:\n                    We analyzed left atrial virtual heart models integrating cardiac computed tomography and electroanatomical maps in 165 patients with persistent AF from the CUVIA-AF2 study (Clinical Usefulness of Virtual Ablation Guided Catheter Ablation of Atrial Fibrillation 2). During a 34-second virtual AF simulation, stable phase singularities (PSs) were identified by PS lasting \u22652 s within a 10-mm diameter. Dominant frequency (DF) was assessed over 3 consecutive 6-second intervals to evaluate temporal stability. The maximal slope of the action potential duration restitution curve was derived via virtual ramp pacing (200\u2013120 ms). All markers were evaluated across 6 extra-pulmonary vein regions. Associations among stable PS, DF, maximal slope of the action potential duration restitution curve, low-voltage area (&lt;0.5 mV), and 1-year rhythm outcomes were analyzed.\n                  \n                  \n                    RESULTS:\n                    \n                      Stable PS at extra-pulmonary vein regions was observed in 124 (75%) patients; of these, 43 (34.7%) showed stable DF, and 81 (65.3%) had meandering DF. In regional analysis of the virtual heart models, areas containing stable PS with stable DF showed a higher maximal slope of the action potential duration restitution curve (1.41\u00b10.80 versus 1.09\u00b10.60;\n                      P\n                      &lt;0.001) and greater local virtual low-voltage burden (2.96\u00b13.23% versus 2.10\u00b12.75%) than regions with stable PS with meandering DF. Stable PS with stable DF correlated with higher AF recurrence at 1-year follow-up (log-rank\n                      P\n                      =0.002; adjusted hazard ratio, 5.78 [95% CI, 2.18\u201315.3]). A predictive model including stable PS and DF showed an apparent area under the curve of 0.765 for recurrence prediction.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    Stable PS with stable DF identified in virtual heart models was associated with adverse model-derived regional substrate features and higher recurrence rates after ablation. Virtual heart-based identification of these markers may improve prediction of ablation response in persistent AF, warranting prospective validation."
-  },
-  {
-    "title": "Pulse Field Ablation: From Bench to Blueprint: Mechanistic Insights and Device Engineering and Early Clinical Translation",
-    "link": "https://doi.org/10.1161/circep.125.014597",
-    "doi": "10.1161/circep.125.014597",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Sep 25, 2026",
-    "date_ts": 1790294400.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Pulsed field ablation has rapidly reshaped the landscape of atrial fibrillation ablation by offering a nonthermal, tissue-selective alternative to conventional thermal energy. This review highlights the scientific foundations, preclinical evidence, and engineering advances that established pulsed field ablation as a safer, faster, and more precise technology. We discuss how irreversible electroporation achieves myocardial selectivity, the pivotal studies that confirmed preservation of nearby structures, and the evolution of modern catheter systems designed for efficient and durable lesion creation. As pulsed field ablation platforms continue to mature, they are redefining procedural safety standards and expanding therapeutic possibilities in cardiac electrophysiology."
-  },
-  {
-    "title": "Esophageal Temperature Changes During Pulsed Field Ablation With Three Catheter Systems",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70439?af=R",
-    "doi": "10.1111/pace.70439",
-    "journal": "PACE",
-    "date": "Sep 24, 2026",
-    "date_ts": 1790266078.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Pulsed field ablation (PFA) is considered less thermally injurious than conventional ablation technologies, but esophageal temperature elevation can still occur. Human data directly comparing esophageal temperature changes among different PFA catheter systems remain limited. We compared esophageal temperature changes during PFA using VARIPULSE, PulseSelect, and FARAPULSE.\n                  \n                  \n                    Methods\n                    This retrospective single\u2010center study included consecutive patients with nonvalvular atrial fibrillation who underwent pulmonary vein isolation using PFA with luminal esophageal temperature monitoring between April 2025 and March 2026. Esophageal temperature was measured at five sites every 0.5 s. For each patient, esophageal temperature rise (\u0394T) was defined as the maximum esophageal temperature recorded during PFA minus the mean esophageal temperature during the 5\u2010min interval immediately preceding the PFA application associated with that maximum temperature. A sensitivity analysis using the same \u0394T definition was performed in patients who underwent pulmonary vein isolation alone.\n                  \n                  \n                    Results\n                    \n                      A total of 70 patients were analyzed. \u0394T differed among the three groups and was greatest with VARIPULSE (1.61 \u00b1 1.00\u00b0C vs. 1.10 \u00b1 0.61\u00b0C vs. 0.88 \u00b1 0.43\u00b0C for VARIPULSE, PulseSelect, and FARAPULSE, respectively;\n                      p\n                      = 0.0302). In patients undergoing pulmonary vein isolation alone (\n                      n\n                      = 56), \u0394T remained significantly different among the three groups (1.61 \u00b1 1.03\u00b0C vs. 1.05 \u00b1 0.61\u00b0C vs. 0.74 \u00b1 0.38\u00b0C, respectively;\n                      p\n                      = 0.0386). Clinically significant temperature elevation (\u0394T \u2265 2.0\u00b0C) occurred most frequently with VARIPULSE in both the overall cohort and the pulmonary vein isolation\u2010only subgroup. Temperature elevation was most prominent during ablation near the left pulmonary veins and in anatomically adjacent regions to the esophagus. No patient developed symptoms suggestive of esophageal ulceration; however, systematic post\u2010procedural endoscopic assessment was not performed.\n                    \n                  \n                  \n                    Conclusions\n                    Measured esophageal temperature elevation during PFA differed according to catheter system and was greatest with VARIPULSE; this between\u2010system difference persisted in patients undergoing pulmonary vein isolation alone. Because procedural characteristics differed among systems, these findings should not be interpreted as establishing a device\u2010specific causal mechanism or esophageal safety."
-  },
-  {
-    "title": "Contact Strategies and Isolation Endpoints in Pulsed Field Ablation of Persistent Left Superior Vena Cava: A Case Series",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70451?af=R",
-    "doi": "10.1111/pace.70451",
-    "journal": "PACE",
-    "date": "Sep 24, 2026",
-    "date_ts": 1790265940.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  Persistent left superior vena cava (PLSVC) can trigger atrial fibrillation. Thermal ablation of this vessel carries risks of phrenic nerve palsy and coronary artery spasm, whereas pulsed field ablation still lacks procedural guidance for the PLSVC diameter taper, which narrows from the distal segment to a dilated coronary sinus ostium. We report two contact strategies applied in three patients: a guidewire\u2010anchored rail with steerable sheath tension for a fixed\u2010loop catheter, and loop\u2010diameter adjustment for a variable\u2010loop catheter. Acute bidirectional block was confirmed by pacing in all three cases; in one case, dissociated spontaneous potentials provided an endpoint more stringent than atrial fibrillation termination alone. No complications occurred. These findings provide initial guidance for ablating the tapered PLSVC, although long\u2010term durability requires prospective validation."
-  },
-  {
-    "title": "Biatrial catheter ablation for persistent atrial fibrillation: Prospective registry-based observational study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005684?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 24, 2026",
-    "date_ts": 1790215235.853004,
-    "tags": [
-      "AFib"
     ],
     "hot": false
   }
