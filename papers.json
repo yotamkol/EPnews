@@ -1,5 +1,31 @@
 [
   {
+    "title": "Surgical Treatment of Atrial Fibrillation",
+    "link": "https://doi.org/10.1161/circulationaha.126.083715",
+    "doi": "10.1161/circulationaha.126.083715",
+    "journal": "Circulation",
+    "date": "Nov 17, 2026",
+    "date_ts": 1794873600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Atrial fibrillation is the most common sustained cardiac arrhythmia and is associated with an increased risk of stroke, heart failure, mortality, and reduced quality of life. Although catheter ablation is the most widely used rhythm control strategy, its efficacy is limited in patients with non-paroxysmal atrial fibrillation and large left atria. To address this therapeutic gap, surgical approaches, including minimally invasive ablation, hybrid epicardial-endocardial strategies, and left atrial appendage exclusion, have continued to evolve. In this review, we focus on recent evidence to guide clinical decision-making on patient selection, advances in minimally invasive surgical and hybrid techniques, left atrial appendage exclusion, and postoperative anticoagulation management. Minimally invasive standalone Cox-Maze IV procedure and hybrid epicardial-endocardial ablation have demonstrated superior long-term freedom from atrial tachyarrhythmias compared with thoracoscopic epicardial surgical ablation or catheter ablation alone. Five-year arrhythmia-free survival has approached 85% to 95% in experienced centers after the Cox-Maze IV procedure and approximately 60% to 70% after hybrid ablation, compared with 35% to 45% after thoracoscopic epicardial ablation and 30% to 35% after single catheter ablation alone. Surgical left atrial appendage exclusion performed at the time of ablation may further reduce thromboembolic risk, although the optimal strategy for postprocedural anticoagulation remains uncertain. Careful patient selection remains essential, with atrial fibrillation type, duration, left atrial size, and previous treatment failure known to be key predictors of procedural success. As surgical techniques and supporting evidence continue to grow, standalone surgical ablation may assume a more important role in the contemporary management of atrial fibrillation, particularly for patients with advanced disease who are unlikely to achieve durable rhythm control with catheter ablation alone."
+  },
+  {
+    "title": "Biatrial Versus Left Atrial Maze Ablation During Cardiac Valve Surgery for Persistent Atrial Fibrillation: The ABLATION Trial",
+    "link": "https://doi.org/10.1161/circulationaha.126.083005",
+    "doi": "10.1161/circulationaha.126.083005",
+    "journal": "Circulation",
+    "date": "Nov 17, 2026",
+    "date_ts": 1794873600.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    Guidelines recommend concomitant surgical ablation during cardiac surgery in patients with atrial fibrillation (AF). However, the optimal lesion set remains uncertain, with ongoing debate regarding the relative benefits and risks of biatrial versus left atrial (LA) maze ablation.\n                  \n                  \n                    METHODS:\n                    In this multicenter, randomized, single-blind trial, patients with persistent or long-standing persistent AF undergoing rheumatic mitral valve surgery, with or without concomitant cardiac surgical procedures, were randomly assigned in a 1:1 ratio to undergo biatrial or LA maze ablation. The biatrial group underwent a complete Cox-Maze IV procedure; the LA group received a left-sided maze lesion set. To ensure standardization and consistency of the ablation procedures, surgeons underwent pretrial training and certification, and all procedures were videorecorded and centrally reviewed. The primary outcome was freedom from atrial tachyarrhythmias lasting &gt;30 seconds without antiarrhythmic drugs within 12 months. The key secondary end point was freedom from permanent pacemaker implantation.\n                  \n                  \n                    RESULTS:\n                    \n                      All 323 randomized patients were included in the intention-to-treat analysis (mean age, 56.5 years; 72.1% women; mean LA diameter, 51.9 mm). At 12 months, 78.7% of patients (129 of 164) in the biatrial group and 68.6% (109 of 159) in the LA group were free from atrial tachyarrhythmias (adjusted difference, 10.7% [1-sided lower 95% CI, 3%];\n                      P\n                      =0.01). Freedom from permanent pacemaker implantation was noted in 97.0% (159 of 164) of the biatrial group and 98.1% (156 of 159) of the LA group, meeting the predefined noninferiority criterion with a margin of \u22125% (adjusted difference, \u20131.1% [1-sided lower 95% CI, \u20133.9%];\n                      P\n                      noninferiority\n                      =0.01).\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    Among patients with persistent or long-standing persistent AF undergoing rheumatic cardiac valve surgery, biatrial maze ablation was superior to LA maze ablation in reducing recurrent atrial tachyarrhythmias, while maintaining noninferiority with respect to permanent pacemaker implantation. These findings provide direct evidence to inform lesion-set selection for surgical ablation during cardiac surgery.\n                  \n                  \n                    REGISTRATION:\n                    \n                      URL:\n                      https://www.clinicaltrials.gov\n                      ; Unique identifier: NCT05021601."
+  },
+  {
     "title": "Erratum to \u2018Precise localization of the ventricular insertion of a bystander concealed nodoventricular pathway in east\u2013slow atrioventricular nodal reentrant tachycardia\u2019: Heart Rhythm Volume 23 Issue 7 (2026) e1237 - e1241",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029280?dgcid=rss_sd_all",
     "doi": null,
@@ -10,6 +36,94 @@
       "SVT"
     ],
     "hot": false
+  },
+  {
+    "title": "Initial Experience with Bachmann Bundle Pacing Lead Implantation as a Rhythm Control Strategy in Atrial Fibrillation",
+    "link": "https://doi.org/10.1093/europace/euag328",
+    "doi": "10.1093/europace/euag328",
+    "journal": "EP Europace",
+    "date": "Nov 16, 2026",
+    "date_ts": 1794787200.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Bachmann bundle pacing (BBP) is challenging during atrial fibrillation (AF) because ECG based endpoints cannot confirm lead positioning. We aimed to demonstrate the feasibility of a practical approach to BBP implantation during AF and propose a framework for comprehensive conduction system pacing with BBP and left bundle branch pacing (LBBP) for rhythm control in patients referred for pace-and-ablate therapy.\n                  \n                  \n                    Methods and Results\n                    Twenty-four consecutive patients with persistent or longstanding persistent AF and preserved ejection fraction underwent dual-chamber BBP and LBBP implantation with individually optimized pacing rate and AV interval. Twelve underwent BBP during AF (Group 1) and 12 during sinus (Group 2), including six cardioverted intraprocedurally. During AF, lead positioning was guided by anatomical landmarks, local electrograms, current of injury, and impedance changes. After sinus rhythm restoration, BBP was confirmed in 11/12 Group 1 patients. Reductions in P-wave duration and interatrial block were observed in both groups. Seventeen had been referred for pace-and-ablate therapy; three in Group 1 reverted spontaneously to sinus rhythm before cardioversion. Over a median 192 [139-212] days after sinus restoration, 12/17 maintained sinus rhythm; 2 underwent AV node ablation, 1 AF ablation, 1 repeat cardioversion, and 1 required rate-control medication for paroxysmal AF. No complications occurred.\n                  \n                  \n                    Conclusion\n                    BBP implantation during AF is feasible using anatomical and electrophysiological markers, with Bachmann bundle capture confirmed after sinus rhythm restoration. Exploratory findings suggest that comprehensive conduction system pacing with BBP and LBBP may support a rhythm-control (pace-and-wait) strategy in persistent AF patients referred for pace-and-ablate therapy."
+  },
+  {
+    "title": "Early Left Bundle Branch Pacing for Complete Left Bundle Branch Block and Left Ventricular Ejection Fraction of 36%\u201350%: The EARLY-RESYNC Randomized Trial",
+    "link": "https://doi.org/10.1093/europace/euag320",
+    "doi": "10.1093/europace/euag320",
+    "journal": "EP Europace",
+    "date": "Nov 16, 2026",
+    "date_ts": 1794787200.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Aims\n                    To compare the effects of early resynchronization with left bundle branch pacing (early-LBBP) versus guideline-directed medical therapy (GDMT) alone on cardiac function in patients with complete left bundle branch block (CLBBB) and left ventricular ejection fraction (LVEF) of 36%\u201350%.\n                  \n                  \n                    Methods and Results\n                    In this prospective, randomized, multicenter trial, 37 patients (mean age 60.5 \u00b1 12.3 years, male 40.5%, LVEF 42.6% \u00b1 6.0%) were assigned to early-LBBP plus GDMT (n=19) or GDMT alone (n=18). The primary endpoint was the between-group difference in the change of LVEF from baseline to 6 months. Secondary endpoints included changes in echocardiographic parameters and clinical outcomes. Analyses were performed according to the intention-to-treat principle. At 6-month follow-up, the adjusted mean improvement in LVEF was greater in the early-LBBP group than in the GDMT group (mean difference: 7.4%, 95% CI: 1.9 to 12.9%; P =0.013), with consistent findings in the per-protocol analysis. Early-LBBP was also associated with a greater reduction in LV end-systolic volume (\u221223.6mL; 95% CI: \u221242.3 to \u22124.8ml) and a higher rate of final LVEF \u226550% (78.9% vs. 38.9%) at 6 months compared with GDMT alone.\n                  \n                  \n                    Conclusion\n                    In patients with CLBBB and LVEF 36%-50%, LBBP combined with GDMT resulted in greater improvement in LVEF at 6 months than GDMT alone. Larger randomized trials are needed to establish its long-term clinical benefits and optimal timing."
+  },
+  {
+    "title": "Flexibility in Device Sizing with a Next-Generation LAA Occluder in the VERITAS Study",
+    "link": "https://doi.org/10.1093/europace/euag323",
+    "doi": "10.1093/europace/euag323",
+    "journal": "EP Europace",
+    "date": "Nov 16, 2026",
+    "date_ts": 1794787200.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Predictors and Long-term Prognosis of Silent Cerebral Embolism After Catheter Ablation of Atrial Fibrillation",
+    "link": "https://doi.org/10.1093/europace/euag322",
+    "doi": "10.1093/europace/euag322",
+    "journal": "EP Europace",
+    "date": "Nov 16, 2026",
+    "date_ts": 1794787200.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Left atrial pressure and arrhythmia recurrence after pulmonary vein isolation - more than a dichotomous threshold",
+    "link": "https://doi.org/10.1093/europace/euag327",
+    "doi": "10.1093/europace/euag327",
+    "journal": "EP Europace",
+    "date": "Nov 16, 2026",
+    "date_ts": 1794787200.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Pulmonary Vein Reconnection Burden and Extra\u2010Pulmonary Vein Ablation During Second Catheter Ablation for Atrial Fibrillation in the Pre\u2010Pulsed\u2010Field Ablation Era: A Multicenter Registry",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70558?af=R",
+    "doi": "10.1111/jce.70558",
+    "journal": "J Cardiovasc EP",
+    "date": "Nov 15, 2026",
+    "date_ts": 1794763526.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Contemporary procedural characteristics of second catheter ablation (CA) for atrial fibrillation (AF) remain incompletely characterized.\n                  \n                  \n                    Objective\n                    To investigate procedural characteristics and clinical implications of pulmonary vein (PV) reconnection during second CA for AF.\n                  \n                  \n                    Methods\n                    We analyzed 854 patients who underwent second CA for AF between April 2021 and March 2024 at nine institutions before the clinical adoption of pulsed\u2010field ablation. Patients were stratified according to the number of reconnected PVs identified during the procedures: none (0), single (1), and multiple (\u2265\u20092). The primary endpoint was freedom from atrial arrhythmia recurrence, assessed using multivariable Cox proportional hazards models.\n                  \n                  \n                    Results\n                    \n                      During second CA, PV reconnections (21% per vein) were identified and re\u2010isolated in all affected PVs. Patients with no PV reconnection accounted for 55.5% (\n                      n\n                      \u2009=\u2009474) of the cohort and underwent extra\u2010PV ablation more frequently than those with single (\n                      n\n                      \u2009=\u2009146) or multiple (\n                      n\n                      \u2009=\u2009234) reconnected PVs. During a median follow\u2010up of 706 days, multiple reconnected PVs with subsequent re\u2010isolation were associated with a lower risk of atrial arrhythmia recurrence than no PV reconnection. This association remained significant after multivariable adjustment (hazard ratio 0.69, 95% confidence interval 0.50\u20130.95;\n                      p\n                      \u2009=\u20090.023) and was more pronounced in patients without symptomatic heart failure (\n                      p\n                      for interaction\u2009=\u20090.009). Enlarged left atrial diameter, non\u2010paroxysmal AF, and symptomatic heart failure were also independently associated with recurrence, whereas additional extra\u2010PV ablation was not.\n                    \n                  \n                  \n                    Conclusion\n                    Re\u2010isolation of multiple reconnected PVs was independently associated with a lower risk of atrial arrhythmia recurrence after second CA for AF, particularly in patients without symptomatic heart failure."
+  },
+  {
+    "title": "Real\u2010World Performance of a Novel Wearable Cardioverter\u2010Defibrillator System: Primary Results From a National Prospective Post\u2010Approval Registry Study (ACE\u2010PAS)",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70556?af=R",
+    "doi": "10.1111/jce.70556",
+    "journal": "J Cardiovasc EP",
+    "date": "Nov 15, 2026",
+    "date_ts": 1794762911.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    Wearable cardioverter defibrillators (WCDs) protect patients at elevated risk of sudden cardiac death (SCD) but are effective only when worn. The ASSURE WCD was designed to address historical limitations related to false alarms and patient adherence. The objective of this post\u2010approval study was to assess safety and effectiveness in a large, real\u2010world cohort.\n                  \n                  \n                    Methods\n                    The study population was comprised of patients meeting WCD indications who were fitted with the ASSURE WCD. The primary effectiveness endpoint was overall shock conversion success for ventricular tachycardia (VT) or ventricular fibrillation (VF) (performance goal \u2265\u200989%), and the primary safety endpoint was the incidence of inappropriate shocks (performance goal \u2264\u20090.0075 per patient\u2010month).\n                  \n                  \n                    Results\n                    \n                      Among 21\u2009612 patients (mean age 64.0 years, 33.9% female), median daily use was 23.1\u2009h/day (IQR 16.1\u201323.9) over 54 days (IQR 20\u201397). WCD indications included cardiomyopathy (63.8%), post\u2010myocardial infarction (19.3%), sustained VT/VF (11.9%) and ICD explant/other (5.0%). Both primary effectiveness and safety endpoints were met. All 303 VT/VF shock events in 261 patients (1.2%) were successfully converted, yielding an overall shock conversion success of 100% (95% CI: 98.8%\u2013100%), with first\u2010shock success of 97.0% (95% CI: 94.4%\u201398.5%). The incidence rate of inappropriate shocks was 0.0065 per patient\u2010month (95% CI: 0.0057\u20130.0073). False\u2010positive alarms occurred in 6.0% of patients. The 90\u2010day Kaplan\u2013Meier estimated risk of VT/VF was 3.4%, varying by WCD indication (\n                      p\n                      \u2009&lt;\u20090.001) but not by left ventricular ejection fraction (\n                      p\n                      \u2009=\u20090.16).\n                    \n                  \n                  \n                    Conclusion\n                    In routine practice, the ASSURE WCD effectively terminated VT/VF with low false alarm and inappropriate shock rates and high patient adherence. Most VT/VF events occurred early during WCD wear. Collectively, these findings provide important contemporary evidence to inform the selection of patients who may benefit from WCD therapy during periods of elevated arrhythmic risk.\n                  \n                  \n                    Trial Registration\n                    NCT05135403."
   },
   {
     "title": "Safety and Efficacy of Transvenous Lead Extraction Using a Right-Sided Approach",
@@ -6086,114 +6200,6 @@
     "journal": "Heart Rhythm",
     "date": "Sep 26, 2026",
     "date_ts": 1790389270.121459,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Acute Effects of Physical Exercise in Patients with Arrhythmogenic Cardiomyopathy Harbouring Plakophilin-2 Variants",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028055?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 26, 2026",
-    "date_ts": 1790389270.121419,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Atrial Fibrillation Cycle Length Dynamics During Pulmonary Vein Isolation and Posterior Wall Pulsed Field Ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028092?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 26, 2026",
-    "date_ts": 1790389270.121378,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Catheter ablation for atrial fibrillation in very young adults \u2014 multicentric data from the AF-YOUNG registry",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028018?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 26, 2026",
-    "date_ts": 1790389270.121331,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Preclinical Impact of New Variable Loop Circular Catheter Waveform",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028067?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 26, 2026",
-    "date_ts": 1790389270.121295,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Anatomical Approach from Aortic Sinus of Valsalva for Para-Hisian Premature Ventricular Contractions: Safety and Outcomes",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028079?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 26, 2026",
-    "date_ts": 1790389270.121254,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Multicenter learning curve analysis of the extravascular implantable cardioverter-defibrillator",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028122?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 26, 2026",
-    "date_ts": 1790389270.121217,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Likelihood ratio calibration aligns MAVE and automated patch-clamp functional evidence for <em>KCNH2</em> variants in long QT syndrome",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028171?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 26, 2026",
-    "date_ts": 1790389270.121176,
-    "tags": [
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Electrocardiogram Abnormalities and the Risk of Out-of-Hospital Cardiac Arrest: A Nationwide Cohort Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028109?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 26, 2026",
-    "date_ts": 1790389270.121135,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sex differences in left bundle branch pacing for cardiac resynchronization therapy: novel procedural insights into pacing lead location",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028183?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 26, 2026",
-    "date_ts": 1790389270.121092,
     "tags": [
       "Devices"
     ],
