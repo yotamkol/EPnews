@@ -1,5 +1,30 @@
 [
   {
+    "title": "Purkinje-Targeted Catheter Ablation for Refractory Ventricular Fibrillation and Polymorphic Ventricular Tachycardia: A Systematic Review, Network Meta-Analysis, and Meta-Regression",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029887?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 18, 2026",
+    "date_ts": 1794977851.237377,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Controversy: Adjunctive ablation lesions are needed beyond pulmonary vein isolation in treating persistent atrial fibrillation: Pro and Contra",
+    "link": "https://doi.org/10.1093/europace/euag325",
+    "doi": "10.1093/europace/euag325",
+    "journal": "EP Europace",
+    "date": "Nov 18, 2026",
+    "date_ts": 1794960000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  Catheter ablation for persistent atrial fibrillation remains less effective than for paroxysmal atrial fibrillation, despite pulmonary vein isolation (PVI) forming the foundation of both procedures. Ablating beyond the pulmonary veins, including treatment of non-pulmonary vein triggers, posterior wall isolation, linear lesions, vein of Marshall ethanol infusion, isolation of the superior vena cava, coronary sinus or left atrial appendage, and modification of regions identified by fibrosis or low voltage has grown interest. Although observational and mechanistic studies have often been encouraging, randomized trials of empirical adjunctive ablation have produced inconsistent or neutral results. Pulsed field ablation has renewed the debate by facilitating rapid ablation of extra-pulmonary vein tissue. The PIFPAF-PFA trial did not demonstrate a significant reduction in its primary endpoint of atrial tachyarrhythmia recurrence lasting at least 30 seconds with adjunctive posterior wall isolation. However, separation of the recurrence curves and exploratory signals for reduced arrhythmia burden and fewer prolonged episodes raise questions about lesion strategy and the clinical relevance of conventional recurrence definitions. These findings do not establish routine posterior wall isolation, but they illustrate why a neutral binary endpoint may not fully characterize treatment effects on recurrent AF. The controversy now extends beyond whether additional ablation is beneficial to which mechanisms should be targeted, which patients should receive adjunctive lesions, how energy source affects lesion durability and safety, and whether success should be defined by any brief recurrence or by clinically meaningful arrhythmia burden. This article examines the evidence supporting and opposing ablation beyond PVI in persistent AF."
+  },
+  {
     "title": "Surgical Treatment of Atrial Fibrillation",
     "link": "https://doi.org/10.1161/circulationaha.126.083715",
     "doi": "10.1161/circulationaha.126.083715",
@@ -24,6 +49,18 @@
     ],
     "hot": false,
     "abstract": "BACKGROUND:\n                    Guidelines recommend concomitant surgical ablation during cardiac surgery in patients with atrial fibrillation (AF). However, the optimal lesion set remains uncertain, with ongoing debate regarding the relative benefits and risks of biatrial versus left atrial (LA) maze ablation.\n                  \n                  \n                    METHODS:\n                    In this multicenter, randomized, single-blind trial, patients with persistent or long-standing persistent AF undergoing rheumatic mitral valve surgery, with or without concomitant cardiac surgical procedures, were randomly assigned in a 1:1 ratio to undergo biatrial or LA maze ablation. The biatrial group underwent a complete Cox-Maze IV procedure; the LA group received a left-sided maze lesion set. To ensure standardization and consistency of the ablation procedures, surgeons underwent pretrial training and certification, and all procedures were videorecorded and centrally reviewed. The primary outcome was freedom from atrial tachyarrhythmias lasting &gt;30 seconds without antiarrhythmic drugs within 12 months. The key secondary end point was freedom from permanent pacemaker implantation.\n                  \n                  \n                    RESULTS:\n                    \n                      All 323 randomized patients were included in the intention-to-treat analysis (mean age, 56.5 years; 72.1% women; mean LA diameter, 51.9 mm). At 12 months, 78.7% of patients (129 of 164) in the biatrial group and 68.6% (109 of 159) in the LA group were free from atrial tachyarrhythmias (adjusted difference, 10.7% [1-sided lower 95% CI, 3%];\n                      P\n                      =0.01). Freedom from permanent pacemaker implantation was noted in 97.0% (159 of 164) of the biatrial group and 98.1% (156 of 159) of the LA group, meeting the predefined noninferiority criterion with a margin of \u22125% (adjusted difference, \u20131.1% [1-sided lower 95% CI, \u20133.9%];\n                      P\n                      noninferiority\n                      =0.01).\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    Among patients with persistent or long-standing persistent AF undergoing rheumatic cardiac valve surgery, biatrial maze ablation was superior to LA maze ablation in reducing recurrent atrial tachyarrhythmias, while maintaining noninferiority with respect to permanent pacemaker implantation. These findings provide direct evidence to inform lesion-set selection for surgical ablation during cardiac surgery.\n                  \n                  \n                    REGISTRATION:\n                    \n                      URL:\n                      https://www.clinicaltrials.gov\n                      ; Unique identifier: NCT05021601."
+  },
+  {
+    "title": "Conduction System Pacing versus Conventional Right Ventricular Pacing After Cardiac Surgery \u2013 A Multicenter Cohort Study",
+    "link": "https://doi.org/10.1093/europace/euag321",
+    "doi": "10.1093/europace/euag321",
+    "journal": "EP Europace",
+    "date": "Nov 17, 2026",
+    "date_ts": 1794873600.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
   },
   {
     "title": "Erratum to \u2018Precise localization of the ventricular insertion of a bystander concealed nodoventricular pathway in east\u2013slow atrioventricular nodal reentrant tachycardia\u2019: Heart Rhythm Volume 23 Issue 7 (2026) e1237 - e1241",
@@ -1649,6 +1686,18 @@
     "tags": [
       "AFib",
       "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Overlapping Channelopathy Phenotypes: Andersen-Tawil Syndrome with Drug-Induced Brugada Pattern",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.11.009",
+    "doi": "10.1016/j.hrcr.2026.11.009",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793491200.0,
+    "tags": [
+      "Genetics"
     ],
     "hot": false
   },
@@ -6154,54 +6203,6 @@
     "date_ts": 1790389270.485032,
     "tags": [
       "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Sex-Specific Temporal Trends in the Incidence of Heart Failure Among Patients With Atrial Fibrillation: A Population-Based Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008315?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Sep 26, 2026",
-    "date_ts": 1790389270.485,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Adjuvant Ablation for PeRsistent AtrIal FibrillAtion Using Dual ENergy LatticE Tip Catheter: ARIADNE-Randomized Clinical Trial Acute Results",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26008339?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "JACC: Clinical EP",
-    "date": "Sep 26, 2026",
-    "date_ts": 1790389270.484939,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical Implications of Adjunctive Posterior Wall Isolation According to Ablation Modality: A Subanalysis of the CORNERSTONE AF Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028043?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 26, 2026",
-    "date_ts": 1790389270.121502,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Effects of Flecainide Therapy on Cardiac Device Performance: A Prospective Multicenter Longitudinal Study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028080?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Sep 26, 2026",
-    "date_ts": 1790389270.121459,
-    "tags": [
-      "Devices"
     ],
     "hot": false
   }
