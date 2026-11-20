@@ -1,5 +1,29 @@
 [
   {
+    "title": "Cutting to the Heart of CPVT: Who Benefits From Cardiac Sympathetic Denervation?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26009692?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Nov 20, 2026",
+    "date_ts": 1795149709.425768,
+    "tags": [
+      "Genetics"
+    ],
+    "hot": false
+  },
+  {
+    "title": "The Blanking Period after Pulsed Field Ablation: Time to Rethink, Not Yet to Abandon",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2405500X26009680?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "JACC: Clinical EP",
+    "date": "Nov 20, 2026",
+    "date_ts": 1795149709.425609,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "Feasibility and safety of leadless pacemaker implantation via the right internal jugular vein: primary results of the VAMPIRE multicenter prospective study.",
     "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029899?dgcid=rss_sd_all",
     "doi": null,
@@ -58,6 +82,19 @@
       "Other"
     ],
     "hot": false
+  },
+  {
+    "title": "Incidence, Risk Factors and Natural History of Atrial Arrhythmias in Patients With Systemic Right Ventricle",
+    "link": "https://doi.org/10.1161/circep.125.014712",
+    "doi": "10.1161/circep.125.014712",
+    "journal": "Circ: Arrhythmia & EP",
+    "date": "Nov 19, 2026",
+    "date_ts": 1795046400.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "BACKGROUND:\n                    The incidence and risk factors for atrial arrhythmia (AA; atrial fibrillation and atrial flutter) in adults with systemic right ventricle (sRV), specifically congenitally corrected transposition of the great arteries and dextro-transposition of the great arteries palliated with atrial switch procedures, are not well understood. This study aims to better define these risks.\n                  \n                  \n                    METHODS:\n                    Adults with sRV presenting to Mayo Clinic between 2000 and 2022 were identified. Their clinical characteristics, electrocardiographic, and echocardiographic parameters at the time of first presentation were recorded. The incidence of sustained AA (&gt;30 seconds) during follow-up was documented. Cox regression analysis was used to identify associations of incident atrial fibrillation/atrial flutter and mortality during follow-up.\n                  \n                  \n                    RESULTS:\n                    \n                      Among 447 patients with sRV (median age, 33.1 [24.6\u201342.8], 55.9% male, 247 cm\n                      3\n                      -TGA; 200 dextro-transposition of the great arteries postatrial switch), AA was present at first visit in 113 (25.3%). Out of the remaining 334 patients, new-onset AA occurred in 125 (37.4%) patients during a median follow-up of 11.1 years (interquartile range, 3.6\u201319.3). Isolated atrial fibrillation was observed in 89 (37.4%), isolated atrial flutter in 76 (31.9%), and both atrial fibrillation and atrial flutter in 73 (30.7%) patients. In multivariable analysis, the risk factors for incident AA included age (hazard ratio, 1.04 [1.03\u20131.06];\n                      P\n                      &lt;0.001), d-TGA (hazard ratio, 1.96 [1.00\u20133.85];\n                      P\n                      =0.05), and QRS duration (hazard ratio, 1.01 [1.00\u20131.02];\n                      P\n                      =0.02). AA was associated with hospitalization for heart failure in 19% of patients. Among those treated with anti-arrhythmic drugs and ablation, recurrence occurred in over 50% of patients. AA was not an independent predictor of mortality.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    AA occurred in more than half of this cohort with sRV, with risk increasing significantly after the third decade of life. Advancing age, dextro-transposition of the great arteries, and prolonged QRS duration were associated with increased risk of AA. Close monitoring for AA and early interventions are warranted in all adults with sRV."
   },
   {
     "title": "Evaluation of the ESC Guideline based risk stratification of syncope patients in the emergency department A post-hoc analysis of the SYNERGY-trial",
@@ -1875,6 +1912,19 @@
     "tags": [
       "AFib",
       "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Long-Term Atrial Remodeling and Pacemaker Cell Failure in CAID Syndrome: Insights From a Homozygous SGOL1 Mutation",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.11.011",
+    "doi": "10.1016/j.hrcr.2026.11.011",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793491200.0,
+    "tags": [
+      "Devices",
+      "Genetics"
     ],
     "hot": false
   },
@@ -6151,56 +6201,6 @@
     "date_ts": 1790651083.285844,
     "tags": [
       "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Subcutaneous and Extravascular Implantable Cardioverter-Defibrillators: A Clinical Framework for Breast Surgery, Pregnancy, Lactation, Radiation Therapy, and Breast Imaging",
-    "link": "https://doi.org/10.1093/europace/euag274",
-    "doi": "10.1093/europace/euag274",
-    "journal": "EP Europace",
-    "date": "Sep 29, 2026",
-    "date_ts": 1790640000.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  The subcutaneous implantable cardioverter-defibrillator and extravascular implantable cardioverter-defibrillator do not require intravascular, intracardiac, or epicardial leads, making them attractive alternatives to transvenous implantable cardioverter defibrillators in patients without bradycardia pacing or cardiac resynchronization therapy indications. These systems are especially useful for patients with venous access challenges and those at risk for endovascular infections, including patients with renal failure or those who are immunocompromised. Women with prior or anticipated breast surgery, such as mastectomy or breast reconstruction surgery, or those who are lactating present unique anatomic, procedural, and post-operative quality-of-life considerations. This commentary provides a practical, scenario-based framework for managing this unique patient group. Key considerations include individualized incision and pulse generator planning, proactive multidisciplinary coordination, procedure-specific management, and shared decision-making in patients with prior or anticipated breast augmentation or reduction, pregnancy, lactation, mastectomy, radiation therapy, and breast imaging."
-  },
-  {
-    "title": "Atrial Fibrillation Ablation Effectiveness End Points, Safety End Points, and Trial Design: Academic Research Consortium Initiative Endorsed by the Heart Rhythm Society",
-    "link": "https://doi.org/10.1161/circep.126.015082",
-    "doi": "10.1161/circep.126.015082",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Sep 29, 2026",
-    "date_ts": 1790640000.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "The aim of the AFA-ARC (Atrial Fibrillation Ablation Academic Research Consortium) initiative is to reexamine trial design and the safety and effectiveness end points for pivotal clinical trials evaluating catheter ablation for the treatment of symptomatic atrial fibrillation to provide meaningful and interpretable data to support regulatory decision-making. Beginning in July 2024, a group of international experts began meeting regularly both virtually together and separately in working groups (group 1 effectiveness end points; group 2 safety end points; and group 3 trial design and report forms), with one in-person meeting held in April 2025, and revisions of draft proposals from January 2025 to February 2026. The Food and Drug Administration Office of Cardiovascular Devices at the Center for Devices and Radiological Health provided input throughout the revision and proposal process. A patient advocate participated in the in-person meeting and during the revision phase. Heart Rhythm Society leadership was involved throughout the process and in the revision phase. Industry representatives were sent drafts of the proposed manuscripts during the revision phase before submission. The result of this process was the creation of a combined document to reexamine trial design and the safety and effectiveness end points for pivotal clinical trials evaluating catheter ablation of atrial fibrillation. This document represents contributions from each of the 3 Working Groups. The Heart Rhythm Society endorsed this document. This AFA-ARC document proposes revised effectiveness and safety end points, study design, and report forms for studies evaluating AF ablation in patients with symptomatic paroxysmal, persistent, or longstanding persistent AF."
-  },
-  {
-    "title": "Forecasting 1-year atrial fibrillation risk from sinus rhythm ECGs in Arrhythmia Na\u00efve Patients",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005702?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 28, 2026",
-    "date_ts": 1790562037.747023,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Combined Pulsed Field and Radiofrequency Ablation for Complex Atrial Tachyarrhythmias Following Bachmann`s Bundle Pacing",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826005714?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm O2",
-    "date": "Sep 28, 2026",
-    "date_ts": 1790562037.746983,
-    "tags": [
-      "Other"
     ],
     "hot": false
   }
