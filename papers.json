@@ -1,5 +1,125 @@
 [
   {
+    "title": "Incidence and prevalence of atrial fibrillation: a systematic literature review of contemporary population-based studies",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006598?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Nov 22, 2026",
+    "date_ts": 1795319484.973899,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Design of the INTEGRA-D IDE Clinical Trial:A Novel Single Unit Implantable Cardiac Contractility Modulation\u2013Defibrillator",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006604?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Nov 22, 2026",
+    "date_ts": 1795319484.973838,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Patient-specific fluoroscopic sternal contour reference for substernal tunneling during extravascular ICD implantation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126030079?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 22, 2026",
+    "date_ts": 1795319484.850383,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Deliberate Lead Slack During Proximal Left Bundle Branch Area Pacing With a Lumenless Defibrillation Lead: Is the Added Complexity Justified?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029978?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 22, 2026",
+    "date_ts": 1795319484.850346,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Middle Cardiac Vein Mapping with Multielectrode Catheters to Guide Ablation of Scar-Related Ventricular Tachycardia",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126030092?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 22, 2026",
+    "date_ts": 1795319484.850309,
+    "tags": [
+      "VT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "CTA-Guided Anatomical Targeting for Bachmann's Bundle Pacing: First-in-Human Study",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126030067?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 22, 2026",
+    "date_ts": 1795319484.850274,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Author\u2019s reply to Letter to the Editor \u2013 A methodological note on PRAETORIAN score reporting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029966?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 22, 2026",
+    "date_ts": 1795319484.850233,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "A semi-automated tool improves the reproducibility of physiology-based electrocardiographic criteria quantification for left bundle branch capture assessment",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126030080?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 22, 2026",
+    "date_ts": 1795319484.850188,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Author's reply to Deliberate Lead Slack During Proximal Left Bundle Branch Area Pacing With a Lumenless Defibrillation Lead: Is the Added Complexity Justified?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S154752712602998X?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 22, 2026",
+    "date_ts": 1795319484.85014,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Letter to the Editor\u2014 A methodological note on PRAETORIAN score reporting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126029954?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 22, 2026",
+    "date_ts": 1795319484.849966,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "AS-0140 Spp1 promotes atrial fibrosis and increases atrial fibrillation susceptibility after myocardial infarction",
     "link": "https://www.sciencedirect.com/science/article/pii/S0735109726101594?dgcid=rss_sd_all",
     "doi": null,
@@ -252,6 +372,32 @@
       "Other"
     ],
     "hot": false
+  },
+  {
+    "title": "MRI\u2010Derived Atrial Substrate Score Predicts Recurrence After First\u2010Time Cryoballoon Pulmonary Vein Isolation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70493?af=R",
+    "doi": "10.1111/pace.70493",
+    "journal": "PACE",
+    "date": "Nov 20, 2026",
+    "date_ts": 1795172877.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background and aims\n                    The conventional classification of atrial fibrillation (AF) as paroxysmal or persistent may not reflect structural atrial remodeling and has limited value for predicting recurrence after pulmonary vein isolation (PVI). We investigated whether an MRI\u2010derived substrate score combining left atrial (LA) fibrosis and size improves recurrence risk stratification after first\u2010time cryoballoon PVI.\n                  \n                  \n                    Methods\n                    We retrospectively analyzed 69 patients undergoing first cryoballoon PVI; 67 underwent pre\u2010procedural 3\u2010Tesla late gadolinium enhancement MRI. LA fibrosis was graded using the UTAH classification; the maximal horizontal LA diameter in the two\u2010chamber view was measured, and LA volume was calculated with a 3D tool. An exploratory point\u2010based score was constructed from LA diameter categories (&lt; 44\u00a0mm, 0 points; 44\u2013&lt; 48\u00a0mm, 2 points; \u2265 48\u00a0mm, 4 points) and advanced fibrosis (UTAH stage 3\u20134, 1 point). Discrimination for 12\u2010month arrhythmia recurrence was assessed by ROC analysis.\n                  \n                  \n                    Results\n                    \n                      Advanced fibrosis was present in half of the patients with paroxysmal AF, with a similar UTAH distribution in both phenotypes (\n                      p\n                      = 0.83). LA diameter and volume were larger in patients with recurrence and discriminated recurrence (AUC 0.95 and 0.92). The substrate score predicted recurrence (AUC 0.96, 95% CI 0.91\u20130.99), with recurrence rates of 0%, 41% and 96% in low\u2010, intermediate\u2010 and high\u2010risk patients. LA size was the main contributor, with fibrosis providing complementary information, whereas AF phenotype did not provide incremental predictive value.\n                    \n                  \n                  \n                    Conclusions\n                    An MRI\u2010derived substrate score, with LA size as the main contributor and fibrosis as a complementary marker, predicted arrhythmia recurrence after cryoballoon PVI better than the conventional AF phenotype. External validation is required before clinical implementation."
+  },
+  {
+    "title": "Optimized Strategy for Improving the Accuracy of Determining Left Bundle Branch Capture",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70494?af=R",
+    "doi": "10.1111/pace.70494",
+    "journal": "PACE",
+    "date": "Nov 20, 2026",
+    "date_ts": 1795168904.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    The accuracy of current ECG criteria for left bundle branch (LBB) pacing (LBBP) remains inadequate.\n                  \n                  \n                    Objectives\n                    To establish an optimized strategy to distinguish LBBP from left ventricular septal pacing (LVSP) in patients with a narrow QRS complex.\n                  \n                  \n                    Methods\n                    \n                      LBB\n                      po\n                      \u2010V\n                      6\n                      RWPT, Native\u2010V\n                      6\n                      RWPT, and Paced\u2010V\n                      6\n                      RWPT were measured from LBB potential (LBB\n                      po\n                      ) onset, intrinsic QRS onset, and stimulus end to the R\u2010wave peak in V\n                      6\n                      , respectively. \u0394V\n                      6\n                      RWPT and \u0394LBB\n                      po\n                      \u2010V\n                      6\n                      RWPT were defined as Paced\u2010V\n                      6\n                      RWPT minus Native\u2010V\n                      6\n                      RWPT and Paced\u2010V\n                      6\n                      RWPT minus LBB\n                      po\n                      \u2010V\n                      6\n                      RWPT. Receiver operating characteristic analysis identified optimal cut\u2010offs for these two differences, Paced\u2010V\n                      6\n                      RWPT, and the V\n                      6\n                      \u2010V\n                      1\n                      interpeak interval in patients with transition\u2010confirmed capture. Areas under the curves (AUCs) were compared by LBB\n                      po\n                      status.\n                    \n                  \n                  \n                    Results\n                    \n                      LBBP was confirmed in 292 (61.6%) of 474 patients with LBBAP. The optimal cut\u2010off values of \u0394LBB\n                      po\n                      \u2010V\n                      6\n                      RWPT, \u0394V\n                      6\n                      RWPT, Paced\u2010V\n                      6\n                      RWPT, and the V\n                      6\n                      \u2010V\n                      1\n                      interpeak interval for determining LBBP were 6\u00a0ms, 30\u00a0ms, 67\u00a0ms, and 31\u00a0ms, respectively. In 211 of 292 patients, LBB\n                      po\n                      was recorded and the \u0394LBB\n                      po\n                      \u2010V\n                      6\n                      RWPT criterion achieved the largest AUC (1.000), with 98.5% sensitivity and 99.5% specificity. LBBP was misclassified as LVSP by the \u0394V\n                      6\n                      RWPT criterion in 3 patients but was correctly identified by the \u0394LBB\n                      po\n                      \u2010V\n                      6\n                      RWPT criterion. In 81 of 292 patients, LBB\n                      po\n                      was not recorded and the \u0394V\n                      6\n                      RWPT criterion showed the largest AUC (0.990), with 98.8% sensitivity and 97.3% specificity.\n                    \n                  \n                  \n                    Conclusions\n                    \n                      Selecting \u0394LBB\n                      po\n                      \u2010V\n                      6\n                      RWPT for patients with LBB\n                      po\n                      and \u0394V\n                      6\n                      RWPT for those without LBB\n                      po\n                      may help classify LBB capture in unclassified LBBAP with narrow QRS complexes. Diagnostic accuracy in this population requires prospective validation."
   },
   {
     "title": "Cutting to the Heart of CPVT: Who Benefits From Cardiac Sympathetic Denervation?",
@@ -2179,6 +2325,18 @@
     "tags": [
       "AFib",
       "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Abrupt QRS Morphology Change During Pace Mapping Identifies the Site of Termination Without Global Propagation Within the Critical Isthmus",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.11.012",
+    "doi": "10.1016/j.hrcr.2026.11.012",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793491200.0,
+    "tags": [
+      "Other"
     ],
     "hot": false
   },
@@ -6035,167 +6193,6 @@
     "date_ts": 1790812800.0,
     "tags": [
       "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Correction to: Outcomes of simplified left atrial appendage occlusion using the WATCHMAN FLX device: the ROSE-FLX study",
-    "link": "https://doi.org/10.1093/europace/euag287",
-    "doi": "10.1093/europace/euag287",
-    "journal": "EP Europace",
-    "date": "Oct 01, 2026",
-    "date_ts": 1790812800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Successful ablation of a permanent form of junctional reciprocating tachycardia involving multiple adjacent accessory pathways with and without decremental properties. \u2013 an \u201cirregular\u201d supraventricular tachycardia",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.10.010",
-    "doi": "10.1016/j.hrcr.2026.10.010",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Oct 01, 2026",
-    "date_ts": 1790812800.0,
-    "tags": [
-      "VT",
-      "SVT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Successful Combined Catheter and Surgical Ablation for Refractory, Life-threatening Ventricular Tachycardia in a Patient with Isolated Right Ventricle Hypoplasia: A Case Report",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.10.008",
-    "doi": "10.1016/j.hrcr.2026.10.008",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Oct 01, 2026",
-    "date_ts": 1790812800.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Intra-articular injection and left atrial appendage closure device infection: a case report and literature review",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.10.009",
-    "doi": "10.1016/j.hrcr.2026.10.009",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Oct 01, 2026",
-    "date_ts": 1790812800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Electrode perforation of a silicone breast implant in a subcutaneous implantable cardioverter-defibrillator carrier: A previously unreported device complication",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.07.018",
-    "doi": "10.1016/j.hrcr.2026.07.018",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Oct 01, 2026",
-    "date_ts": 1790812800.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false,
-    "abstract": "Subcutaneous implantable cardioverter-defibrillators (S-ICDs) eliminate intravascular lead-related risks but require parasternal and lateral electrode tunneling.1 Submuscular breast implants alter chest wall anatomy, particularly through expansion of the lower breast pole.2 Whether these subfascial anatomy alterations carry the risk of conflict between the S-ICD electrode trajectory and the implant capsule has not been investigated yet."
-  },
-  {
-    "title": "How to individualize device therapy in transthyretin cardiac amyloidosis: A dyssynchrony-based case report",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.07.015",
-    "doi": "10.1016/j.hrcr.2026.07.015",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Oct 01, 2026",
-    "date_ts": 1790812800.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Cardiac amyloidosis is frequently complicated by conduction system disease, ventricular arrhythmias, and progressive heart failure. However, selecting the optimal device strategy remains challenging, particularly in patients with only mildly prolonged QRS duration. This case highlights how advanced ventricular dyssynchrony assessment using ultra-high-frequency ECG influenced device selection and guided an individualized cardiac physiologic pacing strategy in a patient with transthyretin cardiac amyloidosis."
-  },
-  {
-    "title": "Not all Block is a lack of electrical impulse: Recognizing pseudo-atrioventricular block from His extrasystoles",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.07.008",
-    "doi": "10.1016/j.hrcr.2026.07.008",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Oct 01, 2026",
-    "date_ts": 1790812800.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Novel method for displaying the contact index in fixed-loop pulsed field ablation catheters",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.07.017",
-    "doi": "10.1016/j.hrcr.2026.07.017",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Oct 01, 2026",
-    "date_ts": 1790812800.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "Adequate electrode\u2013tissue contact is considered important for effective pulsed field ablation (PFA) in patients with atrial fibrillation (AF) using a fixed-loop PFA catheter (PulseSelect PFA Loop catheter, Medtronic, Minneapolis, MN, USA). The Contact Index (CI) in EnSite X Software (Abbott, Abbott Park, IL, USA) helps visualize tissue contact through impedance elevation. (1) However, CI was originally designed for a spline-based PFA catheter (FARAWAVE, Boston Scientific, Marlborough, MA). When applied to a fixed-loop PFA catheter, only odd-numbered electrodes are displayed, making comprehensive assessment of all nine electrodes difficult."
-  },
-  {
-    "title": "Thirty years of percutaneous epicardial access: reflections on the evolution of ventricular tachycardia substrate mapping and ablation",
-    "link": "https://doi.org/10.1093/europace/euag263",
-    "doi": "10.1093/europace/euag263",
-    "journal": "EP Europace",
-    "date": "Oct 01, 2026",
-    "date_ts": 1790812800.0,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Successful catheter ablation of electrical storm with the lattice tip catheter in a patient with a left ventricular apical thrombus using echocardiographic guidance",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.10.007",
-    "doi": "10.1016/j.hrcr.2026.10.007",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Oct 01, 2026",
-    "date_ts": 1790812800.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Outcomes of leadless pacing with the Micra VR beyond 10 years",
-    "link": "https://doi.org/10.1093/europace/euag271",
-    "doi": "10.1093/europace/euag271",
-    "journal": "EP Europace",
-    "date": "Oct 01, 2026",
-    "date_ts": 1790812800.0,
-    "tags": [
-      "Devices"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Improved patient value after implementing same day discharge for patients undergoing pulmonary vein isolation",
-    "link": "https://doi.org/10.1093/europace/euag155",
-    "doi": "10.1093/europace/euag155",
-    "journal": "EP Europace",
-    "date": "Oct 01, 2026",
-    "date_ts": 1790812800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Aims\n                    Pulmonary vein isolation (PVI) is an effective intervention to treat atrial fibrillation, which is increasingly prevalent. Same-day discharge (SDD) is a strategic approach to limit procedure-related costs. This study aimed to compare healthcare utilization, costs, and clinical outcomes before and after implementation of an SDD protocol.\n                  \n                  \n                    Methods and results\n                    This retrospective study included 2987 patients undergoing PVI between 1 January 2016 and 1 April 2021. Baseline characteristics, pre-, peri-, and post-procedure healthcare utilization and clinical outcomes were compared before (cohort A; n = 1379) and after (Cohort B; n = 1608) implementation of the SDD protocol using bivariate and multivariate analyses. show that cohort B vs. cohort A had lower all-cause 90-day mortality (0% vs. 0.3%, P = 0.031), no differences in re-ablation &amp;lt; 1 year (P = 0.286), as well as in complications: bleedings (P = 0.177), tamponade &amp;lt; 30 days (P = 0.157), phrenic nerve injury (P = 0.984), thromboembolic complication &amp;lt; 72 h (P = 0.212), or vascular complications (P = 0.290). In terms of healthcare utilization and costs, cohort B had significantly less peri-procedure hospital admission costs (\u20ac721.52 vs. \u20ac1011.78, P &amp;lt; 0.001) and less total peri- and post-procedure costs (\u20ac840.37 vs. \u20ac1152.94, P &amp;lt; 0.001). Adjusted for all baseline characteristics, the post-implementation cohort showed on average \u20ac315 lower total costs per patient.\n                  \n                  \n                    Conclusion\n                    The implementation of the SDD protocol was associated with comparable complication rates while significantly reducing both peri- and post-procedure healthcare utilization and costs, thereby enhancing patient value. This indicates a potential margin for further cost reductions and increased efficiency."
-  },
-  {
-    "title": "Electromagnetic Interference with Device-to-Device Communication in a Dual-Chamber Leadless Pacemaker During Temporary Mechanical Circulatory Support: Clinical and Experimental Evidence",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.10.006",
-    "doi": "10.1016/j.hrcr.2026.10.006",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Oct 01, 2026",
-    "date_ts": 1790812800.0,
-    "tags": [
-      "Devices"
     ],
     "hot": false
   }
