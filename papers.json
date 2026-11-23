@@ -1,5 +1,17 @@
 [
   {
+    "title": "Optimizing rate control in atrial fibrillation: conduction system pacing vs biventricular pacing",
+    "link": "https://doi.org/10.1093/eurheartj/ehag809",
+    "doi": "10.1093/eurheartj/ehag809",
+    "journal": "European Heart Journal",
+    "date": "Nov 23, 2026",
+    "date_ts": 1795392000.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Incidence and prevalence of atrial fibrillation: a systematic literature review of contemporary population-based studies",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006598?dgcid=rss_sd_all",
     "doi": null,
@@ -6183,17 +6195,5 @@
     ],
     "hot": false,
     "abstract": "Abstract\n                  \n                    Aims\n                    Pulsed field ablation (PFA) has emerged as a novel ablation modality for the treatment of cardiac arrhythmias and has rapidly reshaped contemporary electrophysiology practice. This article provides a comprehensive analysis on the mechanisms underlying the specific effects of PFA on myocardial, neural tissue structures, and the cardiac conduction system, integrating biophysical principles with preclinical and clinical evidence relevant to contemporary electrophysiology practice.\n                  \n                  \n                    Methods and results\n                    This document provides an exhaustive mechanistic explanation for the preferential effects of PFA on myocardium and the limits of the \u2018tissue-selectivity\u2019 concept. The complex interplay between cellular and tissue-level biophysics, biological responses, and tissue regenerative capacity that determines differential susceptibility to electroporation across tissues is analysed. Distinct patterns of lesion formation and maturation following PFA are also reviewed, highlighting the temporal and histopathological differences compared with radiofrequency ablation. Additionally, lesion formation in heterogeneous substrates is analysed, including fibrotic and adipose-rich myocardium, where local electric field distribution critically influences lesion durability.\n                  \n                  \n                    Conclusion\n                    The article further examines the interaction between pulsed electric fields and neural tissue, with emphasis on the phrenic nerve and intrinsic cardiac autonomic nervous system. While nerve stimulation and transient reversible conduction disturbances produced by reversible electroporation can occur during ablation, permanent neural injury appears extremely rare in current clinical experience. Finally, this manuscript examines current understanding regarding the specific effects of PFA on the cardiac conduction system, which according to the limited available evidence appear strongly dependent on electric field dose and anatomical proximity."
-  },
-  {
-    "title": "Early-onset atrial fibrillation leading to the diagnosis of Alstr\u00f6m syndrome: A case report",
-    "link": "https://doi.org/10.1016/j.hrcr.2026.10.011",
-    "doi": "10.1016/j.hrcr.2026.10.011",
-    "journal": "Heart Rhythm Case Rep",
-    "date": "Oct 01, 2026",
-    "date_ts": 1790812800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
   }
 ]
