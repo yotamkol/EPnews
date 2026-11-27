@@ -1,5 +1,29 @@
 [
   {
+    "title": "Interpreting Atrial Fibrillation Burden Accuracy in Long-Term Textile ECG Monitoring",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006793?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm O2",
+    "date": "Nov 27, 2026",
+    "date_ts": 1795758071.883724,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Risk of Stroke and Transient Ischemic Attack After Pulsed Field Ablation Compared with Thermal Ablation for Atrial Fibrillation: A Meta-Analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126030237?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 27, 2026",
+    "date_ts": 1795758071.770353,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "The\n                    <i>Lancet</i>\n                    Sudden Cardiac Death Commission: joining multi-disciplinary forces to combat sudden cardiac death",
     "link": "https://doi.org/10.1093/eurheartj/ehag307",
     "doi": "10.1093/eurheartj/ehag307",
@@ -10,6 +34,73 @@
       "SCD"
     ],
     "hot": false
+  },
+  {
+    "title": "Use of 3D Intracardiac Echocardiography for Concomitant Ablation of Atrial Fibrillation and Left Atrial Appendage Closure: A Step by Step Guide",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70560?af=R",
+    "doi": "10.1111/jce.70560",
+    "journal": "J Cardiovasc EP",
+    "date": "Nov 26, 2026",
+    "date_ts": 1795677712.0,
+    "tags": [
+      "AFib",
+      "Imaging"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  Intracardiac echocardiography (ICE) has traditionally played a secondary role in atrial fibrillation (AF) ablation and left atrial appendage closure (LAAC), with transesophageal echocardiography (TEE) remaining the standard for appendage imaging. The rise of pulsed field ablation (PFA) has increased interest in adjunctive tools for real\u2010time contact assessment, while trials such as OPTION have highlighted the clinical rationale for combining AF ablation with LAAC in a single procedure. This article describes a step\u2010by\u2010step procedural workflow for concomitant ablation and LAAC using 4D ICE to guide transseptal access, PFA catheter contact, and LAAC device sizing and deployment. Practical troubleshooting strategies for septal crossing and appendage visualization are also discussed."
+  },
+  {
+    "title": "Impact of Real\u2010Time Tissue Proximity Indicator Visualization and Pulsed Field Tag Coloring on Lesion Delivery and Procedural Workflow During Atrial Fibrillation Ablation Using the VARIPULSE Catheter",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70572?af=R",
+    "doi": "10.1111/jce.70572",
+    "journal": "J Cardiovasc EP",
+    "date": "Nov 26, 2026",
+    "date_ts": 1795677638.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    The updated VARIPULSE\u2122 software (V8.1.1.944) introduces a real\u2010time tissue proximity indicator, enhanced VISITAG\u2122 differentiation of complete versus incomplete applications, and grid\u2010based color coding for lesion assessment during pulsed field ablation (PFA). Its impact on procedural workflow and lesion delivery remains insufficiently defined.\n                  \n                  \n                    Methods and Results\n                    \n                      We compared 55 pulmonary vein isolation procedures performed with the updated software and 91 procedures performed with the previous version (V8.1.0.325) in 146 consecutive patients with atrial fibrillation. The updated software was associated with a higher number of PFA applications per procedure (19.76\u2009\u00b1\u20094.10 vs. 17.74\u2009\u00b1\u20093.90;\n                      p\n                      \u2009&lt;\u20090.001), with more applications across all pulmonary veins, without increases in fluoroscopy time, radiation dose, or procedure duration (54.06\u2009\u00b1\u200914.99 vs. 56.64\u2009\u00b1\u200917.23 min;\n                      p\n                      \u2009=\u20090.046). Procedure time decreased further after an initial learning curve of 30 cases. First\u2010pass isolation of all pulmonary veins was achieved in 83.6% versus 78.0% of procedures (\n                      p\n                      \u2009=\u20090.41).\n                    \n                  \n                  \n                    Conclusion\n                    These findings suggest modified, proximity\u2010guided lesion delivery without a relevant workflow penalty."
+  },
+  {
+    "title": "Impact of Cardiac CT\u2013Defined True Septal Right Ventricular Lead Position on Electrical and Structural Remodeling After Cardiac Resynchronization Therapy With Defibrillator Implantation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70566?af=R",
+    "doi": "10.1111/jce.70566",
+    "journal": "J Cardiovasc EP",
+    "date": "Nov 26, 2026",
+    "date_ts": 1795672761.0,
+    "tags": [
+      "Devices",
+      "Imaging"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    The impact of true right ventricular (RV) septal lead positioning on response to cardiac resynchronization therapy (CRT) remains controversial. We investigated the association between cardiac computed tomography (CT)\u2010defined RV defibrillator lead position and CRT response.\n                  \n                  \n                    Methods\n                    \n                      This retrospective study included 105 patients who underwent CRT\u2010defibrillator (CRT\u2010D) implantation and post\u2010implantation cardiac CT to assess RV lead position. All patients had documented biventricular pacing \u2265\u200990% at 6 months. Based on CT findings, patients were classified into a true septal RV lead group (\n                      n\n                      \u2009=\u200956) and a non\u2010septal group (\n                      n\n                      \u2009=\u200949). Changes in QRS duration and echocardiographic parameters at 6 months and long\u2010term clinical outcomes were compared between the groups. CRT response was defined as a\u2009\u2265\u200915% reduction in left ventricular end\u2010systolic volume (LVESV) at 6 months.\n                    \n                  \n                  \n                    Results\n                    \n                      Post\u2010implantation QRS duration was significantly shorter in the septal group than in the non\u2010septal group (136.2\u2009\u00b1\u200915.8 vs. 157.4\u2009\u00b1\u200921.8\u2009ms,\n                      p\n                      \u2009&lt;\u20090.001). At 6 months, the septal group showed greater improvements in left ventricular ejection fraction (\u03948.4\u2009\u00b1\u20099.7% vs. 3.8\u2009\u00b1\u20098.5%,\n                      p\n                      \u2009=\u20090.011) and LVESV (\u0394\u221231.8\u2009\u00b1\u200939.2 vs. \u221211.9\u2009\u00b1\u200939.1\u2009mL,\n                      p\n                      \u2009=\u20090.013), with a higher CRT response rate (73.2% vs. 42.9%,\n                      p\n                      \u2009=\u20090.003). Multivariable analysis demonstrated that true septal RV lead positioning was independently associated with CRT response (odds ratio, 3.33; 95% confidence interval, 1.13\u20139.78;\n                      p\n                      \u2009=\u20090.029). No significant between\u2010group differences were observed in mortality or heart failure hospitalization.\n                    \n                  \n                  \n                    Conclusions\n                    Cardiac CT\u2010defined true septal RV lead positioning was associated with greater electrical resynchronization and enhanced LV reverse remodeling after CRT\u2010D implantation. Anatomical RV lead position may represent an important modifiable determinant of CRT response."
+  },
+  {
+    "title": "Safety and Efficacy of Linear Ablation for Peri\u2010Mitral Annular Atrial Flutter Using the Pentaspline Pulse Field Ablation Catheter",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70569?af=R",
+    "doi": "10.1111/jce.70569",
+    "journal": "J Cardiovasc EP",
+    "date": "Nov 26, 2026",
+    "date_ts": 1795672569.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Despite widespread use of the pentaspline pulse field ablation (PFA) catheter to treat atrial fibrillation, there is limited data supporting its feasibility, safety, and effectiveness in creating linear lesions to treat peri\u2010mitral atrial flutter (AFL).\n                  \n                  \n                    Objective\n                    To assess the safety and efficacy of using the pentaspline PFA catheter to treat peri\u2010mitral AFL.\n                  \n                  \n                    Methods\n                    We performed a single\u2010center retrospective review of consecutive patients receiving catheter ablation using the pentaspline PFA catheter to treat peri\u2010mitral macroreentrant AFL.\n                  \n                  \n                    Results\n                    A total of 80 patients underwent catheter ablation for clinical peri\u2010mitral AFL. Ablation was guided by electroanatomic mapping in all patients. AFL was treated with a lateral mitral line in 38 patients (47.5%), an anteroseptal mitral line in 31 patients (38.8%), a septal mitral line in 6 patients (7.5%), and an anterolateral mitral line in 5 patients (6.3%). Acute procedural success was achieved in 70 patients (87.5%) using the pentaspline catheter; the remaining 10 patients (12.5%) required additional radiofrequency ablation to achieve procedural success. Acute complications occurred in 4 (5.0%) patients: 2 (2.5%) patients sustained electrical isolation of the left atrial appendage, 1 (1.3%) had transient hematuria, and 1 (1.3%) had pericarditis. After a median follow\u2010up of 322 days (IQR 192\u2013432), 42 patients (52.5%) had recurrent AFL. Of these patients, 26 patients underwent a repeat ablation procedure\u2014all demonstrated electrical breakthrough across the prior mitral line.\n                  \n                  \n                    Conclusions\n                    While the pentaspline catheter can achieve acute procedural success when treating peri\u2010mitral AFL with linear ablation of the mitral annulus, the long\u2010term efficacy of this treatment strategy is modest."
+  },
+  {
+    "title": "Atrial Pacing Capability of a Single\u2010Lead Implantable Cardioverter\u2010Defibrillator Incorporating an Atrial Floating Dipole",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70571?af=R",
+    "doi": "10.1111/jce.70571",
+    "journal": "J Cardiovasc EP",
+    "date": "Nov 26, 2026",
+    "date_ts": 1795672503.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Introduction\n                    The single\u2010lead DX implantable cardioverter\u2010defibrillator (ICD) combines the advantages of a conventional single\u2010lead ICD with atrial sensing capability provided by an integrated atrial floating dipole. While atrial sensing performance has been extensively documented, the ability of the floating atrial dipole to achieve atrial capture has not previously been investigated.\n                  \n                  \n                    Methods and Results\n                    \n                      Consecutive patients undergoing de novo implantation or generator replacement of a single\u2010lead DX ICD system at two Italian centers were prospectively enrolled. Acute atrial pacing was assessed using three configurations: bipolar pacing and two unipolar configurations employing either the proximal or distal atrial electrode. Atrial capture, pacing threshold (PT), impedance, and phrenic nerve stimulation were evaluated at pulse widths of 0.4 and 1.0\u2009ms. Twenty\u2010five patients (92% male; mean age 66.2\u2009\u00b1\u200910.1 years) were included. Acute atrial capture was achieved in 22 patients (88%) with bipolar pacing, compared with 18 (72%) and 17 (68%) using proximal and distal unipolar pacing, respectively (\n                      p\n                      \u2009=\u20090.122). Bipolar pacing yielded significantly lower PTs than unipolar configurations at both pulse widths (\n                      p\n                      \u2009&lt;\u20090.020). Median atrial sensing amplitude measured after connection to the ICD generator was 3.9\u2009mV (2.8\u20135.1).\n                    \n                  \n                  \n                    Conclusion\n                    Atrial capture through the floating atrial dipole of a single\u2010lead DX ICD system is feasible in the majority of patients, with bipolar pacing providing the highest capture rate and the lowest PTs. These findings provide proof\u2010of\u2010concept evidence supporting further development of single\u2010lead dual\u2010chamber sensing and pacing strategies using the DX platform."
   },
   {
     "title": "Author's reply to Interpreting Atrial Fibrillation Burden Accuracy in Long-Term Textile ECG Monitoring",
@@ -84,6 +175,31 @@
     "hot": false
   },
   {
+    "title": "Patient Characteristics Associated with Size and Location of Left Atrial Low Voltage Areas in Atrial Fibrillation Patients Undergoing Pulmonary Vein Isolation",
+    "link": "https://doi.org/10.1093/europace/euag336",
+    "doi": "10.1093/europace/euag336",
+    "journal": "EP Europace",
+    "date": "Nov 26, 2026",
+    "date_ts": 1795651200.0,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
+    "title": "When is a PVI \u201csuccessful\u201d? Characterising OCEAN/ALONE-AF Enrolment Criteria with Continuous Rhythm Monitoring",
+    "link": "https://doi.org/10.1093/europace/euag330",
+    "doi": "10.1093/europace/euag330",
+    "journal": "EP Europace",
+    "date": "Nov 26, 2026",
+    "date_ts": 1795651200.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "Abstract\n                  \n                    Background and Aims\n                    The OCEAN/ALONE-AF trials demonstrated low stroke risk in patients deemed AF-free 12 months post-ablation using intermittent Holter monitoring. Whether these patients had true AF freedom or had undetected AF remains unknown. We characterised the rhythm phenotype selected by this enrolment strategy.\n                  \n                  \n                    Methods\n                    SINGLE-SHOT CHAMPION and COMPARE-CRYO are randomised trials in paroxysmal AF patients undergoing ablation, with implantable cardiac monitors (ICM) used for continuous rhythm monitoring. This post-hoc analysis included patients with no clinical atrial tachyarrhythmia (ATA) recurrence within 12 months and CHA2DS2-VA \u22651. Monte Carlo simulations (n=5,000) using individual-level ICM data replicated the OCEAN/ALONE-AF eligibility criteria (two simulated 48-hour Holter). Misclassification rates and ATA burden were quantified.\n                  \n                  \n                    Results\n                    Of 411 patients, 232 were eligible (172 cryoballoon ablation, 60 pulsed-field ablation). Simulated intermittent Holter monitoring classified as ATA-free 223 patients (96.1%; 95% simulation interval [SI] 94.4\u201397.8%); however, 67 patients (30.0% 95% SI 28.8\u201331.3%) had ATA on ICM. Among these 223 patients, ATA burden was very low (&amp;lt;0.1%) in 20.6%, low (0.1\u20131.0%) in 8.7%, and moderate (&amp;gt;1.0%) in 0.7%. In an exploratory analysis, misclassification was numerically higher in patients with CHA2DS2-VA\u22653 (33.4% vs. 27.4%). Findings were robust across sensitivity analyses.\n                  \n                  \n                    Conclusions\n                    Approximately one-third of patients deemed ATA-free by OCEAN/ALONE-AF criteria had undetected ATA recurrence on ICM, with very low ATA burden (&amp;lt;0.1%). These findings suggest that the low stroke rates in OCEAN/ALONE-AF may reflect successful arrhythmia burden suppression rather than complete arrhythmia eradication, with intermittent Holter monitoring serving as a pragmatic surrogate for a low-burden state."
+  },
+  {
     "title": "Vaccination, inflammation, and atrial fibrillation: expanding the boundaries of cardiovascular prevention",
     "link": "https://doi.org/10.1093/eurheartj/ehag818",
     "doi": "10.1093/eurheartj/ehag818",
@@ -106,6 +222,58 @@
       "AFib"
     ],
     "hot": false
+  },
+  {
+    "title": "Incessant Fascicular Ventricular Tachycardia Ablation After MitraClip Procedure: A Case Report",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70512?af=R",
+    "doi": "10.1111/pace.70512",
+    "journal": "PACE",
+    "date": "Nov 25, 2026",
+    "date_ts": 1795604200.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  We report a case of a 52\u2010year\u2010old man with a history of non\u2010ischemic cardiomyopathy with reduced left ventricular ejection fraction and advanced renal failure, who presented with electrical storm 4 months after concomitant MitraClip and TriClip procedure for severe functional mitral and tricuspid regurgitation. Electrocardiography showed VT with right bundle branch block morphology and superior axis. The VT was refractory to antiarrhythmic drugs and cardioversion despite sedation and hemodynamic support. An emergent electrophysiological study was consistent with fascicular reentry originating from the left posterior fascicle, arising on a background of non\u2010ischemic cardiomyopathy with left ventricular scar. Catheter ablation targeting the left posterior fascicle rendered the VT non\u2010inducible. During one year of device\u2010monitored follow\u2010up, no recurrent ventricular tachycardia (VT) was documented."
+  },
+  {
+    "title": "Conduction Across the Donor\u2010Recipient Anastomosis as a Substrate for Atrial Arrhythmia After Heart Transplantation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70514?af=R",
+    "doi": "10.1111/pace.70514",
+    "journal": "PACE",
+    "date": "Nov 25, 2026",
+    "date_ts": 1795602318.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  Late atrial arrhythmia after heart transplantation is usually attributed to rejection, and the donor\u2010recipient anastomosis is assumed to isolate the native pulmonary venous cuff. We mapped it in three recipients treated with pulsed field ablation. In the first, native posterior wall electrograms cycled at half the tachycardia cycle length and conducted intermittently to the donor atrium until anastomotic ablation isolated them. The second had septal reentry despite a durable anastomosis; the third had reconnection of previously isolated pulmonary veins. Rejection was excluded in all. Although limited to three patients, these findings support mapping the anastomosis before attributing arrhythmia to rejection."
+  },
+  {
+    "title": "Leadless Pacemaker AVEIR VR: Performance of the Rate\u2010Responsive Sensor During Exercise",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70513?af=R",
+    "doi": "10.1111/pace.70513",
+    "journal": "PACE",
+    "date": "Nov 25, 2026",
+    "date_ts": 1795601617.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    To date, no published data have evaluated the exercise performance of the AVEIR VR leadless pacemaker.\n                  \n                  \n                    Objective\n                    We aimed to assess, during bicycle ergometer exercise testing, the relationship between the intrinsic sinus heart rate and the ventricular rate delivered by the AVEIR VR pacemaker. Patients with atrial fibrillation or those unable to perform exercise testing were excluded.\n                  \n                  \n                    Methods\n                    Patients underwent a bicycle ergometer exercise test using a workload protocol normalized to body weight (W/kg) according to their level of physical activity (sedentary or active). Simultaneous device interrogation was performed throughout the test. Intrinsic sinus heart rate and paced heart rate (or the projected paced heart rate in non\u2010pacemaker\u2010dependent patients) were recorded. Sensor latency was defined as the time required to achieve a 10\u2010beats/min increase in paced heart rate above baseline.\n                  \n                  \n                    Results\n                    Between January and October 2025, 13 patients were included (69.9 \u00b1 12.7 years; 23% women). Five patients were physically active, and eight patients were pacemaker\u2010dependent. The mean sensor latency was 3.5 min in pacemaker\u2010dependent patients and 2.7 min in non\u2010pacemaker\u2010dependent patients. Rate\u2010response gain required adjustment in 38.5% of patients following exercise testing. Base rate and/or the maximum heart rate response were modified in 76.9% of patients.\n                  \n                  \n                    Conclusion\n                    Exercise testing in patients implanted with an AVEIR VR leadless pacemaker demonstrated an overall appropriate rate\u2010response, although with a non\u2010negligible sensor latency. A substantial proportion of patients required post\u2010exercise optimization of rate\u2010response programming, highlighting the value of exercise\u2010guided device programming to improve physiological chronotropic adaptation."
+  },
+  {
+    "title": "Comparative Analysis of Multielectrode Mapping Catheter Designs in Scar\u2010Related Ventricular Tachycardia Ablation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70506?af=R",
+    "doi": "10.1111/pace.70506",
+    "journal": "PACE",
+    "date": "Nov 25, 2026",
+    "date_ts": 1795601486.0,
+    "tags": [
+      "VT"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    High\u2010density (HD) electroanatomical mapping is routinely used for scar\u2010related ventricular tachycardia (VT) ablation. The performance of multielectrode mapping catheters with different array designs has not been directly compared.\n                  \n                  \n                    Objective\n                    To compare the procedural performance of two different multielectrode mapping catheter designs\u2014a flexible spline catheter (SC) and a fixed paddle catheter (PC) in scar\u2010related VT ablation.\n                  \n                  \n                    Methods\n                    \n                      We retrospectively analyzed 104 consecutive patients who underwent left ventricular scar\u2010related VT ablation (SC,\n                      n\n                      \u00a0=\u00a044; PC,\n                      n\n                      \u00a0=\u00a060). The primary endpoint was acute procedural success, defined as non\u2010inducibility of the clinical VT after ablation. Secondary endpoints included procedural efficiency, VT inducibility, VT morphology burden, and procedural and in\u2010hospital adverse events.\n                    \n                  \n                  \n                    Results\n                    \n                      Acute procedural success was achieved in 95.5% of SC and 98.3% of PC procedures (\n                      p\u00a0\n                      =\u00a00.57). Procedure duration, LV mapping time, mapping point count, fluoroscopy time, and adverse\u2010event rates were comparable between groups. Overall VT inducibility (mechanical or programmed induction) was similar (81.8%\u00a0vs. 76.7%;\n                      p\u00a0\n                      =\u00a00.63); however, \u22653 distinct inducible VT morphologies were significantly more frequent with the spline catheter than with the paddle catheter (38.6%\u00a0vs. 11.7%;\n                      p\u00a0\n                      =\u00a00.002). During follow\u2010up, rates of VT recurrence (34.5%\u00a0vs. 20.0%;\n                      p\u00a0\n                      =\u00a00.19) and repeat ablation (13.8%\u00a0vs. 7.3%;\n                      p\u00a0\n                      =\u00a00.44) did not differ significantly between groups.\n                    \n                  \n                  \n                    Conclusions\n                    Both catheter designs achieved comparable acute procedural success, procedural efficiency, and safety in scar\u2010related VT ablation. Procedures with the spline catheter were associated with a higher inducible VT morphology burden; this hypothesis\u2010generating finding, which may partly reflect differences in substrate location, warrants prospective evaluation."
   },
   {
     "title": "Catheter Ablation Outcomes in Patients With Non\u2010Valvular Atrial Fibrillation and Resolved Atrial Thrombus",
@@ -2983,6 +3151,30 @@
     "tags": [
       "AFib",
       "AI"
+    ],
+    "hot": false
+  },
+  {
+    "title": "CT-Guided Transjugular Leadless Pacemaker Implantation Using Patient-Specific Fluoroscopic Working Projections in Repaired Tetralogy of Fallot",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.11.020",
+    "doi": "10.1016/j.hrcr.2026.11.020",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793491200.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Focal Onset Autonomic Seizures Masquerading as Reflex Syncope",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.11.019",
+    "doi": "10.1016/j.hrcr.2026.11.019",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793491200.0,
+    "tags": [
+      "Other"
     ],
     "hot": false
   },
@@ -5981,196 +6173,5 @@
     ],
     "hot": false,
     "abstract": "BACKGROUND:\n                    Patients with nonischemic cardiomyopathy (NICM) and ventricular tachycardia are at increased risk for adverse HF outcomes, and abnormal left ventricular (LV) substrate identified by endocardial unipolar and bipolar low-voltage areas (LVAs) may aid in risk stratification. This study assessed the association of LV unipolar and bipolar LVAs with end-stage HF outcomes in patients with NICM undergoing ventricular tachycardia ablation.\n                  \n                  \n                    METHODS:\n                    \n                      Patients with NICM and LV ejection fraction (EF) &lt;50% undergoing ventricular tachycardia ablation from 2019 to 2023 were included. Endocardial voltage mapping defined confluent (&gt;2 cm\n                      2\n                      ) unipolar LVAs as &lt;8.27 mV and bipolar LVAs as &lt;1.5 mV during sinus or paced rhythm. End-stage HF outcomes included HF death, LV assist device implantation, or heart transplant. Multivariable Cox proportional hazards regression analysis assessed associations between unipolar/bipolar LVAs and end-stage HF outcomes.\n                    \n                  \n                  \n                    RESULTS:\n                    \n                      One hundred eleven patients with NICM (mean age, 64.6\u00b19.8 years; 81.1% male; mean LVEF, 33.8\u00b111.7%) were included. During a median follow-up of 28.1 months (interquartile range, 18\u201346), 28 (25.2%) patients experienced end-stage HF outcomes. Unipolar LVA (hazard ratio, 1.03 per 1% increase [95% CI, 1.01\u20131.05];\n                      P\n                      =0.002) and LVEF (hazard ratio, 1.04 per 1% decrease [95% CI, 1.00\u20131.09];\n                      P\n                      =0.03) were independently associated with higher end-stage HF risk, while bipolar LVA was not (hazard ratio, 0.98, 1% increase [95% CI, 0.96\u20131.01];\n                      P\n                      =0.25). A 3-point risk score based on the Youden index, unipolar LVA \u226570% (2 points), 35% to 70% (1 point), and LVEF \u226425% (1 point), had 82.1% sensitivity and 77.1% specificity for predicting end-stage HF in scores \u22652.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    In patients with NICM undergoing ventricular tachycardia ablation, unipolar LVA and LVEF are independent predictors of end-stage HF outcomes. Integrating these predictors yields a prognostic score to identify patients at the highest risk of end-stage HF outcomes."
-  },
-  {
-    "title": "Serial Artificial Intelligence ECG-Derived Atrial Fibrillation Probability and Recurrence Risk After Pulsed Field Ablation",
-    "link": "https://doi.org/10.1161/circep.126.015183",
-    "doi": "10.1161/circep.126.015183",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Oct 08, 2026",
-    "date_ts": 1791417600.0,
-    "tags": [
-      "AFib",
-      "AI"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Pulsed field ablation is now widely used for atrial fibrillation (AF) ablation, but atrial tachyarrhythmia recurrence remains common and postablation risk tools are limited. We assessed whether a validated sinus\u2011rhythm artificial intelligence\u2014 enabled ECG AF probability score, and its early postablation change, predicts recurrence after pulsed field ablation.\n                  \n                  \n                    METHODS:\n                    We studied consecutive patients undergoing index pulsed field ablation across 3 Mayo Clinic sites (February 2024\u2013March 2025) with \u22651 sinus\u2011rhythm ECG within 180 days preprocedure. Baseline artificial intelligence\u2014enabled ECG AF score (range 0\u20131) was the mean across baseline ECGs. Recovery indices (RI30/60/90), defined as mean postprocedure artificial intelligence\u2014enabled ECG score within days 1\u201330/60/90 minus baseline, predicted post\u2011blanking recurrence using corresponding 30\u2011, 60\u2011, and 90\u2011day blanking windows. The primary outcome was time to first documented AF/atrial flutter/atrial tachycardia episode &gt;30 seconds, ascertained via clinic ECGs, ambulatory monitoring, and device interrogations. Cox regression adjusted for prespecified clinical and echocardiographic covariates assessed associations; Harrell C\u2011statistic quantified discrimination.\n                  \n                  \n                    RESULTS:\n                    \n                      Among 1052 patients (67\u00b110 years; 33% women), median baseline score was 0.35; 320 (30%) recurred over 188 days. Higher baseline score independently predicted recurrence (hazard ratio per 0.1 increase, 1.08 [95% CI, 1.03\u20131.14]). Scores rose on day 0 after ablation, then declined over subsequent weeks, with persistently higher, less\u2011improving trajectories among patients who recurred (time\u00d7recurrence interaction\n                      P\n                      &lt;0.001). Day 0 score was not independently associated with recurrence after adjustment. Attenuated early recovery (higher recovery index) was independently associated with recurrence, most robustly for RI-90 (hazard ratio per 0.1 increase, 1.15 [95% CI, 1.07\u20131.24]), and improved discrimination beyond baseline and covariates (C\u2011statistic, 0.63\u20130.67; \u0394C=0.04). Findings were consistent in a historical thermal ablation cohort.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    Baseline and early postablation dynamics of a sinus\u2011rhythm artificial intelligence\u2014enabled ECG AF probability score are associated with pulsed field ablation recurrence and may aid multivariable risk stratification; prospective validation is warranted."
-  },
-  {
-    "title": "Evolving Mechanisms on Mortality in Atrial Fibrillation: A 25\u2010Year National Death\u2010Certificate Analysis",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70524?af=R",
-    "doi": "10.1111/jce.70524",
-    "journal": "J Cardiovasc EP",
-    "date": "Oct 07, 2026",
-    "date_ts": 1791382775.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Atrial fibrillation (AF) prevalence has risen alongside an aging US population and wider adoption of contemporary therapies, yet population\u2010level changes in mechanisms of death among people with AF remain incompletely characterized. We used National Death Certificate Trends in AF Mortality data to assess 25\u2010year trends in AF\u2010related mortality and the contribution of heart failure (HF), stroke, myocardial infarction (MI), and dementia.\n                  \n                  \n                    Methods\n                    We conducted a retrospective analysis of CDC WONDER records for US decedents aged \u2265\u200935 years with AF listed as a contributing cause of death from 1999 to 2023, coinciding with the implementation of ICD\u201010 coding in the CDC database. We quantified all\u2010cause and cause\u2010specific mortality rates per 100\u2009000 and stratified trends by age, sex, and race. The analytic cohort included decedents with AF and at least one of four cardiovascular conditions (stroke, dementia, HF, or MI) listed as a primary or contributing cause of death. Confidence intervals were obtained from CDC WONDER outputs or calculated per CDC guidance.\n                  \n                  \n                    Results\n                    Among 3\u2009273\u2009015 decedents with AF noted on the death certificate, 461\u2009321 had HF, dementia, stroke, or MI listed as a contributing cause. HF emerged as the leading cause/contributor with a steep rise beginning in approximately 2008. Stroke rates were stable or declining, MI\u2010related mortality remained low and stable, while dementia, particularly stroke\u2010free dementia, increased significantly in adults \u2265\u200985 (outpacing stroke among the oldest White decedents since early 2000s). Non\u2010White groups exhibited higher stroke and HF mortality trends; women \u2265\u200985 had higher stroke\u2010related mortality than men.\n                  \n                  \n                    Conclusions\n                    Over 25 years, AF\u2010associated mortality patterns shifted toward HF and stroke\u2010free dementia while ischemic stroke and MI declined or stabilized. Findings highlight the need to expand AF care beyond stroke prevention to prioritize HF prevention/management, cognitive health, equitable AF\u2010care pathways to ensure broad access to therapies, and additional studies of targeted interventions to mitigate disease risks."
-  },
-  {
-    "title": "The Cardiac Calcium Handling Machinery is Remodeled in Friedreich\u2019s Ataxia",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028249?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Oct 07, 2026",
-    "date_ts": 1791342308.481401,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Impact of Procedural Experience Implanting a Next Generation Left Atrial Appendage Occluder \u2013VERITAS Study Insights",
-    "link": "https://doi.org/10.1093/europace/euag289",
-    "doi": "10.1093/europace/euag289",
-    "journal": "EP Europace",
-    "date": "Oct 07, 2026",
-    "date_ts": 1791331200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Reclassifying Single Lead Sinus Rhythm ECGs for Improved AF Recurrence Detection With Deep Learning",
-    "link": "https://doi.org/10.1161/circep.125.014659",
-    "doi": "10.1161/circep.125.014659",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Oct 07, 2026",
-    "date_ts": 1791331200.0,
-    "tags": [
-      "AI"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Atrial fibrillation (AF) remains a common outcome after catheter ablation, with recurrence observed in up to 50% of patients within 5 years. Despite extensive research, challenges remain in optimizing observation and prediction windows for AF recurrence assessment. Therefore, we developed and validated a novel deep learning model that reclassifies sinus rhythm based on past and future AF events using single-lead ECG strips from handheld devices.\n                  \n                  \n                    METHODS:\n                    Of the 558 participants, 308 with no documented recurrence during study follow-up contributed Benign Sinus strips, while 250 with documented recurrence contributed sinus rhythm strips recorded within \u00b13 days of an AF event, defined as Severe Sinus strips. Both clinical feature-based models and a deep learning model were used to classify these ECGs according to their proximity to AF recurrence events. Performance was evaluated using area under the receiver operating characteristic curve, accuracy, sensitivity, specificity, and F1-score.\n                  \n                  \n                    RESULTS:\n                    The strip-level pretrained deep learning model achieved an area under the receiver operating characteristic curve of 0.86, with sensitivity of 0.79, and specificity of 0.76. The complementary participant-level clinical feature-based Random Forest benchmark achieved an area under the receiver operating characteristic curve of 0.71, sensitivity of 0.58, and specificity of 0.69. Feature-based analyses identified associations involving heart-rate variability, mean R\u2013R interval, female sex, left atrial volume, and mean P-wave duration.\n                  \n                  \n                    CONCLUSIONS:\n                    Our dynamic deep learning model reclassifies 30-second single-lead sinus rhythm ECGs based on AF events within \u00b13 days, transforming a brief ECG snapshot into a summarized indicator of short-term AF risk."
-  },
-  {
-    "title": "Role of Lifestyle and Risk Factor Modification Clinics in Patients With Atrial Fibrillation: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
-    "link": "https://doi.org/10.1161/circep.126.015055",
-    "doi": "10.1161/circep.126.015055",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Oct 07, 2026",
-    "date_ts": 1791331200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Incidence and recurrence of atrial fibrillation (AF) are associated with several lifestyle risk factors. Lifestyle and risk factor modification (LRFM) clinics could have a role in comprehensively addressing AF from a holistic, patient-centered approach to improve clinical outcomes.\n                  \n                  \n                    METHODS:\n                    We performed a systematic review and meta-analysis of randomized controlled trials evaluating the role of LRFM clinics compared with usual care in patients with AF. The primary end point was atrial arrhythmia recurrence. Secondary end points were AF and heart failure-related hospitalization, cardiovascular death, stroke or transient ischemic attack, and quality-of-life.\n                  \n                  \n                    RESULTS:\n                    \n                      Eleven randomized controlled trials with a total of 3364 patients were included (5 randomized controlled trials performed in the context of AF ablation). Mean age was 58 to 73 years, 30% were female, and 18% had persistent AF. Duration of follow-up ranged from 3 to 24 months. LRFM clinics significantly reduced the primary end point of arrhythmia recurrence compared with usual care after catheter ablation (odds ratio, 0.34 [95% CI, 0.23\u20130.51];\n                      P\n                      &lt;0.001, I\n                      2\n                      =0%). LRFM clinics also reduced AF-related hospitalization (odds ratio, 0.70 [95% CI, 0.51\u20130.98];\n                      P\n                      =0.04, I\n                      2\n                      =21%) and improved quality-of-life (mean improvement on Short Form 36 Questionnaire, 8.90 [95% CI, 6.91\u201310.90];\n                      P\n                      &lt;0.001). There was no detected difference between LRFM clinics and usual care for heart failure-related hospitalization (\n                      P\n                      =0.16), cardiovascular deaths (\n                      P\n                      =0.79), or stroke/transient ischemic attack (\n                      P\n                      =0.83).\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    In this meta-analysis of randomized controlled trials, LRFM clinics reduced AF recurrence after ablation, reduced AF-related hospitalization, and improved quality of life. This study supports a comprehensive multidisciplinary lifestyle risk modification model of care to improve clinical outcomes in patients with AF."
-  },
-  {
-    "title": "NIMA-Related Kinase-7 Activates Atrial Cardiomyocyte NLRP3 Inflammasome and Associates With Occurrence of Postoperative Atrial Fibrillation",
-    "link": "https://doi.org/10.1161/circep.126.015003",
-    "doi": "10.1161/circep.126.015003",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Oct 07, 2026",
-    "date_ts": 1791331200.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Standardized Spark-Pattern Cut-Mode Electrosurgical Bailout Workflow for Difficult Left Bundle Branch Area Pacing Lead Advancement: Procedural and Follow-Up Outcomes From a 15-Patient Case Series",
-    "link": "https://doi.org/10.1161/circep.126.015435",
-    "doi": "10.1161/circep.126.015435",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Oct 07, 2026",
-    "date_ts": 1791331200.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Electrosurgical facilitation can aid difficult left bundle branch area pacing lead advancement, but standardized delivery patterns, reassessment logic, and follow-up lead performance remain insufficiently defined.\n                  \n                  \n                    METHODS:\n                    We retrospectively analyzed 15 consecutive patients undergoing standardized spark-pattern cut-mode electrosurgical bailout after conventional mechanical left bundle branch area pacing lead advancement failed. The generator was operated in unipolar cut-mode at 20 W; spark-pattern delivery denoted brief sliding contact to the exposed cathode segment followed by immediate mechanical readvancement and ECG/electrogram reassessment. A prestandardization sustain-mode polymorphic ventricular tachycardia/ventricular fibrillation event outside the 15-patient cohort informed the safety workflow.\n                  \n                  \n                    RESULTS:\n                    Conventional advancement failed in all included patients. Across 50 target-site advancement attempts, spark-pattern cut-mode assistance was activated at 15 final target sites, requiring 1.5\u00b10.6 cycles per patient. Procedural success of left bundle branch area pacing lead deployment was achieved in 15/15. V1 terminal rightward progression occurred in 14/15, jump in 14/15, and split/discrete components in 12/15. Spark-associated premature ventricular complexes occurred in 15/15 but were isolated and self-limited; no nonsustained ventricular tachycardia, sustained ventricular tachycardia, polymorphic ventricular tachycardia/ventricular fibrillation, defibrillation, or hemodynamic instability occurred during the standardized workflow. Mean follow-up was 400\u00b1170 days; no clinically documented lead malfunction, dislodgement, microdislodgement, loss requiring revision, septal perforation, ventricular septal defect, pericardial effusion, or reintervention occurred.\n                  \n                  \n                    CONCLUSIONS:\n                    A standardized spark-pattern cut-mode bailout workflow provides a reproducible framework for difficult left bundle branch area pacing lead deployment. Progression markers should be distinguished from procedural success, and follow-up surveillance remains essential. Larger studies with longer follow-up and dedicated lead-integrity testing are required before general adoption."
-  },
-  {
-    "title": "A broader VISION of post-operative atrial fibrillation management",
-    "link": "https://doi.org/10.1093/eurheartj/ehag801",
-    "doi": "10.1093/eurheartj/ehag801",
-    "journal": "European Heart Journal",
-    "date": "Oct 06, 2026",
-    "date_ts": 1791244800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Discharge treatment patterns as risk markers after post-operative atrial fibrillation",
-    "link": "https://doi.org/10.1093/eurheartj/ehag799",
-    "doi": "10.1093/eurheartj/ehag799",
-    "journal": "European Heart Journal",
-    "date": "Oct 06, 2026",
-    "date_ts": 1791244800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Biventricular vs conduction system pacing after atrioventricular node ablation for heart failure with atrial fibrillation: the CONDUCT-AF trial",
-    "link": "https://doi.org/10.1093/eurheartj/ehag699",
-    "doi": "10.1093/eurheartj/ehag699",
-    "journal": "European Heart Journal",
-    "date": "Oct 06, 2026",
-    "date_ts": 1791244800.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "Abstract\n                  \n                    Background and Aims\n                    Randomized evidence comparing conduction system pacing (CSP) and biventricular pacing (BVP) following atrioventricular node ablation in patients with refractory atrial fibrillation (AF) and heart failure (HF) remains limited. This study evaluated whether CSP with left bundle branch area pacing is non-inferior to BVP in patients undergoing atrioventricular node ablation.\n                  \n                  \n                    Methods\n                    CONDUCT-AF was an investigator-initiated, multicentre, randomized trial conducted across 10 European centres. Patients with refractory AF, HF with left ventricular ejection fraction (LVEF) &amp;lt; 50%, narrow QRS duration (\u2264120\u2005ms), and N-terminal pro-B-type natriuretic peptide &amp;gt; 600\u2005ng/L were randomized 1:1 to CSP or BVP. The primary endpoint was the change in LVEF after 6 months, assessed by an independent core laboratory. Secondary endpoints included echocardiographic, clinical, and procedural outcomes. Analyses followed the intention-to-treat principle.\n                  \n                  \n                    Results\n                    Eighty-two patients were randomized (mean age 72 \u00b1 7 years, 46% male). At 6 months, LVEF improved similarly in CSP {from 36% [95% confidence interval (CI) 33\u201339] to 46% [95% CI 44\u201349]; P &amp;lt; .001} and BVP group [from 34% (95% CI 31\u201336) to 46% (95% CI 43\u201349); P &amp;lt; .001]. The between-group difference was .4% (95% CI \u22123.1\u20133.8; P = .002 for non-inferiority). Changes in left ventricular volumes, clinical parameters, and composite endpoint of worsening HF or cardiovascular death were comparable between groups. Paced QRS [mean difference \u221214\u2005ms (95% CI \u221219 to \u22129; P &amp;lt; .001)] and procedural and fluoroscopy times were significantly shorter with CSP compared with BVP.\n                  \n                  \n                    Conclusions\n                    In HF patients with refractory AF undergoing atrioventricular node ablation, CSP with left bundle branch area pacing was non-inferior to BVP for LVEF improvement at 6 months, providing comparable clinical outcomes and a favourable procedural profile."
-  },
-  {
-    "title": "Incidence, Process of Care, and Outcomes of In-Hospital Cardiac Arrest in China: A Multicenter Prospective Registry Study",
-    "link": "https://doi.org/10.1161/circulationaha.126.080404",
-    "doi": "10.1161/circulationaha.126.080404",
-    "journal": "Circulation",
-    "date": "Oct 06, 2026",
-    "date_ts": 1791244800.0,
-    "tags": [
-      "SCD"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    In-hospital cardiac arrest (IHCA) is an acute event associated with high mortality. Although survival has improved in high-income countries, contemporary multicenter data from low- and middle-income countries remain scarce, limiting global benchmarking and the identification of system-level opportunities for improvement.\n                  \n                  \n                    METHODS:\n                    This cohort study used data from the BASIC-IHCA (Baseline Investigation of In-Hospital Cardiac Arrest) registry. Adult patients (\u226518 years) who experienced IHCA and received cardiopulmonary resuscitation between July 1, 2019, and December 31, 2020, at 37 hospitals across 29 provinces in China were included. The primary outcome was survival to 30 days or hospital discharge. Secondary outcomes included return of spontaneous circulation, 6- and 12-month survival, and favorable neurological outcome (Cerebral Performance Category score 1\u20132). Process measures focused on the timeliness of resuscitation response and the implementation of postresuscitation interventions.\n                  \n                  \n                    RESULTS:\n                    Among 17\u2009602 patients (median age, 66 years; 65.5% male), the annual incidence of adult IHCA was 4.1 per 1000 admissions. Cardiac etiology was identified in 6569 (37.3%) patients, and 2380 (13.5%) presented with initial shockable rhythm. Among all patients, 16\u2009872 (95.9%) received cardiopulmonary resuscitation within 1 minute; timely defibrillation or epinephrine was achieved in 71.4% and 84.4% of patients with initial shockable and nonshockable rhythms, respectively. Sustained return of spontaneous circulation was achieved in 6200 (35.2%) patients, of whom 222 (3.6%) received temperature control therapy and 320 (5.2%) underwent coronary angiography. Overall, 1610 (9.1%) patients survived to 30 days or discharge, with 1241 (7.1%) having a favorable neurological outcome. At 12 months, 1075 (6.1%) patients remained alive, and 986 (5.6%) had a favorable neurological outcome.\n                  \n                  \n                    CONCLUSIONS:\n                    This multicenter registry highlights a substantial burden of IHCA in China, with markedly low survival rates. Despite prompt initial resuscitation, critical gaps persist in postresuscitation care. Systemic and cultural factors, including the infrequent use of do not attempt cardiopulmonary resuscitation orders, may further contribute to survival disparities. These findings suggest several system-level opportunities to improve IHCA outcomes, including structured response systems, optimized critical care resource allocation, and greater integration of advanced care planning."
-  },
-  {
-    "title": "Implantable Cardioverter Defibrillators in Hypertrophic Cardiomyopathy: Global Insights From Worldwide Registries",
-    "link": "https://doi.org/10.1161/circulationaha.126.079687",
-    "doi": "10.1161/circulationaha.126.079687",
-    "journal": "Circulation",
-    "date": "Oct 06, 2026",
-    "date_ts": 1791244800.0,
-    "tags": [
-      "Devices",
-      "Genetics"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Electrogram Determinants of Acute Electrogram Attenuation During Pulmonary Vein Pulsed Field Ablation",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70513?af=R",
-    "doi": "10.1111/jce.70513",
-    "journal": "J Cardiovasc EP",
-    "date": "Oct 06, 2026",
-    "date_ts": 1791294098.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    Pulsed field ablation (PFA) is a nonthermal modality for pulmonary vein isolation in atrial fibrillation. Whether baseline intracardiac electrogram characteristics are associated with acute electrogram attenuation during PFA remains unclear.\n                  \n                  \n                    Objectives\n                    To evaluate the individual and combined associations of baseline bipolar amplitude and peak frequency (PF) with acute electrogram attenuation during pulmonary vein PFA.\n                  \n                  \n                    Methods\n                    Thirty\u2010four consecutive patients undergoing pulmonary vein PFA were retrospectively analyzed. Paired bipolar electrograms were recorded immediately before and after the first PFA application from the same electrode pair and catheter position. Logistic regression, receiver operating characteristic (ROC) analysis, and nonlinear Hill modeling were performed. Additional analyses accounted for within\u2010patient clustering and evaluated alternative attenuation thresholds, pulmonary vein regional heterogeneity, and dynamic\u2212range constraints.\n                  \n                  \n                    Results\n                    Among 687 electrograms analyzed, marked attenuation (\u2265\u200980%) occurred in 59.1%. Both baseline amplitude and PF were significantly associated with marked attenuation. ROC analysis demonstrated strong discrimination for amplitude (AUC 0.894) and moderate discrimination for PF (AUC 0.722), with ROC\u2010derived cutoffs of 0.58\u2009mV and 206\u2009Hz, respectively. Both parameters remained independently associated with attenuation in multivariable analysis. Nonlinear modeling demonstrated distinct response patterns, with amplitude showing a gradual, broad dynamic\u2212range relationship and PF exhibiting a steeper, threshold\u2010like transition. Integration of amplitude and PF enabled graded stratification of attenuation across combined electrogram domains. These associations were preserved after accounting for within\u2010patient clustering and were directionally consistent across alternative attenuation thresholds.\n                  \n                  \n                    Conclusions\n                    Baseline bipolar amplitude and PF were independently associated with acute electrogram attenuation during pulmonary vein PFA. Their integration provides complementary, non\u2010redundant information and supports a structured electrogram\u2010based framework for interpreting acute electrogram response. These findings are hypothesis\u2010generating and require validation against durable pulmonary vein isolation, late reconnection, and clinical outcomes."
-  },
-  {
-    "title": "Temporal Association Between Intrathoracic Impedance and Tachyarrhythmia Occurrence",
-    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70526?af=R",
-    "doi": "10.1111/jce.70526",
-    "journal": "J Cardiovasc EP",
-    "date": "Oct 06, 2026",
-    "date_ts": 1791293934.0,
-    "tags": [
-      "Other"
-    ],
-    "hot": false,
-    "abstract": "ABSTRACT\n                  \n                    Background\n                    This study examined whether daily intrathoracic impedance is temporally associated with the occurrence of atrial fibrillation (AF) and ventricular tachycardia (VT).\n                  \n                  \n                    Methods\n                    \n                      This retrospective cohort study included 117 patients with cardiac implantable devices, followed for a median of 668 days, corresponding to 89\u2009637 person\u2010days. Recurrent AF occurred in 28% of patients (mean AF burden 0.27), while 773 VT episodes occurred in 15% of patients. Daily intrathoracic impedance, expressed relative to a reference impedance, was analyzed to identify events of impedance decrease and increase. The temporal association between impedance events and tachyarrhythmia burden was quantified using a patient\u2010specific relational strength measure (\n                      \u03b3\n                      ), which compares post\u2010event and pre\u2010event tachyarrhythmia burden.\n                    \n                  \n                  \n                    Results\n                    \n                      For impedance decreases, event\u2010related\n                      \u03b3\n                      for AF was higher than control\n                      \u03b3\n                      computed for randomly placed events (median 0.68 vs. 0.48,\n                      p\n                      \u2009=\u20090.04). For VT, event\u2010related\n                      \u03b3\n                      did not differ significantly from control\n                      \u03b3\n                      (six patients; median 0.52 vs. 0.21,\n                      p\n                      \u2009=\u20090.82). No significant differences were observed for impedance increases in either the AF or VT analysis. In the pooled episode\u2010level analysis, an impedance decrease was associated with a shorter time to VT occurrence than an impedance increase (median 4 vs. 7 days,\n                      p\n                      \u2009&lt;\u20090.001), with 48% of VT episodes occurring within 3 days after an impedance decrease.\n                    \n                  \n                  \n                    Conclusion\n                    A decrease in intrathoracic impedance is temporally associated with subsequent AF occurrence and, at the episode level, with a shorter time to VT. These findings suggest that daily intrathoracic impedance may provide information on short\u2010term changes preceding tachyarrhythmia occurrence."
   }
 ]
