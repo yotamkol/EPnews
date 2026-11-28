@@ -1,5 +1,53 @@
 [
   {
+    "title": "Author's reply to: Too much emphasis on extraction in bacteremia with Staphylococcus aureus without echocardiographic findings on the cardiac implanted electronic device.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126030146?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 28, 2026",
+    "date_ts": 1795843193.273099,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "One Puncture, One Catheter: Upper-Extremity Venous Access With Robotic Magnetic Navigation for Right Atrial Ablation in Adults With Congenital or Complex Cardiac Anatomy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126030262?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 28, 2026",
+    "date_ts": 1795843193.273066,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Too much emphasis on extraction in bacteremia with <em>Staphylococcus aureus</em> without echocardiographic findings on the cardiac implanted electronical device",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126030134?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 28, 2026",
+    "date_ts": 1795843193.273031,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Ischemic Stroke Risk in Women with Atrial Fibrillation: A Meta-Regression Analysis of Temporal Trends",
+    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126030249?dgcid=rss_sd_all",
+    "doi": null,
+    "journal": "Heart Rhythm",
+    "date": "Nov 28, 2026",
+    "date_ts": 1795843193.272899,
+    "tags": [
+      "AFib"
+    ],
+    "hot": false
+  },
+  {
     "title": "Interpreting Atrial Fibrillation Burden Accuracy in Long-Term Textile ECG Monitoring",
     "link": "https://www.sciencedirect.com/science/article/pii/S2666501826006793?dgcid=rss_sd_all",
     "doi": null,
@@ -34,6 +82,32 @@
       "SCD"
     ],
     "hot": false
+  },
+  {
+    "title": "Mapping the Right Atrial Ganglionated Plexuses Using the Novel Tau20\u2010RETROmapping System",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jce.70551?af=R",
+    "doi": "10.1111/jce.70551",
+    "journal": "J Cardiovasc EP",
+    "date": "Nov 26, 2026",
+    "date_ts": 1795698616.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    Ectopy\u2010triggering ganglionated plexuses (ET\u2010GPs) from the intrinsic cardiac autonomic nervous system are proposed upstream drivers of atrial fibrillation (AF). The investigational Tau20\u2010RETROmapping system (TauRhythm Therapies, UK) was developed to identify ET\u2010GPs and was used to characterize their distribution in the right atrium (RA) of patients undergoing repeat AF ablation.\n                  \n                  \n                    Objective\n                    To characterize the anatomical distribution and nature of RA\u2010GP sites using the Tau20\u2010RETROmapping system.\n                  \n                  \n                    Methods\n                    Patients undergoing re\u2010do AF ablation were recruited. The Tau20\u2010RETROmapping system was used to map RA ET\u2010GP sites by delivering synchronized high\u2010frequency stimulation (HFS; 50\u2009mA, 40\u2009Hz, 80\u2009ms, up to 15 trains) via a contact\u2010force\u2010sensing ablation catheter. If sinus rhythm could not be maintained, AV\u2010dissociating\u2010GP (AVD\u2010GP) sites were identified using continuous HFS (50\u2009mA, 20\u2009Hz, 10\u2009s). All test sites were annotated on a 3D electroanatomic map.\n                  \n                  \n                    Results\n                    54 patients underwent RA\u2010GP mapping (63\u2009\u00b1\u20098\u2009yrs, 67% male, paroxysmal AF: 35%) with 72\u2009\u00b1\u200916 GP sites tested to identify 9.7\u2009\u00b1\u20093.2 GPs. Mapping strategies included ET\u2010GP only (29 patients), mixed ET\u2010GP/AVD\u2010GP (20), and AVD\u2010GP only (5). ET\u2010GPs clustered at the inferior right free wall, right atrial appendage (RAA)\u2010superior vena cava (SVC) junction, RAA\u2010RA interface, anterolateral wall, and posterior intra\u2010atrial septum. Few GP sites were identified on the posterior wall, and none on the cavotricuspid isthmus. AVD\u2010GPs were almost exclusively septal. Notable responses included SVC\u2010induced ectopy, AF initiation, and pulmonary vein ectopy during RA stimulation.\n                  \n                  \n                    Conclusion\n                    The novel Tau20\u2010RETROmapping system enables systematic RA ET\u2010GP mapping. Distinct GP clustering patterns and observed electrophysiological phenomena may enhance understanding of AF mechanisms, particularly non\u2010pulmonary vein triggers."
+  },
+  {
+    "title": "Myocardial Scar\u2010Detected Cardiac Magnetic Resonance on Left Bundle\u2010Branch Area Pacing Outcomes: A Systematic Review",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/pace.70504?af=R",
+    "doi": "10.1111/pace.70504",
+    "journal": "PACE",
+    "date": "Nov 26, 2026",
+    "date_ts": 1795687885.0,
+    "tags": [
+      "Imaging"
+    ],
+    "hot": false,
+    "abstract": "ABSTRACT\n                  \n                    Background\n                    The implantation of conduction system pacing (CSP), in particular left bundle branch area pacing (LBBAP), involves deep septal lead deployment 1.5\u00a0cm distal to the His bundle to achieve subendocardial capture of the left bundle branch; hence, myocardial scar is theoretically a critical determinant of both procedural success and subsequent CRT response. This review aimed to evaluate the impact of myocardial scar assessed by cardiac magnetic resonance late gadolinium enhancement (CMR\u2010LGE) on LBBAP outcomes.\n                  \n                  \n                    Methods\n                    Three electronic databases (Scopus, PubMed, and ScienceDirect) were searched for eligible studies from database inception until June, 12 2026. When at least two studies reported comparable quantitative outcomes, random\u2010effects meta\u2010analysis was performed using RStudio.\n                  \n                  \n                    Results\n                    \n                      Eight studies (\n                      n\n                      = 581 patients) met the eligibility criteria. Qualitatively, the presence of myocardial scar attenuates lead placement and electrical resynchronization, with smaller reductions in left ventricular activation and dyssynchrony, wider paced QRS duration, and more loss of conduction\u2010system capture. Higher scar burden was associated with attenuated reverse remodeling (LVEF improvement, LVESV reduction, and LVEDD reduction). Higher scar burden was also associated with a higher risk of heart failure hospitalization, ventricular arrhythmia, and all\u2010cause mortality. Quantitatively, CRT responders had lower baseline global LGE burden (MD \u22126.27%; 95% CI \u221210.84 to \u22121.70;\n                      p\n                      = 0.0072) and septal LGE burden (MD \u22127.94%; 95% CI \u221211.87 to \u22124.00;\n                      p\n                      \u00a0&lt;\u00a00.0001) than non\u2010responders.\n                    \n                  \n                  \n                    Conclusion\n                    Myocardial scar may determine LBBAP outcomes, with the septal scar emerging as the most consistent predictor of worse outcomes. This qualitative early analysis supports pre\u2010procedural LGE\u2010CMR in selected LBBAP patients."
   },
   {
     "title": "Use of 3D Intracardiac Echocardiography for Concomitant Ablation of Atrial Fibrillation and Left Atrial Appendage Closure: A Step by Step Guide",
@@ -3155,6 +3229,54 @@
     "hot": false
   },
   {
+    "title": "Rescue Left Bundle Branch Area Pacing in a Patient with Late Loss of CRT Response after Long-Term Super-Response",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.11.021",
+    "doi": "10.1016/j.hrcr.2026.11.021",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793491200.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Extravascular ICD Implantation in a Pacing-Dependent Patient with Congenitally Corrected Transposition of the Great Arteries and Dextrocardia",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.11.024",
+    "doi": "10.1016/j.hrcr.2026.11.024",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793491200.0,
+    "tags": [
+      "Devices"
+    ],
+    "hot": false
+  },
+  {
+    "title": "Paradoxical Ventriculoatrial Interval Shortening in a Concealed Decremental Atrioventricular Accessory Pathway: Revisiting the Mechanism of the Gap Phenomenon",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.11.025",
+    "doi": "10.1016/j.hrcr.2026.11.025",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793491200.0,
+    "tags": [
+      "SVT"
+    ],
+    "hot": false
+  },
+  {
+    "title": "From steam pop to safe stop: Redo Lattice-Tip Pulsed Field Ablation in Wolff\u2013Parkinson\u2013White Syndrome",
+    "link": "https://doi.org/10.1016/j.hrcr.2026.11.023",
+    "doi": "10.1016/j.hrcr.2026.11.023",
+    "journal": "Heart Rhythm Case Rep",
+    "date": "Nov 01, 2026",
+    "date_ts": 1793491200.0,
+    "tags": [
+      "Other"
+    ],
+    "hot": false
+  },
+  {
     "title": "CT-Guided Transjugular Leadless Pacemaker Implantation Using Patient-Specific Fluoroscopic Working Projections in Repaired Tetralogy of Fallot",
     "link": "https://doi.org/10.1016/j.hrcr.2026.11.020",
     "doi": "10.1016/j.hrcr.2026.11.020",
@@ -6051,127 +6173,5 @@
       "Imaging"
     ],
     "hot": false
-  },
-  {
-    "title": "The Indispensable Role of Sham Controls in Evaluating Interventional Therapies: The Need for Objective Rigor in Atrial Fibrillation Ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028614?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Oct 09, 2026",
-    "date_ts": 1791516421.159636,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Clinical Implications of Hemolysis after Pulsed Field Ablation - What Can We Learn from Benchtop Models and Preclinical Experiments",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028584?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Oct 08, 2026",
-    "date_ts": 1791429672.593246,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Performance and Limitations of Multipolar Electrogram Mapping in Scar-Related Ventricular Tachycardia",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028560?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Oct 08, 2026",
-    "date_ts": 1791429672.59322,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Feasibility and Acute Hemodynamic Outcomes of S3 Functional Mapping During Scar-Related Ventricular Tachycardia Ablation",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028547?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Oct 08, 2026",
-    "date_ts": 1791429672.59319,
-    "tags": [
-      "VT"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Safety and Efficacy of Pulsed Field Ablation for Atrial Fibrillation in Patients With Chronic Kidney Disease",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028572?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Oct 08, 2026",
-    "date_ts": 1791429672.593162,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Heart Rhythm Society and Heart Rhythm Advocates position statement: Prior authorization in cardiac electrophysiology: Evidence, policy, and reform",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126027499?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Oct 08, 2026",
-    "date_ts": 1791429672.593122,
-    "tags": [
-      "Other"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Efficacy and Safety of Flecainide Versus Amiodarone for the Cardioversion of paroxysmal Atrial Fibrillation in Patients with Coronary Artery Disease without evidence of residual ischemia: The FLECA-ED Randomized Clinical Trial",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028559?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Oct 08, 2026",
-    "date_ts": 1791429672.593084,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Why Sham Studies Are a Sham in 2026! Sham-controlled AF ablation trials as a case study",
-    "link": "https://www.sciencedirect.com/science/article/pii/S1547527126028602?dgcid=rss_sd_all",
-    "doi": null,
-    "journal": "Heart Rhythm",
-    "date": "Oct 08, 2026",
-    "date_ts": 1791429672.592952,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Electrophysiologist-Led Deep Sedation for Pulsed Field Ablation of Atrial Fibrillation Using a Bipolar Contact Force Focal Catheter: The DEEP-PFA Randomized Controlled Trial",
-    "link": "https://doi.org/10.1161/circep.126.015420",
-    "doi": "10.1161/circep.126.015420",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Oct 08, 2026",
-    "date_ts": 1791417600.0,
-    "tags": [
-      "AFib"
-    ],
-    "hot": false
-  },
-  {
-    "title": "Value of Left Ventricular Low Voltage Area and Ejection Fraction in Predicting End-Stage Heart Failure Outcomes After Ventricular Tachycardia Ablation in Patients With Non-Ischemic Cardiomyopathy",
-    "link": "https://doi.org/10.1161/circep.126.014886",
-    "doi": "10.1161/circep.126.014886",
-    "journal": "Circ: Arrhythmia & EP",
-    "date": "Oct 08, 2026",
-    "date_ts": 1791417600.0,
-    "tags": [
-      "VT",
-      "Genetics"
-    ],
-    "hot": false,
-    "abstract": "BACKGROUND:\n                    Patients with nonischemic cardiomyopathy (NICM) and ventricular tachycardia are at increased risk for adverse HF outcomes, and abnormal left ventricular (LV) substrate identified by endocardial unipolar and bipolar low-voltage areas (LVAs) may aid in risk stratification. This study assessed the association of LV unipolar and bipolar LVAs with end-stage HF outcomes in patients with NICM undergoing ventricular tachycardia ablation.\n                  \n                  \n                    METHODS:\n                    \n                      Patients with NICM and LV ejection fraction (EF) &lt;50% undergoing ventricular tachycardia ablation from 2019 to 2023 were included. Endocardial voltage mapping defined confluent (&gt;2 cm\n                      2\n                      ) unipolar LVAs as &lt;8.27 mV and bipolar LVAs as &lt;1.5 mV during sinus or paced rhythm. End-stage HF outcomes included HF death, LV assist device implantation, or heart transplant. Multivariable Cox proportional hazards regression analysis assessed associations between unipolar/bipolar LVAs and end-stage HF outcomes.\n                    \n                  \n                  \n                    RESULTS:\n                    \n                      One hundred eleven patients with NICM (mean age, 64.6\u00b19.8 years; 81.1% male; mean LVEF, 33.8\u00b111.7%) were included. During a median follow-up of 28.1 months (interquartile range, 18\u201346), 28 (25.2%) patients experienced end-stage HF outcomes. Unipolar LVA (hazard ratio, 1.03 per 1% increase [95% CI, 1.01\u20131.05];\n                      P\n                      =0.002) and LVEF (hazard ratio, 1.04 per 1% decrease [95% CI, 1.00\u20131.09];\n                      P\n                      =0.03) were independently associated with higher end-stage HF risk, while bipolar LVA was not (hazard ratio, 0.98, 1% increase [95% CI, 0.96\u20131.01];\n                      P\n                      =0.25). A 3-point risk score based on the Youden index, unipolar LVA \u226570% (2 points), 35% to 70% (1 point), and LVEF \u226425% (1 point), had 82.1% sensitivity and 77.1% specificity for predicting end-stage HF in scores \u22652.\n                    \n                  \n                  \n                    CONCLUSIONS:\n                    In patients with NICM undergoing ventricular tachycardia ablation, unipolar LVA and LVEF are independent predictors of end-stage HF outcomes. Integrating these predictors yields a prognostic score to identify patients at the highest risk of end-stage HF outcomes."
   }
 ]
